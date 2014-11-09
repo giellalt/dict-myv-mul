@@ -254,26 +254,30 @@
 <Citg>
 <Cit>
 <WdCtn>
-<Wd CyrId="сась">saś</Wd>
+<Wd myvId="сась">saś</Wd>
 </WdCtn>
 <tk3 isa="ws"/>
 <WdCtn>
-<Wd CyrId="ага">aga</Wd>
+<Wd myvId="ага">aga</Wd>
 </WdCtn>
 <tk3 isa="ws"/>
 <WdCtn>
-<Wd CyrId="баба">baba</Wd>
+<Wd myvId="баба">baba</Wd>
 </WdCtn>
 <tk3 isa="ws"/>
 <WdCtn>
-<Wd CyrId="иваннди">ivańńd́i</Wd>
+<Wd myvId="иваннди">ivańńd́i</Wd>
 </WdCtn>
 <tk3 isa="ws"/>
 <WdCtn>
-<Wd CyrId="прашчэŋганкса">praščeŋgaŋksa</Wd>
+<Wd myvId="прашчэŋганкса">praščeŋgaŋksa</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="mdf">
+<GeoU>Temn</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="VIII"/>
 <Pg vl="372"/>
@@ -330,26 +334,30 @@
 <Citg>
 <Cit>
 <WdCtn>
-<Wd CyrId="колма">kolma</Wd>
+<Wd myvId="колма">kolma</Wd>
 </WdCtn>
 <tk3 isa="ws"/>
 <WdCtn>
-<Wd CyrId="лавка">lavka</Wd>
+<Wd myvId="лавка">lavka</Wd>
 </WdCtn>
 <tk3 isa="ws"/>
 <WdCtn>
-<Wd CyrId="вельф">v́eĺf</Wd>
+<Wd myvId="вельф">v́eĺf</Wd>
 </WdCtn>
 <tk3 isa="ws"/>
 <WdCtn>
-<Wd CyrId="агунь">aguń</Wd>
+<Wd myvId="агунь">aguń</Wd>
 </WdCtn>
 <tk3 isa="ws"/>
 <WdCtn>
-<Wd CyrId="ётафтозь">jotaftə̑ź</Wd>
+<Wd myvId="ётафтозь">jotaftə̑ź</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="mdf">
+<GeoU>P</GeoU>
+</GeoUBz>
+</GeoUB>
 <CitT xml:lang="deu">Agu wurde durch drei Läden geführt.</CitT>
 </Citg>
 </HWB>
@@ -383,34 +391,34 @@
 </GeoUB>
 </PhnUBlock>
 </PhnUG>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><WdCtn><Wd CyrId="агу">agu</Wd></WdCtn></DrvSt></DrvStCtn></DrvG>
+<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><WdCtn><Wd myvId="агу">agu</Wd></WdCtn></DrvSt></DrvStCtn></DrvG>
 <SenseGroup>
 <Sense vl="notGiven"/>
 </SenseGroup>
 <Citg>
 <Cit>
 <WdCtn>
-<Wd edit="MK" CyrId="талили">taĺiĺi</Wd>
+<Wd edit="MK" myvId="талили">taĺiĺi</Wd>
 </WdCtn>
 <tk3 edit="MK" isa="ws"/>
 <WdCtn>
-<Wd edit="MK" CyrId="петрушкань">ṕetruškań</Wd>
+<Wd edit="MK" myvId="петрушкань">ṕetruškań</Wd>
 </WdCtn>
 <tk3 edit="MK" isa="ws"/>
 <WdCtn>
-<Wd edit="MK" CyrId="агунясь">aguńäś</Wd>
+<Wd edit="MK" myvId="агунясь">aguńäś</Wd>
 </WdCtn>
 <tk3 isa="ws"/>
 <WdCtn>
-<Wd CyrId="шама">šama</Wd>
+<Wd myvId="шама">šama</Wd>
 </WdCtn>
 <tk3 isa="ws"/>
 <WdCtn>
-<Wd CyrId="ширса">širsa</Wd>
+<Wd myvId="ширса">širsa</Wd>
 </WdCtn>
 <tk3 isa="ws"/>
 <WdCtn>
-<Wd edit="MK" CyrId="пангонясь">paŋgə̑ńäś</Wd>
+<Wd edit="MK" myvId="пангонясь">paŋgə̑ńäś</Wd>
 </WdCtn>
 </Cit>
 <GeoNeed/>
@@ -464,23 +472,23 @@
 <Citg>
 <Cit>
 <WdCtn>
-<Wd CyrId="агу·та">agu·ta</Wd>
+<Wd myvId="агу·та">agu·ta</Wd>
 </WdCtn>
 <tk3 isa="ws"/>
 <WdCtn>
-<Wd CyrId="мархта">marʿta</Wd>
+<Wd myvId="мархта">marʿta</Wd>
 </WdCtn>
 <tk3 isa="ws"/>
 <WdCtn>
-<Wd CyrId="мон">mon</Wd>
+<Wd myvId="мон">mon</Wd>
 </WdCtn>
 <tk3 isa="ws"/>
 <WdCtn>
-<Wd edit="MK" CyrId="праско·віӓнь">prasko·viäń</Wd>
+<Wd edit="MK" myvId="праско·віӓнь">prasko·viäń</Wd>
 </WdCtn>
 <tk3 edit="MK" isa="ws"/>
 <WdCtn>
-<Wd edit="MK" CyrId="няэлень">ńäeĺeń</Wd>
+<Wd edit="MK" myvId="няэлень">ńäeĺeń</Wd>
 </WdCtn>
 </Cit>
 <GeoNeed/>
@@ -677,26 +685,30 @@
 <Citg>
 <Cit>
 <WdCtn>
-<Wd CyrId="сон">son</Wd>
+<Wd myvId="сон">son</Wd>
 </WdCtn>
 <tk3 isa="ws"/>
 <WdCtn>
-<Wd CyrId="пиравай">ṕira·vaj</Wd>
+<Wd myvId="пиравай">ṕira·vaj</Wd>
 </WdCtn>
 <tk3 isa="ws"/>
 <WdCtn>
-<Wd CyrId="адажəнь">adažəń</Wd>
+<Wd myvId="адажəнь">adažəń</Wd>
 </WdCtn>
 <tk3 isa="ws"/>
 <WdCtn>
-<Wd CyrId="шава">šava</Wd>
+<Wd myvId="шава">šava</Wd>
 </WdCtn>
 <tk3 isa="ws"/>
 <WdCtn>
-<Wd CyrId="кабакса">kabaksa</Wd>
+<Wd myvId="кабакса">kabaksa</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="mdf">
+<GeoU>Aleks</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="IV"/>
 <Pg vl="218"/>
@@ -750,18 +762,22 @@
 <Citg>
 <Cit>
 <WdCtn>
-<Wd CyrId="аляц">aĺac</Wd>
+<Wd myvId="аляц">aĺac</Wd>
 </WdCtn>
 <tk3 isa="ws"/>
 <WdCtn>
-<Wd CyrId="ладязя">lad́äźä</Wd>
+<Wd myvId="ладязя">lad́äźä</Wd>
 </WdCtn>
 <tk3 isa="ws"/>
 <WdCtn>
-<Wd CyrId="азову">azovu</Wd>
+<Wd myvId="азову">azovu</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="mdf">
+<GeoU>Kars</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="IV"/>
 <Pg vl="170"/>
@@ -815,15 +831,15 @@
 <Citg>
 <Cit>
 <WdCtn>
-<Wd CyrId="азо·вски">azo·vsḱi</Wd>
+<Wd myvId="азо·вски">azo·vsḱi</Wd>
 </WdCtn>
 <tk3 isa="ws"/>
 <WdCtn>
-<Wd CyrId="баярти">bajart́i</Wd>
+<Wd myvId="баярти">bajart́i</Wd>
 </WdCtn>
 <tk3 isa="ws"/>
 <WdCtn>
-<Wd CyrId="сисем">śiśəm</Wd>
+<Wd myvId="сисем">śiśəm</Wd>
 </WdCtn>
 <tk3 isa="ws"/>
 <WdCtn>
@@ -838,7 +854,11 @@
 <Wd CyrId="шить">šit́</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="mdf">
+<GeoU>Katm</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="IV"/>
 <Pg vl="170"/>
@@ -1130,7 +1150,11 @@
 <Wd CyrId="пизи·мя">ṕiźi·ḿä</Wd>
 </WdCtn>
 <tk3 isa="excl"/></Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>Tel</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="VII"/>
 <Pg vl="380"/>
@@ -1217,7 +1241,11 @@
 <Wd CyrId="верьмальмась">v́eŕmaĺmaś</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>Mar</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="2"/>
 <Pg vl="50"/>
@@ -2086,7 +2114,11 @@
 <Wd CyrId="куля">kuĺa</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>Kočk</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="VII"/>
 <Pg vl="60"/>
@@ -2458,7 +2490,11 @@
 <Wd CyrId="кев">ḱev</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>MKka</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="III"/>
 <Pg vl="125"/>
@@ -2990,7 +3026,11 @@
 <Wd CyrId="потмарсот">potmarsə̑t</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="mdf">
+<GeoU>Katm</GeoU>
+</GeoUBz>
+</GeoUB>
 <CitT xml:lang="deu">[Wo hat die Taube ihr Nest? – Auf dem (?) Dachboden des reichen Aljoksch, auf dem Dachboden des vermögenden Aljoksch].</CitT>
 </Citg>
 </HWB>
@@ -3236,7 +3276,11 @@
 <Wd CyrId="катфтыя">katfti͔jä</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="mdf">
+<GeoU>Sel</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="IV"/>
 <Pg vl="189"/>
@@ -3321,7 +3365,11 @@
 <Wd CyrId="олёшинька">oĺošińka</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>MKly</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="VII"/>
 <Pg vl="40"/>
@@ -3439,7 +3487,11 @@
 <Wd CyrId="базаров">bazarov</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>Večk</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="I"/>
 <Pg vl="429"/>
@@ -3528,7 +3580,11 @@
 <Wd CyrId="эшкевить">ešḱev́it́</Wd>
 </WdCtn>
 <tk3 isa="quest"/></Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>MKly</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="VII"/>
 <Pg vl="44"/>
@@ -3683,7 +3739,11 @@
 <Wd CyrId="сидёр">śid́or</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>Sulli</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="VII"/>
 <Pg vl="84"/>
@@ -3979,7 +4039,11 @@
 <Wd CyrId="прядондо">pŕadondo</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>VVr</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="III"/>
 <Pg vl="267"/>
@@ -4442,7 +4506,11 @@
 <Wd CyrId="эшкеви">ešḱev́i</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>Večk</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="V"/>
 <Pg vl="248"/>
@@ -4760,7 +4828,11 @@
 <Wd CyrId="лицаняц">ĺicańac</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="mdf">
+<GeoU>Kr</GeoU>
+</GeoUBz>
+</GeoUB>
 <CitT xml:lang="deu">[Wie weiches Wachs schmolz (zu einem Nichts) das schöne Gesicht von Trigas Anju].</CitT>
 </Citg>
 </HWB>
@@ -4824,7 +4896,11 @@
 <Wd CyrId="аньɯнясь">ańɯńäś</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="mdf">
+<GeoU>Kr</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="IV"/>
 <Pg vl="157"/>
@@ -4928,7 +5004,11 @@
 <Wd CyrId="кис">ḱis</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>Seledba</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="VI"/>
 <Pg vl="198"/>
@@ -5123,7 +5203,11 @@
 </WdCtn>
 <tk3 isa="”"/>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>Petr</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="VIII"/>
 <Pg vl="242"/>
@@ -5190,7 +5274,11 @@
 <Wd CyrId="фяко·лась">f́äko·laś</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="mdf">
+<GeoU>Cjatn</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="IV"/>
 <Pg vl="186"/>
@@ -5312,7 +5400,11 @@
 <Wd CyrId="шаманясь">šamańäś</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="mdf">
+<GeoU>Sel</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="IV"/>
 <Pg vl="337"/>
@@ -5405,7 +5497,11 @@
 <Wd CyrId="рошчава">roščava</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="mdf">
+<GeoU>Vert</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="VIII"/>
 <Pg vl="456"/>
@@ -5471,7 +5567,11 @@
 <Wd CyrId="полада">polada</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="mdf">
+<GeoU>Vert</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="VIII"/>
 <Pg vl="456"/>
@@ -6309,7 +6409,11 @@
 <Wd CyrId="бабась">babaś</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>Petr</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="VIII"/>
 <Pg vl="92"/>
@@ -6398,7 +6502,11 @@
 <Wd CyrId="баі·фкас">bai·fkas</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>Ba</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="I"/>
 <Pg vl="172"/>
@@ -6500,7 +6608,11 @@
 <Wd CyrId="ийᴉза">ijᴉza</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>Kažl</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="II"/>
 <Pg vl="112"/>
@@ -6563,7 +6675,11 @@
 <Wd CyrId="поландзо">polandzo</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>Sulli</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="VII"/>
 <Pg vl="84"/>
@@ -6622,7 +6738,11 @@
 <Wd CyrId="балалай">balalaj</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>Vez</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="I"/>
 <Pg vl="226"/>
@@ -6730,7 +6850,11 @@
 <Wd CyrId="ава">ava</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>NBajt</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="V"/>
 <Pg vl="372"/>
@@ -6875,7 +6999,11 @@
 <Wd CyrId="бабань">babań</Wd>
 </WdCtn>
 <tk3 isa="excl"/></Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>Šug</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="VII"/>
 <Pg vl="118"/>
@@ -6970,7 +7098,11 @@
 <Wd CyrId="аламоль">alamoĺ</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>Bug</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="V"/>
 <Pg vl="506"/>
@@ -7025,7 +7157,11 @@
 <Wd CyrId="даря">daŕa</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>Večk</GeoU>
+</GeoUBz>
+</GeoUB>
 <CitT xml:lang="deu">Betjos Darja (Name einer Gewährsperson Sorins aus dem Dorfe Wetschkanowo).</CitT>
 </Citg>
 </HWB>
@@ -7126,7 +7262,11 @@
 <Wd CyrId="якакшнось">jakakšnoś</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>Kozl</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="I"/>
 <Pg vl="170"/>
@@ -7190,7 +7330,11 @@
 <Wd CyrId="вейкине">v́ejḱińe</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>Kozl</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="I"/>
 <Pg vl="167"/>
@@ -8025,7 +8169,11 @@
 <Wd CyrId="ускокшнызь">uskokšni͔ź</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>Večk</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="I"/>
 <Pg vl="459"/>
@@ -8175,7 +8323,11 @@
 <Wd CyrId="о·боз">o·boz</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>VVr</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="II"/>
 <Pg vl="385"/>
@@ -8250,7 +8402,11 @@
 <Wd CyrId="стирь">st́iŕ</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="mdf">
+<GeoU>Vert</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="VIII"/>
 <Pg vl="450"/>
@@ -8326,7 +8482,11 @@
 <Wd CyrId="салама">salama</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>Kažl</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="III"/>
 <Pg vl="232"/>
@@ -8389,7 +8549,11 @@
 <Wd CyrId="пакся">pakśa</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>MKly</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="VII"/>
 <Pg vl="38"/>
@@ -8570,7 +8734,11 @@
 <Wd CyrId="вакə̑жу">vakə̑žu</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="mdf">
+<GeoU>Pš</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="IV"/>
 <Pg vl="436"/>
@@ -8637,7 +8805,11 @@
 <Wd CyrId="вало·дерясь">valo·d́əŕäś</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="mdf">
+<GeoU>Mann</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="IV"/>
 <Pg vl="271"/>
@@ -8728,7 +8900,11 @@
 <Wd CyrId="шӓі">šäi</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="mdf">
+<GeoU>Temn</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="VIII"/>
 <Pg vl="308"/>
@@ -8853,7 +9029,11 @@
 <Wd CyrId="авась">avaś</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="mdf">
+<GeoU>Karš</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="IV"/>
 <Pg vl="76"/>
@@ -8931,7 +9111,11 @@
 <Wd CyrId="аванять">avańät́</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="mdf">
+<GeoU>Lemd</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="IV"/>
 <Pg vl="201"/>
@@ -8994,7 +9178,11 @@
 <Wd CyrId="варка">varka</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>Bug</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="V"/>
 <Pg vl="520"/>
@@ -9528,7 +9716,11 @@
 <Wd CyrId="васянясь">vaśäńäś</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="mdf">
+<GeoU>Cjatn</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="IV"/>
 <Pg vl="170"/>
@@ -10115,7 +10307,11 @@ Dem. zu <Et>Васи́лий</Et>]
 <Wd CyrId="баба">baba</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>Večk</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="I"/>
 <Pg vl="113"/>
@@ -10301,7 +10497,11 @@ Dem. zu <Et>Васи́лий</Et>]
 <Wd CyrId="ӓряскатьсть">äŕaskat́śt́</Wd>
 </WdCtn>
 <tk3 isa="quest"/></Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="mdf">
+<GeoU>Atjur</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="VIII"/>
 <Pg vl="364"/>
@@ -10415,7 +10615,11 @@ Dem. zu <Et>Васи́лий</Et>]
 <Wd CyrId="баба">baba</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>Vez</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="III"/>
 <Pg vl="70"/>
@@ -10484,7 +10688,11 @@ Dem. zu <Et>Васи́лий</Et>]
 <Wd CyrId="бабать">babat́</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>Šokša</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="VII"/>
 <Pg vl="440"/>
@@ -10582,7 +10790,11 @@ Dem. zu <Et>Васи́лий</Et>]
 <Wd CyrId="азрапинат">azraṕinat</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>Petr</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="VIII"/>
 <Pg vl="72"/>
@@ -10844,7 +11056,11 @@ Dem. zu <Et>Васи́лий</Et>]
 <Wd CyrId="атине">at́ińe</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>Kozl</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="II"/>
 <Pg vl="137"/>
@@ -10909,7 +11125,11 @@ Dem. zu <Et>Васи́лий</Et>]
 <Wd CyrId="покшчай">pokščaj</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>Mar</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="2"/>
 <Pg vl="13"/>
@@ -10977,7 +11197,11 @@ Dem. zu <Et>Васи́лий</Et>]
 <Wd CyrId="эеднязе">ejed́ńa·źe</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>Jeg</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="1"/>
 <Pg vl="102"/>
@@ -11110,7 +11334,11 @@ Dem. zu <Et>Васи́лий</Et>]
 <Wd CyrId="бабань">babań</Wd>
 </WdCtn>
 <tk3 isa="excl"/></Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>Jeg</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="1"/>
 <Pg vl="88"/>
@@ -11445,7 +11673,11 @@ Dem. zu <Et>Васи́лий</Et>]
 <Wd CyrId="вяле">v́äĺe</Wd>
 </WdCtn>
 <tk3 isa="excl"/></Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>Sob</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="VII"/>
 <Pg vl="304"/>
@@ -11512,7 +11744,11 @@ Dem. zu <Et>Васи́лий</Et>]
 <Wd edit="MK" CyrId="явшекшнесь">javšekšńeś</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>MKka</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="II"/>
 <Pg vl="57"/>
@@ -11601,7 +11837,11 @@ Dem. zu <Et>Васи́лий</Et>]
 <Wd CyrId="орожінеть">orožińet́</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>VVr</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="III"/>
 <Pg vl="157"/>
@@ -11662,7 +11902,11 @@ Dem. zu <Et>Васи́лий</Et>]
 <Wd CyrId="фиманясь">f́imańäś</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="mdf">
+<GeoU>Temn</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="VIII"/>
 <Pg vl="304"/>
@@ -11841,7 +12085,11 @@ Dem. zu <Et>Васи́лий</Et>]
 <Wd CyrId="баба">baba</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>SŠant</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="III"/>
 <Pg vl="82"/>
@@ -11908,7 +12156,11 @@ Dem. zu <Et>Васи́лий</Et>]
 <Wd CyrId="лоткась">lotkaś</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="mdf">
+<GeoU>Sel</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="IV"/>
 <Pg vl="232"/>
@@ -12011,7 +12263,11 @@ Dem. zu <Et>Васи́лий</Et>]
 <Wd CyrId="гаврилась">gavŕilaś</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="mdf">
+<GeoU>Temn</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="VIII"/>
 <Pg vl="316"/>
@@ -12090,7 +12346,11 @@ Dem. zu <Et>Васи́лий</Et>]
 <Wd CyrId="шавызя">šavi͔źä</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="mdf">
+<GeoU>Pičep</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="VIII"/>
 <Pg vl="270"/>
@@ -12157,7 +12417,11 @@ Dem. zu <Et>Васи́лий</Et>]
 <Wd CyrId="карнесо">karńesə̑</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="mdf">
+<GeoU>Pičep</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="VIII"/>
 <Pg vl="268"/>
@@ -12262,7 +12526,11 @@ Dem. zu <Et>Васи́лий</Et>]
 <Wd CyrId="ульцяв">uĺćav</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="mdf">
+<GeoU>Pičep</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="VIII"/>
 <Pg vl="268"/>
@@ -12500,7 +12768,11 @@ Dem. zu <Et>Васи́лий</Et>]
 <Wd CyrId="аштимя">a·št́iḿä</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>Kirdž</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="VII"/>
 <Pg vl="428"/>
@@ -12629,7 +12901,11 @@ Dem. zu <Et>Васи́лий</Et>]
 <Wd CyrId="салунясь">saluńäś</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="mdf">
+<GeoU>Temn</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="VIII"/>
 <Pg vl="320"/>
@@ -12700,7 +12976,11 @@ Dem. zu <Et>Васи́лий</Et>]
 <Wd CyrId="калё">kaĺo</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>NBajt</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="I"/>
 <Pg vl="132"/>
@@ -12862,7 +13142,11 @@ Dem. zu <Et>Васи́лий</Et>]
 <Wd CyrId="капстась">kapstaś</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="mdf">
+<GeoU>Temn</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="VIII"/>
 <Pg vl="350"/>
@@ -13204,7 +13488,11 @@ Dem. zu <Et>Васи́лий</Et>]
 <Wd CyrId="кудатне">kudat́ńe</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>Bag</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="I"/>
 <Pg vl="280"/>
@@ -13700,7 +13988,11 @@ Dem. zu <Et>Васи́лий</Et>]
 <Wd CyrId="ланкс">laŋks</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>Mar</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="1"/>
 <Pg vl="114"/>
@@ -13910,7 +14202,11 @@ Dem. zu <Et>Васи́лий</Et>]
 <Wd edit="MK" CyrId="стерняц">śt́əŕńa·c</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="mdf">
+<GeoU>Kars</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="IV"/>
 <Pg vl="260"/>
@@ -13972,7 +14268,11 @@ Dem. zu <Et>Васи́лий</Et>]
 <Wd CyrId="редизе">ŕed́iźe</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>Kočk</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="VII"/>
 <Pg vl="48"/>
@@ -14027,7 +14327,11 @@ Dem. zu <Et>Васи́лий</Et>]
 <Wd CyrId="марюшкат">maŕuškat</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>Kozl</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="III"/>
 <Pg vl="170"/>
@@ -14093,7 +14397,11 @@ Dem. zu <Et>Васи́лий</Et>]
 <Wd CyrId="сарянясь">saŕäńäś</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="mdf">
+<GeoU>Cjatn</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="IV"/>
 <Pg vl="166"/>
@@ -14522,7 +14830,11 @@ Dem. zu <Et>Васи́лий</Et>]
 <Wd CyrId="вяле">v́äĺe</Wd>
 </WdCtn>
 <tk3 isa="excl"/></Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>Sob</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="VII"/>
 <Pg vl="304"/>
@@ -14582,7 +14894,11 @@ Dem. zu <Et>Васи́лий</Et>]
 <Wd edit="MK" CyrId="дементей">d́eḿeńt́ej</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>Jeg</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="1"/>
 <Pg vl="106"/>
@@ -14650,7 +14966,11 @@ Dem. zu <Et>Васи́лий</Et>]
 <Wd CyrId="демуша">d́emuša</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>MKly</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="VII"/>
 <Pg vl="10"/>
@@ -14712,7 +15032,11 @@ Dem. zu <Et>Васи́лий</Et>]
 <Wd CyrId="масторов">mastorov</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>MKly</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="VII"/>
 <Pg vl="12"/>
@@ -14974,7 +15298,11 @@ Dem. zu <Et>Васи́лий</Et>]
 <Wd CyrId="тейтерне">t́ejt́eŕńe</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>Večk</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="II"/>
 <Pg vl="214"/>
@@ -15112,7 +15440,11 @@ Dem. zu <Et>Васи́лий</Et>]
 <Wd CyrId="анафкясь">anafḱäś</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="mdf">
+<GeoU>Vert</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="VIII"/>
 <Pg vl="494"/>
@@ -15515,7 +15847,11 @@ Dem. zu <Et>Васи́лий</Et>]
 <Wd CyrId="лем">ĺeḿ</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>Petr</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="VIII"/>
 <Pg vl="150"/>
@@ -15867,7 +16203,11 @@ Dem. zu <Et>Васи́лий</Et>]
 <Wd CyrId="дочинесь">dočińeś</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>Sob</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="VII"/>
 <Pg vl="262"/>
@@ -16117,7 +16457,11 @@ Dem. zu <Et>Васи́лий</Et>]
 <Wd CyrId="кажай">kažaj</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>Škud</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="VII"/>
 <Pg vl="324"/>
@@ -16463,7 +16807,11 @@ Dem. zu <Et>Васи́лий</Et>]
 <Wd CyrId="неізе">ńeiźe</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>NSurk</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="I"/>
 <Pg vl="456"/>
@@ -16816,7 +17164,11 @@ Dem. zu <Et>Васи́лий</Et>]
 <Wd CyrId="канюша">kańuša</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>Ba</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="I"/>
 <Pg vl="279"/>
@@ -17004,7 +17356,11 @@ Dem. zu <Et>Васи́лий</Et>]
 <Wd CyrId="марась">maraś</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="mdf">
+<GeoU>Pš</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="IV"/>
 <Pg vl="435"/>
@@ -17484,7 +17840,11 @@ Dem. zu <Et>Васи́лий</Et>]
 <Wd CyrId="лемнясна">ĺemńasna</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="mdf">
+<GeoU>Atjur</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="VIII"/>
 <Pg vl="352"/>
@@ -17767,7 +18127,11 @@ Dem. zu <Et>Васи́лий</Et>]
 <Wd CyrId="котфсонза">kotfsə̑nza</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="mdf">
+<GeoU>Kr</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>(Sir.)</PblCtn>
 <CitT xml:lang="deu">Katharina webt ihre flatternd(dünn)e, weisse Leinwand.</CitT>
 </Citg>
@@ -17898,7 +18262,11 @@ Dem. zu <Et>Васи́лий</Et>]
 <Wd CyrId="катё">kat́o</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>Bug</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="V"/>
 <Pg vl="520"/>
@@ -18010,7 +18378,11 @@ Dem. zu <Et>Васи́лий</Et>]
 <Wd CyrId="парыя">pari͔ja</Wd>
 </WdCtn>
 <tk3 isa="excl"/></Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>Mar</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="1"/>
 <Pg vl="26"/>
@@ -18080,7 +18452,11 @@ Dem. zu <Et>Васи́лий</Et>]
 <Wd CyrId="катуша">katuša</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>Večk</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="I"/>
 <Pg vl="337"/>
@@ -18194,7 +18570,11 @@ Dem. zu <Et>Васи́лий</Et>]
 <Wd CyrId="кавра">kavra</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>Šokša</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="VII"/>
 <Pg vl="452"/>
@@ -18315,7 +18695,11 @@ Dem. zu <Et>Васи́лий</Et>]
 <Wd CyrId="кочкума">kočkuma</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>Šokša</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="VII"/>
 <Pg vl="440"/>
@@ -18379,7 +18763,11 @@ Dem. zu <Et>Васи́лий</Et>]
 <Wd CyrId="прястонза">pŕastə̑nza</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="mdf">
+<GeoU>Pš</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="IV"/>
 <Pg vl="759"/>
@@ -18580,7 +18968,11 @@ Dem. zu <Et>Васи́лий</Et>]
 <Wd CyrId="ютыть">juti͔t́</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>Gor</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="VII"/>
 <Pg vl="238"/>
@@ -18754,7 +19146,11 @@ Dem. zu <Et>Васи́лий</Et>]
 <Wd CyrId="копшанди">kopšańd́i</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="mdf">
+<GeoU>Kuld</GeoU>
+</GeoUBz>
+</GeoUB>
 <CitT xml:lang="deu">Er besäte die Felder von Keläsch mit wachsendem Getreide, das zum Dorfopfer und für Piroggen zum Feiertage des Dorfes (verwendet wird).</CitT>
 </Citg>
 </HWB>
@@ -18892,7 +19288,11 @@ Dem. zu <Et>Васи́лий</Et>]
 <Wd CyrId="эзнанень">eznańeń</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>God</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="VII"/>
 <Pg vl="284"/>
@@ -18996,7 +19396,11 @@ Dem. zu <Et>Васи́лий</Et>]
 <Wd CyrId="сазор">sazor</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>Večk</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="I"/>
 <Pg vl="321"/>
@@ -19208,7 +19612,11 @@ Dem. zu <Et>Васи́лий</Et>]
 <Wd CyrId="пешəфтась">ṕešəftaś</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="mdf">
+<GeoU>P</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="IV"/>
 <Pg vl="623"/>
@@ -19279,7 +19687,11 @@ Dem. zu <Et>Васи́лий</Et>]
 <Wd CyrId="куносонза">kunə̑sə̑nza</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="mdf">
+<GeoU>Bold</GeoU>
+</GeoUBz>
+</GeoUB>
 <CitT xml:lang="deu">Ihren silbernen Armring hat Kenewa an ihrem Arme.</CitT>
 </Citg>
 </HWB>
@@ -20133,7 +20545,11 @@ Eine Wachskerze wurde angezündet u. eine Frau sprach folg. Gebet: <i>
 <Wd CyrId="велети">v́eĺət́i</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="mdf">
+<GeoU>Kul</GeoU>
+</GeoUBz>
+</GeoUB>
 <CitT xml:lang="deu">Der Kuckuck ruft und weint, sein Schluchzen wird im Dorfe Kersä vernommen.</CitT>
 </Citg>
 </HWB>
@@ -20251,7 +20667,11 @@ Eine Wachskerze wurde angezündet u. eine Frau sprach folg. Gebet: <i>
 <Wd CyrId="мария">maŕija</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>Kozl</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="III"/>
 <Pg vl="64"/>
@@ -20463,7 +20883,11 @@ Eine Wachskerze wurde angezündet u. eine Frau sprach folg. Gebet: <i>
 <Wd CyrId="полазо">polazo</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>StMokl</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="V"/>
 <Pg vl="202"/>
@@ -20633,7 +21057,11 @@ Eine Wachskerze wurde angezündet u. eine Frau sprach folg. Gebet: <i>
 <Wd CyrId="нолдызе">noldi͔źe</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>Vez</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="I"/>
 <Pg vl="241"/>
@@ -20758,7 +21186,11 @@ Eine Wachskerze wurde angezündet u. eine Frau sprach folg. Gebet: <i>
 <Wd CyrId="каво·неск">kavo·ńesk</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>Is</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="I"/>
 <Pg vl="159"/>
@@ -20828,7 +21260,11 @@ Eine Wachskerze wurde angezündet u. eine Frau sprach folg. Gebet: <i>
 <Wd CyrId="кавонест">kavońest</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>SŠant</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="I"/>
 <Pg vl="156"/>
@@ -21179,7 +21615,11 @@ Eine Wachskerze wurde angezündet u. eine Frau sprach folg. Gebet: <i>
 <Wd CyrId="поназень">ponaźeń</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="mdf">
+<GeoU>Vert</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="VIII"/>
 <Pg vl="452"/>
@@ -21256,7 +21696,11 @@ Eine Wachskerze wurde angezündet u. eine Frau sprach folg. Gebet: <i>
 <Wd edit="MK" CyrId="тевендэ">t́ev́ende͔</Wd>
 </WdCtn>
 <tk3 isa="excl"/></Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>Af</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="III"/>
 <Pg vl="161"/>
@@ -21349,7 +21793,11 @@ Eine Wachskerze wurde angezündet u. eine Frau sprach folg. Gebet: <i>
 <Wd CyrId="ломать">lomat́</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>Bug</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="V"/>
 <Pg vl="128"/>
@@ -21489,7 +21937,11 @@ Eine Wachskerze wurde angezündet u. eine Frau sprach folg. Gebet: <i>
 <Wd CyrId="томбалев">tombaĺev</Wd>
 </WdCtn>
 <tk3 isa="excl"/></Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>NDemk</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="VII"/>
 <Pg vl="166"/>
@@ -21570,7 +22022,11 @@ Eine Wachskerze wurde angezündet u. eine Frau sprach folg. Gebet: <i>
 <Wd CyrId="мазоян">mazə̑jan</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="mdf">
+<GeoU>Temn</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="VIII"/>
 <Pg vl="348"/>
@@ -21871,7 +22327,11 @@ Eine Wachskerze wurde angezündet u. eine Frau sprach folg. Gebet: <i>
 <Wd CyrId="орманть">ormańt́</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>Myv</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="III"/>
 <Pg vl="59"/>
@@ -21946,7 +22406,11 @@ Eine Wachskerze wurde angezündet u. eine Frau sprach folg. Gebet: <i>
 <Wd CyrId="атя">at́a</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>SŠant</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="I"/>
 <Pg vl="472"/>
@@ -22091,7 +22555,11 @@ Eine Wachskerze wurde angezündet u. eine Frau sprach folg. Gebet: <i>
 <Wd CyrId="веле">v́eĺe</Wd>
 </WdCtn>
 <tk3 isa="excl"/></Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>Kočk</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="VII"/>
 <Pg vl="70"/>
@@ -22175,7 +22643,11 @@ Eine Wachskerze wurde angezündet u. eine Frau sprach folg. Gebet: <i>
 <Wd CyrId="паснянясь">paśńäńäś</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="mdf">
+<GeoU>Cjatn</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="IV"/>
 <Pg vl="170"/>
@@ -22456,7 +22928,11 @@ Eine Wachskerze wurde angezündet u. eine Frau sprach folg. Gebet: <i>
 <Wd CyrId="кундасынек">kundasi͔ńeḱ</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>Večk</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="III"/>
 <Pg vl="139"/>
@@ -22543,7 +23019,11 @@ Eine Wachskerze wurde angezündet u. eine Frau sprach folg. Gebet: <i>
 <Wd CyrId="вири">v́iŕi</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="mdf">
+<GeoU>Pš</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="IV"/>
 <Pg vl="436"/>
@@ -22818,7 +23298,11 @@ Eine Wachskerze wurde angezündet u. eine Frau sprach folg. Gebet: <i>
 </WdCtn>
 </txt2>
 </i></Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>Kažl</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="2"/>
 <Pg vl="151"/>
@@ -22897,7 +23381,11 @@ Eine Wachskerze wurde angezündet u. eine Frau sprach folg. Gebet: <i>
 <Wd CyrId="кот">kot</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>Ba</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="VII"/>
 <Pg vl="404"/>
@@ -23189,7 +23677,11 @@ Eine Wachskerze wurde angezündet u. eine Frau sprach folg. Gebet: <i>
 <Wd CyrId="таракатт">tarakatt</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>Petr</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="VIII"/>
 <Pg vl="78"/>
@@ -23256,7 +23748,11 @@ Eine Wachskerze wurde angezündet u. eine Frau sprach folg. Gebet: <i>
 <Wd CyrId="галат">galat</Wd>
 </WdCtn>
 </Note></Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>Petr</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="VIII"/>
 <Pg vl="86"/>
@@ -23644,7 +24140,11 @@ Eine Wachskerze wurde angezündet u. eine Frau sprach folg. Gebet: <i>
 <Wd CyrId="кив">ḱiv</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>Bug</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="VI"/>
 <Pg vl="58"/>
@@ -23745,7 +24245,11 @@ Eine Wachskerze wurde angezündet u. eine Frau sprach folg. Gebet: <i>
 <Wd CyrId="цёрынесь">ćori͔ńeś</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>Gor</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="VII"/>
 <Pg vl="316"/>
@@ -24195,7 +24699,11 @@ Eine Wachskerze wurde angezündet u. eine Frau sprach folg. Gebet: <i>
 <Wd CyrId="андатне">andat́ńe</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>Vez</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="I"/>
 <Pg vl="443"/>
@@ -24446,7 +24954,11 @@ Eine Wachskerze wurde angezündet u. eine Frau sprach folg. Gebet: <i>
 <Wd CyrId="маврац">mavrac</Wd>
 </WdCtn>
 <tk3 isa="excl"/></Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="mdf">
+<GeoU>Temn</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="VIII"/>
 <Pg vl="346"/>
@@ -24665,7 +25177,11 @@ Eine Wachskerze wurde angezündet u. eine Frau sprach folg. Gebet: <i>
 <Wd CyrId="кутяма">kut́a·ma</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>Jeg</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="1"/>
 <Pg vl="92"/>
@@ -24858,7 +25374,11 @@ Eine Wachskerze wurde angezündet u. eine Frau sprach folg. Gebet: <i>
 <Wd edit="MK" CyrId="велестень">v́eĺeśt́eń</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>MKly</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="VII"/>
 <Pg vl="46"/>
@@ -24917,7 +25437,11 @@ Eine Wachskerze wurde angezündet u. eine Frau sprach folg. Gebet: <i>
 <Wd CyrId="кудатне">kudat́ńe</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>Bag</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="I"/>
 <Pg vl="280"/>
@@ -25014,7 +25538,11 @@ Eine Wachskerze wurde angezündet u. eine Frau sprach folg. Gebet: <i>
 <Wd edit="MK" CyrId="феданясь">f́edańäś</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="mdf">
+<GeoU>Mam</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="IV"/>
 <Pg vl="40"/>
@@ -25093,7 +25621,11 @@ Eine Wachskerze wurde angezündet u. eine Frau sprach folg. Gebet: <i>
 <Wd CyrId="бархацот">barᵪacot</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>Mar</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="1"/>
 <Pg vl="24"/>
@@ -25368,7 +25900,11 @@ Eine Wachskerze wurde angezündet u. eine Frau sprach folg. Gebet: <i>
 <Wd CyrId="полянясь">poĺäńäś</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="mdf">
+<GeoU>Lemd</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="IV"/>
 <Pg vl="71"/>
@@ -25659,7 +26195,11 @@ Eine Wachskerze wurde angezündet u. eine Frau sprach folg. Gebet: <i>
 <Wd CyrId="чэревон">čeŕevon</Wd>
 </WdCtn>
 <tk3 isa="excl"/></Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>Af</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="III"/>
 <Pg vl="159"/>
@@ -25746,7 +26286,11 @@ Eine Wachskerze wurde angezündet u. eine Frau sprach folg. Gebet: <i>
 <Wd CyrId="мастуру">masturu</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>Šokša</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="VII"/>
 <Pg vl="442"/>
@@ -25918,7 +26462,11 @@ Eine Wachskerze wurde angezündet u. eine Frau sprach folg. Gebet: <i>
 <Wd CyrId="козявсто">koźavsto</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>Gor</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="VII"/>
 <Pg vl="238"/>
@@ -26175,7 +26723,11 @@ Eine Wachskerze wurde angezündet u. eine Frau sprach folg. Gebet: <i>
 <Wd CyrId="качафтан">kačaftan</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>Kozl</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="III"/>
 <Pg vl="170"/>
@@ -27128,7 +27680,11 @@ Eine Wachskerze wurde angezündet u. eine Frau sprach folg. Gebet: <i>
 <Wd CyrId="баба">baba</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="mdf">
+<GeoU>Som</GeoU>
+</GeoUBz>
+</GeoUB>
 <CitT xml:lang="deu">[Der Steg wandte sich um, das Wasser wurde trüb, unter dem Brette war (wohnte) der “Fluss-Alte”, mit ihm war (da) sein Weib Rawaräs (“Rawas Frau”).</CitT>
 </Citg>
 </MWUB>
@@ -27538,7 +28094,11 @@ Eine Wachskerze wurde angezündet u. eine Frau sprach folg. Gebet: <i>
 <Wd CyrId="луга">luga</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>Večk</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="I"/>
 <Pg vl="435"/>
@@ -27602,7 +28162,11 @@ Eine Wachskerze wurde angezündet u. eine Frau sprach folg. Gebet: <i>
 <Wd CyrId="сильдеенᴣэ">śiĺd́ejenᴣe͔</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>Večk</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="I"/>
 <Pg vl="435"/>
@@ -28021,7 +28585,11 @@ Eine Wachskerze wurde angezündet u. eine Frau sprach folg. Gebet: <i>
 <Wd CyrId="нолдазень">noldaźeń</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="mdf">
+<GeoU>Bar</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="VIII"/>
 <Pg vl="312"/>
@@ -28081,7 +28649,11 @@ Eine Wachskerze wurde angezündet u. eine Frau sprach folg. Gebet: <i>
 <Wd CyrId="ведняти">v́ed́ńät́i</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="mdf">
+<GeoU>Cjatn</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="IV"/>
 <Pg vl="167"/>
@@ -28139,7 +28711,11 @@ Eine Wachskerze wurde angezündet u. eine Frau sprach folg. Gebet: <i>
 <Wd CyrId="кандозень">kandə̑źəń</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="mdf">
+<GeoU>P</GeoU>
+</GeoUBz>
+</GeoUB>
 <CitT xml:lang="deu">Er trug sie zum Flusse.</CitT>
 </Citg>
 </HWB>
@@ -28204,7 +28780,11 @@ Eine Wachskerze wurde angezündet u. eine Frau sprach folg. Gebet: <i>
 <Wd CyrId="раводе">ravod́e</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>Kozl</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="I"/>
 <Pg vl="340"/>
@@ -28289,7 +28869,11 @@ Eine Wachskerze wurde angezündet u. eine Frau sprach folg. Gebet: <i>
 <Wd CyrId="ялакскем">jala·ksḱem</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>VVr</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="III"/>
 <Pg vl="230"/>
@@ -28353,7 +28937,11 @@ Eine Wachskerze wurde angezündet u. eine Frau sprach folg. Gebet: <i>
 <Wd CyrId="вешнян">v́ešńa·n</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>VVr</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="III"/>
 <Pg vl="230"/>
@@ -28443,7 +29031,11 @@ Eine Wachskerze wurde angezündet u. eine Frau sprach folg. Gebet: <i>
 <Wd CyrId="стречакшнызь">stŕečakšni͔ź</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>Jeg</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="II"/>
 <Pg vl="532"/>
@@ -28504,7 +29096,11 @@ Eine Wachskerze wurde angezündet u. eine Frau sprach folg. Gebet: <i>
 <Wd CyrId="родивон">rod́ivon</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>Večk</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="V"/>
 <Pg vl="418"/>
@@ -29112,7 +29708,11 @@ Eine Wachskerze wurde angezündet u. eine Frau sprach folg. Gebet: <i>
 <Wd CyrId="удалась">udalaś</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>MKly</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="VII"/>
 <Pg vl="12"/>
@@ -29299,7 +29899,11 @@ Eine Wachskerze wurde angezündet u. eine Frau sprach folg. Gebet: <i>
 <Wd CyrId="качафтан">kačaftan</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>Kozl</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="III"/>
 <Pg vl="170"/>
@@ -29387,7 +29991,11 @@ Eine Wachskerze wurde angezündet u. eine Frau sprach folg. Gebet: <i>
 <Wd CyrId="пахорнень">paᵪoŕńeń</Wd>
 </WdCtn>
 <tk3 isa="excl"/></Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>Naz</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="VII"/>
 <Pg vl="180"/>
@@ -29954,7 +30562,11 @@ Eine Wachskerze wurde angezündet u. eine Frau sprach folg. Gebet: <i>
 <Wd CyrId="фана">fana</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="mdf">
+<GeoU>Pš</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="IV"/>
 <Pg vl="421"/>
@@ -30549,7 +31161,11 @@ Eine Wachskerze wurde angezündet u. eine Frau sprach folg. Gebet: <i>
 <Wd CyrId="кизонза">ḱizə̑nza</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="mdf">
+<GeoU>Pičep</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="VIII"/>
 <Pg vl="284"/>
@@ -30618,7 +31234,11 @@ Eine Wachskerze wurde angezündet u. eine Frau sprach folg. Gebet: <i>
 <Wd CyrId="федюня">f́ed́uńä</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="mdf">
+<GeoU>Pičep</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="VIII"/>
 <Pg vl="284"/>
@@ -30812,7 +31432,11 @@ Kurzf. zu <Et>Фёдор</Et>)]
 <Wd CyrId="кведё">kv́ed́o</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>Bug</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="VI"/>
 <Pg vl="20"/>
@@ -31391,7 +32015,11 @@ Kurzf. zu <Et>Фёдор</Et>)]
 <Wd CyrId="сельмəнясь">śeĺməńäś</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="mdf">
+<GeoU>Cjatn</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="IV"/>
 <Pg vl="186"/>
@@ -31592,7 +32220,11 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <Wd CyrId="фана">fana</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="mdf">
+<GeoU>Pš</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="IV"/>
 <Pg vl="421"/>
@@ -31660,7 +32292,11 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <Wd CyrId="калинась">kaĺinaś</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="mdf">
+<GeoU>Temn</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="VIII"/>
 <Pg vl="312"/>
@@ -31875,7 +32511,11 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <Wd CyrId="атянь">at́äń</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="mdf">
+<GeoU>Patra</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="IV"/>
 <Pg vl="22"/>
@@ -31951,7 +32591,11 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <Wd CyrId="корьме·нець">koŕḿe·ńeć</Wd>
 </WdCtn>
 <tk3 isa="excl"/></Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>Ba</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="III"/>
 <Pg vl="38"/>
@@ -32043,7 +32687,11 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <Wd CyrId="аварди">avaŕd́i</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="mdf">
+<GeoU>Vert</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="VIII"/>
 <Pg vl="450"/>
@@ -32117,7 +32765,11 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <Wd CyrId="ильɯнясь">iĺɯńäś</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="mdf">
+<GeoU>P</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="IV"/>
 <Pg vl="193"/>
@@ -32282,7 +32934,11 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <Wd CyrId="ярьмі·латненди">jäŕmi·lat́ńəńd́i</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="mdf">
+<GeoU>Sel</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="IV"/>
 <Pg vl="81"/>
@@ -32537,7 +33193,11 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <Wd CyrId="арась">araś</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>Večk</GeoU>
+</GeoUBz>
+</GeoUB>
 <CitT xml:lang="deu">Er ist nirgends (zu finden).</CitT>
 </Citg>
 </MWUB>
@@ -32849,7 +33509,11 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <Wd CyrId="моли">moĺi</Wd>
 </WdCtn>
 <tk3 isa="quest"/></Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>VVr</GeoU>
+</GeoUBz>
+</GeoUB>
 <CitT xml:lang="deu">In welche Richtung geht er? od.: Woran erinnert er?</CitT>
 </Citg>
 </MWUB>
@@ -33616,7 +34280,11 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <Wd CyrId="седит">śed́it</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>Mar</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="2"/>
 <Pg vl="95"/>
@@ -34793,7 +35461,11 @@ M
 <Wd CyrId="вимак">v́ima·k</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="mdf">
+<GeoU>P</GeoU>
+</GeoUBz>
+</GeoUB>
 <CitT xml:lang="deu">Woher du mich genommen hast, dorthin bringe mich zurück!</CitT>
 </Citg>
 </MWUB>
@@ -35047,7 +35719,11 @@ M
 <Wd CyrId="костоннят">kostə̑ńńat</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="mdf">
+<GeoU>P</GeoU>
+</GeoUBz>
+</GeoUB>
 <CitT xml:lang="deu">Woher stammst du?</CitT>
 </Citg>
 <Citg>
@@ -35333,7 +36009,11 @@ M
 <Wd CyrId="удома">udə̑ma</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="mdf">
+<GeoU>P</GeoU>
+</GeoUBz>
+</GeoUB>
 <CitT xml:lang="deu">Irgendwohin zu einem Priester werden wir gehen, um da heute zu übernachten.</CitT>
 </Citg>
 </MWUB>
@@ -36306,7 +36986,11 @@ M
 <Wd CyrId="понги">poŋǵi</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>Mar</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="2"/>
 <Pg vl="63"/>
@@ -36365,7 +37049,11 @@ M
 <Wd CyrId="кӓшан">käšan</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="mdf">
+<GeoU>Sel</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="IV"/>
 <Pg vl="828"/>
@@ -37302,7 +37990,11 @@ M
 <Wd CyrId="тонады">tonadi͔</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="mdf">
+<GeoU>P</GeoU>
+</GeoUBz>
+</GeoUB>
 <CitT xml:lang="deu">[Je länger der Mensch lebt, um so mehr lernt er].</CitT>
 </Citg>
 </MWUB>
@@ -37516,7 +38208,11 @@ M
 <Wd CyrId="ёмсеме">jomśeḿe</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>Petr</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="VIII"/>
 <Pg vl="180"/>
@@ -37591,7 +38287,11 @@ M
 <Wd CyrId="касы">kasi͔</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="mdf">
+<GeoU>Sel</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="IV"/>
 <Pg vl="807"/>
@@ -39150,7 +39850,11 @@ M
 <Wd CyrId="фалендась">faĺendaś</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="mdf">
+<GeoU>Temn</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="VIII"/>
 <Pg vl="274"/>
@@ -39205,7 +39909,11 @@ M
 <Wd CyrId="шуми·нень">šuḿi·ńeń</Wd>
 </WdCtn>
 <tk3 isa="quest"/></Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>VVr</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="II"/>
 <Pg vl="397"/>
@@ -39674,7 +40382,11 @@ M
 <Wd CyrId="чови·ня">čov́i·ńä</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>Nask</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="III"/>
 <Pg vl="246"/>
@@ -44261,7 +44973,11 @@ M
 <Wd CyrId="кодама">kodama</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="mdf">
+<GeoU>P</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="IV"/>
 <Pg vl="734"/>
@@ -44434,7 +45150,11 @@ M
 <Wd CyrId="строи">stroji</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>Mar</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="2"/>
 <Pg vl="105"/>
@@ -45475,7 +46195,11 @@ M
 <Wd CyrId="валда">valda</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>Kažl</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="III"/>
 <Pg vl="299"/>
@@ -46066,7 +46790,11 @@ M
 <Wd edit="MK" CyrId="сёрмадомась">śormadə̑maś</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="mdf">
+<GeoU>P</GeoU>
+</GeoUBz>
+</GeoUB>
 <PblCtn>
 <Pbl vl="IV"/>
 <Pg vl="628"/>
@@ -46290,7 +47018,11 @@ M
 </WdCtn>
 </txt2>
 </i></Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="mdf">
+<GeoU>P</GeoU>
+</GeoUBz>
+</GeoUB>
 <CitT xml:lang="deu">Wird von eurem Hause jemand auf den Basar fahren? – Irgendeiner (einer, wer er auch sei) wird wohl fahren.</CitT>
 </Citg>
 </MWUB>
@@ -46411,7 +47143,11 @@ M
 </WdCtn>
 </txt2>
 </i></Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="mdf">
+<GeoU>P</GeoU>
+</GeoUBz>
+</GeoUB>
 <CitT xml:lang="deu">Wird von eurem Hause jemand auf den Basar fahren? – Irgendeiner (wer er auch sei) wird wohl fahren.</CitT>
 </Citg>
 <Citg>
@@ -46611,7 +47347,11 @@ M
 <Wd CyrId="незнайка">ńeznajka</Wd>
 </WdCtn>
 <tk3 isa="quest"/></Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="myv">
+<GeoU>Mar</GeoU>
+</GeoUBz>
+</GeoUB>
 <CitT xml:lang="deu">[Wer von euch weiss, wo befindet sich “Weissnicht”?].</CitT>
 </Citg>
 </MWUB>
@@ -47563,7 +48303,11 @@ M
 <Wd CyrId="молят">moĺat</Wd>
 </WdCtn>
 <tk3 isa="quest"/></Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="mdf">
+<GeoU>P</GeoU>
+</GeoUBz>
+</GeoUB>
 <CitT xml:lang="deu">Wie weit wirst du heute gehen? Eine wie grosse Strecke wirst du heute zurücklegen?</CitT>
 </Citg>
 <Citg>
@@ -48800,7 +49544,11 @@ M
 <Wd CyrId="коволдоннят">kovə̑ldə̑ńńat</Wd>
 </WdCtn>
 </Cit>
-<GeoNeed/>
+<GeoUB>
+<GeoUBz xml:lang="mdf">
+<GeoU>P</GeoU>
+</GeoUBz>
+</GeoUB>
 <CitT xml:lang="deu">Woher bist du (gekommen, gebürtig)?</CitT>
 </Citg>
 <Citg>
