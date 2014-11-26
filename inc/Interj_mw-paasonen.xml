@@ -5,7 +5,7 @@
 <HWB>
 <E3Head><POS freeType="morphological" pos="Interj-syntax"/></E3Head>
 <PhnUG>
-<lg xml:lang="myv"><l>ух</l>
+<lg xml:lang="myv"><l pos="Interj">ух</l>
 <st>ух</st>
 </lg>
 <PhnUBlock>
@@ -19,12 +19,12 @@
 <sources>
 <book name="Chr" xml:lang="myv"/>
 </sources>
-<GeoUBz xml:lang="myv">
+<GeoUB xml:lang="myv">
 <GeoU>Mar</GeoU>
 <GeoU>NSurk</GeoU>
 <GeoU>Is</GeoU>
 <GeoU>Jeg</GeoU>
-</GeoUBz>
+</GeoUB>
 </PhnUBlock>
 <PhnUBlock>
 <PhnUCtn>
@@ -34,13 +34,13 @@
 </WdCtn>
 </PhnU>
 </PhnUCtn>
-<GeoUBz xml:lang="myv">
+<GeoUB xml:lang="myv">
 <GeoU>SŠant</GeoU>
-</GeoUBz>
+</GeoUB>
 </PhnUBlock>
 </PhnUG>
 <PhnUG>
-<lg xml:lang="mdf"><l>ух</l>
+<lg xml:lang="mdf"><l pos="Interj">ух</l>
 <st>ух</st>
 </lg>
 <PhnUBlock>
@@ -51,9 +51,9 @@
 </WdCtn>
 </PhnU>
 </PhnUCtn>
-<GeoUBz xml:lang="mdf">
+<GeoUB xml:lang="mdf">
 <GeoU>P</GeoU>
-</GeoUBz>
+</GeoUB>
 </PhnUBlock>
 </PhnUG>
 <SenseGroup>
@@ -68,14 +68,14 @@
 <t>ach!</t>
 </tg>
 <dfQl1>(
-<GeoUBz xml:lang="mdf">
+<GeoUB xml:lang="mdf">
 <GeoU>P: Seufzer od. Ausruf der Ermüdung</GeoU>
-</GeoUBz>
+</GeoUB>
 )</dfQl1>
 </mg>
 </SenseGroup>
-<Citg>
-<Cit>
+<xg>
+<x>
 <WdCtn>
 <Wd myvId="ух">uᵪ</Wd>
 </WdCtn>
@@ -96,17 +96,17 @@
 <WdCtn>
 <Wd myvId="котасо">kotaso</Wd>
 </WdCtn>
-</Cit>
-<GeoUBz xml:lang="myv">
+</x>
+<GeoUB xml:lang="myv">
 <GeoU>Mar</GeoU>
-</GeoUBz>
+</GeoUB>
 <sources>
 <book name="1" pg="18"/>
 </sources>
-<CitT xml:lang="deu">O, jeden Tag geht Pelagia in Schuhen.</CitT>
-</Citg>
-<Citg>
-<Cit>
+<xt xml:lang="deu">O, jeden Tag geht Pelagia in Schuhen.</xt>
+</xg>
+<xg>
+<x>
 <WdCtn>
 <Wd myvId="ух">uᵪ</Wd>
 </WdCtn>
@@ -127,17 +127,17 @@
 <WdCtn>
 <Wd myvId="ашчан">aščan</Wd>
 </WdCtn>
-</Cit>
-<GeoUBz xml:lang="myv">
+</x>
+<GeoUB xml:lang="myv">
 <GeoU>Mar</GeoU>
-</GeoUBz>
+</GeoUB>
 <sources>
 <book name="1" pg="216"/>
 </sources>
-<CitT xml:lang="deu">Ach, so lange ich da stehe.</CitT>
-</Citg>
-<Citg>
-<Cit>
+<xt xml:lang="deu">Ach, so lange ich da stehe.</xt>
+</xg>
+<xg>
+<x>
 <WdCtn>
 <Wd myvId="ух">uᵪ</Wd>
 </WdCtn>
@@ -154,17 +154,17 @@
 <WdCtn>
 <Wd myvId="дири·нем">d́iŕi·ńem</Wd>
 </WdCtn>
-</Cit>
-<GeoUBz xml:lang="myv">
+</x>
+<GeoUB xml:lang="myv">
 <GeoU>Jeg</GeoU>
-</GeoUBz>
+</GeoUB>
 <sources>
 <book name="1" pg="88"/>
 </sources>
-<CitT xml:lang="deu">Ach, Mütterchen, Verpflegerin!</CitT>
-</Citg>
-<Citg>
-<Cit>
+<xt xml:lang="deu">Ach, Mütterchen, Verpflegerin!</xt>
+</xg>
+<xg>
+<x>
 <WdCtn>
 <Wd myvId="ух">uᵪ</Wd>
 </WdCtn>
@@ -199,17 +199,17 @@
 <WdCtn>
 <Wd myvId="молян">moĺan</Wd>
 </WdCtn>
-</Cit>
-<GeoUBz xml:lang="myv">
+</x>
+<GeoUB xml:lang="myv">
 <GeoU>Is</GeoU>
-</GeoUBz>
+</GeoUB>
 <sources>
 <book name="I" pg="220"/>
 </sources>
-<CitT xml:lang="deu">Ach, wohin gehe ich, [Baschkirin,] um nicht zu weinen?</CitT>
-</Citg>
-<Citg>
-<Cit>
+<xt xml:lang="deu">Ach, wohin gehe ich, [Baschkirin,] um nicht zu weinen?</xt>
+</xg>
+<xg>
+<x>
 <WdCtn>
 <Wd mdfId="ух">uᵪ</Wd>
 </WdCtn>
@@ -221,12 +221,12 @@
 <WdCtn>
 <Wd mdfId="моли">moĺi</Wd>
 </WdCtn>
-</Cit>
-<GeoUBz xml:lang="mdf">
+</x>
+<GeoUB xml:lang="mdf">
 <GeoU>P</GeoU>
-</GeoUBz>
-<CitT xml:lang="deu">[Kein Seufzer ist zu hören].</CitT>
-</Citg>
+</GeoUB>
+<xt xml:lang="deu">[Kein Seufzer ist zu hören].</xt>
+</xg>
 </HWB>
 <Etg>
 <EtSrcL xml:lang="rus"/>
@@ -237,7 +237,7 @@
 <HWB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
 <PhnUG>
-<lg xml:lang="myv"><l>уха</l>
+<lg xml:lang="myv"><l pos="Interj">уха</l>
 <st>уха</st>
 </lg>
 <PhnUBlock>
@@ -248,14 +248,14 @@
 </WdCtn>
 </PhnU>
 </PhnUCtn>
-<GeoUBz xml:lang="myv">
+<GeoUB xml:lang="myv">
 <GeoU>NSurk</GeoU>
-</GeoUBz>
+</GeoUB>
 </PhnUBlock>
 </PhnUG>
 <PhnUG>
 <!-- Not original -->
-<lg xml:lang="mdf"><lem2/><st/>
+<lg xml:lang="mdf"><l/><st/>
 </lg>
 </PhnUG>
 <DrvG>[<comment/><DrvStCtn><DrvSt><WdCtn><Wd CyrId="ух">uᵪ</Wd></WdCtn></DrvSt></DrvStCtn><fnct>+</fnct><DrvStCtn><DrvSt><WdCtn><Wd CyrId="а">a</Wd></WdCtn></DrvSt></DrvStCtn>]</DrvG>
@@ -269,8 +269,8 @@
 </tg>
 </mg>
 </SenseGroup>
-<Citg>
-<Cit>
+<xg>
+<x>
 <WdCtn>
 <Wd myvId="уха">uᵪa</Wd>
 </WdCtn>
@@ -297,22 +297,22 @@
 <WdCtn>
 <Wd myvId="ванынем">vani͔ńem</Wd>
 </WdCtn>
-</Cit>
-<GeoUBz xml:lang="myv">
+</x>
+<GeoUB xml:lang="myv">
 <GeoU>NSurk</GeoU>
-</GeoUBz>
+</GeoUB>
 <sources>
 <book name="II" pg="454"/>
 </sources>
-<CitT xml:lang="deu">Oh, Vater, mein Ernährer, oh, Mutter, meine Betreuerin!</CitT>
-</Citg>
+<xt xml:lang="deu">Oh, Vater, mein Ernährer, oh, Mutter, meine Betreuerin!</xt>
+</xg>
 </HWB>
 </DictionaryEntry>
 <DictionaryEntry>
 <HWB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
 <PhnUG>
-<lg xml:lang="myv"><l>ухай</l>
+<lg xml:lang="myv"><l pos="Interj">ухай</l>
 <st>ухай</st>
 </lg>
 <PhnUBlock>
@@ -323,13 +323,13 @@
 </WdCtn>
 </PhnU>
 </PhnUCtn>
-<GeoUBz xml:lang="myv">
+<GeoUB xml:lang="myv">
 <GeoU>Jeg</GeoU>
-</GeoUBz>
+</GeoUB>
 </PhnUBlock>
 </PhnUG>
 <PhnUG>
-<lg xml:lang="mdf"><l>уфай</l>
+<lg xml:lang="mdf"><l pos="Interj">уфай</l>
 <st>уфай</st>
 </lg>
 <PhnUBlock>
@@ -340,12 +340,12 @@
 </WdCtn>
 </PhnU>
 </PhnUCtn>
-<GeoUBz xml:lang="mdf">
+<GeoUB xml:lang="mdf">
 <GeoU>Kr</GeoU>
 <GeoUCtn>
 <GeoU edit="MK">Mam</GeoU>
 </GeoUCtn>
-</GeoUBz>
+</GeoUB>
 </PhnUBlock>
 </PhnUG>
 <DrvG>[<comment/><DrvStCtn><DrvSt><WdCtn><Wd CyrId="ух">uᵪ</Wd></WdCtn></DrvSt></DrvStCtn><fnct>+</fnct><DrvStCtn><DrvSt><WdCtn><Wd CyrId="(в)ай">(v)aj</Wd></WdCtn></DrvSt></DrvStCtn>]</DrvG>
@@ -359,8 +359,8 @@
 </tg>
 </mg>
 </SenseGroup>
-<Citg>
-<Cit>
+<xg>
+<x>
 <WdCtn>
 <Wd myvId="ухай">uᵪaj</Wd>
 </WdCtn>
@@ -378,17 +378,17 @@
 <WdCtn>
 <Wd myvId="кирдиви">ḱiŕd́iv́i</Wd>
 </WdCtn>
-</Cit>
-<GeoUBz xml:lang="myv">
+</x>
+<GeoUB xml:lang="myv">
 <GeoU>Jeg</GeoU>
-</GeoUBz>
+</GeoUB>
 <sources>
 <book name="1" pg="96"/>
 </sources>
-<CitT xml:lang="deu">O, mein Kindchen, du kannst sie nicht führen.</CitT>
-</Citg>
-<Citg>
-<Cit>
+<xt xml:lang="deu">O, mein Kindchen, du kannst sie nicht führen.</xt>
+</xg>
+<xg>
+<x>
 <WdCtn>
 <Wd mdfId="уфай">ufaj</Wd>
 </WdCtn>
@@ -401,17 +401,17 @@
 <WdCtn>
 <Wd mdfId="авакай">avakaj</Wd>
 </WdCtn>
-</Cit>
-<GeoUBz xml:lang="mdf">
+</x>
+<GeoUB xml:lang="mdf">
 <GeoU>Kr</GeoU>
-</GeoUBz>
+</GeoUB>
 <sources>
 <book name="IV" pg="7"/>
 </sources>
-<CitT xml:lang="deu">O, Mutter, Mutter!</CitT>
-</Citg>
-<Citg>
-<Cit>
+<xt xml:lang="deu">O, Mutter, Mutter!</xt>
+</xg>
+<xg>
+<x>
 <WdCtn>
 <Wd mdfId="уфай">ufaj</Wd>
 </WdCtn>
@@ -424,19 +424,19 @@
 <WdCtn>
 <Wd edit="MK" mdfId="тураки">turaḱi</Wd>
 </WdCtn>
-</Cit>
-<GeoUBz edit="MK" xml:lang="mdf">
+</x>
+<GeoUB edit="MK" xml:lang="mdf">
 <GeoUCtn>
 <GeoU edit="MK">Mam</GeoU>
 </GeoUCtn>
-</GeoUBz>
+</GeoUB>
 <sources>
 <book name="IV" pg="146"/>
 </sources>
-<CitT xml:lang="deu">O, ihr Alten, ihr Dummköpfe!</CitT>
-</Citg>
-<Citg>
-<Cit>
+<xt xml:lang="deu">O, ihr Alten, ihr Dummköpfe!</xt>
+</xg>
+<xg>
+<x>
 <WdCtn>
 <Wd mdfId="уфай">ufaj</Wd>
 </WdCtn>
@@ -454,17 +454,17 @@
 <WdCtn>
 <Wd edit="MK" mdfId="эднязя">ed́ńä·źä</Wd>
 </WdCtn>
-</Cit>
-<GeoUBz edit="MK" xml:lang="mdf">
+</x>
+<GeoUB edit="MK" xml:lang="mdf">
 <GeoUCtn>
 <GeoU edit="MK">Mam</GeoU>
 </GeoUCtn>
-</GeoUBz>
+</GeoUB>
 <sources>
 <book name="IV" pg="283"/>
 </sources>
-<CitT xml:lang="deu">O, Sofa, Sofa, mein Kind!</CitT>
-</Citg>
+<xt xml:lang="deu">O, Sofa, Sofa, mein Kind!</xt>
+</xg>
 </HWB>
 </DictionaryEntry>
 <DictionaryEntry>
@@ -482,10 +482,10 @@
 </WdCtn>
 </PhnU>
 </PhnUCtn>
-<GeoUBz xml:lang="myv">
+<GeoUB xml:lang="myv">
 <GeoU>Mar</GeoU>
 <GeoU>Večk</GeoU>
-</GeoUBz>
+</GeoUB>
 </PhnUBlock>
 <PhnUBlock>
 <PhnUCtn>
@@ -495,14 +495,14 @@
 </WdCtn>
 </PhnU>
 </PhnUCtn>
-<GeoUBz xml:lang="myv">
+<GeoUB xml:lang="myv">
 <GeoU>Ba</GeoU>
-</GeoUBz>
+</GeoUB>
 </PhnUBlock>
 </PhnUG>
 <PhnUG>
 <!-- Not original -->
-<lg xml:lang="mdf"><lem2/><st/>
+<lg xml:lang="mdf"><l/><st/>
 </lg>
 </PhnUG>
 <DrvG><DrvT vl="momentative"/></DrvG>
@@ -519,9 +519,9 @@
 <t>halloen</t>
 </tg>
 <dfQl1>(
-<GeoUBz xml:lang="myv">
+<GeoUB xml:lang="myv">
 <GeoU>Mar</GeoU>
-</GeoUBz>
+</GeoUB>
 )</dfQl1>
 </mg>
 </SenseGroup>
@@ -535,9 +535,9 @@
 <t>ächzen</t>
 </tg>
 <dfQl1>(
-<GeoUBz xml:lang="myv">
+<GeoUB xml:lang="myv">
 <GeoU>Večk</GeoU>
-</GeoUBz>
+</GeoUB>
 )</dfQl1>
 </mg>
 </SenseGroup>
@@ -551,9 +551,9 @@
 <t>durch Zauberei Liebe erwecken (Geheimw.)</t>
 </tg>
 <dfQl1>(
-<GeoUBz xml:lang="myv">
+<GeoUB xml:lang="myv">
 <GeoU>Ba</GeoU>
-</GeoUBz>
+</GeoUB>
 )</dfQl1>
 </mg>
 </SenseGroup>
@@ -589,10 +589,10 @@
 </WdCtn>
 </PhnU>
 </PhnUCtn>
-<GeoUBz xml:lang="myv">
+<GeoUB xml:lang="myv">
 <GeoU>Mar</GeoU>
 <GeoU>Večk</GeoU>
-</GeoUBz>
+</GeoUB>
 </PhnUBlock>
 <PhnUBlock>
 <PhnUCtn>
@@ -602,14 +602,14 @@
 </WdCtn>
 </PhnU>
 </PhnUCtn>
-<GeoUBz xml:lang="myv">
+<GeoUB xml:lang="myv">
 <GeoU>Ba</GeoU>
-</GeoUBz>
+</GeoUB>
 </PhnUBlock>
 </PhnUG>
 <PhnUG>
 <!-- Not original -->
-<lg xml:lang="mdf"><lem2/><st/>
+<lg xml:lang="mdf"><l/><st/>
 </lg>
 </PhnUG>
 <DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><WdCtn><Wd CyrId="ухадемс">uᵪad́ems</Wd></WdCtn></DrvSt></DrvStCtn></DrvG>
@@ -624,9 +624,9 @@
 <t>halloen</t>
 </tg>
 <dfQl1>(
-<GeoUBz xml:lang="myv">
+<GeoUB xml:lang="myv">
 <GeoU>Mar</GeoU>
-</GeoUBz>
+</GeoUB>
 )</dfQl1>
 </mg>
 </SenseGroup>
@@ -647,13 +647,13 @@
 </WdCtn>
 </PhnU>
 </PhnUCtn>
-<GeoUBz xml:lang="myv">
+<GeoUB xml:lang="myv">
 <GeoU>Mar</GeoU>
 <GeoU>Atr</GeoU>
 <GeoU>Ba</GeoU>
 <GeoU>Večk</GeoU>
 <GeoU>SŠant</GeoU>
-</GeoUBz>
+</GeoUB>
 </PhnUBlock>
 </PhnUG>
 <PhnUG>
@@ -705,9 +705,9 @@
 </PhnUCtn>
 </Vrt>
 </Chc>
-<GeoUBz xml:lang="mdf">
+<GeoUB xml:lang="mdf">
 <GeoU>P</GeoU>
-</GeoUBz>
+</GeoUB>
 </PhnUBlock>
 <PhnUBlock>
 <PhnUCtn>
@@ -717,9 +717,9 @@
 </WdCtn>
 </PhnU>
 </PhnUCtn>
-<GeoUBz xml:lang="mdf">
+<GeoUB xml:lang="mdf">
 <GeoU>Pš</GeoU>
-</GeoUBz>
+</GeoUB>
 </PhnUBlock>
 <PhnUBlock>
 <Chc>
@@ -742,9 +742,9 @@
 </PhnUCtn>
 </Vrt>
 </Chc>
-<GeoUBz xml:lang="mdf">
+<GeoUB xml:lang="mdf">
 <GeoU>Sel</GeoU>
-</GeoUBz>
+</GeoUB>
 </PhnUBlock>
 <PhnUBlock>
 <PhnUCtn>
@@ -754,9 +754,9 @@
 </WdCtn>
 </PhnU>
 </PhnUCtn>
-<GeoUBz xml:lang="mdf">
+<GeoUB xml:lang="mdf">
 <GeoU>Sučk</GeoU>
-</GeoUBz>
+</GeoUB>
 </PhnUBlock>
 </PhnUG>
 <DrvG><DrvT vl="momentative"/></DrvG>
@@ -769,17 +769,17 @@
 <t>(auf)seufzen</t>
 </tg>
 <t xml:lang="deu">(auf)stöhnen (
-<GeoUBz xml:lang="myv">
+<GeoUB xml:lang="myv">
 <GeoU>Mar</GeoU> 
 <GeoU>Atr</GeoU> 
 <GeoU>Ba</GeoU> 
 <GeoU>Večk</GeoU> 
 <GeoU>SŠant</GeoU>
-</GeoUBz>
+</GeoUB>
  
-<GeoUBz xml:lang="mdf">
+<GeoUB xml:lang="mdf">
 <GeoU>P</GeoU>
-</GeoUBz>
+</GeoUB>
  [<FrnTxt><WdCtn>
 <Wd CyrId="ухкстомс">uᵪkstə̑ms</Wd>
 </WdCtn></FrnTxt>] 
@@ -798,14 +798,14 @@
 <t>ächzen</t>
 </tg>
 <t xml:lang="deu">stöhnen (
-<GeoUBz xml:lang="myv">
+<GeoUB xml:lang="myv">
 <GeoU>Ba</GeoU> 
 <GeoU>Večk</GeoU>
-</GeoUBz>
+</GeoUB>
  
-<GeoUBz xml:lang="mdf">
+<GeoUB xml:lang="mdf">
 <GeoU>P</GeoU>
-</GeoUBz>
+</GeoUB>
  [<FrnTxt><WdCtn>
 <Wd CyrId="уфкстомс">ufkstə̑ms</Wd>
 </WdCtn></FrnTxt>] 
@@ -819,14 +819,14 @@
 <t edit="MK">промычать</t>
 </tg>
 <t xml:lang="deu">einen unartikulierten Laut hervorstossen (
-<GeoUBz xml:lang="mdf">
+<GeoUB xml:lang="mdf">
 <GeoU>P</GeoU>
-</GeoUBz>
+</GeoUB>
 : wenn man sprechen will, aber nur ein undeutlicher Laut herauskommt) (
-<GeoUBz xml:lang="mdf">
+<GeoUB xml:lang="mdf">
 <GeoU>P</GeoU> 
 <GeoU>Sel</GeoU>
-</GeoUBz>
+</GeoUB>
  [<FrnTxt><WdCtn>
 <Wd CyrId="укстомс">ukstə̑ms</Wd>
 </WdCtn></FrnTxt>])</t>
@@ -843,9 +843,9 @@
 <t>(aus)rufen</t>
 </tg>
 <Cm>
-<GeoUBz xml:lang="mdf">
+<GeoUB xml:lang="mdf">
 <GeoU>Sel</GeoU>
-</GeoUBz>
+</GeoUB>
  [<FrnTxt><WdCtn>
 <Wd CyrId="ухкстомс">uᵪkstə̑ms</Wd>
 </WdCtn></FrnTxt>]</Cm>
@@ -869,14 +869,14 @@
 </WdCtn>
 </PhnU>
 </PhnUCtn>
-<GeoUBz xml:lang="myv">
+<GeoUB xml:lang="myv">
 <GeoU>Mar</GeoU>
-</GeoUBz>
+</GeoUB>
 </PhnUBlock>
 </PhnUG>
 <PhnUG>
 <!-- Not original -->
-<lg xml:lang="mdf"><lem2/><st/>
+<lg xml:lang="mdf"><l/><st/>
 </lg>
 </PhnUG>
 <DrvG><DrvT vl="iterative"/><DrvStCtn><DrvSt><WdCtn><Wd CyrId="укстамс">ukstams</Wd></WdCtn></DrvSt></DrvStCtn></DrvG>
@@ -911,15 +911,15 @@
 </WdCtn>
 </PhnU>
 </PhnUCtn>
-<GeoUBz xml:lang="myv">
+<GeoUB xml:lang="myv">
 <GeoU>Mar</GeoU>
 <GeoU>Atr</GeoU>
-</GeoUBz>
+</GeoUB>
 </PhnUBlock>
 </PhnUG>
 <PhnUG>
 <!-- Not original -->
-<lg xml:lang="mdf"><lem2/><st/>
+<lg xml:lang="mdf"><l/><st/>
 </lg>
 </PhnUG>
 <DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><WdCtn><Wd CyrId="укстамс">ukstams</Wd></WdCtn></DrvSt></DrvStCtn></DrvG>
@@ -952,9 +952,9 @@
 </WdCtn>
 </PhnU>
 </PhnUCtn>
-<GeoUBz xml:lang="myv">
+<GeoUB xml:lang="myv">
 <GeoU>Večk</GeoU>
-</GeoUBz>
+</GeoUB>
 </PhnUBlock>
 </PhnUG>
 <PhnUG>
@@ -1006,9 +1006,9 @@
 </PhnUCtn>
 </Vrt>
 </Chc>
-<GeoUBz xml:lang="mdf">
+<GeoUB xml:lang="mdf">
 <GeoU>P</GeoU>
-</GeoUBz>
+</GeoUB>
 </PhnUBlock>
 <PhnUBlock>
 <PhnUCtn>
@@ -1018,9 +1018,9 @@
 </WdCtn>
 </PhnU>
 </PhnUCtn>
-<GeoUBz xml:lang="mdf">
+<GeoUB xml:lang="mdf">
 <GeoU>Sel</GeoU>
-</GeoUBz>
+</GeoUB>
 </PhnUBlock>
 </PhnUG>
 <DrvG><DrvT vl="frequentative"/><DrvSt><CapI>
@@ -1046,12 +1046,12 @@
 <t>stöhnen</t>
 </tg>
 <dfQl1>(
-<GeoUBz xml:lang="myv">
+<GeoUB xml:lang="myv">
 <GeoU>Večk</GeoU>
-</GeoUBz>
-<GeoUBz xml:lang="mdf">
+</GeoUB>
+<GeoUB xml:lang="mdf">
 <GeoU>P</GeoU>
-</GeoUBz>
+</GeoUB>
 )</dfQl1>
 </mg>
 </SenseGroup>
@@ -1067,9 +1067,9 @@
 <t>halloen</t>
 </tg>
 <dfQl1>(
-<GeoUBz xml:lang="mdf">
+<GeoUB xml:lang="mdf">
 <GeoU>Sel</GeoU>
-</GeoUBz>
+</GeoUB>
 )</dfQl1>
 </mg>
 </SenseGroup>
@@ -1095,9 +1095,9 @@
 </WdCtn>
 </PhnU>
 </PhnUCtn>
-<GeoUBz xml:lang="mdf">
+<GeoUB xml:lang="mdf">
 <GeoU>Sel</GeoU>
-</GeoUBz>
+</GeoUB>
 </PhnUBlock>
 </PhnUG>
 <SenseGroup>
@@ -1118,7 +1118,7 @@
 <HWB>
 <E3Head><POS freeType="morphological" pos="Interj-syntax"/></E3Head>
 <PhnUG>
-<lg xml:lang="myv"><l>цюр</l>
+<lg xml:lang="myv"><l pos="Interj">цюр</l>
 <st>цюр</st>
 </lg>
 <PhnUBlock>
@@ -1145,17 +1145,17 @@
 <sources>
 <book name="Chr" xml:lang="myv"/>
 </sources>
-<GeoUBz xml:lang="myv">
+<GeoUB xml:lang="myv">
 <GeoU>Mar</GeoU>
 <GeoU>Ba</GeoU>
 <GeoU>Večk</GeoU>
 <GeoU>MKka</GeoU>
 <GeoU>Ufa</GeoU>
-</GeoUBz>
+</GeoUB>
 </PhnUBlock>
 </PhnUG>
 <PhnUG>
-<lg xml:lang="mdf"><l>тсюр</l>
+<lg xml:lang="mdf"><l pos="Interj">тсюр</l>
 <st>тсюр</st>
 </lg>
 <PhnUBlock>
@@ -1169,10 +1169,10 @@
 <sources>
 <book name="Chr" xml:lang="mdf"/>
 </sources>
-<GeoUBz xml:lang="mdf">
+<GeoUB xml:lang="mdf">
 <GeoU>P</GeoU>
 <GeoU>Sučk</GeoU>
-</GeoUBz>
+</GeoUB>
 </PhnUBlock>
 </PhnUG>
 <SenseGroup>
@@ -1190,8 +1190,8 @@
 </WdCtn></FrnTxt>) sich zu bewegen glaubt)</t>
 </mg>
 </SenseGroup>
-<Citg>
-<Cit>
+<xg>
+<x>
 <WdCtn>
 <Wd myvId="цюр">ćur</Wd>
 </WdCtn>
@@ -1216,18 +1216,18 @@
 <WdCtn>
 <Wd myvId="цюр">ćur</Wd>
 </WdCtn>
-</Cit>
+</x>
 [
-<GeoUBz xml:lang="myv">
+<GeoUB xml:lang="myv">
 <GeoUCtn>
 <FrCm freeType="questionRelation" Modification="manus"/>
 <GeoU>Večk]</GeoU>
 </GeoUCtn>
-</GeoUBz>
-<CitT xml:lang="deu">(Geh) in die Zaunstange!</CitT>
-</Citg>
-<Citg>
-<Cit>
+</GeoUB>
+<xt xml:lang="deu">(Geh) in die Zaunstange!</xt>
+</xg>
+<xg>
+<x>
 <WdCtn>
 <Wd myvId="цюр">ćur</Wd>
 </WdCtn>
@@ -1243,18 +1243,18 @@
 <WdCtn>
 <Wd myvId="прязот">pŕazot</Wd>
 </WdCtn>
-</Cit>
+</x>
 [
-<GeoUBz xml:lang="myv">
+<GeoUB xml:lang="myv">
 <GeoUCtn>
 <FrCm freeType="questionRelation" Modification="manus"/>
 <GeoU>Večk]</GeoU>
 </GeoUCtn>
-</GeoUBz>
-<CitT xml:lang="deu">Die Verfluchung richte sich gegen dich selbst!</CitT>
-</Citg>
-<Citg>
-<Cit>
+</GeoUB>
+<xt xml:lang="deu">Die Verfluchung richte sich gegen dich selbst!</xt>
+</xg>
+<xg>
+<x>
 <WdCtn>
 <Wd myvId="цюр">ćur</Wd>
 </WdCtn>
@@ -1262,14 +1262,14 @@
 <WdCtn>
 <Wd myvId="монь">moń</Wd>
 </WdCtn>
-</Cit>
-<GeoUBz xml:lang="myv">
+</x>
+<GeoUB xml:lang="myv">
 <GeoU>Kad</GeoU>
-</GeoUBz>
-<CitT xml:lang="deu">Beschütze mich! (sagt man z.B. wenn ein Wirbelwind herankommt).</CitT>
-</Citg>
-<Citg>
-<Cit>
+</GeoUB>
+<xt xml:lang="deu">Beschütze mich! (sagt man z.B. wenn ein Wirbelwind herankommt).</xt>
+</xg>
+<xg>
+<x>
 <WdCtn>
 <Wd myvId="тото">toto</Wd>
 </WdCtn>
@@ -1314,17 +1314,17 @@
 <WdCtn>
 <Wd myvId="народось">narodoś</Wd>
 </WdCtn>
-</Cit>
-<GeoUBz edit="MK" xml:lang="myv">
+</x>
+<GeoUB edit="MK" xml:lang="myv">
 <GeoUCtn>
 <GeoU edit="MK">MKka</GeoU>
 </GeoUCtn>
-</GeoUBz>
+</GeoUB>
 <sources>
 <book name="II" pg="107"/>
 </sources>
-<CitT xml:lang="deu">Gott bewahre (einen) vor fremdem Lande, Gott behüte (einen) vor fremdem Volke!</CitT>
-</Citg>
+<xt xml:lang="deu">Gott bewahre (einen) vor fremdem Lande, Gott behüte (einen) vor fremdem Volke!</xt>
+</xg>
 </HWB>
 <Etg>
 <EtSrcL xml:lang="rus"/>
@@ -1335,7 +1335,7 @@
 <HWB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
 <PhnUG>
-<lg xml:lang="myv"><l>цюрбуть</l>
+<lg xml:lang="myv"><l pos="Interj">цюрбуть</l>
 <st>цюрбуть</st>
 </lg>
 <PhnUBlock>
@@ -1346,14 +1346,14 @@
 </WdCtn>
 </PhnU>
 </PhnUCtn>
-<GeoUBz xml:lang="myv">
+<GeoUB xml:lang="myv">
 <GeoU>Večk</GeoU>
-</GeoUBz>
+</GeoUB>
 </PhnUBlock>
 </PhnUG>
 <PhnUG>
 <!-- Not original -->
-<lg xml:lang="mdf"><lem2/><st/>
+<lg xml:lang="mdf"><l/><st/>
 </lg>
 </PhnUG>
 <SenseGroup>
@@ -1366,8 +1366,8 @@
 </tg>
 </mg>
 </SenseGroup>
-<Citg>
-<Cit>
+<xg>
+<x>
 <WdCtn>
 <Wd myvId="цюрбуть">ćurbut́</Wd>
 </WdCtn>
@@ -1379,14 +1379,14 @@
 <WdCtn>
 <Wd myvId="мазы">mazi͔</Wd>
 </WdCtn>
-</Cit>
-<GeoUBz xml:lang="myv">
+</x>
+<GeoUB xml:lang="myv">
 <GeoU>Večk</GeoU>
-</GeoUBz>
-<CitT xml:lang="deu">Behüte davor, wie schön!</CitT>
-</Citg>
-<Citg>
-<Cit>
+</GeoUB>
+<xt xml:lang="deu">Behüte davor, wie schön!</xt>
+</xg>
+<xg>
+<x>
 <WdCtn>
 <Wd myvId="цюрбуть">ćurbut́</Wd>
 </WdCtn>
@@ -1398,12 +1398,12 @@
 <WdCtn>
 <Wd myvId="радувась">raduvaś</Wd>
 </WdCtn>
-</Cit>
-<GeoUBz xml:lang="myv">
+</x>
+<GeoUB xml:lang="myv">
 <GeoU>Večk</GeoU>
-</GeoUBz>
-<CitT xml:lang="deu">[Behüte davor, wie er sich freute!].</CitT>
-</Citg>
+</GeoUB>
+<xt xml:lang="deu">[Behüte davor, wie er sich freute!].</xt>
+</xg>
 </HWB>
 <Etg>
 <EtSrcL xml:lang="rus"/>
@@ -1428,9 +1428,9 @@
 <sources>
 <book name="Chr" xml:lang="myv"/>
 </sources>
-<GeoUBz xml:lang="myv">
+<GeoUB xml:lang="myv">
 <GeoU>Mar</GeoU>
-</GeoUBz>
+</GeoUB>
 </PhnUBlock>
 <PhnUBlock>
 <PhnUCtn>
@@ -1440,11 +1440,11 @@
 </WdCtn>
 </PhnU>
 </PhnUCtn>
-<GeoUBz xml:lang="myv">
+<GeoUB xml:lang="myv">
 <GeoU>Atr</GeoU>
 <GeoU>Ba</GeoU>
 <GeoU>Kad</GeoU>
-</GeoUBz>
+</GeoUB>
 </PhnUBlock>
 <PhnUBlock>
 <Chc>
@@ -1467,9 +1467,9 @@
 </PhnUCtn>
 </Vrt>
 </Chc>
-<GeoUBz xml:lang="myv">
+<GeoUB xml:lang="myv">
 <GeoU>Večk</GeoU>
-</GeoUBz>
+</GeoUB>
 </PhnUBlock>
 <PhnUBlock>
 <PhnUCtn>
@@ -1479,9 +1479,9 @@
 </WdCtn>
 </PhnU>
 </PhnUCtn>
-<GeoUBz xml:lang="myv">
+<GeoUB xml:lang="myv">
 <GeoU>StŠant</GeoU>
-</GeoUBz>
+</GeoUB>
 </PhnUBlock>
 </PhnUG>
 <PhnUG>
@@ -1499,9 +1499,9 @@
 <sources>
 <book name="Chr" xml:lang="mdf"/>
 </sources>
-<GeoUBz xml:lang="mdf">
+<GeoUB xml:lang="mdf">
 <GeoU>Čemb</GeoU>
-</GeoUBz>
+</GeoUB>
 </PhnUBlock>
 <PhnUBlock>
 <PhnUCtn>
@@ -1529,9 +1529,9 @@
 </InflCtn>
 </InflB></PhnU>
 </PhnUCtn>
-<GeoUBz xml:lang="mdf">
+<GeoUB xml:lang="mdf">
 <GeoU>P</GeoU>
-</GeoUBz>
+</GeoUB>
 </PhnUBlock>
 <PhnUBlock>
 <Chc>
@@ -1555,9 +1555,9 @@
 </PhnUCtn>
 </Vrt>
 </Chc>
-<GeoUBz xml:lang="mdf">
+<GeoUB xml:lang="mdf">
 <GeoU>Pš</GeoU>
-</GeoUBz>
+</GeoUB>
 </PhnUBlock>
 <PhnUBlock>
 <PhnUCtn>
@@ -1567,9 +1567,9 @@
 </WdCtn>
 </PhnU>
 </PhnUCtn>
-<GeoUBz xml:lang="mdf">
+<GeoUB xml:lang="mdf">
 <GeoU>Sučk</GeoU>
-</GeoUBz>
+</GeoUB>
 </PhnUBlock>
 <PhnUBlock>
 <PhnUCtn>
@@ -1579,9 +1579,9 @@
 </WdCtn>
 </PhnU>
 </PhnUCtn>
-<GeoUBz xml:lang="mdf">
+<GeoUB xml:lang="mdf">
 <GeoU>Jurtk</GeoU>
-</GeoUBz>
+</GeoUB>
 </PhnUBlock>
 </PhnUG>
 <SenseGroup>
@@ -1592,48 +1592,48 @@
 <t xml:lang="deu">etw. Böses durch eine Zauberhandlung abwehren (<sources>
 <book name="Chr" xml:lang="myv"/>
 </sources> 
-<GeoUBz xml:lang="myv">
+<GeoUB xml:lang="myv">
 <GeoU>Atr</GeoU> 
 <GeoU>Ba</GeoU> 
 <GeoU>Kad</GeoU> 
 <GeoU>Večk</GeoU>
-</GeoUBz>
+</GeoUB>
  <sources>
 <book name="Chr" xml:lang="mdf"/>
 </sources> 
-<GeoUBz xml:lang="mdf">
+<GeoUB xml:lang="mdf">
 <GeoU>P</GeoU> 
 <GeoU>Pš</GeoU> 
 <GeoU>Sučk</GeoU>
-</GeoUBz>
+</GeoUB>
 : <cyr>[кричать</cyr> <FrnTxt><WdCtn>
 <Wd CyrId="цюр">ćur</Wd>
 </WdCtn></FrnTxt> <cyr>в защиту от чего-л.]</cyr> / das Zauberwort <FrnTxt><WdCtn>
 <Wd CyrId="цюр">ćur</Wd>
 </WdCtn></FrnTxt> zum Schutz zurufen; 
-<GeoUBz xml:lang="myv">
+<GeoUB xml:lang="myv">
 <GeoU>Mar</GeoU> 
 <GeoU>Večk</GeoU>
-</GeoUBz>
+</GeoUB>
  
-<GeoUBz xml:lang="mdf">
+<GeoUB xml:lang="mdf">
 <GeoU>Čemb</GeoU>
-</GeoUBz>
+</GeoUB>
 : <cyr>окружить, [оградить]</cyr> / umringen, umgeben mit etw. [zum Schutz gegen Hexen, Unfälle]; oft par. zu <FrnTxt><WdCtn>
 <Wd CyrId="пирямс">ṕiŕams</Wd>
 </WdCtn></FrnTxt>)</t>
 </mg>;
 <mg>
-<GeoUBz xml:lang="mdf">
+<GeoUB xml:lang="mdf">
 <GeoU>Jurtk</GeoU>
-</GeoUBz>
+</GeoUB>
 <t xml:lang="deu">die Hände zusammenschlagend beim Schwimmen <FrnTxt><WdCtn>
 <Wd CyrId="чур">čur</Wd>
 </WdCtn></FrnTxt> rufen; wer dies zuerst macht, den beginnen die anderen zu verfolgen; wer ihn als erster erreicht, wird dann selbst verfolgt</t>
 </mg>
 </SenseGroup>
-<Citg>
-<Cit>
+<xg>
+<x>
 <WdCtn>
 <Wd myvId="илямак">iĺamak</Wd>
 </WdCtn>
@@ -1660,17 +1660,17 @@
 <WdCtn>
 <Wd myvId="тирякай">t́iŕakaj</Wd>
 </WdCtn>
-<tk3 isa="excl"/></Cit>
-<GeoUBz xml:lang="myv">
+<tk3 isa="excl"/></x>
+<GeoUB xml:lang="myv">
 <GeoU>Mar</GeoU>
-</GeoUBz>
+</GeoUB>
 <sources>
 <book name="1" pg="184"/>
 </sources>
-<CitT xml:lang="deu">Nein, umgib mich nicht, Väterchen, (mit dem Heiligenbilde), umringe mich nicht, Ernährer!</CitT>
-</Citg>
-<Citg>
-<Cit>
+<xt xml:lang="deu">Nein, umgib mich nicht, Väterchen, (mit dem Heiligenbilde), umringe mich nicht, Ernährer!</xt>
+</xg>
+<xg>
+<x>
 <WdCtn>
 <Wd myvId="крёстот">ḱŕostot</Wd>
 </WdCtn>
@@ -1691,17 +1691,17 @@
 <WdCtn>
 <Wd myvId="цюрамак">ćuramak</Wd>
 </WdCtn>
-</Cit>
-<GeoUBz xml:lang="myv">
+</x>
+<GeoUB xml:lang="myv">
 <GeoU>Mar</GeoU>
-</GeoUBz>
+</GeoUB>
 <sources>
 <book name="1" pg="188"/>
 </sources>
-<CitT xml:lang="deu">Umringe mich mit deinem Kreuze, umgib mich mit deinem Rauchfasse.</CitT>
-</Citg>
-<Citg>
-<Cit>
+<xt xml:lang="deu">Umringe mich mit deinem Kreuze, umgib mich mit deinem Rauchfasse.</xt>
+</xg>
+<xg>
+<x>
 <WdCtn>
 <Wd myvId="карда">karda</Wd>
 </WdCtn>
@@ -1739,15 +1739,15 @@
 <WdCtn>
 <Wd myvId="ло·мандя">lo·mańd́ä</Wd>
 </WdCtn>
-</Cit>
-<GeoUBz xml:lang="myv">
+</x>
+<GeoUB xml:lang="myv">
 <GeoU>Ba</GeoU>
-</GeoUBz>
+</GeoUB>
 <sources>
 <book name="III" pg="38"/>
 </sources>
-<CitT xml:lang="deu">Karda-Sjarko, Mütterchen, ‒‒‒ schütze, beschütze, bewahre sie vor bösen Menschen!</CitT>
-</Citg>
+<xt xml:lang="deu">Karda-Sjarko, Mütterchen, ‒‒‒ schütze, beschütze, bewahre sie vor bösen Menschen!</xt>
+</xg>
 </HWB>
 <CompositionalPhraseCtn>
 <E3Head><POS pos="V"/></E3Head>
@@ -1767,14 +1767,14 @@
 </WdCtn>
 </PhnU>
 </PhnUCtn>
-<GeoUBz xml:lang="myv">
+<GeoUB xml:lang="myv">
 <GeoU/>
-</GeoUBz>
+</GeoUB>
 </PhnUBlock>
 </PhnUG>
 <PhnUG>
 <!-- Not original -->
-<lg xml:lang="mdf"><lem2/><st/>
+<lg xml:lang="mdf"><l/><st/>
 </lg>
 </PhnUG>
 <SenseGroup>
@@ -1787,8 +1787,8 @@
 </WdCtn></FrnTxt> beschützen od. vor etw. sichern</t>
 </mg>
 </SenseGroup>
-<Citg>
-<Cit>
+<xg>
+<x>
 <WdCtn>
 <Wd myvId="цюрамак">ćuramak</Wd>
 </WdCtn>
@@ -1796,16 +1796,16 @@
 <WdCtn>
 <Wd myvId="пирямак">ṕiŕamak</Wd>
 </WdCtn>
-</Cit>
+</x>
 [
-<GeoUBz xml:lang="myv">
+<GeoUB xml:lang="myv">
 <GeoUCtn>
 <FrCm freeType="questionRelation" Modification="manus"/>
 <GeoU>Večk]</GeoU>
 </GeoUCtn>
-</GeoUBz>
-<CitT xml:lang="deu">Umringe und umgib mich (mit Schutz)!</CitT>
-</Citg>
+</GeoUB>
+<xt xml:lang="deu">Umringe und umgib mich (mit Schutz)!</xt>
+</xg>
 </CompositionalPhraseCtn>
 <Etg>
 <EtSrcL xml:lang="rus"/>
@@ -1827,14 +1827,14 @@
 </WdCtn>
 </PhnU>
 </PhnUCtn>
-<GeoUBz xml:lang="myv">
+<GeoUB xml:lang="myv">
 <GeoU>Mar</GeoU>
-</GeoUBz>
+</GeoUB>
 </PhnUBlock>
 </PhnUG>
 <PhnUG>
 <!-- Not original -->
-<lg xml:lang="mdf"><lem2/><st/>
+<lg xml:lang="mdf"><l/><st/>
 </lg>
 </PhnUG>
 <SenseGroup>
@@ -1847,8 +1847,8 @@
 </tg>
 </mg>
 </SenseGroup>
-<Citg>
-<Cit>
+<xg>
+<x>
 <WdCtn>
 <Wd myvId="арась">araś</Wd>
 </WdCtn>
@@ -1906,15 +1906,15 @@
 <WdCtn>
 <Wd myvId="цюрыцям">ćuri͔ćam</Wd>
 </WdCtn>
-</Cit>
-<GeoUBz xml:lang="myv">
+</x>
+<GeoUB xml:lang="myv">
 <GeoU>Mar</GeoU>
-</GeoUBz>
+</GeoUB>
 <sources>
 <book name="1" pg="190"/>
 </sources>
-<CitT xml:lang="deu">Ja, ich habe hier ja niemand, der mich vor dem Zauberer, dem Hexenmeister bewahre, der mich vor dem Schlechtgesinnten schütze.</CitT>
-</Citg>
+<xt xml:lang="deu">Ja, ich habe hier ja niemand, der mich vor dem Zauberer, dem Hexenmeister bewahre, der mich vor dem Schlechtgesinnten schütze.</xt>
+</xg>
 </HWB>
 </DictionaryEntry>
 <DictionaryEntry>
@@ -1932,22 +1932,22 @@
 </WdCtn>
 </PhnU>
 </PhnUCtn>
-<GeoUBz xml:lang="myv">
+<GeoUB xml:lang="myv">
 <GeoU>StŠant</GeoU>
-</GeoUBz>
+</GeoUB>
 </PhnUBlock>
 </PhnUG>
 <PhnUG>
 <!-- Not original -->
-<lg xml:lang="mdf"><lem2/><st/>
+<lg xml:lang="mdf"><l/><st/>
 </lg>
 </PhnUG>
 <SenseGroup>
 <Sense vl="notGiven"/>
 </SenseGroup>
 :
-<Citg>
-<Cit>
+<xg>
+<x>
 <WdCtn>
 <Wd myvId="а">a</Wd>
 </WdCtn>
@@ -1971,15 +1971,15 @@
 <WdCtn>
 <Wd myvId="суфтавост">suftavost</Wd>
 </WdCtn>
-</Cit>
-<GeoUBz xml:lang="myv">
+</x>
+<GeoUB xml:lang="myv">
 <GeoU>StŠant</GeoU>
-</GeoUBz>
+</GeoUB>
 <sources>
 <book name="III" pg="206"/>
 </sources>
-<CitT xml:lang="deu">Mögen sie, auch wenn sie sich gegen Zauber sichern, nicht davor gesichert sein, mögen sie, auch wenn sie gegen Zauber räuchern, nicht durch den Rauch geschützt sein.</CitT>
-</Citg>
+<xt xml:lang="deu">Mögen sie, auch wenn sie sich gegen Zauber sichern, nicht davor gesichert sein, mögen sie, auch wenn sie gegen Zauber räuchern, nicht durch den Rauch geschützt sein.</xt>
+</xg>
 </HWB>
 </DictionaryEntry>
 <DictionaryEntry>
@@ -2001,15 +2001,15 @@
 </PhnUG>
 <PhnUG>
 <!-- Not original -->
-<lg xml:lang="mdf"><lem2/><st/>
+<lg xml:lang="mdf"><l/><st/>
 </lg>
 </PhnUG>
 <SenseGroup>
 <Sense vl="notGiven"/>
 </SenseGroup>
-<Citg>
+<xg>
 :
-</Citg>
+</xg>
 </HWB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
@@ -2029,14 +2029,14 @@
 </WdCtn>
 </PhnU>
 </PhnUCtn>
-<GeoUBz xml:lang="myv">
+<GeoUB xml:lang="myv">
 <GeoU>Mar</GeoU>
-</GeoUBz>
+</GeoUB>
 </PhnUBlock>
 </PhnUG>
 <PhnUG>
 <!-- Not original -->
-<lg xml:lang="mdf"><lem2/><st/>
+<lg xml:lang="mdf"><l/><st/>
 </lg>
 </PhnUG>
 <SenseGroup>
@@ -2070,18 +2070,18 @@
 </WdCtn>
 </PhnU>
 </PhnUCtn>
-<GeoUBz xml:lang="myv">
+<GeoUB xml:lang="myv">
 <GeoU>Mar</GeoU>
 <GeoUCtn>
 <FrCm freeType="questionRelation" Modification="manus"/>
 <GeoU>Večk</GeoU>
 </GeoUCtn>
-</GeoUBz>
+</GeoUB>
 </PhnUBlock>
 </PhnUG>
 <PhnUG>
 <!-- Not original -->
-<lg xml:lang="mdf"><lem2/><st/>
+<lg xml:lang="mdf"><l/><st/>
 </lg>
 </PhnUG>
 <DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><WdCtn><Wd CyrId="цюрамс">ćurams</Wd></WdCtn></DrvSt></DrvStCtn></DrvG>
@@ -2116,10 +2116,10 @@
 </WdCtn>
 </PhnU>
 </PhnUCtn>
-<GeoUBz xml:lang="myv">
+<GeoUB xml:lang="myv">
 <GeoU>Mar</GeoU>
 <GeoU>Večk</GeoU>
-</GeoUBz>
+</GeoUB>
 </PhnUBlock>
 </PhnUG>
 <PhnUG>
@@ -2134,9 +2134,9 @@
 </WdCtn>
 </PhnU>
 </PhnUCtn>
-<GeoUBz xml:lang="mdf">
+<GeoUB xml:lang="mdf">
 <GeoU>Čemb</GeoU>
-</GeoUBz>
+</GeoUB>
 </PhnUBlock>
 </PhnUG>
 <DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><WdCtn><Wd CyrId="цюрамс">ćurams</Wd></WdCtn></DrvSt></DrvStCtn></DrvG>
@@ -2168,14 +2168,14 @@
 </WdCtn>
 </PhnU>
 </PhnUCtn>
-<GeoUBz xml:lang="myv">
+<GeoUB xml:lang="myv">
 <GeoU>Večk</GeoU>
-</GeoUBz>
+</GeoUB>
 </PhnUBlock>
 </PhnUG>
 <PhnUG>
 <!-- Not original -->
-<lg xml:lang="mdf"><lem2/><st/>
+<lg xml:lang="mdf"><l/><st/>
 </lg>
 </PhnUG>
 <DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><WdCtn><Wd CyrId="цюрьцемс">ćuŕćems</Wd></WdCtn></DrvSt></DrvStCtn></DrvG>
@@ -2199,14 +2199,14 @@
 </WdCtn>
 </PhnU>
 </PhnUCtn>
-<GeoUBz xml:lang="myv">
+<GeoUB xml:lang="myv">
 <GeoU>StŠant</GeoU>
-</GeoUBz>
+</GeoUB>
 </PhnUBlock>
 </PhnUG>
 <PhnUG>
 <!-- Not original -->
-<lg xml:lang="mdf"><lem2/><st/>
+<lg xml:lang="mdf"><l/><st/>
 </lg>
 </PhnUG>
 <DrvG><DrvT vl="reflexivePassive"/><DrvStCtn><DrvSt><WdCtn><Wd CyrId="цюрамс">ćurams</Wd></WdCtn></DrvSt></DrvStCtn></DrvG>
@@ -2221,8 +2221,8 @@
 </tg>
 </mg>
 </SenseGroup>
-<Citg>
-<Cit>
+<xg>
+<x>
 <WdCtn>
 <Wd myvId="а">a</Wd>
 </WdCtn>
@@ -2246,15 +2246,15 @@
 <WdCtn>
 <Wd myvId="суфтавост">suftavost</Wd>
 </WdCtn>
-</Cit>
-<GeoUBz xml:lang="myv">
+</x>
+<GeoUB xml:lang="myv">
 <GeoU>StŠant</GeoU>
-</GeoUBz>
+</GeoUB>
 <sources>
 <book name="III" pg="206"/>
 </sources>
-<CitT xml:lang="deu">Mögen sie, auch wenn sie sich gegen Zauber sichern, nicht davor gesichert sein, mögen sie, auch wenn sie gegen Zauber räuchern, nicht durch den Rauch geschützt sein!</CitT>
-</Citg>
+<xt xml:lang="deu">Mögen sie, auch wenn sie sich gegen Zauber sichern, nicht davor gesichert sein, mögen sie, auch wenn sie gegen Zauber räuchern, nicht durch den Rauch geschützt sein!</xt>
+</xg>
 </HWB>
 </DictionaryEntry></NE>
   <NE idNo="2">
@@ -2273,11 +2273,11 @@
 </WdCtn>
 </PhnU>
 </PhnUCtn>
-<GeoUBz xml:lang="myv">
+<GeoUB xml:lang="myv">
 <GeoU>Mar</GeoU>
 <GeoU>Kažl</GeoU>
 <GeoU>Večk</GeoU>
-</GeoUBz>
+</GeoUB>
 </PhnUBlock>
 </PhnUG>
 <PhnUG>
@@ -2292,9 +2292,9 @@
 </WdCtn>
 </PhnU>
 </PhnUCtn>
-<GeoUBz xml:lang="mdf">
+<GeoUB xml:lang="mdf">
 <GeoU>P</GeoU>
-</GeoUBz>
+</GeoUB>
 </PhnUBlock>
 </PhnUG>
 <SenseGroup>
@@ -2311,13 +2311,13 @@
 <t>oh! (Schmerz)</t>
 </tg>
 <dfQl1>(
-<GeoUBz xml:lang="myv">
+<GeoUB xml:lang="myv">
 <GeoU>Mar</GeoU>
 <GeoU>Večk</GeoU>
-</GeoUBz>
-<GeoUBz xml:lang="mdf">
+</GeoUB>
+<GeoUB xml:lang="mdf">
 <GeoU>P</GeoU>
-</GeoUBz>
+</GeoUB>
 )</dfQl1>
 </mg>
 </SenseGroup>
@@ -2332,14 +2332,14 @@
 <Cm>Verwunderung</Cm>
 </tg>
 <dfQl1>(
-<GeoUBz xml:lang="myv">
+<GeoUB xml:lang="myv">
 <GeoU>Kažl</GeoU>
-</GeoUBz>
+</GeoUB>
 )</dfQl1>
 </mg>
 </SenseGroup>
-<Citg>
-<Cit>
+<xg>
+<x>
 <WdCtn>
 <Wd myvId="уй">uj</Wd>
 </WdCtn>
@@ -2352,17 +2352,17 @@
 <WdCtn>
 <Wd myvId="потмара">potmara</Wd>
 </WdCtn>
-</Cit>
-<GeoUBz xml:lang="myv">
+</x>
+<GeoUB xml:lang="myv">
 <GeoU>Mar</GeoU>
-</GeoUBz>
+</GeoUB>
 <sources>
 <book name="1" pg="216"/>
 </sources>
-<CitT xml:lang="deu">Weh, sein Volk war in Betrübnis.</CitT>
-</Citg>
-<Citg>
-<Cit>
+<xt xml:lang="deu">Weh, sein Volk war in Betrübnis.</xt>
+</xg>
+<xg>
+<x>
 <WdCtn>
 <Wd myvId="уй">uj</Wd>
 </WdCtn>
@@ -2384,17 +2384,17 @@
 <WdCtn>
 <Wd myvId="лелякай">ĺeĺakaj</Wd>
 </WdCtn>
-</Cit>
-<GeoUBz xml:lang="myv">
+</x>
+<GeoUB xml:lang="myv">
 <GeoU>Mar</GeoU>
-</GeoUBz>
+</GeoUB>
 <sources>
 <book name="1" pg="218"/>
 </sources>
-<CitT xml:lang="deu">Weh, um diese Stunde, Brüderchen.</CitT>
-</Citg>
-<Citg>
-<Cit>
+<xt xml:lang="deu">Weh, um diese Stunde, Brüderchen.</xt>
+</xg>
+<xg>
+<x>
 <WdCtn>
 <Wd myvId="уй">uj</Wd>
 </WdCtn>
@@ -2429,17 +2429,17 @@
 <WdCtn>
 <Wd myvId="теть">t́et́</Wd>
 </WdCtn>
-</Cit>
-<GeoUBz xml:lang="myv">
+</x>
+<GeoUB xml:lang="myv">
 <GeoU>Mar</GeoU>
-</GeoUBz>
+</GeoUB>
 <sources>
 <book name="1" pg="218"/>
 </sources>
-<CitT xml:lang="deu">O, an Sommertagen, Brüderchen, wird dir viel Regen herabströmen.</CitT>
-</Citg>
-<Citg>
-<Cit>
+<xt xml:lang="deu">O, an Sommertagen, Brüderchen, wird dir viel Regen herabströmen.</xt>
+</xg>
+<xg>
+<x>
 <WdCtn>
 <Wd myvId="уй">uj</Wd>
 </WdCtn>
@@ -2474,17 +2474,17 @@
 <WdCtn>
 <Wd myvId="матушка">matuška</Wd>
 </WdCtn>
-</Cit>
-<GeoUBz xml:lang="myv">
+</x>
+<GeoUB xml:lang="myv">
 <GeoU>Mar</GeoU>
-</GeoUBz>
+</GeoUB>
 <sources>
 <book name="1" pg="218"/>
 </sources>
-<CitT xml:lang="deu">O, du Beherrscher des Hauses, ehrwürdiger Vater, o, du Beherrscherin des Hauses, ehrwürdige Mutter.</CitT>
-</Citg>
-<Citg>
-<Cit>
+<xt xml:lang="deu">O, du Beherrscher des Hauses, ehrwürdiger Vater, o, du Beherrscherin des Hauses, ehrwürdige Mutter.</xt>
+</xg>
+<xg>
+<x>
 <WdCtn>
 <Wd myvId="уй">uj</Wd>
 </WdCtn>
@@ -2511,17 +2511,17 @@
 <WdCtn>
 <Wd myvId="прякати">pŕakat́i</Wd>
 </WdCtn>
-</Cit>
-<GeoUBz xml:lang="myv">
+</x>
+<GeoUB xml:lang="myv">
 <GeoU>Kažl</GeoU>
-</GeoUBz>
+</GeoUB>
 <sources>
 <book name="III" pg="232‑3"/>
 </sources>
-<CitT xml:lang="deu">“Ei, Schwesterlein”, sagt (der Junge), “mein Magen wurde von der Pirogge verbrannt!”.</CitT>
-</Citg>
-<Citg>
-<Cit>
+<xt xml:lang="deu">“Ei, Schwesterlein”, sagt (der Junge), “mein Magen wurde von der Pirogge verbrannt!”.</xt>
+</xg>
+<xg>
+<x>
 <WdCtn>
 <Wd myvId="уй">uj</Wd>
 </WdCtn>
@@ -2543,15 +2543,15 @@
 <WdCtn>
 <Wd myvId="куялгад">kuja·lgad</Wd>
 </WdCtn>
-</Cit>
-<GeoUBz xml:lang="myv">
+</x>
+<GeoUB xml:lang="myv">
 <GeoU>Kažl</GeoU>
-</GeoUBz>
+</GeoUB>
 <sources>
 <book name="III" pg="233"/>
 </sources>
-<CitT xml:lang="deu">“Ei”, sagt sie, “ihr seid noch nicht fett geworden”.</CitT>
-</Citg>
+<xt xml:lang="deu">“Ei”, sagt sie, “ihr seid noch nicht fett geworden”.</xt>
+</xg>
 </HWB>
 </DictionaryEntry>
 <DictionaryEntry>
@@ -2569,10 +2569,10 @@
 </WdCtn>
 </PhnU>
 </PhnUCtn>
-<GeoUBz xml:lang="myv">
+<GeoUB xml:lang="myv">
 <GeoU>Mar</GeoU>
 <GeoU>Večk</GeoU>
-</GeoUBz>
+</GeoUB>
 </PhnUBlock>
 <PhnUBlock>
 <PhnUCtn>
@@ -2582,9 +2582,9 @@
 </WdCtn>
 </PhnU>
 </PhnUCtn>
-<GeoUBz xml:lang="myv">
+<GeoUB xml:lang="myv">
 <GeoU>Ba</GeoU>
-</GeoUBz>
+</GeoUB>
 </PhnUBlock>
 </PhnUG>
 <PhnUG>
@@ -2599,10 +2599,10 @@
 </WdCtn>
 </PhnU>
 </PhnUCtn>
-<GeoUBz xml:lang="mdf">
+<GeoUB xml:lang="mdf">
 <GeoU>P</GeoU>
 <GeoU>Čemb</GeoU>
-</GeoUBz>
+</GeoUB>
 </PhnUBlock>
 </PhnUG>
 <DrvG><DrvT vl="momentative"/></DrvG>
@@ -2637,10 +2637,10 @@
 </WdCtn>
 </PhnU>
 </PhnUCtn>
-<GeoUBz xml:lang="myv">
+<GeoUB xml:lang="myv">
 <GeoU>Mar</GeoU>
 <GeoU>Večk</GeoU>
-</GeoUBz>
+</GeoUB>
 </PhnUBlock>
 <PhnUBlock>
 <PhnUCtn>
@@ -2650,9 +2650,9 @@
 </WdCtn>
 </PhnU>
 </PhnUCtn>
-<GeoUBz xml:lang="myv">
+<GeoUB xml:lang="myv">
 <GeoU>Ba</GeoU>
-</GeoUBz>
+</GeoUB>
 </PhnUBlock>
 </PhnUG>
 <PhnUG>
@@ -2667,10 +2667,10 @@
 </WdCtn>
 </PhnU>
 </PhnUCtn>
-<GeoUBz xml:lang="mdf">
+<GeoUB xml:lang="mdf">
 <GeoU>P</GeoU>
 <GeoU>Čemb</GeoU>
-</GeoUBz>
+</GeoUB>
 </PhnUBlock>
 </PhnUG>
 <DrvG><DrvT vl="iterative"/></DrvG>
@@ -2706,17 +2706,17 @@
 </WdCtn>
 </PhnU>
 </PhnUCtn>
-<GeoUBz xml:lang="myv">
+<GeoUB xml:lang="myv">
 <GeoU>Mar</GeoU>
 <GeoU>Ba</GeoU>
 <GeoU>Večk</GeoU>
 <GeoU>NSurk</GeoU>
-</GeoUBz>
+</GeoUB>
 </PhnUBlock>
 </PhnUG>
 <PhnUG>
 <!-- Not original -->
-<lg xml:lang="mdf"><lem2/><st/>
+<lg xml:lang="mdf"><l/><st/>
 </lg>
 </PhnUG>
 <SenseGroup>
@@ -2732,8 +2732,8 @@
 </tg>
 </mg>
 </SenseGroup>
-<Citg>
-<Cit>
+<xg>
+<x>
 <WdCtn>
 <Wd myvId="нурьцесь">nuŕćeś</Wd>
 </WdCtn>
@@ -2751,17 +2751,17 @@
 <WdCtn>
 <Wd myvId="пелькинексиндявць">ṕeĺḱińeḱśińd́avć</Wd>
 </WdCtn>
-</Cit>
-<GeoUBz xml:lang="myv">
+</x>
+<GeoUB xml:lang="myv">
 <GeoU>Mar</GeoU>
-</GeoUBz>
+</GeoUB>
 <sources>
 <book name="2" pg="103"/>
 </sources>
-<CitT xml:lang="deu">Sie wiegte und wiegte, hoppsah sprang das Daumenchen auf.</CitT>
-</Citg>
-<Citg>
-<Cit>
+<xt xml:lang="deu">Sie wiegte und wiegte, hoppsah sprang das Daumenchen auf.</xt>
+</xg>
+<xg>
+<x>
 <WdCtn>
 <Wd myvId="каткась">katkaś</Wd>
 </WdCtn>
@@ -2783,17 +2783,17 @@
 <WdCtn>
 <Wd myvId="кирняфць">ḱiŕńafć</Wd>
 </WdCtn>
-</Cit>
-<GeoUBz xml:lang="myv">
+</x>
+<GeoUB xml:lang="myv">
 <GeoU>Ba</GeoU>
-</GeoUBz>
+</GeoUB>
 <sources>
 <book name="VII" pg="404"/>
 </sources>
-<CitT xml:lang="deu">Die Katze schaute und schaute, hops sprang sie auf.</CitT>
-</Citg>
-<Citg>
-<Cit>
+<xt xml:lang="deu">Die Katze schaute und schaute, hops sprang sie auf.</xt>
+</xg>
+<xg>
+<x>
 <WdCtn>
 <Wd myvId="поп">pop</Wd>
 </WdCtn>
@@ -2811,15 +2811,15 @@
 <WdCtn>
 <Wd myvId="кирнавсь">ḱirnavś</Wd>
 </WdCtn>
-</Cit>
-<GeoUBz xml:lang="myv">
+</x>
+<GeoUB xml:lang="myv">
 <GeoU>NSurk</GeoU>
-</GeoUBz>
+</GeoUB>
 <sources>
 <book name="III" pg="314"/>
 </sources>
-<CitT xml:lang="deu">“Oh!” (sagte) der Pope und – hopps – sprang er auf.</CitT>
-</Citg>
+<xt xml:lang="deu">“Oh!” (sagte) der Pope und – hopps – sprang er auf.</xt>
+</xg>
 </HWB>
 </DictionaryEntry>
 <DictionaryEntry>
@@ -2837,9 +2837,9 @@
 </WdCtn>
 </PhnU>
 </PhnUCtn>
-<GeoUBz xml:lang="myv">
+<GeoUB xml:lang="myv">
 <GeoU>Večk</GeoU>
-</GeoUBz>
+</GeoUB>
 </PhnUBlock>
 <PhnUBlock>
 <PhnUCtn>
@@ -2849,9 +2849,9 @@
 </WdCtn>
 </PhnU>
 </PhnUCtn>
-<GeoUBz xml:lang="myv">
+<GeoUB xml:lang="myv">
 <GeoU>VVr</GeoU>
-</GeoUBz>
+</GeoUB>
 </PhnUBlock>
 <PhnUBlock>
 <PhnUCtn>
@@ -2861,14 +2861,14 @@
 </WdCtn>
 </PhnU>
 </PhnUCtn>
-<GeoUBz xml:lang="myv">
+<GeoUB xml:lang="myv">
 <GeoU>Ba</GeoU>
-</GeoUBz>
+</GeoUB>
 </PhnUBlock>
 </PhnUG>
 <PhnUG>
 <!-- Not original -->
-<lg xml:lang="mdf"><lem2/><st/>
+<lg xml:lang="mdf"><l/><st/>
 </lg>
 </PhnUG>
 <SenseGroup>
@@ -2887,9 +2887,9 @@
 </DictionaryEntry>
 <DictionaryEntry>
 <HWB>
-<E3Head><POS pos="N"/><deriv isa="DVNoun-VKS"/></E3Head>
+<E3Head><POS/><deriv isa="DVNoun-VKS"/></E3Head>
 <PhnUG>
-<lg xml:lang="myv"><l>скокадевкс</l>
+<lg xml:lang="myv"><l pos="N">скокадевкс</l>
 <st>скокадевкс</st>
 </lg>
 <PhnUBlock>
@@ -2900,14 +2900,14 @@
 </WdCtn>
 </PhnU>
 </PhnUCtn>
-<GeoUBz xml:lang="myv">
+<GeoUB xml:lang="myv">
 <GeoU>Večk</GeoU>
-</GeoUBz>
+</GeoUB>
 </PhnUBlock>
 </PhnUG>
 <PhnUG>
 <!-- Not original -->
-<lg xml:lang="mdf"><lem2/><st/>
+<lg xml:lang="mdf"><l/><st/>
 </lg>
 </PhnUG>
 <SenseGroup>
@@ -2939,9 +2939,9 @@
 </WdCtn>
 </PhnU>
 </PhnUCtn>
-<GeoUBz xml:lang="myv">
+<GeoUB xml:lang="myv">
 <GeoU>Večk</GeoU>
-</GeoUBz>
+</GeoUB>
 </PhnUBlock>
 <PhnUBlock>
 <PhnUCtn>
@@ -2951,12 +2951,12 @@
 </WdCtn>
 </PhnU>
 </PhnUCtn>
-<GeoUBz edit="MK" xml:lang="myv">
+<GeoUB edit="MK" xml:lang="myv">
 <GeoUCtn>
 <FrCm edit="MK" freeType="questionRelation" Modification="MK"/>
 <GeoU>VVr</GeoU>
 </GeoUCtn>
-</GeoUBz>
+</GeoUB>
 </PhnUBlock>
 <PhnUBlock>
 <PhnUCtn>
@@ -2966,21 +2966,21 @@
 </WdCtn>
 </PhnU>
 </PhnUCtn>
-<GeoUBz xml:lang="myv">
+<GeoUB xml:lang="myv">
 <GeoU>Ba</GeoU>
-</GeoUBz>
+</GeoUB>
 </PhnUBlock>
 </PhnUG>
 <PhnUG>
 <!-- Not original -->
-<lg xml:lang="mdf"><lem2/><st/>
+<lg xml:lang="mdf"><l/><st/>
 </lg>
 </PhnUG>
 <DrvG><DrvT vl="iterative"/></DrvG>
 <SenseGroup>
 <Sense vl="notGiven"/>
 </SenseGroup>
-<Citg/>
+<xg/>
 </HWB>
 </DictionaryEntry>
 <DictionaryEntry>
@@ -2998,14 +2998,14 @@
 </WdCtn>
 </PhnU>
 </PhnUCtn>
-<GeoUBz xml:lang="myv">
+<GeoUB xml:lang="myv">
 <GeoU>Ba</GeoU>
-</GeoUBz>
+</GeoUB>
 </PhnUBlock>
 </PhnUG>
 <PhnUG>
 <!-- Not original -->
-<lg xml:lang="mdf"><lem2/><st/>
+<lg xml:lang="mdf"><l/><st/>
 </lg>
 </PhnUG>
 <DrvG><DrvT vl="causative"/></DrvG>
@@ -3036,21 +3036,21 @@
 </WdCtn>
 </PhnU>
 </PhnUCtn>
-<GeoUBz xml:lang="myv">
+<GeoUB xml:lang="myv">
 <GeoU>Ba</GeoU>
-</GeoUBz>
+</GeoUB>
 </PhnUBlock>
 </PhnUG>
 <PhnUG>
 <!-- Not original -->
-<lg xml:lang="mdf"><lem2/><st/>
+<lg xml:lang="mdf"><l/><st/>
 </lg>
 </PhnUG>
 <DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><WdCtn><Wd CyrId="скокафтᴉ͐мс">skoka·ftᴉ͐ms</Wd></WdCtn></DrvSt></DrvStCtn></DrvG>
 <SenseGroup>
 <Sense vl="notGiven"/>
 </SenseGroup>
-<Citg/>
+<xg/>
 </HWB>
 </DictionaryEntry></NE>
   <NE idNo="1">
@@ -3072,15 +3072,15 @@
 <sources>
 <book name="Chr" xml:lang="myv"/>
 </sources>
-<GeoUBz xml:lang="myv">
+<GeoUB xml:lang="myv">
 <GeoU>Mar</GeoU>
 <GeoU>Hl</GeoU>
-</GeoUBz>
+</GeoUB>
 </PhnUBlock>
 </PhnUG>
 <PhnUG>
 <!-- Not original -->
-<lg xml:lang="mdf"><lem2/><st/>
+<lg xml:lang="mdf"><l/><st/>
 </lg>
 </PhnUG>
 <SenseGroup>
@@ -3096,8 +3096,8 @@
 </tg>
 </mg>
 </SenseGroup>
-<Citg>
-<Cit>
+<xg>
+<x>
 <WdCtn>
 <Wd myvId="вайх">vajᵪ</Wd>
 </WdCtn>
@@ -3115,17 +3115,17 @@
 <WdCtn>
 <Wd myvId="молян">moĺan</Wd>
 </WdCtn>
-</Cit>
-<GeoUBz xml:lang="myv">
+</x>
+<GeoUB xml:lang="myv">
 <GeoU>Mar</GeoU>
-</GeoUBz>
+</GeoUB>
 <sources>
 <book name="1" pg="148"/>
 </sources>
-<CitT xml:lang="deu">Oh, ich werde kommen, ich werde kommen.</CitT>
-</Citg>
-<Citg>
-<Cit>
+<xt xml:lang="deu">Oh, ich werde kommen, ich werde kommen.</xt>
+</xg>
+<xg>
+<x>
 <WdCtn>
 <Wd myvId="вайх">vajᵪ</Wd>
 </WdCtn>
@@ -3140,17 +3140,17 @@
 </WdCtn>
 <tk3 isa="ws"/>
 <WdCtn>
-<Wd myvId="дружакшнусь">družakšnuś</Wd>
+<Wd myvId="дружакшнось">družakšnuś</Wd>
 </WdCtn>
-</Cit>
-<GeoUBz xml:lang="myv">
+</x>
+<GeoUB xml:lang="myv">
 <GeoU>Hl</GeoU>
-</GeoUBz>
+</GeoUB>
 <sources>
 <book name="1" pg="78"/>
 </sources>
-<CitT xml:lang="deu">O, sie schloss Freundschaft mit einem Tataren.</CitT>
-</Citg>
+<xt xml:lang="deu">O, sie schloss Freundschaft mit einem Tataren.</xt>
+</xg>
 </HWB>
 <Etg>
 <EtType edit="MK" vl="vgl"/>

@@ -3,14 +3,14 @@
   <NE idNo="1">
 <DictionaryEntry>
 <HWB>
-<E3Head><POS freeType="morphological" pos="Adv"/></E3Head>
+<E3Head><POS/></E3Head>
 <PhnUG>
 <!-- Not original -->
-<lg xml:lang="myv"><l/><st/>
+<lg xml:lang="myv"><l pos="Adv"/><st/>
 </lg>
 </PhnUG>
 <PhnUG>
-<lg xml:lang="mdf"><l>ярь</l>
+<lg xml:lang="mdf"><l pos="Adv">ярь</l>
 <st>ярь</st>
 </lg>
 <PhnUBlock>
@@ -625,7 +625,7 @@
 </lg>
 </PhnUG>
 <PhnUG>
-<lg xml:lang="mdf"><l>варат</l>
+<lg xml:lang="mdf"><l pos="Adv">варат</l>
 <st>варат</st>
 </lg>
 <PhnUBlock>
@@ -665,7 +665,7 @@
 </lg>
 </PhnUG>
 <PhnUG>
-<lg xml:lang="mdf"><l>ёсәпәм</l>
+<lg xml:lang="mdf"><l pos="Adv">ёсәпәм</l>
 <st>ёсәпәм</st>
 </lg>
 <PhnUBlock>
@@ -706,7 +706,7 @@
 </lg>
 </PhnUG>
 <PhnUG>
-<lg xml:lang="mdf"><l>кальцек</l>
+<lg xml:lang="mdf"><l pos="Adv">кальцек</l>
 <st>кальцек</st>
 </lg>
 <PhnUBlock>
@@ -757,7 +757,7 @@
 </lg>
 </PhnUG>
 <PhnUG>
-<lg xml:lang="mdf"><l>коль</l>
+<lg xml:lang="mdf"><l pos="Adv">коль</l>
 <st>коль</st>
 </lg>
 <PhnUBlock>
@@ -1079,7 +1079,7 @@
 </lg>
 </PhnUG>
 <PhnUG>
-<lg xml:lang="mdf"><l>кушмик</l>
+<lg xml:lang="mdf"><l pos="Adv">кушмик</l>
 <st>кушмик</st>
 </lg>
 <PhnUBlock>
@@ -1282,7 +1282,7 @@
 </lg>
 </PhnUG>
 <PhnUG>
-<lg xml:lang="mdf"><l>наружа</l>
+<lg xml:lang="mdf"><l pos="Adv">наружа</l>
 <st>наружа</st>
 </lg>
 <PhnUBlock>
@@ -1393,7 +1393,7 @@
 </lg>
 </PhnUG>
 <PhnUG>
-<lg xml:lang="mdf"><l>нильцек</l>
+<lg xml:lang="mdf"><l pos="Adv">нильцек</l>
 <st>нильцек</st>
 </lg>
 <PhnUBlock>
@@ -1480,7 +1480,7 @@
 </lg>
 </PhnUG>
 <PhnUG>
-<lg xml:lang="mdf"><l>нәльцек-пяльцек</l>
+<lg xml:lang="mdf"><l pos="Adv">нәльцек-пяльцек</l>
 <st>нәльцек-пяльцек</st>
 </lg>
 <PhnUBlock>
@@ -1561,7 +1561,7 @@
 </lg>
 </PhnUG>
 <PhnUG>
-<lg xml:lang="mdf"><l>пәльшяй</l>
+<lg xml:lang="mdf"><l pos="Adv">пәльшяй</l>
 <st>пәльшяй</st>
 </lg>
 <PhnUBlock>
@@ -1758,7 +1758,7 @@
 </lg>
 </PhnUG>
 <PhnUG>
-<lg xml:lang="mdf"><l>савәр</l>
+<lg xml:lang="mdf"><l pos="Adv">савәр</l>
 <st>савәр</st>
 </lg>
 <PhnUBlock>
@@ -2097,7 +2097,7 @@
 </lg>
 </PhnUG>
 <PhnUG>
-<lg xml:lang="mdf"><l>сяр́цьк</l>
+<lg xml:lang="mdf"><l pos="Adv">сяр́цьк</l>
 <st>сяр́цьк</st>
 </lg>
 <PhnUBlock>
@@ -2271,7 +2271,7 @@
 </lg>
 </PhnUG>
 <PhnUG>
-<lg xml:lang="mdf"><l>ная</l>
+<lg xml:lang="mdf"><l pos="Adv">ная</l>
 <st>ная</st>
 </lg>
 <PhnUBlock>
@@ -2346,7 +2346,7 @@
 </lg>
 </PhnUG>
 <PhnUG>
-<lg xml:lang="mdf"><l>например</l>
+<lg xml:lang="mdf"><l pos="Adv">например</l>
 <st>например</st>
 </lg>
 <PhnUBlock>
@@ -2388,7 +2388,7 @@
 </lg>
 </PhnUG>
 <PhnUG>
-<lg xml:lang="mdf"><l>нартьк</l>
+<lg xml:lang="mdf"><l pos="Adv">нартьк</l>
 <st>нартьк</st>
 </lg>
 <PhnUBlock>
@@ -2466,7 +2466,7 @@
 </lg>
 </PhnUG>
 <PhnUG>
-<lg xml:lang="mdf"><l>наташчах</l>
+<lg xml:lang="mdf"><l pos="Adv">наташчах</l>
 <st>наташчах</st>
 </lg>
 <PhnUBlock>
@@ -2544,7 +2544,7 @@
 </lg>
 </PhnUG>
 <PhnUG>
-<lg xml:lang="mdf"><l>натла</l>
+<lg xml:lang="mdf"><l pos="Adv">натла</l>
 <st>натла</st>
 </lg>
 <PhnUBlock>
@@ -2631,7 +2631,7 @@
 </lg>
 </PhnUG>
 <PhnUG>
-<lg xml:lang="mdf"><l>олян-тала</l>
+<lg xml:lang="mdf"><l pos="Adv">олян-тала</l>
 <st>олян-тала</st>
 </lg>
 <PhnUBlock>
@@ -3003,7 +3003,7 @@
 </lg>
 </PhnUG>
 <PhnUG>
-<lg xml:lang="mdf"><l>пярдакәм</l>
+<lg xml:lang="mdf"><l pos="Adv">пярдакәм</l>
 <st>пярдакәм</st>
 </lg>
 <PhnUBlock>
@@ -3089,7 +3089,7 @@
 </lg>
 </PhnUG>
 <PhnUG>
-<lg xml:lang="mdf"><l>рятева</l>
+<lg xml:lang="mdf"><l pos="Adv">рятева</l>
 <st>рятева</st>
 </lg>
 <PhnUBlock>
@@ -3160,7 +3160,7 @@
 </lg>
 </PhnUG>
 <PhnUG>
-<lg xml:lang="mdf"><l>селда</l>
+<lg xml:lang="mdf"><l pos="Adv">селда</l>
 <st>селда</st>
 </lg>
 <PhnUBlock>
@@ -3204,7 +3204,7 @@
 </lg>
 </PhnUG>
 <PhnUG>
-<lg xml:lang="mdf"><l>сифтен</l>
+<lg xml:lang="mdf"><l pos="Adv">сифтен</l>
 <st>сифтен</st>
 </lg>
 <PhnUBlock>
@@ -3297,7 +3297,7 @@
 </lg>
 </PhnUG>
 <PhnUG>
-<lg xml:lang="mdf"><l>старожна</l>
+<lg xml:lang="mdf"><l pos="Adv">старожна</l>
 <st>старожна</st>
 </lg>
 <PhnUBlock>
@@ -3342,7 +3342,7 @@
 </lg>
 </PhnUG>
 <PhnUG>
-<lg xml:lang="mdf"><l>усипальна</l>
+<lg xml:lang="mdf"><l pos="Adv">усипальна</l>
 <st>усипальна</st>
 </lg>
 <PhnUBlock>
@@ -3446,7 +3446,7 @@
 </lg>
 </PhnUG>
 <PhnUG>
-<lg xml:lang="mdf"><l>утәр</l>
+<lg xml:lang="mdf"><l pos="Adv">утәр</l>
 <st>утәр</st>
 </lg>
 <PhnUBlock>
@@ -3627,7 +3627,7 @@
 </lg>
 </PhnUG>
 <PhnUG>
-<lg xml:lang="mdf"><l>утәрцек</l>
+<lg xml:lang="mdf"><l pos="Adv">утәрцек</l>
 <st>утәрцек</st>
 </lg>
 <PhnUBlock>
@@ -3683,7 +3683,7 @@
 </WdCtn>
 <tk3 isa="ws"/>
 <WdCtn>
-<Wd mdfId="сюкə̑нясь">śukə̑ńä·ś</Wd>
+<Wd mdfId="сюконясь">śukə̑ńä·ś</Wd>
 </WdCtn>
 </x>
 <GeoUB xml:lang="mdf">
@@ -3727,7 +3727,7 @@ Türk.; s. TLM, Nr.193]
 </lg>
 </PhnUG>
 <PhnUG>
-<lg xml:lang="mdf"><l>чек</l>
+<lg xml:lang="mdf"><l pos="Adv">чек</l>
 <st>чек</st>
 </lg>
 <PhnUBlock>
@@ -8092,7 +8092,7 @@ Türk.; s. TLM, Nr.193]
 </lg>
 </PhnUG>
 <PhnUG>
-<lg xml:lang="mdf"><l>эвәдем пачк</l>
+<lg xml:lang="mdf"><l pos="Adv">эвәдем пачк</l>
 <st>эвәдем пачк</st>
 </lg>
 <PhnUBlock>
@@ -8212,7 +8212,7 @@ Türk.; s. TLM, Nr.193]
 </lg>
 </PhnUG>
 <PhnUG>
-<lg xml:lang="mdf"><l>ётам пачк</l>
+<lg xml:lang="mdf"><l pos="Adv">ётам пачк</l>
 <st>ётам пачк</st>
 </lg>
 <PhnUBlock>
@@ -8288,7 +8288,7 @@ Türk.; s. TLM, Nr.193]
 </lg>
 </PhnUG>
 <PhnUG>
-<lg xml:lang="mdf"><l>лиим пачк</l>
+<lg xml:lang="mdf"><l pos="Adv">лиим пачк</l>
 <st>лиим пачк</st>
 </lg>
 <PhnUBlock>
@@ -9012,7 +9012,7 @@ Türk.; s. TLM, Nr.193]
 </lg>
 </PhnUG>
 <PhnUG>
-<lg xml:lang="mdf"><l>сам бачк</l>
+<lg xml:lang="mdf"><l pos="Adv">сам бачк</l>
 <st>сам бачк</st>
 </lg>
 <PhnUBlock>
@@ -15797,14 +15797,14 @@ Türk.; s. TLM, Nr.193]
 </lg>
 </PhnUG>
 <PhnUG>
-<lg xml:lang="mdf"><l>улхконя</l>
+<lg xml:lang="mdf"><l pos="Adv">улхконя</l>
 <st>улхконя</st>
 </lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
 <WdCtn>
-<Wd mdfId="улхкə̑ня">ulʿkə̑ńä·</Wd>
+<Wd mdfId="улхконя">ulʿkə̑ńä·</Wd>
 <vrs1 status="neben">ulʿka</vrs1>
 </WdCtn>
 </PhnU>
