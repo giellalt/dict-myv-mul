@@ -3,6 +3,562 @@
   <NE idNo="1">
 <DictionaryEntry>
 <HWB>
+<E3Head><POS freeType="morphological" pos="Aff"/></E3Head>
+<PhnUG>
+<lg xml:lang="myv"><l pos="Ideoph">-гаж</l>
+<st>Q-гаж</st>
+</lg>
+<PhnUBlock>
+<PhnUCtn>
+<PhnU>
+<Hph/>
+<WdCtn>
+<Wd myvId="гаж">gaž</Wd>
+</WdCtn>
+</PhnU>
+</PhnUCtn>
+</PhnUBlock>
+</PhnUG>
+<PhnUG>
+<!-- Not original -->
+<lg xml:lang="mdf"><l/><st/>
+</lg>
+</PhnUG>
+<SenseGroup>
+<Sense vl="notGiven"/>
+</SenseGroup>
+<xg>
+:
+</xg>
+</HWB>
+<MWUB>
+<E3Head><POS/></E3Head>
+<PhnUG>
+<lg xml:lang="myv"><l pos="Ideoph">гуж-гаж</l>
+<st>гуж-гаж</st>
+</lg>
+<PhnUBlock>
+<PhnUCtn>
+<PhnU>
+<WdCtn>
+<Wd myvId="гуж">guž</Wd>
+</WdCtn>
+<Hph/>
+<WdCtn>
+<Wd myvId="гаж">gaž</Wd>
+</WdCtn>
+</PhnU>
+</PhnUCtn>
+<GeoUB xml:lang="myv">
+<GeoU>Mar</GeoU>
+</GeoUB>
+</PhnUBlock>
+</PhnUG>
+<PhnUG>
+<!-- Not original -->
+<lg xml:lang="mdf"><l/><st/>
+</lg>
+</PhnUG>
+<SubjectField>onomat</SubjectField>
+<SenseGroup>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">подраж., вероятно, грохотанью, дребезжанию</t>
+</tg>
+<tg xml:lang="deu">
+<t>ahmt wohl Rasseln od. Klappern nach</t>
+</tg>
+</mg>
+</SenseGroup>
+<xg>
+<x>
+<WdCtn>
+<Wd myvId="гуж">guž</Wd>
+</WdCtn>
+<Hph edit="MK"/>
+<WdCtn>
+<Wd myvId="гаж">gaž</Wd>
+</WdCtn>
+<tk3 isa="ws"/>
+<WdCtn>
+<Wd myvId="ужынь">uži͔ń</Wd>
+</WdCtn>
+<tk3 isa="ws"/>
+<WdCtn>
+<Wd myvId="пря">ṕŕa</Wd>
+</WdCtn>
+<tk3 isa="fullstop"/>
+<tk3 isa="ws"/>
+<WdCtn>
+<Wd myvId="–">–</Wd>
+</WdCtn>
+<tk3 isa="ws"/>
+<WdCtn>
+<Wd myvId="кумбрясь">kumb́ŕäś</Wd>
+</WdCtn>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Mar</GeoU>
+</GeoUB>
+<sources>
+<book name="2" pg="28"/>
+</sources>
+<t xml:lang="deu">Gush, gash ein Unkenkopf. – Das “<FrnTxt><WdCtn>
+<Wd CyrId="кумбря">kumb́ŕa</Wd>
+</WdCtn></FrnTxt>” (eine Muschelart, die bei den mordw. Weibern als Schmuck sehr geliebt ist; sie gleicht in der Tat einem Schlangenkopfe, was auch das Wort <FrnTxt><WdCtn>
+<Wd CyrId="кумбря">kumb́ŕa</Wd>
+</WdCtn></FrnTxt> (= <FrnTxt><WdCtn>
+<Wd CyrId="куинь">kujiń</Wd>
+</WdCtn>
+<tk3 isa="ws"/>
+<WdCtn>
+<Wd CyrId="пря">ṕŕa</Wd>
+</WdCtn></FrnTxt>) urspr. bedeutet).</t>
+</xg>
+</MWUB>
+</DictionaryEntry></NE>
+  <NE idNo="1">
+<DictionaryEntry>
+<HWB>
+<E3Head><POS/></E3Head>
+<PhnUG>
+<lg xml:lang="myv"><l pos="Ideoph">булдурынк</l>
+<st>булдурынк</st>
+</lg>
+<PhnUBlock>
+<PhnUCtn>
+<PhnU>
+<WdCtn>
+<Wd myvId="булдурынк">bulduri͔ŋk</Wd>
+</WdCtn>
+</PhnU>
+</PhnUCtn>
+<GeoUB xml:lang="myv">
+<GeoU>NSurk</GeoU>
+</GeoUB>
+</PhnUBlock>
+</PhnUG>
+<PhnUG>
+<!-- Not original -->
+<lg xml:lang="mdf"><l/><st/>
+</lg>
+</PhnUG>
+<SenseGroup>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">подраж. всплеску</t>
+</tg>
+<tg xml:lang="deu">
+<t>das Plumpsen nachahmendes Wort</t>
+<t>plumps</t>
+</tg>
+</mg>
+</SenseGroup>
+<xg>
+<x>
+<WdCtn>
+<Wd myvId="шайтян">šajt́an</Wd>
+</WdCtn>
+<tk3 isa="ws"/>
+<WdCtn>
+<Wd myvId="левкс">ĺevks</Wd>
+</WdCtn>
+<tk3 isa="ws"/>
+<WdCtn>
+<Wd myvId="булдурынк">bulduri͔ŋk</Wd>
+</WdCtn>
+<tk3 isa="ws"/>
+<WdCtn>
+<Wd myvId="совась">sovaś</Wd>
+</WdCtn>
+<tk3 isa="ws"/>
+<WdCtn>
+<Wd myvId="одов">odov</Wd>
+</WdCtn>
+<tk3 isa="ws"/>
+<WdCtn>
+<Wd myvId="эрькенте">eŕḱeńt́e</Wd>
+</WdCtn>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>NSurk</GeoU>
+</GeoUB>
+<sources>
+<book name="III" pg="327"/>
+</sources>
+<xt xml:lang="deu">Das Teufelsjunge ging – plumps – wieder in den See.</xt>
+</xg>
+</HWB>
+<Etg>
+<EtType edit="MK" vl="vgl"/>
+<EtSrcL edit="MK" vl="russ"/>
+<EtCtn>
+<Et edit="MK">булдыри́</Et>
+</EtCtn>
+</Etg>
+</DictionaryEntry>
+<DictionaryEntry>
+<HWB>
+<E3Head><POS pos="V"/></E3Head>
+<PhnUG>
+<lg xml:lang="myv"><l pos="V">булдурдумс</l>
+<st>булдурдумс</st>
+</lg>
+<PhnUBlock>
+<PhnUCtn>
+<PhnU>
+<WdCtn>
+<Wd myvId="булду·рдумс">buldu·rdums</Wd>
+</WdCtn>
+</PhnU>
+</PhnUCtn>
+<GeoUB xml:lang="myv">
+<GeoU>Ba</GeoU>
+</GeoUB>
+</PhnUBlock>
+</PhnUG>
+<PhnUG>
+<lg xml:lang="mdf"><l pos="V">пәлдәрдәмс</l>
+<st>пәлдәрдәмс</st>
+</lg>
+<PhnUBlock>
+<PhnUCtn>
+<PhnU>
+<WdCtn>
+<Wd mdfId="пə̑лдордомс">pə̑ldə̑rdə̑ms</Wd>
+</WdCtn>
+</PhnU>
+</PhnUCtn>
+<GeoUB xml:lang="mdf">
+<GeoU>P</GeoU>
+<GeoU>Pš</GeoU>
+<GeoU>Kr</GeoU>
+</GeoUB>
+</PhnUBlock>
+<PhnUBlock>
+<PhnUCtn>
+<PhnU>
+<WdCtn>
+<Wd mdfId="булдордомс">buldə̑rdə̑ms</Wd>
+</WdCtn>
+</PhnU>
+</PhnUCtn>
+<GeoUB xml:lang="mdf">
+<GeoU>Čemb</GeoU>
+</GeoUB>
+</PhnUBlock>
+<PhnUBlock>
+<PhnUCtn>
+<PhnU>
+<WdCtn>
+<Wd mdfId="болдо·рдомс">bə̑ldə̑·rdə̑ms</Wd>
+</WdCtn>
+</PhnU>
+</PhnUCtn>
+<GeoUB xml:lang="mdf">
+<GeoU>Jurtk</GeoU>
+</GeoUB>
+</PhnUBlock>
+</PhnUG>
+<SenseGroup>
+<mg>
+<tg xml:lang="rus">
+<t>бултыхаться</t>
+<t>журчать</t>
+<t>бурлить</t>
+</tg>
+<tg xml:lang="deu">
+<t>platschen</t>
+<t>plumpsen</t>
+</tg>
+<tg xml:lang="deu">
+<t>gluckern</t>
+<t>plätschern</t>
+</tg>
+<tg xml:lang="deu">
+<t>rieseln</t>
+<t>murmeln</t>
+</tg>
+</mg>
+</SenseGroup>
+;
+<SenseGroup>
+<mg>
+<tg xml:lang="rus">
+<t>производить глухой шум</t>
+</tg>
+<tg xml:lang="deu">
+<t>einen dumpfen Laut geben, verursachen</t>
+<t>plauzen</t>
+</tg>
+</mg>
+</SenseGroup>
+</HWB>
+<Etg>
+<EtType edit="MK" vl="vgl"/>
+<EtSrcL edit="MK" vl="mrdv"/>
+<EtCtn>
+<Et edit="MK">
+<WdCtn>
+<Wd CyrId="булдома">buldə̑ma·</Wd>
+</WdCtn></Et>
+</EtCtn>
+</Etg>
+</DictionaryEntry></NE>
+  <NE idNo="1">
+<DictionaryEntry>
+<HWB>
+<E3Head><POS/></E3Head>
+<PhnUG>
+<lg xml:lang="myv"><l pos="Ideoph">гуж</l>
+<st>гуж</st>
+</lg>
+<PhnUBlock>
+<PhnUCtn>
+<PhnU>
+<WdCtn>
+<Wd myvId="гуж">guž</Wd>
+</WdCtn>
+</PhnU>
+</PhnUCtn>
+<GeoUB xml:lang="myv">
+<GeoU>Mar</GeoU>
+</GeoUB>
+</PhnUBlock>
+</PhnUG>
+<PhnUG>
+<!-- Not original -->
+<lg xml:lang="mdf"><l/><st/>
+</lg>
+</PhnUG>
+<SenseGroup>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">? ономат. слово</t>
+</tg>
+<tg xml:lang="deu">
+<t edit="MK">? onomat. Wort</t>
+</tg>
+</mg>
+</SenseGroup>
+<xg>
+<x>
+<WdCtn>
+<Wd myvId="гуж">guž</Wd>
+</WdCtn>
+<Hph edit="MK"/>
+<WdCtn>
+<Wd myvId="гаж">gaž</Wd>
+</WdCtn>
+<tk3 isa="ws"/>
+<WdCtn>
+<Wd myvId="ужынь">uži͔ń</Wd>
+</WdCtn>
+<tk3 isa="ws"/>
+<WdCtn>
+<Wd myvId="пря">ṕŕa</Wd>
+</WdCtn>
+<tk3 isa="fullstop"/>
+<tk3 isa="ws"/>
+<WdCtn>
+<Wd myvId="–">–</Wd>
+</WdCtn>
+<tk3 isa="ws"/>
+<WdCtn>
+<Wd myvId="кумбрясь">kumb́ŕäś</Wd>
+</WdCtn>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Mar</GeoU>
+</GeoUB>
+<sources>
+<book name="2" pg="28"/>
+</sources>
+<t xml:lang="deu">Gush, gash ein Unkenkopf. – Das “<FrnTxt><WdCtn>
+<Wd CyrId="кумбря">kumb́ŕa</Wd>
+</WdCtn></FrnTxt>” (eine Muschelart, die bei den mordw. Weibern als Schmuck sehr geliebt ist; sie gleicht in der Tat einem Schlangenkopfe, was auch das Wort <FrnTxt><WdCtn>
+<Wd CyrId="кумбря">kumb́ŕa</Wd>
+</WdCtn></FrnTxt> (= <FrnTxt><WdCtn>
+<Wd CyrId="куинь">kujiń</Wd>
+</WdCtn>
+<tk3 isa="ws"/>
+<WdCtn>
+<Wd CyrId="пря">ṕŕa</Wd>
+</WdCtn></FrnTxt>) urspr. bedeutet).</t>
+</xg>
+</HWB>
+<Etg>
+<EtType edit="MK" vl="vgl"/>
+<EtCtn>
+<Et edit="MK"><sup>1</sup><i><tk2>
+<WdCtn>
+<Wd CyrId="куш">kuš</Wd>
+</WdCtn></tk2></i></Et>
+</EtCtn>
+</Etg>
+</DictionaryEntry></NE>
+  <NE idNo="1">
+<DictionaryEntry>
+<HWB>
+<E3Head><POS/></E3Head>
+<PhnUG>
+<lg xml:lang="myv"><l pos="Ideoph">гуль</l>
+<st>гуль</st>
+</lg>
+<PhnUBlock>
+<PhnUCtn>
+<PhnU>
+<WdCtn>
+<Wd myvId="гуль">guĺ</Wd>
+</WdCtn>
+</PhnU>
+</PhnUCtn>
+</PhnUBlock>
+</PhnUG>
+<PhnUG>
+<!-- Not original -->
+<lg xml:lang="mdf"><l/><st/>
+</lg>
+</PhnUG>
+<SenseGroup>
+<Sense vl="notGiven"/>
+</SenseGroup>
+<xg>
+:
+</xg>
+</HWB>
+<MWUB>
+<E3Head><POS freeType="morphological" pos=""/></E3Head>
+<PhnUG>
+<lg xml:lang="myv"><l pos="Ideoph">гуль гуль</l>
+<st>гуль гуль</st>
+</lg>
+<PhnUBlock>
+<PhnUCtn>
+<PhnU>
+<WdCtn>
+<Wd myvId="гуль,">guĺ,</Wd>
+</WdCtn>
+<tk3 isa="ws"/>
+<WdCtn>
+<Wd myvId="гуль">guĺ</Wd>
+</WdCtn>
+</PhnU>
+</PhnUCtn>
+<GeoUB xml:lang="myv">
+<GeoU>Kažl</GeoU>
+</GeoUB>
+</PhnUBlock>
+</PhnUG>
+<PhnUG>
+<!-- Not original -->
+<lg xml:lang="mdf"><l/><st/>
+</lg>
+</PhnUG>
+<SenseGroup>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">приман. для голубей</t>
+</tg>
+<tg xml:lang="deu">
+<t>Lockruf für Tauben</t>
+</tg>
+</mg>
+</SenseGroup>
+</MWUB>
+<Etg>
+<EtSrcL xml:lang="rus"/>
+<Et>гуль гуль</Et>
+</Etg>
+</DictionaryEntry></NE>
+  <NE idNo="1">
+<DictionaryEntry>
+<HWB>
+<E3Head><POS/></E3Head>
+<PhnUG>
+<lg xml:lang="myv"><l pos="Ideoph">доко-док</l>
+<st>доко-док</st>
+</lg>
+<PhnUBlock>
+<PhnUCtn>
+<PhnU>
+<WdCtn>
+<Wd myvId="доко">doko</Wd>
+</WdCtn>
+<Hph/>
+<WdCtn>
+<Wd myvId="док">dok</Wd>
+</WdCtn>
+</PhnU>
+</PhnUCtn>
+<GeoUB xml:lang="myv">
+<GeoU>MKly</GeoU>
+</GeoUB>
+</PhnUBlock>
+</PhnUG>
+<PhnUG>
+<!-- Not original -->
+<lg xml:lang="mdf"><l/><st/>
+</lg>
+</PhnUG>
+<SenseGroup>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">описывает топот ног танцующего</t>
+</tg>
+<tg xml:lang="deu">
+<t>das Stampfen der Beine des Tänzers beschreibendes Wort</t>
+</tg>
+</mg>
+</SenseGroup>
+<xg>
+<x>
+<WdCtn>
+<Wd myvId="чокшнэне">čokšne͔ńe</Wd>
+</WdCtn>
+<Hph/>
+<WdCtn>
+<Wd myvId="как">kak</Wd>
+</WdCtn>
+<tk3 isa="ws"/>
+<WdCtn>
+<Wd myvId="дики">d́iḱi</Wd>
+</WdCtn>
+<Hph/>
+<WdCtn>
+<Wd myvId="дик">d́ik</Wd>
+</WdCtn>
+<tk3 isa="comma"/>
+<tk3 isa="ws"/>
+<WdCtn>
+<Wd myvId="валцькене">valćḱeńe</Wd>
+</WdCtn>
+<Hph/>
+<WdCtn>
+<Wd myvId="как">kak</Wd>
+</WdCtn>
+<tk3 isa="ws"/>
+<WdCtn>
+<Wd myvId="доко">doko</Wd>
+</WdCtn>
+<Hph/>
+<WdCtn>
+<Wd myvId="док">dok</Wd>
+</WdCtn>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>MKly</GeoU>
+</GeoUB>
+<sources>
+<book name="VII" pg="46"/>
+</sources>
+<xt xml:lang="deu">Abends (geigt er) diki-dik, morgens (tanzt sie) doko-dok.</xt>
+</xg>
+</HWB>
+</DictionaryEntry></NE>
+  <NE idNo="1">
+<DictionaryEntry>
+<HWB>
 <E3Head><POS/></E3Head>
 <PhnUG>
 <!-- Not original -->
