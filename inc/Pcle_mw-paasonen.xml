@@ -4,15 +4,10 @@
 <DictionaryEntry>
 <HWB>
 <E3Head><POS freeType="morphological" pos="syntax-enklit"/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l pos="Pcle"/><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Pcle"/><st/>
 </lg>
-</PhnUG>
-<PhnUG>
 <lg xml:lang="mdf"><l pos="Pcle">-га</l>
 <st>Q-га</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -24,7 +19,7 @@
 <book name="Chr" xml:lang="mdf"/>
 </sources>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <Syntax function="enklit"/>
 <mg>
@@ -55,15 +50,10 @@
 <DictionaryEntry>
 <HWB>
 <E3Head><POS freeType="morphological" pos="syntax-enklit"/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l pos="Pcle"/><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Pcle"/><st/>
 </lg>
-</PhnUG>
-<PhnUG>
 <lg xml:lang="mdf"><l pos="Pcle">-гя</l>
 <st>Q-гя</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -75,7 +65,7 @@
 <book name="Chr" xml:lang="mdf"/>
 </sources>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <Syntax function="enklit"/>
 <mg>
@@ -105,15 +95,10 @@
 <DictionaryEntry>
 <HWB>
 <E3Head><POS freeType="morphological" pos="syntax-enklit"/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l pos="Pcle"/><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Pcle"/><st/>
 </lg>
-</PhnUG>
-<PhnUG>
 <lg xml:lang="mdf"><l pos="Pcle">-ка</l>
 <st>Q-ка</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -125,7 +110,7 @@
 <book name="Chr" xml:lang="mdf"/>
 </sources>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <Syntax function="enklit"/>
 <mg>
@@ -154,15 +139,10 @@
 <DictionaryEntry>
 <HWB>
 <E3Head><POS freeType="morphological" pos="syntax-enklit"/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l pos="Pcle"/><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Pcle"/><st/>
 </lg>
-</PhnUG>
-<PhnUG>
 <lg xml:lang="mdf"><l pos="Pcle">-нгя</l>
 <st>Q-нгя</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -174,7 +154,7 @@
 <book name="Chr" xml:lang="mdf"/>
 </sources>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <Syntax function="enklit"/>
 <mg>
@@ -194,15 +174,10 @@
 <DictionaryEntry>
 <HWB>
 <E3Head><POS freeType="morphological" pos="syntax-enklit"/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l pos="Pcle"/><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Pcle"/><st/>
 </lg>
-</PhnUG>
-<PhnUG>
 <lg xml:lang="mdf"><l pos="Pcle">-нга</l>
 <st>Q-нга</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -217,7 +192,7 @@
 <GeoU/>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <Syntax function="enklit"/>
 <mg>
@@ -256,15 +231,10 @@
 <DictionaryEntry>
 <HWB>
 <E3Head><POS freeType="morphological" pos="syntax-enklit. Verstärkungspartikel"/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l pos="Pcle"/><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Pcle"/><st/>
 </lg>
-</PhnUG>
-<PhnUG>
 <lg xml:lang="mdf"><l pos="Pcle">-ёк</l>
 <st>Q-ёк</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -276,7 +246,7 @@
 <GeoU>P</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <Syntax function="enklit. Verstärkungspartikel"/>
 <mg>
@@ -293,15 +263,10 @@
 </HWB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos="Adv"/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l/><st/>
+<lg edit="JMR" xml:lang="myv"><l/><st/>
 </lg>
-</PhnUG>
-<PhnUG>
 <lg xml:lang="mdf"><l>тяддэёк</l>
 <st>тяддэёк</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -309,7 +274,7 @@
 </PhnU>
 </PhnUCtn>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -323,15 +288,10 @@
 </MWUB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos="Adv"/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l/><st/>
+<lg edit="JMR" xml:lang="myv"><l/><st/>
 </lg>
-</PhnUG>
-<PhnUG>
 <lg xml:lang="mdf"><l>тячиёк</l>
 <st>тячиёк</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -339,7 +299,7 @@
 </PhnU>
 </PhnUCtn>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -353,15 +313,10 @@
 </MWUB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos="Adv"/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l/><st/>
+<lg edit="JMR" xml:lang="myv"><l/><st/>
 </lg>
-</PhnUG>
-<PhnUG>
 <lg xml:lang="mdf"><l>тяниёк</l>
 <st>тяниёк</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -369,7 +324,7 @@
 </PhnU>
 </PhnUCtn>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -383,15 +338,10 @@
 </MWUB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos="Adv"/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l/><st/>
+<lg edit="JMR" xml:lang="myv"><l/><st/>
 </lg>
-</PhnUG>
-<PhnUG>
 <lg xml:lang="mdf"><l>вандыёк</l>
 <st>вандыёк</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -399,7 +349,7 @@
 </PhnU>
 </PhnUCtn>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -443,10 +393,8 @@
 <DictionaryEntry>
 <HWB>
 <E3Head><POS freeType="morphological" pos="syntax-enklit"/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l pos="Pcle">-гак</l>
 <st>Q-гак</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -458,12 +406,9 @@
 <GeoU/>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <Syntax function="enklit"/>
 <mg>
@@ -507,10 +452,8 @@
 <DictionaryEntry>
 <HWB>
 <E3Head><POS freeType="morphological" pos="syntax-enklit"/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l pos="Pcle">-как</l>
 <st>Q-как</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -522,12 +465,9 @@
 <GeoU/>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <Syntax function="enklit"/>
 <mg>
@@ -561,10 +501,8 @@
 <DictionaryEntry>
 <HWB>
 <E3Head><POS freeType="morphological" pos="syntax-Partikel"/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l pos="Pcle">-кеть</l>
 <st>Q-кеть</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -576,12 +514,9 @@
 <GeoU>VVr</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <Syntax function="Partikel"/>
 <mg>
@@ -614,10 +549,8 @@
 <DictionaryEntry>
 <HWB>
 <E3Head><POS freeType="morphological" pos="syntax-enklit"/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l pos="Pcle">-як</l>
 <st>Q-як</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -629,12 +562,9 @@
 <GeoU extension="common"/>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <Syntax function="enklit"/>
 <mg>
@@ -678,10 +608,8 @@
 <DictionaryEntry>
 <HWB>
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l pos="Pcle">эень</l>
 <st>эень</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -693,11 +621,9 @@
 <GeoU>Petr</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
+</lg>
 <lg xml:lang="mdf"><l>инь</l>
 <st>инь</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -708,7 +634,7 @@
 <GeoU>Vert</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">

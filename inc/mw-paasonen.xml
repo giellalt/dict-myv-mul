@@ -4,7 +4,8 @@
 <DictionaryEntry>
 <HWB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
+<lg xml:lang="myv"><l pos="N">эрьгат</l>
+<st>эрьга</st>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -12,7 +13,10 @@
 </PhnU>
 </PhnUCtn>
 </PhnUBlock>
-</PhnUG>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l pos="N"></l>
+<st></st>
+</lg>
 <cl1>(<cl id="pair">Par.-Wort zu <CapI>
 <i><tk2>
 <Wd CyrId="цисла">ćisla</Wd></tk2></i></CapI></cl>)</cl1>
@@ -25,10 +29,8 @@
 </HWB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>цислат-эрьгат</l>
 <st>цислат-эрьгат</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -42,12 +44,9 @@
 <GeoU>Atr</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -66,7 +65,8 @@
 <DictionaryEntry>
 <HWB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
+<lg edit="JMR" xml:lang="myv"><l pos="N">эфтерь</l>
+<st>эфтерь</st>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -75,7 +75,10 @@
 </PhnU>
 </PhnUCtn>
 </PhnUBlock>
-</PhnUG>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l pos="N"></l>
+<st></st>
+</lg>
 <SenseGroup>
 <Sense vl="notGiven"/>
 </SenseGroup>
@@ -85,10 +88,8 @@
 </HWB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>эфтерь-пильге</l>
 <st>эфтерь-пильге</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -125,12 +126,9 @@
 <GeoU>Večk</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -213,15 +211,10 @@
 <DictionaryEntry>
 <HWB>
 <E3Head><POS/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l pos="Interj"/><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Interj"/><st/>
 </lg>
-</PhnUG>
-<PhnUG>
 <lg xml:lang="mdf"><l>пожаләй</l>
 <st>пожаләй</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -271,7 +264,7 @@
 <GeoU>Sučk</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -344,10 +337,8 @@
 <DictionaryEntry>
 <HWB>
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>пожалыста</l>
 <st>пожалыста</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -358,11 +349,9 @@
 <GeoU>Mar</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
+</lg>
 <lg xml:lang="mdf"><l>пажаләстый</l>
 <st>пажаләстый</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -402,7 +391,7 @@
 </GeoUCtn>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -493,15 +482,10 @@
 <DictionaryEntry>
 <HWB>
 <E3Head><POS/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l pos="Interj"/><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Interj"/><st/>
 </lg>
-</PhnUG>
-<PhnUG>
 <lg xml:lang="mdf"><l>псюрк-псюрк</l>
 <st>псюрк-псюрк</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -514,7 +498,7 @@
 <GeoU>Pš</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -530,15 +514,10 @@
 <DictionaryEntry>
 <HWB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l/><st/>
+<lg edit="JMR" xml:lang="myv"><l/><st/>
 </lg>
-</PhnUG>
-<PhnUG>
 <lg xml:lang="mdf"><l>псюрка</l>
 <st>псюрка</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -556,7 +535,7 @@
 </InflCtn>
 </InflB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -575,15 +554,10 @@
 <DictionaryEntry>
 <HWB>
 <E3Head><POS/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l pos="Interj"/><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Interj"/><st/>
 </lg>
-</PhnUG>
-<PhnUG>
 <lg xml:lang="mdf"><l>тпр</l>
 <st>тпр</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -594,7 +568,7 @@
 <GeoU/>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -635,15 +609,10 @@
 <DictionaryEntry>
 <HWB>
 <E3Head><POS/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l pos="Interj"/><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Interj"/><st/>
 </lg>
-</PhnUG>
-<PhnUG>
 <lg xml:lang="mdf"><l>тьфа</l>
 <st>тьфа</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -661,7 +630,7 @@
 </InflCtn>
 </InflB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -680,15 +649,10 @@
 <DictionaryEntry>
 <HWB>
 <E3Head><POS/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l pos="Interj"/><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Interj"/><st/>
 </lg>
-</PhnUG>
-<PhnUG>
 <lg xml:lang="mdf"><l>тюлю-балю</l>
 <st>тюлю-балю</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -701,7 +665,7 @@
 <GeoU>Kr</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -720,15 +684,10 @@
 <DictionaryEntry>
 <HWB>
 <E3Head><POS/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l pos="Interj"/><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Interj"/><st/>
 </lg>
-</PhnUG>
-<PhnUG>
 <lg xml:lang="mdf"><l>тютю</l>
 <st>тютю</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -742,7 +701,7 @@
 <GeoU>Vert</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -819,15 +778,10 @@
 </HWB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l/><st/>
+<lg edit="JMR" xml:lang="myv"><l/><st/>
 </lg>
-</PhnUG>
-<PhnUG>
 <lg xml:lang="mdf"><l>тютю-палю</l>
 <st>тютю-палю</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -877,7 +831,7 @@
 <GeoU>Kars</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -945,15 +899,10 @@
 <DictionaryEntry>
 <HWB>
 <E3Head><POS/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l pos="Interj"/><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Interj"/><st/>
 </lg>
-</PhnUG>
-<PhnUG>
 <lg xml:lang="mdf"><l>уть-уть-уть</l>
 <st>уть-уть-уть</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -968,7 +917,7 @@
 <GeoU>Sel</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -992,15 +941,10 @@
 <DictionaryEntry>
 <HWB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l pos="Interj"/><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Interj"/><st/>
 </lg>
-</PhnUG>
-<PhnUG>
 <lg xml:lang="mdf"><l>ця</l>
 <st>ця</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -1012,7 +956,7 @@
 <GeoU>Sel</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -1043,15 +987,10 @@
 </HWB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l/><st/>
+<lg edit="JMR" xml:lang="myv"><l/><st/>
 </lg>
-</PhnUG>
-<PhnUG>
 <lg xml:lang="mdf"><l>цяда</l>
 <st>цяда</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -1063,7 +1002,7 @@
 <GeoU>Sel</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <Nx vl="plural"/>
 <mg>
@@ -1083,15 +1022,10 @@
 <DictionaryEntry>
 <HWB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l pos="Interj"/><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Interj"/><st/>
 </lg>
-</PhnUG>
-<PhnUG>
 <lg xml:lang="mdf"><l>чик</l>
 <st>чик</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -1102,7 +1036,7 @@
 <GeoU/>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SubjectField>onomat</SubjectField>
 <SenseGroup>
 <Sense vl="notGiven"/>
@@ -1143,15 +1077,10 @@
 <DictionaryEntry>
 <HWB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l pos="Interj"/><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Interj"/><st/>
 </lg>
-</PhnUG>
-<PhnUG>
 <lg xml:lang="mdf"><l>чо</l>
 <st>чо</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -1162,7 +1091,7 @@
 <GeoU>P</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <DerivationBlock>( des Verscheuchens, auch Warnung)</DerivationBlock>
 <SenseGroup>
 <Syntax function="Interj"/>
@@ -1185,15 +1114,10 @@
 <DictionaryEntry>
 <HWB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l pos="Interj"/><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Interj"/><st/>
 </lg>
-</PhnUG>
-<PhnUG>
 <lg xml:lang="mdf"><l pos="Interj">шиньдю</l>
 <st>шиньдю</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -1204,7 +1128,7 @@
 <GeoU>P</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -1221,15 +1145,10 @@
 <DictionaryEntry>
 <HWB>
 <E3Head><POS/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l pos="Interj"/><st/><!-- Just a noun -->
+<lg edit="JMR" xml:lang="myv"><l pos="Interj"/><st/><!-- Just a noun -->
 </lg>
-</PhnUG>
-<PhnUG>
 <lg xml:lang="mdf"><l>пиза</l>
 <st>пиза</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -1242,7 +1161,7 @@
 <GeoU>Sel</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <pos>(<isa>Interj</isa>)</pos>
 <DerivationBlock>[nur mit Poss.-Suffixen gebraucht]</DerivationBlock>
 <SenseGroup>
@@ -1254,15 +1173,10 @@
 </HWB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l/><st/>
+<lg edit="JMR" xml:lang="myv"><l/><st/>
 </lg>
-</PhnUG>
-<PhnUG>
 <lg xml:lang="mdf"><l>пизәтся</l>
 <st>пизәтся</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -1270,7 +1184,7 @@
 </PhnU>
 </PhnUCtn>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -1318,15 +1232,10 @@
 <DictionaryEntry>
 <HWB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l pos="Interj"/><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Interj"/><st/>
 </lg>
-</PhnUG>
-<PhnUG>
 <lg xml:lang="mdf"><l pos="Interj">пав</l>
 <st>пав</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -1334,7 +1243,7 @@
 </PhnU>
 </PhnUCtn>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <Sense vl="notGiven"/>
 </SenseGroup>
@@ -1344,15 +1253,10 @@
 </HWB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l/><st/>
+<lg edit="JMR" xml:lang="myv"><l/><st/>
 </lg>
-</PhnUG>
-<PhnUG>
 <lg xml:lang="mdf"><l>пав-пав</l>
 <st>пав-пав</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -1365,7 +1269,7 @@
 <GeoU>P</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -1381,15 +1285,10 @@
 <DictionaryEntry>
 <HWB>
 <E3Head><POS pos="V"/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l pos="V"/><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="V"/><st/>
 </lg>
-</PhnUG>
-<PhnUG>
 <lg xml:lang="mdf"><l pos="V">бавамс</l>
 <st>бавамс</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -1401,7 +1300,7 @@
 <GeoU>Sel</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -1456,15 +1355,10 @@
 <DictionaryEntry>
 <HWB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l/><st/>
+<lg edit="JMR" xml:lang="myv"><l/><st/>
 </lg>
-</PhnUG>
-<PhnUG>
 <lg xml:lang="mdf"><l>баву</l>
 <st>баву</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -1477,7 +1371,7 @@
 <GeoU>Temn</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -1540,10 +1434,8 @@
 <DictionaryEntry>
 <HWB>
 <E3Head><POS/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l pos="Interj">дягу</l>
 <st>дягу</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -1554,12 +1446,9 @@
 <GeoU>Večk</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SubjectField>onomat</SubjectField>
 <SenseGroup>
 <mg>
@@ -1596,10 +1485,8 @@
 <DictionaryEntry>
 <HWB>
 <E3Head><POS/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l pos="Interj">лойлях</l>
 <st>лойлях</st>
-</lg>
 <PhnUBlock>
 <Chc>
 <Vrt>
@@ -1640,12 +1527,9 @@
 <GeoU>Večk</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -1720,10 +1604,8 @@
 <DictionaryEntry>
 <HWB>
 <E3Head><POS/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l pos="Interj">машк</l>
 <st>машк</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -1734,11 +1616,9 @@
 <GeoU/>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
+</lg>
 <lg xml:lang="mdf"><l>машк</l>
 <st>машк</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -1749,7 +1629,7 @@
 <GeoU/>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -1766,10 +1646,8 @@
 <DictionaryEntry>
 <HWB>
 <E3Head><POS/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l pos="Interj">на</l>
 <st>на</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -1785,11 +1663,9 @@
 <GeoU>Večk</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
+</lg>
 <lg xml:lang="mdf"><l>на</l>
 <st>на</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -1802,7 +1678,7 @@
 <GeoU>Sučk</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <DerivationBlock>( des Anbietens)</DerivationBlock>
 <SenseGroup>
 <Syntax function="Interj"/>
@@ -2086,15 +1962,10 @@
 </HWB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l/><st/>
+<lg edit="JMR" xml:lang="myv"><l/><st/>
 </lg>
-</PhnUG>
-<PhnUG>
 <lg xml:lang="mdf"><l>на-ина</l>
 <st>на-ина</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -2107,7 +1978,7 @@
 <GeoU>P</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -2123,10 +1994,8 @@
 </MWUB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>нака</l>
 <st>нака</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -2153,11 +2022,9 @@
 <GeoU>Večk</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
+</lg>
 <lg xml:lang="mdf"><l>нака</l>
 <st>нака</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -2169,7 +2036,7 @@
 <GeoU>Cjatn</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <DrvG>[<comment/><DrvStCtn><DrvSt><Wd CyrId="на">na</Wd></DrvSt></DrvStCtn><fnct>+</fnct>
 <stem><i>
 <Hph/>
@@ -2245,10 +2112,8 @@
 </MWUB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>накая</l>
 <st>накая</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -2259,12 +2124,9 @@
 <GeoU>Gor</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <Sense vl="previous"/>
 </SenseGroup>
@@ -2292,10 +2154,8 @@
 </MWUB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>накальть</l>
 <st>накальть</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -2306,12 +2166,9 @@
 <GeoU>Mar</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -2329,10 +2186,8 @@
 </MWUB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>нава</l>
 <st>нава</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -2344,12 +2199,9 @@
 <GeoU>Kal</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <DerivationBlock>[<i><tk2>
 <Wd CyrId="на">na</Wd></tk2></i> + <i><tk2>
 <Wd CyrId="ва">va</Wd></tk2></i>(<i><tk2>
@@ -2464,10 +2316,8 @@
 <DictionaryEntry>
 <HWB>
 <E3Head><POS/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l pos="Interj">незнай</l>
 <st>незнай</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -2488,12 +2338,9 @@
 <GeoU>SŠant</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -2547,10 +2394,8 @@
 <DictionaryEntry>
 <HWB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>незнайка</l>
 <st>незнайка</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -2561,12 +2406,9 @@
 <GeoU>Mar</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -2605,10 +2447,8 @@
 <DictionaryEntry>
 <HWB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>незнамой</l>
 <st>незнамой</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -2619,12 +2459,9 @@
 <GeoU>Af</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -2672,10 +2509,8 @@
 <DictionaryEntry>
 <HWB>
 <E3Head><POS/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l pos="Interj">нето</l>
 <st>нето</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -2686,12 +2521,9 @@
 <GeoU>NSurk</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -2751,10 +2583,8 @@
 <DictionaryEntry>
 <HWB>
 <E3Head><POS/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l pos="Interj">нечево</l>
 <st>нечево</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -2765,12 +2595,9 @@
 <GeoU>Mar</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -2807,10 +2634,8 @@
 <DictionaryEntry>
 <HWB>
 <E3Head><POS/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l pos="Interj">ну</l>
 <st>ну</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -2828,12 +2653,9 @@
 <GeoU>Kl</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -2985,10 +2807,8 @@
 <DictionaryEntry>
 <HWB>
 <E3Head><POS/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l pos="Interj">нурт</l>
 <st>нурт</st>
-</lg>
 <PhnUBlock>
 <Chc>
 <Vrt>
@@ -3011,12 +2831,9 @@
 <GeoU>VVr</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -3069,10 +2886,8 @@
 <DictionaryEntry>
 <HWB>
 <E3Head><POS/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l pos="Interj">нуш</l>
 <st>нуш</st>
-</lg>
 <PhnUBlock>
 <Chc>
 <Vrt>
@@ -3094,11 +2909,9 @@
 <GeoU>NSurk</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
+</lg>
 <lg xml:lang="mdf"><l>нуш</l>
 <st>нуш</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -3111,7 +2924,7 @@
 </GeoUCtn>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -3229,10 +3042,8 @@
 <DictionaryEntry>
 <HWB>
 <E3Head><POS/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l pos="Interj">онот</l>
 <st>онот</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -3254,12 +3065,9 @@
 <GeoU>NSurk</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -3424,10 +3232,8 @@
 <DictionaryEntry>
 <HWB>
 <E3Head><POS/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l pos="Interj">ох</l>
 <st>ох</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -3475,11 +3281,9 @@
 <GeoU>SŠant</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
+</lg>
 <lg xml:lang="mdf"><l>ох</l>
 <st>ох</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -3491,7 +3295,7 @@
 <GeoU>Sel</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -3666,10 +3470,8 @@
 <DictionaryEntry>
 <HWB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>оха</l>
 <st>оха</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -3683,12 +3485,9 @@
 <GeoU>Bag</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -3733,10 +3532,8 @@
 <DictionaryEntry>
 <HWB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>охай</l>
 <st>охай</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -3747,11 +3544,9 @@
 <GeoU>Vez</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
+</lg>
 <lg xml:lang="mdf"><l>охай</l>
 <st>охай</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -3774,7 +3569,7 @@
 <GeoU>Vert</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -3862,15 +3657,10 @@
 <DictionaryEntry>
 <HWB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l/><st/>
+<lg edit="JMR" xml:lang="myv"><l/><st/>
 </lg>
-</PhnUG>
-<PhnUG>
 <lg xml:lang="mdf"><l>офай</l>
 <st>офай</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -3881,7 +3671,7 @@
 <GeoU>Kr</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <DrvG>[<comment/><DrvStCtn><DrvSt><Wd CyrId="ох">oᵪ</Wd></DrvSt></DrvStCtn><fnct>+</fnct><DrvStCtn><DrvSt><Wd CyrId="вай">vaj</Wd></DrvSt></DrvStCtn>]</DrvG>
 <SenseGroup>
 <mg>
@@ -3942,10 +3732,8 @@
 <DictionaryEntry>
 <HWB>
 <E3Head><POS pos="V"/><deriv isa="mom-DE"/><deriv isa="Mom"/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l pos="V">охадемс</l>
 <st>охадемс</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -3978,12 +3766,9 @@
 <GeoU>Kal</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <DrvG><DrvT vl="momentative"/></DrvG>
 <SenseGroup>
 <mg>
@@ -4048,10 +3833,8 @@
 <DictionaryEntry>
 <HWB>
 <E3Head><POS pos="V"/><deriv isa="iter-JA"/><deriv isa="Iter"/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l pos="V">охаемс</l>
 <st>охаемс</st>
-</lg>
 <PhnUBlock>
 <Chc>
 <Vrt>
@@ -4095,11 +3878,9 @@
 <GeoU>Kad</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
+</lg>
 <lg xml:lang="mdf"><l pos="V">охиемс</l>
 <st>охиемс</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -4111,7 +3892,7 @@
 <GeoU>Sel</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <DrvG><DrvT vl="iterative"/><DrvStCtn><DrvSt><Wd CyrId="охадемс">oᵪad́ems</Wd></DrvSt></DrvStCtn></DrvG>
 <SenseGroup>
 <mg>
@@ -4167,15 +3948,10 @@
 <DictionaryEntry>
 <HWB>
 <E3Head><POS pos="V"/><deriv isa="mom-TQ"/><deriv isa="Mom"/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l pos="V"/><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="V"/><st/>
 </lg>
-</PhnUG>
-<PhnUG>
 <lg xml:lang="mdf"><l pos="V">охкстәмс</l>
 <st>охкстәмс</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -4186,7 +3962,7 @@
 <GeoU>Pš</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <DrvG><DrvT vl="momentative"/></DrvG>
 <SenseGroup>
 <mg>
@@ -4219,15 +3995,10 @@
 <DictionaryEntry>
 <HWB>
 <E3Head><POS pos="V"/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l pos="V"/><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="V"/><st/>
 </lg>
-</PhnUG>
-<PhnUG>
 <lg xml:lang="mdf"><l pos="V">охәндамс</l>
 <st>охәндамс</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -4238,7 +4009,7 @@
 <GeoU>Čemb</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -4256,10 +4027,8 @@
 <DictionaryEntry>
 <HWB>
 <E3Head><POS/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l pos="Interj">паньдя</l>
 <st>паньдя</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -4283,11 +4052,9 @@
 <GeoU>Ba</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
+</lg>
 <lg xml:lang="mdf"><l>паньдя</l>
 <st>паньдя</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -4301,7 +4068,7 @@
 <GeoU>Sučk</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -4350,10 +4117,8 @@
 <DictionaryEntry>
 <HWB>
 <E3Head><POS/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l pos="Interj">пасиба</l>
 <st>пасиба</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -4389,11 +4154,9 @@
 <Language>[E]</Language>
 </sources>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
+</lg>
 <lg xml:lang="mdf"><l>пасиба</l>
 <st>пасиба</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -4434,7 +4197,7 @@
 <Language>[M]</Language>
 </sources>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -4534,15 +4297,10 @@
 </HWB>
 <CompositionalPhraseCtn>
 <E3Head><POS/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l pos="V"/><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="V"/><st/>
 </lg>
-</PhnUG>
-<PhnUG>
 <lg xml:lang="mdf"><l pos="V">пасиба азәмс</l>
 <st>пасиба азәмс</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -4554,7 +4312,7 @@
 <GeoU>P</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -4568,10 +4326,8 @@
 </CompositionalPhraseCtn>
 <CompositionalPhraseCtn>
 <E3Head><POS/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l pos="V">пасиба ёвтамс</l>
 <st>пасиба ёвтамс</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -4584,12 +4340,9 @@
 <GeoU>VVr</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -4620,10 +4373,8 @@
 </CompositionalPhraseCtn>
 <MWUB>
 <E3Head><POS/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l pos="V">пасиба меримс</l>
 <st>пасиба меримс</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -4636,11 +4387,9 @@
 <GeoU>MKly</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
+</lg>
 <lg xml:lang="mdf"><l pos="V">пасиба мярьгәмс</l>
 <st>пасиба мярьгәмс</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -4653,7 +4402,7 @@
 <GeoU>P</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -4684,10 +4433,8 @@
 <DictionaryEntry>
 <HWB>
 <E3Head><POS/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l pos="Interj">тайдай</l>
 <st>тайдай</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -4698,12 +4445,9 @@
 <GeoU>Šokša</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -4749,10 +4493,8 @@
 <DictionaryEntry>
 <HWB>
 <E3Head><POS/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l pos="Interj">тиба</l>
 <st>тиба</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -4765,11 +4507,9 @@
 <GeoU>Večk</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
+</lg>
 <lg xml:lang="mdf"><l>тиба</l>
 <st>тиба</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -4791,7 +4531,7 @@
 <GeoU>Sel</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -4863,10 +4603,8 @@
 <DictionaryEntry>
 <HWB>
 <E3Head><POS/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l pos="Interj">то</l>
 <st>то</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -4878,12 +4616,9 @@
 <GeoU>Kal</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -4940,10 +4675,8 @@
 </HWB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>а то</l>
 <st>а то</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -4956,12 +4689,9 @@
 <GeoU>VVr</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -4999,10 +4729,8 @@
 </MWUB>
 <MWUB>
 <E3Head><POS pos="N"/><deriv isa="prt-I"/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>и то</l>
 <st>и то</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -5038,11 +4766,9 @@
 <GeoU>Vez</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
+</lg>
 <lg xml:lang="mdf"><l>и то</l>
 <st>и то</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -5054,7 +4780,7 @@
 <GeoU>Sel</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -5143,10 +4869,8 @@
 <DictionaryEntry>
 <HWB>
 <E3Head><POS/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l pos="Interj">тпруга</l>
 <st>тпруга</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -5157,12 +4881,9 @@
 <GeoU>Gor</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -5214,10 +4935,8 @@
 <DictionaryEntry>
 <HWB>
 <E3Head><POS/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l pos="Interj">тык</l>
 <st>тык</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -5238,11 +4957,9 @@
 <GeoU>Kažl</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
+</lg>
 <lg xml:lang="mdf"><l>тәк</l>
 <st>тәк</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -5255,7 +4972,7 @@
 </GeoUCtn>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -5338,15 +5055,10 @@
 <DictionaryEntry>
 <HWB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l/><st/>
+<lg edit="JMR" xml:lang="myv"><l/><st/>
 </lg>
-</PhnUG>
-<PhnUG>
 <lg xml:lang="mdf"><l>әдәк</l>
 <st>әдәк</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -5357,7 +5069,7 @@
 <GeoU>P</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -5413,10 +5125,8 @@
 <DictionaryEntry>
 <HWB>
 <E3Head><POS pos="N"/><deriv isa="prt-I"/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>тыки</l>
 <st>тыки</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -5429,11 +5139,9 @@
 <GeoU>NSurk</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
+</lg>
 <lg xml:lang="mdf"><l>тики</l>
 <st>тики</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -5455,7 +5163,7 @@
 <GeoU>Bar</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -5606,10 +5314,8 @@ Tat., tschuw. <Et>
 <DictionaryEntry>
 <HWB>
 <E3Head><POS/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l pos="Interj">тю</l>
 <st>тю</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -5620,12 +5326,9 @@ Tat., tschuw. <Et>
 <GeoU>NSurk</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -5663,10 +5366,8 @@ Tat., tschuw. <Et>
 <DictionaryEntry>
 <HWB>
 <E3Head><POS/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l pos="Interj">ужо</l>
 <st>ужо</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -5723,11 +5424,9 @@ Tat., tschuw. <Et>
 <GeoU>Kad</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
+</lg>
 <lg xml:lang="mdf"><l>ожу</l>
 <st>ожу</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -5786,7 +5485,7 @@ Tat., tschuw. <Et>
 <GeoU>Temn</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <Syntax function="Interj"/>
 <mg>
@@ -6052,10 +5751,8 @@ Tat., tschuw. <Et>
 <DictionaryEntry>
 <HWB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>ужока</l>
 <st>ужока</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -6088,11 +5785,9 @@ Tat., tschuw. <Et>
 <GeoU>Kirdž</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
+</lg>
 <lg xml:lang="mdf"><l>ожука</l>
 <st>ожука</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -6116,7 +5811,7 @@ Tat., tschuw. <Et>
 <GeoU>Katm</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -6238,10 +5933,8 @@ Tat., tschuw. <Et>
 <DictionaryEntry>
 <HWB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>ужокая</l>
 <st>ужокая</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -6253,12 +5946,9 @@ Tat., tschuw. <Et>
 <GeoU>Gor</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -6326,10 +6016,8 @@ Tat., tschuw. <Et>
 <DictionaryEntry>
 <HWB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>ужодо</l>
 <st>ужодо</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -6375,11 +6063,9 @@ Tat., tschuw. <Et>
 <GeoU>NSurk</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
+</lg>
 <lg xml:lang="mdf"><l>ожуда</l>
 <st>ожуда</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -6401,7 +6087,7 @@ Tat., tschuw. <Et>
 <GeoU>Sučk</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <DerivationBlock>(Pl. zu <i><tk2>
 <Wd CyrId="ужо">užo</Wd></tk2></i>, <i><tk2>
 <Wd CyrId="ожу">ožu</Wd></tk2></i>)</DerivationBlock>
@@ -6470,10 +6156,8 @@ Tat., tschuw. <Et>
 <DictionaryEntry>
 <HWB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>ужодояк</l>
 <st>ужодояк</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -6504,12 +6188,9 @@ Tat., tschuw. <Et>
 <GeoU>Ba</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -6555,10 +6236,7 @@ Tat., tschuw. <Et>
 <DictionaryEntry>
 <HWB>
 <E3Head><POS/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l pos="Interj">утю</l><st>утю</st>
-</lg>
+<lg edit="JMR" xml:lang="myv"><l pos="Interj">утю</l><st>утю</st>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -6567,7 +6245,7 @@ Tat., tschuw. <Et>
 </PhnU>
 </PhnUCtn>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <Sense vl="notGiven"/>
 </SenseGroup>
@@ -6577,10 +6255,8 @@ Tat., tschuw. <Et>
 </HWB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>утю-балю</l>
 <st>утю-балю</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -6598,12 +6274,9 @@ Tat., tschuw. <Et>
 <GeoU>NSurk</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -6659,10 +6332,8 @@ Tat., tschuw. <Et>
 <DictionaryEntry>
 <HWB>
 <E3Head><POS/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l pos="Interj">хадияшка</l>
 <st>хадияшка</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -6673,12 +6344,9 @@ Tat., tschuw. <Et>
 <GeoU>Bug</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -6722,10 +6390,8 @@ Tat., tschuw. <Et>
 <DictionaryEntry>
 <HWB>
 <E3Head><POS/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l pos="Interj">хайдай</l>
 <st>хайдай</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -6736,12 +6402,9 @@ Tat., tschuw. <Et>
 <GeoU>Jeg</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -6790,10 +6453,8 @@ Tat., tschuw. <Et>
 <DictionaryEntry>
 <HWB>
 <E3Head><POS/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l pos="Interj">хайдым</l>
 <st>хайдым</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -6804,12 +6465,9 @@ Tat., tschuw. <Et>
 <GeoU>Jeg</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -6832,10 +6490,8 @@ Tat., tschuw. <Et>
 <DictionaryEntry>
 <HWB>
 <E3Head><POS/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l pos="Interj">хох</l>
 <st>хох</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -6846,12 +6502,9 @@ Tat., tschuw. <Et>
 <GeoU>NSurk</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -6886,10 +6539,8 @@ Tat., tschuw. <Et>
 <DictionaryEntry>
 <HWB>
 <E3Head><POS/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l pos="Interj">хроп</l>
 <st>хроп</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -6900,12 +6551,9 @@ Tat., tschuw. <Et>
 <GeoU>NSurk</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SubjectField>onomat</SubjectField>
 <SenseGroup>
 <mg>
@@ -6936,10 +6584,8 @@ Tat., tschuw. <Et>
 <DictionaryEntry>
 <HWB>
 <E3Head><POS/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l pos="Interj">цю</l>
 <st>цю</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -6960,11 +6606,9 @@ Tat., tschuw. <Et>
 <GeoU>VVr</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
+</lg>
 <lg xml:lang="mdf"><l>цю</l>
 <st>цю</st>
-</lg>
 <PhnUBlock>
 <Chc>
 <Vrt>
@@ -6997,7 +6641,7 @@ Tat., tschuw. <Et>
 <GeoU>Sel</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -7013,10 +6657,8 @@ Tat., tschuw. <Et>
 </HWB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>цюка</l>
 <st>цюка</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -7027,12 +6669,9 @@ Tat., tschuw. <Et>
 <GeoU>Ta</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <Sense vl="previous"/>
 </SenseGroup>
@@ -7053,10 +6692,8 @@ Tat., tschuw. <Et>
 </MWUB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>цюдо</l>
 <st>цюдо</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -7067,11 +6704,9 @@ Tat., tschuw. <Et>
 <GeoU>Atr</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
+</lg>
 <lg xml:lang="mdf"><l>цюда</l>
 <st>цюда</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -7093,7 +6728,7 @@ Tat., tschuw. <Et>
 <GeoU>Sel</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <Nx vl="plural"/>
 <mg>
@@ -7131,10 +6766,8 @@ Tat., tschuw. <Et>
 </MWUB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos=""/><deriv isa="Redupl"/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>цюцю</l>
 <st>цюцю</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -7156,11 +6789,9 @@ Tat., tschuw. <Et>
 <GeoU>Večk</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
+</lg>
 <lg xml:lang="mdf"><l>чучу</l>
 <st>чучу</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -7181,7 +6812,7 @@ Tat., tschuw. <Et>
 <GeoU>Sučk</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <DrvG><DrvT vl="Redupl"/></DrvG>
 <SenseGroup>
 <mg>
@@ -7206,10 +6837,8 @@ Tat., tschuw. <Et>
 <DictionaryEntry>
 <HWB>
 <E3Head><POS/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l pos="Interj">цюлю</l>
 <st>цюлю</st>
-</lg>
 <PhnUBlock>
 <Chc>
 <Vrt>
@@ -7228,12 +6857,9 @@ Tat., tschuw. <Et>
 </Vrt>
 </Chc>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <Sense vl="notGiven"/>
 </SenseGroup>
@@ -7243,10 +6869,8 @@ Tat., tschuw. <Et>
 </HWB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>цюлю-балю</l>
 <st>цюлю-балю</st>
-</lg>
 <PhnUBlock>
 <Chc>
 <Vrt>
@@ -7298,12 +6922,9 @@ Tat., tschuw. <Et>
 <GeoU>Kal</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -7364,10 +6985,8 @@ Tat., tschuw. <Et>
 <DictionaryEntry>
 <HWB>
 <E3Head><POS/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l pos="Interj">цё</l>
 <st>цё</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -7378,12 +6997,9 @@ Tat., tschuw. <Et>
 <GeoU>NSurk</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -7421,10 +7037,8 @@ Tat., tschuw. <Et>
 <DictionaryEntry>
 <HWB>
 <E3Head><POS/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l pos="Interj">чуш-чуш</l>
 <st>чуш-чуш</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -7437,11 +7051,9 @@ Tat., tschuw. <Et>
 <GeoU>VVr</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
+</lg>
 <lg xml:lang="mdf"><l>чуш-чуш</l>
 <st>чуш-чуш</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -7455,7 +7067,7 @@ Tat., tschuw. <Et>
 <GeoU>Čemb</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -7471,15 +7083,10 @@ Tat., tschuw. <Et>
 <DictionaryEntry>
 <HWB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l/><st/>
+<lg edit="JMR" xml:lang="myv"><l/><st/>
 </lg>
-</PhnUG>
-<PhnUG>
 <lg xml:lang="mdf"><l>чуша</l>
 <st>чуша</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -7498,7 +7105,7 @@ Tat., tschuw. <Et>
 </InflCtn>
 </InflB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -7515,10 +7122,8 @@ Tat., tschuw. <Et>
 <DictionaryEntry>
 <HWB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>чушка</l>
 <st>чушка</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -7532,11 +7137,9 @@ Tat., tschuw. <Et>
 <GeoU>Is</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
+</lg>
 <lg xml:lang="mdf"><l>чошка</l>
 <st>чошка</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -7547,7 +7150,7 @@ Tat., tschuw. <Et>
 <GeoU>Gor</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -7614,15 +7217,10 @@ Tat., tschuw. <Et>
 </HWB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l/><st/>
+<lg edit="JMR" xml:lang="myv"><l/><st/>
 </lg>
-</PhnUG>
-<PhnUG>
 <lg xml:lang="mdf"><l>тувәнь чушка</l>
 <st>тувәнь чушка</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -7643,7 +7241,7 @@ Tat., tschuw. <Et>
 </InflCtn>
 </InflB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -7692,10 +7290,8 @@ Tat., tschuw. <Et>
 <DictionaryEntry>
 <HWB>
 <E3Head><POS/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l pos="Interj">э</l>
 <st>э</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -7706,12 +7302,9 @@ Tat., tschuw. <Et>
 <GeoU>VVr</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -7778,10 +7371,8 @@ Tat., tschuw. <Et>
 <DictionaryEntry>
 <HWB>
 <E3Head><POS/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l pos="Interj">эй</l>
 <st>эй</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -7795,12 +7386,9 @@ Tat., tschuw. <Et>
 <GeoU>VVr</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -7877,10 +7465,8 @@ Tat., tschuw. <Et>
 <DictionaryEntry>
 <HWB>
 <E3Head><POS/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l pos="Interj">элда</l>
 <st>элда</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -7893,12 +7479,9 @@ Tat., tschuw. <Et>
 </GeoUCtn>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -7915,10 +7498,8 @@ Tat., tschuw. <Et>
 <DictionaryEntry>
 <HWB>
 <E3Head><POS/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l pos="Interj">я</l>
 <st>я</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -7936,11 +7517,9 @@ Tat., tschuw. <Et>
 <GeoU>Af</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
+</lg>
 <lg xml:lang="mdf"><l>я</l>
 <st>я</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -7952,7 +7531,7 @@ Tat., tschuw. <Et>
 <GeoU>Ur</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -8076,15 +7655,10 @@ Tat., tschuw. <Et>
 </HWB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l/><st/>
+<lg edit="JMR" xml:lang="myv"><l/><st/>
 </lg>
-</PhnUG>
-<PhnUG>
 <lg xml:lang="mdf"><l>ядә</l>
 <st>ядә</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -8095,20 +7669,16 @@ Tat., tschuw. <Et>
 <GeoU>Jurtk</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <Nx vl="plural"/>
 <mg>
-<TrlnCtn>
 <tg xml:lang="rus">
 <t edit="MK">вот!</t>
 <t edit="MK">смотрите-ка!</t>
-</tg>
-<tg xml:lang="rus">
 <t edit="MK">так ведь</t>
 <t edit="MK">ну!</t>
 </tg>
-</TrlnCtn>
 <tg xml:lang="deu">
 <t>seht her!</t>
 <t>nun (also)!</t>
@@ -8118,7 +7688,8 @@ Tat., tschuw. <Et>
 </MWUB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l pos="Interj">ядоя</l>
+<st>ядоя</st>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -8140,15 +7711,30 @@ Tat., tschuw. <Et>
 <GeoU>Večk</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<SenseGroup nx="Pl" identical2=""/>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l pos="Interj"></l>
+<st></st>
+</lg>
+<SenseGroup/>
+<Nx vl="plural"/>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">вот!</t>
+<t edit="MK">смотрите-ка!</t>
+<t edit="MK">так ведь</t>
+<t edit="MK">ну!</t>
+</tg>
+<tg xml:lang="deu">
+<t>seht her!</t>
+<t>nun (also)!</t>
+</tg>
+</mg>
+</SenseGroup>
 </MWUB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>яка</l>
 <st>яка</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -8160,12 +7746,9 @@ Tat., tschuw. <Et>
 <GeoU>Is</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -8190,10 +7773,8 @@ Tat., tschuw. <Et>
 <DictionaryEntry>
 <HWB>
 <E3Head><POS/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l pos="Num">сисем</l>
 <st>сисем</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -8245,11 +7826,9 @@ Tat., tschuw. <Et>
 <GeoU>Kažl</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
+</lg>
 <lg xml:lang="mdf"><l>сисем</l>
 <st>сисем</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -8263,7 +7842,7 @@ Tat., tschuw. <Et>
 <book name="FS" pg="40" xml:lang="mdf"/>
 </sources>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -8331,10 +7910,8 @@ Tat., tschuw. <Et>
 </HWB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>сисем-иесэ</l>
 <st>сисем-иесэ</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -8358,12 +7935,9 @@ Tat., tschuw. <Et>
 <GeoU>Mar</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -8394,10 +7968,8 @@ Tat., tschuw. <Et>
 </MWUB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>сисемкирда</l>
 <st>сисемкирда</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -8418,12 +7990,9 @@ Tat., tschuw. <Et>
 <GeoU>Is</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -8441,10 +8010,8 @@ Tat., tschuw. <Et>
 </MWUB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>сисем озяст</l>
 <st>сисем озяст</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -8456,12 +8023,9 @@ Tat., tschuw. <Et>
 <GeoU>Is</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <Nx vl="Pl:MK"/>
 <mg>
@@ -8476,10 +8040,8 @@ Tat., tschuw. <Et>
 </MWUB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>сисем прямо</l>
 <st>сисем прямо</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -8491,12 +8053,9 @@ Tat., tschuw. <Et>
 <book name="Chr" xml:lang="myv"/>
 </sources>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -8510,10 +8069,8 @@ Tat., tschuw. <Et>
 </MWUB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>сисем прясо</l>
 <st>сисем прясо</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -8550,12 +8107,9 @@ Tat., tschuw. <Et>
 <GeoU>Kal</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <Sense vl="previous"/>
 </SenseGroup>
@@ -8615,10 +8169,8 @@ Tat., tschuw. <Et>
 </MWUB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>сисем сялгума</l>
 <st>сисем сялгума</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -8631,12 +8183,9 @@ Tat., tschuw. <Et>
 <GeoU>Is</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -8648,10 +8197,8 @@ Tat., tschuw. <Et>
 </MWUB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>сисем тешть</l>
 <st>сисем тешть</st>
-</lg>
 <PhnUBlock>
 <Chc>
 <Vrt>
@@ -8675,11 +8222,9 @@ Tat., tschuw. <Et>
 <GeoU>Večk</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
+</lg>
 <lg xml:lang="mdf"><l>сисем тяштть</l>
 <st>сисем тяштть</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -8702,7 +8247,7 @@ Tat., tschuw. <Et>
 <GeoU>Ur</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <Nx vl="plural"/>
 <mg>
@@ -8751,10 +8296,8 @@ Tat., tschuw. <Et>
 </MWUB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>сизьгемень</l>
 <st>сизьгемень</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -8789,11 +8332,9 @@ Tat., tschuw. <Et>
 <GeoU>Kal</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
+</lg>
 <lg xml:lang="mdf"><l>сезьгемәнь</l>
 <st>сезьгемәнь</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -8807,7 +8348,7 @@ Tat., tschuw. <Et>
 <GeoU>P</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -8835,10 +8376,8 @@ Tat., tschuw. <Et>
 </MWUB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>сизьгеминь карта</l>
 <st>сизьгеминь карта</st>
-</lg>
 <PhnUBlock>
 <Chc>
 <Vrt>
@@ -8889,12 +8428,9 @@ Tat., tschuw. <Et>
 </InflCtn>
 </InflB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -8909,10 +8445,8 @@ Tat., tschuw. <Et>
 </MWUB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>сизьгемень сисем</l>
 <st>сизьгемень сисем</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -8935,12 +8469,9 @@ Tat., tschuw. <Et>
 <GeoU>Kal</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -9014,10 +8545,8 @@ Tat., tschuw. <Et>
 </MWUB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>сисемсят</l>
 <st>сисемсят</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -9028,11 +8557,9 @@ Tat., tschuw. <Et>
 <GeoU>Mar</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
+</lg>
 <lg xml:lang="mdf"><l>сисем-сят</l>
 <st>сисем-сят</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -9048,7 +8575,7 @@ Tat., tschuw. <Et>
 </LanguageCtn>
 </sources>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -9085,10 +8612,8 @@ Tat., tschuw. <Et>
 <DictionaryEntry>
 <HWB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>сисемей</l>
 <st>сисемей</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -9109,12 +8634,9 @@ Tat., tschuw. <Et>
 <GeoU>Kozl</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <DrvG>(<Cx vl="lative"/>)</DrvG>
 <SenseGroup>
 <mg>
@@ -9166,15 +8688,10 @@ Tat., tschuw. <Et>
 <DictionaryEntry>
 <HWB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l/><st/>
+<lg edit="JMR" xml:lang="myv"><l/><st/>
 </lg>
-</PhnUG>
-<PhnUG>
 <lg xml:lang="mdf"><l>сисемгя</l>
 <st>сисемгя</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -9187,7 +8704,7 @@ Tat., tschuw. <Et>
 <GeoU>Kars</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <DrvG>(<Cx vl="prolative"/>)</DrvG>
 <SenseGroup>
 <mg>
@@ -9232,10 +8749,8 @@ Tat., tschuw. <Et>
 <DictionaryEntry>
 <HWB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>сисемненек</l>
 <st>сисемненек</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -9246,12 +8761,9 @@ Tat., tschuw. <Et>
 <GeoU>Mar</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -9282,10 +8794,8 @@ Tat., tschuw. <Et>
 </HWB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>сисемненк</l>
 <st>сисемненк</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -9296,12 +8806,9 @@ Tat., tschuw. <Et>
 <GeoU>Mar</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -9330,15 +8837,10 @@ Tat., tschuw. <Et>
 </MWUB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l/><st/>
+<lg edit="JMR" xml:lang="myv"><l/><st/>
 </lg>
-</PhnUG>
-<PhnUG>
 <lg xml:lang="mdf"><l>сисемнянест</l>
 <st>сисемнянест</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -9349,7 +8851,7 @@ Tat., tschuw. <Et>
 <GeoU>P</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -9365,10 +8867,8 @@ Tat., tschuw. <Et>
 <DictionaryEntry>
 <HWB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>сисеменст</l>
 <st>сисеменст</st>
-</lg>
 <PhnUBlock>
 <Chc>
 <Vrt>
@@ -9420,11 +8920,9 @@ Tat., tschuw. <Et>
 <GeoU>VVr</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
+</lg>
 <lg xml:lang="mdf"><l>сисемәнцт</l>
 <st>сисемәнцт</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -9435,7 +8933,7 @@ Tat., tschuw. <Et>
 <GeoU>Ur</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -9509,15 +9007,10 @@ Tat., tschuw. <Et>
 <DictionaryEntry>
 <HWB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l/><st/>
+<lg edit="JMR" xml:lang="myv"><l/><st/>
 </lg>
-</PhnUG>
-<PhnUG>
 <lg xml:lang="mdf"><l>сисемксть</l>
 <st>сисемксть</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -9541,7 +9034,7 @@ Tat., tschuw. <Et>
 <GeoU>Sel</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -9572,10 +9065,8 @@ Tat., tschuw. <Et>
 <DictionaryEntry>
 <HWB>
 <E3Head><POS pos="Attr-Tra"/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>сисеметькс</l>
 <st>сисеметькс</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -9594,12 +9085,9 @@ Tat., tschuw. <Et>
 </InflCtn>
 </InflB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -9615,10 +9103,8 @@ Tat., tschuw. <Et>
 <DictionaryEntry>
 <HWB>
 <E3Head><POS pos="N"/><deriv isa="prt-CE"/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>сисеметсе</l>
 <st>сисеметсе</st>
-</lg>
 <PhnUBlock>
 <Chc>
 <Vrt>
@@ -9656,11 +9142,9 @@ Tat., tschuw. <Et>
 <GeoU>Mar</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
+</lg>
 <lg xml:lang="mdf"><l>сисемтсе</l>
 <st>сисемтсе</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -9671,7 +9155,7 @@ Tat., tschuw. <Et>
 <book name="Chr" xml:lang="mdf"/>
 </sources>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -9716,10 +9200,8 @@ Tat., tschuw. <Et>
 <DictionaryEntry>
 <HWB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>сисемцеде</l>
 <st>сисемцеде</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -9730,12 +9212,9 @@ Tat., tschuw. <Et>
 <GeoU>Večk</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -9751,10 +9230,8 @@ Tat., tschuw. <Et>
 <DictionaryEntry>
 <HWB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>сисемценст</l>
 <st>сисемценст</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -9765,11 +9242,9 @@ Tat., tschuw. <Et>
 <GeoU>Večk</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
+</lg>
 <lg xml:lang="mdf"><l>сисемценцт</l>
 <st>сисемценцт</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -9780,7 +9255,7 @@ Tat., tschuw. <Et>
 <GeoU>Ur</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -9796,15 +9271,10 @@ Tat., tschuw. <Et>
 <DictionaryEntry>
 <HWB>
 <E3Head><POS pos="N"/><deriv isa="dim-KE"/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l/><st/>
+<lg edit="JMR" xml:lang="myv"><l/><st/>
 </lg>
-</PhnUG>
-<PhnUG>
 <lg xml:lang="mdf"><l>сисемцькя</l>
 <st>сисемцькя</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -9825,7 +9295,7 @@ Tat., tschuw. <Et>
 <GeoU>Sel</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -9870,10 +9340,8 @@ Tat., tschuw. <Et>
 <DictionaryEntry>
 <HWB>
 <E3Head><POS/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l pos="Num">сядо</l>
 <st>сядо</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -9915,11 +9383,9 @@ Tat., tschuw. <Et>
 <GeoU>Mar</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
+</lg>
 <lg xml:lang="mdf"><l>сяда</l>
 <st>сяда</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -9933,7 +9399,7 @@ Tat., tschuw. <Et>
 <GeoU>P</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -10022,15 +9488,10 @@ Tat., tschuw. <Et>
 </HWB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l/><st/>
+<lg edit="JMR" xml:lang="myv"><l/><st/>
 </lg>
-</PhnUG>
-<PhnUG>
 <lg xml:lang="mdf"><l>сяда пяля</l>
 <st>сяда пяля</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -10053,7 +9514,7 @@ Tat., tschuw. <Et>
 <GeoU>Temn</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -10098,15 +9559,10 @@ Tat., tschuw. <Et>
 </MWUB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l/><st/>
+<lg edit="JMR" xml:lang="myv"><l/><st/>
 </lg>
-</PhnUG>
-<PhnUG>
 <lg xml:lang="mdf"><l>кафтасятт</l>
 <st>кафтасятт</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -10119,7 +9575,7 @@ Tat., tschuw. <Et>
 </GeoUCtn>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -10133,10 +9589,8 @@ Tat., tschuw. <Et>
 </MWUB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>колмосядо</l>
 <st>колмосядо</st>
-</lg>
 <PhnUBlock>
 <Chc>
 <Vrt>
@@ -10158,12 +9612,9 @@ Tat., tschuw. <Et>
 <GeoU>Mar</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -10259,10 +9710,8 @@ Tat., tschuw. <Et>
 </MWUB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>нилисят</l>
 <st>нилисят</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -10273,12 +9722,9 @@ Tat., tschuw. <Et>
 <GeoU>Hl</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -10321,10 +9767,8 @@ Tat., tschuw. <Et>
 </MWUB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>ветесядо</l>
 <st>ветесядо</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -10335,12 +9779,9 @@ Tat., tschuw. <Et>
 <GeoU>Mar</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -10379,10 +9820,8 @@ Tat., tschuw. <Et>
 </MWUB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>котосят</l>
 <st>котосят</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -10393,12 +9832,9 @@ Tat., tschuw. <Et>
 <GeoU>Mar</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -10430,10 +9866,8 @@ Tat., tschuw. <Et>
 </MWUB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>сисемсят</l>
 <st>сисемсят</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -10444,11 +9878,9 @@ Tat., tschuw. <Et>
 <GeoU>Mar</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
+</lg>
 <lg xml:lang="mdf"><l>сисем-сят</l>
 <st>сисем-сят</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -10464,7 +9896,7 @@ Tat., tschuw. <Et>
 </LanguageCtn>
 </sources>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -10501,10 +9933,8 @@ Tat., tschuw. <Et>
 <DictionaryEntry>
 <HWB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>сядонст</l>
 <st>сядонст</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -10536,11 +9966,9 @@ Tat., tschuw. <Et>
 <GeoU>VVr</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
+</lg>
 <lg xml:lang="mdf"><l>сядәньст</l>
 <st>сядәньст</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -10551,7 +9979,7 @@ Tat., tschuw. <Et>
 <GeoU>MdJurtk</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -10569,10 +9997,8 @@ Tat., tschuw. <Et>
 <DictionaryEntry>
 <HWB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>сядошка</l>
 <st>сядошка</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -10583,12 +10009,9 @@ Tat., tschuw. <Et>
 <book name="Chr" xml:lang="myv"/>
 </sources>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -10604,10 +10027,8 @@ Tat., tschuw. <Et>
 <DictionaryEntry>
 <HWB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>сядоценст</l>
 <st>сядоценст</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -10621,12 +10042,9 @@ Tat., tschuw. <Et>
 </GeoUCtn>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -10643,10 +10061,8 @@ Tat., tschuw. <Et>
 <DictionaryEntry>
 <HWB>
 <E3Head><POS/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l pos="Num">тышча</l>
 <st>тышча</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -10719,11 +10135,9 @@ Tat., tschuw. <Et>
 <GeoU>Is</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
+</lg>
 <lg xml:lang="mdf"><l>тышчя</l>
 <st>тышчя</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -10734,7 +10148,7 @@ Tat., tschuw. <Et>
 <GeoU>Sučk</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -10782,10 +10196,8 @@ Tat., tschuw. <Et>
 <DictionaryEntry>
 <HWB>
 <E3Head><POS/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l pos="PW">тузов</l>
 <st>тузов</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -10796,12 +10208,9 @@ Tat., tschuw. <Et>
 <GeoU>NSurk</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <mg>
 <t xml:lang="rus">[импр. паралл. слово без значения к <FrnTxt><Wd CyrId="тазов">tazov</Wd></FrnTxt></t>
@@ -10847,15 +10256,10 @@ Tat., tschuw. <Et>
 <DictionaryEntry>
 <HWB>
 <E3Head><POS/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l pos="Pcle"/><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Pcle"/><st/>
 </lg>
-</PhnUG>
-<PhnUG>
 <lg xml:lang="mdf"><l>незля</l>
 <st>незля</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -10866,7 +10270,7 @@ Tat., tschuw. <Et>
 <GeoU>Temn</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -10892,15 +10296,10 @@ Tat., tschuw. <Et>
 <DictionaryEntry>
 <HWB>
 <E3Head><POS/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l pos="Pcle"/><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Pcle"/><st/>
 </lg>
-</PhnUG>
-<PhnUG>
 <lg xml:lang="mdf"><l>никак</l>
 <st>никак</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -10913,7 +10312,7 @@ Tat., tschuw. <Et>
 </GeoUCtn>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -10979,15 +10378,10 @@ Tat., tschuw. <Et>
 <DictionaryEntry>
 <HWB>
 <E3Head><POS/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l pos="Pcle"/><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Pcle"/><st/>
 </lg>
-</PhnUG>
-<PhnUG>
 <lg xml:lang="mdf"><l>нәлнатай</l>
 <st>нәлнатай</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -10998,7 +10392,7 @@ Tat., tschuw. <Et>
 <GeoU>Pš</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -11040,15 +10434,10 @@ Tat., tschuw. <Et>
 <DictionaryEntry>
 <HWB>
 <E3Head><POS/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l pos="Pcle"/><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Pcle"/><st/>
 </lg>
-</PhnUG>
-<PhnUG>
 <lg xml:lang="mdf"><l>нәлта</l>
 <st>нәлта</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -11069,7 +10458,7 @@ Tat., tschuw. <Et>
 <GeoU>Ur</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -11128,15 +10517,10 @@ Tat., tschuw. <Et>
 <DictionaryEntry>
 <HWB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l pos="Pcle"/><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Pcle"/><st/>
 </lg>
-</PhnUG>
-<PhnUG>
 <lg xml:lang="mdf"><l>шять</l>
 <st>шять</st>
-</lg>
 <PhnUBlock>
 <Chc>
 <Vrt>
@@ -11180,7 +10564,7 @@ Tat., tschuw. <Et>
 <GeoU>P</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -11233,15 +10617,10 @@ Tat., tschuw. <Et>
 <DictionaryEntry>
 <HWB>
 <E3Head><POS/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l pos="Pcle"/><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Pcle"/><st/>
 </lg>
-</PhnUG>
-<PhnUG>
 <lg xml:lang="mdf"><l>нлна</l>
 <st>нлна</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -11312,7 +10691,7 @@ Tat., tschuw. <Et>
 <GeoU>Sp</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -11376,15 +10755,10 @@ Tat., tschuw. <Et>
 <DictionaryEntry>
 <HWB>
 <E3Head><POS/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l pos="Pcle"/><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Pcle"/><st/>
 </lg>
-</PhnUG>
-<PhnUG>
 <lg xml:lang="mdf"><l>налтай</l>
 <st>налтай</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -11395,7 +10769,7 @@ Tat., tschuw. <Et>
 <GeoU>P</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -11417,10 +10791,8 @@ Tat., tschuw. <Et>
 <DictionaryEntry>
 <HWB>
 <E3Head><POS/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l pos="Pcle">ду</l>
 <st>ду</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -11431,12 +10803,9 @@ Tat., tschuw. <Et>
 <GeoU>Jeg</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -11477,10 +10846,8 @@ Tat., tschuw. <Et>
 <DictionaryEntry>
 <HWB>
 <E3Head><POS/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l pos="Pcle">ино</l>
 <st>ино</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -11528,11 +10895,9 @@ Tat., tschuw. <Et>
 <GeoU>Ba</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
+</lg>
 <lg xml:lang="mdf"><l>ина</l>
 <st>ина</st>
-</lg>
 <PhnUBlock>
 <Chc>
 <Vrt>
@@ -11574,7 +10939,7 @@ Tat., tschuw. <Et>
 <GeoU>Sučk</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -11832,15 +11197,10 @@ Tat., tschuw. <Et>
 </HWB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l/><st/>
+<lg edit="JMR" xml:lang="myv"><l/><st/>
 </lg>
-</PhnUG>
-<PhnUG>
 <lg xml:lang="mdf"><l>кодәна</l>
 <st>кодәна</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -11862,7 +11222,7 @@ Tat., tschuw. <Et>
 <GeoU>Sučk</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -11890,15 +11250,10 @@ Tat., tschuw. <Et>
 </MWUB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l/><st/>
+<lg edit="JMR" xml:lang="myv"><l/><st/>
 </lg>
-</PhnUG>
-<PhnUG>
 <lg xml:lang="mdf"><l>ковәна</l>
 <st>ковәна</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -11909,7 +11264,7 @@ Tat., tschuw. <Et>
 <GeoU>Sel</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -11953,10 +11308,8 @@ Tat., tschuw. <Et>
 <DictionaryEntry>
 <HWB>
 <E3Head><POS/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l pos="Pcle">интай</l>
 <st>интай</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -11977,11 +11330,9 @@ Tat., tschuw. <Et>
 <GeoU>Gor<l3 type="specific">Škud</l3></GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
+</lg>
 <lg xml:lang="mdf"><l>интай</l>
 <st>интай</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -12002,7 +11353,7 @@ Tat., tschuw. <Et>
 <GeoU>Jurtk</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <TrlnCtn>
@@ -12071,10 +11422,8 @@ Tat., tschuw. <Et>
 <DictionaryEntry>
 <HWB>
 <E3Head><POS/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l pos="Pcle">лиш</l>
 <st>лиш</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -12088,11 +11437,9 @@ Tat., tschuw. <Et>
 </GeoUCtn>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
+</lg>
 <lg xml:lang="mdf"><l>леш</l>
 <st>леш</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -12129,7 +11476,7 @@ Tat., tschuw. <Et>
 <GeoU>Pičep</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -12245,15 +11592,10 @@ Tat., tschuw. <Et>
 </HWB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos="Adv-syntax"/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l/><st/>
+<lg edit="JMR" xml:lang="myv"><l/><st/>
 </lg>
-</PhnUG>
-<PhnUG>
 <lg xml:lang="mdf"><l>леш кош</l>
 <st>леш кош</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -12266,7 +11608,7 @@ Tat., tschuw. <Et>
 <GeoU>Sučk</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <Syntax function="Adv"/>
 <mg>
@@ -12300,10 +11642,8 @@ Tat., tschuw. <Et>
 <DictionaryEntry>
 <HWB>
 <E3Head><POS/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l pos="Pcle">мик</l>
 <st>мик</st>
-</lg>
 <PhnUBlock>
 <Chc>
 <Vrt>
@@ -12438,11 +11778,9 @@ Tat., tschuw. <Et>
 <GeoU>Bug</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
+</lg>
 <lg xml:lang="mdf"><l>мяк</l>
 <st>мяк</st>
-</lg>
 <PhnUBlock>
 <Chc>
 <Vrt>
@@ -12487,7 +11825,7 @@ Tat., tschuw. <Et>
 <GeoU>Jurtk</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -12786,10 +12124,8 @@ Tat., tschuw. <Et>
 </HWB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>ков мик</l>
 <st>ков мик</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -12801,12 +12137,9 @@ Tat., tschuw. <Et>
 <GeoU>Kal</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -12843,15 +12176,10 @@ Tat., tschuw. <Et>
 </MWUB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l/><st/>
+<lg edit="JMR" xml:lang="myv"><l/><st/>
 </lg>
-</PhnUG>
-<PhnUG>
 <lg xml:lang="mdf"><l>од бинкста мяк</l>
 <st>од бинкста мяк</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -12864,7 +12192,7 @@ Tat., tschuw. <Et>
 <GeoU>Jurtk</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -12878,10 +12206,8 @@ Tat., tschuw. <Et>
 </MWUB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>сестэ мик</l>
 <st>сестэ мик</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -12896,12 +12222,9 @@ Tat., tschuw. <Et>
 </GeoUCtn>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -12932,10 +12255,8 @@ Tat., tschuw. <Et>
 <DictionaryEntry>
 <HWB>
 <E3Head><POS/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l pos="Pcle">натой</l>
 <st>натой</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -12946,12 +12267,9 @@ Tat., tschuw. <Et>
 <GeoU>Petr</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -13032,10 +12350,8 @@ Tat., tschuw. <Et>
 <DictionaryEntry>
 <HWB>
 <E3Head><POS/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l pos="Pcle">неушто</l>
 <st>неушто</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -13046,12 +12362,9 @@ Tat., tschuw. <Et>
 <GeoU>VVr</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -13085,10 +12398,8 @@ Tat., tschuw. <Et>
 <DictionaryEntry>
 <HWB>
 <E3Head><POS/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l pos="Pcle">парязда</l>
 <st>парязда</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -13099,12 +12410,9 @@ Tat., tschuw. <Et>
 <GeoU>Drak</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -13128,10 +12436,8 @@ Tat., tschuw. <Et>
 <DictionaryEntry>
 <HWB>
 <E3Head><POS/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l pos="Pcle">сех</l>
 <st>сех</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -13159,12 +12465,9 @@ Tat., tschuw. <Et>
 <GeoU>Kal</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -13467,10 +12770,8 @@ Tat., tschuw. <Et>
 </HWB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>сех икеле</l>
 <st>сех икеле</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -13497,12 +12798,9 @@ Tat., tschuw. <Et>
 <GeoU>Večk</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -13564,10 +12862,8 @@ Tat., tschuw. <Et>
 </MWUB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>сех пек</l>
 <st>сех пек</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -13579,12 +12875,9 @@ Tat., tschuw. <Et>
 <GeoU>Kal</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -13617,10 +12910,8 @@ Tat., tschuw. <Et>
 </MWUB>
 <MWUB>
 <E3Head><POS/><deriv isa="dim-NE"/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l pos="N">сехне</l>
 <st>сехне</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -13631,12 +12922,9 @@ Tat., tschuw. <Et>
 <GeoU>Mar</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -13669,10 +12957,8 @@ Tat., tschuw. <Et>
 </MWUB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>сехте</l>
 <st>сехте</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -13683,12 +12969,9 @@ Tat., tschuw. <Et>
 <GeoU>Bug</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <DrvG>(<Cx vl="ablative"/>)</DrvG>
 <SenseGroup>
 <mg>
@@ -13727,10 +13010,8 @@ Tat., tschuw. <Et>
 <DictionaryEntry>
 <HWB>
 <E3Head><POS/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l pos="Pcle">тожо</l>
 <st>тожо</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -13742,12 +13023,9 @@ Tat., tschuw. <Et>
 <GeoU>VVr</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -13770,10 +13048,8 @@ Tat., tschuw. <Et>
 <DictionaryEntry>
 <HWB>
 <E3Head><POS/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l pos="Pcle">токадей</l>
 <st>токадей</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -13784,12 +13060,9 @@ Tat., tschuw. <Et>
 <GeoU>Mar</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -13807,10 +13080,8 @@ Tat., tschuw. <Et>
 <DictionaryEntry>
 <HWB>
 <E3Head><POS/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l pos="Pcle">эдь</l>
 <st>эдь</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -13821,12 +13092,9 @@ Tat., tschuw. <Et>
 <GeoU/>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -13862,10 +13130,8 @@ Tat., tschuw. <Et>
 <DictionaryEntry>
 <HWB>
 <E3Head><POS/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l pos="Pcle">эй</l>
 <st>эй</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -13876,12 +13142,9 @@ Tat., tschuw. <Et>
 <GeoU>VVr</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -13917,10 +13180,8 @@ Tat., tschuw. <Et>
 <DictionaryEntry>
 <HWB>
 <E3Head><POS/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l pos="Pcle">эль</l>
 <st>эль</st>
-</lg>
 <PhnUBlock>
 <Chc>
 <Vrt>
@@ -13986,11 +13247,9 @@ Tat., tschuw. <Et>
 <GeoU>Škud</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
+</lg>
 <lg xml:lang="mdf"><l>әля</l>
 <st>әля</st>
-</lg>
 <PhnUBlock>
 <Chc>
 <Vrt>
@@ -14065,7 +13324,7 @@ Tat., tschuw. <Et>
 <GeoU>Ur</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -14437,10 +13696,8 @@ Tat., tschuw. <Et>
 <DictionaryEntry>
 <HWB>
 <E3Head><POS/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l pos="Pcle">я</l>
 <st>я</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -14451,12 +13708,9 @@ Tat., tschuw. <Et>
 <GeoU>Atr</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -14541,10 +13795,8 @@ Tat., tschuw. <Et>
 <DictionaryEntry>
 <HWB>
 <E3Head><POS/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l pos="Pcle">ёк</l>
 <st>ёк</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -14555,12 +13807,9 @@ Tat., tschuw. <Et>
 <GeoU>Mar</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -14582,10 +13831,8 @@ Tat
 <DictionaryEntry>
 <HWB>
 <E3Head><POS/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l pos="Po">дуро</l>
 <st>дуро</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -14597,11 +13844,9 @@ Tat
 <GeoU>Is</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
+</lg>
 <lg xml:lang="mdf"><l>турә</l>
 <st>турә</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -14612,7 +13857,7 @@ Tat
 <GeoU>Sučk</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <cl1>(mit Gen.)</cl1>
 <SenseGroup>
 <mg>
@@ -14750,15 +13995,10 @@ Tat
 <DictionaryEntry>
 <HWB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l pos="Pron"/><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Pron"/><st/>
 </lg>
-</PhnUG>
-<PhnUG>
 <lg xml:lang="mdf"><l pos="Pron">эрт</l>
 <st>эрт</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -14781,7 +14021,7 @@ Tat
 <GeoU>Sel</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <DerivationBlock>[? Pl. zu Indef.-Pron. <i><tk2>
 <Wd CyrId="эрь">eŕ</Wd></tk2></i>, <i><tk2>
 <Wd CyrId="ӓрь">äŕ</Wd></tk2></i>, <i><tk2>
@@ -14843,10 +14083,8 @@ Tat
 <DictionaryEntry>
 <HWB>
 <E3Head><POS/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l pos="Pron">мон</l>
 <st>мон</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -14857,11 +14095,9 @@ Tat
 <book name="Chr" xml:lang="myv"/>
 </sources>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
+</lg>
 <lg xml:lang="mdf"><l>мон</l>
 <st>мон</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -14872,7 +14108,7 @@ Tat
 <book name="Chr" xml:lang="mdf"/>
 </sources>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -14886,10 +14122,8 @@ Tat
 </HWB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>мондак</l>
 <st>мондак</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -14910,11 +14144,9 @@ Tat
 <GeoU>Kal</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
+</lg>
 <lg xml:lang="mdf"><l>монгак</l>
 <st>монгак</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -14936,7 +14168,7 @@ Tat
 <GeoU>Sučk</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -14982,10 +14214,8 @@ Tat
 <DictionaryEntry>
 <HWB>
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>монь</l>
 <st>монь</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -15003,11 +14233,9 @@ Tat
 <GeoU>Kažl</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
+</lg>
 <lg xml:lang="mdf"><l>монь</l>
 <st>монь</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -15031,7 +14259,7 @@ Tat
 </GeoUB>
 <prnth>(Gen.)</prnth>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -15367,10 +14595,8 @@ Tat
 </HWB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>монь эйсэ</l>
 <st>монь эйсэ</st>
-</lg>
 <PhnUBlock>
 <Chc>
 <Vrt>
@@ -15421,12 +14647,9 @@ Tat
 </GeoUB>
 <prnth>(zusammengesetzter Iness.)</prnth>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -15479,10 +14702,8 @@ Tat
 </MWUB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos="elative-adv"/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>монь эйстэ</l>
 <st>монь эйстэ</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -15494,12 +14715,9 @@ Tat
 <GeoU>Mar</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <DrvG>(<Cx vl="elative"/>)</DrvG>
 <SenseGroup>
 <mg>
@@ -15547,15 +14765,10 @@ Tat
 </MWUB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l/><st/>
+<lg edit="JMR" xml:lang="myv"><l/><st/>
 </lg>
-</PhnUG>
-<PhnUG>
 <lg xml:lang="mdf"><l>монь эстәнга</l>
 <st>монь эстәнга</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -15567,7 +14780,7 @@ Tat
 <GeoU>Sučk</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -15596,10 +14809,8 @@ Tat
 </MWUB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>монь эстэде</l>
 <st>монь эстэде</st>
-</lg>
 <PhnUBlock>
 <Chc>
 <Vrt>
@@ -15647,12 +14858,9 @@ Tat
 </GeoUCtn>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <DerivationBlock>[El. + Abl.]</DerivationBlock>
 <SenseGroup>
 <mg>
@@ -15668,15 +14876,10 @@ Tat
 </MWUB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l/><st/>
+<lg edit="JMR" xml:lang="myv"><l/><st/>
 </lg>
-</PhnUG>
-<PhnUG>
 <lg xml:lang="mdf"><l>мойнь иэздәдн</l>
 <st>мойнь иэздәдн</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -15688,7 +14891,7 @@ Tat
 <GeoU>Pimb</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <DrvG><CxCtn>
 <Cx edit="MK" vl="ablative"/>
 </CxCtn></DrvG>
@@ -15713,10 +14916,8 @@ Tat
 </MWUB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>моньдяк</l>
 <st>моньдяк</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -15738,11 +14939,9 @@ Tat
 <GeoU>Kažl</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
+</lg>
 <lg xml:lang="mdf"><l>моньгак</l>
 <st>моньгак</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -15763,7 +14962,7 @@ Tat
 <GeoU>Sel</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -15916,10 +15115,8 @@ Tat
 </MWUB>
 <MWUB>
 <E3Head><POS/><deriv isa="dim-NE"/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l pos="N">моне</l>
 <st>моне</st>
-</lg>
 <PhnUBlock>
 <Chc>
 <Vrt>
@@ -16025,11 +15222,9 @@ Tat
 <GeoU>SŠant</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
+</lg>
 <lg xml:lang="mdf"><l>мондине</l>
 <st>мондине</st>
-</lg>
 <PhnUBlock>
 <Chc>
 <Vrt>
@@ -16111,7 +15306,7 @@ Tat
 <GeoU>Prol</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -16386,10 +15581,8 @@ Tat
 </MWUB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>мондень</l>
 <st>мондень</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -16400,11 +15593,9 @@ Tat
 <book name="Chr" xml:lang="myv"/>
 </sources>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
+</lg>
 <lg xml:lang="mdf"><l>модедон</l>
 <st>модедон</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -16435,7 +15626,7 @@ Tat
 <GeoU>Sel</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <DrvG>(<Cx vl="ablative"/>)</DrvG>
 <SenseGroup>
 <mg>
@@ -16504,10 +15695,8 @@ Tat
 </MWUB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>моньдяденьгак</l>
 <st>моньдяденьгак</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -16518,11 +15707,9 @@ Tat
 <GeoU>SŠant</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
+</lg>
 <lg xml:lang="mdf"><l>модедәнга</l>
 <st>модедәнга</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -16536,7 +15723,7 @@ Tat
 </GeoUCtn>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -16583,10 +15770,8 @@ Tat
 </MWUB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>моньхтиминь</l>
 <st>моньхтиминь</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -16597,11 +15782,9 @@ Tat
 <GeoU>Kal</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
+</lg>
 <lg xml:lang="mdf"><l>моньтьфтемән</l>
 <st>моньтьфтемән</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -16615,7 +15798,7 @@ Tat
 <GeoU>Pš</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <DerivationBlock>(Karit. zu <i><tk2>
 <Wd CyrId="мон">mon</Wd></tk2></i>)</DerivationBlock>
 <SenseGroup>
@@ -16646,10 +15829,8 @@ Tat
 </MWUB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>моньтсь</l>
 <st>моньтсь</st>
-</lg>
 <PhnUBlock>
 <Chc>
 <Vrt>
@@ -16692,11 +15873,9 @@ Tat
 <GeoU>Jeg</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
+</lg>
 <lg xml:lang="mdf"><l>моньтсь</l>
 <st>моньтсь</st>
-</lg>
 <PhnUBlock>
 <Chc>
 <Vrt>
@@ -16718,7 +15897,7 @@ Tat
 <book name="Chr" xml:lang="mdf"/>
 </sources>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <DrvG>[<comment/><DrvStCtn><DrvSt><Wd CyrId="мон">mon</Wd></DrvSt></DrvStCtn><fnct>+</fnct><DrvStCtn><DrvSt><Wd CyrId="эсь">eś</Wd></DrvSt></DrvStCtn>]</DrvG>
 <SenseGroup>
 <mg>
@@ -16802,10 +15981,8 @@ Tat
 </MWUB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>моньцяк</l>
 <st>моньцяк</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -16817,12 +15994,9 @@ Tat
 <GeoU>Hl</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -16865,10 +16039,8 @@ Tat
 </MWUB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>моньтсинь</l>
 <st>моньтсинь</st>
-</lg>
 <PhnUBlock>
 <Chc>
 <Vrt>
@@ -16911,12 +16083,9 @@ Tat
 </GeoUB>
 <prnth>(Gen.)</prnth>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -17085,10 +16254,8 @@ Tat
 </MWUB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>монциньдяк</l>
 <st>монциньдяк</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -17099,12 +16266,9 @@ Tat
 <GeoU>Mar</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -17139,15 +16303,10 @@ Tat
 </MWUB>
 <MWUB>
 <E3Head><POS/><deriv isa="dim-NYA"/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l pos="N"/><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="N"/><st/>
 </lg>
-</PhnUG>
-<PhnUG>
 <lg xml:lang="mdf"><l pos="N">монценьня</l>
 <st>монценьня</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -17158,7 +16317,7 @@ Tat
 <GeoU>P</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -17175,10 +16334,8 @@ Tat
 <DictionaryEntry>
 <HWB>
 <E3Head><POS/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l pos="Pron">сам</l>
 <st>сам</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -17192,12 +16349,9 @@ Tat
 <GeoU>VVr</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -17217,10 +16371,8 @@ Tat
 <DictionaryEntry>
 <HWB>
 <E3Head><POS pos="N"/><deriv isa="DVNoun-OMA"/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>сама</l>
 <st>сама</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -17231,12 +16383,9 @@ Tat
 <GeoU>Mar</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -17250,10 +16399,8 @@ Tat
 </HWB>
 <MWUB>
 <E3Head><POS pos="N"/><deriv isa="DVNoun-OMA"/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>сама собой</l>
 <st>сама собой</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -17265,12 +16412,9 @@ Tat
 <GeoU>Mar</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -17308,10 +16452,8 @@ Tat
 <DictionaryEntry>
 <HWB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>самай</l>
 <st>самай</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -17346,11 +16488,9 @@ Tat
 <GeoU>Šokša</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
+</lg>
 <lg xml:lang="mdf"><l>самай</l>
 <st>самай</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -17361,7 +16501,7 @@ Tat
 <GeoU>P</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -17483,10 +16623,8 @@ Tat
 </HWB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>самай рядовой</l>
 <st>самай рядовой</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -17498,12 +16636,9 @@ Tat
 <GeoU>Mar</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -17564,10 +16699,8 @@ Tat
 <DictionaryEntry>
 <HWB>
 <E3Head><POS/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l pos="Pron">сон</l>
 <st>сон</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -17578,11 +16711,9 @@ Tat
 <GeoU extension="common"/>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
+</lg>
 <lg xml:lang="mdf"><l>сон</l>
 <st>сон</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -17593,7 +16724,7 @@ Tat
 <GeoU extension="common"/>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -17660,10 +16791,8 @@ Tat
 </HWB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>сонгак</l>
 <st>сонгак</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -17694,11 +16823,9 @@ Tat
 <GeoU>Mar</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
+</lg>
 <lg xml:lang="mdf"><l>сонга</l>
 <st>сонга</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -17712,7 +16839,7 @@ Tat
 <book name="ML" pg="23" xml:lang="mdf"/>
 </sources>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -17728,10 +16855,8 @@ Tat
 <DictionaryEntry>
 <HWB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>сонзэ</l>
 <st>сонзэ</st>
-</lg>
 <PhnUBlock>
 <Chc>
 <Vrt>
@@ -17878,11 +17003,9 @@ Tat
 <GeoU>Šir</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
+</lg>
 <lg xml:lang="mdf"><l>сонь</l>
 <st>сонь</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -17904,7 +17027,7 @@ Tat
 </GeoUB>
 <prnth>(Gen.)</prnth>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -18274,15 +17397,10 @@ Tat
 </HWB>
 <MWUB>
 <E3Head><POS pos="N"/><deriv isa="dim-NE"/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l/><st/>
+<lg edit="JMR" xml:lang="myv"><l/><st/>
 </lg>
-</PhnUG>
-<PhnUG>
 <lg xml:lang="mdf"><l>сонне</l>
 <st>сонне</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -18294,7 +17412,7 @@ Tat
 <book name="Chr" xml:lang="mdf"/>
 </sources>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -18310,10 +17428,8 @@ Tat
 </MWUB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>сонензэ</l>
 <st>сонензэ</st>
-</lg>
 <PhnUBlock>
 <Chc>
 <Vrt>
@@ -18384,11 +17500,9 @@ Tat
 <GeoU>SŠant</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
+</lg>
 <lg xml:lang="mdf"><l>сондиенза</l>
 <st>сондиенза</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -18409,7 +17523,7 @@ Tat
 <GeoU>Sel</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <DrvG>(<Cx vl="allative"/>)</DrvG>
 <SenseGroup>
 <mg>
@@ -18517,10 +17631,8 @@ Tat
 </MWUB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>сондедензэ меьйле</l>
 <st>сондедензэ меьйле</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -18544,12 +17656,9 @@ Tat
 <GeoU>Ork</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -18580,10 +17689,8 @@ Tat
 </MWUB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>сонсь</l>
 <st>сонсь</st>
-</lg>
 <PhnUBlock>
 <Chc>
 <Vrt>
@@ -18605,11 +17712,9 @@ Tat
 <GeoU extension="common"/>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
+</lg>
 <lg xml:lang="mdf"><l>соньць</l>
 <st>соньць</st>
-</lg>
 <PhnUBlock>
 <Chc>
 <Vrt>
@@ -18631,7 +17736,7 @@ Tat
 <GeoU extension="common"/>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <DrvG>(<comment/><DrvStCtn><DrvSt><Wd CyrId="сон">son</Wd></DrvSt></DrvStCtn><fnct>+</fnct><DrvStCtn><DrvSt><Wd CyrId="эсь">eś</Wd></DrvSt></DrvStCtn>)</DrvG>
 <SenseGroup>
 <mg>
@@ -18874,10 +17979,8 @@ Tat
 </MWUB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>сонсь арды</l>
 <st>сонсь арды</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -18898,12 +18001,9 @@ Tat
 </InflCtn>
 </InflB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -18917,10 +18017,8 @@ Tat
 </MWUB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>сонсензэ</l>
 <st>сонсензэ</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -18933,12 +18031,9 @@ Tat
 <GeoU>Kal</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -19035,10 +18130,8 @@ Tat
 </MWUB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>сонсензэяк</l>
 <st>сонсензэяк</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -19059,12 +18152,9 @@ Tat
 <GeoU>Kal</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -19119,15 +18209,10 @@ Tat
 </MWUB>
 <MWUB>
 <E3Head><POS/><deriv isa="dim-NYA"/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l pos="N"/><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="N"/><st/>
 </lg>
-</PhnUG>
-<PhnUG>
 <lg xml:lang="mdf"><l pos="N">сонценьня</l>
 <st>сонценьня</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -19138,7 +18223,7 @@ Tat
 <GeoU>P</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -19153,15 +18238,10 @@ Tat
 </MWUB>
 <MWUB>
 <E3Head><POS pos="N"/><deriv isa="dim-KE"/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l/><st/>
+<lg edit="JMR" xml:lang="myv"><l/><st/>
 </lg>
-</PhnUG>
-<PhnUG>
 <lg xml:lang="mdf"><l>соньцькя</l>
 <st>соньцькя</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -19172,7 +18252,7 @@ Tat
 <book name="ML" pg="11" xml:lang="mdf"/>
 </sources>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -19186,10 +18266,8 @@ Tat
 </MWUB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>сонстемензэ</l>
 <st>сонстемензэ</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -19200,12 +18278,9 @@ Tat
 <GeoU>Mar</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -19248,10 +18323,8 @@ Tat
 <DictionaryEntry>
 <HWB>
 <E3Head><POS/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l pos="Pron">тон</l>
 <st>тон</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -19265,11 +18338,9 @@ Tat
 <GeoU extension="common"/>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
+</lg>
 <lg xml:lang="mdf"><l>тон</l>
 <st>тон</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -19283,7 +18354,7 @@ Tat
 <GeoU extension="common"/>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -19327,10 +18398,8 @@ Tat
 </HWB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>тондак</l>
 <st>тондак</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -19341,12 +18410,9 @@ Tat
 <GeoU>Mar</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -19381,10 +18447,8 @@ Tat
 <DictionaryEntry>
 <HWB>
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>тонь</l>
 <st>тонь</st>
-</lg>
 <PhnUBlock>
 <Chc>
 <Vrt>
@@ -19448,11 +18512,9 @@ Tat
 <GeoU>Jeg</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
+</lg>
 <lg xml:lang="mdf"><l>тонь</l>
 <st>тонь</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -19474,7 +18536,7 @@ Tat
 </GeoUB>
 <prnth>(Gen.)</prnth>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -19683,10 +18745,8 @@ Tat
 </HWB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>тоньдяк</l>
 <st>тоньдяк</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -19697,12 +18757,9 @@ Tat
 <GeoU>Mar</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -19760,10 +18817,8 @@ Tat
 </MWUB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>тонеть</l>
 <st>тонеть</st>
-</lg>
 <PhnUBlock>
 <Chc>
 <Vrt>
@@ -19857,11 +18912,9 @@ Tat
 <GeoU>SŠant</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
+</lg>
 <lg xml:lang="mdf"><l>тондить</l>
 <st>тондить</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -19875,7 +18928,7 @@ Tat
 <GeoU>Levši</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <DrvG>(<Cx vl="allative"/>)</DrvG>
 <SenseGroup>
 <mg>
@@ -20008,10 +19061,8 @@ Tat
 </MWUB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>тондедеть</l>
 <st>тондедеть</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -20022,12 +19073,9 @@ Tat
 <GeoU>Hl</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <DerivationBlock><CxCtn>
 <Cx edit="MK" vl="ablative"/>
 </CxCtn>[,
@@ -20070,10 +19118,8 @@ Tat
 </MWUB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>тоньцтемет</l>
 <st>тоньцтемет</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -20084,11 +19130,9 @@ Tat
 <GeoU>Petr</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
+</lg>
 <lg xml:lang="mdf"><l>тоньтьфтемәт</l>
 <st>тоньтьфтемәт</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -20102,7 +19146,7 @@ Tat
 <GeoU>Kr</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -20152,15 +19196,10 @@ Tat
 </MWUB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l/><st/>
+<lg edit="JMR" xml:lang="myv"><l/><st/>
 </lg>
-</PhnUG>
-<PhnUG>
 <lg xml:lang="mdf"><l>тоньчкасәт</l>
 <st>тоньчкасәт</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -20171,7 +19210,7 @@ Tat
 <GeoU>Sel</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -20206,10 +19245,8 @@ Tat
 </MWUB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>тоньтсь</l>
 <st>тоньтсь</st>
-</lg>
 <PhnUBlock>
 <Chc>
 <Vrt>
@@ -20245,11 +19282,9 @@ Tat
 <GeoU>NSurk</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
+</lg>
 <lg xml:lang="mdf"><l>тоньтсь</l>
 <st>тоньтсь</st>
-</lg>
 <PhnUBlock>
 <Chc>
 <Vrt>
@@ -20271,7 +19306,7 @@ Tat
 <book name="Chr" xml:lang="mdf"/>
 </sources>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -20342,10 +19377,8 @@ Tat
 </MWUB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>тоньтсить</l>
 <st>тоньтсить</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -20377,12 +19410,9 @@ Tat
 <GeoU>NSurk</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -20520,10 +19550,8 @@ Tat
 <DictionaryEntry>
 <HWB>
 <E3Head><POS/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l pos="Qnt">доволь</l>
 <st>доволь</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -20538,12 +19566,9 @@ Tat
 <GeoU>SŠant</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -20600,10 +19625,8 @@ Tat
 <DictionaryEntry>
 <HWB>
 <E3Head><POS/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l pos="Adv">довольна</l>
 <st>довольна</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -20627,11 +19650,9 @@ Tat
 <GeoU>Nask</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
+</lg>
 <lg xml:lang="mdf"><l>тавольна</l>
 <st>тавольна</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -20642,7 +19663,7 @@ Tat
 <GeoU>P</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -20691,10 +19712,8 @@ Tat
 </HWB>
 <CompositionalPhraseCtn>
 <E3Head><POS/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l pos="V">довольна сатомс</l>
 <st>довольна сатот</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -20709,12 +19728,9 @@ Tat
 </GeoUCtn>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -20736,10 +19752,8 @@ Tat
 <DictionaryEntry>
 <HWB>
 <E3Head><POS/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l pos="V">доволявомс</l>
 <st>доволявомс</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -20751,12 +19765,9 @@ Tat
 <GeoU>Večk</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -20804,10 +19815,8 @@ Tat
 <DictionaryEntry>
 <HWB>
 <E3Head><POS/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l pos="Qnt">несколька</l>
 <st>несколька</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -20818,11 +19827,9 @@ Tat
 <GeoU>Mar</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
+</lg>
 <lg xml:lang="mdf"><l>нескәлька</l>
 <st>нескәлька</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -20833,7 +19840,7 @@ Tat
 <GeoU>Sel</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -20903,10 +19910,8 @@ Tat
 <DictionaryEntry>
 <HWB>
 <E3Head><POS/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l pos="Qnt">эрьва</l>
 <st>эрьва</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -20941,12 +19946,9 @@ Tat
 <GeoU>Ba</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <DerivationBlock>[? <i><tk2>
 <Wd CyrId="эрь">eŕ</Wd></tk2></i> + <i><tk2>
 <Wd CyrId="ве">v́e</Wd></tk2></i>, vgl. <i><tk2>
@@ -21017,10 +20019,8 @@ Tat
 </HWB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>эрьва ки</l>
 <st>эрьва ки</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -21032,12 +20032,9 @@ Tat
 <GeoU/>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -21052,10 +20049,8 @@ Tat
 </MWUB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>эрьва кода</l>
 <st>эрьва кода</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -21067,12 +20062,9 @@ Tat
 <GeoU>Mar</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -21087,10 +20079,8 @@ Tat
 </MWUB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>эрьва кодамо</l>
 <st>эрьва кодамо</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -21106,12 +20096,9 @@ Tat
 <GeoU>NSurk</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -21147,10 +20134,8 @@ Tat
 </MWUB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>эрьва кодамо прича</l>
 <st>эрьва кодамо прича</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -21163,12 +20148,9 @@ Tat
 <GeoU>NSurk</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -21180,10 +20162,8 @@ Tat
 </MWUB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>эрьва коли</l>
 <st>эрьва коли</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -21195,12 +20175,9 @@ Tat
 <GeoU>Večk</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -21214,10 +20191,8 @@ Tat
 </MWUB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>эрьва кона</l>
 <st>эрьва кона</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -21229,12 +20204,9 @@ Tat
 <GeoU>Mar</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -21249,10 +20221,8 @@ Tat
 </MWUB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>эрьва коната</l>
 <st>эрьва коната</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -21264,22 +20234,17 @@ Tat
 <GeoU/>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <Sense vl="previous"/>
 </SenseGroup>
 </MWUB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>эрьва ков</l>
 <st>эрьва ков</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -21291,12 +20256,9 @@ Tat
 <GeoU/>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -21311,10 +20273,8 @@ Tat
 </MWUB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>эрьва кува</l>
 <st>эрьва кува</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -21327,12 +20287,9 @@ Tat
 <GeoU>Atr</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -21369,10 +20326,8 @@ Tat
 </MWUB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>эрьва ме</l>
 <st>эрьва ме</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -21386,12 +20341,9 @@ Tat
 <GeoU>SŠant</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -21420,10 +20372,8 @@ Tat
 </MWUB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>эрьва мень паро</l>
 <st>эрьва мень паро</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -21436,12 +20386,9 @@ Tat
 <GeoU/>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -21455,10 +20402,8 @@ Tat
 </MWUB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>эрьва-мезе</l>
 <st>эрьва-мезе</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -21502,12 +20447,9 @@ Tat
 <GeoU>Ba</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -21547,10 +20489,8 @@ Tat
 </MWUB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>эрьва мезень</l>
 <st>эрьва мезень</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -21565,12 +20505,9 @@ Tat
 <GeoU>Večk</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -21602,10 +20539,8 @@ Tat
 </MWUB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>эрьва зярдо</l>
 <st>эрьва зярдо</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -21617,12 +20552,9 @@ Tat
 <GeoU>Mar</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -21640,16 +20572,20 @@ Tat
 <DictionaryEntry>
 <HWB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
+<lg edit="JMR" xml:lang="myv"><l pos="N"></l>
+<st></st>
+</lg>
+<lg xml:lang="mdf"><l pos="N">норт</l>
+<st>норт</st>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
 <FrCm freeType="questionRelation" Modification="manus"/>
-<Wd CyrId="норт">nort</Wd>
+<Wd mdfId="норт">nort</Wd>
 </PhnU>
 </PhnUCtn>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <Sense vl="notGiven"/>
 </SenseGroup>
@@ -21659,15 +20595,10 @@ Tat
 </HWB>
 <CompositionalPhraseCtn>
 <E3Head><POS/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l pos="V"/><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="V"/><st/>
 </lg>
-</PhnUG>
-<PhnUG>
 <lg xml:lang="mdf"><l pos="V">норт молемс</l>
 <st>норт молемс</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -21680,7 +20611,7 @@ Tat
 <GeoU>Pš</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -21705,15 +20636,10 @@ Tat
 <DictionaryEntry>
 <HWB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l/><st/>
+<lg edit="JMR" xml:lang="myv"><l/><st/>
 </lg>
-</PhnUG>
-<PhnUG>
 <lg xml:lang="mdf"><l>норшт</l>
 <st>норшт</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -21734,7 +20660,7 @@ Tat
 <GeoU>Pš</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <Sense vl="notGiven"/>
 </SenseGroup>
@@ -21744,15 +20670,10 @@ Tat
 </HWB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l/><st/>
+<lg edit="JMR" xml:lang="myv"><l/><st/>
 </lg>
-</PhnUG>
-<PhnUG>
 <lg xml:lang="mdf"><l>норшт абед</l>
 <st>норшт абед</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -21775,7 +20696,7 @@ Tat
 <GeoU>Pš</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -21816,15 +20737,10 @@ Tat
 </MWUB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l/><st/>
+<lg edit="JMR" xml:lang="myv"><l/><st/>
 </lg>
-</PhnUG>
-<PhnUG>
 <lg xml:lang="mdf"><l>н абец</l>
 <st>н абец</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -21837,7 +20753,7 @@ Tat
 <GeoU>Pš</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -21851,15 +20767,10 @@ Tat
 </MWUB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l/><st/>
+<lg edit="JMR" xml:lang="myv"><l/><st/>
 </lg>
-</PhnUG>
-<PhnUG>
 <lg xml:lang="mdf"><l>н илятс</l>
 <st>н илятс</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -21872,7 +20783,7 @@ Tat
 <GeoU>Pš</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -21900,15 +20811,10 @@ Tat
 <DictionaryEntry>
 <HWB>
 <E3Head><POS pos="V"/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l pos="V"/><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="V"/><st/>
 </lg>
-</PhnUG>
-<PhnUG>
 <lg xml:lang="mdf"><l pos="V">нортадемс</l>
 <st>нортадемс</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -21919,7 +20825,7 @@ Tat
 <GeoU>Pš</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -21966,15 +20872,10 @@ Tat
 <DictionaryEntry>
 <HWB>
 <E3Head><POS/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l pos="V"/><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="V"/><st/>
 </lg>
-</PhnUG>
-<PhnUG>
 <lg xml:lang="mdf"><l pos="V">пәчкамс</l>
 <st>пәчкамс</st>
-</lg>
 <PhnUBlock>
 <Chc>
 <Vrt>
@@ -22002,7 +20903,7 @@ Tat
 <GeoU>Ur</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -22091,15 +20992,10 @@ Tat
 <DictionaryEntry>
 <HWB>
 <E3Head><POS/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l pos="V"/><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="V"/><st/>
 </lg>
-</PhnUG>
-<PhnUG>
 <lg xml:lang="mdf"><l pos="V">тяремс</l>
 <st>тяремс</st>
-</lg>
 <PhnUBlock>
 <Chc>
 <Vrt>
@@ -22135,7 +21031,7 @@ Tat
 <GeoU>MdJurtk</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -22163,15 +21059,10 @@ Tat
 <DictionaryEntry>
 <HWB>
 <E3Head><POS pos="N"/><deriv isa="prt-I"/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l/><st/>
+<lg edit="JMR" xml:lang="myv"><l/><st/>
 </lg>
-</PhnUG>
-<PhnUG>
 <lg xml:lang="mdf"><l>тяри</l>
 <st>тяри</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -22183,7 +21074,7 @@ Tat
 <GeoU>Kr</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -22248,15 +21139,10 @@ Tat
 </HWB>
 <MWUB>
 <E3Head><POS pos="N"/><deriv isa="prt-I"/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l/><st/>
+<lg edit="JMR" xml:lang="myv"><l/><st/>
 </lg>
-</PhnUG>
-<PhnUG>
 <lg xml:lang="mdf"><l>тяри шяй</l>
 <st>тяри шяй</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -22269,7 +21155,7 @@ Tat
 <GeoU>Kr</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -22285,10 +21171,8 @@ Tat
 <DictionaryEntry>
 <HWB>
 <E3Head><POS/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l pos="V">терьнемс</l>
 <st>терьнемс</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -22311,11 +21195,9 @@ Tat
 <GeoU>VVr</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
+</lg>
 <lg xml:lang="mdf"><l pos="V">тярьнемс</l>
 <st>тярьнемс</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -22370,7 +21252,7 @@ Tat
 <GeoU>Sučk</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -22467,10 +21349,8 @@ Tat
 <DictionaryEntry>
 <HWB>
 <E3Head><POS pos="V"/><deriv isa="Inch"/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l pos="V">терьнезевемс</l>
 <st>терьнезевемс</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -22482,11 +21362,9 @@ Tat
 <GeoU>Večk</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
+</lg>
 <lg xml:lang="mdf"><l pos="V">тярьнезевәмс</l>
 <st>тярьнезевәмс</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -22497,7 +21375,7 @@ Tat
 <GeoU>P</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <DrvG>(<DrvT vl="inchoative"/><DrvStCtn><DrvSt><Wd CyrId="тернемс">t́eŕńems</Wd></DrvSt></DrvStCtn><DrvStCtn><DrvSt><Wd CyrId="тярнемс">t́äŕńəms</Wd></DrvSt></DrvStCtn>)</DrvG>
 <SenseGroup>
 <mg>
@@ -22524,10 +21402,8 @@ Tat
 <DictionaryEntry>
 <HWB>
 <E3Head><POS pos="V"/><deriv isa="fact-VvT"/><deriv isa="Kaus"/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l pos="V">терьневтемс</l>
 <st>терьневтемс</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -22539,11 +21415,9 @@ Tat
 <GeoU>Večk</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
+</lg>
 <lg xml:lang="mdf"><l pos="V">тярьняфтәмс</l>
 <st>тярьняфтәмс</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -22567,7 +21441,7 @@ Tat
 <GeoU>P</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <DrvG><DrvT vl="causative"/><DrvStCtn><DrvSt><Wd CyrId="тернемс">t́eŕńems</Wd></DrvSt></DrvStCtn></DrvG>
 <SenseGroup>
 <mg>
@@ -22584,15 +21458,10 @@ Tat
 <DictionaryEntry>
 <HWB>
 <E3Head><POS pos="V"/><deriv isa="Inch"/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l pos="V"/><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="V"/><st/>
 </lg>
-</PhnUG>
-<PhnUG>
 <lg xml:lang="mdf"><l pos="V">тярезевәмс</l>
 <st>тярезевәмс</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -22603,7 +21472,7 @@ Tat
 <GeoU>P</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <DrvG><DrvT vl="inchoative"/><DrvStCtn><DrvSt><Wd CyrId="тяремс">t́äŕəms</Wd></DrvSt></DrvStCtn></DrvG>
 <SenseGroup>
 <mg>
@@ -22620,15 +21489,10 @@ Tat
 <DictionaryEntry>
 <HWB>
 <E3Head><POS pos="V"/><deriv isa="fact-CfTQ"/><deriv isa="Kaus"/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l pos="V"/><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="V"/><st/>
 </lg>
-</PhnUG>
-<PhnUG>
 <lg xml:lang="mdf"><l pos="V">тярьфтемс</l>
 <st>тярьфтемс</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -22643,7 +21507,7 @@ Tat
 <GeoU>Ur</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <DrvG><DrvT vl="causative"/><DrvStCtn><DrvSt><Wd CyrId="тяремс">t́äŕəms</Wd></DrvSt></DrvStCtn></DrvG>
 <SenseGroup>
 <mg>
@@ -22708,15 +21572,10 @@ Tat
 <DictionaryEntry>
 <HWB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l/><st/>
+<lg edit="JMR" xml:lang="myv"><l/><st/>
 </lg>
-</PhnUG>
-<PhnUG>
 <lg xml:lang="mdf"><l>тярьфтем</l>
 <st>тярьфтем</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -22727,7 +21586,7 @@ Tat
 <GeoU>Čemb</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -22744,15 +21603,10 @@ Tat
 <DictionaryEntry>
 <HWB>
 <E3Head><POS/><deriv isa="dim-NYA"/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l pos="N"/><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="N"/><st/>
 </lg>
-</PhnUG>
-<PhnUG>
 <lg xml:lang="mdf"><l pos="N">тярьфтемня</l>
 <st>тярьфтемня</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -22771,7 +21625,7 @@ Tat
 </InflCtn>
 </InflB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="тярьфтем">t́äŕft́əm</Wd></DrvSt></DrvStCtn></DrvG>
 <SenseGroup>
 <Sense vl="previous"/>
@@ -22781,15 +21635,10 @@ Tat
 <DictionaryEntry>
 <HWB>
 <E3Head><POS pos="V"/><deriv isa="frequ-NE"/><deriv isa="Frequ"/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l pos="V"/><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="V"/><st/>
 </lg>
-</PhnUG>
-<PhnUG>
 <lg xml:lang="mdf"><l pos="V">тярьфнемс</l>
 <st>тярьфнемс</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -22800,7 +21649,7 @@ Tat
 <GeoU>P</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="тярьфтемс">t́äŕft́əms</Wd></DrvSt></DrvStCtn></DrvG>
 <SenseGroup>
 <Sense vl="notGiven"/>
@@ -22811,15 +21660,10 @@ Tat
 <DictionaryEntry>
 <HWB>
 <E3Head><POS pos="V"/><deriv isa="frequ-KSHN"/><deriv isa="Frequ"/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l pos="V"/><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="V"/><st/>
 </lg>
-</PhnUG>
-<PhnUG>
 <lg xml:lang="mdf"><l pos="V">тярьфнекшнемс</l>
 <st>тярьфнекшнемс</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -22837,7 +21681,7 @@ Tat
 <GeoU>P</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="тярьфнемс">t́äŕfńəms</Wd></DrvSt></DrvStCtn></DrvG>
 <SenseGroup>
 <Sense vl="notGiven"/>
@@ -22849,15 +21693,10 @@ Tat
 <DictionaryEntry>
 <HWB>
 <E3Head><POS/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l pos="V"/><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="V"/><st/>
 </lg>
-</PhnUG>
-<PhnUG>
 <lg xml:lang="mdf"><l pos="V">шяямс</l>
 <st>шяямс</st>
-</lg>
 <PhnUBlock>
 <Chc>
 <Vrt>
@@ -22932,7 +21771,7 @@ Tat
 <GeoU>Čemb</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <cl1>(<cl id="pair">Par.-Wort zu <CapI>
 <i><tk2>
 <Wd CyrId="як̀амс">jak̀ams</Wd></tk2></i></CapI></cl>)</cl1>
@@ -22965,15 +21804,10 @@ Tat
 <DictionaryEntry>
 <HWB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l/><st/>
+<lg edit="JMR" xml:lang="myv"><l/><st/>
 </lg>
-</PhnUG>
-<PhnUG>
 <lg xml:lang="mdf"><l>шяяф</l>
 <st>шяяф</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -22984,7 +21818,7 @@ Tat
 <GeoU>Vert</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <cl1>(<cl id="pair">Par.-Wort zu <CapI>
 <i><tk2>
 <Wd CyrId="якаф">jakaf</Wd></tk2></i></CapI></cl>)</cl1>
@@ -23019,15 +21853,10 @@ Tat
 <DictionaryEntry>
 <HWB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l/><st/>
+<lg edit="JMR" xml:lang="myv"><l/><st/>
 </lg>
-</PhnUG>
-<PhnUG>
 <lg xml:lang="mdf"><l>шяяма</l>
 <st>шяяма</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -23038,7 +21867,7 @@ Tat
 <GeoU>Kr</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <cl1>(<cl id="pair">Par.-Wort zu <CapI>
 <i><tk2>
 <Wd CyrId="якама">jakama</Wd></tk2></i></CapI></cl>)</cl1>
@@ -23075,15 +21904,10 @@ Tat
 <DictionaryEntry>
 <HWB>
 <E3Head><POS pos="V"/><deriv isa="frequ-KSHN"/><deriv isa="Frequ"/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l pos="V"/><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="V"/><st/>
 </lg>
-</PhnUG>
-<PhnUG>
 <lg xml:lang="mdf"><l pos="V">шяякшнемс</l>
 <st>шяякшнемс</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -23095,7 +21919,7 @@ Tat
 <GeoU>Šad</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <DrvG><DrvT vl="frequentative"/><DrvSt>? <FrCm freeType="analogy" Modification="manus"/><i><tk2>
 <Wd CyrId="шӓямс">šäjams</Wd></tk2></i></DrvSt></DrvG>
 <SenseGroup>
@@ -23126,15 +21950,10 @@ Tat
 <DictionaryEntry>
 <HWB>
 <E3Head><POS pos="V"/><deriv isa="frequ-NDE"/><deriv isa="Frequ"/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l pos="V"/><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="V"/><st/>
 </lg>
-</PhnUG>
-<PhnUG>
 <lg xml:lang="mdf"><l pos="V">шяендемс</l>
 <st>шяендемс</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -23145,7 +21964,7 @@ Tat
 <GeoU>P</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="шӓемс">šäjəms</Wd></DrvSt></DrvStCtn></DrvG>
 <SenseGroup>
 <Sense vl="notGiven"/>
@@ -23156,15 +21975,10 @@ Tat
 <DictionaryEntry>
 <HWB>
 <E3Head><POS pos="V"/><deriv isa="frequ-KSHN"/><deriv isa="Frequ"/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l pos="V"/><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="V"/><st/>
 </lg>
-</PhnUG>
-<PhnUG>
 <lg xml:lang="mdf"><l pos="V">шяенкшнемс</l>
 <st>шяенкшнемс</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -23175,7 +21989,7 @@ Tat
 <GeoU>P</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="шӓендемс">šäjəńd́əms</Wd></DrvSt></DrvStCtn></DrvG>
 <SenseGroup>
 <Sense vl="notGiven"/>
@@ -23187,15 +22001,10 @@ Tat
 <DictionaryEntry>
 <HWB>
 <E3Head><POS/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l pos="V"/><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="V"/><st/>
 </lg>
-</PhnUG>
-<PhnUG>
 <lg xml:lang="mdf"><l pos="V">шятямс</l>
 <st>шятямс</st>
-</lg>
 <PhnUBlock>
 <Chc>
 <Vrt>
@@ -23231,7 +22040,7 @@ Tat
 <GeoU>An</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -23367,15 +22176,10 @@ Tat
 <DictionaryEntry>
 <HWB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l/><st/>
+<lg edit="JMR" xml:lang="myv"><l/><st/>
 </lg>
-</PhnUG>
-<PhnUG>
 <lg xml:lang="mdf"><l>шятяф</l>
 <st>шятяф</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -23388,7 +22192,7 @@ Tat
 </GeoUCtn>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -23428,15 +22232,10 @@ Tat
 <DictionaryEntry>
 <HWB>
 <E3Head><POS pos="N"/><deriv isa="dim-KE"/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l/><st/>
+<lg edit="JMR" xml:lang="myv"><l/><st/>
 </lg>
-</PhnUG>
-<PhnUG>
 <lg xml:lang="mdf"><l>шятяфкя</l>
 <st>шятяфкя</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -23447,7 +22246,7 @@ Tat
 <GeoU>P</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="шӓтяф">šät́af</Wd></DrvSt></DrvStCtn></DrvG>
 <SenseGroup>
 <Sense vl="previous"/>
@@ -23477,15 +22276,10 @@ Tat
 <DictionaryEntry>
 <HWB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l/><st/>
+<lg edit="JMR" xml:lang="myv"><l/><st/>
 </lg>
-</PhnUG>
-<PhnUG>
 <lg xml:lang="mdf"><l>шятяма</l>
 <st>шятяма</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -23496,7 +22290,7 @@ Tat
 <GeoU>Sel</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -23511,15 +22305,10 @@ Tat
 </HWB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l/><st/>
+<lg edit="JMR" xml:lang="myv"><l/><st/>
 </lg>
-</PhnUG>
-<PhnUG>
 <lg xml:lang="mdf"><l>пельгень шятяма</l>
 <st>пельгень шятяма</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -23562,7 +22351,7 @@ Tat
 <GeoU>Temn</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -23630,15 +22419,10 @@ Tat
 <DictionaryEntry>
 <HWB>
 <E3Head><POS pos="V"/><deriv isa="frequ-NE"/><deriv isa="Frequ"/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l pos="V"/><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="V"/><st/>
 </lg>
-</PhnUG>
-<PhnUG>
 <lg xml:lang="mdf"><l pos="V">шятнемс</l>
 <st>шятнемс</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -23661,7 +22445,7 @@ Tat
 <GeoU>P</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="шӓтямс">šät́ams</Wd></DrvSt></DrvStCtn></DrvG>
 <SenseGroup>
 <mg>
@@ -23679,15 +22463,10 @@ Tat
 <DictionaryEntry>
 <HWB>
 <E3Head><POS pos="V"/><deriv isa="frequ-KSHN"/><deriv isa="Frequ"/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l pos="V"/><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="V"/><st/>
 </lg>
-</PhnUG>
-<PhnUG>
 <lg xml:lang="mdf"><l pos="V">шятнекшнемс</l>
 <st>шятнекшнемс</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -23732,7 +22511,7 @@ Tat
 <GeoU>Sel</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="шӓтнемс">šät́ńəms</Wd></DrvSt></DrvStCtn></DrvG>
 <SenseGroup>
 <Sense vl="notGiven"/>
@@ -23743,15 +22522,10 @@ Tat
 <DictionaryEntry>
 <HWB>
 <E3Head><POS pos="V"/><deriv isa="pass-VE"/><deriv isa="Refl.-Pass"/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l pos="V"/><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="V"/><st/>
 </lg>
-</PhnUG>
-<PhnUG>
 <lg xml:lang="mdf"><l pos="V">шятнювәмс</l>
 <st>шятнювәмс</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -23764,7 +22538,7 @@ Tat
 <GeoU>Kr</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <DrvG><DrvT vl="reflexivePassive"/><DrvStCtn><DrvSt><Wd CyrId="шӓтнемс">šät́ńəms</Wd></DrvSt></DrvStCtn></DrvG>
 <SenseGroup>
 <mg>
@@ -23799,15 +22573,10 @@ Tat
 <DictionaryEntry>
 <HWB>
 <E3Head><POS pos="V"/><deriv isa="fact-VvT"/><deriv isa="Kaus"/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l pos="V"/><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="V"/><st/>
 </lg>
-</PhnUG>
-<PhnUG>
 <lg xml:lang="mdf"><l pos="V">шятнефтемс</l>
 <st>шятнефтемс</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -23825,7 +22594,7 @@ Tat
 <GeoU>P</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <DrvG><DrvT vl="causative"/><DrvStCtn><DrvSt><Wd CyrId="шӓтнемс">šät́ńəms</Wd></DrvSt></DrvStCtn></DrvG>
 <SenseGroup>
 <mg>
@@ -23845,15 +22614,10 @@ Tat
 <DictionaryEntry>
 <HWB>
 <E3Head><POS pos="V"/><deriv isa="frequ-NE"/><deriv isa="Frequ"/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l pos="V"/><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="V"/><st/>
 </lg>
-</PhnUG>
-<PhnUG>
 <lg xml:lang="mdf"><l pos="V">шятнефнемс</l>
 <st>шятнефнемс</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -23871,7 +22635,7 @@ Tat
 <GeoU>P</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="шӓтнефтемс">šät́ńəft́əms</Wd></DrvSt></DrvStCtn></DrvG>
 <SenseGroup>
 <Sense vl="previous"/>
@@ -23881,15 +22645,10 @@ Tat
 <DictionaryEntry>
 <HWB>
 <E3Head><POS pos="V"/><deriv isa="fact-VvT"/><deriv isa="Kaus"/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l pos="V"/><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="V"/><st/>
 </lg>
-</PhnUG>
-<PhnUG>
 <lg xml:lang="mdf"><l pos="V">шятяфтәмс</l>
 <st>шятяфтәмс</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -23922,7 +22681,7 @@ Tat
 <GeoU>Sel</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <DrvG><DrvT vl="causative"/><DrvStCtn><DrvSt><Wd CyrId="шӓтямс">šät́ams</Wd></DrvSt></DrvStCtn></DrvG>
 <SenseGroup>
 <mg>
@@ -23978,15 +22737,10 @@ Tat
 <DictionaryEntry>
 <HWB>
 <E3Head><POS pos="V"/><deriv isa="frequ-NE"/><deriv isa="Frequ"/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l pos="V"/><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="V"/><st/>
 </lg>
-</PhnUG>
-<PhnUG>
 <lg xml:lang="mdf"><l pos="V">шятяфнемс</l>
 <st>шятяфнемс</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -24009,7 +22763,7 @@ Tat
 <GeoU>P</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="шӓтяфтомс">šät́aftə̑ms</Wd></DrvSt></DrvStCtn></DrvG>
 <SenseGroup>
 <mg>
@@ -24027,15 +22781,10 @@ Tat
 <DictionaryEntry>
 <HWB>
 <E3Head><POS pos="V"/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l pos="V"/><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="V"/><st/>
 </lg>
-</PhnUG>
-<PhnUG>
 <lg xml:lang="mdf"><l pos="V">шятяфнекшнемс</l>
 <st>шятяфнекшнемс</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -24058,7 +22807,7 @@ Tat
 <GeoU>P</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -24076,10 +22825,8 @@ Tat
 <DictionaryEntry>
 <HWB>
 <E3Head><POS/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l pos="V">иля</l>
 <st>иля</st>
-</lg>
 <PhnUBlock>
 <Chc>
 <Vrt>
@@ -24101,12 +22848,9 @@ Tat
 <GeoU extension="common"/>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -24130,10 +22874,8 @@ Tat
 </HWB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>иля</l>
 <st>иля</st>
-</lg>
 <PhnUBlock>
 <Chc>
 <Vrt>
@@ -24169,12 +22911,9 @@ Tat
 <GeoU/>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup/>
 <xg>
 <x>
@@ -24300,10 +23039,8 @@ Tat
 </MWUB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>илядо</l>
 <st>илядо</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -24314,12 +23051,9 @@ Tat
 <GeoU/>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup/>
 <xg>
 <x>
@@ -24360,10 +23094,8 @@ Tat
 </MWUB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>илямак</l>
 <st>илямак</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -24374,12 +23106,9 @@ Tat
 <book name="Chr" xml:lang="myv"/>
 </sources>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup/>
 <xg>
 <Cm>Obj.-Konjug.:</Cm>
@@ -24397,10 +23126,8 @@ ChrE
 </MWUB>
 <MWUB>
 <E3Head><POS pos="N"/><deriv isa="prt-ZY"/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>илямизь</l>
 <st>илямизь</st>
-</lg>
 <PhnUBlock>
 <Chc>
 <Vrt>
@@ -24422,12 +23149,9 @@ ChrE
 <book name="Chr" xml:lang="myv"/>
 </sources>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup/>
 <xg>
 <x>
@@ -24905,10 +23629,7 @@ ChrE
 <DictionaryEntry>
 <HWB>
 <E3Head><POS/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l pos="V">паломс</l><st>паломс</st>
-</lg>
+<lg edit="JMR" xml:lang="myv"><l pos="V">паломс</l><st>паломс</st>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -24917,7 +23638,7 @@ ChrE
 </PhnU>
 </PhnUCtn>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <Sense vl="notGiven"/>
 </SenseGroup>
@@ -24927,10 +23648,8 @@ ChrE
 </HWB>
 <CompositionalPhraseCtn>
 <E3Head><POS/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l pos="V">колемс-паломс</l>
 <st>колемс-паломс</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -24943,12 +23662,9 @@ ChrE
 <GeoU>Kad</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -24971,10 +23687,8 @@ ChrE
 <DictionaryEntry>
 <HWB>
 <E3Head><POS/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l pos="V">эрьме</l>
 <st>эрьме</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -24995,12 +23709,9 @@ ChrE
 <GeoU>Kažl</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -25055,10 +23766,8 @@ ChrE
 </HWB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<PhnUG>
 <lg xml:lang="myv"><l>эрьмильть</l>
 <st>эрьмильть</st>
-</lg>
 <PhnUBlock>
 <Chc>
 <Vrt>
@@ -25077,12 +23786,9 @@ ChrE
 </Vrt>
 </Chc>
 </PhnUBlock>
-</PhnUG>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="mdf"><l/><st/>
 </lg>
-</PhnUG>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -25299,15 +24005,10 @@ ChrE
 <DictionaryEntry>
 <HWB>
 <E3Head><POS/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l pos="Ф"/><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Ф"/><st/>
 </lg>
-</PhnUG>
-<PhnUG>
 <lg xml:lang="mdf"><l>прястальнай</l>
 <st>прястальнай</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -25315,7 +24016,7 @@ ChrE
 </PhnU>
 </PhnUCtn>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <Sense vl="notGiven"/>
 </SenseGroup>
@@ -25325,15 +24026,10 @@ ChrE
 </HWB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos=""/><deriv isa="Dem"/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l pos="N"/><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="N"/><st/>
 </lg>
-</PhnUG>
-<PhnUG>
 <lg xml:lang="mdf"><l pos="N">прястальнай кудня</l>
 <st>прястальнай кудня</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -25345,7 +24041,7 @@ ChrE
 <GeoU>Temn</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <DrvG><DrvT vl="diminutive"/></DrvG>
 <SenseGroup>
 <mg>
@@ -25396,15 +24092,10 @@ ChrE
 <DictionaryEntry>
 <HWB>
 <E3Head><POS/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l pos="Ф"/><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Ф"/><st/>
 </lg>
-</PhnUG>
-<PhnUG>
 <lg xml:lang="mdf"><l>пәлгавернай</l>
 <st>пәлгавернай</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -25415,7 +24106,7 @@ ChrE
 <GeoU>Pš</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -25436,15 +24127,10 @@ ChrE
 <DictionaryEntry>
 <HWB>
 <E3Head><POS/></E3Head>
-<PhnUG>
-<!-- Not original -->
-<lg xml:lang="myv"><l pos="Фвм"/><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Adv"/><st/>
 </lg>
-</PhnUG>
-<PhnUG>
-<lg xml:lang="mdf"><l>пәльцьком</l>
+<lg xml:lang="mdf"><l pos="Adv">пәльцьком</l>
 <st>пәльцьком</st>
-</lg>
 <PhnUBlock>
 <PhnUCtn>
 <PhnU>
@@ -25455,7 +24141,7 @@ ChrE
 <GeoU>Temn</GeoU>
 </GeoUB>
 </PhnUBlock>
-</PhnUG>
+</lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
