@@ -4,7 +4,7 @@
 <DictionaryEntry>
 <HWB>
 <E3Head><POS freeType="morphological" pos="syntax-enklit"/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Pcle"/><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Pcle">XX</l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Pcle">-га</l>
 <st>Q-га</st>
@@ -50,7 +50,7 @@
 <DictionaryEntry>
 <HWB>
 <E3Head><POS freeType="morphological" pos="syntax-enklit"/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Pcle"/><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Pcle">XX</l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Pcle">-гя</l>
 <st>Q-гя</st>
@@ -95,7 +95,7 @@
 <DictionaryEntry>
 <HWB>
 <E3Head><POS freeType="morphological" pos="syntax-enklit"/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Pcle"/><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Pcle">XX</l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Pcle">-ка</l>
 <st>Q-ка</st>
@@ -139,7 +139,7 @@
 <DictionaryEntry>
 <HWB>
 <E3Head><POS freeType="morphological" pos="syntax-enklit"/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Pcle"/><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Pcle">XX</l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Pcle">-нгя</l>
 <st>Q-нгя</st>
@@ -174,7 +174,7 @@
 <DictionaryEntry>
 <HWB>
 <E3Head><POS freeType="morphological" pos="syntax-enklit"/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Pcle"/><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Pcle">XX</l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Pcle">-нга</l>
 <st>Q-нга</st>
@@ -231,7 +231,7 @@
 <DictionaryEntry>
 <HWB>
 <E3Head><POS freeType="morphological" pos="syntax-enklit. Verstärkungspartikel"/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Pcle"/><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Pcle">XX</l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Pcle">-ёк</l>
 <st>Q-ёк</st>
@@ -268,11 +268,9 @@
 <lg xml:lang="mdf"><l>тяддэёк</l>
 <st>тяддэёк</st>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <Wd mdfId="тяддэё·к">t́addejo·k</Wd>
 </PhnU>
-</PhnUCtn>
 </PhnUBlock>
 </lg>
 <SenseGroup>
@@ -293,11 +291,9 @@
 <lg xml:lang="mdf"><l>тячиёк</l>
 <st>тячиёк</st>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <Wd mdfId="тячиё·к">t́äčijo·k</Wd>
 </PhnU>
-</PhnUCtn>
 </PhnUBlock>
 </lg>
 <SenseGroup>
@@ -318,11 +314,9 @@
 <lg xml:lang="mdf"><l>тяниёк</l>
 <st>тяниёк</st>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <Wd mdfId="тяниё·к">t́äńijo·k</Wd>
 </PhnU>
-</PhnUCtn>
 </PhnUBlock>
 </lg>
 <SenseGroup>
@@ -343,11 +337,9 @@
 <lg xml:lang="mdf"><l>вандыёк</l>
 <st>вандыёк</st>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <Wd mdfId="вандыё·к">vandi͔jo·k</Wd>
 </PhnU>
-</PhnUCtn>
 </PhnUBlock>
 </lg>
 <SenseGroup>
@@ -611,11 +603,9 @@
 <lg xml:lang="myv"><l pos="Pcle">эень</l>
 <st>эень</st>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <Wd myvId="эень">ejeń</Wd>
 </PhnU>
-</PhnUCtn>
 <GeoUB xml:lang="myv">
 <GeoU>Kočk</GeoU>
 <GeoU>Petr</GeoU>
@@ -625,11 +615,9 @@
 <lg xml:lang="mdf"><l>инь</l>
 <st>инь</st>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <Wd mdfId="инь">iń</Wd>
 </PhnU>
-</PhnUCtn>
 <GeoUB xml:lang="mdf">
 <GeoU>Vert</GeoU>
 </GeoUB>
