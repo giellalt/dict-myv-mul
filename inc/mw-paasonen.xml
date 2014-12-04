@@ -30,13 +30,11 @@
 <lg xml:lang="myv"><l>цислат-эрьгат</l>
 <st>цислат-эрьгат</st>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <Wd myvId="цислат">ćislat</Wd>
 <Hph/>
 <Wd myvId="эрьгат">eŕgat</Wd>
 </PhnU>
-</PhnUCtn>
 <GeoUB xml:lang="myv">
 <GeoU>Mar</GeoU>
 <GeoU>Atr</GeoU>
@@ -66,12 +64,10 @@
 <lg edit="JMR" xml:lang="myv"><l pos="N">эфтерь</l>
 <st>эфтерь</st>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <Wd CyrId="эфтерь">eft́eŕ</Wd>
 <Hph/>
 </PhnU>
-</PhnUCtn>
 </PhnUBlock>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="N"></l>
@@ -89,37 +85,32 @@
 <lg xml:lang="myv"><l>эфтерь-пильге</l>
 <st>эфтерь-пильге</st>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <Wd myvId="эфтерь">eft́eŕ</Wd>
 <Hph/>
 <Wd myvId="пильге">ṕiĺǵe</Wd>
 </PhnU>
-</PhnUCtn>
 <GeoUB xml:lang="myv">
 <GeoU>Is</GeoU>
 </GeoUB>
 </PhnUBlock>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <Wd myvId="эфтерь">eft́eŕ</Wd>
 <Hph/>
 <Wd myvId="пильк">ṕiĺk</Wd>
 </PhnU>
-</PhnUCtn>
 <GeoUB xml:lang="myv">
 <GeoU/>
 </GeoUB>
 </PhnUBlock>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <Wd myvId="эфтерь">eft́eŕ</Wd>
 <Hph/>
 <Wd myvId="пильк">ṕiĺḱ</Wd>
 </PhnU>
-</PhnUCtn><DrvG>(<Nx vl="plural"/>)</DrvG>
+<DrvG>(<Nx vl="plural"/>)</DrvG>
 <GeoUB xml:lang="myv">
 <GeoU>Večk</GeoU>
 </GeoUB>
@@ -232,7 +223,6 @@
 </GeoUB>
 </PhnUBlock>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <Chc>
 <Vrt>
@@ -243,7 +233,6 @@
 </Vrt>
 </Chc>
 </PhnU>
-</PhnUCtn>
 <GeoUB xml:lang="mdf">
 <GeoU>Sel</GeoU>
 </GeoUB>
@@ -469,13 +458,11 @@
 <lg xml:lang="mdf"><l pos="Interj">псюрк-псюрк</l>
 <st>псюрк-псюрк</st>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <Wd mdfId="псюрк">ṕśurk</Wd>
 <Hph/>
 <Wd mdfId="псюрк">ṕśurk</Wd>
 </PhnU>
-</PhnUCtn>
 <GeoUB xml:lang="mdf">
 <GeoU>Pš</GeoU>
 </GeoUB>
@@ -630,13 +617,11 @@
 <lg xml:lang="mdf"><l pos="Interj">тюлю-балю</l>
 <st>тюлю-балю</st>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <Wd mdfId="тюлю">t́uĺu</Wd>
 <Hph/>
 <Wd mdfId="балю">baĺu</Wd>
 </PhnU>
-</PhnUCtn>
 <GeoUB xml:lang="mdf">
 <GeoU>Kr</GeoU>
 </GeoUB>
@@ -756,13 +741,11 @@
 <lg xml:lang="mdf"><l>тютю-палю</l>
 <st>тютю-палю</st>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <Wd mdfId="тютю">t́ut́u</Wd>
 <Hph/>
 <Wd mdfId="палю">paĺu</Wd>
 </PhnU>
-</PhnUCtn>
 <GeoUB xml:lang="mdf">
 <GeoU>P</GeoU>
 <GeoUCtn>
@@ -771,7 +754,6 @@
 </GeoUB>
 </PhnUBlock>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <Chc>
 <Vrt>
@@ -787,19 +769,16 @@
 </Vrt>
 </Chc>
 </PhnU>
-</PhnUCtn>
 <GeoUB xml:lang="mdf">
 <GeoU>Katm</GeoU>
 </GeoUB>
 </PhnUBlock>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <Wd mdfId="тютю">t́ut́u</Wd>
 <Hph/>
 <Wd mdfId="баву">bavu</Wd>
 </PhnU>
-</PhnUCtn>
 <GeoUB xml:lang="mdf">
 <GeoU>Kars</GeoU>
 </GeoUB>
@@ -877,7 +856,6 @@
 <lg xml:lang="mdf"><l pos="Interj">уть-уть-уть</l>
 <st>уть-уть-уть</st>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <Wd mdfId="уть">ut́</Wd>
 <Hph/>
@@ -885,7 +863,6 @@
 <Hph/>
 <Wd mdfId="уть">ut́</Wd>
 </PhnU>
-</PhnUCtn>
 <GeoUB xml:lang="mdf">
 <GeoU>Sel</GeoU>
 </GeoUB>
@@ -1113,13 +1090,11 @@
 <lg xml:lang="mdf"><l pos="N">пиза</l>
 <st>пиза</st>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <FrCm freeType="analogy" Modification="manus"/>
 <FrCm freeType="questionRelation" Modification="manus"/>
 <Wd mdfId="пизӑ">ṕiză</Wd>
 </PhnU>
-</PhnUCtn>
 <GeoUB xml:lang="mdf">
 <GeoU>Sel</GeoU>
 </GeoUB>
@@ -1217,13 +1192,11 @@
 <lg xml:lang="mdf"><l>пав-пав</l>
 <st>пав-пав</st>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <Wd mdfId="пав">pav</Wd>
 <Hph/>
 <Wd mdfId="пав">pav</Wd>
 </PhnU>
-</PhnUCtn>
 <GeoUB xml:lang="mdf">
 <GeoU>P</GeoU>
 </GeoUB>
@@ -1452,14 +1425,12 @@
 <Wd myvId="льɯйлё">ĺɯjĺo</Wd>
 </PhnU>
 </Vrt>
-<Vrt><PhnUCtn>
-<PhnU>
+<Vrt><PhnU>
 (<i>
 <tk2>
 <Wd myvId="х">ᵪ</Wd>
 </tk2>
 </i>)</PhnU>
-</PhnUCtn>
 </Vrt>
 </Chc>
 <GeoUB xml:lang="myv">
@@ -1906,13 +1877,11 @@
 <lg xml:lang="mdf"><l>на-ина</l>
 <st>на-ина</st>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <Wd mdfId="на">na</Wd>
 <Hph/>
 <Wd mdfId="ина">ina</Wd>
 </PhnU>
-</PhnUCtn>
 <GeoUB xml:lang="mdf">
 <GeoU>P</GeoU>
 </GeoUB>
@@ -2730,12 +2699,10 @@
 </PhnU>
 </Vrt>
 <Vrt>
-<PhnUCtn>
 <PhnU>
 <FrCm freeType="RelationToPreviousSibling" status="~"/>
 <Wd myvId="нурьк">nuŕḱ</Wd>
 </PhnU>
-</PhnUCtn>
 </Vrt>
 </Chc>
 <GeoUB xml:lang="myv">
@@ -2950,7 +2917,6 @@
 <lg xml:lang="myv"><l pos="Interj">онот</l>
 <st>онот</st>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <Chc>
 <Vrt>
@@ -2961,7 +2927,6 @@
 </Vrt>
 </Chc>
 </PhnU>
-</PhnUCtn>
 <GeoUB xml:lang="myv">
 <GeoU>Mar</GeoU>
 <GeoU>Večk</GeoU>
@@ -3722,12 +3687,10 @@
 </PhnU>
 </Vrt>
 <Vrt>
-<PhnUCtn>
 <PhnU>
 <FrCm freeType="questionRelation" Modification="MK"/>
 <Wd myvId="охаямс">oᵪajams</Wd>
 </PhnU>
-</PhnUCtn>
 </Vrt>
 </Chc>
 <GeoUB xml:lang="myv">
@@ -4151,12 +4114,10 @@
 <lg xml:lang="mdf"><l pos="V">пасиба азәмс</l>
 <st>пасиба азәмс</st>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <Wd mdfId="пасиба">paśiba</Wd>
 <Wd mdfId="азомс">azə̑ms</Wd>
 </PhnU>
-</PhnUCtn>
 <GeoUB xml:lang="mdf">
 <GeoU>P</GeoU>
 </GeoUB>
@@ -4178,12 +4139,10 @@
 <lg xml:lang="myv"><l pos="V">пасиба ёвтамс</l>
 <st>пасиба ёвтамс</st>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <Wd myvId="пасиба">paśiba</Wd>
 <Wd myvId="ёвтамс">jovtams</Wd>
 </PhnU>
-</PhnUCtn>
 <GeoUB xml:lang="myv">
 <GeoU>Mar</GeoU>
 <GeoU>VVr</GeoU>
@@ -4225,13 +4184,11 @@
 <lg xml:lang="myv"><l pos="V">пасиба меримс</l>
 <st>пасиба меримс</st>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <FrCm freeType="analogy" Modification="manus"/>
 <Wd myvId="пасиба">paśiba</Wd>
 <Wd myvId="меремс">ḿeŕems</Wd>
 </PhnU>
-</PhnUCtn>
 <GeoUB xml:lang="myv">
 <GeoU>MKly</GeoU>
 </GeoUB>
@@ -4240,13 +4197,11 @@
 <lg xml:lang="mdf"><l pos="V">пасиба мярьгәмс</l>
 <st>пасиба мярьгәмс</st>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <FrCm freeType="analogy" Modification="manus"/>
 <Wd mdfId="пасиба">paśiba</Wd>
 <Wd mdfId="мярьгəмс">ḿäŕgəms</Wd>
 </PhnU>
-</PhnUCtn>
 <GeoUB xml:lang="mdf">
 <GeoU>P</GeoU>
 </GeoUB>
@@ -4517,12 +4472,10 @@
 <lg xml:lang="myv"><l>а то</l>
 <st>а то</st>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <Wd myvId="а">a</Wd>
 <Wd myvId="то">to</Wd>
 </PhnU>
-</PhnUCtn>
 <GeoUB xml:lang="myv">
 <GeoU>Mar</GeoU>
 <GeoU>VVr</GeoU>
@@ -4571,35 +4524,29 @@
 <lg xml:lang="myv"><l>и то</l>
 <st>и то</st>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <Wd myvId="и">i</Wd>
 <Wd myvId="то">to</Wd>
 </PhnU>
-</PhnUCtn>
 <GeoUB xml:lang="myv">
 <GeoU>Mar</GeoU>
 <GeoU>SŠant</GeoU>
 </GeoUB>
 </PhnUBlock>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <Wd myvId="и">i</Wd>
 <Wd myvId="то·">to·</Wd>
 </PhnU>
-</PhnUCtn>
 <GeoUB xml:lang="myv">
 <GeoU>Kažl</GeoU>
 </GeoUB>
 </PhnUBlock>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <Wd myvId="и">i</Wd>
 <Wd myvId="ту">tu</Wd>
 </PhnU>
-</PhnUCtn>
 <GeoUB xml:lang="myv">
 <GeoU>Nask</GeoU>
 <GeoU>Vez</GeoU>
@@ -4609,12 +4556,10 @@
 <lg xml:lang="mdf"><l>и то</l>
 <st>и то</st>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <Wd mdfId="и">i</Wd>
 <Wd mdfId="то·">to·</Wd>
 </PhnU>
-</PhnUCtn>
 <GeoUB xml:lang="mdf">
 <GeoU>Sel</GeoU>
 </GeoUB>
@@ -5266,7 +5211,6 @@ Tat., tschuw. <Et>
 </GeoUB>
 </PhnUBlock>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <Chc>
 <Vrt>
@@ -5279,7 +5223,6 @@ Tat., tschuw. <Et>
 </Vrt>
 </Chc>
 </PhnU>
-</PhnUCtn>
 <GeoUB xml:lang="mdf">
 <GeoU>Sučk</GeoU>
 </GeoUB>
@@ -6015,12 +5958,10 @@ Tat., tschuw. <Et>
 <E3Head><POS/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="Interj">утю</l><st>утю</st>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <Wd CyrId="утю">ut́u</Wd>
 <Hph/>
 </PhnU>
-</PhnUCtn>
 </PhnUBlock>
 </lg>
 <SenseGroup>
@@ -6035,13 +5976,11 @@ Tat., tschuw. <Et>
 <lg xml:lang="myv"><l>утю-балю</l>
 <st>утю-балю</st>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <Wd myvId="утю">ut́u</Wd>
 <Hph/>
 <Wd myvId="балю">baĺu</Wd>
 </PhnU>
-</PhnUCtn>
 <GeoUB xml:lang="myv">
 <GeoU>Mar</GeoU>
 <GeoU>Večk</GeoU>
@@ -6611,22 +6550,18 @@ Tat., tschuw. <Et>
 <PhnUBlock>
 <Chc>
 <Vrt>
-<PhnUCtn>
 <PhnU>
 <Wd myvId="цюлю">ćuĺu</Wd>
 <Hph/>
 <Wd myvId="балю">baĺu</Wd>
 </PhnU>
-</PhnUCtn>
 </Vrt>
 <Vrt>
-<PhnUCtn>
 <PhnU>
 <Wd myvId="цьɯлю">ćɯĺu</Wd>
 <Hph/>
 <Wd myvId="балю">baĺu</Wd>
 </PhnU>
-</PhnUCtn>
 </Vrt>
 </Chc>
 <GeoUB xml:lang="myv">
@@ -6634,26 +6569,22 @@ Tat., tschuw. <Et>
 </GeoUB>
 </PhnUBlock>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <Wd myvId="цюлю">ćuĺu</Wd>
 <Hph/>
 <Wd myvId="балю">baĺu</Wd>
 </PhnU>
-</PhnUCtn>
 <GeoUB xml:lang="myv">
 <GeoU>Gor</GeoU>
 <GeoU>Sob</GeoU>
 </GeoUB>
 </PhnUBlock>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <Wd myvId="шулю">šuĺu</Wd>
 <Hph/>
 <Wd myvId="балю">baĺu</Wd>
 </PhnU>
-</PhnUCtn>
 <GeoUB xml:lang="myv">
 <GeoU>Kad</GeoU>
 <GeoU>Kal</GeoU>
@@ -6775,13 +6706,11 @@ Tat., tschuw. <Et>
 <lg xml:lang="myv"><l pos="Interj">чуш-чуш</l>
 <st>чуш-чуш</st>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <Wd myvId="чуш">čuš</Wd>
 <Hph/>
 <Wd myvId="чуш">čuš</Wd>
 </PhnU>
-</PhnUCtn>
 <GeoUB xml:lang="myv">
 <GeoU>VVr</GeoU>
 </GeoUB>
@@ -6790,13 +6719,11 @@ Tat., tschuw. <Et>
 <lg xml:lang="mdf"><l>чуш-чуш</l>
 <st>чуш-чуш</st>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <Wd mdfId="ч́уш">č́uš</Wd>
 <Hph/>
 <Wd mdfId="ч́уш">č́uš</Wd>
 </PhnU>
-</PhnUCtn>
 <GeoUB xml:lang="mdf">
 <GeoU>Pš</GeoU>
 <GeoU>Čemb</GeoU>
@@ -6951,12 +6878,10 @@ Tat., tschuw. <Et>
 <lg xml:lang="mdf"><l>тувәнь чушка</l>
 <st>тувәнь чушка</st>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <Wd mdfId="тувонь">tuvə̑ń</Wd>
 <Wd mdfId="чушка">čuška</Wd>
 </PhnU>
-</PhnUCtn>
 <GeoUB xml:lang="mdf">
 <GeoU>P</GeoU>
 </GeoUB>
@@ -7408,12 +7333,10 @@ Tat., tschuw. <Et>
 <lg edit="JMR" xml:lang="mdf"><l pos="Interj">ядоя</l>
 <st>ядоя</st>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <cnt1>(An mehrere Personen gerichtet:) </cnt1>
 <Wd CyrId="ядоя">jadoja</Wd>
 </PhnU>
-</PhnUCtn>
 <GeoUB xml:lang="myv">
 <GeoU>Is</GeoU>
 </GeoUB>
@@ -7614,24 +7537,20 @@ Tat., tschuw. <Et>
 <lg xml:lang="myv"><l>сисем-иесэ</l>
 <st>сисем-иесэ</st>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <Wd myvId="сись̀эм">śiś̀em</Wd>
 <Hph/>
 <Wd myvId="иес̀э">ijes̀e͔</Wd>
 </PhnU>
-</PhnUCtn>
 <sources>
 <book name="Chr" xml:lang="myv"/>
 </sources>
 </PhnUBlock>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <Wd myvId="сисем">śiśem</Wd>
 <Wd myvId="иесэ">ijese͔</Wd>
 </PhnU>
-</PhnUCtn>
 <GeoUB xml:lang="myv">
 <GeoU>Mar</GeoU>
 </GeoUB>
@@ -7710,12 +7629,10 @@ Tat., tschuw. <Et>
 <lg xml:lang="myv"><l>сисем озяст</l>
 <st>сисем озяст</st>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <Wd myvId="сисем">śiśem</Wd>
 <Wd myvId="озяст">oźast</Wd>
 </PhnU>
-</PhnUCtn>
 <GeoUB xml:lang="myv">
 <GeoU>Is</GeoU>
 </GeoUB>
@@ -7740,12 +7657,10 @@ Tat., tschuw. <Et>
 <lg xml:lang="myv"><l>сисем прямо</l>
 <st>сисем прямо</st>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <Wd myvId="сись̀эм">śiś̀em</Wd>
 <Wd myvId="прямо">ṕŕamo</Wd>
 </PhnU>
-</PhnUCtn>
 <sources>
 <book name="Chr" xml:lang="myv"/>
 </sources>
@@ -7769,7 +7684,6 @@ Tat., tschuw. <Et>
 <lg xml:lang="myv"><l>сисем прясо</l>
 <st>сисем прясо</st>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <Wd myvId="сисем">śiśem</Wd>
 <Chc>
@@ -7781,13 +7695,11 @@ Tat., tschuw. <Et>
 </Vrt>
 </Chc>
 </PhnU>
-</PhnUCtn>
 <GeoUB xml:lang="myv">
 <GeoU>Mar</GeoU>
 </GeoUB>
 </PhnUBlock>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <Wd myvId="сисим">śiśiḿ</Wd>
 <Chc>
@@ -7799,7 +7711,6 @@ Tat., tschuw. <Et>
 </Vrt>
 </Chc>
 </PhnU>
-</PhnUCtn>
 <GeoUB xml:lang="myv">
 <GeoU>Kal</GeoU>
 </GeoUB>
@@ -7869,12 +7780,10 @@ Tat., tschuw. <Et>
 <lg xml:lang="myv"><l>сисем сялгума</l>
 <st>сисем сялгума</st>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <Wd myvId="сисем">śiśem</Wd>
 <Wd myvId="сялгума">śalguma</Wd>
 </PhnU>
-</PhnUCtn>
 <GeoUB xml:lang="myv">
 <GeoU>VVr</GeoU>
 <GeoU>Is</GeoU>
@@ -7899,20 +7808,16 @@ Tat., tschuw. <Et>
 <PhnUBlock>
 <Chc>
 <Vrt>
-<PhnUCtn>
 <PhnU>
 <Wd myvId="сисем">śiśem</Wd>
 <Wd myvId="тешть">t́ešt́</Wd>
 </PhnU>
-</PhnUCtn>
 </Vrt>
 <Vrt>
-<PhnUCtn>
 <PhnU>
 <Wd myvId="сисем">śiśem</Wd>
 <Wd myvId="дешть">d́ešt́</Wd>
 </PhnU>
-</PhnUCtn>
 </Vrt>
 </Chc>
 <GeoUB xml:lang="myv">
@@ -7923,23 +7828,19 @@ Tat., tschuw. <Et>
 <lg xml:lang="mdf"><l>сисем тяштть</l>
 <st>сисем тяштть</st>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <Wd mdfId="сисем">śiśəm</Wd>
 <Wd mdfId="тяштть">t́äšt́t́</Wd>
 </PhnU>
-</PhnUCtn>
 <GeoUB xml:lang="mdf">
 <GeoU>Čemb</GeoU>
 </GeoUB>
 </PhnUBlock>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <Wd mdfId="сисем">śiśəm</Wd>
 <Wd mdfId="тяшчəт">t́äščət</Wd>
 </PhnU>
-</PhnUCtn>
 <GeoUB xml:lang="mdf">
 <GeoU>Ur</GeoU>
 </GeoUB>
@@ -8070,28 +7971,22 @@ Tat., tschuw. <Et>
 <PhnUBlock>
 <Chc>
 <Vrt>
-<PhnUCtn>
 <PhnU>
 <Wd myvId="сизьгеминь">śiźǵeḿiń</Wd>
 <Wd myvId="карта">karta</Wd>
 </PhnU>
-</PhnUCtn>
 </Vrt>
 <Vrt>
-<PhnUCtn>
 <PhnU>
 <Wd myvId="сизьге·минь">śiźǵe·ḿiń</Wd>
 <Wd myvId="кархта">karʿta·</Wd>
 </PhnU>
-</PhnUCtn>
 </Vrt>
-<Vrt><PhnUCtn>
-<PhnU>
+<Vrt><PhnU>
 <Wd myvId="сизьге·минь">śiźǵe·ḿiń</Wd>
 <Wd myvId="гархта">garʿta·</Wd>
 <Hph/>
 </PhnU>
-</PhnUCtn>
 </Vrt>
 </Chc>
 <GeoUB xml:lang="myv">
@@ -8099,12 +7994,10 @@ Tat., tschuw. <Et>
 </GeoUB>
 </PhnUBlock>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <Wd myvId="сизьге·минь">śiźǵe·ḿiń</Wd>
 <Wd myvId="кархта">karʿta</Wd>
 </PhnU>
-</PhnUCtn>
 <GeoUB xml:lang="myv">
 <GeoU>Kal</GeoU>
 </GeoUB>
@@ -8137,23 +8030,19 @@ Tat., tschuw. <Et>
 <lg xml:lang="myv"><l>сизьгемень сисем</l>
 <st>сизьгемень сисем</st>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <Wd myvId="сизьгемень">śiźǵeḿeń</Wd>
 <Wd myvId="сисем">śiśem</Wd>
 </PhnU>
-</PhnUCtn>
 <GeoUB xml:lang="myv">
 <GeoU>Mar</GeoU>
 </GeoUB>
 </PhnUBlock>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <Wd myvId="сизьгеминь">śiźǵeḿiń</Wd>
 <Wd myvId="сисим">śiśiḿ</Wd>
 </PhnU>
-</PhnUCtn>
 <GeoUB xml:lang="myv">
 <GeoU>Kal</GeoU>
 </GeoUB>
@@ -8248,13 +8137,11 @@ Tat., tschuw. <Et>
 <lg xml:lang="mdf"><l>сисем-сят</l>
 <st>сисем-сят</st>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <Wd mdfId="сись̀əм">śiś̀əḿ</Wd>
 <Hph/>
 <Wd mdfId="сят̄">śat̄</Wd>
 </PhnU>
-</PhnUCtn>
 <sources>
 <book name="Chr"/>
 <LanguageCtn>
@@ -9120,23 +9007,19 @@ Tat., tschuw. <Et>
 <lg xml:lang="mdf"><l>сяда пяля</l>
 <st>сяда пяля</st>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <Wd mdfId="сяда">śada</Wd>
 <Wd mdfId="пяля">ṕäĺä</Wd>
 </PhnU>
-</PhnUCtn>
 <GeoUB xml:lang="mdf">
 <GeoU>P</GeoU>
 </GeoUB>
 </PhnUBlock>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <Wd mdfId="сядот">śadə̑t</Wd>
 <Wd mdfId="пялет">ṕäĺet</Wd>
 </PhnU>
-</PhnUCtn>
 <GeoUB xml:lang="mdf">
 <GeoU>Temn</GeoU>
 </GeoUB>
@@ -9495,13 +9378,11 @@ Tat., tschuw. <Et>
 <lg xml:lang="mdf"><l>сисем-сят</l>
 <st>сисем-сят</st>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <Wd mdfId="сись̀əм">śiś̀əḿ</Wd>
 <Hph/>
 <Wd mdfId="сят̄">śat̄</Wd>
 </PhnU>
-</PhnUCtn>
 <sources>
 <book name="Chr"/>
 <LanguageCtn>
@@ -10117,12 +9998,10 @@ Tat., tschuw. <Et>
 </PhnU>
 </Vrt>
 <Vrt>
-<PhnUCtn>
 <PhnU>
 <FrCm freeType="RelationToPreviousSibling" status="~"/>
 <Wd mdfId="шӓт">šät</Wd>
 </PhnU>
-</PhnUCtn>
 </Vrt>
 </Chc>
 <GeoUB xml:lang="mdf">
@@ -10741,12 +10620,10 @@ Tat., tschuw. <Et>
 </GeoUB>
 </PhnUBlock>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <Wd mdfId="кода">koda</Wd>
 <Wd mdfId="əна">əna</Wd>
 </PhnU>
-</PhnUCtn>
 <GeoUB xml:lang="mdf">
 <GeoU>Sučk</GeoU>
 </GeoUB>
@@ -10973,14 +10850,12 @@ Tat., tschuw. <Et>
 </PhnU>
 </Vrt>
 <Vrt>
-<PhnUCtn>
 <PhnU>
 (<cnt1>? </cnt1><i>
 <tk2>
 <Wd mdfId="леш">ĺəš</Wd>
 </tk2>
 </i>)</PhnU>
-</PhnUCtn>
 </Vrt>
 </Chc>
 <GeoUB xml:lang="mdf">
@@ -11110,12 +10985,10 @@ Tat., tschuw. <Et>
 <lg xml:lang="mdf"><l>леш кош</l>
 <st>леш кош</st>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <Wd mdfId="леш">ĺeš</Wd>
 <Wd mdfId="кош">koš</Wd>
 </PhnU>
-</PhnUCtn>
 <GeoUB xml:lang="mdf">
 <GeoU>P</GeoU>
 <GeoU>Sučk</GeoU>
@@ -11170,20 +11043,16 @@ Tat., tschuw. <Et>
 </PhnU>
 </Vrt>
 <Vrt>
-<PhnUCtn>
 <PhnU>
 <FrCm freeType="RelationToPreviousSibling" status="~"/>
 <Wd myvId="мик">ḿik</Wd>
 </PhnU>
-</PhnUCtn>
 </Vrt>
 <Vrt>
-<PhnUCtn>
 <PhnU>
 <FrCm freeType="RelationToPreviousSibling" status="~"/>
 <Wd myvId="мек">ḿek</Wd>
 </PhnU>
-</PhnUCtn>
 </Vrt>
 </Chc>
 <GeoUB xml:lang="myv">
@@ -11250,12 +11119,10 @@ Tat., tschuw. <Et>
 </PhnU>
 </Vrt>
 <Vrt>
-<PhnUCtn>
 <PhnU>
 <FrCm freeType="RelationToPreviousSibling" status="~"/>
 <Wd myvId="мик">ḿik</Wd>
 </PhnU>
-</PhnUCtn>
 </Vrt>
 </Chc>
 <GeoUB xml:lang="myv">
@@ -11612,12 +11479,10 @@ Tat., tschuw. <Et>
 <lg xml:lang="myv"><l>ков мик</l>
 <st>ков мик</st>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <Wd myvId="ков">kov</Wd>
 <Wd myvId="мик">ḿiḱ</Wd>
 </PhnU>
-</PhnUCtn>
 <GeoUB xml:lang="myv">
 <GeoU>Kal</GeoU>
 </GeoUB>
@@ -11666,13 +11531,11 @@ Tat., tschuw. <Et>
 <lg xml:lang="mdf"><l>од бинкста мяк</l>
 <st>од бинкста мяк</st>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <Wd mdfId="од">od</Wd>
 <Wd mdfId="би·нкста">b́i·ŋksta</Wd>
 <Wd mdfId="мяк">ḿäk</Wd>
 </PhnU>
-</PhnUCtn>
 <GeoUB xml:lang="mdf">
 <GeoU>Jurtk</GeoU>
 </GeoUB>
@@ -11694,12 +11557,10 @@ Tat., tschuw. <Et>
 <lg xml:lang="myv"><l>сестэ мик</l>
 <st>сестэ мик</st>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <Wd myvId="сестэ">śeste͔</Wd>
 <Wd myvId="мик">ḿik</Wd>
 </PhnU>
-</PhnUCtn>
 <GeoUB edit="MK" xml:lang="myv">
 <GeoUCtn>
 <FrCm edit="MK" freeType="questionRelation" Modification="MK"/>
@@ -12248,12 +12109,10 @@ Tat., tschuw. <Et>
 <lg xml:lang="myv"><l>сех икеле</l>
 <st>сех икеле</st>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <Wd myvId="сех">śeᵪ</Wd>
 <Wd myvId="ик̀̀эле">iḱ̀̀eĺe</Wd>
 </PhnU>
-</PhnUCtn>
 <sources>
 <book name="Chr" xml:lang="myv"/>
 </sources>
@@ -12262,12 +12121,10 @@ Tat., tschuw. <Et>
 </GeoUB>
 </PhnUBlock>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <Wd myvId="сех">śeᵪ</Wd>
 <Wd myvId="икелей">iḱeĺej</Wd>
 </PhnU>
-</PhnUCtn>
 <GeoUB xml:lang="myv">
 <GeoU>Bug</GeoU>
 <GeoU>Večk</GeoU>
@@ -12340,12 +12197,10 @@ Tat., tschuw. <Et>
 <lg xml:lang="myv"><l>сех пек</l>
 <st>сех пек</st>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <Wd myvId="сих́">śiᵪ́</Wd>
 <Wd myvId="пек">ṕeḱ</Wd>
 </PhnU>
-</PhnUCtn>
 <GeoUB xml:lang="myv">
 <GeoU>Kal</GeoU>
 </GeoUB>
@@ -12704,19 +12559,15 @@ Tat., tschuw. <Et>
 <PhnUBlock>
 <Chc>
 <Vrt>
-<PhnUCtn>
 <PhnU>
 <FrCm freeType="analogy" Modification="manus"/>
 <Wd mdfId="əля">əĺä</Wd>
 </PhnU>
-</PhnUCtn>
 </Vrt>
 <Vrt>
-<PhnUCtn>
 <PhnU src="arch">
 <Wd mdfId="элӓ">elä</Wd>
 </PhnU>
-</PhnUCtn>
 </Vrt>
 </Chc>
 <GeoUB xml:lang="mdf">
@@ -12734,19 +12585,15 @@ Tat., tschuw. <Et>
 <PhnUBlock>
 <Chc>
 <Vrt>
-<PhnUCtn>
 <PhnU>
 <FrCm freeType="analogy" Modification="manus"/>
 <Wd mdfId="əля">əĺä·</Wd>
 </PhnU>
-</PhnUCtn>
 </Vrt>
 <Vrt>
-<PhnUCtn>
 <PhnU src="arch">
 <Wd mdfId="эля">eĺä·</Wd>
 </PhnU>
-</PhnUCtn>
 </Vrt>
 </Chc>
 <GeoUB xml:lang="mdf">
@@ -14015,23 +13862,19 @@ Tat
 <PhnUBlock>
 <Chc>
 <Vrt>
-<PhnUCtn>
 <PhnU>
 <FrCm freeType="analogy" Modification="manus"/>
 <Wd myvId="монь">moń</Wd>
 <Wd myvId="эйсэ">ejse͔</Wd>
 </PhnU>
-</PhnUCtn>
 </Vrt>
 <Vrt>
-<PhnUCtn>
 <PhnU>
 (<i>
 <tk2>
 <Wd myvId="нь">ń</Wd>
 </tk2>
 </i>)</PhnU>
-</PhnUCtn>
 </Vrt>
 </Chc>
 <GeoUB xml:lang="myv">
@@ -14041,20 +13884,16 @@ Tat
 <PhnUBlock>
 <Chc>
 <Vrt>
-<PhnUCtn>
 <PhnU>
 <Wd myvId="монь">moń</Wd>
 <Wd myvId="эсэ">ese͔</Wd>
 </PhnU>
-</PhnUCtn>
 </Vrt>
 <Vrt>
-<PhnUCtn>
 <PhnU>
 <Wd myvId="монь">moń</Wd>
 <Wd myvId="эсынь">esi͔ń</Wd>
 </PhnU>
-</PhnUCtn>
 </Vrt>
 </Chc>
 <GeoUB xml:lang="myv">
@@ -14120,12 +13959,10 @@ Tat
 <lg xml:lang="myv"><l>монь эйстэ</l>
 <st>монь эйстэ</st>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <Wd myvId="монь">moń</Wd>
 <Wd myvId="эйстэ">ejste͔</Wd>
 </PhnU>
-</PhnUCtn>
 <GeoUB xml:lang="myv">
 <GeoU>Mar</GeoU>
 </GeoUB>
@@ -14185,12 +14022,10 @@ Tat
 <lg xml:lang="mdf"><l>монь эстәнга</l>
 <st>монь эстәнга</st>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <Wd mdfId="монь">moń</Wd>
 <Wd mdfId="эстонга">estə̑ŋga</Wd>
 </PhnU>
-</PhnUCtn>
 <GeoUB xml:lang="mdf">
 <GeoU>Sučk</GeoU>
 </GeoUB>
@@ -14229,20 +14064,16 @@ Tat
 <PhnUBlock>
 <Chc>
 <Vrt>
-<PhnUCtn>
 <PhnU>
 <Wd myvId="монь">moń</Wd>
 <Wd myvId="эстэде">este͔d́e</Wd>
 </PhnU>
-</PhnUCtn>
 </Vrt>
 <Vrt>
-<PhnUCtn>
 <PhnU>
 <Wd myvId="монь">moń</Wd>
 <Wd myvId="эстэдинь">este͔d́iń</Wd>
 </PhnU>
-</PhnUCtn>
 </Vrt>
 </Chc>
 <GeoUB xml:lang="myv">
@@ -14250,23 +14081,19 @@ Tat
 </GeoUB>
 </PhnUBlock>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <Wd myvId="монь">moń</Wd>
 <Wd myvId="эстэдень">este͔d́eń</Wd>
 </PhnU>
-</PhnUCtn>
 <GeoUB xml:lang="myv">
 <GeoU>Atr</GeoU>
 </GeoUB>
 </PhnUBlock>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <Wd myvId="монь">moń</Wd>
 <Wd myvId="э·стэде">e·ste͔d́e</Wd>
 </PhnU>
-</PhnUCtn>
 <GeoUB edit="MK" xml:lang="myv">
 <GeoUCtn>
 <GeoU edit="MK">SŠant</GeoU>
@@ -14296,12 +14123,10 @@ Tat
 <lg xml:lang="mdf"><l>мойнь иэздәдн</l>
 <st>мойнь иэздәдн</st>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <Wd mdfId="мойнь">mojń</Wd>
 <Wd mdfId="иэздодн">ie͔zdə̑dn</Wd>
 </PhnU>
-</PhnUCtn>
 <GeoUB xml:lang="mdf">
 <GeoU>Pimb</GeoU>
 </GeoUB>
@@ -14532,14 +14357,12 @@ Tat
 </PhnU>
 </Vrt>
 <Vrt>
-<PhnUCtn>
 <PhnU>
 (<i>
 <tk2>
 <Wd myvId="нь">ń</Wd>
 </tk2>
 </i>)</PhnU>
-</PhnUCtn>
 </Vrt>
 <Vrt><PhnU>
 <Wd myvId="мондень">mońd́eń</Wd>
@@ -14566,14 +14389,12 @@ Tat
 </PhnU>
 </Vrt>
 <Vrt>
-<PhnUCtn>
 <PhnU>
 (<i>
 <tk2>
 <Wd myvId="нь">ń</Wd>
 </tk2>
 </i>)</PhnU>
-</PhnUCtn>
 </Vrt>
 </Chc>
 <GeoUB xml:lang="myv">
@@ -14628,14 +14449,12 @@ Tat
 <Wd mdfId="модинь">mod́iń</Wd>
 </PhnU>
 </Vrt>
-<Vrt><PhnUCtn>
-<PhnU>
+<Vrt><PhnU>
 (<i>
 <tk2>
 <Wd mdfId="ɛ">ɛ</Wd>
 </tk2>
 </i>)</PhnU>
-</PhnUCtn>
 </Vrt>
 </Chc>
 <sources>
@@ -14972,7 +14791,6 @@ Tat
 <lg xml:lang="mdf"><l>модедон</l>
 <st>модедон</st>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <Chc>
 <Vrt>
@@ -14982,7 +14800,6 @@ Tat
 </Vrt>
 </Chc>
 </PhnU>
-</PhnUCtn>
 <sources>
 <book name="Chr" xml:lang="mdf"/>
 </sources>
@@ -15737,12 +15554,10 @@ Tat
 <lg xml:lang="myv"><l>сама собой</l>
 <st>сама собой</st>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <Wd myvId="сама">sama</Wd>
 <Wd myvId="собой">soboj</Wd>
 </PhnU>
-</PhnUCtn>
 <GeoUB xml:lang="myv">
 <GeoU>Mar</GeoU>
 </GeoUB>
@@ -15953,12 +15768,10 @@ Tat
 <lg xml:lang="myv"><l>самай рядовой</l>
 <st>самай рядовой</st>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <Wd myvId="самай">samaj</Wd>
 <Wd myvId="рядовой">ŕadovoj</Wd>
 </PhnU>
-</PhnUCtn>
 <GeoUB xml:lang="myv">
 <GeoU>Mar</GeoU>
 </GeoUB>
@@ -16893,24 +16706,20 @@ Tat
 <lg xml:lang="myv"><l>сондедензэ меьйле</l>
 <st>сондедензэ меьйле</st>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <Wd myvId="сондьᴉдᴉ͐нза">sońd́ᴉdᴉ͐nza</Wd>
 <Wd myvId="мяля">ḿäĺä</Wd>
 </PhnU>
-</PhnUCtn>
 <GeoUB xml:lang="myv">
 <GeoU>Kažl</GeoU>
 </GeoUB>
 </PhnUBlock>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <Wd myvId="сондеденᵈзӑ">sońd́ed́enᵈză</Wd>
 <InflCtn>(Abl.) <Infl>
 <Wd myvId="мяйля̆">ḿäjĺä̆</Wd>
 </Infl></InflCtn></PhnU>
-</PhnUCtn>
 <GeoUB xml:lang="myv">
 <GeoU>Ork</GeoU>
 </GeoUB>
@@ -17233,12 +17042,10 @@ Tat
 <lg xml:lang="myv"><l>сонсь арды</l>
 <st>сонсь арды</st>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <Wd myvId="соньць">sońć</Wd>
 <Wd myvId="арды">ardi͔</Wd>
 </PhnU>
-</PhnUCtn>
 <GeoUB xml:lang="myv">
 <GeoU>Mar</GeoU>
 </GeoUB>
@@ -18876,12 +18683,10 @@ Tat
 <lg xml:lang="myv"><l pos="V">довольна сатомс</l>
 <st>довольна сатот</st>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <Wd myvId="довольна">dovoĺna</Wd>
 <Wd myvId="сатомс">satoms</Wd>
 </PhnU>
-</PhnUCtn>
 <GeoUB edit="MK" xml:lang="myv">
 <GeoUCtn>
 <FrCm edit="MK" freeType="questionRelation" Modification="MK"/>
@@ -19171,12 +18976,10 @@ Tat
 <lg xml:lang="myv"><l>эрьва ки</l>
 <st>эрьва ки</st>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <Wd myvId="эрьва">eŕva</Wd>
 <Wd myvId="ки">ḱi</Wd>
 </PhnU>
-</PhnUCtn>
 <GeoUB xml:lang="myv">
 <GeoU/>
 </GeoUB>
@@ -19201,12 +19004,10 @@ Tat
 <lg xml:lang="myv"><l>эрьва кода</l>
 <st>эрьва кода</st>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <Wd myvId="эрьва">eŕva</Wd>
 <Wd myvId="кода">koda</Wd>
 </PhnU>
-</PhnUCtn>
 <GeoUB xml:lang="myv">
 <GeoU>Mar</GeoU>
 </GeoUB>
@@ -19231,12 +19032,10 @@ Tat
 <lg xml:lang="myv"><l>эрьва кодамо</l>
 <st>эрьва кодамо</st>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <Wd myvId="эрьва">eŕva</Wd>
 <Wd myvId="кодамо">kodamo</Wd>
 </PhnU>
-</PhnUCtn>
 <sources>
 <book name="Chr" xml:lang="myv"/>
 </sources>
@@ -19286,13 +19085,11 @@ Tat
 <lg xml:lang="myv"><l>эрьва кодамо прича</l>
 <st>эрьва кодамо прича</st>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <Wd myvId="эрьва">eŕva</Wd>
 <Wd myvId="кодамо">kodamo</Wd>
 <Wd myvId="прича">pŕiča</Wd>
 </PhnU>
-</PhnUCtn>
 <GeoUB xml:lang="myv">
 <GeoU>NSurk</GeoU>
 </GeoUB>
@@ -19314,12 +19111,10 @@ Tat
 <lg xml:lang="myv"><l>эрьва коли</l>
 <st>эрьва коли</st>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <Wd myvId="эрьва">eŕva</Wd>
 <Wd myvId="коли">koĺi</Wd>
 </PhnU>
-</PhnUCtn>
 <GeoUB xml:lang="myv">
 <GeoU>Večk</GeoU>
 </GeoUB>
@@ -19343,12 +19138,10 @@ Tat
 <lg xml:lang="myv"><l>эрьва кона</l>
 <st>эрьва кона</st>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <Wd myvId="эрьва">eŕva</Wd>
 <Wd myvId="кона">kona</Wd>
 </PhnU>
-</PhnUCtn>
 <GeoUB xml:lang="myv">
 <GeoU>Mar</GeoU>
 </GeoUB>
@@ -19373,12 +19166,10 @@ Tat
 <lg xml:lang="myv"><l>эрьва коната</l>
 <st>эрьва коната</st>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <Wd myvId="эрьва">eŕva</Wd>
 <Wd myvId="коната">konata</Wd>
 </PhnU>
-</PhnUCtn>
 <GeoUB xml:lang="myv">
 <GeoU/>
 </GeoUB>
@@ -19395,12 +19186,10 @@ Tat
 <lg xml:lang="myv"><l>эрьва ков</l>
 <st>эрьва ков</st>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <Wd myvId="эрьва">eŕva</Wd>
 <Wd myvId="ков">kov</Wd>
 </PhnU>
-</PhnUCtn>
 <GeoUB xml:lang="myv">
 <GeoU/>
 </GeoUB>
@@ -19425,12 +19214,10 @@ Tat
 <lg xml:lang="myv"><l>эрьва кува</l>
 <st>эрьва кува</st>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <Wd myvId="эрьва">eŕva</Wd>
 <Wd myvId="кува">kuva</Wd>
 </PhnU>
-</PhnUCtn>
 <GeoUB xml:lang="myv">
 <GeoU>Mar</GeoU>
 <GeoU>Atr</GeoU>
@@ -19478,12 +19265,10 @@ Tat
 <lg xml:lang="myv"><l>эрьва ме</l>
 <st>эрьва ме</st>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <Wd myvId="эрьва">eŕva</Wd>
 <Wd myvId="ме">ḿe</Wd>
 </PhnU>
-</PhnUCtn>
 <GeoUB xml:lang="myv">
 <GeoU>Mar</GeoU>
 <GeoU>Večk</GeoU>
@@ -19524,13 +19309,11 @@ Tat
 <lg xml:lang="myv"><l>эрьва мень паро</l>
 <st>эрьва мень паро</st>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <Wd myvId="эрьва">eŕva</Wd>
 <Wd myvId="мень">ḿeń</Wd>
 <Wd myvId="паро">paro</Wd>
 </PhnU>
-</PhnUCtn>
 <GeoUB xml:lang="myv">
 <GeoU/>
 </GeoUB>
@@ -19554,24 +19337,20 @@ Tat
 <lg xml:lang="myv"><l>эрьва-мезе</l>
 <st>эрьва-мезе</st>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <Wd myvId="эрьва">eŕva</Wd>
 <Hph/>
 <Wd myvId="мезе">ḿeźe</Wd>
 </PhnU>
-</PhnUCtn>
 <sources>
 <book name="Chr" xml:lang="myv"/>
 </sources>
 </PhnUBlock>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <Wd myvId="эрьва">eŕva</Wd>
 <Wd myvId="мезе">ḿeźe</Wd>
 </PhnU>
-</PhnUCtn>
 <GeoUB xml:lang="myv">
 <GeoU>Mar</GeoU>
 </GeoUB>
@@ -19586,12 +19365,10 @@ Tat
 </InflB>
 </PhnUBlock>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <Wd myvId="ӓрьва">äŕva</Wd>
 <Wd myvId="мязя">ḿäźä</Wd>
 </PhnU>
-</PhnUCtn>
 <GeoUB xml:lang="myv">
 <GeoU>Ba</GeoU>
 </GeoUB>
@@ -19641,12 +19418,10 @@ Tat
 <lg xml:lang="myv"><l>эрьва мезень</l>
 <st>эрьва мезень</st>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <Wd myvId="эрьва">eŕva</Wd>
 <Wd myvId="мезень">ḿeźeń</Wd>
 </PhnU>
-</PhnUCtn>
 <sources>
 <book name="Chr" xml:lang="myv"/>
 </sources>
@@ -19691,12 +19466,10 @@ Tat
 <lg xml:lang="myv"><l>эрьва зярдо</l>
 <st>эрьва зярдо</st>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <Wd myvId="эрьва">eŕva</Wd>
 <Wd myvId="зярдо">źardo</Wd>
 </PhnU>
-</PhnUCtn>
 <GeoUB xml:lang="myv">
 <GeoU>Mar</GeoU>
 </GeoUB>
@@ -19727,12 +19500,10 @@ Tat
 <lg xml:lang="mdf"><l pos="N">норт</l>
 <st>норт</st>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <FrCm freeType="questionRelation" Modification="manus"/>
 <Wd mdfId="норт">nort</Wd>
 </PhnU>
-</PhnUCtn>
 </PhnUBlock>
 </lg>
 <SenseGroup>
@@ -19749,13 +19520,11 @@ Tat
 <lg xml:lang="mdf"><l pos="V">норт молемс</l>
 <st>норт молемс</st>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <FrCm freeType="analogy" Modification="manus"/>
 <Wd mdfId="норт">nort</Wd>
 <Wd mdfId="молемс">moĺəms</Wd>
 </PhnU>
-</PhnUCtn>
 <GeoUB xml:lang="mdf">
 <GeoU>Pš</GeoU>
 </GeoUB>
@@ -19820,23 +19589,19 @@ Tat
 <lg xml:lang="mdf"><l>норшт абед</l>
 <st>норшт абед</st>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <Wd mdfId="норшт">noršt</Wd>
 <Wd mdfId="абед">ab́ed</Wd>
 </PhnU>
-</PhnUCtn>
 <GeoUB xml:lang="mdf">
 <GeoU>P</GeoU>
 </GeoUB>
 </PhnUBlock>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <Wd mdfId="норхч́к">norʿč́k</Wd>
 <Wd mdfId="абед">ab́ed</Wd>
 </PhnU>
-</PhnUCtn>
 <GeoUB xml:lang="mdf">
 <GeoU>Pš</GeoU>
 </GeoUB>
@@ -19887,12 +19652,10 @@ Tat
 <lg xml:lang="mdf"><l>н абец</l>
 <st>н абец</st>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <Wd mdfId="н.">n.</Wd>
 <Wd mdfId="абе·ц">ab́e·c</Wd>
 </PhnU>
-</PhnUCtn>
 <GeoUB xml:lang="mdf">
 <GeoU>P</GeoU>
 <GeoU>Pš</GeoU>
@@ -19917,12 +19680,10 @@ Tat
 <lg xml:lang="mdf"><l>н илятс</l>
 <st>н илятс</st>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <Wd mdfId="н.">n.</Wd>
 <Wd mdfId="илятьс">iĺät́s</Wd>
 </PhnU>
-</PhnUCtn>
 <GeoUB xml:lang="mdf">
 <GeoU>P</GeoU>
 <GeoU>Pš</GeoU>
@@ -20271,12 +20032,10 @@ Tat
 <lg xml:lang="mdf"><l>тяри шяй</l>
 <st>тяри шяй</st>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <Wd mdfId="тяри">t́äŕi</Wd>
 <Wd mdfId="шӓй">šäj</Wd>
 </PhnU>
-</PhnUCtn>
 <GeoUB xml:lang="mdf">
 <GeoU>P</GeoU>
 <GeoU>Kr</GeoU>
@@ -20530,7 +20289,6 @@ Tat
 <lg xml:lang="mdf"><l pos="V">тярьняфтәмс</l>
 <st>тярьняфтәмс</st>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <FrCm freeType="analogy" Modification="manus"/>
 <FrCm freeType="questionRelation" Modification="manus"/>
@@ -20547,7 +20305,6 @@ Tat
 </Infl>
 </InflCtn>
 </InflB></PhnU>
-</PhnUCtn>
 <GeoUB xml:lang="mdf">
 <GeoU>P</GeoU>
 </GeoUB>
@@ -20766,7 +20523,6 @@ Tat
 <lg xml:lang="mdf"><l pos="V">тярьфнекшнемс</l>
 <st>тярьфнекшнемс</st>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <FrCm freeType="analogy" Modification="manus"/>
 <Wd mdfId="тярьфнекшнемс">t́äŕfńəkšńəms</Wd>
@@ -20777,7 +20533,6 @@ Tat
 </Infl>
 </InflCtn>
 </InflB></PhnU>
-</PhnUCtn>
 <GeoUB xml:lang="mdf">
 <GeoU>P</GeoU>
 </GeoUB>
@@ -20856,12 +20611,10 @@ Tat
 </GeoUB>
 </PhnUBlock>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <FrCm freeType="questionRelation" Modification="MK"/>
 <Wd mdfId="шӓямс">šäjäms</Wd>
 </PhnU>
-</PhnUCtn>
 <GeoUB xml:lang="mdf">
 <GeoU>Čemb</GeoU>
 </GeoUB>
@@ -21000,12 +20753,10 @@ Tat
 <lg xml:lang="mdf"><l pos="V">шяякшнемс</l>
 <st>шяякшнемс</st>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <FrCm freeType="analogy" Modification="manus"/>
 <Wd mdfId="шӓякшнемс">šäjäkšńəms</Wd>
 </PhnU>
-</PhnUCtn>
 <GeoUB xml:lang="mdf">
 <GeoU>Šad</GeoU>
 </GeoUB>
@@ -21385,12 +21136,10 @@ Tat
 <lg xml:lang="mdf"><l>пельгень шятяма</l>
 <st>пельгень шятяма</st>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <Wd mdfId="пельгень">ṕeĺǵeń</Wd>
 <Wd mdfId="шӓ·тяма">šä·t́ama</Wd>
 </PhnU>
-</PhnUCtn>
 <GeoUB xml:lang="mdf">
 <GeoU>P</GeoU>
 </GeoUB>
@@ -21404,24 +21153,20 @@ Tat
 </InflB>
 </PhnUBlock>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <Wd mdfId="пильгəнь">ṕiĺgəń</Wd>
 <Wd mdfId="шӓтяма">šät́ama</Wd>
 </PhnU>
-</PhnUCtn>
 <GeoUB xml:lang="mdf">
 <GeoU>Kr</GeoU>
 <GeoU>Sel</GeoU>
 </GeoUB>
 </PhnUBlock>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <Wd mdfId="пильгонь">ṕiĺgə̑ń</Wd>
 <Wd mdfId="шӓтяма">šät́ama</Wd>
 </PhnU>
-</PhnUCtn>
 <GeoUB xml:lang="mdf">
 <GeoU>Temn</GeoU>
 </GeoUB>
@@ -21499,7 +21244,6 @@ Tat
 <lg xml:lang="mdf"><l pos="V">шятнемс</l>
 <st>шятнемс</st>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <FrCm freeType="analogy" Modification="manus"/>
 <Wd mdfId="шӓтнемс">šät́ńəms</Wd>
@@ -21515,7 +21259,6 @@ Tat
 </Infl>
 </InflCtn>
 </InflB></PhnU>
-</PhnUCtn>
 <GeoUB xml:lang="mdf">
 <GeoU>P</GeoU>
 </GeoUB>
@@ -21543,7 +21286,6 @@ Tat
 <lg xml:lang="mdf"><l pos="V">шятнекшнемс</l>
 <st>шятнекшнемс</st>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <FrCm freeType="analogy" Modification="manus"/>
 <Wd mdfId="шӓтнекшнемс">šät́ńəkšńəms</Wd>
@@ -21559,13 +21301,11 @@ Tat
 </Infl>
 </InflCtn>
 </InflB></PhnU>
-</PhnUCtn>
 <GeoUB xml:lang="mdf">
 <GeoU>P</GeoU>
 </GeoUB>
 </PhnUBlock>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <FrCm freeType="analogy" Modification="manus"/>
 <Wd mdfId="шӓтнекшнемс">šät́ńəkšńəms</Wd>
@@ -21581,7 +21321,6 @@ Tat
 </Infl>
 </InflCtn>
 </InflB></PhnU>
-</PhnUCtn>
 <GeoUB xml:lang="mdf">
 <GeoU>Sel</GeoU>
 </GeoUB>
@@ -21602,13 +21341,11 @@ Tat
 <lg xml:lang="mdf"><l pos="V">шятнювәмс</l>
 <st>шятнювәмс</st>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <FrCm freeType="analogy" Modification="manus"/>
 <FrCm freeType="questionRelation" Modification="manus"/>
 <Wd mdfId="шӓтнювомс">šät́ńuvə̑ms</Wd>
 </PhnU>
-</PhnUCtn>
 <GeoUB xml:lang="mdf">
 <GeoU>Kr</GeoU>
 </GeoUB>
@@ -21653,7 +21390,6 @@ Tat
 <lg xml:lang="mdf"><l pos="V">шятнефтемс</l>
 <st>шятнефтемс</st>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <FrCm freeType="analogy" Modification="manus"/>
 <Wd mdfId="шӓтнефтемс">šät́ńəft́əms</Wd>
@@ -21664,7 +21400,6 @@ Tat
 </Infl>
 </InflCtn>
 </InflB></PhnU>
-</PhnUCtn>
 <GeoUB xml:lang="mdf">
 <GeoU>P</GeoU>
 </GeoUB>
@@ -21694,7 +21429,6 @@ Tat
 <lg xml:lang="mdf"><l pos="V">шятнефнемс</l>
 <st>шятнефнемс</st>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <FrCm freeType="analogy" Modification="manus"/>
 <Wd mdfId="шӓтнефнемс">šät́ńəfńəms</Wd>
@@ -21705,7 +21439,6 @@ Tat
 </Infl>
 </InflCtn>
 </InflB></PhnU>
-</PhnUCtn>
 <GeoUB xml:lang="mdf">
 <GeoU>P</GeoU>
 </GeoUB>
@@ -21725,7 +21458,6 @@ Tat
 <lg xml:lang="mdf"><l pos="V">шятяфтәмс</l>
 <st>шятяфтәмс</st>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <Wd mdfId="шӓтяфтомс">šät́aftə̑ms</Wd>
 <InflB rsc="arch">
@@ -21740,7 +21472,6 @@ Tat
 </Infl>
 </InflCtn>
 </InflB></PhnU>
-</PhnUCtn>
 <GeoUB xml:lang="mdf">
 <GeoU>P</GeoU>
 </GeoUB>
@@ -21815,7 +21546,6 @@ Tat
 <lg xml:lang="mdf"><l pos="V">шятяфнемс</l>
 <st>шятяфнемс</st>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <FrCm freeType="analogy" Modification="manus"/>
 <Wd mdfId="шӓтяфнемс">šät́afńəms</Wd>
@@ -21831,7 +21561,6 @@ Tat
 </Infl>
 </InflCtn>
 </InflB></PhnU>
-</PhnUCtn>
 <GeoUB xml:lang="mdf">
 <GeoU>P</GeoU>
 </GeoUB>
@@ -21859,7 +21588,6 @@ Tat
 <lg xml:lang="mdf"><l pos="V">шятяфнекшнемс</l>
 <st>шятяфнекшнемс</st>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <FrCm freeType="analogy" Modification="manus"/>
 <Wd mdfId="шӓтяфнекшнемс">šät́afńəkšńəms</Wd>
@@ -21875,7 +21603,6 @@ Tat
 </Infl>
 </InflCtn>
 </InflB></PhnU>
-</PhnUCtn>
 <GeoUB xml:lang="mdf">
 <GeoU>P</GeoU>
 </GeoUB>
@@ -21963,11 +21690,9 @@ Tat
 </PhnU>
 </Vrt>
 <Vrt>
-<PhnUCtn>
 <PhnU src="prnthManus">
 <Wd myvId="иляка">iĺaka</Wd>
 </PhnU>
-</PhnUCtn>
 </Vrt>
 </Chc>
 <GeoUB xml:lang="myv">
@@ -22195,11 +21920,9 @@ ChrE
 </PhnU>
 </Vrt>
 <Vrt>
-<PhnUCtn>
 <PhnU rsc="POrig">
 <Wd myvId="илимизь">iĺiḿiź</Wd>
 </PhnU>
-</PhnUCtn>
 </Vrt>
 </Chc>
 <sources>
@@ -22688,12 +22411,10 @@ ChrE
 <E3Head><POS/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="V">паломс</l><st>паломс</st>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <Hph/>
 <Wd CyrId="паломс">palums</Wd>
 </PhnU>
-</PhnUCtn>
 </PhnUBlock>
 </lg>
 <SenseGroup>
@@ -22708,13 +22429,11 @@ ChrE
 <lg xml:lang="myv"><l pos="V">колемс-паломс</l>
 <st>колемс-паломс</st>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <Wd myvId="колемс">koĺims</Wd>
 <Hph/>
 <Wd myvId="паломс">palums</Wd>
 </PhnU>
-</PhnUCtn>
 <GeoUB xml:lang="myv">
 <GeoU>Kad</GeoU>
 </GeoUB>
@@ -23078,12 +22797,10 @@ ChrE
 <lg xml:lang="mdf"><l pos="N">прястальнай кудня</l>
 <st>прястальнай кудня</st>
 <PhnUBlock>
-<PhnUCtn>
 <PhnU>
 <Wd mdfId="прястальнай">pŕästaĺnaj</Wd>
 <Wd mdfId="кудня">kudńä</Wd>
 </PhnU>
-</PhnUCtn>
 <GeoUB xml:lang="mdf">
 <GeoU>Temn</GeoU>
 </GeoUB>
