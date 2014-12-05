@@ -3,6 +3,113 @@
   <NE idNo="1">
 <DictionaryEntry>
 <HWB>
+<E3Head><POS pos="N"/><deriv isa="prt-I"/></E3Head>
+<lg xml:lang="myv"><l pos="Po">ради</l>
+<st>ради</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="ради">rad́i</Wd>
+</PhnU>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
+<SenseGroup>
+<Sense vl="notGiven"/>
+</SenseGroup>
+<xg>
+:
+</xg>
+</HWB>
+<MWUB>
+<E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
+<lg xml:lang="myv"><l pos="Interj">христа ради</l>
+<st>христа ради</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="христа">ᵪŕista</Wd>
+<Wd myvId="ради">rad́i</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Mar</GeoU>
+</GeoUB>
+</PhnUBlock>
+<PhnUBlock>
+<Chc>
+<Vrt>
+<PhnU>
+<Wd myvId="криста">ḱŕista</Wd>
+<Wd myvId="ради">rad́i</Wd>
+</PhnU>
+</Vrt>
+<Vrt>
+<PhnU>
+<Wd myvId="ради">rad́i</Wd>
+<Wd myvId="криста">ḱŕista</Wd>
+</PhnU>
+</Vrt>
+</Chc>
+<GeoUB xml:lang="myv">
+<GeoU>VVr</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
+<SenseGroup>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">Христа ради!</t>
+</tg>
+<tg xml:lang="deu">
+<t>um Christi willen!</t>
+</tg>
+</mg>
+</SenseGroup>
+<xg>
+<x>
+<Wd myvId="прости">prośt́i</Wd>
+<Wd myvId="монь">moń</Wd>
+<Wd edit="MK" myvId="христа">ᵪŕista</Wd>
+<Wd myvId="ради">rad́i</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Mar</GeoU>
+</GeoUB>
+<sources>
+<book name="2" pg="14"/>
+</sources>
+<xt xml:lang="deu">Verzeihe [mir] um Christi willen!</xt>
+</xg>
+<xg>
+<x>
+<Wd myvId="криста">ḱŕista</Wd>
+<Wd myvId="ради">rad́i</Wd>
+<tk3 isa="comma"/>
+<Wd myvId="алинень">aĺińeń</Wd>
+<tk3 isa="comma"/>
+<Wd myvId="ради">rad́i</Wd>
+<Wd myvId="криста">ḱŕista</Wd>
+<tk3 isa="comma"/>
+<Wd myvId="васькамнэнь">vaśkamne͔ń</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>VVr</GeoU>
+</GeoUB>
+<sources>
+<book name="II" pg="379"/>
+</sources>
+<xt xml:lang="deu">In Christi Namen, meine Brüder, in Christi Namen, meine Betreuer!</xt>
+</xg>
+</MWUB>
+<Etg>
+<EtSrcL xml:lang="rus"/>
+<Et>ради</Et>
+</Etg>
+</DictionaryEntry></NE>
+  <NE idNo="1">
+<DictionaryEntry>
+<HWB>
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="Po">XX</l><st/>
 </lg>

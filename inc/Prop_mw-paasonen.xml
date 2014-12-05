@@ -3,6 +3,2550 @@
   <NE idNo="1">
 <DictionaryEntry>
 <HWB>
+<E3Head><POS freeType="morphological" pos="NOTGIVEN"/></E3Head>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+</lg>
+<lg xml:lang="mdf"><l pos="Prop">ала</l>
+<st>ала</st>
+<PhnUBlock>
+<PhnU>
+<Chc>
+<Vrt>
+<Wd mdfId="ала">ala</Wd></Vrt>
+<Vrt questionRelation="manus">
+<Wd mdfId="алай">alaj</Wd>
+</Vrt>
+</Chc>
+</PhnU>
+<GeoUB xml:lang="mdf">
+<GeoU>P</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<SenseGroup>
+<mg>
+<tg xml:lang="rus">
+<td edit="MK">старое мокш. личное имя</td>
+</tg>
+<tg xml:lang="deu">
+<td>ein alter moksch. Personenname</td>
+</tg>
+</mg>
+</SenseGroup>
+<xg>
+<x>
+<Chc>
+<Vrt>
+<Wd mdfId="ала">ala</Wd>
+</Vrt>
+<Vrt>
+<FrCm freeType="questionRelation" Modification="manus"/>
+<Wd mdfId="алай">alaj</Wd>
+</Vrt>
+</Chc>
+<Wd mdfId="патяй">pat́äj</Wd>
+</x>
+<GeoUB xml:lang="mdf">
+<GeoU>P</GeoU>
+</GeoUB>
+<xt xml:lang="deu">[Älterer Bruder Ala(?j)].</xt>
+</xg>
+</HWB>
+</DictionaryEntry></NE>
+  <NE idNo="1">
+<DictionaryEntry>
+<HWB>
+<E3Head><POS/><deriv isa="vocat-KAJ"/></E3Head>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"/><st/>
+</lg>
+<lg xml:lang="mdf"><l pos="Prop">пелькай</l>
+<st>пелькай</st>
+<PhnUBlock>
+<PhnU>
+<Wd mdfId="пелькай">ṕeĺkaj</Wd>
+</PhnU>
+<GeoUB xml:lang="mdf">
+<GeoU>P</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<SenseGroup>
+<mg>
+<tg xml:lang="rus">
+<td edit="MK">старинное мокш. личное имя</td>
+</tg>
+<tg xml:lang="deu">
+<td>ein alter moksch. Personenname</td>
+</tg>
+</mg>
+</SenseGroup>
+</HWB>
+</DictionaryEntry></NE>
+  <NE idNo="1">
+<DictionaryEntry>
+<HWB>
+<E3Head><POS freeType="morphological" pos=""/></E3Head>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+</lg>
+<lg xml:lang="mdf"><l>лепа</l>
+<st>лепа</st>
+<PhnUBlock>
+<PhnU>
+<Wd mdfId="лепа">ĺepa·</Wd>
+</PhnU>
+<GeoUB edit="MK" xml:lang="mdf">
+<GeoUCtn>
+<GeoU edit="MK">Mam</GeoU>
+</GeoUCtn>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<SenseGroup>
+<mg>
+<tg xml:lang="rus">
+<td edit="MK">мужское имя</td>
+</tg>
+<tg xml:lang="deu">
+<td>ein Männername</td>
+</tg>
+</mg>
+</SenseGroup>
+</HWB>
+</DictionaryEntry>
+<DictionaryEntry>
+<HWB>
+<E3Head><POS freeType="morphological" pos=""/></E3Head>
+<lg xml:lang="myv"><l>лепай</l>
+<st>лепай</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="лепай">ĺepaj</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Petr</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
+<DerivationBlock>[urspr. Anr. zu <i><tk2>
+<Wd CyrId="лепа">ĺepa</Wd></tk2></i>]</DerivationBlock>
+<SenseGroup>
+<mg>
+<tg xml:lang="rus">
+<td edit="MK">мужское имя</td>
+</tg>
+<tg xml:lang="deu">
+<td>ein Männername</td>
+</tg>
+</mg>
+</SenseGroup>
+<xg>
+<x>
+<Wd myvId="кандыник">kandi͔ńiḱ</Wd>
+<Wd myvId="лепай">ĺepaj</Wd>
+<Hph edit="MK"/>
+<Wd myvId="атянинь">at́ańiń</Wd>
+<Wd myvId="чумбра">čumbra</Wd>
+<Wd myvId="кши">kši</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Petr</GeoU>
+</GeoUB>
+<sources>
+<book name="VIII" pg="138"/>
+</sources>
+<xt xml:lang="deu">Wir haben dem Lepaj-Alten ein ganzes Brot ‒‒‒ mitgebracht.</xt>
+</xg>
+</HWB>
+</DictionaryEntry>
+<DictionaryEntry>
+<HWB>
+<E3Head><POS/><deriv isa="dim-NYA"/></E3Head>
+<lg edit="JMR" xml:lang="myv"><l pos="N"/><st/>
+</lg>
+<lg xml:lang="mdf"><l pos="N">лепаня</l>
+<st>лепаня</st>
+<PhnUBlock>
+<PhnU>
+<Wd mdfId="лепаня">ĺepa·ńä</Wd>
+</PhnU>
+<GeoUB edit="MK" xml:lang="mdf">
+<GeoUCtn>
+<GeoU edit="MK">Mam</GeoU>
+</GeoUCtn>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="лепа">ĺepa·</Wd></DrvSt></DrvStCtn></DrvG>
+<SenseGroup>
+<Sense vl="notGiven"/>
+</SenseGroup>
+<xg>
+<x>
+<Wd edit="MK" CyrId="лепа">ĺepa·</Wd>
+<tk3 edit="MK" isa="comma"/>
+<tk3 edit="MK" isa="ws"/>
+<Wd edit="MK" CyrId="лепа">ĺepa·</Wd>
+<tk3 edit="MK" isa="ws"/>
+<Wd edit="MK" CyrId="лепанязя">ĺepa·ńäźä</Wd>
+</x>
+<GeoNeed/>
+<sources>
+<book name="IV" pg="428"/>
+</sources>
+<xt xml:lang="deu">Lepa, Lepa, mein Lepa!</xt>
+</xg>
+</HWB>
+</DictionaryEntry></NE>
+  <NE idNo="1">
+<DictionaryEntry>
+<HWB>
+<E3Head><POS freeType="morphological" pos=""/></E3Head>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+</lg>
+<lg xml:lang="mdf"><l pos="Prop">Марфа</l>
+<st>Марфа</st>
+<PhnUBlock>
+<PhnU>
+<Wd mdfId="марфа">marfa</Wd>
+</PhnU>
+<GeoUB xml:lang="mdf">
+<GeoU>Pš</GeoU>
+<GeoU>Mam</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<SenseGroup>
+<mg>
+<tg xml:lang="rus">
+<td edit="MK">женское имя</td>
+<t edit="MK" type="approx">Марфа</t>
+</tg>
+<tg xml:lang="deu">
+<td>ein Frauenname</td>
+<t type="approx">Marfa</t>
+<t type="approx">Martha</t>
+</tg>
+</mg>
+</SenseGroup>
+<xg>
+<x>
+<Wd mdfId="марфа">marfa</Wd>
+<Wd mdfId="стерня">śt́əŕńä</Wd>
+<Wd mdfId="рахазьɯсь">raᵪaźɯś</Wd>
+</x>
+<GeoUB xml:lang="mdf">
+<GeoU>Pš</GeoU>
+</GeoUB>
+<sources>
+<book name="IV" pg="421"/>
+</sources>
+<xt xml:lang="deu">Das Mädchen Marfa fing an zu lachen.</xt>
+</xg>
+</HWB>
+<Etg>
+<EtSrcL edit="MK" xml:lang="rus"/>
+<EtCtn>
+<Et edit="MK">Марфа</Et>
+</EtCtn>
+</Etg>
+</DictionaryEntry>
+<DictionaryEntry>
+<HWB>
+<E3Head><POS/><deriv isa="dim-NYA"/></E3Head>
+<lg edit="JMR" xml:lang="myv"><l pos="N"/><st/>
+</lg>
+<lg xml:lang="mdf"><l pos="N">марфаня</l>
+<st>марфаня</st>
+<PhnUBlock>
+<PhnU>
+<Wd mdfId="марфаня">marfańä</Wd>
+</PhnU>
+<GeoUB xml:lang="mdf">
+<GeoU>Mam</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="марфа">marfa</Wd></DrvSt></DrvStCtn></DrvG>
+<SenseGroup>
+<Sense vl="notGiven"/>
+</SenseGroup>
+<xg>
+<x>
+<Wd mdfId="вай">vaj</Wd>
+<Wd mdfId="сукась">suka·ś</Wd>
+<tk3 isa="comma"/>
+<Wd mdfId="сукась">suka·ś</Wd>
+<Wd mdfId="курайть">kurajt́</Wd>
+<Wd mdfId="марфаняц">marfańac</Wd>
+</x>
+<GeoUB xml:lang="mdf">
+<GeoU/>
+</GeoUB>
+<sources>
+<book name="IV" pg="79"/>
+</sources>
+<xt xml:lang="deu">Ach, die Hündin, die Hündin, Kurajs Marfa!</xt>
+</xg>
+<xg>
+<x>
+<Wd mdfId="рамаф">ramaf</Wd>
+<Wd mdfId="марфанятс">marfańats</Wd>
+<Wd mdfId="аннань">annań</Wd>
+<Wd mdfId="кӓтсонза">kätsə̑nza</Wd>
+</x>
+<GeoUB xml:lang="mdf">
+<GeoU/>
+</GeoUB>
+<sources>
+<book name="IV" pg="282"/>
+</sources>
+<xt xml:lang="deu">An ihrem [Annas] Arme hängt die gekaufte Marfa.</xt>
+</xg>
+</HWB>
+</DictionaryEntry>
+<DictionaryEntry>
+<HWB>
+<E3Head><POS freeType="morphological" pos=""/></E3Head>
+<lg edit="JMR" xml:lang="myv"><l/><st/>
+</lg>
+<lg xml:lang="mdf"><l>марфутка</l>
+<st>марфутка</st>
+<PhnUBlock>
+<PhnU>
+<Wd mdfId="марфу·тка">marfu·tka</Wd>
+</PhnU>
+<GeoUB xml:lang="mdf">
+<GeoU>Pš</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<SenseGroup>
+<mg>
+<tg xml:lang="rus">
+<td edit="MK">женское имя</td>
+<t edit="MK" type="approx">Марфутка</t>
+</tg>
+<tg xml:lang="deu">
+<t>ein Frauenname (Dem. zu russ. Dem. Marfuta (Martha))</t>
+</tg>
+</mg>
+</SenseGroup>
+<xg>
+<x>
+<Wd mdfId="марфа">marfa</Wd>
+<Hph edit="MK"/>
+<Wd mdfId="стерня">śt́əŕńä</Wd>
+<Wd mdfId="рахазьɯсь">raᵪaźɯś</Wd>
+<tk3 isa="comma"/>
+<Wd mdfId="ай">aj</Wd>
+<Wd mdfId="марфу·тка">marfu·tka</Wd>
+<tk3 isa="comma"/>
+<Wd mdfId="марфу·тка">marfu·tka</Wd>
+<tk3 isa="comma"/>
+<Wd mdfId="ко">ko</Wd>
+<Wd mdfId="якать">jakat́</Wd>
+<tk3 isa="comma"/>
+<Wd mdfId="марфу·тка">marfu·tka</Wd>
+</x>
+<GeoUB xml:lang="mdf">
+<GeoU>Pš</GeoU>
+</GeoUB>
+<sources>
+<book name="IV" pg="421"/>
+</sources>
+<xt xml:lang="deu">Das Mädchen Marfa fing an zu lachen. O, Marfutka, Marfutka, wohin bist du gegangen, Marfutka? </xt>
+</xg>
+</HWB>
+<Etg>
+<EtType edit="MK" vl="vgl"/>
+<EtSrcL edit="MK" vl="russ"/>
+<EtCtn>
+<Et edit="MK">Марфу́та</Et>
+</EtCtn>[
+<DerivationBlock><DrvT vl="diminutive"/><DrvSrc>Марфа</DrvSrc>
+</DerivationBlock>]
+</Etg>
+</DictionaryEntry>
+<DictionaryEntry>
+<HWB>
+<E3Head><POS freeType="morphological" pos=""/></E3Head>
+<lg edit="JMR" xml:lang="myv"><l/><st/>
+</lg>
+<lg xml:lang="mdf"><l>мару</l>
+<st>мару</st>
+<PhnUBlock>
+<PhnU>
+<Wd mdfId="мару">maru</Wd>
+</PhnU>
+<GeoUB xml:lang="mdf">
+<GeoU>P</GeoU>
+<GeoU>Vert</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<SenseGroup>
+<mg>
+<tg xml:lang="rus">
+<td edit="MK">женское имя</td>
+<t edit="MK" type="approx">Марфа</t>
+</tg>
+<tg xml:lang="deu">
+<t>ein Frauenname (fam. F. zu Marfa (Martha))</t>
+</tg>
+</mg>
+</SenseGroup>
+<xg>
+<x>
+<Wd mdfId="ваксозон">vaksə̑zə̑n</Wd>
+<Wd mdfId="сивоть">śivə̑t́</Wd>
+<Wd mdfId="сюдуф">śuduf</Wd>
+<Wd mdfId="ломання">lomańńä</Wd>
+<tk3 isa="comma"/>
+<Wd mdfId="сюдуф">śuduf</Wd>
+<Wd mdfId="ломання">lomańńä</Wd>
+<tk3 isa="comma"/>
+<Wd mdfId="радаень">radajəń</Wd>
+<Wd mdfId="маруть">marut́</Wd>
+</x>
+<GeoUB edit="MK" xml:lang="mdf">
+<GeoUCtn>
+<GeoU edit="MK">P</GeoU>
+</GeoUCtn>
+</GeoUB>
+<sources>
+<book name="IV" pg="392"/>
+</sources>
+<xt xml:lang="deu">Ausser mir dazu hast du (noch) einen armen Menschen aufgefressen, einen armen Menschen, Radajs Maru (Marfa).</xt>
+</xg>
+<xg>
+<x>
+<Wd mdfId="карунь">karuń</Wd>
+<Wd mdfId="маруть">marut́</Wd>
+<Wd mdfId="няезя">ńäjəźä</Wd>
+</x>
+<GeoUB edit="MK" xml:lang="mdf">
+<GeoUCtn>
+<GeoU edit="MK">P</GeoU>
+</GeoUCtn>
+</GeoUB>
+<sources>
+<book name="IV" pg="63"/>
+</sources>
+<xt xml:lang="deu">(Da) sah sie die Fliege Maru.</xt>
+</xg>
+<xg>
+<x>
+<Wd mdfId="вай">vaj</Wd>
+<Wd mdfId="мес">ḿes</Wd>
+<Wd mdfId="авардят">avaŕd́at</Wd>
+<Hph/>
+<Wd mdfId="кольгат">koĺgat</Wd>
+<tk3 isa="comma"/>
+<Wd mdfId="мару">maru</Wd>
+<Wd mdfId="иднязят">idńäźat</Wd>
+<tk3 isa="quest"/></x>
+<GeoUB xml:lang="mdf">
+<GeoU>Vert</GeoU>
+</GeoUB>
+<sources>
+<book name="VIII" pg="470"/>
+</sources>
+<xt xml:lang="deu">Was weinst du und vergiesst Tränen, Maru, (die du) mein Kindchen (bist)?</xt>
+</xg>
+</HWB>
+<Etg>
+<EtType edit="MK" vl="vgl"/>
+<EtSrcL edit="MK" vl="russ"/>
+<EtCtn>
+<Et edit="MK">Мара</Et>
+</EtCtn>[
+<Et>Мару́ша</Et>
+<DerivationBlock><DrvT vl="diminutive"/><DrvSrc>Марфа</DrvSrc>
+</DerivationBlock>]
+</Etg>
+</DictionaryEntry>
+<DictionaryEntry>
+<HWB>
+<E3Head><POS/><deriv isa="dim-NYA"/></E3Head>
+<lg edit="JMR" xml:lang="myv"><l pos="N"/><st/>
+</lg>
+<lg xml:lang="mdf"><l pos="N">маруня</l>
+<st>маруня</st>
+<PhnUBlock>
+<PhnU>
+<Wd mdfId="маруня">maruńä</Wd>
+</PhnU>
+<GeoUB xml:lang="mdf">
+<GeoU>Kr</GeoU>
+<GeoU>Vert</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="мару">maru</Wd></DrvSt></DrvStCtn></DrvG>
+<SenseGroup>
+<Sense vl="notGiven"/>
+</SenseGroup>
+<xg>
+<x>
+<Wd mdfId="фкя">fḱä</Wd>
+<Wd mdfId="салдатканясь">salda·tkańäś</Wd>
+<Wd mdfId="курайть">kurajt́</Wd>
+<Wd mdfId="маруняц">maruńac</Wd>
+</x>
+<GeoUB edit="MK" xml:lang="mdf">
+<GeoUCtn>
+<GeoU edit="MK">Kr</GeoU>
+</GeoUCtn>
+</GeoUB>
+<sources>
+<book name="IV" pg="247"/>
+</sources>
+<xt xml:lang="deu">Die eine der Soldatenfrauen ist Kurajs Maru (Marfa).</xt>
+</xg>
+<xg>
+<x>
+<Wd mdfId="серьгинь">śeŕǵiń</Wd>
+<Wd mdfId="марунясь">maruńäś</Wd>
+<tk3 isa="comma"/>
+<Wd mdfId="ӓ͔рь">ä͔ŕ</Wd>
+<Wd mdfId="серьгинь">śeŕǵiń</Wd>
+<Wd mdfId="марунесь">maruńeś</Wd>
+<Wd mdfId="акша">akša</Wd>
+<Wd mdfId="карунясь">karuńäś</Wd>
+<tk3 isa="excl"/></x>
+<GeoUB xml:lang="mdf">
+<GeoU>Vert</GeoU>
+</GeoUB>
+<sources>
+<book name="VIII" pg="470"/>
+</sources>
+<xt xml:lang="deu">Sergejs Maru, (Mavruša Sergejeva), Sergejs Maru, jene weisse Fliege!</xt>
+</xg>
+</HWB>
+</DictionaryEntry></NE>
+  <NE idNo="1">
+<DictionaryEntry>
+<HWB>
+<E3Head><POS freeType="morphological" pos=""/></E3Head>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+</lg>
+<lg xml:lang="mdf"><l pos="Prop">матьфей</l>
+<st>матьфей</st>
+<PhnUBlock>
+<PhnU>
+<Wd mdfId="матьфей">mat́f́ej</Wd>
+</PhnU>
+<GeoUB edit="MK" xml:lang="mdf">
+<GeoUCtn>
+<GeoU edit="MK">Mam</GeoU>
+</GeoUCtn>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<SenseGroup>
+<mg>
+<dF xml:lang="rus">[мужское имя</dF>
+<tg xml:lang="rus">
+<t type="approx">Матвей]</t>
+</tg>
+<dF xml:lang="deu">ein Männername</dF>
+<tg xml:lang="deu">
+<t type="approx">Matfej (Matthäus)</t>
+</tg>
+</mg>
+</SenseGroup>
+<xg>
+<x>
+<Wd edit="MK" CyrId="матьфеень">mat́f́ejəń</Wd>
+<tk3 edit="MK" isa="ws"/>
+<Wd edit="MK" CyrId="полянясь">poĺäńäś</Wd>
+</x>
+<GeoNeed/>
+<sources>
+<book name="IV" pg="448"/>
+</sources>
+<xt xml:lang="deu">Matfejs Polja.</xt>
+</xg>
+</HWB>
+<Etg>
+<EtSrcL xml:lang="rus"/>
+<Et>Матфе́й</Et> (arch. F. von <Et>Матве́й</Et>)
+</Etg>
+</DictionaryEntry>
+<DictionaryEntry>
+<HWB>
+<E3Head><POS/><deriv isa="dim-NYA"/></E3Head>
+<lg edit="JMR" xml:lang="myv"><l pos="N"/><st/>
+</lg>
+<lg xml:lang="mdf"><l pos="N">мотюня</l>
+<st>мотюня</st>
+<PhnUBlock>
+<PhnU>
+<Wd mdfId="мотюня">mot́uńä</Wd>
+</PhnU>
+<GeoUB edit="MK" xml:lang="mdf">
+<GeoUCtn>
+<GeoU edit="MK">Pš</GeoU>
+</GeoUCtn>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<DrvG><DrvTCtn><DrvT edit="MK" vl="diminutive"/></DrvTCtn>[<DrvStCtn><FrCm freeType="analogy" Modification="manus"/><DrvSt><Wd CyrId="мотю">mot́u</Wd></DrvSt></DrvStCtn>]</DrvG>
+<SenseGroup>
+<mg>
+<dF xml:lang="rus">[мужское имя</dF>
+<tg xml:lang="rus">
+<t type="approx">Матвей]</t>
+</tg>
+<dF xml:lang="deu">ein Männername</dF>
+<dF xml:lang="deu">entspricht nach P. dem russ. Namen <Fragment type="approx">Matfej</Fragment> (<Fragment type="approx">Matthäus</Fragment>, <Fragment type="approx">Matthias</Fragment>)</dF>
+</mg>
+</SenseGroup>
+<xg>
+<x>
+<Wd CyrId="вай">vaj</Wd>
+<Wd CyrId="вата">vata</Wd>
+<Wd CyrId="яван">javan</Wd>
+<Hph edit="MK"/>
+<Wd CyrId="калян">kaĺan</Wd>
+<Wd CyrId="пяльненязень">ṕäĺńəńäźəń</Wd>
+<tk3 isa="comma"/>
+<Wd CyrId="мотюнязень">mot́uńäźəń</Wd>
+</x>
+<GeoNeed/>
+<sources>
+<book name="IV" pg="585"/>
+</sources>
+<xt xml:lang="deu">Sieh hier, ich beklage meinen [jüngeren] Bruder, meinen Motju.</xt>
+</xg>
+<xg>
+<x>
+<Wd CyrId="кинди">ḱińd́i</Wd>
+<Wd CyrId="кадоть">kadə̑t́</Wd>
+<tk3 isa="comma"/>
+<Wd CyrId="мотюняй">mot́uńäj</Wd>
+<tk3 isa="comma"/>
+<Wd CyrId="шкаень">škajəń</Wd>
+<Wd CyrId="сюдуфть">śuduft́</Wd>
+<Wd CyrId="васянӓцень">vaśänäćəń</Wd>
+</x>
+<GeoNeed/>
+<sources>
+<book name="IV" pg="586"/>
+</sources>
+<xt xml:lang="deu">Wem (in Obhut) hast du, Motju, deine gottverfluchte Frau zurückgelassen?</xt>
+</xg>
+</HWB>
+<Etg>[
+<Etg>
+<EtSrcL xml:lang="rus"/>
+</Etg>,
+<EtType vl="vgl"/>
+<Et>Мотя</Et>
+<DerivationBlock><DrvT vl="diminutive"/><DrvSrc>Матве́й</DrvSrc>
+</DerivationBlock>]
+</Etg>
+</DictionaryEntry></NE>
+  <NE idNo="1">
+<DictionaryEntry>
+<HWB>
+<E3Head><POS freeType="morphological" pos=""/></E3Head>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+</lg>
+<lg xml:lang="mdf"><l pos="Prop">парков</l>
+<st>парков</st>
+<PhnUBlock>
+<PhnU>
+<Wd mdfId="парков">parkov</Wd>
+</PhnU>
+<GeoUB xml:lang="mdf">
+<GeoU>Mam</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<SenseGroup>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">назв. деревни</t>
+</tg>
+<tg xml:lang="deu">
+<t>Name eines Dorfes</t>
+</tg>
+</mg>
+</SenseGroup>
+<xg>
+<x>
+<Wd mdfId="тямак">t́amak</Wd>
+<Wd mdfId="вешəндя">v́ešəńd́ä</Wd>
+<tk3 isa="comma"/>
+<Wd mdfId="тядякай">t́äd́akaj</Wd>
+<tk3 isa="comma"/>
+<Wd mdfId="парков">parkov</Wd>
+<Wd mdfId="велеста">v́eĺəsta</Wd>
+<tk3 isa="comma"/>
+<Wd mdfId="монь">moń</Wd>
+<Wd mdfId="вешəндямак">v́ešəńd́amak</Wd>
+<Wd mdfId="парко·вонь">parko·və̑ń</Wd>
+<Wd mdfId="оцю">oću</Wd>
+<Wd edit="MK" mdfId="виреста">v́iŕəsta</Wd>
+</x>
+<GeoUB xml:lang="mdf">
+<GeoU>Mam</GeoU>
+</GeoUB>
+<sources>
+<book name="IV" pg="310"/>
+</sources>
+<xt xml:lang="deu">Suche mich nicht, Mutter, im Dorfe von Parkov, suche mich im grossen Walde von Parkov!</xt>
+</xg>
+</HWB>
+</DictionaryEntry>
+<DictionaryEntry>
+<HWB>
+<E3Head><POS/><deriv isa="dim-NYA"/></E3Head>
+<lg edit="JMR" xml:lang="myv"><l pos="N"/><st/>
+</lg>
+<lg xml:lang="mdf"><l pos="N">парконя</l>
+<st>парконя</st>
+<PhnUBlock>
+<PhnU>
+<Wd mdfId="парко·ня">parko·ńä</Wd>
+</PhnU>
+<GeoUB xml:lang="mdf">
+<GeoU>Mam</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<DrvG>(<DrvT vl="diminutive"/><DrvSt><DrvStCtn><DrvSt><Wd CyrId="парков">parkov</Wd></DrvSt></DrvStCtn><stem>also &lt; <FrCm freeType="analogy" Modification="manus"/><i><tk2>
+<Wd CyrId="парко·вня">parko·vńä</Wd></tk2></i></stem></DrvSt>)</DrvG>
+<SenseGroup>
+<Sense vl="previous"/>
+</SenseGroup>
+<xg>
+<x>
+<Wd mdfId="мон">mon</Wd>
+<Wd mdfId="онстон">onstə̑n</Wd>
+<Wd edit="MK" mdfId="пə̑та">pə̑ta·</Wd>
+<Wd mdfId="парко·нянь">parko·ńäń</Wd>
+<Wd mdfId="фталда">ftalda</Wd>
+<Wd mdfId="паксясан">pakśasan</Wd>
+<tk3 isa="comma"/>
+<Wd mdfId="кати">kat́i</Wd>
+<Wd mdfId="паксясан">pakśasan</Wd>
+<tk3 isa="comma"/>
+<Wd mdfId="парко·нянь">parko·ńäń</Wd>
+<Wd mdfId="мази">maźi</Wd>
+<Wd mdfId="рошчасан">roščasan</Wd>
+</x>
+<GeoUB xml:lang="mdf">
+<GeoU>Mam</GeoU>
+</GeoUB>
+<sources>
+<book name="IV" pg="308"/>
+</sources>
+<xt xml:lang="deu">Mir ist im Traume als ob ich auf dem Felde hinter Parkonja wäre, als ob ich auf dem Felde, in dem schönen Wäldchen von Parkonja wäre.</xt>
+</xg>
+</HWB>
+</DictionaryEntry></NE>
+  <NE idNo="1">
+<DictionaryEntry>
+<HWB>
+<E3Head><POS freeType="morphological" pos=""/></E3Head>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+</lg>
+<lg xml:lang="mdf"><l pos="Prop">тёря</l>
+<st>тёря</st>
+<PhnUBlock>
+<Chc>
+<Vrt>
+<PhnU>
+<Wd mdfId="тё̇ря">t́ȯŕä</Wd>
+</PhnU>
+</Vrt>
+<Vrt>
+<PhnU>
+<FrCm freeType="RelationToPreviousSibling" status="~"/>
+<Wd mdfId="тьɯря">t́ɯŕä</Wd>
+</PhnU>
+</Vrt>
+</Chc>
+<GeoUB edit="MK" xml:lang="mdf">
+<GeoUCtn>
+<FrCm edit="MK" freeType="questionRelation" Modification="MK"/>
+<GeoU>Čemb</GeoU>
+</GeoUCtn>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<SenseGroup>
+<mg>
+<tg xml:lang="rus">
+<td edit="MK">мужское имя</td>
+</tg>
+<tg xml:lang="deu">
+<td>ein Männername</td>
+</tg>
+</mg>
+</SenseGroup>
+<xg>
+<x>
+<Wd mdfId="тё̇ря">t́ȯŕä</Wd>
+<Wd mdfId="видесь">v́id́əś</Wd>
+<Wd mdfId="пурьхкянят">puŕʿḱä·ńat</Wd>
+</x>
+<GeoUB xml:lang="mdf">
+<GeoU/>
+</GeoUB>
+<sources>
+<book name="IV" pg="439"/>
+</sources>
+<xt xml:lang="deu">Tjorja steckte Möhren.</xt>
+</xg>
+<xg>
+<x>
+<Wd mdfId="тьɯря">t́ɯŕä</Wd>
+<Wd mdfId="музя">muźä</Wd>
+<Chc>
+<Vrt>
+<Wd mdfId="пек">ṕeḱ</Wd>
+</Vrt>
+<Vrt>
+<Wd mdfId="пекя">ṕeḱä</Wd>
+</Vrt>
+</Chc>
+<Wd mdfId="урма">urma·</Wd>
+</x>
+<GeoUB xml:lang="mdf">
+<GeoU/>
+</GeoUB>
+<sources>
+<book name="IV" pg="439"/>
+</sources>
+<xt xml:lang="deu">Tjorja wurde von einer Magenkrankheit heimgesucht.</xt>
+</xg>
+</HWB>
+</DictionaryEntry>
+<DictionaryEntry>
+<HWB>
+<E3Head><POS/><deriv isa="dim-NYA"/></E3Head>
+<lg edit="JMR" xml:lang="myv"><l pos="N"/><st/>
+</lg>
+<lg xml:lang="mdf"><l pos="N">тёряня</l>
+<st>тёряня</st>
+<PhnUBlock>
+<PhnU>
+<Wd mdfId="тё̇ряня">t́ȯŕäńä</Wd>
+</PhnU>
+<GeoUB xml:lang="mdf">
+<GeoU/>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<DrvG><DrvT vl="diminutive"/></DrvG>
+<SenseGroup>
+<Sense vl="previous"/>
+</SenseGroup>
+<xg>
+<x>
+<Chc>
+<Vrt>
+<Wd mdfId="анто·ш">anto·š</Wd>
+</Vrt>
+<Vrt>
+<Wd mdfId="анто·ша">anto·ša</Wd>
+</Vrt>
+</Chc>
+<Hph edit="MK"/>
+<Wd mdfId="атянь">at́äń</Wd>
+<Wd mdfId="тё̇рянясь">t́ȯŕäńäś</Wd>
+</x>
+<GeoUB xml:lang="mdf">
+<GeoU/>
+</GeoUB>
+<sources>
+<book name="IV" pg="438"/>
+</sources>
+<xt xml:lang="deu">Der Tjorja des Antoscha-Alten.</xt>
+</xg>
+</HWB>
+</DictionaryEntry></NE>
+  <NE idNo="1">
+<DictionaryEntry>
+<HWB>
+<E3Head><POS pos="N"/><deriv isa="prt-ZY"/></E3Head>
+<lg xml:lang="myv"><l pos="Prop">Марезь-веле</l>
+<st>Марезь-веьле</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="марезь">maŕeź</Wd>
+<Hph/>
+<Wd myvId="веле">v́eĺe</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Mar</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
+<SenseGroup>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">эрз. назв. с. Маресево</t>
+</tg>
+<tg xml:lang="deu">
+<t>ers. Name des Dorfes Maressewo (Bez. Ardatow, Gouv. Simbirsk)</t>
+</tg>
+</mg>
+</SenseGroup>
+</HWB>
+</DictionaryEntry></NE>
+  <NE idNo="1">
+<DictionaryEntry>
+<HWB>
+<E3Head><POS pos="N"/><deriv isa="prt-I"/></E3Head>
+<lg xml:lang="myv"><l pos="Prop">биби</l>
+<st>биби</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="биби">b́ib́i</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>VVr</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
+<SenseGroup>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">мужское прозвище</t>
+</tg>
+<tg xml:lang="deu">
+<t>ein männl. Beiname</t>
+</tg>
+</mg>
+</SenseGroup>
+</HWB>
+</DictionaryEntry></NE>
+  <NE idNo="1">
+<DictionaryEntry>
+<HWB>
+<E3Head><POS pos="N"/><deriv isa="dim-INYKA"/></E3Head>
+<lg xml:lang="myv"><l pos="Prop">винька</l>
+<st>винька</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="винька">v́ińka</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Bag</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
+<SenseGroup>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">личное имя</t>
+</tg>
+<tg xml:lang="deu">
+<t>ein Personenname</t>
+</tg>
+</mg>
+</SenseGroup>
+<xg>
+<x>
+<Wd myvId="атясь">at́aś</Wd>
+<Wd myvId="паро">paro</Wd>
+<Wd myvId="винькань">v́ińkań</Wd>
+<Wd myvId="буё">bujo</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Bag</GeoU>
+</GeoUB>
+<sources>
+<book name="I" pg="400"/>
+</sources>
+<xt xml:lang="deu">Ein trefflicher Mann ist Vinjkas Bujo.</xt>
+</xg>
+</HWB>
+</DictionaryEntry></NE>
+  <NE idNo="1">
+<DictionaryEntry>
+<HWB>
+<E3Head><POS pos="N"/><deriv isa="dim-INYKA"/></E3Head>
+<lg xml:lang="myv"><l pos="Prop">иванынька</l>
+<st>иванынька</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="иванынька">ivani͔ńka</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Kočk</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
+<SenseGroup>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">назв. местности (улицы)</t>
+</tg>
+<tg xml:lang="deu">
+<t>ein Ortsname (Strassenname)</t>
+</tg>
+</mg>
+</SenseGroup>
+<xg>
+<x>
+<Wd myvId="косо">koso</Wd>
+<tk3 isa="comma"/>
+<Wd myvId="косо">koso</Wd>
+<Wd myvId="ней">ńej</Wd>
+<Wd myvId="кукинесь">kuḱińeś</Wd>
+<Wd myvId="кукорды">kukordi͔</Wd>
+<tk3 isa="quest"/>
+<Wd myvId="иванынькань">ivani͔ńkań</Wd>
+<tk3 isa="comma"/>
+<Wd myvId="ялгай">jalgaj</Wd>
+<Hph edit="MK"/>
+<Wd myvId="душай">dušaj</Wd>
+<tk3 isa="comma"/>
+<Wd myvId="рошчасо">roščaso</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Kočk</GeoU>
+</GeoUB>
+<sources>
+<book name="VII" pg="58"/>
+</sources>
+<xt xml:lang="deu">Wo, wo ruft der Kuckuck? Im Haine von Ivanynjka, liebe Freundinnen.</xt>
+</xg>
+</HWB>
+</DictionaryEntry></NE>
+  <NE idNo="1">
+<DictionaryEntry>
+<HWB>
+<E3Head><POS pos="N"/><deriv isa="vocat-KAJ"/></E3Head>
+<lg xml:lang="myv"><l pos="Prop">лепкай</l>
+<st>лепкай</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="лепкай">ĺepkaj</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Šokša</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
+<SenseGroup>
+<mg>
+<tg xml:lang="rus">
+<td edit="MK">мужское имя</td>
+</tg>
+<tg xml:lang="deu">
+<td>ein Männername</td>
+</tg>
+</mg>
+</SenseGroup>
+<xg>
+<x>
+<Wd myvId="эрьмильть">eŕḿiĺt́</Wd>
+<Wd myvId="лепкайть">ĺepkajt́</Wd>
+<Wd myvId="ярмакунда">jarmakunda</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Šokša</GeoU>
+</GeoUB>
+<sources>
+<book name="VII" pg="450"/>
+</sources>
+<xt xml:lang="deu">Lepkaj hatte Geld.</xt>
+</xg>
+</HWB>
+<Etg>
+<EtType edit="MK" vl="vgl"/>
+<EtSrcL edit="MK" vl="mrdv"/>
+<EtCtn>
+<Et edit="MK">
+<Wd CyrId="лепа">ĺepa·</Wd></Et>
+</EtCtn>
+</Etg>
+</DictionaryEntry></NE>
+  <NE idNo="1">
+<DictionaryEntry>
+<HWB>
+<E3Head><POS/><deriv isa="DVNoun-MKA"/></E3Head>
+<lg xml:lang="myv"><l pos="Prop">мазямка</l>
+<st>мазямка</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="мазямка">maźamka</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Sl</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
+<SenseGroup>
+<mg>
+<tg xml:lang="rus">
+<td edit="MK">женское имя</td>
+</tg>
+<tg xml:lang="deu">
+<td>ein Frauenname</td>
+</tg>
+</mg>
+</SenseGroup>
+<xg>
+<x>
+<Wd myvId="мазямка">maźamka</Wd>
+<Wd myvId="марта">marta</Wd>
+<Wd myvId="сиямкат">śijamkat</Wd>
+<tk3 isa="comma"/>
+<Wd myvId="кавто">kavto</Wd>
+<Wd myvId="ялгат">jalgat</Wd>
+<Wd myvId="ялгацек">jalgaćek</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Sl</GeoU>
+</GeoUB>
+<sources>
+<book name="VII" pg="142"/>
+</sources>
+<xt xml:lang="deu">Mazjamka und Sijamka, zwei Freundinnen miteinander.</xt>
+</xg>
+</HWB>
+<Etg>
+<EtType edit="MK" vl="vgl"/>
+<EtSrcL edit="MK" vl="mrdv"/>
+<EtCtn>
+<Et edit="MK">
+<Wd CyrId="мазы">mazi͔</Wd></Et>
+</EtCtn>
+</Etg>
+</DictionaryEntry></NE>
+  <NE idNo="2">
+<DictionaryEntry>
+<HWB>
+<E3Head><POS/></E3Head>
+<lg xml:lang="myv"><l pos="Prop">мала</l>
+<st>мала</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="мала">mala</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Bug</GeoU>
+<GeoU>Večk</GeoU>
+<GeoU>Vez</GeoU>
+<GeoU>Jeg</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg xml:lang="mdf"><l>мала</l>
+<st>мала</st>
+<PhnUBlock>
+<PhnU>
+<Wd mdfId="мала">mala</Wd>
+</PhnU>
+<GeoUB xml:lang="mdf">
+<GeoU>Temn</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<SenseGroup>
+<mg>
+<tg xml:lang="rus">
+<td edit="MK">женское имя</td>
+</tg>
+<tg xml:lang="deu">
+<td>ein Frauenname</td>
+<t type="approx">Malanja</t>
+<t type="approx">Melanie</t>
+</tg>
+</mg>
+</SenseGroup>
+<xg>
+<x>
+<Wd myvId="мала">mala</Wd>
+<Wd myvId="маро">maro</Wd>
+<Wd myvId="эрьзянь">eŕźań</Wd>
+<Wd myvId="моро">moro</Wd>
+<Wd myvId="морынек">mori͔ńek</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Bug</GeoU>
+</GeoUB>
+<sources>
+<book name="V" pg="308"/>
+</sources>
+<xt xml:lang="deu">Wir sangen mit Mala ersänische Lieder.</xt>
+</xg>
+<xg>
+<x>
+<Wd myvId="ульцядон">uĺćadon</Wd>
+<Wd myvId="жальнеть">žaĺńet́</Wd>
+<Wd myvId="кафто">kafto</Wd>
+<Wd myvId="малатне">malat́ńe</Wd>
+<tk3 isa="comma"/>
+<Wd myvId="кафто">kafto</Wd>
+<Wd myvId="малатне">malat́ńe</Wd>
+<tk3 isa="comma"/>
+<Wd myvId="ашо">ašo</Wd>
+<Wd myvId="галатне">galat́ńe</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Večk</GeoU>
+</GeoUB>
+<sources>
+<book name="II" pg="85"/>
+</sources>
+<xt xml:lang="deu">Mehr Weh als wegen der Strassen fühle ich wegen der beiden Mala, wegen der beiden Mala, wegen der weissen Gänse.</xt>
+</xg>
+<xg>
+<x>
+<Wd myvId="кафто·">kafto·</Wd>
+<Wd myvId="стирнятне">śt́iŕńa·t́ńe</Wd>
+<tk3 isa="comma"/>
+<Wd myvId="кафто·">kafto·</Wd>
+<Wd myvId="малатне">mala·t́ńe</Wd>
+<tk3 isa="comma"/>
+<Wd myvId="кафто·">kafto·</Wd>
+<Wd myvId="малатне">mala·t́ńe</Wd>
+<tk3 isa="comma"/>
+<Wd myvId="ашо·">ašo·</Wd>
+<Wd myvId="палятне">paĺa·t́ńe</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Jeg</GeoU>
+</GeoUB>
+<sources>
+<book name="1" pg="102"/>
+</sources>
+<xt xml:lang="deu">Die zwei Mädchen, die zwei Melanien, die zwei Melanien in weissen Hemden.</xt>
+</xg>
+<xg>
+<x>
+<Wd myvId="эждямо">ežd́amo</Wd>
+<Wd myvId="валт">valt</Wd>
+<Wd myvId="вязовкань">v́azovkań</Wd>
+<Wd myvId="мала">mala</Wd>
+<Hph edit="MK"/>
+<Wd myvId="бабань">babań</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Vez</GeoU>
+</GeoUB>
+<sources>
+<book name="VI" pg="190"/>
+</sources>
+<xt xml:lang="deu">Liebeszauber von der Mala-Alten aus Vjazovka.</xt>
+</xg>
+<xg>
+<x>
+<Wd mdfId="костонь">kostə̑ń</Wd>
+<Wd mdfId="аф">af</Wd>
+<Wd mdfId="костонь">kostə̑ń</Wd>
+<tk3 isa="comma"/>
+<Wd mdfId="малазя">malaźä</Wd>
+<tk3 isa="comma"/>
+<Wd mdfId="пайкть">pajḱt́</Wd>
+<Wd mdfId="салазя">salaźä</Wd>
+<tk3 isa="quest"/></x>
+<GeoUB xml:lang="mdf">
+<GeoU>Temn</GeoU>
+</GeoUB>
+<sources>
+<book name="VIII" pg="276"/>
+</sources>
+<xt xml:lang="deu">Woher stahl Malanja die Schelle?</xt>
+</xg>
+</HWB>
+<Etg>
+<EtSrcL edit="MK" vl="?ru"/>
+<EtCtn>
+<Et edit="MK">Маля</Et>
+</EtCtn>[
+<DerivationBlock><DrvT vl="diminutive"/><DrvSrc>Мела́ния</DrvSrc>
+</DerivationBlock>]
+</Etg>
+</DictionaryEntry>
+<DictionaryEntry>
+<HWB>
+<E3Head><POS/></E3Head>
+<lg xml:lang="myv"><l pos="N">малай-баба</l>
+<st>малай-баба</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="малай">malaj</Wd>
+<Hph/>
+<Wd myvId="баба">baba</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Vez</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
+<DerivationBlock>[wohl eine Anr.]</DerivationBlock>
+<SenseGroup>
+<mg>
+<dF xml:lang="rus">[имя известной колдуньи в деревне Вязовка]</dF>
+<dF xml:lang="deu">eine berühmte Zauberin u. Gewährsperson P:s im Dorfe Wjasowka</dF>
+</mg>
+</SenseGroup>
+</HWB>
+</DictionaryEntry>
+<DictionaryEntry>
+<HWB>
+<E3Head><POS/><deriv isa="dim-NYA"/></E3Head>
+<lg xml:lang="myv"><l pos="N">маланя</l>
+<st>маланя</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="маланя">malańa</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Vez</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg xml:lang="mdf"><l>маланя</l>
+<st>маланя</st>
+<PhnUBlock>
+<Chc>
+<Vrt>
+<PhnU>
+<Wd mdfId="маланя">malańä</Wd>
+</PhnU>
+</Vrt>
+<Vrt>
+<PhnU>
+<Wd mdfId="маланья">malańjä</Wd>
+</PhnU>
+</Vrt>
+</Chc>
+<GeoUB xml:lang="mdf">
+<GeoU>Temn</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<SenseGroup>
+<mg>
+<tg xml:lang="rus">
+<td edit="MK">женское имя</td>
+<t edit="MK" type="approx">Маланя</t>
+</tg>
+<tg xml:lang="deu">
+<td>ein Frauenname</td>
+<t type="approx">Malanja</t>
+<t type="approx">Melanie</t>
+</tg>
+[Dem. zu <FrnTxt>
+<Wd CyrId="мала">mala</Wd></FrnTxt> od. aus russ. Malanja]
+</mg>
+</SenseGroup>
+<xg>
+<x>
+<Wd myvId="саень">sajeń</Wd>
+<Wd myvId="полазо">polazo</Wd>
+<Wd myvId="маланя">malańa</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Vez</GeoU>
+</GeoUB>
+<sources>
+<book name="I" pg="226"/>
+</sources>
+<xt xml:lang="deu">Seine genommene Gattin (heisst) Malanja.</xt>
+</xg>
+<xg>
+<x>
+<Wd mdfId="абрань">abrań</Wd>
+<Wd mdfId="маланясь">malańäś</Wd>
+<tk3 isa="comma"/>
+<Wd mdfId="кайги">kajǵi</Wd>
+<Wd mdfId="пайгонь">pajgə̑ń</Wd>
+<Wd mdfId="салайнясь">salajńäś</Wd>
+<tk3 isa="excl"/></x>
+<GeoUB xml:lang="mdf">
+<GeoU>Temn</GeoU>
+</GeoUB>
+<sources>
+<book name="VIII" pg="276"/>
+</sources>
+<xt xml:lang="deu">Abras Malanja, die eine klingende Schelle stahl!</xt>
+</xg>
+<xg>
+<x>
+<Wd mdfId="эста">esta</Wd>
+<Wd mdfId="ризояза">ŕizə̑jaza</Wd>
+<Hph/>
+<Wd mdfId="разояза">razə̑jaza</Wd>
+<Wd mdfId="сельмостонза">śeĺmə̑stə̑nza</Wd>
+<Wd mdfId="маланьять">malańjät́</Wd>
+<Wd mdfId="акшесь">akšeś</Wd>
+<tk3 isa="excl"/></x>
+<GeoUB xml:lang="mdf">
+<GeoU>Temn</GeoU>
+</GeoUB>
+<sources>
+<book name="VIII" pg="382"/>
+</sources>
+<xt xml:lang="deu">Dann möge auch der Star in Malanjas Auge(n) Sprösslinge heraustreiben!</xt>
+</xg>
+</HWB>
+<Etg>
+<EtType edit="MK" vl="vgl"/>
+<EtSrcL edit="MK" vl="russ"/>
+<EtCtn>
+<Et edit="MK">Мала́ня</Et>
+</EtCtn>[
+<DerivationBlock><DrvT vl="diminutive"/><DrvSrc>Мела́ния</DrvSrc>
+</DerivationBlock>]
+</Etg>
+</DictionaryEntry></NE>
+  <NE idNo="1">
+<DictionaryEntry>
+<HWB>
+<E3Head><POS/></E3Head>
+<lg xml:lang="myv"><l pos="Prop">матрёна</l>
+<st>матрёна</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="матрёна">mat́ŕona</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Kozl</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg xml:lang="mdf"><l>матрёна</l>
+<st>матрёна</st>
+<PhnUBlock>
+<PhnU>
+<Wd mdfId="матрёна">mat́ŕona</Wd>
+</PhnU>
+<GeoUB edit="MK" xml:lang="mdf">
+<GeoUCtn>
+<GeoU edit="MK">Mam</GeoU>
+</GeoUCtn>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<SenseGroup>
+<mg>
+<tg xml:lang="rus">
+<td edit="MK">женское имя</td>
+<t edit="MK" type="approx">Матрёна</t>
+</tg>
+<tg xml:lang="deu">
+<td>ein Frauenname</td>
+<t type="approx">Matrjona (Matrona)</t>
+</tg>
+</mg>
+</SenseGroup>
+<xg>
+<x>
+<Wd myvId="авань">avań</Wd>
+<Wd myvId="лемзэ">ĺemze͔</Wd>
+<tk3 isa="comma"/>
+<Wd myvId="ногай">nogaj</Wd>
+<Hph edit="MK"/>
+<Wd myvId="ава">ava</Wd>
+<tk3 isa="comma"/>
+<Wd myvId="матрёна">mat́ŕona</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Kozl</GeoU>
+</GeoUB>
+<sources>
+<book name="I" pg="208"/>
+</sources>
+<xt xml:lang="deu">Meine Mutter heisst Matrjona, Nogajerin.</xt>
+</xg>
+<xg>
+<x>
+<Wd mdfId="матрёна">mat́ŕona</Wd>
+<Wd edit="MK" mdfId="кельги">ḱeĺǵi</Wd>
+<tk3 edit="MK" isa="ws"/>
+<Wd edit="MK" mdfId="нешкəнь">ńeškəń</Wd>
+<Wd mdfId="ваномантс">vanə̑mants</Wd>
+<tk3 isa="comma"/>
+<Wd edit="MK" mdfId="вельнень">v́eĺńeń</Wd>
+<Wd mdfId="кундамантс">kunda·mants</Wd>
+</x>
+<GeoUB edit="MK" xml:lang="mdf">
+<GeoUCtn>
+<GeoU edit="MK">Mam</GeoU>
+</GeoUCtn>
+</GeoUB>
+<sources>
+<book name="IV" pg="118"/>
+</sources>
+<xt xml:lang="deu">Matrjona liebt es, Bienen zu hüten, Bienenschwärme zu fangen.</xt>
+</xg>
+</HWB>
+<Etg>
+<EtSrcL xml:lang="rus"/>
+<Et>Матрёна</Et>
+<DerivationBlock><DrvT vl="volkst"/><DrvSrc>Матро́на</DrvSrc>
+</DerivationBlock>
+</Etg>
+</DictionaryEntry>
+<DictionaryEntry>
+<HWB>
+<E3Head><POS freeType="morphological" pos=""/></E3Head>
+<lg xml:lang="myv"><l>матя</l>
+<st>матя</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="матя">mat́a</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Mar</GeoU>
+<GeoU>Sob</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg xml:lang="mdf"><l>матя</l>
+<st>матя</st>
+<PhnUBlock>
+<PhnU>
+<Wd mdfId="матя">mat́ä</Wd>
+</PhnU>
+<GeoUB xml:lang="mdf">
+<GeoU>Kr<l3 type="specific">Mam</l3></GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<SenseGroup>
+<mg>
+<tg xml:lang="rus">
+<td edit="MK">женское имя</td>
+<t edit="MK" type="approx">Матя</t>
+</tg>
+<tg xml:lang="deu">
+<td>ein Frauenname</td>
+<t type="approx">Matja</t>
+<t type="approx">Matrona</t>
+</tg>
+</mg>
+</SenseGroup>
+<xg>
+<x>
+<Wd myvId="уш">uš</Wd>
+<Wd myvId="сурень">suŕeń</Wd>
+<Wd myvId="шчердиль">šče͔ŕd́iĺ</Wd>
+<Wd myvId="матя">mat́a</Wd>
+<Wd myvId="чернешка">če͔ŕńeška</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Mar</GeoU>
+</GeoUB>
+<sources>
+<book name="1" pg="30"/>
+</sources>
+<xt xml:lang="deu">Den Faden spann Matja so fein wie ein Härchen.</xt>
+</xg>
+<xg>
+<x>
+<Wd myvId="уш">uš</Wd>
+<Wd myvId="конёв">końov</Wd>
+<Hph edit="MK"/>
+<Wd myvId="сёрмат">śormat</Wd>
+<Wd myvId="матянь">mat́äń</Wd>
+<Wd myvId="арстонзо">arstonzo</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Mar</GeoU>
+</GeoUB>
+<sources>
+<book name="1" pg="32"/>
+</sources>
+<xt xml:lang="deu">Wie eine Schrift auf dem Papiere (waren) [Matjas] Stickereien.</xt>
+</xg>
+<xg>
+<x>
+<Wd myvId="матя">mat́a</Wd>
+<Hph edit="MK"/>
+<Wd myvId="сука">suka</Wd>
+<Wd edit="MK" myvId="тяіндьзе">t́äińd́źe</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Sob</GeoU>
+</GeoUB>
+<sources>
+<book name="VII" pg="332"/>
+</sources>
+<xt xml:lang="deu">Die Hündin Matja hat ihn gerichtet.</xt>
+</xg>
+<xg>
+<x>
+<Wd edit="MK" mdfId="авэзетс">aveźəts</Wd>
+<Wd mdfId="и">i</Wd>
+<Wd edit="MK" mdfId="мольсь">moĺś</Wd>
+<tk3 edit="MK" isa="ws"/>
+<Wd edit="MK" mdfId="матянь">mat́äń</Wd>
+<tk3 edit="MK" isa="ws"/>
+<Wd edit="MK" mdfId="стяфтама">śt́aftama</Wd>
+</x>
+<GeoUB edit="MK" xml:lang="mdf">
+<GeoUCtn>
+<GeoU edit="MK">Mam</GeoU>
+</GeoUCtn>
+</GeoUB>
+<sources>
+<book name="IV" pg="119"/>
+</sources>
+<xt xml:lang="deu">Die Schwiegermutter ging, um Matrjona aufzuwecken.</xt>
+</xg>
+</HWB>
+<Etg>
+<EtSrcL edit="MK" xml:lang="rus"/>
+<EtCtn>
+<Et edit="MK">Матя</Et>
+</EtCtn>[
+<DerivationBlock><DrvT vl="diminutive"/><DrvSrc>Матро́на</DrvSrc>
+</DerivationBlock>]
+</Etg>
+</DictionaryEntry>
+<DictionaryEntry>
+<HWB>
+<E3Head><POS freeType="morphological" pos=""/></E3Head>
+<lg edit="JMR" xml:lang="myv"><l/><st/>
+</lg>
+<lg xml:lang="mdf"><l>матю</l>
+<st>матю</st>
+<PhnUBlock>
+<PhnU>
+<Wd mdfId="матю">mat́u</Wd>
+</PhnU>
+<GeoUB xml:lang="mdf">
+<GeoU>Vert</GeoU>
+<GeoUCtn>
+<GeoU edit="MK">Mam</GeoU>
+</GeoUCtn>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<DerivationBlock>(eine Art Dem., fam. Kosef. zu <i><tk2>
+<Wd CyrId="матя">mat́ä</Wd></tk2></i>)</DerivationBlock>
+<SenseGroup>
+<Sense vl="notGiven"/>
+</SenseGroup>
+<xg>
+<x>
+<Wd mdfId="тонь">toń</Wd>
+<Wd mdfId="кушмаркшкане">kušmarkškańe</Wd>
+<tk3 isa="comma"/>
+<Wd mdfId="матю">mat́u</Wd>
+<tk3 isa="comma"/>
+<Wd mdfId="ронгаця">rongaćä</Wd>
+</x>
+<GeoUB xml:lang="mdf">
+<GeoU>Vert</GeoU>
+</GeoUB>
+<sources>
+<book name="VIII" pg="474"/>
+</sources>
+<xt xml:lang="deu">(Wie) eine Handvoll hast du, Matja, den Körper.</xt>
+</xg>
+<xg>
+<x>
+<Wd mdfId="вай">vaj</Wd>
+<Wd mdfId="штшай">štšaj</Wd>
+<Hph edit="MK"/>
+<Wd edit="MK" mdfId="каряй">kaŕäj</Wd>
+<Wd mdfId="матю">mat́u</Wd>
+<Wd mdfId="наряжай">naŕažaj</Wd>
+</x>
+<GeoUB edit="MK" xml:lang="mdf">
+<GeoUCtn>
+<GeoU edit="MK">Mam</GeoU>
+</GeoUCtn>
+</GeoUB>
+<sources>
+<book name="IV" pg="119"/>
+</sources>
+<xt xml:lang="deu">Matrjona kleidet sich an und schmückt sich.</xt>
+</xg>
+</HWB>
+</DictionaryEntry>
+<DictionaryEntry>
+<HWB>
+<E3Head><POS/><deriv isa="dim-NYA"/></E3Head>
+<lg edit="JMR" xml:lang="myv"><l pos="N"/><st/>
+</lg>
+<lg xml:lang="mdf"><l pos="N">матюня</l>
+<st>матюня</st>
+<PhnUBlock>
+<Chc>
+<Vrt>
+<PhnU>
+<Wd mdfId="матюня">mat́uńä</Wd>
+</PhnU>
+</Vrt>
+<Vrt>
+<PhnU>
+<Wd mdfId="матьɯня">mat́ɯńä</Wd>
+</PhnU>
+</Vrt>
+</Chc>
+<GeoUB edit="MK" xml:lang="mdf">
+<GeoUCtn>
+<GeoU edit="MK">P</GeoU>
+</GeoUCtn>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="матю">mat́u</Wd></DrvSt></DrvStCtn></DrvG>
+<SenseGroup>
+<Sense vl="notGiven"/>
+</SenseGroup>
+<xg>
+<x>
+<Wd CyrId="вата">vata</Wd>
+<Wd CyrId="яван">javan</Wd>
+<Hph edit="MK"/>
+<Wd CyrId="калян">kaĺan</Wd>
+<Wd CyrId="сазорнязень">sazə̑rńäźəń</Wd>
+<tk3 isa="comma"/>
+<Wd CyrId="матьɯнязень">mat́ɯńäźəń</Wd>
+</x>
+<GeoNeed/>
+<sources>
+<book name="IV" pg="581"/>
+</sources>
+<xt xml:lang="deu">Siehe, ich beklage meine [jüngere] Schwester, meine Matju!</xt>
+</xg>
+<xg>
+<x>
+<Wd CyrId="коста">kosta</Wd>
+<Wd CyrId="сяфтя">śäft́ä</Wd>
+<tk3 isa="comma"/>
+<Wd CyrId="матюняй">mat́uńäj</Wd>
+<tk3 isa="comma"/>
+<Wd CyrId="мон">mon</Wd>
+<Wd CyrId="вештя">v́ešt́ä</Wd>
+</x>
+<GeoNeed/>
+<sources>
+<book name="IV" pg="583"/>
+</sources>
+<xt xml:lang="deu">Woher nehme ich dich, Matju, (wo) suche ich dich?</xt>
+</xg>
+</HWB>
+</DictionaryEntry>
+<DictionaryEntry>
+<HWB>
+<E3Head><POS freeType="morphological" pos=""/></E3Head>
+<lg edit="JMR" xml:lang="myv"><l/><st/>
+</lg>
+<lg xml:lang="mdf"><l>матерь</l>
+<st>матерь</st>
+<PhnUBlock>
+<PhnU>
+<FrCm freeType="analogy" Modification="manus"/>
+<Wd mdfId="матерь">mat́əŕ</Wd>
+</PhnU>
+<GeoUB edit="MK" xml:lang="mdf">
+<GeoUCtn>
+<GeoU edit="MK">Mam</GeoU>
+</GeoUCtn>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<SenseGroup>
+<mg>
+<tg xml:lang="rus">
+<td edit="MK">женское имя</td>
+</tg>
+<tg xml:lang="deu">
+<td>ein Frauenname</td>
+<t xml:lang="deu">Matrjona (wechselt mit <FrnTxt><Wd CyrId="матя">mat́ä</Wd></FrnTxt>, <FrnTxt><Wd CyrId="матю">mat́u</Wd></FrnTxt>)</t>
+</tg>
+</mg>
+</SenseGroup>
+<xg>
+<x>
+<Wd edit="MK" CyrId="сетьсянь">śet́śä·ń</Wd>
+<Wd CyrId="катса">katsa</Wd>
+<Wd edit="MK" CyrId="матерь">mat́əŕ</Wd>
+<tk3 edit="MK" isa="ws"/>
+<Wd edit="MK" CyrId="аказти">akaźt́i</Wd>
+<tk3 edit="MK" isa="comma"/>
+<tk3 edit="MK" isa="ws"/>
+<Wd edit="MK" CyrId="отьсязень">ot́śäźəń</Wd>
+<tk3 edit="MK" isa="ws"/>
+<Wd edit="MK" CyrId="стирентсты">śt́iŕəntsti͔</Wd>
+</x>
+<GeoNeed/>
+<sources>
+<book name="IV" pg="400"/>
+</sources>
+<xt xml:lang="deu">Ihn lasse ich meiner [älteren] Schwester [Base] Mater, der Tochter meines Onkels zurück.</xt>
+</xg>
+<xg>
+<x>
+<Wd CyrId="вай">vaj</Wd>
+<Wd CyrId="и">i</Wd>
+<Wd CyrId="штшась">štšaś</Wd>
+<Hph edit="MK"/>
+<Wd edit="MK" CyrId="карясь">kaŕäś</Wd>
+<tk3 edit="MK" isa="ws"/>
+<Wd edit="MK" CyrId="матерь">mat́əŕ</Wd>
+<Wd CyrId="наряжась">naŕažaś</Wd>
+</x>
+<GeoNeed/>
+<sources>
+<book name="IV" pg="120"/>
+</sources>
+<xt xml:lang="deu">Matrjona kleidete sich an und schmückte sich.</xt>
+</xg>
+</HWB>
+</DictionaryEntry>
+<DictionaryEntry>
+<HWB>
+<E3Head><POS/><deriv isa="dim-NYA"/></E3Head>
+<lg edit="JMR" xml:lang="myv"><l pos="N"/><st/>
+</lg>
+<lg xml:lang="mdf"><l pos="N">матерьня</l>
+<st>матерьня</st>
+<PhnUBlock>
+<PhnU>
+<Wd mdfId="матерня">mat́əŕńä</Wd>
+</PhnU>
+<GeoUB xml:lang="mdf">
+<GeoU>P</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="матерь">mat́əŕ</Wd></DrvSt></DrvStCtn></DrvG>
+<SenseGroup>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">? женское имя</t>
+</tg>
+<tg xml:lang="deu">
+<t edit="MK">? ein Frauenname</t>
+</tg>
+</mg>
+</SenseGroup>
+<xg>
+<x>
+<Wd mdfId="эсонза">esə̑nza</Wd>
+<Wd edit="MK" mdfId="эрях́ть">eŕäᵪ́t́</Wd>
+<Wd mdfId="кафта">kafta</Wd>
+<Wd mdfId="матернят">mat́əŕńat</Wd>
+</x>
+<GeoUB xml:lang="mdf">
+<GeoU>P</GeoU>
+</GeoUB>
+<sources>
+<book name="IV" pg="37"/>
+</sources>
+<xt xml:lang="deu">Darin leben zwei Mater.</xt>
+</xg>
+</HWB>
+</DictionaryEntry>
+<DictionaryEntry>
+<HWB>
+<E3Head><POS freeType="morphological" pos=""/></E3Head>
+<lg edit="JMR" xml:lang="myv"><l/><st/>
+</lg>
+<lg xml:lang="mdf"><l>матерю</l>
+<st>матерю</st>
+<PhnUBlock>
+<PhnU>
+<Wd mdfId="матерю">mat́əŕu</Wd>
+</PhnU>
+<GeoUB xml:lang="mdf">
+<GeoU>Pš</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<SenseGroup>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">? личное имя</t>
+</tg>
+<tg xml:lang="deu">
+<t edit="MK">? ein Personenname</t>
+</tg>
+</mg>
+</SenseGroup>
+<xg>
+<x>
+<Wd mdfId="атерю">at́əŕu</Wd>
+<tk3 isa="comma"/>
+<Wd mdfId="атерю">at́əŕu</Wd>
+<tk3 isa="comma"/>
+<Wd mdfId="атерюса">at́əŕusa</Wd>
+<Wd mdfId="матерю">mat́əŕu</Wd>
+<tk3 isa="comma"/>
+<Wd mdfId="матерю">mat́əŕu</Wd>
+<tk3 isa="comma"/>
+<Wd mdfId="атрянь">at́ŕäń</Wd>
+<Wd mdfId="колма">kolma</Wd>
+<Wd mdfId="сёранзон">śoranzə̑n</Wd>
+<tk3 isa="comma"/>
+<Wd mdfId="сёранзон">śoranzə̑n</Wd>
+</x>
+<GeoUB xml:lang="mdf">
+<GeoU>Pš</GeoU>
+</GeoUB>
+<sources>
+<book name="IV" pg="436"/>
+</sources>
+<xt xml:lang="deu">Aterju, Aterju, in Aterju ist Materju, Materju. Aterju hat drei Söhne, Söhne.</xt>
+</xg>
+</HWB>
+</DictionaryEntry>
+<DictionaryEntry>
+<HWB>
+<E3Head><POS freeType="morphological" pos=""/></E3Head>
+<lg xml:lang="myv"><l>матря</l>
+<st>матря</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="матря">mat́ŕa</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Večk</GeoU>
+<GeoU>StŠant</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg xml:lang="mdf"><l>матря</l>
+<st>матря</st>
+<PhnUBlock>
+<Chc>
+<Vrt>
+<PhnU>
+<Wd mdfId="матря">mat́ŕä</Wd>
+</PhnU>
+</Vrt>
+<Vrt>
+<PhnU>
+<Wd mdfId="матра">matra</Wd>
+</PhnU>
+</Vrt>
+</Chc>
+<GeoUB edit="MK" xml:lang="mdf">
+<GeoUCtn>
+<GeoU edit="MK">Mam</GeoU>
+</GeoUCtn>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<SenseGroup>
+<mg>
+<tg xml:lang="rus">
+<td edit="MK">женское имя</td>
+<t edit="MK" type="approx">Матря</t>
+</tg>
+<tg xml:lang="deu">
+<td>ein Frauenname</td>
+<t type="approx">Matrja (Matrona)</t>
+</tg>
+</mg>
+</SenseGroup>
+<xg>
+<x>
+<Wd myvId="сон">son</Wd>
+<Wd myvId="тукшнось">tukšnoś</Wd>
+<Wd myvId="пеця">ṕeća</Wd>
+<Wd myvId="матря">mat́ŕa</Wd>
+<Wd myvId="базаров">bazarov</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Večk</GeoU>
+</GeoUB>
+<sources>
+<book name="II" pg="41"/>
+</sources>
+<xt xml:lang="deu">Freitags begab sich Matrja auf den Basar.</xt>
+</xg>
+<xg>
+<x>
+<Wd myvId="вейке">v́ejḱe</Wd>
+<Wd myvId="шивецькесь">šiv́ećḱeś</Wd>
+<Wd myvId="матрянь">mat́ŕań</Wd>
+<Wd myvId="содызе">sodi͔źe</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Večk</GeoU>
+</GeoUB>
+<sources>
+<book name="I" pg="175"/>
+</sources>
+<xt xml:lang="deu">Einer von den Schneidern kannte Matrja.</xt>
+</xg>
+<xg>
+<x>
+<Wd myvId="матря">mat́ŕa</Wd>
+<Wd myvId="ашти">ašt́i</Wd>
+<Wd myvId="эзем">eźem</Wd>
+<Hph edit="MK"/>
+<Wd myvId="пирясо">ṕiŕaso</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>StŠant</GeoU>
+</GeoUB>
+<sources>
+<book name="I" pg="273"/>
+</sources>
+<xt xml:lang="deu">Matrjas Platz ist vorn auf der Bank.</xt>
+</xg>
+<xg>
+<x>
+<Wd mdfId="вай">vaj</Wd>
+<Wd mdfId="тяст">t́ast</Wd>
+<Wd mdfId="расая">rasajä</Wd>
+<Wd edit="MK" mdfId="матрян">mat́ŕän</Wd>
+<tk3 edit="MK" isa="ws"/>
+<Wd edit="MK" mdfId="пильгəнза">ṕiĺgənza</Wd>
+</x>
+<GeoUB edit="MK" xml:lang="mdf">
+<GeoUCtn>
+<GeoU edit="MK">Mam</GeoU>
+</GeoUCtn>
+</GeoUB>
+<sources>
+<book name="IV" pg="120"/>
+</sources>
+<xt xml:lang="deu">Damit Matrjonas Füsse nicht vom Tau nass werden.</xt>
+</xg>
+<xg>
+<x>
+<Wd mdfId="матра">matra</Wd>
+<Wd mdfId="аф">af</Wd>
+<Wd edit="MK" mdfId="кельги">ḱeĺǵi</Wd>
+<Wd mdfId="нумантс">numa·nts</Wd>
+<Hph edit="MK"/>
+<Wd mdfId="котьшкə̑мантс">kot́škə̑mants</Wd>
+</x>
+<GeoUB edit="MK" xml:lang="mdf">
+<GeoUCtn>
+<GeoU edit="MK">Mam</GeoU>
+</GeoUCtn>
+</GeoUB>
+<sources>
+<book name="IV" pg="118"/>
+</sources>
+<xt xml:lang="deu">Matrjona liebt nicht das Schneiden und Jäten.</xt>
+</xg>
+</HWB>
+<Etg>
+<EtSrcL edit="MK" xml:lang="rus"/>
+<EtCtn>
+<Et edit="MK">Матря</Et>
+</EtCtn>[
+<DerivationBlock><DrvT vl="diminutive"/><DrvSrc>Матро́на</DrvSrc>
+</DerivationBlock>]
+</Etg>
+</DictionaryEntry>
+<DictionaryEntry>
+<HWB>
+<E3Head><POS freeType="morphological" pos=""/></E3Head>
+<lg xml:lang="myv"><l>матрё</l>
+<st>матрё</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="матрё">mat́ŕo</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Večk</GeoU>
+<GeoU>NSurk</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
+<DerivationBlock>(eine Art Dem. zu <i><tk2>
+<Wd CyrId="матря">mat́ŕa</Wd></tk2></i>)</DerivationBlock>
+<SenseGroup>
+<Sense vl="notGiven"/>
+</SenseGroup>
+<xg>
+<x>
+<Wd myvId="штатолкс">štatolks</Wd>
+<Wd myvId="палыть">pali͔t́</Wd>
+<tk3 isa="comma"/>
+<Wd myvId="матрё">mat́ŕo</Wd>
+<tk3 isa="comma"/>
+<Wd myvId="сельменᴣэ">śeĺḿenᴣe͔</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Večk</GeoU>
+</GeoUB>
+<sources>
+<book name="I" pg="438"/>
+</sources>
+<xt xml:lang="deu">Wie Kerzen, Matrjoscha, leuchten seine Augen.</xt>
+</xg>
+<xg>
+<x>
+<Wd myvId="уш">uš</Wd>
+<Wd myvId="кинь">ḱiń</Wd>
+<Wd myvId="кучттанок">kučttanok</Wd>
+<Wd myvId="матрёнь">mat́ŕoń</Wd>
+<Wd myvId="тердеме">t́eŕd́eḿe</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>NSurk</GeoU>
+</GeoUB>
+<sources>
+<book name="I" pg="39"/>
+</sources>
+<xt xml:lang="deu">Wen schicken wir um Matrjo herauszurufen?</xt>
+</xg>
+</HWB>
+</DictionaryEntry>
+<DictionaryEntry>
+<HWB>
+<E3Head><POS freeType="morphological" pos=""/></E3Head>
+<lg xml:lang="myv"><l>матрёша</l>
+<st>матрёша</st>
+<PhnUBlock>
+<Chc>
+<Vrt>
+<PhnU>
+<Wd myvId="матрёша">mat́ŕoša</Wd>
+</PhnU>
+</Vrt>
+<Vrt>
+<PhnU>
+<Wd myvId="матрюша">mat́ŕuša</Wd>
+</PhnU>
+</Vrt>
+</Chc>
+<GeoUB xml:lang="myv">
+<GeoU>Večk</GeoU>
+</GeoUB>
+</PhnUBlock>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="матрёша">mat́ŕoša</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>StŠant</GeoU>
+</GeoUB>
+</PhnUBlock>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="матрюша">mat́ŕuša</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>NSurk</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
+<SenseGroup>
+<mg>
+<tg xml:lang="rus">
+<td edit="MK">женское имя</td>
+</tg>
+<tg xml:lang="deu">
+<td>ein Frauenname</td>
+<t type="approx">Matrja</t>
+<t type="approx">Matrjo</t>
+<t type="approx">Matrjona</t>
+<t type="approx">Matrjoscha</t>
+</tg>
+</mg>
+</SenseGroup>
+<xg>
+<x>
+<Wd myvId="се">śe</Wd>
+<Wd myvId="лисьма">ĺiśma</Wd>
+<Wd myvId="прясонть">pŕasońt́</Wd>
+<Wd myvId="матрёша">matŕoša</Wd>
+<Wd myvId="муськи">muśḱi</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Večk</GeoU>
+</GeoUB>
+<sources>
+<book name="I" pg="436"/>
+</sources>
+<xt xml:lang="deu">An der Quelle wäscht Matrjoscha.</xt>
+</xg>
+<xg>
+<x>
+<Wd myvId="тон">ton</Wd>
+<Wd myvId="мейс">ḿejs</Wd>
+<Wd myvId="авардят">avaŕd́at</Wd>
+<tk3 isa="comma"/>
+<Wd myvId="мазы">mazi͔</Wd>
+<Wd myvId="матрюша">mat́ŕuša</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Večk</GeoU>
+</GeoUB>
+<sources>
+<book name="I" pg="436"/>
+</sources>
+<xt xml:lang="deu">Was weinst du, schöne Matrjoscha?</xt>
+</xg>
+<xg>
+<x>
+<Wd myvId="мазы">mazi͔</Wd>
+<Wd myvId="матрёша">mat́ŕoša</Wd>
+<Wd myvId="сонᴣо">sonᴣo</Wd>
+<Wd myvId="лемезэ">ĺeḿeze͔</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>StŠant</GeoU>
+</GeoUB>
+<sources>
+<book name="I" pg="273"/>
+</sources>
+<xt xml:lang="deu">Sie heisst die schöne Matrja (Matrjoscha).</xt>
+</xg>
+<xg>
+<x>
+<Wd myvId="уш">uš</Wd>
+<Wd myvId="давайте">davajt́e</Wd>
+<Wd myvId="пуцынек">puci͔ńeḱ</Wd>
+<Wd myvId="довань">dovań</Wd>
+<Wd myvId="матрюшань">mat́ŕušań</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>NSurk</GeoU>
+</GeoUB>
+<sources>
+<book name="I" pg="39"/>
+</sources>
+<xt xml:lang="deu">Lasst uns der Witwe ihre Matrjo (darunter) legen!</xt>
+</xg>
+</HWB>
+<Etg>
+<EtSrcL edit="MK" xml:lang="rus"/>
+<EtCtn>
+<Et edit="MK">Матрёша</Et>
+</EtCtn>[
+<Et>Матрю́ша</Et>
+<DerivationBlock><DrvT vl="diminutive"/><DrvSrc>Матро́на</DrvSrc>
+</DerivationBlock>]
+</Etg>
+</DictionaryEntry>
+<DictionaryEntry>
+<HWB>
+<E3Head><POS freeType="morphological" pos=""/></E3Head>
+<lg xml:lang="myv"><l>матюша</l>
+<st>матюша</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="матюша">mat́uša</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Mar</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
+<SenseGroup>
+<mg>
+<tg xml:lang="rus">
+<td edit="MK">женское имя</td>
+</tg>
+<tg xml:lang="deu">
+<td>ein Frauenname</td>
+<t type="approx">Matjuscha</t>
+<t type="approx">Matrona</t>
+</tg>
+</mg>
+</SenseGroup>
+<xg>
+<x>
+<Wd myvId="тейтерись">t́ejt́eŕiś</Wd>
+<Wd myvId="пароль">paroĺ</Wd>
+<Wd myvId="сыре">si͔ŕe</Wd>
+<Wd myvId="матюша">mat́uša</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Mar</GeoU>
+</GeoUB>
+<sources>
+<book name="1" pg="30"/>
+</sources>
+<xt xml:lang="deu">Ein gutes Mädchen war die alte Matjuscha (Matrona).</xt>
+</xg>
+</HWB>
+<Etg>
+<EtSrcL edit="MK" xml:lang="rus"/>
+<EtCtn>
+<Et edit="MK">Матю́ша</Et>
+</EtCtn>[
+<DerivationBlock><DrvT vl="diminutive"/><DrvSrc>Матро́на</DrvSrc>
+</DerivationBlock>]
+</Etg>
+</DictionaryEntry></NE>
+  <NE idNo="1">
+<DictionaryEntry>
+<HWB>
+<E3Head><POS/><deriv isa="DVNoun-MKA"/></E3Head>
+<lg xml:lang="myv"><l pos="Prop">самка</l>
+<st>самка</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="самка">samka</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Večk</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
+<SenseGroup>
+<mg>
+<tg xml:lang="rus">
+<td edit="MK">мужское имя</td>
+</tg>
+<tg xml:lang="deu">
+<td>ein Männername</td>
+</tg>
+</mg>
+</SenseGroup>
+<xg>
+<x>
+<Wd myvId="полай">polaj</Wd>
+<tk3 isa="comma"/>
+<Wd myvId="полай">polaj</Wd>
+<Wd myvId="а">a</Wd>
+<Wd myvId="самка">samka</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Večk</GeoU>
+</GeoUB>
+<sources>
+<book name="II" pg="171"/>
+</sources>
+<xt xml:lang="deu">Gatte, Gatte, Samka!</xt>
+</xg>
+</HWB>
+<Etg>
+<EtSrcL edit="MK" xml:lang="rus"/>
+<EtCtn>
+<Et edit="MK">? Самуи́л</Et>
+</EtCtn>
+</Etg>
+</DictionaryEntry></NE>
+  <NE idNo="3">
+<DictionaryEntry>
+<HWB>
+<E3Head><POS/></E3Head>
+<lg xml:lang="myv"><l pos="Prop">утя</l>
+<st>утя</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="утя">ut́a</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Sob</GeoU>
+<GeoU>Večk</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
+<SenseGroup>
+<mg>
+<tg xml:lang="rus">
+<td edit="MK">женское имя</td>
+</tg>
+<tg xml:lang="deu">
+<t>ein Frauenname</t>
+</tg>
+</mg>
+</SenseGroup>
+<xg>
+<x>
+<Wd myvId="утянь">ut́ań</Wd>
+<tk3 isa="comma"/>
+<Wd myvId="утянь">ut́ań</Wd>
+<tk3 isa="comma"/>
+<Wd myvId="а">a</Wd>
+<Wd myvId="утяша">ut́aša</Wd>
+<Hph edit="MK"/>
+<Wd myvId="сазорнэм">sazorne͔m</Wd>
+<Wd myvId="монь">moń</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Večk</GeoU>
+</GeoUB>
+<sources>
+<book name="I" pg="431"/>
+</sources>
+<xt xml:lang="deu">Utjascha, Utjascha, Utjascha, meine [jüngere] Schwester!</xt>
+</xg>
+</HWB>
+</DictionaryEntry>
+<DictionaryEntry>
+<HWB>
+<E3Head><POS freeType="morphological" pos=""/></E3Head>
+<lg xml:lang="myv"><l>утяша</l>
+<st>утяша</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="утяша">ut́aša</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Sob</GeoU>
+<GeoU>Večk</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
+<SenseGroup>
+<mg>
+<tg xml:lang="rus">
+<td edit="MK">женское имя</td>
+</tg>
+<t xml:lang="deu">ein Frauenname (russ. Dem., wechselt mit der F. <FrnTxt><Wd CyrId="утя">ut́a</Wd></FrnTxt>)</t>
+</mg>
+</SenseGroup>
+<xg>
+<x>
+<Wd myvId="утянь">ut́äń</Wd>
+<tk3 isa="comma"/>
+<Wd myvId="утянь">ut́äń</Wd>
+<tk3 isa="comma"/>
+<Wd myvId="утяша">ut́aša</Wd>
+<tk3 isa="comma"/>
+<Wd myvId="утяшине">ut́ašińe</Wd>
+<tk3 isa="excl"/></x>
+<GeoUB xml:lang="myv">
+<GeoU>Sob</GeoU>
+</GeoUB>
+<sources>
+<book name="VII" pg="302"/>
+</sources>
+<xt xml:lang="deu">Utja, Utja, Utjascha, Utjascha!</xt>
+</xg>
+</HWB>
+</DictionaryEntry>
+<DictionaryEntry>
+<HWB>
+<E3Head><POS/><deriv isa="dim-NE"/></E3Head>
+<lg xml:lang="myv"><l pos="N">утяшине</l>
+<st>утяшине</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="утяшине">ut́ašińe</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Sob</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
+<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="утяша">ut́aša</Wd></DrvSt></DrvStCtn></DrvG>
+<SenseGroup>
+<Sense vl="notGiven"/>
+</SenseGroup>
+<xg/>
+</HWB>
+</DictionaryEntry></NE>
+  <NE idNo="1">
+<DictionaryEntry>
+<HWB>
+<E3Head><POS freeType="morphological" pos="Prop"/></E3Head>
+<lg xml:lang="myv"><l pos="Prop">яхим</l>
+<st>яхим</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="ях́ім">jaᵪ́im</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Atr</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
+<SenseGroup>
+<mg>
+<tg xml:lang="rus">
+<td edit="MK">мужское имя</td>
+<t edit="MK">Иаким</t>
+<t edit="MK">Яким</t>
+</tg>
+<tg xml:lang="deu">
+<td>ein Männername</td>
+<t>Joachim</t>
+</tg>
+</mg>
+</SenseGroup>
+</HWB>
+<Etg>
+<EtSrcL edit="MK" xml:lang="rus"/>
+<EtCtn>
+<Et edit="MK">Иаки́м</Et>
+</EtCtn>
+<Et edit="MK">Ефи́м</Et>
+</Etg>
+</DictionaryEntry>
+<DictionaryEntry>
+<HWB>
+<E3Head><POS pos="N"/><deriv isa="DVNoun-MKA"/></E3Head>
+<lg xml:lang="myv"><l pos="Prop">яхимка</l>
+<st>яхимка</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="ях́імка">jaᵪ́imka</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Bug</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
+<DrvG><DrvT vl="diminutive"/></DrvG>
+<SenseGroup>
+<mg>
+<tg xml:lang="rus">
+<td edit="MK">мужское имя</td>
+<t edit="MK">Якимка</t>
+</tg>
+<tg xml:lang="deu">
+<td>ein Männername</td>
+</tg>
+</mg>
+</SenseGroup>
+</HWB>
+<Etg>
+<EtSrcL edit="MK" xml:lang="rus"/>
+<EtCtn>
+<Et edit="MK">Яки́мка</Et>
+</EtCtn>[
+<DerivationBlock><DrvT vl="diminutive"/><DrvSrc>Иаки́м</DrvSrc>
+</DerivationBlock>]
+</Etg>
+</DictionaryEntry></NE>
+  <NE idNo="1">
+<DictionaryEntry>
+<HWB>
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
 </lg>

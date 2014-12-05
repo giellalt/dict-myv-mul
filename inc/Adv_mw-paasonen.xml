@@ -935,7 +935,7 @@ Tat., tschuw
 </HWB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l/><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Adv"/><st/>
 </lg>
 <lg xml:lang="mdf"><l>тепәнь-тяпәнь</l>
 <st>тепәнь-тяпәнь</st>
@@ -16089,40 +16089,767 @@ Eine unrichtig gebildete Instr.-F. vom russ. Subst. <Et>сердце]</Et>
 <DictionaryEntry>
 <HWB>
 <E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="N">XX</l><st/>
-</lg>
-<lg xml:lang="mdf"><l pos="N">бакша</l>
-<st>бакша</st>
+<lg xml:lang="myv"><l pos="Adv">арась</l>
+<st>арась</st>
 <PhnUBlock>
 <PhnU>
-<Wd mdfId="бакша">bakša</Wd>
+<Wd myvId="арась">araś</Wd>
 </PhnU>
-<GeoUB xml:lang="mdf">
-<GeoU>Jurtk</GeoU>
+<GeoUB xml:lang="myv">
+<GeoU extension="common"/>
 </GeoUB>
 </PhnUBlock>
+</lg>
+<lg xml:lang="mdf"><l pos="Adv">арась-</l>
+<st>арась-</st>
+<PhnUBlock>
+<PhnU>
+<Wd mdfId="арась">araś</Wd>
+<Hph/>
+</PhnU>
+<GeoUB xml:lang="mdf">
+<GeoU>Sel</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<DerivationBlock>[negatives Suppl. für ‘sein’, 3. Sg. Präs., Grund-F., die nach Art der Nomina konjugiert wird]</DerivationBlock>
+<SenseGroup>
+<mg>
+<tg xml:lang="rus">
+<t>нет</t>
+<t>не имеется</t>
+</tg>
+<tg xml:lang="deu">
+<t>ist nicht (vorhanden)</t>
+<t>existiert nicht</t>
+</tg>
+<tg xml:lang="deu">
+<t>es gibt nicht</t>
+<t>es mangelt; [mit Gen. u. Poss.-Suff. am grammatikalischen Subj.] (die betr. Person) hat (ihn, sie, es) nicht</t>
+</tg>
+</mg>
+</SenseGroup>
+;
+<SenseGroup>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">не</t>
+</tg>
+<t xml:lang="deu">nein, nicht. [Die übrigen bel. Präs.- u. Prät.-F.:] 1. Sg. Präs. <FrnTxt><Wd CyrId="арасян">araśan</Wd></FrnTxt> 
+<GeoUB xml:lang="myv">
+<GeoU extension="common"/>
+</GeoUB>
+ ich bin nicht, mich gibt es nicht; 2. Sg. <FrnTxt><Wd CyrId="арасят">araśat</Wd></FrnTxt> 
+<GeoUB xml:lang="myv">
+<GeoU extension="common"/>
+</GeoUB>
+ du bist nicht, dich gibt es nicht; 3. Pl. <FrnTxt><Wd CyrId="арасть">araśt́</Wd></FrnTxt> 
+<GeoUB xml:lang="myv">
+<GeoU extension="common"/>
+</GeoUB>
+ 
+<GeoUB xml:lang="mdf">
+<GeoU>Sel</GeoU>
+</GeoUB>
+ sie sind nicht (vorhanden), existieren nicht, es gibt sie nicht; [mit Gen. u. Poss.-Suff.] (die betr. Person) hat sie nicht; Prät. 1. Sg. <FrnTxt><Wd CyrId="араселинь">araśeĺiń</Wd></FrnTxt> 
+<GeoUB xml:lang="myv">
+<GeoU extension="common"/>
+</GeoUB>
+ ich war nicht, mich gab es nicht; 2. Sg. <FrnTxt><Wd CyrId="араселить">araśeĺit́</Wd></FrnTxt> du warst nicht, es gab dich nicht; 3. Sg. <CapI>
+<i><tk2>
+<Wd CyrId="арасель">araśeĺ</Wd></tk2></i></CapI> er (sie, es) war nicht, existierte nicht, es gab ihn (sie, es) nicht; [mit Gen. u. Poss.-Suff.] (die betr. Person) hatte ihn (sie, es) nicht; 1. Pl. <CapI>
+<i><tk2>
+<Wd CyrId="араселинек">araśeĺińek</Wd></tk2></i></CapI> 
+<GeoUB xml:lang="myv">
+<GeoU extension="common"/>
+</GeoUB>
+ wir waren nicht, es gab uns nicht; 2. Pl. <CapI>
+<i><tk2>
+<Wd CyrId="араселиде">araśeĺid́e</Wd></tk2></i></CapI> 
+<GeoUB xml:lang="myv">
+<GeoU extension="common"/>
+</GeoUB>
+ ihr waret nicht, es gab euch nicht; 3. Pl. <CapI>
+<i><tk2>
+<Wd CyrId="арасельть">araśeĺt́</Wd></tk2></i></CapI> 
+<GeoUB xml:lang="myv">
+<GeoU extension="common"/>
+</GeoUB>
+, <CapI>
+<i><tk2>
+<Wd CyrId="арасильхть">araśiĺʿt́</Wd></tk2></i></CapI> 
+<GeoUB xml:lang="mdf">
+<GeoU>Sel</GeoU>
+</GeoUB>
+ sie waren nicht, existierten nicht, es gab sie nicht; [mit Gen. u. Poss.-Suff.] (die betr. Person) hatte sie nicht.</t>
+</mg>
+</SenseGroup>
+<xg>
+<x>
+<Wd myvId="косо">koso</Wd>
+<Wd myvId="ульнинь">uĺńiń</Wd>
+<tk3 isa="comma"/>
+<Wd myvId="сесэ">śese͔</Wd>
+<Wd myvId="арасян">araśan</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>NBajt</GeoU>
+</GeoUB>
+<sources>
+<book name="VI" pg="224"/>
+</sources>
+<xt xml:lang="deu">Wo ich war, dort bin ich nicht (mehr) (so lässt man eine unbehagliche Frage ohne Antwort).</xt>
+</xg>
+<xg>
+<x>
+<Wd myvId="мон">mon</Wd>
+<Wd myvId="вить">v́it́</Wd>
+<Wd myvId="сембийзэ">śeḿb́ijze͔</Wd>
+<Wd myvId="толька">toĺka</Wd>
+<Wd myvId="вете">v́et́e</Wd>
+<Wd myvId="чить">čit́</Wd>
+<Wd myvId="кудуса">kudusa</Wd>
+<Wd myvId="кода">koda</Wd>
+<Wd myvId="арасян">araśan</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Šokša</GeoU>
+</GeoUB>
+<sources>
+<book name="VII" pg="462"/>
+</sources>
+<xt xml:lang="deu">Ich bin ja nur fünf Tage insgesamt von Hause weggewesen.</xt>
+</xg>
+<xg>
+<x>
+<Wd myvId="тон">ton</Wd>
+<Wd myvId="яла">jala</Wd>
+<Wd myvId="косояк">kosojak</Wd>
+<Wd myvId="арасят">araśat</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Mar</GeoU>
+</GeoUB>
+<sources>
+<book name="2" pg="123"/>
+</sources>
+<xt xml:lang="deu">Aber nirgends warst du (= Dich gibt es [immerhin] nirgends).</xt>
+</xg>
+<xg>
+<x>
+<Wd myvId="кудось">kudoś</Wd>
+<Wd myvId="чаво">čavo</Wd>
+<tk3 isa="comma"/>
+<Wd myvId="кияк">ḱijak</Wd>
+<Wd myvId="арась">araś</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Mar</GeoU>
+</GeoUB>
+<sources>
+<book name="2" pg="80"/>
+</sources>
+<xt xml:lang="deu">Das Haus ist leer, niemand ist da.</xt>
+</xg>
+<xg>
+<x>
+<Wd myvId="кулумане">kulumańe</Wd>
+<Wd myvId="меŋ́ге">ḿeŋ́ǵe</Wd>
+<Wd myvId="арась">araś</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>NBajt</GeoU>
+</GeoUB>
+<sources>
+<book name="VI" pg="224"/>
+</sources>
+<xt xml:lang="deu">Gegen den Tod gibt es kein Mittel.</xt>
+</xg>
+<xg>
+<x>
+<Wd myvId="кудутес">kudut́es</Wd>
+<Wd myvId="кияк">ḱijak</Wd>
+<Wd myvId="арась">araś</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Kal</GeoU>
+</GeoUB>
+<sources>
+<book name="2" pg="144"/>
+</sources>
+<xt xml:lang="deu">In der Stube war niemand.</xt>
+</xg>
+<xg>
+<x>
+<Wd myvId="кудом">kudom</Wd>
+<Wd myvId="арась">araś</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Mar</GeoU>
+</GeoUB>
+<sources>
+<book name="1" pg="20"/>
+</sources>
+<xt xml:lang="deu">Ich habe kein Haus.</xt>
+</xg>
+<xg>
+<x>
+<Wd myvId="арась">araś</Wd>
+<Wd myvId="урям">uŕam</Wd>
+<Wd myvId="васькамум">vaśkamum</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Hl</GeoU>
+</GeoUB>
+<sources>
+<book name="1" pg="160"/>
+</sources>
+<xt xml:lang="deu">Ich habe (freilich) keine Brudersfrau, keine Verzärtlerin.</xt>
+</xg>
+<xg>
+<x>
+<Wd myvId="лангост">laŋgost</Wd>
+<Wd myvId="орчамс">orčams</Wd>
+<Wd myvId="палят">paĺat</Wd>
+<Wd myvId="арась">araś</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Jeg</GeoU>
+</GeoUB>
+<sources>
+<book name="1" pg="104"/>
+</sources>
+<xt xml:lang="deu">Du hast kein Hemd zum Anziehen.</xt>
+</xg>
+<xg>
+<x>
+<Chc>
+<Vrt>
+<Wd myvId="васиндьяк">vaśińd́jak</Wd>
+</Vrt>
+<Vrt>
+<Wd myvId="васиндеяк">vaśińd́ejak</Wd>
+</Vrt>
+</Chc>
+<Wd myvId="арась">araś</Wd>
+<Wd myvId="неинь">ńejiń</Wd>
+<Wd myvId="нужазо">nužazo</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Mar</GeoU>
+</GeoUB>
+<sources>
+<book name="1" pg="50"/>
+</sources>
+<xt xml:lang="deu">Mehr denn früher leidet er auch jetzt keine Not.</xt>
+</xg>
+<xg>
+<x>
+<Wd myvId="сон">son</Wd>
+<Wd myvId="нефня">ńef́ńä</Wd>
+<Wd myvId="прянза">ṕŕanza</Wd>
+<Wd myvId="икᴉля">iḱᴉĺä</Wd>
+<tk3 isa="comma"/>
+<Wd myvId="бᴉ͐та">bᴉ͐ta</Wd>
+<Wd myvId="арась">araś</Wd>
+<Wd myvId="мельᴉза">ḿeĺᴉza</Wd>
+<Wd myvId="озамс">ozams</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Kažl</GeoU>
+</GeoUB>
+<sources>
+<book name="2" pg="150"/>
+</sources>
+<xt xml:lang="deu">Er stellt[e] sich erst an, als ob er sich nicht setzen möchte.</xt>
+</xg>
+<xg>
+<x>
+<Wd mdfId="венептсь">v́eńəṕtś</Wd>
+<Wd mdfId="пильгəнтс">ṕiĺǵənts</Wd>
+<tk3 isa="dash"/>
+<Wd mdfId="полатс">polats</Wd>
+<Wd mdfId="арась">araś</Wd>
+</x>
+<GeoUB edit="MK" xml:lang="mdf">
+<GeoUCtn>
+<GeoU edit="MK">Sel</GeoU>
+</GeoUCtn>
+</GeoUB>
+<sources>
+<book name="IV" pg="238"/>
+</sources>
+<xt xml:lang="deu">Sie streckte ihr Bein aus – ihr Gatte ist nicht da.</xt>
+</xg>
+<xg>
+<x>
+<Wd myvId="ней">ńej</Wd>
+<Wd myvId="арась">araś</Wd>
+<Wd myvId="ярцамс">jarcams</Wd>
+<Wd myvId="мінек">mińeḱ</Wd>
+<Wd myvId="сюронок">śuronok</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Mar</GeoU>
+</GeoUB>
+<sources>
+<book name="1" pg="36"/>
+</sources>
+<xt xml:lang="deu">Jetzt haben wir kein Getreide zum Essen.</xt>
+</xg>
+<xg>
+<x>
+<Wd myvId="туи">tuji</Wd>
+<Wd myvId="арась">araś</Wd>
+<Wd myvId="тякам">t́akam</Wd>
+<Wd myvId="мельзэть">ḿeĺze͔t́</Wd>
+<tk3 isa="quest"/></x>
+<GeoUB xml:lang="myv">
+<GeoU>Večk</GeoU>
+</GeoUB>
+<xt xml:lang="deu">Gefällt dir mein Kind oder nicht?</xt>
+</xg>
+<xg>
+<x>
+<Wd myvId="истят">iśt́at</Wd>
+<Wd myvId="мастор">mastor</Wd>
+<Wd myvId="ланксояк">laŋksojak</Wd>
+<Wd myvId="арасть">araśt́</Wd>
+<Wd myvId="ярцамот">jarcamot</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Mar</GeoU>
+</GeoUB>
+<sources>
+<book name="2" pg="106"/>
+</sources>
+<xt xml:lang="deu">Solche Gerichte gibt es nicht in der ganzen Welt.</xt>
+</xg>
+<xg>
+<x>
+<Wd myvId="монь">moń</Wd>
+<Wd myvId="арасть">araśt́</Wd>
+<Wd myvId="лелям">ĺeĺam</Wd>
+<Wd myvId="урежем">uŕeže͔m</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Mar</GeoU>
+</GeoUB>
+<sources>
+<book name="1" pg="200"/>
+</sources>
+<xt xml:lang="deu">Ich habe keinen Bruder, keine Schwägerin.</xt>
+</xg>
+<xg>
+<x>
+<Wd myvId="солотнэ">solotne͔</Wd>
+<Wd myvId="видь">v́id́</Wd>
+<Wd myvId="миник">ḿińiḱ</Wd>
+<Wd myvId="арасть">araśt́</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Kal</GeoU>
+</GeoUB>
+<sources>
+<book name="2" pg="128"/>
+</sources>
+<xt xml:lang="deu">Wir haben ja kein Malz.</xt>
+</xg>
+<xg>
+<x>
+<Wd myvId="тесэ">t́ese͔</Wd>
+<Wd myvId="арасель">araśeĺ</Wd>
+<Wd myvId="кудыне">kudi͔ńe</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Mar</GeoU>
+</GeoUB>
+<sources>
+<book name="2" pg="116"/>
+</sources>
+<xt xml:lang="deu">Es gab hier kein Häuschen.</xt>
+</xg>
+<xg>
+<x>
+<Wd myvId="кавто">kavto</Wd>
+<Wd myvId="част">čast</Wd>
+<Wd myvId="арасель">araśeĺ</Wd>
+<Wd myvId="оймезэ">ojḿeze͔</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>SŠant</GeoU>
+</GeoUB>
+<sources>
+<book name="I" pg="23"/>
+</sources>
+<xt xml:lang="deu">Zwei Stunden war sie (wie) leblos.</xt>
+</xg>
+<xg>
+<x>
+<Wd myvId="конат">konat</Wd>
+<Wd myvId="арасельть">araśeĺt́</Wd>
+<Wd myvId="ве">v́e</Wd>
+<Wd myvId="думсо">dumso</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Mar</GeoU>
+</GeoUB>
+<sources>
+<book name="1" pg="156"/>
+</sources>
+<xt xml:lang="deu">Wer an eurem Plane nicht teilnahm.</xt>
+</xg>
+<xg>
+<x>
+<Wd myvId="арасельть">araśeĺt́</Wd>
+<Wd myvId="сынст">si͔nst</Wd>
+<Wd myvId="а">a</Wd>
+<Wd myvId="эйдест">ejd́est</Wd>
+<Wd myvId="а">a</Wd>
+<Wd myvId="какшост">kakšost</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Vez</GeoU>
+</GeoUB>
+<xt xml:lang="deu">Sie hatten keine Kinder, keine Nachkommen.</xt>
+</xg>
+<xg>
+<x>
+<Wd myvId="неть">ńet́</Wd>
+<Wd myvId="арасельть">araśeĺt́</Wd>
+<Wd myvId="сынь">si͔ń</Wd>
+<Wd myvId="кортазь">kortaź</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>MKly</GeoU>
+</GeoUB>
+<sources>
+<book name="VII" pg="24"/>
+</sources>
+<xt xml:lang="deu">Diese (Sachen) blieben unbesprochen.</xt>
+</xg>
+</HWB>
+</DictionaryEntry>
+<DictionaryEntry>
+<HWB>
+<E3Head><POS/></E3Head>
+<lg xml:lang="myv"><l pos="N">аразь-тарка</l>
+<st>аразь-тарка</st>
+<PhnUBlock>
+<Chc>
+<Vrt>
+<PhnU>
+<Wd myvId="арась">araś</Wd>
+<Hph/>
+<Wd myvId="тарка">tarka</Wd>
+</PhnU>
+</Vrt>
+<Vrt>
+<PhnU>
+<FrCm freeType="RelationToPreviousSibling" status="~"/>
+<Wd myvId="арась">ara·ś</Wd>
+<Hph/>
+<Wd myvId="тарка">tarka</Wd>
+</PhnU>
+</Vrt>
+</Chc>
+<GeoUB xml:lang="myv">
+<GeoU>Mar</GeoU>
+</GeoUB>
+</PhnUBlock>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="арась">araś</Wd>
+<Hph/>
+<Wd myvId="тарка">tarka</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Bug</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
 </lg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
-<t edit="MK">огород</t>
+<t edit="MK">недостаток</t>
+<t edit="MK">нужда</t>
+<t edit="MK">потребность</t>
 </tg>
 <tg xml:lang="deu">
-<t>Gemüsegarten (unumzäunt) auf dem Felde, in dem Rüben, Wassermelonen u. dgl. wachsen</t>
+<t>Mangel</t>
+<t pos="N">Entbehrung</t>
+<t>Bedürfnis</t>
 </tg>
 </mg>
 </SenseGroup>
+<xg>
+<x>
+<Wd myvId="минек">ḿińek</Wd>
+<Wd myvId="ней">ńej</Wd>
+<Wd myvId="арась">araś</Wd>
+<Hph/>
+<Wd myvId="тарканок">tarkanok</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Mar</GeoU>
+</GeoUB>
+<xt xml:lang="deu">Wir haben jetzt Bedürfnis (an allem).</xt>
+</xg>
+<xg>
+<x>
+<Wd myvId="эсь">eś</Wd>
+<Wd myvId="паро">paro</Wd>
+<Hph edit="MK"/>
+<Wd myvId="чить">čit́</Wd>
+<Wd myvId="тон">ton</Wd>
+<Wd myvId="кандат">kandat</Wd>
+<tk3 isa="comma"/>
+<Wd myvId="арась">araś</Wd>
+<Hph edit="MK"/>
+<Wd myvId="тарка">tarka</Wd>
+<Wd myvId="тон">ton</Wd>
+<Wd myvId="теят">t́ejat</Wd>
+</x>
+<GeoUB edit="MK" xml:lang="myv">
+<GeoUCtn>
+<FrCm edit="MK" freeType="questionRelation" Modification="MK"/>
+<GeoU>Bug</GeoU>
+</GeoUCtn>
+</GeoUB>
+<sources>
+<book name="V" pg="506"/>
+</sources>
+<xt xml:lang="deu">Trägst du dein Eigentum (in alle Winde), machst du dir Armut.</xt>
+</xg>
 </HWB>
-<Etg>[
-Eine neuerliche Entlehn. von tat. <Et>
-<Wd CyrId="бакча">bakča</Wd></Et>
-</Etg>
-<Etg>
-<EtType vl="vgl"/>
-<EtSrcL xml:lang="mrdv"/>
-<Et>
-<Wd CyrId="пакся">pakśa</Wd></Et>]
-</Etg>
+</DictionaryEntry>
+<DictionaryEntry>
+<HWB>
+<E3Head><POS/></E3Head>
+<lg xml:lang="myv"><l pos="N">аразь-чи</l>
+<st>аразь-чи</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="арась">araś</Wd>
+<Hph/>
+<Wd myvId="чи">či͔</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU/>
+</GeoUB>
+</PhnUBlock>
+<PhnUBlock>
+<Chc>
+<Vrt>
+<PhnU>
+<Wd myvId="арась">araś</Wd>
+<Hph/>
+<Wd myvId="чи">či</Wd>
+</PhnU>
+</Vrt>
+<Vrt>
+<PhnU>
+<Wd myvId="арась">ara·ś</Wd>
+<Hph/>
+<Wd myvId="чи">či</Wd>
+</PhnU>
+</Vrt>
+</Chc>
+<GeoUB xml:lang="myv">
+<GeoU>Mar</GeoU>
+</GeoUB>
+</PhnUBlock>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="арась">araś</Wd>
+<Hph/>
+<Wd myvId="чи">či</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Petr</GeoU>
+<GeoU>Bug</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
+<SenseGroup>
+<mg>
+<tg xml:lang="rus">
+<t>беднота</t>
+</tg>
+<tg xml:lang="rus">
+<t edit="MK">нужда</t>
+<t edit="MK">недостаток</t>
+</tg>
+<tg xml:lang="deu">
+<t>Armut</t>
+<t>Bedürfnis</t>
+<t>Mangel</t>
+</tg>
+</mg>
+</SenseGroup>
+<xg>
+<x>
+<Wd myvId="народ">narod</Wd>
+<Wd myvId="эре">eŕe</Wd>
+<Wd myvId="арась">araś</Wd>
+<Hph/>
+<Wd myvId="чиса">čisa</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Petr</GeoU>
+</GeoUB>
+<sources>
+<book name="VIII" pg="120"/>
+</sources>
+<xt xml:lang="deu">Die Leute leben in Armut.</xt>
+</xg>
+<xg>
+<x>
+<Wd edit="MK" myvId="ней">ńej</Wd>
+<Wd myvId="эрян">eŕan</Wd>
+<Hph edit="MK"/>
+<Wd myvId="аштан">aštan</Wd>
+<Wd myvId="мон">mon</Wd>
+<Wd myvId="арась">araś</Wd>
+<Hph edit="MK"/>
+<Wd myvId="чисэ">čise͔</Wd>
+</x>
+<GeoUB edit="MK" xml:lang="myv">
+<GeoUCtn>
+<FrCm edit="MK" freeType="questionRelation" Modification="MK"/>
+<GeoU>Bug</GeoU>
+</GeoUCtn>
+</GeoUB>
+<sources>
+<book name="V" pg="146"/>
+</sources>
+<xt xml:lang="deu">Nun lebe ich in Armut.</xt>
+</xg>
+</HWB>
+<MWUB>
+<E3Head><POS freeType="morphological" pos="noun:Indet.Ine"/></E3Head>
+<lg xml:lang="myv"><l>аразь-чисэ</l>
+<st>аразь-чисэ</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="арась">araś</Wd>
+<Hph/>
+<Wd myvId="чиса">čisa</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Petr</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
+<DrvG>(<Cx vl="inessive"/>)</DrvG>
+<SenseGroup>
+<mg>
+<tg xml:lang="rus">
+<t>бедный</t>
+</tg>
+<tg xml:lang="deu">
+<t>arm</t>
+</tg>
+</mg>
+</SenseGroup>
+<xg>
+<x>
+<Wd myvId="улинь">uĺiń</Wd>
+<Wd myvId="дяряйть">d́äŕajt́</Wd>
+<Wd myvId="велеса">v́eĺesa</Wd>
+<Wd myvId="арась">araś</Wd>
+<Hph/>
+<Wd myvId="чиса">čisa</Wd>
+<Wd myvId="ломатть">lomatt́</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Petr</GeoU>
+</GeoUB>
+<sources>
+<book name="VIII" pg="84"/>
+</sources>
+<xt xml:lang="deu">Gibt es im Dorfe arme Leute.</xt>
+</xg>
+<xg>
+<x>
+<Wd edit="MK" myvId="арасьчисынть">araśčisi͔ńt́</Wd>
+<Wd myvId="пельде">ṕeĺd́e</Wd>
+<Wd myvId="саіть">sait́</Wd>
+<Wd myvId="кемень">ḱeḿeń</Wd>
+<Hph/>
+<Wd myvId="кеветее">ḱev́et́eje</Wd>
+<Wd myvId="аша">aša</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Petr</GeoU>
+</GeoUB>
+<sources>
+<book name="VIII" pg="152"/>
+</sources>
+<xt xml:lang="deu">Von einem Armen nahmen (forderten) sie 10-15 Rubel.</xt>
+</xg>
+</MWUB>
+</DictionaryEntry>
+<DictionaryEntry>
+<HWB>
+<E3Head><POS/><deriv isa="dim-KE"/></E3Head>
+<lg xml:lang="myv"><l pos="N">аразьке</l>
+<st>аразьке</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="араське">araśḱe</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Gor</GeoU>
+<GeoU>Ufa</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
+<SenseGroup>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">недостаток</t>
+<t edit="MK">потребность</t>
+<t edit="MK">нужда</t>
+</tg>
+<tg xml:lang="deu">
+<t>Mangel</t>
+<t>Bedürfnis</t>
+<t pos="N">Entbehrung</t>
+</tg>
+</mg>
+</SenseGroup>
+<xg>
+<x>
+<Wd myvId="верде">v́eŕd́e</Wd>
+<Wd myvId="пиземекс">ṕiźeḿeks</Wd>
+<Wd myvId="пизезэ">ṕiźeze͔</Wd>
+<tk3 isa="comma"/>
+<Wd myvId="алдо">aldo</Wd>
+<Wd myvId="лисьмакс">ĺiśmaks</Wd>
+<Wd myvId="лисезэ">ĺiśeze͔</Wd>
+<tk3 isa="comma"/>
+<Wd myvId="те">t́e</Wd>
+<Wd myvId="араськенть">araśḱeńt́</Wd>
+<Wd myvId="пешчазо">ṕeščazo</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Gor</GeoU>
+</GeoUB>
+<sources>
+<book name="VII" pg="112"/>
+</sources>
+<xt xml:lang="deu">Sie möge von oben als Regen regnen, von unten als Quelle hervorsprudeln, (und so) diesen Schaden ersetzen!</xt>
+</xg>
+</HWB>
 </DictionaryEntry></NE>
   <NE idNo="1">
 <DictionaryEntry>
