@@ -19,9 +19,8 @@
 </GeoUB>
 <InflB>
 <InflCtn>
-<InflTags tag="+SP+Gen+Indef"/>
 <Infl>
-<Wd mdfId="ае̑кстонь">ajə̑kstə̑ń</Wd>
+<Wd tag="+SP+Gen+Indef" mdfId="ае̑кстонь">ajə̑kstə̑ń</Wd>
 </Infl>
 </InflCtn>
 </InflB>
@@ -171,9 +170,8 @@ baschk. <Et><i>
 </GeoUB>
 <InflB>
 <InflCtn>
-<InflTags tag="+Pl+Nom+Indef"/>
 <Infl>
-<Wd mdfId="сететт">śet́ett</Wd>
+<Wd tag="+Pl+Nom+Indef" mdfId="сететт">śet́ett</Wd>
 </Infl>
 </InflCtn>
 </InflB>
@@ -510,9 +508,8 @@ baschk. <Et><i>
 </sources>
 <InflB>
 <InflCtn>
-<InflTags tag="+Pl+Nom+Indef"/>
 <Infl>
-<Wd myvId="берять">b́eŕat́</Wd>
+<Wd tag="+Pl+Nom+Indef" myvId="берять">b́eŕat́</Wd>
 </Infl>
 <Infl>
 <Wd myvId="береть">b́eŕet́</Wd>
@@ -527,15 +524,13 @@ baschk. <Et><i>
 <Wd myvId="берянь">b́eŕäń</Wd>
 <InflB>
 <InflCtn>
-<InflTags tag="+SP+Gen+Indef"/>
 <Infl>
-<Wd myvId="берянинь">b́eŕäńiń</Wd>
+<Wd tag="+SP+Gen+Indef" myvId="берянинь">b́eŕäńiń</Wd>
 </Infl>
 </InflCtn>,
 <InflCtn>
-<InflTags tag="+Pl+Nom+Indef"/>
 <Infl>
-<Wd myvId="берять">b́eŕät́</Wd>
+<Wd tag="+Pl+Nom+Indef" myvId="берять">b́eŕät́</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -726,9 +721,8 @@ baschk. <Et><i>
 </GeoUB>
 <InflB>
 <InflCtn>
-<InflTags tag="+SP+Gen+Indef"/>
 <Infl><Wd mdfId="пярянь">ṕäŕäń</Wd>
-<Wd mdfId="пецянь">ṕećäń</Wd>
+<Wd tag="+SP+Gen+Indef" mdfId="пецянь">ṕećäń</Wd>
 </Infl>
 </InflCtn>
 </InflB>
@@ -1380,9 +1374,8 @@ baschk. <Et><i>
 </GeoUB>
 <InflB>
 <InflCtn>
-<InflTags tag="+SP+Gen+Indef"/>
 <Infl>
-<Wd mdfId="пасморань">pasmə̑rań</Wd>
+<Wd tag="+SP+Gen+Indef" mdfId="пасморань">pasmə̑rań</Wd>
 </Infl>
 </InflCtn>
 </InflB>
@@ -1808,12 +1801,11 @@ baschk. <Et><i>
 </GeoUB>
 <InflB>
 <InflCtn>
-<InflTags tag="+SP+Gen+Indef"/>
 <GeoUB xml:lang="mdf">
 <GeoU>P</GeoU>
 </GeoUB>
 <Infl>
-<Wd mdfId="покарявон">pokaŕavə̑n</Wd>
+<Wd tag="+SP+Gen+Indef" mdfId="покарявон">pokaŕavə̑n</Wd>
 </Infl>
 </InflCtn>
 </InflB>
@@ -1944,13 +1936,13 @@ baschk. <Et><i>
 <Wd mdfId="покарьгадомс">pokaŕgadə̑ms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="покарьгадан">pokaŕgadan</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="покарьгадан">pokaŕgadan</Wd>
 </Infl>
 </InflCtn>
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg3"/><Infl>
-<Wd mdfId="покарьгады">pokaŕgadi͔</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg3" mdfId="покарьгады">pokaŕgadi͔</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -1988,13 +1980,13 @@ baschk. <Et><i>
 <Wd mdfId="покарьгафтомс">pokaŕgaftə̑ms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="покарьгафтан">pokaŕgaftan</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="покарьгафтан">pokaŕgaftan</Wd>
 </Infl>
 </InflCtn>
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg3"/><Infl>
-<Wd mdfId="покарьгафты">pokaŕgafti͔</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg3" mdfId="покарьгафты">pokaŕgafti͔</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -2546,9 +2538,8 @@ baschk. <Et><i>
 <Wd mdfId="тишӓ">t́išä</Wd>
 <InflB>
 <InflCtn>
-<InflTags tag="+SP+Gen+Indef"/>
 <Infl>
-<Wd mdfId="ботьмəрь">bot́məŕ</Wd>
+<Wd tag="+SP+Gen+Indef" mdfId="ботьмəрь">bot́məŕ</Wd>
 <Hph/>
 <Wd mdfId="тишəнь">t́išəń</Wd>
 </Infl>
@@ -3471,9 +3462,8 @@ Adj.-Ableit. von russ. <Et>сего́дня</Et> ‘heute’]
 </GeoUB>
 <InflB>
 <InflCtn>
-<InflTags tag="+SP+Gen+Indef"/>
 <Infl>
-<Wd mdfId="сокə̑рон">sokə̑rə̑n</Wd>
+<Wd tag="+SP+Gen+Indef" mdfId="сокə̑рон">sokə̑rə̑n</Wd>
 </Infl>
 </InflCtn>
 </InflB>
@@ -3831,8 +3821,8 @@ Adj.-Ableit. von russ. <Et>сего́дня</Et> ‘heute’]
 <Wd mdfId="сокə̑ргодомс">sokə̑rgə̑də̑ms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="сокə̑ргодан">sokə̑rgə̑dan</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="сокə̑ргодан">sokə̑rgə̑dan</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -3907,13 +3897,13 @@ Adj.-Ableit. von russ. <Et>сего́дня</Et> ‘heute’]
 <Wd mdfId="сокə̑ргофтомс">sokə̑rgə̑ftə̑ms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="сокə̑ргофтан">sokə̑rgə̑ftan</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="сокə̑ргофтан">sokə̑rgə̑ftan</Wd>
 </Infl>
 </InflCtn>
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg3"/><Infl>
-<Wd mdfId="сокə̑ргофты">sokə̑rgə̑fti͔</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg3" mdfId="сокə̑ргофты">sokə̑rgə̑fti͔</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -4750,14 +4740,14 @@ Adj.-Ableit. von russ. <Et>сего́дня</Et> ‘heute’]
 <Wd mdfId="сьмендамс">śḿendams</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
+<Infl>
 <Chc>
 <Vrt>
-<Wd mdfId="сьмендан">śḿendan</Wd>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="сьмендан">śḿendan</Wd>
 </Vrt>
 <Vrt>
 <FrCm edit="MK" freeType="RelationToPreviousSibling" status="&lt;"/>
-<Wd mdfId="сьмединдан">śḿed́indan</Wd>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="сьмединдан">śḿed́indan</Wd>
 </Vrt>
 </Chc>
 </Infl>
@@ -4765,8 +4755,8 @@ Adj.-Ableit. von russ. <Et>сего́дня</Et> ‘heute’]
 </InflB>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg3"/><Infl>
-<Wd mdfId="сьмендай">śḿendaj</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg3" mdfId="сьмендай">śḿendaj</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -5490,15 +5480,13 @@ Adj.-Ableit. von russ. <Et>сего́дня</Et> ‘heute’]
 </Chc>
 <InflB>
 <InflCtn>
-<InflTags tag="+SP+Gen+Indef"/>
 <Infl>
-<Wd mdfId="сенемен">śeńeḿen</Wd>
+<Wd tag="+SP+Gen+Indef" mdfId="сенемен">śeńeḿen</Wd>
 </Infl>
 </InflCtn>,
 <InflCtn>
-<InflTags tag="+Pl+Nom+Indef"/>
 <Infl>
-<Wd mdfId="сенепт">śeńept</Wd>
+<Wd tag="+Pl+Nom+Indef" mdfId="сенепт">śeńept</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -5526,9 +5514,8 @@ Adj.-Ableit. von russ. <Et>сего́дня</Et> ‘heute’]
 </GeoUB>
 <InflB>
 <InflCtn>
-<InflTags tag="+Pl+Nom+Indef"/>
 <Infl>
-<Wd mdfId="сенепть">śeńəṕt́</Wd>
+<Wd tag="+Pl+Nom+Indef" mdfId="сенепть">śeńəṕt́</Wd>
 </Infl>
 </InflCtn>
 </InflB>
@@ -5851,13 +5838,13 @@ Adj.-Ableit. von russ. <Et>сего́дня</Et> ‘heute’]
 <Wd mdfId="сенемомс">śeńəmə̑ms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="сенеман">śeńeman</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="сенеман">śeńeman</Wd>
 </Infl>
 </InflCtn>
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg3"/><Infl>
-<Wd mdfId="сенемі">śeńemi</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg3" mdfId="сенемі">śeńemi</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -5927,8 +5914,8 @@ Adj.-Ableit. von russ. <Et>сего́дня</Et> ‘heute’]
 </Infl>
 </InflCtn>
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg3"/><Infl>
-<Wd mdfId="сенепті">śeńepti</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg3" mdfId="сенепті">śeńepti</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -5985,13 +5972,13 @@ Adj.-Ableit. von russ. <Et>сего́дня</Et> ‘heute’]
 <Wd mdfId="сенемгодомс">śeńəmgə̑də̑ms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="сенемгодан">śeńemgə̑dan</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="сенемгодан">śeńemgə̑dan</Wd>
 </Infl>
 </InflCtn>
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg3"/><Infl>
-<Wd mdfId="сенемгоды">śeńemgə̑di͔</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg3" mdfId="сенемгоды">śeńemgə̑di͔</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -6062,13 +6049,13 @@ Adj.-Ableit. von russ. <Et>сего́дня</Et> ‘heute’]
 <Wd mdfId="сенемгофтомс">śeńəmgə̑ftə̑ms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="сенемгофтан">śeńemgə̑ftan</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="сенемгофтан">śeńemgə̑ftan</Wd>
 </Infl>
 </InflCtn>
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg3"/><Infl>
-<Wd mdfId="сенемгофты">śeńemgə̑fti͔</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg3" mdfId="сенемгофты">śeńemgə̑fti͔</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -6105,13 +6092,13 @@ Adj.-Ableit. von russ. <Et>сего́дня</Et> ‘heute’]
 <Wd mdfId="сенемгофнемс">śeńəmgə̑fńəms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="сенемгофнян">śeńemgə̑fńan</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="сенемгофнян">śeńemgə̑fńan</Wd>
 </Infl>
 </InflCtn>
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg3"/><Infl>
-<Wd mdfId="сенемгофни">śeńemgə̑fńi</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg3" mdfId="сенемгофни">śeńemgə̑fńi</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -6298,8 +6285,8 @@ Adj.-Ableit. von russ. <Et>сего́дня</Et> ‘heute’]
 <Wd myvId="сэнедемс">se͔ńed́ems</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg3"/><Infl>
-<Wd myvId="сэниди">se͔ńid́i</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg3" myvId="сэниди">se͔ńid́i</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -6322,8 +6309,8 @@ Adj.-Ableit. von russ. <Et>сего́дня</Et> ‘heute’]
 <Wd myvId="сӓ͔недемс">sä͔ńed́ems</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg3"/><Infl>
-<Wd myvId="сӓ͔ниди">sä͔ńid́i</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg3" myvId="сӓ͔ниди">sä͔ńid́i</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -8137,9 +8124,8 @@ Adj.-Ableit. von russ. <Et>сего́дня</Et> ‘heute’]
 </Infl>
 </InflCtn>,
 <InflCtn>
-<InflTags tag="+Pl+Nom+Indef"/>
 <Infl>
-<Wd myvId="таймазат">tajmazat</Wd>
+<Wd tag="+Pl+Nom+Indef" myvId="таймазат">tajmazat</Wd>
 </Infl>
 </InflCtn>
 </InflB>
@@ -8635,12 +8621,11 @@ Adj.-Ableit. von russ. <Et>сего́дня</Et> ‘heute’]
 </GeoUB>
 <InflB>
 <InflCtn>
-<InflTags tag="+Pl+Nom+Indef"/>
 <GeoUB xml:lang="myv">
 <GeoU>Kal</GeoU>
 </GeoUB>
 <Infl>
-<Wd myvId="таядыт">tajadi͔t</Wd>
+<Wd tag="+Pl+Nom+Indef" myvId="таядыт">tajadi͔t</Wd>
 </Infl>
 </InflCtn>
 </InflB>
@@ -9199,9 +9184,8 @@ Adj.-Ableit. von russ. <Et>сего́дня</Et> ‘heute’]
 </GeoUB>
 <InflB>
 <InflCtn>
-<InflTags tag="+Pl+Nom+Indef"/>
 [?] <Infl>
-<Wd myvId="тормазят">tormaźat</Wd>
+<Wd tag="+Pl+Nom+Indef" myvId="тормазят">tormaźat</Wd>
 </Infl>
 </InflCtn>
 </InflB>
@@ -10349,9 +10333,8 @@ Adj.-Ableit. von russ. <Et>сего́дня</Et> ‘heute’]
 </GeoUB>
 <InflB>
 <InflCtn>
-<InflTags tag="+Pl+Nom+Indef"/>
 <Infl>
-<Wd myvId="тусту·т">tustu·t</Wd>
+<Wd tag="+Pl+Nom+Indef" myvId="тусту·т">tustu·t</Wd>
 </Infl>
 </InflCtn>
 </InflB>
@@ -10395,15 +10378,13 @@ Adj.-Ableit. von russ. <Et>сего́дня</Et> ‘heute’]
 </Infl>
 </InflCtn>,
 <InflCtn>
-<InflTags tag="+SP+Gen+Indef"/>
 <Infl>
-<Wd mdfId="тустон">tustə̑n</Wd>
+<Wd tag="+SP+Gen+Indef" mdfId="тустон">tustə̑n</Wd>
 </Infl>
 </InflCtn>,
 <InflCtn>
-<InflTags tag="+Pl+Nom+Indef"/>
 <Infl>
-<Wd mdfId="тустт">tustt</Wd>
+<Wd tag="+Pl+Nom+Indef" mdfId="тустт">tustt</Wd>
 </Infl>
 </InflCtn>
 </InflB>
@@ -10931,13 +10912,13 @@ Adj.-Ableit. von russ. <Et>сего́дня</Et> ‘heute’]
 <Wd mdfId="тустолгодомс">tustə̑lgə̑də̑ms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="тустолга̥дан">tustə̑lgḁda·n</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="тустолга̥дан">tustə̑lgḁda·n</Wd>
 </Infl>
 </InflCtn>
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg3"/><Infl>
-<Wd mdfId="тустолга̥ды">tustə̑lgḁdi͔</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg3" mdfId="тустолга̥ды">tustə̑lgḁdi͔</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -11219,13 +11200,13 @@ Adj.-Ableit. von russ. <Et>сего́дня</Et> ‘heute’]
 <Wd mdfId="тустоптомс">tustə̑ptə̑ms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="тустоптан">tustə̑pta·n</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="тустоптан">tustə̑pta·n</Wd>
 </Infl>
 </InflCtn>
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg3"/><Infl>
-<Wd mdfId="тустопты">tustə̑pti͔</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg3" mdfId="тустопты">tustə̑pti͔</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -11771,9 +11752,8 @@ Adj.-Ableit. von russ. <Et>сего́дня</Et> ‘heute’]
 </GeoUB>
 <InflB>
 <InflCtn>
-<InflTags tag="+SP+Gen+Indef"/>
 <Infl>
-<Wd mdfId="удалафон">uda·lafə̑n</Wd>
+<Wd tag="+SP+Gen+Indef" mdfId="удалафон">uda·lafə̑n</Wd>
 </Infl>
 </InflCtn>
 </InflB>
@@ -12356,13 +12336,13 @@ Adj.-Ableit. von russ. <Et>сего́дня</Et> ‘heute’]
 <Wd mdfId="цебярьгадомс">ćeb́äŕgadə̑ms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="цебярьгадан">ćeb́äŕgadan</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="цебярьгадан">ćeb́äŕgadan</Wd>
 </Infl>
 </InflCtn>
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg3"/><Infl>
-<Wd mdfId="цебярьгады">ćeb́äŕgadi͔</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg3" mdfId="цебярьгады">ćeb́äŕgadi͔</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -12394,13 +12374,13 @@ Adj.-Ableit. von russ. <Et>сего́дня</Et> ‘heute’]
 <Wd mdfId="цебярьгафтомс">ćeb́äŕgaftə̑ms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="цебярьгафтан">ćeb́äŕgaftan</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="цебярьгафтан">ćeb́äŕgaftan</Wd>
 </Infl>
 </InflCtn>
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg3"/><Infl>
-<Wd mdfId="цебярьгафты">ćeb́äŕgafti͔</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg3" mdfId="цебярьгафты">ćeb́äŕgafti͔</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -12434,13 +12414,13 @@ Adj.-Ableit. von russ. <Et>сего́дня</Et> ‘heute’]
 <Wd mdfId="цебярьгафнемс">ćeb́äŕgafńəms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="цебярьгафнян">ćeb́äŕgafńan</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="цебярьгафнян">ćeb́äŕgafńan</Wd>
 </Infl>
 </InflCtn>
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg3"/><Infl>
-<Wd mdfId="цебярьгафни">ćeb́äŕgafńi</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg3" mdfId="цебярьгафни">ćeb́äŕgafńi</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -12498,9 +12478,8 @@ Adj.-Ableit. von russ. <Et>сего́дня</Et> ‘heute’]
 </GeoUB>
 <InflB>
 <InflCtn>
-<InflTags tag="+Pl+Nom+Indef"/>
 <Infl>
-<Wd myvId="чефт">čeft</Wd>
+<Wd tag="+Pl+Nom+Indef" myvId="чефт">čeft</Wd>
 </Infl>
 </InflCtn>
 </InflB>
@@ -12521,9 +12500,8 @@ Adj.-Ableit. von russ. <Et>сего́дня</Et> ‘heute’]
 </GeoUB>
 <InflB>
 <InflCtn>
-<InflTags tag="+SP+Gen+Indef"/>
 <Infl>
-<Wd mdfId="шӓфтень">šäft́əń</Wd>
+<Wd tag="+SP+Gen+Indef" mdfId="шӓфтень">šäft́əń</Wd>
 </Infl>
 </InflCtn>
 </InflB>
@@ -12779,9 +12757,8 @@ Adj.-Ableit. von russ. <Et>сего́дня</Et> ‘heute’]
 </GeoUB>
 <InflB>
 <InflCtn>
-<InflTags tag="+SP+Gen+Indef"/>
 <Infl>
-<Wd mdfId="кшӓфтень">kšäft́əń</Wd>
+<Wd tag="+SP+Gen+Indef" mdfId="кшӓфтень">kšäft́əń</Wd>
 </Infl>
 </InflCtn>
 </InflB>
@@ -13301,8 +13278,8 @@ Adj.-Ableit. von russ. <Et>сего́дня</Et> ‘heute’]
 <Wd mdfId="шӓфтемомс">šäft́əmə̑ms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg3"/><Infl>
-<Wd mdfId="шӓфте̥ми">šäft́e̥ḿi</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg3" mdfId="шӓфте̥ми">šäft́e̥ḿi</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -13408,13 +13385,13 @@ Adj.-Ableit. von russ. <Et>сего́дня</Et> ‘heute’]
 <Wd mdfId="шӓфтептемс">šäft́əṕt́əms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="шӓфте̥птян">šäft́e̥ṕt́an</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="шӓфте̥птян">šäft́e̥ṕt́an</Wd>
 </Infl>
 </InflCtn>
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg3"/><Infl>
-<Wd mdfId="шӓфте̥пти">šäft́e̥ṕt́i</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg3" mdfId="шӓфте̥пти">šäft́e̥ṕt́i</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -13736,9 +13713,8 @@ Adj.-Ableit. von russ. <Et>сего́дня</Et> ‘heute’]
 </GeoUB>
 <InflB>
 <InflCtn>
-<InflTags tag="+Pl+Nom+Indef"/>
 <Infl>
-<Wd myvId="чифт">čift</Wd>
+<Wd tag="+Pl+Nom+Indef" myvId="чифт">čift</Wd>
 </Infl>
 </InflCtn>
 </InflB>
@@ -14000,9 +13976,8 @@ Adj.-Ableit. von russ. <Et>сего́дня</Et> ‘heute’]
 <Wd myvId="чирь">čiŕ</Wd>
 <InflB>
 <InflCtn>
-<InflTags tag="+SP+Gen+Indef"/>
 <Infl>
-<Wd myvId="чиринь">čiŕiń</Wd>
+<Wd tag="+SP+Gen+Indef" myvId="чиринь">čiŕiń</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -14406,9 +14381,8 @@ Adj.-Ableit. von russ. <Et>сего́дня</Et> ‘heute’]
 <Wd myvId="чиряс">čiŕas</Wd>
 <InflB>
 <InflCtn>
-<InflTags tag="+SP+Gen+Indef"/>
 <Infl>
-<Wd myvId="чирязынь">čiŕazi͔ń</Wd>
+<Wd tag="+SP+Gen+Indef" myvId="чирязынь">čiŕazi͔ń</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -14712,9 +14686,8 @@ Adj.-Ableit. von russ. <Et>сего́дня</Et> ‘heute’]
 </GeoUB>
 <InflB>
 <InflCtn>
-<InflTags tag="+SP+Gen+Indef"/>
 <Infl>
-<Wd myvId="чириминь">čiŕiḿiń</Wd>
+<Wd tag="+SP+Gen+Indef" myvId="чириминь">čiŕiḿiń</Wd>
 </Infl>
 </InflCtn>
 </InflB>
@@ -14728,9 +14701,8 @@ Adj.-Ableit. von russ. <Et>сего́дня</Et> ‘heute’]
 </GeoUB>
 <InflB>
 <InflCtn>
-<InflTags tag="+Pl+Nom+Indef"/>
 <Infl>
-<Wd myvId="чиримить">čiŕiḿit́</Wd>
+<Wd tag="+Pl+Nom+Indef" myvId="чиримить">čiŕiḿit́</Wd>
 </Infl>
 </InflCtn>
 </InflB>
@@ -14744,9 +14716,8 @@ Adj.-Ableit. von russ. <Et>сего́дня</Et> ‘heute’]
 </GeoUB>
 <InflB>
 <InflCtn>
-<InflTags tag="+SP+Gen+Indef"/>
 <Infl>
-<Wd myvId="чири·минь">čiŕi·ḿiń</Wd>
+<Wd tag="+SP+Gen+Indef" myvId="чири·минь">čiŕi·ḿiń</Wd>
 </Infl>
 </InflCtn>
 </InflB>
@@ -14773,15 +14744,13 @@ Adj.-Ableit. von russ. <Et>сего́дня</Et> ‘heute’]
 </Infl>
 </InflCtn>
 <InflCtn>
-<InflTags tag="+SP+Gen+Indef"/>
 <Infl>
-<Wd mdfId="ширемен">šiŕeḿen</Wd>
+<Wd tag="+SP+Gen+Indef" mdfId="ширемен">šiŕeḿen</Wd>
 </Infl>
 </InflCtn>
 <InflCtn>
-<InflTags tag="+Pl+Nom+Indef"/>
 <Infl>
-<Wd mdfId="ширепт">šiŕept</Wd>
+<Wd tag="+Pl+Nom+Indef" mdfId="ширепт">šiŕept</Wd>
 </Infl>
 </InflCtn>
 </InflB>
@@ -15224,25 +15193,25 @@ Adj.-Ableit. von russ. <Et>сего́дня</Et> ‘heute’]
 <Wd mdfId="ширемомс">šiŕəmə̑ms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="ширеман">šiŕema·n</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="ширеман">šiŕema·n</Wd>
 </Infl>
 </InflCtn>
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg3"/><Infl>
-<Wd mdfId="ширеми">šiŕeḿi</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg3" mdfId="ширеми">šiŕeḿi</Wd>
 </Infl>
 </InflCtn>
 </InflB>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="шереман">šeŕema·n</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="шереман">šeŕema·n</Wd>
 </Infl>
 </InflCtn>
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg3"/><Infl>
-<Wd mdfId="шереми">šeŕeḿi</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg3" mdfId="шереми">šeŕeḿi</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -15454,13 +15423,13 @@ Adj.-Ableit. von russ. <Et>сего́дня</Et> ‘heute’]
 <Wd mdfId="ширептемс">šiŕəṕt́əms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="шерептян">šeŕept́a·n</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="шерептян">šeŕept́a·n</Wd>
 </Infl>
 </InflCtn>
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg3"/><Infl>
-<Wd mdfId="ширепти">šiŕept́i</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg3" mdfId="ширепти">šiŕept́i</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -15556,8 +15525,8 @@ Adj.-Ableit. von russ. <Et>сего́дня</Et> ‘heute’]
 <Wd mdfId="ширепнемс">šiŕəpńəms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="шерепнян">šeŕepńa·n</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="шерепнян">šeŕepńa·n</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -15586,13 +15555,13 @@ Adj.-Ableit. von russ. <Et>сего́дня</Et> ‘heute’]
 <Wd mdfId="ширепнекшнемс">šiŕəpńəkšńəms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="шерепнякшнян">šeŕepńakšńa·n</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="шерепнякшнян">šeŕepńakšńa·n</Wd>
 </Infl>
 </InflCtn>
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg3"/><Infl>
-<Wd mdfId="шерепнякшни">šeŕepńakšńi</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg3" mdfId="шерепнякшни">šeŕepńakšńi</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -15814,13 +15783,13 @@ Adj.-Ableit. von russ. <Et>сего́дня</Et> ‘heute’]
 <Wd mdfId="ширьфтемс">šiŕft́əms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="ширьфтян">šiŕft́an</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="ширьфтян">šiŕft́an</Wd>
 </Infl>
 </InflCtn>
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg3"/><Infl>
-<Wd mdfId="ширьфти">šiŕft́i</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg3" mdfId="ширьфти">šiŕft́i</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -15955,13 +15924,13 @@ Adj.-Ableit. von russ. <Et>сего́дня</Et> ‘heute’]
 <Wd mdfId="ширьфнемс">šiŕfńəms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="ширьфнян">šiŕfńan</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="ширьфнян">šiŕfńan</Wd>
 </Infl>
 </InflCtn>
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg3"/><Infl>
-<Wd mdfId="ширьфни">šiŕfńi</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg3" mdfId="ширьфни">šiŕfńi</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -16042,9 +16011,8 @@ Adj.-Ableit. von russ. <Et>сего́дня</Et> ‘heute’]
 <Wd mdfId="ярек">jäŕek</Wd>
 <InflB>
 <InflCtn>
-<InflTags tag="+SP+Gen+Indef"/>
 <Infl>
-<Wd mdfId="ярекэн">jäŕeken</Wd>
+<Wd tag="+SP+Gen+Indef" mdfId="ярекэн">jäŕeken</Wd>
 </Infl>
 </InflCtn>,
 <InflCtn>
@@ -16054,9 +16022,8 @@ Adj.-Ableit. von russ. <Et>сего́дня</Et> ‘heute’]
 </Infl>
 </InflCtn>,
 <InflCtn>
-<InflTags tag="+Pl+Nom+Indef"/>
 <Infl>
-<Wd mdfId="ярект">jäŕekt</Wd>
+<Wd tag="+Pl+Nom+Indef" mdfId="ярект">jäŕekt</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -16591,13 +16558,13 @@ Adj.-Ableit. von russ. <Et>сего́дня</Et> ‘heute’]
 <Wd mdfId="ярекламс">jäŕəklams</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="яреклан">jäŕeklan</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="яреклан">jäŕeklan</Wd>
 </Infl>
 </InflCtn>
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg3"/><Infl>
-<Wd mdfId="яреклай">jäŕeklaj</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg3" mdfId="яреклай">jäŕeklaj</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -16613,8 +16580,8 @@ Adj.-Ableit. von russ. <Et>сего́дня</Et> ‘heute’]
 <Wd mdfId="ӓрекламс">äŕəklams</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="ӓриклан">äŕiklan</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="ӓриклан">äŕiklan</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -16725,13 +16692,13 @@ Adj.-Ableit. von russ. <Et>сего́дня</Et> ‘heute’]
 <Wd mdfId="ӓреклафтомс">äŕəklaftə̑ms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="ӓреклафтан">äŕeklaftan</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="ӓреклафтан">äŕeklaftan</Wd>
 </Infl>
 </InflCtn>
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg3"/><Infl>
-<Wd mdfId="ӓреклафты">äŕeklafti͔</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg3" mdfId="ӓреклафты">äŕeklafti͔</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -16753,8 +16720,8 @@ Adj.-Ableit. von russ. <Et>сего́дня</Et> ‘heute’]
 <Wd mdfId="ӓреклафтомс">äŕəklaftə̑ms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="ӓреклафтан">äŕeklaftan</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="ӓреклафтан">äŕeklaftan</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -16814,13 +16781,13 @@ Adj.-Ableit. von russ. <Et>сего́дня</Et> ‘heute’]
 <Wd mdfId="ӓреклафнемс">äŕəklafńəms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="ӓреклафнян">äŕeklafńan</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="ӓреклафнян">äŕeklafńan</Wd>
 </Infl>
 </InflCtn>
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg3"/><Infl>
-<Wd mdfId="ӓреклафни">äŕeklafńi</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg3" mdfId="ӓреклафни">äŕeklafńi</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -16849,13 +16816,13 @@ Adj.-Ableit. von russ. <Et>сего́дня</Et> ‘heute’]
 <Wd mdfId="ӓреклафтовомс">äŕəklaftə̑və̑ms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="ӓреклафтован">äŕeklaftə̑van</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="ӓреклафтован">äŕeklaftə̑van</Wd>
 </Infl>
 </InflCtn>
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg3"/><Infl>
-<Wd mdfId="ӓреклафтові">äŕeklaftə̑vi</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg3" mdfId="ӓреклафтові">äŕeklaftə̑vi</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -17413,8 +17380,8 @@ Adj.-Ableit. von russ. <Et>сего́дня</Et> ‘heute’]
 <Wd myvId="эряскавтомс">eŕaskavtoms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd myvId="эряскавтан">eŕaskavtan</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" myvId="эряскавтан">eŕaskavtan</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -17460,13 +17427,13 @@ Adj.-Ableit. von russ. <Et>сего́дня</Et> ‘heute’]
 <Wd mdfId="ӓряскафтомс">äŕaskaftə̑ms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="ӓряскафтан">äŕaskaftan</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="ӓряскафтан">äŕaskaftan</Wd>
 </Infl>
 </InflCtn>
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg3"/><Infl>
-<Wd mdfId="ӓряскафты">äŕaskafti͔</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg3" mdfId="ӓряскафты">äŕaskafti͔</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -17569,13 +17536,13 @@ Adj.-Ableit. von russ. <Et>сего́дня</Et> ‘heute’]
 </Chc>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="(й)ӓряскафнян">(j)äŕaskafńan</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="(й)ӓряскафнян">(j)äŕaskafńan</Wd>
 </Infl>
 </InflCtn>
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg3"/><Infl>
-<Wd mdfId="(й)ӓряскафни">(j)äŕaskafńi</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg3" mdfId="(й)ӓряскафни">(j)äŕaskafńi</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -17611,13 +17578,13 @@ Adj.-Ableit. von russ. <Et>сего́дня</Et> ‘heute’]
 </Chc>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="(й)ӓряскафнекшнян">(j)äŕaskafńekšńan</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="(й)ӓряскафнекшнян">(j)äŕaskafńekšńan</Wd>
 </Infl>
 </InflCtn>
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg3"/><Infl>
-<Wd mdfId="(й)ӓряскафнекшни">(j)äŕaskafńekšńi</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg3" mdfId="(й)ӓряскафнекшни">(j)äŕaskafńekšńi</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -17679,13 +17646,13 @@ Adj.-Ableit. von russ. <Et>сего́дня</Et> ‘heute’]
 <Wd mdfId="ӓряскаткшнемс">äŕaskatkšńəms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="ӓряскаткшнян">äŕaskatkšńan</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="ӓряскаткшнян">äŕaskatkšńan</Wd>
 </Infl>
 </InflCtn>
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg3"/><Infl>
-<Wd mdfId="ӓряскаткшни">äŕaskatkšńi</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg3" mdfId="ӓряскаткшни">äŕaskatkšńi</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -17696,8 +17663,8 @@ Adj.-Ableit. von russ. <Et>сего́дня</Et> ‘heute’]
 <Wd mdfId="яряскаткшнемс">jäŕaskatkšńəms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="яряскаткшнян">jäŕaskatkšńan</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="яряскаткшнян">jäŕaskatkšńan</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -21259,9 +21226,8 @@ Adj.-Ableit. von russ. <Et>сего́дня</Et> ‘heute’]
 <GeoU>P</GeoU>
 </GeoUB>
 <InflCtn>
-<InflTags tag="+SP+Gen+Indef"/>
 <Infl>
-<Wd mdfId="сузмань">suzma·ń</Wd>
+<Wd tag="+SP+Gen+Indef" mdfId="сузмань">suzma·ń</Wd>
 </Infl>
 </InflCtn>
 </InflB>
@@ -82949,15 +82915,15 @@ Bez. Krasnoslobodsk, Gouv. Pensa</t>
 <Wd mdfId="антерьгодомс">ańt́əŕgə̑də̑ms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="антерьгодан">ańt́əŕgə̑dan</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="антерьгодан">ańt́əŕgə̑dan</Wd>
 </Infl>
 </InflCtn>
 </InflB>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg3"/><Infl>
-<Wd mdfId="антерьгоды">ańt́əŕgə̑di͔</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg3" mdfId="антерьгоды">ańt́əŕgə̑di͔</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -82993,15 +82959,15 @@ Bez. Krasnoslobodsk, Gouv. Pensa</t>
 <Wd mdfId="антерьготфтомс">ańt́əŕgə̑tftə̑ms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="антерьготфтан">ańt́əŕgə̑tftan</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="антерьготфтан">ańt́əŕgə̑tftan</Wd>
 </Infl>
 </InflCtn>
 </InflB>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg3"/><Infl>
-<Wd mdfId="антерьготфты">ańt́əŕgə̑tfti͔</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg3" mdfId="антерьготфты">ańt́əŕgə̑tfti͔</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -83041,9 +83007,8 @@ Bez. Krasnoslobodsk, Gouv. Pensa</t>
 </GeoUB>
 <InflB>
 <InflCtn>
-<InflTags tag="+SP+Gen+Indef"/>
 <Infl>
-<Wd mdfId="аргозонь">argə̑zə̑ń</Wd>
+<Wd tag="+SP+Gen+Indef" mdfId="аргозонь">argə̑zə̑ń</Wd>
 </Infl>
 </InflCtn>
 </InflB>
@@ -83236,13 +83201,13 @@ Bez. Krasnoslobodsk, Gouv. Pensa</t>
 <Wd mdfId="аромомс">arə̑mə̑ms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="ароман">arə̑man</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="ароман">arə̑man</Wd>
 </Infl>
 </InflCtn>
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg3"/><Infl>
-<Wd mdfId="аромі">arə̑mi</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg3" mdfId="аромі">arə̑mi</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -83566,8 +83531,8 @@ auch <FrnTxt><Chc>
 <Wd mdfId="аропнефтемс">arə̑pńəft́əms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="ар(ə̑)пнефтян">ar(ə̑)pńeft́an</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="ар(ə̑)пнефтян">ar(ə̑)pńeft́an</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -83602,8 +83567,8 @@ auch <FrnTxt><Chc>
 <Wd mdfId="аропнефнемс">arə̑pńəfńəms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="ар(ə̑)пнефнян">ar(ə̑)pńefńan</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="ар(ə̑)пнефнян">ar(ə̑)pńefńan</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -83632,8 +83597,8 @@ auch <FrnTxt><Chc>
 <Wd mdfId="ароптфтомс">arə̑ptftə̑ms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="ар(ə̑)птфтан">ar(ə̑)ptftan</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="ар(ə̑)птфтан">ar(ə̑)ptftan</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -83668,8 +83633,8 @@ auch <FrnTxt><Chc>
 <Wd mdfId="ароптфнемс">arə̑ptfńəms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="ар(ə̑)птфнян">ar(ə̑)ptfńan</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="ар(ə̑)птфнян">ar(ə̑)ptfńan</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -83698,8 +83663,8 @@ auch <FrnTxt><Chc>
 <Wd mdfId="ароптфнекшнемс">arə̑ptfńəkšńəms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="ар(ə̑)птфнекшнян">ar(ə̑)ptfńekšńan</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="ар(ə̑)птфнекшнян">ar(ə̑)ptfńekšńan</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -83786,9 +83751,8 @@ auch <FrnTxt><Chc>
 </GeoUB>
 <InflB>
 <InflCtn>
-<InflTags tag="+SP+Gen+Indef"/>
 <Infl>
-<Wd mdfId="атнань">atnań</Wd>
+<Wd tag="+SP+Gen+Indef" mdfId="атнань">atnań</Wd>
 </Infl>
 </InflCtn>
 </InflB>
@@ -83923,9 +83887,8 @@ auch <FrnTxt><Chc>
 </GeoUB>
 <InflB>
 <InflCtn>
-<InflTags tag="+Pl+Nom+Indef"/>
 <Infl>
-<Wd mdfId="ӓфтярьхть">äf́t́äŕʿt́</Wd>
+<Wd tag="+Pl+Nom+Indef" mdfId="ӓфтярьхть">äf́t́äŕʿt́</Wd>
 </Infl>
 </InflCtn>
 </InflB>
@@ -84201,9 +84164,8 @@ auch <FrnTxt><Chc>
 </GeoUB>
 <InflB>
 <InflCtn>
-<InflTags tag="+SP+Gen+Indef"/>
 <Infl>
-<Wd mdfId="венякань">v́eńakań</Wd>
+<Wd tag="+SP+Gen+Indef" mdfId="венякань">v́eńakań</Wd>
 </Infl>
 </InflCtn>
 </InflB>
@@ -84494,15 +84456,15 @@ auch <FrnTxt><Chc>
 <Wd mdfId="винендамс">v́ińənda·ms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="вине̥ндан">v́ińe̥nda·n</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="вине̥ндан">v́ińe̥nda·n</Wd>
 </Infl>
 </InflCtn>
 </InflB>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg3"/><Infl>
-<Wd mdfId="вине̥ндай">v́ińe̥nda·j</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg3" mdfId="вине̥ндай">v́ińe̥nda·j</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -85124,13 +85086,13 @@ auch <FrnTxt><Chc>
 <Wd mdfId="калы·шгодомс">kali͔·šgə̑də̑ms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="калы·шгодан">kali͔·šgə̑dan</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="калы·шгодан">kali͔·šgə̑dan</Wd>
 </Infl>
 </InflCtn>
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg3"/><Infl>
-<Wd mdfId="калы·шгоды">kali͔·šgə̑di͔</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg3" mdfId="калы·шгоды">kali͔·šgə̑di͔</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -85165,13 +85127,13 @@ auch <FrnTxt><Chc>
 <Wd mdfId="галə̑жə̑кстомомс">galə̑žə̑kstə̑mə̑ms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="галə̑жə̑кстоман">galə̑žə̑kstə̑man</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="галə̑жə̑кстоман">galə̑žə̑kstə̑man</Wd>
 </Infl>
 </InflCtn>
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg3"/><Infl>
-<Wd mdfId="галə̑жə̑кстомі">galə̑žə̑kstə̑mi</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg3" mdfId="галə̑жə̑кстомі">galə̑žə̑kstə̑mi</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -85491,15 +85453,13 @@ auch <FrnTxt><Chc>
 </GeoUB>
 <InflB>
 <InflCtn>
-<InflTags tag="+SP+Gen+Indef"/>
 <Infl>
-<Wd mdfId="катморонь">katmə̑rə̑ń</Wd>
+<Wd tag="+SP+Gen+Indef" mdfId="катморонь">katmə̑rə̑ń</Wd>
 </Infl>
 </InflCtn>,
 <InflCtn>
-<InflTags tag="+Pl+Nom+Indef"/>
 <Infl>
-<Wd mdfId="катморхт">katmə̑rʿt</Wd>
+<Wd tag="+Pl+Nom+Indef" mdfId="катморхт">katmə̑rʿt</Wd>
 </Infl>
 </InflCtn>
 </InflB>
@@ -85856,15 +85816,13 @@ auch <FrnTxt><Chc>
 </GeoUB>
 <InflB>
 <InflCtn>
-<InflTags tag="+SP+Gen+Indef"/>
 <Infl>
-<Wd mdfId="кецян">ḱećän</Wd>
+<Wd tag="+SP+Gen+Indef" mdfId="кецян">ḱećän</Wd>
 </Infl>
 </InflCtn>,
 <InflCtn>
-<InflTags tag="+Pl+Nom+Indef"/>
 <Infl>
-<Wd mdfId="кецят">ḱećat</Wd>
+<Wd tag="+Pl+Nom+Indef" mdfId="кецят">ḱećat</Wd>
 </Infl>
 </InflCtn>
 </InflB>
@@ -85945,13 +85903,13 @@ auch <FrnTxt><Chc>
 <Wd mdfId="кецякадомс">ḱećakadə̑ms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="кецякадан">ḱećakadan</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="кецякадан">ḱećakadan</Wd>
 </Infl>
 </InflCtn>
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg3"/><Infl>
-<Wd mdfId="кецякады">ḱećakadi͔</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg3" mdfId="кецякады">ḱećakadi͔</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -86763,9 +86721,8 @@ auch <FrnTxt><Chc>
 </Infl>
 </InflCtn>,
 <InflCtn>
-<InflTags tag="+Pl+Nom+Indef"/>
 <Infl>
-<Wd mdfId="кирьчть">ḱiŕčt́</Wd>
+<Wd tag="+Pl+Nom+Indef" mdfId="кирьчть">ḱiŕčt́</Wd>
 </Infl>
 </InflCtn>
 </InflB>
@@ -86950,15 +86907,13 @@ auch <FrnTxt><Chc>
 </GeoUB>
 <InflB>
 <InflCtn>
-<InflTags tag="+SP+Gen+Indef"/>
 <Infl>
-<Wd mdfId="кренно·ен">kŕenno·jen</Wd>
+<Wd tag="+SP+Gen+Indef" mdfId="кренно·ен">kŕenno·jen</Wd>
 </Infl>
 </InflCtn>,
 <InflCtn>
-<InflTags tag="+Pl+Nom+Indef"/>
 <Infl>
-<Wd mdfId="кренношт">kŕennošt</Wd>
+<Wd tag="+Pl+Nom+Indef" mdfId="кренношт">kŕennošt</Wd>
 </Infl>
 </InflCtn>
 </InflB>
@@ -87315,9 +87270,8 @@ auch <FrnTxt><Chc>
 </GeoUB>
 <InflB>
 <InflCtn>
-<InflTags tag="+SP+Gen+Indef"/>
 <Infl>
-<Wd mdfId="курень">kuŕəń</Wd>
+<Wd tag="+SP+Gen+Indef" mdfId="курень">kuŕəń</Wd>
 </Infl>
 </InflCtn>
 </InflB>
@@ -87461,15 +87415,13 @@ auch <FrnTxt><Chc>
 </GeoUB>
 <InflB>
 <InflCtn>
-<InflTags tag="+SP+Gen+Indef"/>
 <Infl>
-<Wd mdfId="кə̑рхкань">kə̑rʿka·ń</Wd>
+<Wd tag="+SP+Gen+Indef" mdfId="кə̑рхкань">kə̑rʿka·ń</Wd>
 </Infl>
 </InflCtn>,
 <InflCtn>
-<InflTags tag="+Pl+Nom+Indef"/>
 <Infl>
-<Wd mdfId="кə̑рхкат">kə̑rʿka·t</Wd>
+<Wd tag="+Pl+Nom+Indef" mdfId="кə̑рхкат">kə̑rʿka·t</Wd>
 </Infl>
 </InflCtn>
 </InflB>
@@ -87555,9 +87507,8 @@ auch <FrnTxt><Chc>
 </GeoUB>
 <InflB>
 <InflCtn>
-<InflTags tag="+SP+Gen+Indef"/>
 <Infl>
-<Wd mdfId="кə̑рхкалмəнь">kə̑rʿka·lməń</Wd>
+<Wd tag="+SP+Gen+Indef" mdfId="кə̑рхкалмəнь">kə̑rʿka·lməń</Wd>
 </Infl>
 </InflCtn>
 </InflB>
@@ -87873,9 +87824,8 @@ Radl. <Et>
 </GeoUB>
 <InflB>
 <InflCtn>
-<InflTags tag="+SP+Gen+Indef"/>
 <Infl>
-<Wd mdfId="пахо·шə̑н">paᵪo·šə̑n</Wd>
+<Wd tag="+SP+Gen+Indef" mdfId="пахо·шə̑н">paᵪo·šə̑n</Wd>
 </Infl>
 </InflCtn>
 </InflB>
@@ -87930,9 +87880,8 @@ Radl. <Et>
 </GeoUB>
 <InflB>
 <InflCtn>
-<InflTags tag="+SP+Gen+Indef"/>
 <Infl>
-<Wd mdfId="пакестен">paḱeśt́en</Wd>
+<Wd tag="+SP+Gen+Indef" mdfId="пакестен">paḱeśt́en</Wd>
 </Infl>
 </InflCtn>,
 <InflCtn>
@@ -88379,9 +88328,8 @@ Radl. <Et>
 </GeoUB>
 <InflB>
 <InflCtn>
-<InflTags tag="+SP+Gen+Indef"/>
 <Infl>
-<Wd mdfId="айрань">ajrań</Wd>
+<Wd tag="+SP+Gen+Indef" mdfId="айрань">ajrań</Wd>
 </Infl>
 </InflCtn>
 </InflB>
@@ -88521,8 +88469,8 @@ Radl. <Et>
 <Wd mdfId="аердамс">ajərdams</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg3"/><Infl>
-<Wd mdfId="аердай">ajerdaj</Wd></Infl>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg3" mdfId="аердай">ajerdaj</Wd></Infl>
 </InflCtn>
 </InflB></PhnU>
 <GeoUB xml:lang="mdf">
@@ -88739,8 +88687,8 @@ Radl. <Et>
 <Wd mdfId="ае̑ркшнемс">ajə̑rkšńəms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="ае̑ркшнян">ajə̑rkšńan</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="ае̑ркшнян">ajə̑rkšńan</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -88770,15 +88718,15 @@ Radl. <Et>
 <Wd mdfId="ае̑рфтомс">ajə̑rftə̑ms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="ае̑рфтан">ajə̑rftan</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="ае̑рфтан">ajə̑rftan</Wd>
 </Infl>
 </InflCtn>
 </InflB>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg3"/><Infl>
-<Wd mdfId="ае̑рфты">ajə̑rfti͔</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg3" mdfId="ае̑рфты">ajə̑rfti͔</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -88788,15 +88736,15 @@ Radl. <Et>
 <Wd mdfId="ае̑ртфтомс">ajə̑rtftə̑ms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="ае̑ртфтан">ajə̑rtftan</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="ае̑ртфтан">ajə̑rtftan</Wd>
 </Infl>
 </InflCtn>
 </InflB>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg3"/><Infl>
-<Wd mdfId="ае̑ртфты">ajə̑rtfti͔</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg3" mdfId="ае̑ртфты">ajə̑rtfti͔</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -88921,13 +88869,13 @@ Radl. <Et>
 <Wd mdfId="ае̑рфнемс">ajə̑rfńəms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="ае̑рфнян">ajə̑rfńan</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="ае̑рфнян">ajə̑rfńan</Wd>
 </Infl>
 </InflCtn>
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg3"/><Infl>
-<Wd mdfId="ае̑рфни">ajə̑rfńi</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg3" mdfId="ае̑рфни">ajə̑rfńi</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -88956,13 +88904,13 @@ Radl. <Et>
 <Wd mdfId="ае̑рфнекшнемс">ajə̑rfńəkšńəms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="ае̑рфнекшнян">ajə̑rfńekšńan</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="ае̑рфнекшнян">ajə̑rfńekšńan</Wd>
 </Infl>
 </InflCtn>
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg3"/><Infl>
-<Wd mdfId="ае̑рфнекшни">ajə̑rfńekšńi</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg3" mdfId="ае̑рфнекшни">ajə̑rfńekšńi</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -89558,9 +89506,8 @@ Radl. <Et>
 <Wd mdfId="васеньця">vaśeńćä</Wd>
 <InflB>
 <InflCtn>
-<InflTags tag="+SP+Gen+Indef"/>
 <Infl>
-<Wd mdfId="васеньцен">vaśeńćen</Wd>
+<Wd tag="+SP+Gen+Indef" mdfId="васеньцен">vaśeńćen</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -91201,9 +91148,8 @@ jedoch
 <Wd mdfId="вяряльмя">v́äŕä·ĺḿä</Wd>
 <InflB>
 <InflCtn>
-<InflTags tag="+Pl+Nom+Indef"/>
 <Infl>
-<Wd mdfId="вяряльмат">v́äŕä·ĺmat</Wd>
+<Wd tag="+Pl+Nom+Indef" mdfId="вяряльмат">v́äŕä·ĺmat</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -91845,9 +91791,8 @@ jedoch
 </GeoUB>
 <InflB>
 <InflCtn>
-<InflTags tag="+Pl+Nom+Indef"/>
 <Infl>
-<Wd mdfId="вяльдярьмат">v́äĺd́äŕmat</Wd>
+<Wd tag="+Pl+Nom+Indef" mdfId="вяльдярьмат">v́äĺd́äŕmat</Wd>
 </Infl>
 </InflCtn>
 </InflB>
@@ -93632,9 +93577,8 @@ jedoch
 </GeoUB>
 <InflB>
 <InflCtn>
-<InflTags tag="+Pl+Nom+Indef"/>
 <Infl>
-<Wd mdfId="верькскят">v́eŕksḱa·t</Wd>
+<Wd tag="+Pl+Nom+Indef" mdfId="верькскят">v́eŕksḱa·t</Wd>
 </Infl>
 </InflCtn>
 </InflB>
@@ -94328,9 +94272,8 @@ jedoch
 <Wd myvId="экше·і">ekše·i</Wd>
 <InflB>
 <InflCtn>
-<InflTags tag="+Pl+Nom+Indef"/>
 <Infl>
-<Wd myvId="экше·х́ть">ekše·ᵪ́t́</Wd>
+<Wd tag="+Pl+Nom+Indef" myvId="экше·х́ть">ekše·ᵪ́t́</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -94376,15 +94319,13 @@ jedoch
 <Wd mdfId="яши">jäši</Wd>
 <InflB>
 <InflCtn>
-<InflTags tag="+SP+Gen+Indef"/>
 <Infl>
-<Wd mdfId="яшиін">jäšiin</Wd>
+<Wd tag="+SP+Gen+Indef" mdfId="яшиін">jäšiin</Wd>
 </Infl>
 </InflCtn>,
 <InflCtn>
-<InflTags tag="+Pl+Nom+Indef"/>
 <Infl>
-<Wd mdfId="яшишт">jäšišt</Wd>
+<Wd tag="+Pl+Nom+Indef" mdfId="яшишт">jäšišt</Wd>
 </Infl>
 </InflCtn>
 </InflB>
@@ -94710,9 +94651,8 @@ jedoch
 </GeoUB>
 <InflB>
 <InflCtn>
-<InflTags tag="+SP+Gen+Indef"/>
 <Infl>
-<Wd mdfId="яши">jäši</Wd>
+<Wd tag="+SP+Gen+Indef" mdfId="яши">jäši</Wd>
 <Hph/>
 <Wd mdfId="рашкə̑нь">raškə̑ń</Wd>
 </Infl>
@@ -95284,9 +95224,8 @@ jedoch
 </GeoUB>
 <InflB>
 <InflCtn>
-<InflTags tag="+Pl+Nom+Indef"/>
 <Infl>
-<Wd mdfId="любопи·тних́ть">ĺubə̑ṕi·t́ńiᵪ́t́</Wd>
+<Wd tag="+Pl+Nom+Indef" mdfId="любопи·тних́ть">ĺubə̑ṕi·t́ńiᵪ́t́</Wd>
 </Infl>
 </InflCtn>
 </InflB>
@@ -96156,9 +96095,8 @@ Aus der russ. prädik. F. <Et>мудрёна</Et>]
 </GeoUB>
 <InflB>
 <InflCtn>
-<InflTags tag="+SP+Gen+Indef"/>
 <Infl>
-<Wd mdfId="олязонь">oĺazə̑ń</Wd>
+<Wd tag="+SP+Gen+Indef" mdfId="олязонь">oĺazə̑ń</Wd>
 </Infl>
 </InflCtn>
 </InflB>
@@ -96254,9 +96192,8 @@ Aus der russ. prädik. F. <Et>мудрёна</Et>]
 </GeoUB>
 <InflB>
 <InflCtn>
-<InflTags tag="+SP+Gen+Indef"/>
 <Infl>
-<Wd mdfId="отькəрен">ot́ḱəŕən</Wd>
+<Wd tag="+SP+Gen+Indef" mdfId="отькəрен">ot́ḱəŕən</Wd>
 </Infl>
 </InflCtn>
 </InflB>
@@ -98229,15 +98166,13 @@ jedenfalls <Et>
 <Wd mdfId="шонгара">šoŋgara</Wd>
 <InflB>
 <InflCtn>
-<InflTags tag="+SP+Gen+Indef"/>
 <Infl>
-<Wd mdfId="шонгарон">šoŋgarə̑n</Wd>
+<Wd tag="+SP+Gen+Indef" mdfId="шонгарон">šoŋgarə̑n</Wd>
 </Infl>
 </InflCtn>,
 <InflCtn>
-<InflTags tag="+Pl+Nom+Indef"/>
 <Infl>
-<Wd mdfId="шонгархт">šoŋgarʿt</Wd>
+<Wd tag="+Pl+Nom+Indef" mdfId="шонгархт">šoŋgarʿt</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -98273,9 +98208,8 @@ jedenfalls <Et>
 </GeoUB>
 <InflB>
 <InflCtn>
-<InflTags tag="+Pl+Nom+Indef"/>
 <Infl>
-<Wd mdfId="шонгарот">šoŋga·rə̑t</Wd>
+<Wd tag="+Pl+Nom+Indef" mdfId="шонгарот">šoŋga·rə̑t</Wd>
 </Infl>
 </InflCtn>
 </InflB>
@@ -99010,13 +98944,13 @@ jedenfalls <Et>
 <Wd mdfId="пинделфтомс">ṕińd́əlftə̑ms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="пиндолфтан">ṕində̑lfta·n</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="пиндолфтан">ṕində̑lfta·n</Wd>
 </Infl>
 </InflCtn>
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg3"/><Infl>
-<Wd mdfId="пиндолфты">ṕində̑lfti͔</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg3" mdfId="пиндолфты">ṕində̑lfti͔</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -99129,9 +99063,8 @@ jedenfalls <Et>
 </GeoUB>
 <InflB>
 <InflCtn>
-<InflTags tag="+Pl+Nom+Indef"/>
 <Infl>
-<Wd mdfId="пинкст">ṕiŋkst</Wd>
+<Wd tag="+Pl+Nom+Indef" mdfId="пинкст">ṕiŋkst</Wd>
 </Infl>
 </InflCtn>
 </InflB>
@@ -99149,9 +99082,8 @@ jedenfalls <Et>
 </Infl>
 </InflCtn>
 <InflCtn>
-<InflTags tag="+SP+Gen+Indef"/>
 <Infl>
-<Wd mdfId="пингексон">ṕiŋǵeksə̑n</Wd>
+<Wd tag="+SP+Gen+Indef" mdfId="пингексон">ṕiŋǵeksə̑n</Wd>
 </Infl>
 </InflCtn>
 <InflCtn>
@@ -99957,9 +99889,8 @@ jedenfalls <Et>
 </Infl>
 </InflCtn>,
 <InflCtn>
-<InflTags tag="+Pl+Nom+Indef"/>
 <Infl>
-<Wd mdfId="такə̑рхт">takə̑rʿt</Wd>
+<Wd tag="+Pl+Nom+Indef" mdfId="такə̑рхт">takə̑rʿt</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -99969,9 +99900,8 @@ jedenfalls <Et>
 <Wd mdfId="такə̑ра">takə̑ra</Wd>
 <InflB>
 <InflCtn>
-<InflTags tag="+SP+Gen+Indef"/>
 <Infl>
-<Wd mdfId="такə̑ронь">takə̑rə̑ń</Wd>
+<Wd tag="+SP+Gen+Indef" mdfId="такə̑ронь">takə̑rə̑ń</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -100166,8 +100096,8 @@ jedenfalls <Et>
 <Wd mdfId="такə̑ргодомс">takə̑rgə̑də̑ms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="такə̑ргодан">takə̑rgə̑da·n</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="такə̑ргодан">takə̑rgə̑da·n</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -100214,8 +100144,8 @@ jedenfalls <Et>
 <Wd mdfId="такə̑ргофтомс">takə̑rgə̑ftə̑ms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="такə̑ргофтан">takə̑rgə̑fta·n</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="такə̑ргофтан">takə̑rgə̑fta·n</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -100492,9 +100422,8 @@ jedenfalls <Et>
 </GeoUB>
 <InflB>
 <InflCtn>
-<InflTags tag="+SP+Gen+Indef"/>
 <Infl>
-<Wd mdfId="топазонь">topazə̑ń</Wd>
+<Wd tag="+SP+Gen+Indef" mdfId="топазонь">topazə̑ń</Wd>
 </Infl>
 </InflCtn>
 </InflB>
@@ -100727,13 +100656,13 @@ jedenfalls <Et>
 <Wd mdfId="топаскадомс">topaskadə̑ms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="топаскадан">topaskadan</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="топаскадан">topaskadan</Wd>
 </Infl>
 </InflCtn>
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg3"/><Infl>
-<Wd mdfId="топаскады">topaskadi͔</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg3" mdfId="топаскады">topaskadi͔</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -100795,13 +100724,13 @@ jedenfalls <Et>
 <Wd mdfId="топаскафтомс">topaskaftə̑ms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="топаскафтан">topaskaftan</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="топаскафтан">topaskaftan</Wd>
 </Infl>
 </InflCtn>
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg3"/><Infl>
-<Wd mdfId="топаскафты">topaskafti͔</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg3" mdfId="топаскафты">topaskafti͔</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -100895,13 +100824,13 @@ jedenfalls <Et>
 <Wd mdfId="тогоркшнемс">tə̑gə̑rkšńəms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="тогоркшнян">tə̑gə̑rkšńa·n</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="тогоркшнян">tə̑gə̑rkšńa·n</Wd>
 </Infl>
 </InflCtn>
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg3"/><Infl>
-<Wd mdfId="тогоркшни">tə̑gə̑rkšńi</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg3" mdfId="тогоркшни">tə̑gə̑rkšńi</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -100953,9 +100882,8 @@ jedenfalls <Et>
 </GeoUB>
 <InflB>
 <InflCtn>
-<InflTags tag="+SP+Gen+Indef"/>
 <Infl>
-<Wd mdfId="уцезонь">ućezə̑ń</Wd>
+<Wd tag="+SP+Gen+Indef" mdfId="уцезонь">ućezə̑ń</Wd>
 </Infl>
 </InflCtn>,
 <InflCtn>
@@ -100965,9 +100893,8 @@ jedenfalls <Et>
 </Infl>
 </InflCtn>,
 <InflCtn>
-<InflTags tag="+Pl+Nom+Indef"/>
 <Infl>
-<Wd mdfId="уцест">ućest</Wd>
+<Wd tag="+Pl+Nom+Indef" mdfId="уцест">ućest</Wd>
 </Infl>
 </InflCtn>
 </InflB>
@@ -101146,13 +101073,13 @@ jedenfalls <Et>
 <Wd mdfId="уцезкстомомс">ućəzkstə̑mə̑ms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="уцез̇кстоман">ućeżkstə̑ma·n</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="уцез̇кстоман">ućeżkstə̑ma·n</Wd>
 </Infl>
 </InflCtn>
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg3"/><Infl>
-<Wd mdfId="уцез̇кстомі">ućeżkstə̑mi</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg3" mdfId="уцез̇кстомі">ućeżkstə̑mi</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -101186,13 +101113,13 @@ jedenfalls <Et>
 <Wd mdfId="уцезкстоптомс">ućəzkstə̑ptə̑ms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="уцез̇кстоптан">ućeżkstə̑pta·n</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="уцез̇кстоптан">ućeżkstə̑pta·n</Wd>
 </Infl>
 </InflCtn>
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg3"/><Infl>
-<Wd mdfId="уцез̇кстопты">ućeżkstə̑pti͔</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg3" mdfId="уцез̇кстопты">ućeżkstə̑pti͔</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -101370,9 +101297,8 @@ jedenfalls <Et>
 </GeoUB>
 <InflB>
 <InflCtn>
-<InflTags tag="+Pl+Nom+Indef"/>
 <Infl>
-<Wd mdfId="ёлгот">jolgə̑t</Wd>
+<Wd tag="+Pl+Nom+Indef" mdfId="ёлгот">jolgə̑t</Wd>
 </Infl>
 </InflCtn>
 </InflB>
@@ -102089,15 +102015,15 @@ jedenfalls <Et>
 <Wd mdfId="ёлмалгадомс">jolmalgadə̑ms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="ёлмалгадан">jolmalgadan</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="ёлмалгадан">jolmalgadan</Wd>
 </Infl>
 </InflCtn>
 </InflB>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg3"/><Infl>
-<Wd mdfId="ёлмалгады">jolmalgadi͔</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg3" mdfId="ёлмалгады">jolmalgadi͔</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -102143,15 +102069,15 @@ jedenfalls <Et>
 <Wd mdfId="ёлмалгафтомс">jolmalgaftə̑ms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="ёлмалгафтан">jolmalgaftan</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="ёлмалгафтан">jolmalgaftan</Wd>
 </Infl>
 </InflCtn>
 </InflB>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg3"/><Infl>
-<Wd mdfId="ёлмалгафты">jolmalgafti͔</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg3" mdfId="ёлмалгафты">jolmalgafti͔</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -102181,8 +102107,8 @@ jedenfalls <Et>
 <Wd mdfId="ёлмалгофтомс">jolmalgə̑ftə̑ms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="ёлмалгофтан">jolmalgə̑ftan</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="ёлмалгофтан">jolmalgə̑ftan</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -102216,8 +102142,8 @@ jedenfalls <Et>
 <Wd mdfId="ёлмалгафнемс">jolmalgafńəms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="ёлмалгафнян">jolmalgafńan</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="ёлмалгафнян">jolmalgafńan</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -102246,8 +102172,8 @@ jedenfalls <Et>
 <Wd mdfId="ёлмалгафнекшнемс">jolmalgafńəkšńəms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="ёлмалгафнекшнян">jolmalgafńekšńan</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="ёлмалгафнекшнян">jolmalgafńekšńan</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -102276,15 +102202,15 @@ jedenfalls <Et>
 <Wd mdfId="ёлмалгафтфтомс">jolmalgaftftə̑ms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="ёлмалгафтфтан">jolmalgaftftan</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="ёлмалгафтфтан">jolmalgaftftan</Wd>
 </Infl>
 </InflCtn>
 </InflB>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg3"/><Infl>
-<Wd mdfId="ёлмалгафтфты">jolmalgaftfti͔</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg3" mdfId="ёлмалгафтфты">jolmalgaftfti͔</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -102321,13 +102247,13 @@ jedenfalls <Et>
 <Wd mdfId="ёлмалгафтфнемс">jolmalgaftfńəms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="ёлмалгафтфнян">jolmalgaftfńan</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="ёлмалгафтфнян">jolmalgaftfńan</Wd>
 </Infl>
 </InflCtn>
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg3"/><Infl>
-<Wd mdfId="ёлмалгафтфни">jolmalgaftfńi</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg3" mdfId="ёлмалгафтфни">jolmalgaftfńi</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -102844,13 +102770,13 @@ jedenfalls <Et>
 <Wd mdfId="роу̯налгадомс">rou̯nalgadə̑ms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="роу̯налгадан">rou̯nalgadan</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="роу̯налгадан">rou̯nalgadan</Wd>
 </Infl>
 </InflCtn>
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg3"/><Infl>
-<Wd mdfId="роу̯налгады">rou̯nalgadi͔</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg3" mdfId="роу̯налгады">rou̯nalgadi͔</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -102884,8 +102810,8 @@ jedenfalls <Et>
 <Wd mdfId="роу̯налгафтомс">rou̯nalgaftə̑ms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="роу̯налгафтан">rou̯nalgaftan</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="роу̯налгафтан">rou̯nalgaftan</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -102920,8 +102846,8 @@ jedenfalls <Et>
 <Wd mdfId="ровнайгадомс">rovnajgadə̑ms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="ровнайгадан">rovnajgadan</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="ровнайгадан">rovnajgadan</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -102955,8 +102881,8 @@ jedenfalls <Et>
 <Wd mdfId="ровнайгафтомс">rovnajgaftə̑ms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="ровнайгафтан">rovnajgaftan</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="ровнайгафтан">rovnajgaftan</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -102991,8 +102917,8 @@ jedenfalls <Et>
 <Wd mdfId="ровнайгафнемс">rovnajgafńəms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="ровнайгафнян">rovnajgafńan</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="ровнайгафнян">rovnajgafńan</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -103472,9 +103398,8 @@ jedenfalls <Et>
 </GeoUB>
 <InflB>
 <InflCtn>
-<InflTags tag="+SP+Gen+Indef"/>
 <Infl>
-<Wd myvId="анукунь">anukuń</Wd>
+<Wd tag="+SP+Gen+Indef" myvId="анукунь">anukuń</Wd>
 </Infl>
 </InflCtn>
 </InflB>
@@ -103926,13 +103851,13 @@ jedenfalls <Et>
 <Wd mdfId="анокснемс">anə̑ksńəms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="анокснян">anə̑kśńan</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="анокснян">anə̑kśńan</Wd>
 </Infl>
 </InflCtn>
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg3"/><Infl>
-<Wd mdfId="аноксни">anə̑kśńi</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg3" mdfId="аноксни">anə̑kśńi</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -104213,13 +104138,13 @@ jedenfalls <Et>
 <Wd mdfId="аноклакшнемс">anə̑klakšńəms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="аноклакшнян">anə̑klakšńan</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="аноклакшнян">anə̑klakšńan</Wd>
 </Infl>
 </InflCtn>
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg3"/><Infl>
-<Wd mdfId="аноклакшни">anə̑klakšńi</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg3" mdfId="аноклакшни">anə̑klakšńi</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -104320,9 +104245,8 @@ jedenfalls <Et>
 </GeoUB>
 <InflB>
 <InflCtn>
-<InflTags tag="+Pl+Nom+Indef"/>
 <Infl>
-<Wd myvId="армазотт">armazott</Wd>
+<Wd tag="+Pl+Nom+Indef" myvId="армазотт">armazott</Wd>
 </Infl>
 </InflCtn>
 </InflB>
@@ -104550,15 +104474,13 @@ jedenfalls <Et>
 </GeoUB>
 <InflB>
 <InflCtn>
-<InflTags tag="+SP+Gen+Indef"/>
 <Infl>
-<Wd mdfId="акшə̑н">akšə̑n</Wd>
+<Wd tag="+SP+Gen+Indef" mdfId="акшə̑н">akšə̑n</Wd>
 </Infl>
 </InflCtn>,
 <InflCtn>
-<InflTags tag="+Pl+Nom+Indef"/>
 <Infl>
-<Wd mdfId="акшə̑т">akšə̑t</Wd>
+<Wd tag="+Pl+Nom+Indef" mdfId="акшə̑т">akšə̑t</Wd>
 </Infl>
 </InflCtn>
 </InflB>
@@ -106020,8 +105942,8 @@ jedenfalls <Et>
 <Wd myvId="меремс">ḿeŕems</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg3"/><Infl>
-<Wd myvId="ашо">ašo</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg3" myvId="ашо">ašo</Wd>
 <Wd myvId="мери">ḿeŕi</Wd>
 </Infl>
 </InflCtn>
@@ -106061,9 +105983,8 @@ jedenfalls <Et>
 </GeoUB>
 <InflB>
 <InflCtn>
-<InflTags tag="+SP+Gen+Indef"/>
 <Infl>
-<Wd mdfId="акшə̑нян">akšə̑ńän</Wd>
+<Wd tag="+SP+Gen+Indef" mdfId="акшə̑нян">akšə̑ńän</Wd>
 </Infl>
 </InflCtn>
 </InflB>
@@ -106408,9 +106329,8 @@ jedenfalls <Et>
 </GeoUB>
 <InflB>
 <InflCtn>
-<InflTags tag="+Pl+Nom+Indef"/>
 <Infl>
-<Wd mdfId="акшазат">akšazat</Wd>
+<Wd tag="+Pl+Nom+Indef" mdfId="акшазат">akšazat</Wd>
 </Infl>
 </InflCtn>
 </InflB>
@@ -106541,9 +106461,8 @@ jedenfalls <Et>
 </Infl>
 </InflCtn>,
 <InflCtn>
-<InflTags tag="+Pl+Nom+Indef"/>
 <Infl>
-<Wd mdfId="акшуфт">akšuft</Wd>
+<Wd tag="+Pl+Nom+Indef" mdfId="акшуфт">akšuft</Wd>
 </Infl>
 </InflCtn>
 </InflB>
@@ -106900,15 +106819,15 @@ jedenfalls <Et>
 <Wd mdfId="акшə̑лдомс">akšə̑ldə̑ms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="акшə̑лдан">akšə̑ldan</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="акшə̑лдан">akšə̑ldan</Wd>
 </Infl>
 </InflCtn>
 </InflB>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg3"/><Infl>
-<Wd mdfId="акшə̑лды">akšə̑ldi͔</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg3" mdfId="акшə̑лды">akšə̑ldi͔</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -106966,15 +106885,15 @@ jedenfalls <Et>
 <Wd mdfId="акшə̑лфтомс">akšə̑lftə̑ms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="акшə̑лфтан">akšə̑lftan</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="акшə̑лфтан">akšə̑lftan</Wd>
 </Infl>
 </InflCtn>
 </InflB>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg3"/><Infl>
-<Wd mdfId="акшə̑лфты">akšə̑lfti͔</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg3" mdfId="акшə̑лфты">akšə̑lfti͔</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -107069,15 +106988,15 @@ jedenfalls <Et>
 <Wd mdfId="акшə̑лгодомс">akšə̑lgə̑də̑ms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="акшə̑лгодан">akšə̑lgə̑dan</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="акшə̑лгодан">akšə̑lgə̑dan</Wd>
 </Infl>
 </InflCtn>
 </InflB>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg3"/><Infl>
-<Wd mdfId="акшə̑лгоды">akšə̑lgə̑di͔</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg3" mdfId="акшə̑лгоды">akšə̑lgə̑di͔</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -107445,15 +107364,15 @@ jedenfalls <Et>
 <Wd mdfId="акшə̑лгофтомс">akšə̑lgə̑ftə̑ms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="акшə̑лгофтан">akšə̑lgə̑ftan</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="акшə̑лгофтан">akšə̑lgə̑ftan</Wd>
 </Infl>
 </InflCtn>
 </InflB>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg3"/><Infl>
-<Wd mdfId="акшə̑лгофты">akšə̑lgə̑fti͔</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg3" mdfId="акшə̑лгофты">akšə̑lgə̑fti͔</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -107589,13 +107508,13 @@ jedenfalls <Et>
 <Wd mdfId="акшə̑лгофнемс">akšə̑lgə̑fńəms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="акшə̑лгофнян">akšə̑lgə̑fńan</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="акшə̑лгофнян">akšə̑lgə̑fńan</Wd>
 </Infl>
 </InflCtn>
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg3"/><Infl>
-<Wd mdfId="акшə̑лгофни">akšə̑lgə̑fńi</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg3" mdfId="акшə̑лгофни">akšə̑lgə̑fńi</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -107624,8 +107543,8 @@ jedenfalls <Et>
 <Wd mdfId="акшə̑лгофнекшнемс">akšə̑lgə̑fńəkšńəms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="акшə̑лгофнекшнян">akšə̑lgə̑fńekšńan</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="акшə̑лгофнекшнян">akšə̑lgə̑fńekšńan</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -107665,8 +107584,8 @@ jedenfalls <Et>
 <Wd mdfId="акшə̑момс">akšə̑mə̑ms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="акшə̑ман">akšə̑man</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="акшə̑ман">akšə̑man</Wd>
 </Infl>
 </InflCtn>
 <InflCtn>
@@ -107867,13 +107786,13 @@ jedenfalls <Et>
 <Wd mdfId="акшə̑пнемс">akšə̑pńəms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="акшə̑пнян">akšə̑pńan</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="акшə̑пнян">akšə̑pńan</Wd>
 </Infl>
 </InflCtn>
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg3"/><Infl>
-<Wd mdfId="акшə̑пни">akšə̑pńi</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg3" mdfId="акшə̑пни">akšə̑pńi</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -107910,8 +107829,8 @@ jedenfalls <Et>
 <Wd mdfId="акшə̑пнекшнемс">akšə̑pńəkšńəms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="акшə̑пнекшнян">akšə̑pńekšńan</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="акшə̑пнекшнян">akšə̑pńekšńan</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -109281,9 +109200,8 @@ prädik. F. <Et>бела</Et>]
 </GeoUB>
 <InflB>
 <InflCtn>
-<InflTags tag="+SP+Gen+Indef"/>
 <Infl>
-<Wd mdfId="пə̑лаже·ннаен">pə̑laže·nnajen</Wd>
+<Wd tag="+SP+Gen+Indef" mdfId="пə̑лаже·ннаен">pə̑laže·nnajen</Wd>
 </Infl>
 </InflCtn>
 </InflB>
@@ -110876,9 +110794,8 @@ tat. (Bl.) misch. <Et>
 </GeoUB>
 <InflB>
 <InflCtn>
-<InflTags tag="+Pl+Nom+Indef"/>
 <Infl>
-<Wd myvId="вандрат">vandrat</Wd>
+<Wd tag="+Pl+Nom+Indef" myvId="вандрат">vandrat</Wd>
 </Infl>
 </InflCtn>
 </InflB>
@@ -111639,9 +111556,8 @@ tat. (Bl.) misch. <Et>
 </Infl>
 </InflCtn>,
 <InflCtn>
-<InflTags tag="+SP+Gen+Indef"/>
 <Infl>
-<Wd mdfId="васлянь">vaśĺäń</Wd>
+<Wd tag="+SP+Gen+Indef" mdfId="васлянь">vaśĺäń</Wd>
 </Infl>
 </InflCtn>
 </InflB>
@@ -111764,9 +111680,8 @@ tat. (Bl.) misch. <Et>
 </GeoUB>
 <InflB>
 <InflCtn>
-<InflTags tag="+Pl+Nom+Indef"/>
 <Infl>
-<Wd myvId="вачᴉ͐т">vačᴉ͐t</Wd>
+<Wd tag="+Pl+Nom+Indef" myvId="вачᴉ͐т">vačᴉ͐t</Wd>
 </Infl>
 </InflCtn>
 </InflB>
@@ -111827,9 +111742,8 @@ tat. (Bl.) misch. <Et>
 </GeoUB>
 <InflB>
 <InflCtn>
-<InflTags tag="+SP+Gen+Indef"/>
 <Infl>
-<Wd mdfId="вач́ə̑н">vač́ə̑n</Wd>
+<Wd tag="+SP+Gen+Indef" mdfId="вач́ə̑н">vač́ə̑n</Wd>
 </Infl>
 </InflCtn>
 </InflB>
@@ -113079,8 +112993,8 @@ tat. (Bl.) misch. <Et>
 <Wd mdfId="вачəмс">vačəms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg3"/><Infl>
-<Wd mdfId="вачи">vači</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg3" mdfId="вачи">vači</Wd>
 </Infl>
 </InflCtn>,
 <InflCtn>
@@ -113682,9 +113596,8 @@ tat. (Bl.) misch. <Et>
 </GeoUB>
 <InflB>
 <InflCtn>
-<InflTags tag="+SP+Gen+Indef"/>
 <Infl>
-<Wd mdfId="вяжнянь">v́äžńäń</Wd>
+<Wd tag="+SP+Gen+Indef" mdfId="вяжнянь">v́äžńäń</Wd>
 </Infl>
 </InflCtn>
 </InflB>
@@ -115568,9 +115481,8 @@ tat. (Bl.) misch. <Et>
 </GeoUB>
 <InflB>
 <InflCtn>
-<InflTags tag="+Pl+Nom+Indef"/>
 <Infl>
-<Wd myvId="вишкиньгить">v́išḱińǵit́</Wd>
+<Wd tag="+Pl+Nom+Indef" myvId="вишкиньгить">v́išḱińǵit́</Wd>
 </Infl>
 </InflCtn>
 </InflB>
@@ -115756,15 +115668,13 @@ tat. (Bl.) misch. <Et>
 </GeoUB>
 <InflB>
 <InflCtn>
-<InflTags tag="+SP+Gen+Indef"/>
 <Infl>
-<Wd mdfId="вяшкянянь">v́äšḱäńäń</Wd>
+<Wd tag="+SP+Gen+Indef" mdfId="вяшкянянь">v́äšḱäńäń</Wd>
 </Infl>
 </InflCtn>,
 <InflCtn>
-<InflTags tag="+Pl+Nom+Indef"/>
 <Infl>
-<Wd mdfId="вяшкянят">v́äšḱäńat</Wd>
+<Wd tag="+Pl+Nom+Indef" mdfId="вяшкянят">v́äšḱäńat</Wd>
 </Infl>
 </InflCtn>
 </InflB>
@@ -116217,9 +116127,8 @@ tat. (Bl.) misch. <Et>
 <Wd myvId="веженьць">v́ežeńć</Wd>
 <InflB>
 <InflCtn>
-<InflTags tag="+SP+Gen+Indef"/>
 <Infl>
-<Wd myvId="веженьцинь">v́ežeńćiń</Wd>
+<Wd tag="+SP+Gen+Indef" myvId="веженьцинь">v́ežeńćiń</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -116974,9 +116883,8 @@ tat. (Bl.) misch. <Et>
 <Wd myvId="вежӓ·шкя">v́ežä·šḱä</Wd>
 <InflB>
 <InflCtn>
-<InflTags tag="+Pl+Nom+Indef"/>
 <Infl>
-<Wd myvId="вежӓ·шкᴉть">v́ežä·šḱᴉt́</Wd>
+<Wd tag="+Pl+Nom+Indef" myvId="вежӓ·шкᴉть">v́ežä·šḱᴉt́</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -117593,8 +117501,8 @@ tat. (Bl.) misch. <Et>
 <Wd mdfId="весялгадомс">v́eśalgadə̑ms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="весялгадан">v́eśalgadan</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="весялгадан">v́eśalgadan</Wd>
 </Infl>
 </InflCtn>
 <GeoUB xml:lang="mdf">
@@ -118708,9 +118616,8 @@ tat. (Bl.) misch. <Et>
 </Infl>
 </InflCtn>
 <InflCtn>
-<InflTags tag="+SP+Gen+Indef"/>
 <Infl>
-<Wd mdfId="веде">v́ed́e</Wd>
+<Wd tag="+SP+Gen+Indef" mdfId="веде">v́ed́e</Wd>
 <Wd mdfId="налн">na·ln</Wd>
 </Infl>
 </InflCtn>
@@ -120558,9 +120465,8 @@ Večk
 </GeoUB>
 <InflB>
 <InflCtn>
-<InflTags tag="+SP+Gen+Indef"/>
 <Infl>
-<Wd myvId="витинь">v́it́iń</Wd>
+<Wd tag="+SP+Gen+Indef" myvId="витинь">v́it́iń</Wd>
 </Infl>
 </InflCtn>
 </InflB>
@@ -121869,13 +121775,13 @@ Večk
 <Wd mdfId="видемəмс">v́id́əməms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="вəдеман">vəd́əma·n</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="вəдеман">vəd́əma·n</Wd>
 </Infl>
 </InflCtn>
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg3"/><Infl>
-<Wd mdfId="видеми">v́id́əḿi</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg3" mdfId="видеми">v́id́əḿi</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -121897,13 +121803,13 @@ Večk
 <Wd mdfId="видемомс">v́id́əmə̑ms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="виде̥ман">v́id́e̥ma·n</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="виде̥ман">v́id́e̥ma·n</Wd>
 </Infl>
 </InflCtn>
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg3"/><Infl>
-<Wd mdfId="виде̥мі">v́id́e̥mi</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg3" mdfId="виде̥мі">v́id́e̥mi</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -122040,13 +121946,13 @@ Večk
 <Wd mdfId="видептемс">v́id́əpt́əms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="вəдептян">vəd́əpt́a·n</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="вəдептян">vəd́əpt́a·n</Wd>
 </Infl>
 </InflCtn>
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg3"/><Infl>
-<Wd mdfId="видепти">v́id́əpt́i</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg3" mdfId="видепти">v́id́əpt́i</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -122060,8 +121966,8 @@ Večk
 <Wd mdfId="видептемс">v́id́əpt́əms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="видептян">v́id́əpt́an</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="видептян">v́id́əpt́an</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -122213,13 +122119,13 @@ Večk
 <Wd mdfId="видепнемс">v́id́əpńəms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="вəдепнян">vəd́əpńa·n</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="вəдепнян">vəd́əpńa·n</Wd>
 </Infl>
 </InflCtn>
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg3"/><Infl>
-<Wd mdfId="видепни">v́id́əpńi</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg3" mdfId="видепни">v́id́əpńi</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -122247,13 +122153,13 @@ Večk
 <Wd mdfId="видепнекшнемс">v́id́əpńəkšńəms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="вəдепнекшнян">vəd́əpńəkšńa·n</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="вəдепнекшнян">vəd́əpńəkšńa·n</Wd>
 </Infl>
 </InflCtn>
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg3"/><Infl>
-<Wd mdfId="видепнекшни">v́id́əpńəkšńi</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg3" mdfId="видепнекшни">v́id́əpńəkšńi</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -122280,15 +122186,15 @@ Večk
 <Wd mdfId="вəдецямс">vəd́əća·ms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="ведецян">v́ed́eća·n</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="ведецян">v́ed́eća·n</Wd>
 </Infl>
 </InflCtn>
 </InflB>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg3"/><Infl>
-<Wd mdfId="ведецяй">v́ed́ećä·j</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg3" mdfId="ведецяй">v́ed́ećä·j</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -123361,15 +123267,15 @@ Večk
 <Wd mdfId="витькстамс">v́it́ksta·ms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="витькстан">v́it́ksta·n</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="витькстан">v́it́ksta·n</Wd>
 </Infl>
 </InflCtn>
 </InflB>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg3"/><Infl>
-<Wd mdfId="витькстай">v́it́ksta·j</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg3" mdfId="витькстай">v́it́ksta·j</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -126335,9 +126241,8 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 </GeoUB>
 <InflB>
 <InflCtn>
-<InflTags tag="+SP+Gen+Indef"/>
 <Infl>
-<Wd mdfId="тасужə̑нь">tasužə̑ń</Wd>
+<Wd tag="+SP+Gen+Indef" mdfId="тасужə̑нь">tasužə̑ń</Wd>
 </Infl>
 </InflCtn>
 </InflB>
@@ -127362,9 +127267,8 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 </GeoUB>
 <InflB>
 <InflCtn>
-<InflTags tag="+Pl+Nom+Indef"/>
 <Infl>
-<Wd mdfId="жадных́ть">žadni͔ᵪ́t́</Wd>
+<Wd tag="+Pl+Nom+Indef" mdfId="жадных́ть">žadni͔ᵪ́t́</Wd>
 </Infl>
 </InflCtn>
 </InflB>
@@ -127414,15 +127318,15 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 <Wd mdfId="жадавамс">žadavams</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="жадаван">žadavan</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="жадаван">žadavan</Wd>
 </Infl>
 </InflCtn>
 </InflB>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg3"/><Infl>
-<Wd mdfId="жадавай">žadavaj</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg3" mdfId="жадавай">žadavaj</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -127465,8 +127369,8 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 <Wd mdfId="жадавакшнемс">žadavakšńəms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg3"/><Infl>
-<Wd mdfId="жадавакшни">žadavakšńi</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg3" mdfId="жадавакшни">žadavakšńi</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -128507,15 +128411,15 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 <Wd mdfId="шиволгодомс">šivə̑lgə̑də̑ms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="шиволгодан">šivə̑lgə̑da·n</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="шиволгодан">šivə̑lgə̑da·n</Wd>
 </Infl>
 </InflCtn>
 </InflB>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg3"/><Infl>
-<Wd mdfId="шиволгоды">šivə̑lgə̑di͔</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg3" mdfId="шиволгоды">šivə̑lgə̑di͔</Wd>
 </Infl>
 </InflCtn>
 <GeoUB xml:lang="mdf">
@@ -132628,15 +132532,13 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 <Wd mdfId="кашан">kašan</Wd>
 <InflB>
 <InflCtn>
-<InflTags tag="+SP+Gen+Indef"/>
 <Infl>
-<Wd mdfId="кашанон">kašanə̑n</Wd>
+<Wd tag="+SP+Gen+Indef" mdfId="кашанон">kašanə̑n</Wd>
 </Infl>
 </InflCtn>,
 <InflCtn>
-<InflTags tag="+Pl+Nom+Indef"/>
 <Infl>
-<Wd mdfId="кашатт">kašatt</Wd>
+<Wd tag="+Pl+Nom+Indef" mdfId="кашатт">kašatt</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -133826,13 +133728,13 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 <Wd mdfId="кевəртьфтемс">ḱevəŕt́f́t́əms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="кевəртьфтян">ḱevəŕt́f́t́an</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="кевəртьфтян">ḱevəŕt́f́t́an</Wd>
 </Infl>
 </InflCtn>
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg3"/><Infl>
-<Wd mdfId="кевəртьфти">ḱevəŕt́f́t́i</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg3" mdfId="кевəртьфти">ḱevəŕt́f́t́i</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -134148,8 +134050,8 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 <Wd mdfId="гевəрькшнемс">ǵev́əŕkšńəms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg3"/><Infl>
-<Wd mdfId="геверькшни">ǵev́eŕkšńi</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg3" mdfId="геверькшни">ǵev́eŕkšńi</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -134427,9 +134329,8 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 </GeoUB>
 <InflB>
 <InflCtn>
-<InflTags tag="+Pl+Nom+Indef"/>
 <Infl>
-<Wd myvId="кельть">ḱeĺt́</Wd>
+<Wd tag="+Pl+Nom+Indef" myvId="кельть">ḱeĺt́</Wd>
 </Infl>
 </InflCtn>
 </InflB>
@@ -135396,13 +135297,13 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 <Wd mdfId="кельмолгодомс">ḱeĺmə̑lgə̑də̑ms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="кельмолгодан">ḱeĺmə̑lgə̑dan</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="кельмолгодан">ḱeĺmə̑lgə̑dan</Wd>
 </Infl>
 </InflCtn>
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg3"/><Infl>
-<Wd mdfId="кельмолгоды">ḱeĺmə̑lgə̑di͔</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg3" mdfId="кельмолгоды">ḱeĺmə̑lgə̑di͔</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -135438,13 +135339,13 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 <Wd mdfId="кельмолгофтомс">ḱeĺmə̑lgə̑ftə̑ms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="кельмолгофтан">ḱeĺmə̑lgə̑ftan</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="кельмолгофтан">ḱeĺmə̑lgə̑ftan</Wd>
 </Infl>
 </InflCtn>
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg3"/><Infl>
-<Wd mdfId="кельмолгофты">ḱeĺmə̑lgə̑fti͔</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg3" mdfId="кельмолгофты">ḱeĺmə̑lgə̑fti͔</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -135473,13 +135374,13 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 <Wd mdfId="кельмолгофнемс">ḱeĺmə̑lgə̑fńəms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="кельмолгофнян">ḱeĺmə̑lgə̑fńan</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="кельмолгофнян">ḱeĺmə̑lgə̑fńan</Wd>
 </Infl>
 </InflCtn>
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg3"/><Infl>
-<Wd mdfId="кельмолгофни">ḱeĺmə̑lgə̑fńi</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg3" mdfId="кельмолгофни">ḱeĺmə̑lgə̑fńi</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -136313,13 +136214,13 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 <Wd mdfId="кельмəфнемс">ḱeĺməfńəms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="кельмəфнян">ḱeĺməfńan</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="кельмəфнян">ḱeĺməfńan</Wd>
 </Infl>
 </InflCtn>
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg3"/><Infl>
-<Wd mdfId="кельмəфни">ḱeĺməfńi</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg3" mdfId="кельмəфни">ḱeĺməfńi</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -136510,9 +136411,8 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 </GeoUB>
 <InflB>
 <InflCtn>
-<InflTags tag="+SP+Gen+Indef"/>
 <Infl>
-<Wd mdfId="керьшəнь">ḱeŕšəń</Wd>
+<Wd tag="+SP+Gen+Indef" mdfId="керьшəнь">ḱeŕšəń</Wd>
 </Infl>
 </InflCtn>
 </InflB>
@@ -137508,9 +137408,8 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 </GeoUB>
 <InflB>
 <InflCtn>
-<InflTags tag="+Pl+Nom+Indef"/>
 <Infl>
-<Wd myvId="кички·рьᴉть">ḱičḱi·ŕᴉt́</Wd>
+<Wd tag="+Pl+Nom+Indef" myvId="кички·рьᴉть">ḱičḱi·ŕᴉt́</Wd>
 </Infl>
 </InflCtn>
 </InflB>
@@ -137560,15 +137459,13 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 </GeoUB>
 <InflB>
 <InflCtn>
-<InflTags tag="+SP+Gen+Indef"/>
 <Infl>
-<Wd mdfId="кичкə̑ронь">ḱičkə̑rə̑ń</Wd>
+<Wd tag="+SP+Gen+Indef" mdfId="кичкə̑ронь">ḱičkə̑rə̑ń</Wd>
 </Infl>
 </InflCtn>,
 <InflCtn>
-<InflTags tag="+Pl+Nom+Indef"/>
 <Infl>
-<Wd mdfId="кичкə̑рхт">ḱičkə̑rʿt</Wd>
+<Wd tag="+Pl+Nom+Indef" mdfId="кичкə̑рхт">ḱičkə̑rʿt</Wd>
 </Infl>
 </InflCtn>
 </InflB>
@@ -137585,9 +137482,8 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 <Wd mdfId="кичкə̑р">ḱičkə̑r</Wd>
 <InflB>
 <InflCtn>
-<InflTags tag="+Pl+Nom+Indef"/>
 <Infl>
-<Wd mdfId="кичкə̑рхт">ḱičkə̑rʿt</Wd>
+<Wd tag="+Pl+Nom+Indef" mdfId="кичкə̑рхт">ḱičkə̑rʿt</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -137611,9 +137507,8 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 </GeoUB>
 <InflB>
 <InflCtn>
-<InflTags tag="+Pl+Nom+Indef"/>
 <Infl>
-<Wd mdfId="кичкə·рет">ḱičkə·ŕət</Wd>
+<Wd tag="+Pl+Nom+Indef" mdfId="кичкə·рет">ḱičkə·ŕət</Wd>
 </Infl>
 </InflCtn>
 </InflB>
@@ -137627,9 +137522,8 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 </GeoUB>
 <InflB>
 <InflCtn>
-<InflTags tag="+Pl+Nom+Indef"/>
 <Infl>
-<Wd mdfId="кич́кə·рəт">ḱič́kə·rət</Wd>
+<Wd tag="+Pl+Nom+Indef" mdfId="кич́кə·рəт">ḱič́kə·rət</Wd>
 </Infl>
 </InflCtn>
 </InflB>
@@ -138548,13 +138442,13 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 <Wd mdfId="кичкə̑рготкшнемс">ḱičkə̑rgə̑tkšńəms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="кечкерготкшнян">ḱečḱergə̑tkšńa·n</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="кечкерготкшнян">ḱečḱergə̑tkšńa·n</Wd>
 </Infl>
 </InflCtn>
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg3"/><Infl>
-<Wd mdfId="кечкерготкшни">ḱečḱergə̑tkšńi</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg3" mdfId="кечкерготкшни">ḱečḱergə̑tkšńi</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -139480,8 +139374,8 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 <Wd mdfId="козякафнемс">koźakafńəms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="козякафнян">koźakafńan</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="козякафнян">koźakafńan</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -139679,9 +139573,8 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 </GeoUB>
 <InflB>
 <InflCtn>
-<InflTags tag="+Pl+Nom+Indef"/>
 <Infl>
-<Wd mdfId="касошть">kasošt́</Wd>
+<Wd tag="+Pl+Nom+Indef" mdfId="касошть">kasošt́</Wd>
 </Infl>
 </InflCtn>
 </InflB>
@@ -141807,9 +141700,8 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 <Wd myvId="лафча">lafča</Wd>
 <InflB>
 <InflCtn>
-<InflTags tag="+Pl+Nom+Indef"/>
 <Infl>
-<Wd myvId="лафчᴉ͐т">lafčᴉ͐t</Wd>
+<Wd tag="+Pl+Nom+Indef" myvId="лафчᴉ͐т">lafčᴉ͐t</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -141837,9 +141729,8 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 </GeoUB>
 <InflB>
 <InflCtn>
-<InflTags tag="+SP+Gen+Indef"/>
 <Infl>
-<Wd mdfId="лафчə̑нь">lafčə̑ń</Wd>
+<Wd tag="+SP+Gen+Indef" mdfId="лафчə̑нь">lafčə̑ń</Wd>
 </Infl>
 </InflCtn>,
 <InflCtn>
@@ -141849,9 +141740,8 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 </Infl>
 </InflCtn>,
 <InflCtn>
-<InflTags tag="+Pl+Nom+Indef"/>
 <Infl>
-<Wd mdfId="лафчт">lafčt</Wd>
+<Wd tag="+Pl+Nom+Indef" mdfId="лафчт">lafčt</Wd>
 </Infl>
 </InflCtn>
 </InflB>
@@ -141873,9 +141763,8 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 </GeoUB>
 <InflB>
 <InflCtn>
-<InflTags tag="+Pl+Nom+Indef"/>
 <Infl>
-<Wd mdfId="лафшə·т">lafšə·t</Wd>
+<Wd tag="+Pl+Nom+Indef" mdfId="лафшə·т">lafšə·t</Wd>
 </Infl>
 </InflCtn>
 </InflB>
@@ -145166,9 +145055,8 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 </GeoUB>
 <InflB>
 <InflCtn>
-<InflTags tag="+Pl+Nom+Indef"/>
 <Infl>
-<Wd myvId="лапужу·т">lapužu·t</Wd>
+<Wd tag="+Pl+Nom+Indef" myvId="лапужу·т">lapužu·t</Wd>
 </Infl>
 </InflCtn>
 </InflB>
@@ -145182,9 +145070,8 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 </GeoUB>
 <InflB>
 <InflCtn>
-<InflTags tag="+Pl+Nom+Indef"/>
 <Infl>
-<Wd myvId="лапᴉжᴉт">lapᴉžᴉt</Wd>
+<Wd tag="+Pl+Nom+Indef" myvId="лапᴉжᴉт">lapᴉžᴉt</Wd>
 </Infl>
 </InflCtn>
 </InflB>
@@ -150438,15 +150325,15 @@ P.: Eine metathetische F. aus <Et>
 <Wd mdfId="низелгодомс">ńiźəlgə̑də̑ms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="незелгодан">ńəźəlgə̑da·n</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="незелгодан">ńəźəlgə̑da·n</Wd>
 </Infl>
 </InflCtn>
 </InflB>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg3"/><Infl>
-<Wd mdfId="низелгоды">ńiźəlgə̑di͔</Wd></Infl>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg3" mdfId="низелгоды">ńiźəlgə̑di͔</Wd></Infl>
 </InflCtn>
 </InflB></PhnU>
 <GeoUB xml:lang="mdf">
@@ -150459,8 +150346,8 @@ P.: Eine metathetische F. aus <Et>
 <Wd mdfId="низельгодомс">ńiźəĺgə̑də̑ms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg3"/><Infl>
-<Wd mdfId="низе̥льгоды">ńiźe̥ĺgə̑di͔</Wd></Infl>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg3" mdfId="низе̥льгоды">ńiźe̥ĺgə̑di͔</Wd></Infl>
 </InflCtn>
 </InflB></PhnU>
 <GeoUB xml:lang="mdf">
@@ -150538,13 +150425,13 @@ P.: Eine metathetische F. aus <Et>
 <Wd mdfId="низелготкшнемс">ńiźəlgə̑tkšńəms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="незелготкшнян">ńəźəlgə̑tkšńa·n</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="незелготкшнян">ńəźəlgə̑tkšńa·n</Wd>
 </Infl>
 </InflCtn>
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg3"/><Infl>
-<Wd mdfId="низелготкшни">ńiźəlgə̑tkšńi</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg3" mdfId="низелготкшни">ńiźəlgə̑tkšńi</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -150625,15 +150512,15 @@ P.: Eine metathetische F. aus <Et>
 <Wd mdfId="низелгофтомс">ńiźəlgə̑ftə̑ms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="незелгофтан">ńəźəlgə̑fta·n</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="незелгофтан">ńəźəlgə̑fta·n</Wd>
 </Infl>
 </InflCtn>
 </InflB>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg3"/><Infl>
-<Wd mdfId="низелгофты">ńiźəlgə̑fti͔</Wd></Infl>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg3" mdfId="низелгофты">ńiźəlgə̑fti͔</Wd></Infl>
 </InflCtn>
 </InflB></PhnU>
 <GeoUB xml:lang="mdf">
@@ -150762,8 +150649,8 @@ P.: Eine metathetische F. aus <Et>
 <Wd mdfId="низелготфтомс">ńiźəlgə̑tftə̑ms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="незелготфтан">ńeźəlgə̑tfta·n</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="незелготфтан">ńeźəlgə̑tfta·n</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -151499,13 +151386,13 @@ P.: Eine metathetische F. aus <Et>
 <Wd mdfId="нуваргадомс">nuva·rgadə̑ms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="нуwаргадан">nuwa·rgadan</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="нуwаргадан">nuwa·rgadan</Wd>
 </Infl>
 </InflCtn>
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg3"/><Infl>
-<Wd mdfId="нуwаргады">nuwa·rgadi͔</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg3" mdfId="нуwаргады">nuwa·rgadi͔</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -151830,13 +151717,13 @@ P.: Eine metathetische F. aus <Et>
 <Wd mdfId="нуваргачнекшнемс">nuva·rgačńəkšńəms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="нуwаргачнекшнян">nuwa·rgačńekšńan</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="нуwаргачнекшнян">nuwa·rgačńekšńan</Wd>
 </Infl>
 </InflCtn>
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg3"/><Infl>
-<Wd mdfId="нуwаргачнекшни">nuwa·rgačńekšńi</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg3" mdfId="нуwаргачнекшни">nuwa·rgačńekšńi</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -152215,9 +152102,8 @@ P.: Eine metathetische F. aus <Et>
 </GeoUB>
 <InflB>
 <InflCtn>
-<InflTags tag="+SP+Gen+Indef"/>
 <Infl>
-<Wd myvId="нузяксынь">nuźa·ksi͔ń</Wd>
+<Wd tag="+SP+Gen+Indef" myvId="нузяксынь">nuźa·ksi͔ń</Wd>
 </Infl>
 </InflCtn>
 </InflB>
@@ -153342,9 +153228,8 @@ P.: Eine metathetische F. aus <Et>
 </GeoUB>
 <InflB>
 <InflCtn>
-<InflTags tag="+SP+Gen+Indef"/>
 <Infl>
-<Wd myvId="оцёлынь">oćoli͔ń</Wd>
+<Wd tag="+SP+Gen+Indef" myvId="оцёлынь">oćoli͔ń</Wd>
 </Infl>
 </InflCtn>
 </InflB>
@@ -153795,9 +153680,8 @@ P.: Eine metathetische F. aus <Et>
 </GeoUB>
 <InflB>
 <InflCtn>
-<InflTags tag="+SP+Gen+Indef"/>
 <Infl>
-<Wd mdfId="пако·йникə̑н">pako·jńikə̑n</Wd>
+<Wd tag="+SP+Gen+Indef" mdfId="пако·йникə̑н">pako·jńikə̑n</Wd>
 </Infl>
 </InflCtn>
 </InflB>
@@ -153883,9 +153767,8 @@ P.: Eine metathetische F. aus <Et>
 </GeoUB>
 <InflB>
 <InflCtn>
-<InflTags tag="+SP+Gen+Indef"/>
 <Infl>
-<Wd mdfId="покшə̑н">pokšə̑n</Wd>
+<Wd tag="+SP+Gen+Indef" mdfId="покшə̑н">pokšə̑n</Wd>
 </Infl>
 </InflCtn>
 </InflB>
@@ -158143,9 +158026,8 @@ P.: Eine metathetische F. aus <Et>
 </GeoUB>
 <InflB>
 <InflCtn>
-<InflTags tag="+Pl+Nom+Indef"/>
 <Infl>
-<Wd myvId="равужут">ravužut</Wd>
+<Wd tag="+Pl+Nom+Indef" myvId="равужут">ravužut</Wd>
 </Infl>
 </InflCtn>
 </InflB>
@@ -158183,9 +158065,8 @@ P.: Eine metathetische F. aus <Et>
 <Wd myvId="рау·жа">rau·ža</Wd>
 <InflB>
 <InflCtn>
-<InflTags tag="+Pl+Nom+Indef"/>
 <Infl>
-<Wd myvId="рау·жут">rau·žut</Wd>
+<Wd tag="+Pl+Nom+Indef" myvId="рау·жут">rau·žut</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -158236,9 +158117,8 @@ P.: Eine metathetische F. aus <Et>
 </GeoUB>
 <InflB>
 <InflCtn>
-<InflTags tag="+Pl+Nom+Indef"/>
 <Infl>
-<Wd mdfId="равᴣ̌т">ravᴣ̌t</Wd>
+<Wd tag="+Pl+Nom+Indef" mdfId="равᴣ̌т">ravᴣ̌t</Wd>
 </Infl>
 <Infl>
 <Wd mdfId="равжат">ravžat</Wd>
@@ -160320,13 +160200,13 @@ P.: Eine metathetische F. aus <Et>
 <Wd mdfId="равᵈжə̑лгодомс">ravᵈžə̑lgə̑də̑ms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="равᴣ̌ə̑лгодан">ravᴣ̌ə̑lgə̑dan</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="равᴣ̌ə̑лгодан">ravᴣ̌ə̑lgə̑dan</Wd>
 </Infl>
 </InflCtn>
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg3"/><Infl>
-<Wd mdfId="равᴣ̌ə̑лгоды">ravᴣ̌ə̑lgə̑di͔</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg3" mdfId="равᴣ̌ə̑лгоды">ravᴣ̌ə̑lgə̑di͔</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -160361,13 +160241,13 @@ P.: Eine metathetische F. aus <Et>
 <Wd mdfId="равᵈжə̑лгофтомс">ravᵈžə̑lgə̑ftə̑ms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="равᴣ̌ə̑лгофтан">ravᴣ̌ə̑lgə̑ftan</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="равᴣ̌ə̑лгофтан">ravᴣ̌ə̑lgə̑ftan</Wd>
 </Infl>
 </InflCtn>
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg3"/><Infl>
-<Wd mdfId="равᴣ̌ə̑лгофты">ravᴣ̌ə̑lgə̑fti͔</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg3" mdfId="равᴣ̌ə̑лгофты">ravᴣ̌ə̑lgə̑fti͔</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -160396,13 +160276,13 @@ P.: Eine metathetische F. aus <Et>
 <Wd mdfId="равᵈжə̑момс">ravᵈžə̑mə̑ms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="равᴣ̌ə̑ман">ravᴣ̌ə̑man</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="равᴣ̌ə̑ман">ravᴣ̌ə̑man</Wd>
 </Infl>
 </InflCtn>
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg3"/><Infl>
-<Wd mdfId="равᴣ̌ə̑мі">ravᴣ̌ə̑mi</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg3" mdfId="равᴣ̌ə̑мі">ravᴣ̌ə̑mi</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -160436,13 +160316,13 @@ P.: Eine metathetische F. aus <Et>
 <Wd mdfId="равᵈжə̑птомс">ravᵈžə̑ptə̑ms</Wd>
 <InflB rsc="arch">
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg1"/><Infl>
-<Wd mdfId="равᴣ̌ə̑птан">ravᴣ̌ə̑ptan</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg1" mdfId="равᴣ̌ə̑птан">ravᴣ̌ə̑ptan</Wd>
 </Infl>
 </InflCtn>
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg3"/><Infl>
-<Wd mdfId="равᴣ̌ə̑пты">ravᴣ̌ə̑pti͔</Wd>
+<Infl>
+<Wd tag="+Ind+Prs+ScSg3" mdfId="равᴣ̌ə̑пты">ravᴣ̌ə̑pti͔</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -162422,9 +162302,8 @@ Aus der russ. prädik. F. <Et>робка</Et>]
 </Infl>
 </InflCtn>,
 <InflCtn>
-<InflTags tag="+Pl+Nom+Indef"/>
 <Infl>
-<Wd mdfId="спорнат">spornat</Wd>
+<Wd tag="+Pl+Nom+Indef" mdfId="спорнат">spornat</Wd>
 </Infl>
 </InflCtn>
 </InflB>
@@ -163347,15 +163226,13 @@ Aus der russ. prädik. F. <Et>робка</Et>]
 </GeoUB>
 <InflB>
 <InflCtn>
-<InflTags tag="+SP+Gen+Indef"/>
 <Infl>
-<Wd myvId="сутурманынь">suturmani͔ń</Wd>
+<Wd tag="+SP+Gen+Indef" myvId="сутурманынь">suturmani͔ń</Wd>
 </Infl>
 </InflCtn>,
 <InflCtn>
-<InflTags tag="+Pl+Nom+Indef"/>
 <Infl>
-<Wd myvId="сутурмат">suturmat</Wd>
+<Wd tag="+Pl+Nom+Indef" myvId="сутурмат">suturmat</Wd>
 </Infl>
 </InflCtn>
 </InflB>
@@ -164445,9 +164322,8 @@ prädik. F. von <Et>тяжёлый</Et>]
 </GeoUB>
 <InflB>
 <InflCtn>
-<InflTags tag="+Pl+Nom+Indef"/>
 <Infl>
-<Wd myvId="томбамᴉ͐т">tomba·mᴉ͐t</Wd>
+<Wd tag="+Pl+Nom+Indef" myvId="томбамᴉ͐т">tomba·mᴉ͐t</Wd>
 </Infl>
 </InflCtn>
 </InflB>
@@ -164550,9 +164426,8 @@ prädik. F. von <Et>тяжёлый</Et>]
 </GeoUB>
 <InflB>
 <InflCtn>
-<InflTags tag="+Pl+Nom+Indef"/>
 <Infl>
-<Wd myvId="тотмарат">totmara·t</Wd>
+<Wd tag="+Pl+Nom+Indef" myvId="тотмарат">totmara·t</Wd>
 </Infl>
 </InflCtn>
 </InflB>
@@ -166098,9 +165973,8 @@ Aus der russ. prädik. F. <Et>упря́м</Et>]
 </GeoUB>
 <InflB>
 <InflCtn>
-<InflTags tag="+SP+Gen+Indef"/>
 <Infl>
-<Wd mdfId="шарьхчавонь">šaŕʿčavə̑ń</Wd>
+<Wd tag="+SP+Gen+Indef" mdfId="шарьхчавонь">šaŕʿčavə̑ń</Wd>
 </Infl>
 </InflCtn>
 </InflB>
@@ -167718,9 +167592,8 @@ Aus der russ. prädik. F. <Et>упря́м</Et>]
 <Wd mdfId="ялə̑вай">jalə̑vaj</Wd>
 <InflB>
 <InflCtn>
-<InflTags tag="+Pl+Nom+Indef"/>
 <Infl>
-<Wd mdfId="ялə̑ваш́т">jalə̑vaš́t</Wd>
+<Wd tag="+Pl+Nom+Indef" mdfId="ялə̑ваш́т">jalə̑vaš́t</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
@@ -168429,7 +168302,6 @@ Aus der russ. prädik. F. <Et>упря́м</Et>]
 <GeoU>Jeg</GeoU>
 </GeoUB>
 <InflB>
-<InflTags tag="+Pl+Nom+Indef"/>
 <InflCtn>
 <GeoUB xml:lang="myv">
 <GeoU>Mar</GeoU>
@@ -168437,7 +168309,7 @@ Aus der russ. prädik. F. <Et>упря́м</Et>]
 <GeoU>Šir</GeoU>
 </GeoUB>
 <Infl>
-<Wd myvId="ёт">jot</Wd>
+<Wd tag="+Pl+Nom+Indef" myvId="ёт">jot</Wd>
 </Infl>
 </InflCtn>
 <InflCtn>
@@ -168446,7 +168318,7 @@ Aus der russ. prädik. F. <Et>упря́м</Et>]
 <GeoU>Kažl</GeoU>
 </GeoUB>
 <Infl>
-<Wd myvId="ётт">jott</Wd>
+<Wd tag="+Pl+Nom+Indef" myvId="ётт">jott</Wd>
 </Infl></InflCtn>
 </InflB>
 </PhnUBlock>
@@ -168804,15 +168676,13 @@ Aus der russ. prädik. F. <Et>упря́м</Et>]
 <Wd mdfId="туркс">turks</Wd>
 <InflB>
 <InflCtn>
-<InflTags tag="+SP+Gen+Indef"/>
 <Infl>
-<Wd mdfId="турксон">turksə̑n</Wd>
+<Wd tag="+SP+Gen+Indef" mdfId="турксон">turksə̑n</Wd>
 </Infl>
 </InflCtn>,
 <InflCtn>
-<InflTags tag="+Pl+Nom+Indef"/>
 <Infl>
-<Wd mdfId="туркст">turkst</Wd>
+<Wd tag="+Pl+Nom+Indef" mdfId="туркст">turkst</Wd>
 </Infl>
 </InflCtn>
 </InflB></PhnU>
