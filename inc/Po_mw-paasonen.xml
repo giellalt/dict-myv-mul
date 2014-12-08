@@ -855,10 +855,7 @@
 <Wd myvId="чи">či</Wd>
 </x>
 <GeoUB edit="MK" xml:lang="myv">
-<GeoUCtn>
-<FrCm edit="MK" freeType="questionRelation" Modification="MK"/>
-<GeoU>Bug</GeoU>
-</GeoUCtn>
+<GeoU edit="MK">Bug</GeoU>
 </GeoUB>
 <sources>
 <book name="V" pg="60"/>
@@ -873,10 +870,7 @@
 <Wd myvId="арьцевть">aŕćevt́</Wd>
 </x>
 <GeoUB edit="MK" xml:lang="myv">
-<GeoUCtn>
-<FrCm edit="MK" freeType="questionRelation" Modification="MK"/>
-<GeoU>Bug</GeoU>
-</GeoUCtn>
+<GeoU edit="MK">Bug</GeoU>
 </GeoUB>
 <sources>
 <book name="V" pg="2"/>
@@ -994,9 +988,7 @@
 <GeoUB xml:lang="mdf">
 <GeoU>P</GeoU>
 <GeoU>Kr</GeoU>
-<GeoUCtn>
 <GeoU edit="MK">Mam</GeoU>
-</GeoUCtn>
 <GeoU>Sel</GeoU>
 </GeoUB>
 </PhnUBlock>
@@ -1057,9 +1049,7 @@
 <Wd edit="MK" mdfId="совасть">sə̑va·śt́</Wd>
 </x>
 <GeoUB edit="MK" xml:lang="mdf">
-<GeoUCtn>
 <GeoU edit="MK">Mam</GeoU>
-</GeoUCtn>
 </GeoUB>
 <sources>
 <book name="IV" pg="144"/>
@@ -1117,9 +1107,7 @@
 <Wd mdfId="козякадоманкса">koźakadə̑maŋksa</Wd>
 </x>
 <GeoUB edit="MK" xml:lang="mdf">
-<GeoUCtn>
 <GeoU edit="MK">P</GeoU>
-</GeoUCtn>
 </GeoUB>
 <sources>
 <book name="IV" pg="728"/>
@@ -1139,9 +1127,7 @@
 <Wd mdfId="котфонкса">kotfə̑ŋksa</Wd>
 </x>
 <GeoUB edit="MK" xml:lang="mdf">
-<GeoUCtn>
 <GeoU edit="MK">Mam</GeoU>
-</GeoUCtn>
 </GeoUB>
 <sources>
 <book name="IV" pg="284"/>
@@ -1159,9 +1145,7 @@
 <Wd mdfId="народонкса">narodə̑ŋksa</Wd>
 </x>
 <GeoUB edit="MK" xml:lang="mdf">
-<GeoUCtn>
 <GeoU edit="MK">P</GeoU>
-</GeoUCtn>
 </GeoUB>
 <sources>
 <book name="IV" pg="392"/>
@@ -1351,9 +1335,7 @@
 <Wd edit="MK" mdfId="кулендень">kuĺeńd́eń</Wd>
 </x>
 <GeoUB edit="MK" xml:lang="mdf">
-<GeoUCtn>
 <GeoU edit="MK">Mam</GeoU>
-</GeoUCtn>
 </GeoUB>
 <sources>
 <book name="IV" pg="398"/>
@@ -1432,9 +1414,7 @@
 <Wd mdfId="служə̑ндай">služə̑nda·j</Wd>
 </x>
 <GeoUB edit="MK" xml:lang="mdf">
-<GeoUCtn>
 <GeoU edit="MK">Mam</GeoU>
-</GeoUCtn>
 </GeoUB>
 <sources>
 <book name="IV" pg="147"/>
@@ -1509,9 +1489,7 @@
 <GeoUB xml:lang="mdf">
 <GeoU>P</GeoU>
 <GeoU>Kr</GeoU>
-<GeoUCtn>
 <GeoU edit="MK">Mam</GeoU>
-</GeoUCtn>
 <GeoU>Čemb</GeoU>
 </GeoUB>
 </PhnUBlock>
@@ -1538,9 +1516,7 @@
 <Wd mdfId="лажна">lažna</Wd>
 </x>
 <GeoUB edit="MK" xml:lang="mdf">
-<GeoUCtn>
 <GeoU edit="MK">Mam</GeoU>
-</GeoUCtn>
 </GeoUB>
 <sources>
 <book name="IV" pg="97"/>

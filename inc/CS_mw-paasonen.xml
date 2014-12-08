@@ -29,9 +29,7 @@
 <GeoU>P</GeoU>
 <GeoU>Pš</GeoU>
 <GeoU>Kr</GeoU>
-<GeoUCtn>
 <GeoU edit="MK">Mam</GeoU>
-</GeoUCtn>
 <GeoU>Sandr</GeoU>
 <GeoU>Patra</GeoU>
 <GeoU>Sel</GeoU>
@@ -69,9 +67,7 @@
 <dfLQl1>(
 <GeoUB xml:lang="mdf">
 <GeoU>Pš</GeoU>
-<GeoUCtn>
 <GeoU edit="MK">Mam</GeoU>
-</GeoUCtn>
 <GeoU>Sandr</GeoU>
 <GeoU>Patra</GeoU>
 <GeoU>Sel</GeoU>
@@ -258,10 +254,7 @@ dial. <Et>али</Et>
 <Wd mdfId="то">tə̑</Wd>
 </PhnU>
 <GeoUB edit="MK" xml:lang="mdf">
-<GeoUCtn>
-<FrCm edit="MK" freeType="questionRelation" Modification="MK"/>
-<GeoU>P</GeoU>
-</GeoUCtn>
+<GeoU edit="MK">P</GeoU>
 </GeoUB>
 </PhnUBlock>
 <PhnUBlock>
@@ -689,9 +682,7 @@ dial. <Et>али</Et>
 <Wd mdfId="казнантс">kaznants</Wd>
 </x>
 <GeoUB edit="MK" xml:lang="mdf">
-<GeoUCtn>
 <GeoU edit="MK">Sel</GeoU>
-</GeoUCtn>
 </GeoUB>
 <sources>
 <book name="IV" pg="263"/>
@@ -1117,9 +1108,7 @@ dial. <Et>али</Et>
 <Wd edit="MK" mdfId="эряй">eŕäj</Wd>
 <tk3 isa="quest"/></x>
 <GeoUB edit="MK" xml:lang="mdf">
-<GeoUCtn>
 <GeoU edit="MK">Mam</GeoU>
-</GeoUCtn>
 </GeoUB>
 <sources>
 <book name="IV" pg="854"/>
@@ -3611,9 +3600,7 @@ dial. <Et>али</Et>
 <src1>
 <GeoUB xml:lang="mdf">
 <GeoU>P</GeoU>
-<GeoUCtn>
 <GeoU edit="MK">= Mam</GeoU>
-</GeoUCtn>
 </GeoUB>
 <sources>
 <book name="IV" pg="879"/>

@@ -2231,9 +2231,7 @@ nach:)</t>
 <GeoUB xml:lang="myv">
 <GeoU>Mar</GeoU>
 <GeoU>Večk</GeoU>
-<GeoUCtn>
 <GeoU edit="MK">Petr</GeoU>
-</GeoUCtn>
 </GeoUB>
 </PhnUBlock>
 <PhnUBlock>
@@ -2242,9 +2240,7 @@ nach:)</t>
 </PhnU>
 <GeoUB xml:lang="myv">
 <GeoU>Kad</GeoU>
-<GeoUCtn>
 <GeoU edit="MK">Kažl</GeoU>
-</GeoUCtn>
 </GeoUB>
 </PhnUBlock>
 </lg>
@@ -2406,9 +2402,7 @@ nach:)</t>
 </PhnU>
 <GeoUB xml:lang="myv">
 <GeoU>Mar</GeoU>
-<GeoUCtn>
 <GeoU edit="MK">VVr</GeoU>
-</GeoUCtn>
 <GeoU>Večk</GeoU>
 </GeoUB>
 </PhnUBlock>
@@ -2526,10 +2520,7 @@ nach:)</t>
 <Wd myvId="стуксемс">stukśems</Wd>
 </PhnU>
 <GeoUB edit="MK" xml:lang="myv">
-<GeoUCtn>
-<FrCm edit="MK" freeType="questionRelation" Modification="MK"/>
-<GeoU>Večk</GeoU>
-</GeoUCtn>
+<GeoU edit="MK">Večk</GeoU>
 </GeoUB>
 </PhnUBlock>
 </lg>
@@ -2830,12 +2821,8 @@ nach:)</t>
 <GeoUB xml:lang="myv">
 <GeoU>Is</GeoU>
 <GeoU>Kozl</GeoU>
-<GeoUCtn>
 <GeoU edit="MK">Bug</GeoU>
-</GeoUCtn>
-<GeoUCtn>
 <GeoU edit="MK">Bag</GeoU>
-</GeoUCtn>
 </GeoUB>
 </PhnUBlock>
 <PhnUBlock>
@@ -2851,9 +2838,7 @@ nach:)</t>
 <Wd myvId="чумурдумс">čumurdums</Wd>
 </PhnU>
 <GeoUB edit="MK" xml:lang="myv">
-<GeoUCtn>
 <GeoU edit="MK">Hl</GeoU>
-</GeoUCtn>
 </GeoUB>
 </PhnUBlock>
 </lg>
@@ -2961,10 +2946,7 @@ nach:)</t>
 <Wd edit="MK" myvId="сюмурди">śumuŕd́i</Wd>
 <tk3 isa="quest"/></x>
 <GeoUB edit="MK" xml:lang="myv">
-<GeoUCtn>
-<FrCm edit="MK" freeType="questionRelation" Modification="MK"/>
-<GeoU>Bug</GeoU>
-</GeoUCtn>
+<GeoU edit="MK">Bug</GeoU>
 </GeoUB>
 <sources>
 <book name="V" pg="344"/>
@@ -4572,12 +4554,8 @@ nach:)</t>
 </tg>
 <t xml:lang="deu">? plötzlich einen Hieb geben 
 <GeoUB edit="MK" xml:lang="myv">
-<GeoUCtn>
 <GeoU edit="MK">Atr</GeoU>
-</GeoUCtn>
-<GeoUCtn>
 <GeoU edit="MK">Večk</GeoU>
-</GeoUCtn>
 </GeoUB>
 </t>
 </mg>
@@ -5846,10 +5824,7 @@ nach:)</t>
 <Wd myvId="цяралемс">ćaraĺems</Wd>
 </PhnU>
 <GeoUB edit="MK" xml:lang="myv">
-<GeoUCtn>
-<FrCm edit="MK" freeType="questionRelation" Modification="MK"/>
-<GeoU>Mar</GeoU>
-</GeoUCtn>
+<GeoU edit="MK">Mar</GeoU>
 </GeoUB>
 </PhnUBlock>
 </lg>
@@ -5945,14 +5920,8 @@ nach:)</t>
 <Wd myvId="цярцаемс">ćarca·jems</Wd>
 </PhnU>
 <GeoUB edit="MK" xml:lang="myv">
-<GeoUCtn>
-<FrCm edit="MK" freeType="questionRelation" Modification="MK"/>
-<GeoU>Is</GeoU>
-</GeoUCtn>
-<GeoUCtn>
-<FrCm edit="MK" freeType="questionRelation" Modification="MK"/>
-<GeoU>Ba</GeoU>
-</GeoUCtn>
+<GeoU edit="MK">Is</GeoU>
+<GeoU edit="MK">Ba</GeoU>
 </GeoUB>
 </PhnUBlock>
 </lg>
@@ -6192,10 +6161,7 @@ nach:)</t>
 <GeoUB xml:lang="myv">
 <GeoU>Večk</GeoU>
 <GeoU>Is</GeoU>
-<GeoUCtn>
-<FrCm edit="MK" freeType="questionRelation" Modification="MK"/>
-<GeoU>Bug</GeoU>
-</GeoUCtn>
+<GeoU edit="MK">Bug</GeoU>
 <GeoU>Kozl</GeoU>
 </GeoUB>
 </PhnUBlock>
@@ -6260,10 +6226,7 @@ nach:)</t>
 <Wd myvId="чатьмони">čat́mońi</Wd>
 </x>
 <GeoUB xml:lang="myv">
-<GeoUCtn>
-<FrCm edit="MK" freeType="questionRelation" Modification="MK"/>
-<GeoU>Bug</GeoU>
-</GeoUCtn>
+<GeoU edit="MK">Bug</GeoU>
 </GeoUB>
 <sources>
 <book name="V" pg="510"/>
@@ -6667,10 +6630,7 @@ nach:)</t>
 </PhnU>
 <GeoUB xml:lang="myv">
 <GeoU>Večk</GeoU>
-<GeoUCtn>
-<FrCm edit="MK" freeType="questionRelation" Modification="MK"/>
-<GeoU>Atr</GeoU>
-</GeoUCtn>
+<GeoU edit="MK">Atr</GeoU>
 </GeoUB>
 </PhnUBlock>
 <PhnUBlock>
@@ -7521,14 +7481,8 @@ nach:)</t>
 <Wd myvId="чольнефтемс">čoĺńeft́ems</Wd>
 </PhnU>
 <GeoUB xml:lang="myv">
-<GeoUCtn>
-<FrCm edit="MK" freeType="questionRelation" Modification="MK"/>
-<GeoU>Večk</GeoU>
-</GeoUCtn>
-<GeoUCtn>
-<FrCm edit="MK" freeType="questionRelation" Modification="MK"/>
-<GeoU>VVr</GeoU>
-</GeoUCtn>
+<GeoU edit="MK">Večk</GeoU>
+<GeoU edit="MK">VVr</GeoU>
 </GeoUB>
 </PhnUBlock>
 </lg>
@@ -7552,10 +7506,7 @@ nach:)</t>
 <Wd myvId="чох">čoᵪ</Wd>
 </PhnU>
 <GeoUB>
-<GeoUCtn>
-<FrCm edit="MK" freeType="questionRelation" Modification="MK"/>
-<GeoU>E</GeoU>
-</GeoUCtn>
+<GeoU edit="MK">E</GeoU>
 <GeoUB/>
 </GeoUB>
 </PhnUBlock>
@@ -7591,9 +7542,7 @@ nach:)</t>
 <Wd mdfId="вешкəзня">v́ešḱəźńä</Wd>
 </x>
 <GeoUB edit="MK" xml:lang="mdf">
-<GeoUCtn>
 <GeoU edit="MK">P</GeoU>
-</GeoUCtn>
 </GeoUB>
 <sources>
 <book name="IV" pg="214"/>
@@ -9487,9 +9436,7 @@ nach:)</t>
 </PhnU>
 <GeoUB xml:lang="mdf">
 <GeoU>Lemd</GeoU>
-<GeoUCtn>
 <GeoU edit="MK">Kr</GeoU>
-</GeoUCtn>
 </GeoUB>
 </PhnUBlock>
 </lg>
@@ -9631,9 +9578,7 @@ nach:)</t>
 <Wd mdfId="чə̑рнамс">čə̑rna·ms</Wd>
 </PhnU>
 <GeoUB edit="MK" xml:lang="mdf">
-<GeoUCtn>
 <GeoU edit="MK">Mam</GeoU>
-</GeoUCtn>
 </GeoUB>
 </PhnUBlock>
 <PhnUBlock>
@@ -9681,9 +9626,7 @@ nach:)</t>
 <Wd mdfId="ортанятс">ortańats</Wd>
 </x>
 <GeoUB edit="MK" xml:lang="mdf">
-<GeoUCtn>
 <GeoU edit="MK">Mam</GeoU>
-</GeoUCtn>
 </GeoUB>
 <sources>
 <book name="IV" pg="150"/>
@@ -9817,9 +9760,7 @@ nach:)</t>
 <Wd mdfId="чə̑рназевəмс">čə̑rna·źəvəms</Wd>
 </PhnU>
 <GeoUB edit="MK" xml:lang="mdf">
-<GeoUCtn>
 <GeoU edit="MK">Mam</GeoU>
-</GeoUCtn>
 </GeoUB>
 </PhnUBlock>
 <PhnUBlock>
@@ -9856,9 +9797,7 @@ nach:)</t>
 <Wd mdfId="озат">ozat</Wd>
 </x>
 <GeoUB edit="MK" xml:lang="mdf">
-<GeoUCtn>
 <GeoU edit="MK">Mam</GeoU>
-</GeoUCtn>
 </GeoUB>
 <sources>
 <book name="IV" pg="555"/>
@@ -9897,9 +9836,7 @@ nach:)</t>
 </PhnU>
 <GeoUB xml:lang="mdf">
 <GeoU>Kr</GeoU>
-<GeoUCtn>
 <GeoU edit="MK">Mam</GeoU>
-</GeoUCtn>
 </GeoUB>
 </PhnUBlock>
 </lg>
@@ -9936,9 +9873,7 @@ nach:)</t>
 <Wd mdfId="ортанятс">ortańats</Wd>
 </x>
 <GeoUB edit="MK" xml:lang="mdf">
-<GeoUCtn>
 <GeoU edit="MK">Mam</GeoU>
-</GeoUCtn>
 </GeoUB>
 <sources>
 <book name="IV" pg="268"/>
@@ -9957,9 +9892,7 @@ nach:)</t>
 </txt2>
 </i></x>
 <GeoUB edit="MK" xml:lang="mdf">
-<GeoUCtn>
 <GeoU edit="MK">Mam</GeoU>
-</GeoUCtn>
 </GeoUB>
 <sources>
 <book name="IV" pg="432"/>
@@ -10013,9 +9946,7 @@ nach:)</t>
 <Wd mdfId="чə̑рнафты">čə̑rna·fti͔</Wd>
 </PhnU>
 <GeoUB edit="MK" xml:lang="mdf">
-<GeoUCtn>
 <GeoU edit="MK">Mam</GeoU>
-</GeoUCtn>
 </GeoUB>
 </PhnUBlock>
 </lg>
@@ -10060,9 +9991,7 @@ nach:)</t>
 <Wd mdfId="чирнафни">čirnafńi</Wd>
 </PhnU>
 <GeoUB edit="MK" xml:lang="mdf">
-<GeoUCtn>
 <GeoU edit="MK">Temn</GeoU>
-</GeoUCtn>
 </GeoUB>
 </PhnUBlock>
 </lg>
@@ -10838,10 +10767,7 @@ nach:)</t>
 <Wd mdfId="цик">ćik</Wd>
 </PhnU>
 <GeoUB edit="MK" xml:lang="mdf">
-<GeoUCtn>
-<FrCm edit="MK" freeType="questionRelation" Modification="MK"/>
-<GeoU>Sel</GeoU>
-</GeoUCtn>
+<GeoU edit="MK">Sel</GeoU>
 </GeoUB>
 </PhnUBlock>
 </lg>
@@ -11917,9 +11843,7 @@ nach:)</t>
 </PhnU>
 <GeoUB xml:lang="myv">
 <GeoU>Večk</GeoU>
-<GeoUCtn>
 <GeoU edit="MK">Kozl</GeoU>
-</GeoUCtn>
 </GeoUB>
 </PhnUBlock>
 </lg>
@@ -12200,9 +12124,7 @@ nach:)</t>
 <Wd mdfId="пяльцек">ṕä·ĺćəḱ</Wd>
 </PhnU>
 <GeoUB edit="MK" xml:lang="mdf">
-<GeoUCtn>
 <GeoU edit="MK">Pš</GeoU>
-</GeoUCtn>
 </GeoUB>
 </PhnUBlock>
 <PhnUBlock>
@@ -12618,10 +12540,7 @@ nach:)</t>
 </Vrt>
 </Chc>
 <GeoUB xml:lang="myv">
-<GeoUCtn>
-<FrCm edit="MK" freeType="questionRelation" Modification="MK"/>
-<GeoU>Kal</GeoU>
-</GeoUCtn>
+<GeoU edit="MK">Kal</GeoU>
 </GeoUB>
 </PhnUBlock>
 </lg>
@@ -13876,13 +13795,8 @@ nach:)</t>
 </PhnU>
 <GeoUB xml:lang="mdf">
 <GeoU>P</GeoU>
-<GeoUCtn>
-<FrCm edit="MK" freeType="questionRelation" Modification="MK"/>
-<GeoU>Čemb</GeoU>
-</GeoUCtn>
-<GeoUCtn>
+<GeoU edit="MK">Čemb</GeoU>
 <GeoU edit="MK">Sučk</GeoU>
-</GeoUCtn>
 </GeoUB>
 </PhnUBlock>
 </lg>
@@ -15099,10 +15013,7 @@ nach:)</t>
 <Wd myvId="меремс">ḿeŕems</Wd>
 </PhnU>
 <GeoUB edit="MK" xml:lang="myv">
-<GeoUCtn>
-<FrCm edit="MK" freeType="questionRelation" Modification="MK"/>
-<GeoU>Ba</GeoU>
-</GeoUCtn>
+<GeoU edit="MK">Ba</GeoU>
 </GeoUB>
 </PhnUBlock>
 </lg>
@@ -16172,14 +16083,8 @@ nach:)</t>
 <Wd myvId="меремс">ḿeŕems</Wd>
 </PhnU>
 <GeoUB edit="MK" xml:lang="myv">
-<GeoUCtn>
-<FrCm edit="MK" freeType="questionRelation" Modification="MK"/>
-<GeoU>Večk</GeoU>
-</GeoUCtn>
-<GeoUCtn>
-<FrCm edit="MK" freeType="questionRelation" Modification="MK"/>
-<GeoU>Ba</GeoU>
-</GeoUCtn>
+<GeoU edit="MK">Večk</GeoU>
+<GeoU edit="MK">Ba</GeoU>
 </GeoUB>
 </PhnUBlock>
 </lg>
@@ -18674,10 +18579,7 @@ flattert der jungen Frau Schleier].</t>
 <Wd myvId="меремс">ḿeŕems</Wd>
 </PhnU>
 <GeoUB edit="MK" xml:lang="myv">
-<GeoUCtn>
-<FrCm edit="MK" freeType="questionRelation" Modification="MK"/>
-<GeoU>Večk</GeoU>
-</GeoUCtn>
+<GeoU edit="MK">Večk</GeoU>
 </GeoUB>
 </PhnUBlock>
 </lg>
@@ -19143,9 +19045,7 @@ flattert der jungen Frau Schleier].</t>
 <Wd edit="MK" myvId="сыргойкшнесь">si͔rgojkšńeś</Wd>
 </x>
 <GeoUB edit="MK" xml:lang="myv">
-<GeoUCtn>
 <GeoU edit="MK">MKka</GeoU>
-</GeoUCtn>
 </GeoUB>
 <sources>
 <book name="II" pg="56"/>
@@ -19309,12 +19209,8 @@ flattert der jungen Frau Schleier].</t>
 </PhnU>
 <GeoUB xml:lang="myv">
 <GeoU>Mar</GeoU>
-<GeoUCtn>
 <GeoU edit="MK">Večk</GeoU>
-</GeoUCtn>
-<GeoUCtn>
 <GeoU edit="MK">Ba</GeoU>
-</GeoUCtn>
 </GeoUB>
 </PhnUBlock>
 </lg>
