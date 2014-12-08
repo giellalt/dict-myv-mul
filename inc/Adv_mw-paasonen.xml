@@ -29628,6 +29628,9 @@ bedeutet “etwas länger vorher” als die übrigen F.)</Cm></dfLQl1>
 <sources>
 <book name="Chr" xml:lang="mdf"/>
 </sources>
+<GeoUB xml:lang="mdf">
+<GeoU/>
+</GeoUb>
 </PhnUBlock>
 </lg>
 <SenseGroup>
@@ -30185,19 +30188,22 @@ bedeutet “etwas länger vorher” als die übrigen F.)</Cm></dfLQl1>
 <DictionaryEntry>
 <HWB>
 <E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Adv">XX</l><st/>
-</lg>
-<lg xml:lang="mdf"><l pos="Adv">селда</l>
-<st>селда</st>
+<lg edit="JMR" xml:lang="myv"><l pos="Adv">сёлда</l><st/>
 <PhnUBlock>
 <PhnU>
-<Wd mdfId="сёлда">śolda</Wd>
+<Wd myvId="сёлда">śolda</Wd>
 </PhnU>
 <sources>
 <book name="ML" pg="56"/>
 <Language>[?E]</Language>
 </sources>
+<GeoUB xml:lang="myv">
+<GeoU/>
+</GeoUb>
 </PhnUBlock>
+</lg>
+<lg xml:lang="mdf"><l pos="Adv">селда</l>
+<st>селда</st>
 </lg>
 <SenseGroup>
 <mg>

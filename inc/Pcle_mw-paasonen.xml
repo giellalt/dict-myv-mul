@@ -10217,6 +10217,51 @@ Volksd. gebraucht wird, <Cm>? = russ. <FrnTxt xml:lang="rus">да</FrnTxt></Cm>]
   <NE idNo="1">
 <DictionaryEntry>
 <HWB>
+<E3Head><POS/><deriv/></E3Head>
+<lg edit="JMR" xml:lang="myv"><l pos="Pcle"></l><st/>
+</lg>
+<lg xml:lang="mdf"><l pos="Pcle">-кя</l>
+<st>Q-кя</st>
+<PhnUBlock>
+<PhnU>
+<Hph/>
+<Wd mdfId="кя">ḱä</Wd>
+</PhnU>
+<sources>
+<book name="Chr" xml:lang="mdf"/>
+</sources>
+<GeoUB xml:lang="mdf">
+<GeoU/>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<SenseGroup>
+<Syntax function="enklit"/>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">также</t>
+</tg>
+<tg xml:lang="deu">
+<t>auch</t>
+</tg>
+</mg>
+</SenseGroup>
+;
+<SenseGroup>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">даже</t>
+</tg>
+<tg xml:lang="deu">
+<t>sogar</t>
+</tg>
+</mg>
+</SenseGroup>
+</HWB>
+</DictionaryEntry></NE>
+  <NE idNo="1">
+<DictionaryEntry>
+<HWB>
 <E3Head><POS pos="N"/><deriv isa="prt-I"/></E3Head>
 <lg xml:lang="myv"><l pos="Pcle">ли</l>
 <st>ли</st>
@@ -10950,9 +10995,9 @@ Volksd. gebraucht wird, <Cm>? = russ. <FrnTxt xml:lang="rus">да</FrnTxt></Cm>]
 </PhnU>
 </Vrt>
 </Chc>
-<GeoUBz xml:lang="mdf">
+<GeoUB xml:lang="mdf">
 <GeoU>P</GeoU>
-</GeoUBz>
+</GeoUB>
 </PhnUBlock>
 </lg>
 <SenseGroup>
@@ -10973,9 +11018,9 @@ Volksd. gebraucht wird, <Cm>? = russ. <FrnTxt xml:lang="rus">да</FrnTxt></Cm>]
 <Wd mdfId="сон">son</Wd>
 <Wd mdfId="сай">saj</Wd>
 </x>
-<GeoUBz xml:lang="mdf">
+<GeoUB xml:lang="mdf">
 <GeoU>P</GeoU>
-</GeoUBz>
+</GeoUB>
 <xt xml:lang="deu">Kommt er denn (wirklich)?</xt>
 </xg>
 </HWB>
@@ -11015,9 +11060,9 @@ Volksd. gebraucht wird, <Cm>? = russ. <FrnTxt xml:lang="rus">да</FrnTxt></Cm>]
 <PhnU>
 <Wd mdfId="резяй">ŕəźä·j</Wd>
 </PhnU>
-<GeoUBz xml:lang="mdf">
+<GeoUB xml:lang="mdf">
 <GeoU>P</GeoU>
-</GeoUBz>
+</GeoUB>
 </PhnUBlock>
 </lg>
 <SenseGroup>
@@ -11121,6 +11166,9 @@ Volksd. gebraucht wird, <Cm>? = russ. <FrnTxt xml:lang="rus">да</FrnTxt></Cm>]
 <sources>
 <book name="Chr" xml:lang="mdf"/>
 </sources>
+<GeoUB xml:lang="mdf">
+<GeoU/>
+</GeoUB>
 </PhnUBlock>
 </lg>
 <SenseGroup>
@@ -11165,6 +11213,9 @@ Volksd. gebraucht wird, <Cm>? = russ. <FrnTxt xml:lang="rus">да</FrnTxt></Cm>]
 <sources>
 <book name="Chr" xml:lang="mdf"/>
 </sources>
+<GeoUB xml:lang="mdf">
+<GeoU/>
+</GeoUB>
 </PhnUBlock>
 </lg>
 <SenseGroup>
@@ -11208,6 +11259,9 @@ Volksd. gebraucht wird, <Cm>? = russ. <FrnTxt xml:lang="rus">да</FrnTxt></Cm>]
 <sources>
 <book name="Chr" xml:lang="mdf"/>
 </sources>
+<GeoUB xml:lang="mdf">
+<GeoU/>
+</GeoUB>
 </PhnUBlock>
 </lg>
 <SenseGroup>
@@ -11250,6 +11304,9 @@ Volksd. gebraucht wird, <Cm>? = russ. <FrnTxt xml:lang="rus">да</FrnTxt></Cm>]
 <sources>
 <book name="Chr" xml:lang="mdf"/>
 </sources>
+<GeoUB xml:lang="mdf">
+<GeoU/>
+</GeoUB>
 </PhnUBlock>
 </lg>
 <SenseGroup>
