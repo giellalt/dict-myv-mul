@@ -200,7 +200,7 @@
 <DictionaryEntry>
 <HWB>
 <E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Interj">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Interj">пожалой</l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Interj">пожалой</l>
 <st>пожалой</st>
@@ -7297,7 +7297,7 @@ Tat., tschuw. <Et>
 <lg edit="JMR" xml:lang="mdf"><l pos="Interj"></l>
 <st></st>
 </lg>
-<SenseGroup/>
+<SenseGroup>
 <Nx vl="plural"/>
 <mg>
 <tg xml:lang="rus">
@@ -13203,8 +13203,8 @@ Tat
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="Pron">XX</l><st/>
 </lg>
-<lg xml:lang="mdf"><l pos="Pron">эрт</l>
-<st>эрт</st>
+<lg xml:lang="mdf"><l pos="Pron">эрьхть</l>
+<st>эрьхть</st>
 <PhnUBlock>
 <PhnU>
 <Wd mdfId="эрхт">erʿt</Wd>

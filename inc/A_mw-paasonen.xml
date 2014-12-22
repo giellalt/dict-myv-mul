@@ -122873,7 +122873,7 @@ Večk
 <HWB>
 <E3Head><POS pos="N"/><deriv isa="DVNoun-OMA"/></E3Head>
 <lg xml:lang="myv"><l pos="DVN">-витема</l>
-<st>-витема</l></st>
+<st>-витема</st>
 <PhnUBlock>
 <PhnU>
 <Hph/>
@@ -155724,6 +155724,122 @@ P.: Eine metathetische F. aus <Et>
 <Etg>
 <EtSrcL xml:lang="rus"/>
 [<Et>прорва</Et>]
+</Etg>
+</DictionaryEntry></NE>
+  <NE idNo="1">
+<DictionaryEntry>
+<HWB>
+<E3Head><POS/></E3Head>
+<lg edit="JMR" xml:lang="myv"><l pos="A">XX</l><st/>
+</lg>
+<lg xml:lang="mdf"><l>прястальнай</l>
+<st>прястальнай</st>
+<PhnUBlock>
+<PhnU>
+<Wd mdfId="прястальнай">pŕästaĺnaj</Wd>
+</PhnU>
+</PhnUBlock>
+</lg>
+<SenseGroup>
+<Sense vl="notGiven"/>
+</SenseGroup>
+<xg>
+:
+</xg>
+</HWB>
+<MWUB>
+<E3Head><POS freeType="morphological" pos=""/><deriv isa="Dem"/></E3Head>
+<lg edit="JMR" xml:lang="myv"><l pos="N"/><st/>
+</lg>
+<lg xml:lang="mdf"><l pos="N">прястальнай кудня</l>
+<st>прястальнай кудня</st>
+<PhnUBlock>
+<PhnU>
+<Wd mdfId="прястальнай">pŕästaĺnaj</Wd>
+<Wd mdfId="кудня">kudńä</Wd>
+</PhnU>
+<GeoUB xml:lang="mdf">
+<GeoU>Temn</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<DrvG><DrvT vl="diminutive"/></DrvG>
+<SenseGroup>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">постоялый двор</t>
+<t edit="MK">трактир</t>
+<t edit="MK">гостиница</t>
+</tg>
+<tg xml:lang="deu">
+<t>Herberge</t>
+<t pos="N">Wirtshaus</t>
+<t pos="N">Gasthaus</t>
+</tg>
+</mg>
+</SenseGroup>
+.
+<xg>
+<x>
+<Wd mdfId="веля">v́eĺä</Wd>
+<Hph edit="MK"/>
+<Wd mdfId="пеняса">ṕeńasa</Wd>
+<Wd mdfId="прястальнай">pŕästaĺnaj</Wd>
+<Wd mdfId="кудня">kudńä</Wd>
+<tk3 isa="comma"/>
+<Wd mdfId="прястальнай">pŕästaĺnaj</Wd>
+<Wd mdfId="кудня">kudńä</Wd>
+<tk3 isa="comma"/>
+<Wd mdfId="стаяльнай">stajaĺnaj</Wd>
+<Wd mdfId="домня">doḿńä</Wd>
+</x>
+<GeoUB xml:lang="mdf">
+<GeoU>Temn</GeoU>
+</GeoUB>
+<sources>
+<book name="VIII" pg="306"/>
+</sources>
+<xt xml:lang="deu">Am Dorfende (steht) ein Wirtshaus, ein Wirtshaus, ein Gasthaus.</xt>
+</xg>
+</MWUB>
+<Etg>
+<EtSrcL edit="MK" xml:lang="rus"/>
+<EtCtn>
+<Et edit="MK">пристальный</Et>
+</EtCtn>
+</Etg>
+</DictionaryEntry></NE>
+  <NE idNo="1">
+<DictionaryEntry>
+<HWB>
+<E3Head><POS/></E3Head>
+<lg edit="JMR" xml:lang="myv"><l pos="A">XX</l><st/>
+</lg>
+<lg xml:lang="mdf"><l pos="A">плгавернай</l>
+<st>пәлгавернай</st>
+<PhnUBlock>
+<PhnU>
+<Wd mdfId="пə̑лгаве·рнай">pə̑lgav́e·rnaj</Wd>
+</PhnU>
+<GeoUB xml:lang="mdf">
+<GeoU>Pš</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<SenseGroup>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">правоверный</t>
+</tg>
+<tg xml:lang="deu">
+<t>rechtgläubig</t>
+</tg>
+</mg>
+</SenseGroup>
+</HWB>
+<Etg>
+<EtSrcL xml:lang="rus"/>
+<Et>благове́рный</Et>
 </Etg>
 </DictionaryEntry></NE>
   <NE idNo="1">
