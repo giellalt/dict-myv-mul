@@ -28,7 +28,7 @@
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="сетен">śet́en</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="сетен">śet́en</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -241,8 +241,8 @@
 <E3Head><POS/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="N"/><st/>
 </lg>
-<lg xml:lang="mdf"><l pos="N">сенем нармәнь</l>
-<st>сенем нармәнь</st>
+<lg xml:lang="mdf"><l pos="N">сенем нармонь</l>
+<st>сенем нармонь</st>
 <PhnUBlock>
 <Chc>
 <Vrt>
@@ -277,8 +277,8 @@
 <E3Head><POS/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="N"/><st/>
 </lg>
-<lg xml:lang="mdf"><l pos="N">сенем пангә</l>
-<st>сенем пангә</st>
+<lg xml:lang="mdf"><l pos="N">сенем панга</l>
+<st>сенем панга</st>
 <PhnUBlock>
 <PhnU>
 <Wd mdfId="сенем">śeńəm</Wd>
@@ -402,7 +402,7 @@
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="сенем">śeńəm</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="сенем">śeńəm</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">синий</t>
@@ -492,7 +492,7 @@
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="сенер">śeńər</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="сенер">śeńər</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">синеватый</t>
@@ -1007,7 +1007,7 @@
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="парӑ">pară</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="парӑ">pară</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">? дов. хороший</t>
@@ -1118,7 +1118,7 @@
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/></DrvG>
+<l_drv drvType="diminutive"></l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">зеленовато-голубой</t>
@@ -2024,7 +2024,7 @@
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="шонгар(а)">šoŋgar(a)</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="шонгар(а)">šoŋgar(a)</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">жидкий</t>
@@ -2055,7 +2055,7 @@
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="такə̑р">takə̑r</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="такə̑р">takə̑r</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -2080,7 +2080,7 @@
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="топас">topas</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="топас">topas</l_drv>
 <mg copiedFrom="preceding">
 <tg xml:lang="rus">
 <t edit="MK">короткий и толстый</t>
@@ -2215,7 +2215,7 @@
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/></DrvG>
+<l_drv drvType="diminutive"></l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">дешёвый</t>
@@ -2362,7 +2362,7 @@
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="акшӑ">akšă</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="акшӑ">akšă</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">белый</t>
@@ -2533,7 +2533,7 @@
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="вачəдӑ">vačədă</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="вачəдӑ">vačədă</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">голодный</t>
@@ -3246,7 +3246,7 @@
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="равᴣ̌а">ravᴣ̌a</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="равᴣ̌а">ravᴣ̌a</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">чёрный</t>
@@ -14646,7 +14646,7 @@ jedenfalls <Et>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/></DrvG>
+<l_drv drvType="diminutive"></l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">постоялый двор</t>
@@ -15116,7 +15116,7 @@ jedenfalls <Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="ашо">ašo</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="ашо">ašo</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">беленький</t>
@@ -15341,7 +15341,7 @@ jedenfalls <Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="ашназа">ašnaza</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="ашназа">ašnaza</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t>беловатый</t>
@@ -17463,7 +17463,7 @@ prädik. F. <Et>бела</Et>]
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="берянь">b́eŕań</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="берянь">b́eŕań</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">плохой</t>
@@ -17892,7 +17892,7 @@ prädik. F. <Et>бела</Et>]
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="берянь">b́eŕań</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="берянь">b́eŕań</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t>плохонький</t>
@@ -18597,7 +18597,7 @@ prädik. F. <Et>бела</Et>]
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="благой">blagoj</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="благой">blagoj</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">строгий</t>
@@ -19858,7 +19858,7 @@ tat. (Bl.) misch. <Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="важов">važov</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="важов">važov</l_drv>
 <mg copiedFrom="preceding">
 <tg xml:lang="rus">
 <t>ответливый</t>
@@ -20024,7 +20024,7 @@ tat. (Bl.) misch. <Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="вандора">vandora</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="вандора">vandora</l_drv>
 <mg copiedFrom="preceding">
 <tg xml:lang="rus">
 <t edit="MK">косо, покато, обрывисто лежащий</t>
@@ -20405,8 +20405,6 @@ tat. (Bl.) misch. <Et>
 <t>прежний</t>
 <t>самый ранний</t>
 <t>старший</t>
-</tg>
-<tg xml:lang="rus">
 <t>предыдущий</t>
 <t>предшествующий]</t>
 </tg>
@@ -23193,7 +23191,7 @@ jedoch
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="вешиньге">v́ešińǵe</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="вешиньге">v́ešińǵe</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">очень маленький</t>
@@ -23266,7 +23264,7 @@ jedoch
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="веж">v́ež</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="веж">v́ež</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">малый</t>
@@ -23630,7 +23628,7 @@ jedoch
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="N"/><st/>
 </lg>
-<DrvG><DrvT vl="diminutive"/></DrvG>
+<l_drv drvType="diminutive"></l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">вышивка на поясничном украшении морд. женщин</t>
@@ -23823,7 +23821,7 @@ jedoch
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
-<DrvG>(<DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="вешка">v́eška</Wd></DrvSt></DrvStCtn><DrvStCtn><DrvSt><Wd CyrId="вишка">v́iška</Wd></DrvSt></DrvStCtn>)</DrvG>
+<DrvG>(<l_drv drvType="diminutive" CyrId="вешка">v́eška</l_drv><l_drv drvType="diminutive" CyrId="вишка">v́iška</l_drv>)</DrvG>
 <mg>
 <tg xml:lang="rus">
 <t>маленький</t>
@@ -24072,7 +24070,7 @@ jedoch
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="вешкиньге">v́ešḱińǵe</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="вешкиньге">v́ešḱińǵe</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">маленький</t>
@@ -24139,7 +24137,7 @@ jedoch
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
-<DrvG>(<DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="вешкине">v́ešḱińe</Wd></DrvSt></DrvStCtn><DrvStCtn><DrvSt><Wd CyrId="вишкине">v́išḱińe</Wd></DrvSt></DrvStCtn>)</DrvG>
+<DrvG>(<l_drv drvType="diminutive" CyrId="вешкине">v́ešḱińe</l_drv><l_drv drvType="diminutive" CyrId="вишкине">v́išḱińe</l_drv>)</DrvG>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">маленький</t>
@@ -24210,7 +24208,7 @@ jedoch
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="виде">v́id́e</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="виде">v́id́e</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">прямой</t>
@@ -25086,7 +25084,7 @@ jedoch
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/></DrvG>
+<l_drv drvType="diminutive"></l_drv>
 <mg copiedFrom="preceding">
 <tg xml:lang="rus">
 <t edit="MK">место в лесу, где растут большие деревья</t>
@@ -26311,7 +26309,7 @@ jedoch
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="вишка">v́iška</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="вишка">v́iška</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">маленький</t>
@@ -26390,7 +26388,7 @@ jedoch
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="вишкине">v́išḱińe</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="вишкине">v́išḱińe</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">маленький</t>
@@ -26424,7 +26422,7 @@ jedoch
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="вишкине">v́išḱińe</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="вишкине">v́išḱińe</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">маленький</t>
@@ -26453,7 +26451,7 @@ jedoch
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="вишкинька">v́išḱińka</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="вишкинька">v́išḱińka</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">очень маленький</t>
@@ -27667,7 +27665,7 @@ jedoch
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="голой">goloj</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="голой">goloj</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">голенький</t>
@@ -27701,7 +27699,7 @@ jedoch
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="голой">goloj</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="голой">goloj</l_drv>
 <mg copiedFrom="preceding">
 <tg xml:lang="rus">
 <t edit="MK">голенький</t>
@@ -28270,7 +28268,7 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="N"/><st/>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="дикой">d́ikoj</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="дикой">d́ikoj</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">дикая птица</t>
@@ -29011,7 +29009,7 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="досуж">dosuž</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="досуж">dosuž</l_drv>
 <mg copiedFrom="preceding">
 <tg xml:lang="rus">
 <t edit="MK">ловкий</t>
@@ -29145,7 +29143,7 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="дошлой">došloj</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="дошлой">došloj</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">проворный</t>
@@ -29733,7 +29731,7 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="дёшова">d́ošova</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="дёшова">d́ošova</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -31855,7 +31853,7 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="N"/><st/>
 </lg>
-<DrvG><DrvT vl="diminutive"/></DrvG>
+<l_drv drvType="diminutive"></l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">изображение царя (монета)</t>
@@ -35564,7 +35562,7 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="кельме">ḱeĺḿe</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="кельме">ḱeĺḿe</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">холодный</t>
@@ -36643,7 +36641,7 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/></DrvG>
+<l_drv drvType="diminutive"></l_drv>
 <mg>
 <t xml:lang="rus">s. <FrnTxt><Wd CyrId="керч">ḱerč</Wd>
 <Wd CyrId="пелькс">ṕeĺks</Wd></FrnTxt></t>
@@ -37625,7 +37623,7 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="козя">koźa</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="козя">koźa</l_drv>
 <mg copiedFrom="preceding">
 <tg xml:lang="rus">
 <t>[фамилия</t>
@@ -38963,7 +38961,7 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="крупна">krupna</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="крупна">krupna</l_drv>
 <mg copiedFrom="preceding">
 <tg xml:lang="rus">
 <t edit="MK">крупный</t>
@@ -44827,8 +44825,6 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 <t>klug</t>
 <t>pfiffig</t>
 <t>listig</t>
-</tg>
-<tg xml:lang="deu">
 <t>verschlagen</t>
 <t>witzig</t>
 </tg>
@@ -48062,7 +48058,7 @@ P.: Eine metathetische F. aus <Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
-<DrvG>(<DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="нурька">nuŕka</Wd></DrvSt></DrvStCtn><Cm>usw</Cm>)</DrvG>
+<DrvG>(<l_drv drvType="diminutive" CyrId="нурька">nuŕka</l_drv><Cm>usw</Cm>)</DrvG>
 <mg copiedFrom="preceding">
 <tg xml:lang="rus">
 <t edit="MK">более короткий конец (из двух)</t>
@@ -48514,7 +48510,7 @@ P.: Eine metathetische F. aus <Et>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="vocative"/></DrvG>
+<l_drv drvType="vocative"></l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">шутл. обр. к девушке или молодой женщине</t>
@@ -48757,7 +48753,7 @@ P.: Eine metathetische F. aus <Et>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/></DrvG>
+<l_drv drvType="diminutive"></l_drv>
 <mg copiedFrom="preceding">
 <tg xml:lang="rus">
 <t edit="MK">похожее на капусту растение по берегам реки Мокши</t>
@@ -48809,7 +48805,7 @@ P.: Eine metathetische F. aus <Et>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/></DrvG>
+<l_drv drvType="diminutive"></l_drv>
 <mg copiedFrom="preceding">
 <tg xml:lang="rus">
 <t edit="MK">жена старшего брата</t>
@@ -49165,7 +49161,7 @@ P.: Eine metathetische F. aus <Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="N"/><st/>
 </lg>
-<DrvG><DrvT vl="diminutive"/></DrvG>
+<l_drv drvType="diminutive"></l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">парнишка</t>
@@ -49861,7 +49857,7 @@ P.: Eine metathetische F. aus <Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="N"/><st/>
 </lg>
-<DrvG><DrvT vl="diminutive"/></DrvG>
+<l_drv drvType="diminutive"></l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">новолуние</t>
@@ -50905,7 +50901,7 @@ P.: Eine metathetische F. aus <Et>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="одəрьвя">odəŕv́ä</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="одəрьвя">odəŕv́ä</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t>молодушка</t>
@@ -51000,7 +50996,7 @@ P.: Eine metathetische F. aus <Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="од">od</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="од">od</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">молоденький</t>
@@ -51399,7 +51395,7 @@ P.: Eine metathetische F. aus <Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="N"/><st/>
 </lg>
-<DrvG><DrvT vl="diminutive"/></DrvG>
+<l_drv drvType="diminutive"></l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">жёлтокрашеное яйцо (пасхальное яйцо)</t>
@@ -56300,7 +56296,7 @@ P.: Eine metathetische F. aus <Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="парӑ">pară</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="парӑ">pară</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">хороший</t>
@@ -59081,7 +59077,7 @@ P.: Eine metathetische F. aus <Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="N"/><st/>
 </lg>
-<DrvG><DrvT vl="diminutive"/></DrvG>
+<l_drv drvType="diminutive"></l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -59633,7 +59629,7 @@ P.: Eine metathetische F. aus <Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="N"/><st/>
 </lg>
-<DrvG><DrvT vl="diminutive"/></DrvG>
+<l_drv drvType="diminutive"></l_drv>
 <mg copiedFrom="preceding">
 <tg xml:lang="rus">
 <t edit="MK">жена старшего брата</t>
@@ -59842,7 +59838,7 @@ P.: Eine metathetische F. aus <Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="покшке">pokšḱe</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="покшке">pokšḱe</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -63783,7 +63779,7 @@ P.: Eine metathetische F. aus <Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="раужо">raužo</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="раужо">raužo</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t>черненький</t>
@@ -67657,7 +67653,7 @@ Adj.-Ableit. von russ. <Et>сего́дня</Et> ‘heute’]
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="ситной">śitnoj</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="ситной">śitnoj</l_drv>
 <mg copiedFrom="preceding">
 <tg xml:lang="rus">
 <t edit="MK">ситный хлеб</t>
@@ -69564,7 +69560,7 @@ Adj.-Ableit. von russ. <Et>сего́дня</Et> ‘heute’]
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="стака">staka</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="стака">staka</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">тяжёленький</t>
@@ -71388,7 +71384,7 @@ Russ., aus der prädik. F. <Et>сыра &lt; сыро́й</Et>]
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/></DrvG>
+<l_drv drvType="diminutive"></l_drv>
 <mg copiedFrom="preceding">
 <tg xml:lang="rus">
 <t edit="MK">тёща</t>
@@ -73911,7 +73907,7 @@ Russ., aus der prädik. F. <Et>сыра &lt; сыро́й</Et>]
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
-<DrvG><DrvT vl="diminutive"/></DrvG>
+<l_drv drvType="diminutive"></l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">синий</t>
@@ -75920,7 +75916,7 @@ Russ., aus der prädik. F. <Et>сыра &lt; сыро́й</Et>]
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="те(й)іне">t́e(j)ińe</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="те(й)іне">t́e(j)ińe</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t>узенький</t>
@@ -75956,7 +75952,7 @@ Russ., aus der prädik. F. <Et>сыра &lt; сыро́й</Et>]
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="теінька">t́eińka</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="теінька">t́eińka</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">узенький</t>
@@ -77764,7 +77760,7 @@ prädik. F. von <Et>тяжёлый</Et>]
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="тусто">tusto</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="тусто">tusto</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">густой</t>
@@ -78664,7 +78660,7 @@ prädik. F. von <Et>тяжёлый</Et>]
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/></DrvG>
+<l_drv drvType="diminutive"></l_drv>
 <mg copiedFrom="preceding">
 <tg xml:lang="rus">
 <t edit="MK">божья коровка</t>
@@ -82307,7 +82303,7 @@ Aus der russ. prädik. F. <Et>упря́м</Et>]
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="N"/><st/>
 </lg>
-<DrvG><DrvT vl="diminutive"/></DrvG>
+<l_drv drvType="diminutive"></l_drv>
 <mg copiedFrom="preceding">
 <tg xml:lang="rus">
 <t edit="MK">набекрень носящий свою шляпу</t>
@@ -83059,7 +83055,7 @@ Aus der russ. prädik. F. <Et>упря́м</Et>]
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG>(<DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="чова">čova</Wd></DrvSt></DrvStCtn><Cm>usw</Cm>)</DrvG>
+<DrvG>(<l_drv drvType="diminutive" CyrId="чова">čova</l_drv><Cm>usw</Cm>)</DrvG>
 <mg>
 <tg xml:lang="rus">
 <t>тоненький</t>
@@ -83236,7 +83232,7 @@ Aus der russ. prädik. F. <Et>упря́м</Et>]
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="чова">čova</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="чова">čova</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">тоненький</t>
@@ -84209,7 +84205,7 @@ Aus der russ. prädik. F. <Et>упря́м</Et>]
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="шожда">šožda</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="шожда">šožda</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">лёгонький</t>
@@ -84823,7 +84819,7 @@ Aus der russ. prädik. F. <Et>упря́м</Et>]
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="N"/><st/>
 </lg>
-<DrvG><DrvT vl="diminutive"/></DrvG>
+<l_drv drvType="diminutive"></l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">целый каравай (хлеба)</t>
@@ -85447,7 +85443,7 @@ Aus der russ. prädik. F. <Et>упря́м</Et>]
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="N"/><st/>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="экшей">ekšej</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="экшей">ekšej</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">? родник</t>
@@ -85525,7 +85521,7 @@ Aus der russ. prädik. F. <Et>упря́м</Et>]
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="экше">e͔kše</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="экше">e͔kše</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t>холодноватый</t>
@@ -86309,8 +86305,6 @@ Aus der russ. prädik. F. <Et>упря́м</Et>]
 <t>kräftig</t>
 <t>fest</t>
 <t>zähe</t>
-</tg>
-<tg xml:lang="deu">
 <t>dauerhaft</t>
 <t>dicht</t>
 <Cm>z.B. Mensch, Schnur, Gewebe, Leinwand</Cm>
@@ -87093,7 +87087,7 @@ Aus der russ. prädik. F. <Et>упря́м</Et>]
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="эчке">ečḱe</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="эчке">ečḱe</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">толстенький</t>
@@ -88090,7 +88084,7 @@ Aus der russ. prädik. F. <Et>упря́м</Et>]
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="якстере">jakśt́eŕe</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="якстере">jakśt́eŕe</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -89348,7 +89342,7 @@ Aus der russ. prädik. F. <Et>упря́м</Et>]
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="ён">jon</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="ён">jon</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">хорошенький</t>
@@ -92755,7 +92749,7 @@ Aus der russ. prädik. F. <Et>упря́м</Et>]
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/></DrvG>
+<l_drv drvType="diminutive"></l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">подросток</t>
@@ -93978,7 +93972,7 @@ Aus der russ. prädik. F. <Et>упря́м</Et>]
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/></DrvG>
+<l_drv drvType="diminutive"></l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">дымоход</t>
@@ -98198,7 +98192,7 @@ Aus der russ. prädik. F. <Et>упря́м</Et>]
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="тустӑ">tustă</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="тустӑ">tustă</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">дрожжи</t>
@@ -98288,7 +98282,7 @@ Aus der russ. prädik. F. <Et>упря́м</Et>]
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="ширем">šiŕəm</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="ширем">šiŕəm</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">косоватый</t>
@@ -98339,7 +98333,7 @@ Aus der russ. prädik. F. <Et>упря́м</Et>]
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="ляпя">ĺäṕä</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="ляпя">ĺäṕä</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">мягонький</t>
@@ -98453,7 +98447,7 @@ Aus der russ. prädik. F. <Et>упря́м</Et>]
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="моряна">moŕana</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="моряна">moŕana</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -98510,7 +98504,7 @@ Aus der russ. prädik. F. <Et>упря́м</Et>]
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="пяндра">ṕändra</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="пяндра">ṕändra</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">соринка</t>
@@ -98562,7 +98556,7 @@ Aus der russ. prädik. F. <Et>упря́м</Et>]
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="сузла">suzla·</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="сузла">suzla·</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -98588,7 +98582,7 @@ Aus der russ. prädik. F. <Et>упря́м</Et>]
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/></DrvG>
+<l_drv drvType="diminutive"></l_drv>
 <mg>
 <tg xml:lang="rus">
 <t>хитрый</t>
@@ -98627,7 +98621,7 @@ Aus der russ. prädik. F. <Et>упря́м</Et>]
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="сювора">śuvə̑ra·</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="сювора">śuvə̑ra·</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">взъерошенный</t>
@@ -98656,7 +98650,7 @@ Aus der russ. prädik. F. <Et>упря́м</Et>]
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="сятяв">śät́av</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="сятяв">śät́av</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t>смирный</t>
@@ -98716,7 +98710,7 @@ Aus der russ. prädik. F. <Et>упря́м</Et>]
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="таза">taza</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="таза">taza</l_drv>
 <mg copiedFrom="preceding">
 <tg xml:lang="rus">
 <t>сильноватый</t>
@@ -98790,7 +98784,7 @@ Aus der russ. prädik. F. <Et>упря́м</Et>]
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="тотмак">totmak</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="тотмак">totmak</l_drv>
 <mg copiedFrom="preceding">
 <tg xml:lang="rus">
 <t edit="MK">с толстым задом</t>
@@ -98873,7 +98867,7 @@ Aus der russ. prädik. F. <Et>упря́м</Et>]
 </InflB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="ужӓ·">užä·</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="ужӓ·">užä·</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">звонкий</t>
@@ -98948,7 +98942,7 @@ Aus der russ. prädik. F. <Et>упря́м</Et>]
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="уля">uĺä</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="уля">uĺä</l_drv>
 <mg copiedFrom="preceding">
 <tg xml:lang="rus">
 <t edit="MK">бельмо</t>
@@ -98985,7 +98979,7 @@ Aus der russ. prädik. F. <Et>упря́м</Et>]
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="ураза">ura·za</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="ураза">ura·za</l_drv>
 <mg copiedFrom="preceding">
 <tg xml:lang="rus">
 <t edit="MK">полосатый</t>
@@ -99033,7 +99027,7 @@ Aus der russ. prädik. F. <Et>упря́м</Et>]
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="ушӓ·">ušä·</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="ушӓ·">ušä·</l_drv>
 <mg copiedFrom="preceding">
 <SubjectField>bot</SubjectField>
 <tg xml:lang="rus">
@@ -99124,7 +99118,7 @@ Aus der russ. prädik. F. <Et>упря́м</Et>]
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/></DrvG>
+<l_drv drvType="diminutive"></l_drv>
 <mg copiedFrom="preceding">
 <tg xml:lang="rus">
 <t edit="MK">(платяная) щётка</t>
@@ -99239,7 +99233,7 @@ Aus der russ. prädik. F. <Et>упря́м</Et>]
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="лямбя">ĺämb́ä</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="лямбя">ĺämb́ä</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">тёплый</t>
@@ -99356,7 +99350,7 @@ Aus der russ. prädik. F. <Et>упря́м</Et>]
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="лихаманка">ĺiᵪama·ŋka</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="лихаманка">ĺiᵪama·ŋka</l_drv>
 <mg copiedFrom="preceding">
 <tg xml:lang="rus">
 <t>лихорадка</t>
@@ -99386,7 +99380,7 @@ Aus der russ. prädik. F. <Et>упря́м</Et>]
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/></DrvG>
+<l_drv drvType="diminutive"></l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -99426,7 +99420,7 @@ Aus der russ. prädik. F. <Et>упря́м</Et>]
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="мазиня">maźińä</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="мазиня">maźińä</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">красная суконка</t>
@@ -99546,7 +99540,7 @@ Aus der russ. prädik. F. <Et>упря́м</Et>]
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="мазяр">maźa·r</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="мазяр">maźa·r</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -99664,7 +99658,7 @@ Aus der russ. prädik. F. <Et>упря́м</Et>]
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="маця">maćä</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="маця">maćä</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">мелкий</t>
@@ -99702,7 +99696,7 @@ Aus der russ. prädik. F. <Et>упря́м</Et>]
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="мутна">mutna</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="мутна">mutna</l_drv>
 <mg copiedFrom="preceding">
 <tg xml:lang="rus">
 <t edit="MK">мутный</t>
@@ -99749,7 +99743,7 @@ Aus der russ. prädik. F. <Et>упря́м</Et>]
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="начка">načka</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="начка">načka</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">сырой</t>
@@ -99778,7 +99772,7 @@ Aus der russ. prädik. F. <Et>упря́м</Et>]
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="ношка">noška</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="ношка">noška</l_drv>
 <mg copiedFrom="preceding">
 <tg xml:lang="rus">
 <t edit="MK">тупой</t>
@@ -99917,7 +99911,7 @@ Aus der russ. prädik. F. <Et>упря́м</Et>]
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="нюрьхкя">ńuŕʿḱä</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="нюрьхкя">ńuŕʿḱä</l_drv>
 <mg copiedFrom="preceding">
 <tg xml:lang="rus">
 <t edit="MK">короткость</t>
@@ -99973,7 +99967,7 @@ Aus der russ. prädik. F. <Et>упря́м</Et>]
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="нюрьхкяня">ńuŕʿḱä·ńä</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="нюрьхкяня">ńuŕʿḱä·ńä</l_drv>
 <mg copiedFrom="preceding">
 <Syntax function="Adv"/>
 <tg xml:lang="rus">
@@ -100057,7 +100051,7 @@ Aus der russ. prädik. F. <Et>упря́м</Et>]
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="од">od</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="од">od</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">новенький</t>
@@ -100142,7 +100136,7 @@ Aus der russ. prädik. F. <Et>упря́м</Et>]
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="олаф">olaf</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="олаф">olaf</l_drv>
 <mg copiedFrom="preceding">
 <tg xml:lang="rus">
 <t>бледный</t>
@@ -100172,7 +100166,7 @@ Aus der russ. prädik. F. <Et>упря́м</Et>]
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="отала">otala</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="отала">otala</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t>косматый</t>
@@ -100211,7 +100205,7 @@ Aus der russ. prädik. F. <Et>упря́м</Et>]
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="парӑ">pară</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="парӑ">pară</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t>[хороший</t>
@@ -100307,7 +100301,7 @@ Aus der russ. prädik. F. <Et>упря́м</Et>]
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="пегай">ṕegaj</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="пегай">ṕegaj</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">пегая лошадь</t>
@@ -100388,7 +100382,7 @@ Aus der russ. prädik. F. <Et>упря́м</Et>]
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/></DrvG>
+<l_drv drvType="diminutive"></l_drv>
 <mg copiedFrom="preceding">
 <tg xml:lang="rus">
 <t edit="MK">жена подьячего</t>
@@ -100432,7 +100426,7 @@ Aus der russ. prädik. F. <Et>упря́м</Et>]
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="рижай">ŕižaj</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="рижай">ŕižaj</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">рыжая лошадь</t>
@@ -100496,7 +100490,7 @@ Aus der russ. prädik. F. <Et>упря́м</Et>]
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="рябой">ŕaboj</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="рябой">ŕaboj</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">рябоватость</t>
@@ -100540,7 +100534,7 @@ Aus der russ. prädik. F. <Et>упря́м</Et>]
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/></DrvG>
+<l_drv drvType="diminutive"></l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -100574,7 +100568,7 @@ Aus der russ. prädik. F. <Et>упря́м</Et>]
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/></DrvG>
+<l_drv drvType="diminutive"></l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">зеленовато-голубой</t>
@@ -100665,7 +100659,7 @@ Vgl. <x>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="сивай">śivaj</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="сивай">śivaj</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">белая лошадь</t>
@@ -100694,7 +100688,7 @@ Vgl. <x>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/></DrvG>
+<l_drv drvType="diminutive"></l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">скорее</t>
@@ -100739,7 +100733,7 @@ Vgl. <x>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/></DrvG>
+<l_drv drvType="diminutive"></l_drv>
 <mg copiedFrom="preceding">
 <tg xml:lang="rus">
 <t edit="MK">тяжёленький</t>
@@ -100768,7 +100762,7 @@ Vgl. <x>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="сталмӑ">stalmă</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="сталмӑ">stalmă</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t>вес</t>
@@ -100854,7 +100848,7 @@ Vgl. <x>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/></DrvG>
+<l_drv drvType="diminutive"></l_drv>
 <mg copiedFrom="preceding">
 <tg xml:lang="rus">
 <t>большая кадушка</t>
@@ -100884,7 +100878,7 @@ Vgl. <x>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="цембера">ćemb́era·</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="цембера">ćemb́era·</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">мутный</t>
@@ -100922,7 +100916,7 @@ Vgl. <x>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="сякай">śakaj</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="сякай">śakaj</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">разное</t>
@@ -101009,7 +101003,7 @@ Vgl. <x>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="таштӑ">taštă</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="таштӑ">taštă</l_drv>
 <mg>
 <Calque xml:lang="rus">[ветхий</Calque>
 <tg xml:lang="rus">
@@ -101225,7 +101219,7 @@ Vgl. <x>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="тяйня">t́äjńä</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="тяйня">t́äjńä</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">узкий</t>
@@ -101261,7 +101255,7 @@ Vgl. <x>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="тяйняня">t́äjńä·ńä</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="тяйняня">t́äjńä·ńä</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">очень узкий</t>
@@ -101330,7 +101324,7 @@ Vgl. <x>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="томба">tomba</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="томба">tomba</l_drv>
 <mg copiedFrom="preceding">
 <tg xml:lang="rus">
 <t>глубокий</t>
@@ -101409,7 +101403,7 @@ Vgl. <x>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="сёлак">śolak</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="сёлак">śolak</l_drv>
 <mg copiedFrom="preceding">
 <tg xml:lang="rus">
 <t edit="MK">неумелый</t>
@@ -101446,7 +101440,7 @@ Vgl. <x>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="шавӑ">šavă</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="шавӑ">šavă</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">пустой</t>
@@ -101475,7 +101469,7 @@ Vgl. <x>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="шамор">šamə̑r</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="шамор">šamə̑r</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">хромоногий</t>
@@ -101658,7 +101652,7 @@ Vgl. <x>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="шувалмӑ">šuva·lmă</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="шувалмӑ">šuva·lmă</l_drv>
 <mg copiedFrom="preceding">
 <tg xml:lang="rus">
 <t edit="MK">этой толщины</t>
@@ -101706,7 +101700,7 @@ Vgl. <x>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="шуваня">šuva·ńä</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="шуваня">šuva·ńä</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">очень тонкий</t>
@@ -101859,7 +101853,7 @@ Vgl. <x>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG>(<DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="тёждьɛ">t́ožd́ɛ</Wd></DrvSt></DrvStCtn><Cm>usw</Cm>)</DrvG>
+<DrvG>(<l_drv drvType="diminutive" CyrId="тёждьɛ">t́ožd́ɛ</l_drv><Cm>usw</Cm>)</DrvG>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">лёгонький</t>
@@ -101928,7 +101922,7 @@ Vgl. <x>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="тёж́дяня">t́ož́d́äńä</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="тёж́дяня">t́ož́d́äńä</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">очень лёгкий</t>
@@ -102058,7 +102052,7 @@ Vgl. <x>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="яшəлькс">jäšəĺks</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="яшəлькс">jäšəĺks</l_drv>
 <mg copiedFrom="preceding">
 <tg xml:lang="rus">
 <t>подтенок</t>
@@ -102109,7 +102103,7 @@ Vgl. <x>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="эшкс">ešks</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="эшкс">ešks</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">прикрытое от ветра место</t>
@@ -102161,7 +102155,7 @@ Vgl. <x>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="эчкя">ečḱä</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="эчкя">ečḱä</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -102186,7 +102180,7 @@ Vgl. <x>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="эчкə̑лма">ečkə̑lma</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="эчкə̑лма">ečkə̑lma</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -102227,7 +102221,7 @@ Vgl. <x>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/></DrvG>
+<l_drv drvType="diminutive"></l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">немного</t>
@@ -102328,7 +102322,7 @@ Vgl. <x>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="атна">atna</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="атна">atna</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -102359,7 +102353,7 @@ Vgl. <x>
 </PhnU>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="бодра">bodra</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="бодра">bodra</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -102493,7 +102487,7 @@ Vgl. <x>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="кальдяв">kaĺd́av</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="кальдяв">kaĺd́av</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -102561,7 +102555,7 @@ Vgl. <x>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="кятав">ḱätav</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="кятав">ḱätav</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">трезвенький</t>
@@ -102596,7 +102590,7 @@ Vgl. <x>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="кеця">ḱećä</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="кеця">ḱećä</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -102691,7 +102685,7 @@ Vgl. <x>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/></DrvG>
+<l_drv drvType="diminutive"></l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -102717,7 +102711,7 @@ Vgl. <x>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="кундра">kundra·</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="кундра">kundra·</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -102752,7 +102746,7 @@ Vgl. <x>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/></DrvG>
+<l_drv drvType="diminutive"></l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -102777,7 +102771,7 @@ Vgl. <x>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="кə̑рхка">kə̑rʿka·</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="кə̑рхка">kə̑rʿka·</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">глубокий</t>
@@ -102842,7 +102836,7 @@ Vgl. <x>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="кə̑рхкалмӑ">kə̑rʿka·lmă</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="кə̑рхкалмӑ">kə̑rʿka·lmă</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -102868,7 +102862,7 @@ Vgl. <x>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="кə̑рма">kə̑rma·</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="кə̑рма">kə̑rma·</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">своенравненький</t>
@@ -103030,7 +103024,7 @@ Vgl. <x>
 </InflB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="вяршки">v́äršḱi</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="вяршки">v́äršḱi</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">высокий</t>
@@ -103080,7 +103074,7 @@ Vgl. <x>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG>(<DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="яшӓ">jäšä</Wd></DrvSt></DrvStCtn><DrvStCtn><DrvSt><Wd CyrId="ӓшӓ">äšä</Wd></DrvSt></DrvStCtn>)</DrvG>
+<DrvG>(<l_drv drvType="diminutive" CyrId="яшӓ">jäšä</l_drv><l_drv drvType="diminutive" CyrId="ӓшӓ">äšä</l_drv>)</DrvG>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">прохладный</t>
@@ -103156,7 +103150,7 @@ Vgl. <x>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG>(<DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="яши">jäši</Wd></DrvSt></DrvStCtn><DrvStCtn><DrvSt><Wd CyrId="ӓши">äši</Wd></DrvSt></DrvStCtn>)</DrvG>
+<DrvG>(<l_drv drvType="diminutive" CyrId="яши">jäši</l_drv><l_drv drvType="diminutive" CyrId="ӓши">äši</l_drv>)</DrvG>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">родник</t>
@@ -103219,7 +103213,7 @@ Vgl. <x>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="яшиня">jäšińä</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="яшиня">jäšińä</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">родник</t>
@@ -103248,7 +103242,7 @@ Vgl. <x>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="токташ">toktaš</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="токташ">toktaš</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">баран, охотно бодающий головой</t>
@@ -103295,7 +103289,7 @@ Vgl. <x>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="пингокс">ṕiŋgə̑ks</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="пингокс">ṕiŋgə̑ks</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">кольцо</t>
@@ -103335,7 +103329,7 @@ Vgl. <x>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="ёлма">jolma</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="ёлма">jolma</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">маленький</t>
@@ -103445,7 +103439,7 @@ Vgl. <x>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="акшӑ">akšă</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="акшӑ">akšă</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">беленький</t>
@@ -103518,7 +103512,7 @@ Vgl. <x>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="акшу">akšu</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="акшу">akšu</l_drv>
 <mg copiedFrom="preceding">
 <tg xml:lang="rus">
 <t edit="MK">ивняк</t>
@@ -103615,7 +103609,7 @@ Vgl. <x>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/></DrvG>
+<l_drv drvType="diminutive"></l_drv>
 <mg>
 <tg xml:lang="rus">
 <t>беленький</t>
@@ -103659,7 +103653,7 @@ Vgl. <x>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/></DrvG>
+<l_drv drvType="diminutive"></l_drv>
 <mg copiedFrom="preceding">
 <tg xml:lang="rus">
 <t>гладкий</t>
@@ -103812,7 +103806,7 @@ Vgl. <x>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="весяла">v́eśala</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="весяла">v́eśala</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">весёлый</t>
@@ -103956,7 +103950,7 @@ Vgl. <x>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="кашан">kašan</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="кашан">kašan</l_drv>
 <mg copiedFrom="preceding">
 <tg xml:lang="rus">
 <t edit="MK">своенравный</t>
@@ -104008,7 +104002,7 @@ Vgl. <x>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="киве·рка">ḱiv́e·rka</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="киве·рка">ḱiv́e·rka</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -104042,7 +104036,7 @@ Vgl. <x>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="кевəрькс">ḱevəŕks</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="кевəрькс">ḱevəŕks</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -104068,7 +104062,7 @@ Vgl. <x>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="кельмя">ḱeĺḿä</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="кельмя">ḱeĺḿä</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -104134,7 +104128,7 @@ Vgl. <x>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="козя">koźä</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="козя">koźä</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -104206,7 +104200,7 @@ Vgl. <x>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="касо·й">kaso·j</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="касо·й">kaso·j</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -104231,7 +104225,7 @@ Vgl. <x>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="крута">kruta</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="крута">kruta</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -104290,7 +104284,7 @@ Vgl. <x>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="лажф">lažf</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="лажф">lažf</l_drv>
 <mg copiedFrom="preceding">
 <tg xml:lang="rus">
 <t edit="MK">шум</t>
@@ -104384,7 +104378,7 @@ Vgl. <x>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/></DrvG>
+<l_drv drvType="diminutive"></l_drv>
 <mg>
 <tg xml:lang="rus">
 <t>блюдечко</t>
@@ -104413,7 +104407,7 @@ Vgl. <x>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="лапш">lapš</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="лапш">lapš</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">поверхность</t>
@@ -104533,7 +104527,7 @@ Vgl. <x>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="иляткс">iĺa·tks</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="иляткс">iĺa·tks</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">остаток</t>
@@ -104632,7 +104626,7 @@ Vgl. <x>
 </PhnU>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="покш">pokš</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="покш">pokš</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -104685,7 +104679,7 @@ Vgl. <x>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="пужана">puža·na</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="пужана">puža·na</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t>буроватый</t>
@@ -104852,7 +104846,7 @@ Vgl. <x>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="тёплай">t́oplaj</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="тёплай">t́oplaj</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">валенки</t>
@@ -105695,7 +105689,7 @@ Vgl. <x>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="N"/><st/>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="веженьць">v́ežeńć</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="веженьць">v́ežeńć</l_drv>
 <mg copiedFrom="preceding">
 <tg xml:lang="rus">
 <t edit="MK">самая младшая невестка</t>
@@ -105869,7 +105863,7 @@ Vgl. <x>
 </InflB>
 </PhnUBlock>
 </lg>
-<DrvG>(<DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="верькс">v́eŕks</Wd></DrvSt></DrvStCtn><DrvStCtn><DrvSt><Wd CyrId="вярькс">v́äŕks</Wd></DrvSt></DrvStCtn>)</DrvG>
+<DrvG>(<l_drv drvType="diminutive" CyrId="верькс">v́eŕks</l_drv><l_drv drvType="diminutive" CyrId="вярькс">v́äŕks</l_drv>)</DrvG>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">парник на высоких ногах для выращивания капусты</t>
@@ -107384,7 +107378,7 @@ Vgl. <x>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="каж">kaž</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="каж">kaž</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -107871,7 +107865,7 @@ Vgl. <x>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="N"/><st/>
 </lg>
-<DrvG><DrvT vl="diminutive"/></DrvG>
+<l_drv drvType="diminutive"></l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -108447,7 +108441,7 @@ Vgl. <x>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="N"/><st/>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="кичкирявкс">ḱičḱiŕavks</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="кичкирявкс">ḱičḱiŕavks</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -108886,7 +108880,7 @@ Vgl. <x>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="N"/><st/>
 </lg>
-<DrvG><DrvT vl="diminutive"/></DrvG>
+<l_drv drvType="diminutive"></l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">жалобное словечко</t>
@@ -108998,7 +108992,7 @@ Vgl. <x>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="N"/><st/>
 </lg>
-<DrvG><DrvT vl="diminutive"/></DrvG>
+<l_drv drvType="diminutive"></l_drv>
 <mg copiedFrom="preceding">
 <tg xml:lang="rus">
 <t edit="MK">голос причитания</t>
@@ -109151,7 +109145,7 @@ Vgl. <x>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="N"/><st/>
 </lg>
-<DrvG><DrvT vl="diminutive"/></DrvG>
+<l_drv drvType="diminutive"></l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">плачевой звук</t>
@@ -109336,7 +109330,7 @@ Vgl. <x>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="лембе">ĺemb́e</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="лембе">ĺemb́e</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">тёплый</t>
@@ -109627,7 +109621,7 @@ Vgl. <x>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="лишной">ĺišnoj</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="лишной">ĺišnoj</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">остальной</t>
@@ -110296,7 +110290,7 @@ altruss. <Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="N"/><st/>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="милостинка">ḿilośt́iŋka</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="милостинка">ḿilośt́iŋka</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -110509,7 +110503,7 @@ altruss. <Et>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG>(<DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="милость">ḿilośt́</Wd></DrvSt></DrvStCtn><DrvStCtn><DrvSt><Wd CyrId="милə̑сть">ḿilə̑śt́</Wd></DrvSt></DrvStCtn>)</DrvG>
+<DrvG>(<l_drv drvType="diminutive" CyrId="милость">ḿilośt́</l_drv><l_drv drvType="diminutive" CyrId="милə̑сть">ḿilə̑śt́</l_drv>)</DrvG>
 <mg>
 <tg xml:lang="rus">
 <t>милость</t>
@@ -110683,7 +110677,7 @@ altruss. <Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="N"/><st/>
 </lg>
-<DrvG><DrvT vl="diminutive"/></DrvG>
+<l_drv drvType="diminutive"></l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">жалость</t>
@@ -111337,7 +111331,7 @@ altruss. <Et>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG>(<DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="нолва">nolva</Wd></DrvSt></DrvStCtn><DrvStCtn><DrvSt><Wd CyrId="новла">novla</Wd></DrvSt></DrvStCtn>)</DrvG>
+<DrvG>(<l_drv drvType="diminutive" CyrId="нолва">nolva</l_drv><l_drv drvType="diminutive" CyrId="новла">novla</l_drv>)</DrvG>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">ленивый</t>
@@ -111457,7 +111451,7 @@ altruss. <Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="N"/><st/>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="нузякс">nuźaks</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="нузякс">nuźaks</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">ленивец</t>
@@ -111554,7 +111548,7 @@ altruss. <Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="N"/><st/>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="нузякске">nuźa·ksḱe</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="нузякске">nuźa·ksḱe</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -111976,7 +111970,7 @@ altruss. <Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="ожо">ožo</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="ожо">ožo</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">жёлтенький</t>
@@ -112055,7 +112049,7 @@ altruss. <Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="ола">ola</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="ола">ola</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t>бледный</t>
@@ -112098,7 +112092,7 @@ altruss. <Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="омбоце">omboće</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="омбоце">omboće</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">другой</t>
@@ -112184,7 +112178,7 @@ altruss. <Et>
 </InflB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="опа">opa</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="опа">opa</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">жаркий</t>
@@ -112337,7 +112331,7 @@ altruss. <Et>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="осал">osal</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="осал">osal</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">плохонький</t>
@@ -112493,7 +112487,7 @@ altruss. <Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
-<DrvG><DrvT vl="diminutive"/></DrvG>
+<l_drv drvType="diminutive"></l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">милый</t>
@@ -112962,7 +112956,7 @@ altruss. <Et>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/></DrvG>
+<l_drv drvType="diminutive"></l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">достоинство</t>
@@ -113073,7 +113067,7 @@ altruss. <Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="Adv"/><st/>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="парьсте">paŕśt́e</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="парьсте">paŕśt́e</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -113217,7 +113211,7 @@ altruss. <Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="паро">paro</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="паро">paro</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">хороший</t>
@@ -113841,7 +113835,7 @@ altruss. <Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="покш">pokš</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="покш">pokš</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">большенький</t>
@@ -113973,7 +113967,7 @@ altruss. <Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="покш">pokš</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="покш">pokš</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">большенький</t>
@@ -114445,7 +114439,7 @@ altruss. <Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="N"/><st/>
 </lg>
-<DrvG>(<DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="пшчикс">pšči͔ks</Wd></DrvSt></DrvStCtn><DrvStCtn><DrvSt><Wd CyrId="пштикс">pšt́iks</Wd></DrvSt></DrvStCtn>)</DrvG>
+<DrvG>(<l_drv drvType="diminutive" CyrId="пшчикс">pšči͔ks</l_drv><l_drv drvType="diminutive" CyrId="пштикс">pšt́iks</l_drv>)</DrvG>
 <mg>
 <tg xml:lang="rus">
 <t>колотье</t>
@@ -114875,7 +114869,7 @@ altruss. <Et>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="сола">sola</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="сола">sola</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">жидкий</t>
@@ -115913,7 +115907,7 @@ altruss. <Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="сыре">si͔ŕe</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="сыре">si͔ŕe</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">старенький</t>
@@ -115960,7 +115954,7 @@ altruss. <Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="N"/><st/>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="сьветой">śv́etoj</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="сьветой">śv́etoj</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">святой</t>
@@ -116215,7 +116209,7 @@ altruss. <Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="N"/><st/>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="сэтькс">se͔t́ks</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="сэтькс">se͔t́ks</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">облегчение</t>
@@ -116301,7 +116295,7 @@ altruss. <Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="сэтьме">se͔t́ḿe</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="сэтьме">se͔t́ḿe</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -116841,7 +116835,7 @@ altruss. <Et>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="тея">t́eja</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="тея">t́eja</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">узкий</t>
@@ -116920,7 +116914,7 @@ altruss. <Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="теіньге">t́eińǵe</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="теіньге">t́eińǵe</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">очень тесный</t>
@@ -117072,7 +117066,7 @@ altruss. <Et>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG>(<DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="трокс">troks</Wd></DrvSt></DrvStCtn><Cm>usw</Cm>)</DrvG>
+<DrvG>(<l_drv drvType="diminutive" CyrId="трокс">troks</l_drv><Cm>usw</Cm>)</DrvG>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">ступенька в приставной лестнице</t>
@@ -117418,7 +117412,7 @@ altruss. <Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="тужо">tužo</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="тужо">tužo</l_drv>
 <mg copiedFrom="preceding">
 <tg xml:lang="rus">
 <t edit="MK">ленивый</t>
@@ -117542,7 +117536,7 @@ altruss. <Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="чова">čova</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="чова">čova</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">тоненький</t>
@@ -117749,7 +117743,7 @@ altruss. <Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="N"/><st/>
 </lg>
-<DrvG><DrvT vl="diminutive"/></DrvG>
+<l_drv drvType="diminutive"></l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">счастье и здоровье</t>
@@ -119288,7 +119282,7 @@ altruss. <Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="N"/><st/>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="човаля">čovaĺa</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="човаля">čovaĺa</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t>отрок</t>
@@ -119654,7 +119648,7 @@ altruss. <Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
-<DrvG>(<DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="чожда">čožda</Wd></DrvSt></DrvStCtn><Cm>usw</Cm>)</DrvG>
+<DrvG>(<l_drv drvType="diminutive" CyrId="чожда">čožda</l_drv><Cm>usw</Cm>)</DrvG>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">лёгонький</t>
@@ -119809,7 +119803,7 @@ altruss. <Et>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG>(<DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="чумбра">čumbra</Wd></DrvSt></DrvStCtn><DrvStCtn><DrvSt><Wd CyrId="шумбра">šumbra·</Wd></DrvSt></DrvStCtn>)</DrvG>
+<DrvG>(<l_drv drvType="diminutive" CyrId="чумбра">čumbra</l_drv><l_drv drvType="diminutive" CyrId="шумбра">šumbra·</l_drv>)</DrvG>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">здоровенький</t>
@@ -119882,7 +119876,7 @@ altruss. <Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="чумбра">čumbra</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="чумбра">čumbra</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t>[здоровенький</t>
@@ -119913,7 +119907,7 @@ altruss. <Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="чуморкс">čumorks</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="чуморкс">čumorks</l_drv>
 <mg copiedFrom="preceding">
 <tg xml:lang="rus">
 <t edit="MK">болезненный</t>
@@ -121054,7 +121048,7 @@ altruss. <Et>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/></DrvG>
+<l_drv drvType="diminutive"></l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">тень</t>
@@ -121523,7 +121517,7 @@ altruss. <Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="N"/><st/>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="ямшчик">jamščik</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="ямшчик">jamščik</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">паромщик</t>
@@ -123091,8 +123085,6 @@ Večk
 <t>quer über</t>
 <t>quer durch</t>
 <t>hindurch</t>
-</tg>
-<tg xml:lang="deu">
 <t>über – hin</t>
 <t>hinüber</t>
 <t>über (auch von der Zeit)</t>
@@ -123726,7 +123718,7 @@ Večk
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/></DrvG>
+<l_drv drvType="diminutive"></l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">поперечный брус</t>
@@ -125979,7 +125971,7 @@ jds</t>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="Komp.-F"/></DrvG>
+<l_drv drvType="Komp.-F"></l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">немного</t>
@@ -126265,7 +126257,7 @@ jds</t>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="Prc"/><st/>
 </lg>
-<DrvG><DrvT vl="Part"/></DrvG>
+<l_drv drvType="Part"></l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">жалобный</t>
@@ -127326,7 +127318,7 @@ jds</t>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
-<DrvG><DrvT vl="Adj"/><DrvStCtn><DrvSt><Wd CyrId="паро">paro</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="Adj" CyrId="паро">paro</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -127698,7 +127690,7 @@ jds</t>
 </InflB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/></DrvG>
+<l_drv drvType="diminutive"></l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">жена предпоследнего брата мужа</t>
@@ -127921,7 +127913,7 @@ jds</t>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="N"/><st/>
 </lg>
-<DrvG><DrvT vl="diminutive"/></DrvG>
+<l_drv drvType="diminutive"></l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">младший брат</t>
@@ -128026,7 +128018,7 @@ jds</t>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/></DrvG>
+<l_drv drvType="diminutive"></l_drv>
 <mg copiedFrom="preceding">
 <tg xml:lang="rus">
 <t>язычок</t>
@@ -128098,7 +128090,7 @@ jds</t>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/></DrvG>
+<l_drv drvType="diminutive"></l_drv>
 <mg copiedFrom="preceding">
 <tg xml:lang="rus">
 <t edit="MK">щенок</t>
@@ -128615,7 +128607,7 @@ jds</t>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="сэнемгодомс">se͔ńəmgə̑də̑ms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="сэнемгодомс">se͔ńəmgə̑də̑ms</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t>синеться</t>
@@ -128664,7 +128656,7 @@ jds</t>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG>(<DrvT vl="causative"/><DrvStCtn><DrvSt><Wd CyrId="сенемгодомс">śeńəmgə̑də̑ms</Wd></DrvSt></DrvStCtn><DrvStCtn><DrvSt><Wd CyrId="сэнемгодомс">se͔ńəmgə̑də̑ms</Wd></DrvSt></DrvStCtn>)</DrvG>
+<DrvG>(<l_drv drvType="causative" CyrId="сенемгодомс">śeńəmgə̑də̑ms</l_drv><l_drv drvType="causative" CyrId="сэнемгодомс">se͔ńəmgə̑də̑ms</l_drv>)</DrvG>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -128701,7 +128693,7 @@ jds</t>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="сенемгофтомс">śeńəmgə̑ftə̑ms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="сенемгофтомс">śeńəmgə̑ftə̑ms</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -128755,7 +128747,7 @@ jds</t>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="таяскадомс">tajaskadə̑ms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="таяскадомс">tajaskadə̑ms</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -128820,7 +128812,7 @@ jds</t>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="удаламс">uda·lams</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="удаламс">uda·lams</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">хорошо удаваться</t>
@@ -128992,7 +128984,7 @@ jds</t>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="ширепнемс">šiŕəpńəms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="ширепнемс">šiŕəpńəms</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -129184,7 +129176,7 @@ jds</t>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="causative"/><DrvStCtn><DrvSt><Wd CyrId="(й)ӓрекламс">(j)äŕəklams</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="causative" CyrId="(й)ӓрекламс">(j)äŕəklams</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">оживить</t>
@@ -129344,7 +129336,7 @@ jds</t>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="(й)ӓряскафтомс">(j)äŕaskaftə̑ms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="(й)ӓряскафтомс">(j)äŕaskaftə̑ms</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -129388,7 +129380,7 @@ jds</t>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="(й)ӓряскафнемс">(j)äŕaskafńəms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="(й)ӓряскафнемс">(j)äŕaskafńəms</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -129441,7 +129433,7 @@ jds</t>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="(й)ӓряскадомс">(j)äŕaskadə̑ms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="(й)ӓряскадомс">(j)äŕaskadə̑ms</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -129501,7 +129493,7 @@ jds</t>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="causative"/><DrvStCtn><DrvSt><Wd CyrId="ляпəмомс">ĺäpəmə̑ms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="causative" CyrId="ляпəмомс">ĺäpəmə̑ms</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">смягчать</t>
@@ -129572,7 +129564,7 @@ jds</t>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="ляпфтемс">ĺäpft́əms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="ляпфтемс">ĺäpft́əms</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">смягчать</t>
@@ -129720,7 +129712,7 @@ jds</t>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="factative"/></DrvG>
+<l_drv drvType="factative"></l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -129775,7 +129767,7 @@ jds</t>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="causative"/><DrvStCtn><DrvSt><Wd CyrId="осалгадомс">osalgadə̑ms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="causative" CyrId="осалгадомс">osalgadə̑ms</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">делать худым</t>
@@ -129808,7 +129800,7 @@ jds</t>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="осалгафтомс">osalgaftə̑ms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="осалгафтомс">osalgaftə̑ms</l_drv>
 <mg copiedFrom="preceding">
 <tg xml:lang="rus">
 <t edit="MK">делать худым</t>
@@ -129898,7 +129890,7 @@ jds</t>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="iterative"/><DrvStCtn><DrvSt><Wd CyrId="пяндрагодомс">ṕändragə̑də̑ms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="iterative" CyrId="пяндрагодомс">ṕändragə̑də̑ms</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -129923,7 +129915,7 @@ jds</t>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="causative"/><DrvStCtn><DrvSt><Wd CyrId="пяндрагодомс">ṕändragə̑də̑ms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="causative" CyrId="пяндрагодомс">ṕändragə̑də̑ms</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">грязнить</t>
@@ -129977,7 +129969,7 @@ jds</t>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="пяндрагофтомс">ṕändragə̑ftə̑ms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="пяндрагофтомс">ṕändragə̑ftə̑ms</l_drv>
 <mg copiedFrom="preceding">
 <tg xml:lang="rus">
 <t edit="MK">грязнить</t>
@@ -130406,7 +130398,7 @@ jds</t>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="сюворгодомс">śuvə̑rgə̑də̑ms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="сюворгодомс">śuvə̑rgə̑də̑ms</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">взъерошиваться</t>
@@ -130455,7 +130447,7 @@ jds</t>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG>(<DrvT vl="causative"/><DrvStCtn><DrvSt><Wd CyrId="сюворгодомс">śuvə̑rgə̑də̑ms</Wd></DrvSt></DrvStCtn><DrvStCtn><DrvSt><Wd CyrId="сюворгадомс">śuvə̑rgadə̑ms</Wd></DrvSt></DrvStCtn>)</DrvG>
+<DrvG>(<l_drv drvType="causative" CyrId="сюворгодомс">śuvə̑rgə̑də̑ms</l_drv><l_drv drvType="causative" CyrId="сюворгадомс">śuvə̑rgadə̑ms</l_drv>)</DrvG>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">взъерошивать</t>
@@ -130498,7 +130490,7 @@ jds</t>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="сюворготфтомс">śuvə̑rgə̑tftə̑ms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="сюворготфтомс">śuvə̑rgə̑tftə̑ms</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -130613,7 +130605,7 @@ jds</t>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="factative"/><DrvStCtn><DrvSt><Wd CyrId="сятявкстомомс">śät́avkstə̑mə̑ms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="factative" CyrId="сятявкстомомс">śät́avkstə̑mə̑ms</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">успокаивать</t>
@@ -130693,7 +130685,7 @@ jds</t>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="factative"/><DrvStCtn><DrvSt><Wd CyrId="сятявгадомс">śät́avgadə̑ms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="factative" CyrId="сятявгадомс">śät́avgadə̑ms</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">успокаивать</t>
@@ -130869,7 +130861,7 @@ jds</t>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="тазалгафтомс">tazalgaftə̑ms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="тазалгафтомс">tazalgaftə̑ms</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -130906,7 +130898,7 @@ jds</t>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="тазалгафнемс">tazalgafńəms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="тазалгафнемс">tazalgafńəms</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -131041,7 +131033,7 @@ jds</t>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="чистайгафтомс">čistajgaftə̑ms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="чистайгафтомс">čistajgaftə̑ms</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -131078,7 +131070,7 @@ jds</t>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="чистайгафнемс">čistajgafńəms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="чистайгафнемс">čistajgafńəms</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -131105,7 +131097,7 @@ jds</t>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="causative"/><DrvStCtn><DrvSt><Wd CyrId="лямбəндемс">ĺämb́əńd́əms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="causative" CyrId="лямбəндемс">ĺämb́əńd́əms</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -131212,7 +131204,7 @@ jds</t>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="causative"/><DrvStCtn><DrvSt><Wd CyrId="мазелдомс">maźəldə̑ms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="causative" CyrId="мазелдомс">maźəldə̑ms</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">красно светить</t>
@@ -131244,7 +131236,7 @@ jds</t>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="мазелгофтомс">maźəlgə̑ftə̑ms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="мазелгофтомс">maźəlgə̑ftə̑ms</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -131270,7 +131262,7 @@ jds</t>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="мазелгофнемс">maźəlgə̑fńəms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="мазелгофнемс">maźəlgə̑fńəms</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -131347,7 +131339,7 @@ jds</t>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="мазомомс">mazə̑mə̑ms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="мазомомс">mazə̑mə̑ms</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">становиться красивым, красивее</t>
@@ -131484,7 +131476,7 @@ jds</t>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="мазептемс">maźəpt́əms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="мазептемс">maźəpt́əms</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">красить в красный цвет</t>
@@ -131526,7 +131518,7 @@ jds</t>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="мазепнемс">maźəpńəms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="мазепнемс">maźəpńəms</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -131581,7 +131573,7 @@ jds</t>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="causative"/><DrvStCtn><DrvSt><Wd CyrId="мацякстомомс">maćakstə̑mə̑ms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="causative" CyrId="мацякстомомс">maćakstə̑mə̑ms</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">заставлять опускаться</t>
@@ -131648,7 +131640,7 @@ jds</t>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="reflexivePassive"/><DrvStCtn><DrvSt><Wd CyrId="начтфтомс">načtftə̑ms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="reflexivePassive" CyrId="начтфтомс">načtftə̑ms</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">(мочь) смачиваться</t>
@@ -131700,7 +131692,7 @@ jds</t>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="нолгадомс">nolgadə̑ms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="нолгадомс">nolgadə̑ms</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -131756,7 +131748,7 @@ jds</t>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG>(<DrvT vl="causative"/><DrvStCtn><DrvSt><Wd CyrId="ношкамомс">noškamə̑ms</Wd></DrvSt></DrvStCtn><Cm>usw</Cm>)</DrvG>
+<DrvG>(<l_drv drvType="causative" CyrId="ношкамомс">noškamə̑ms</l_drv><Cm>usw</Cm>)</DrvG>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">притуплять</t>
@@ -131792,7 +131784,7 @@ jds</t>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="causative"/><DrvStCtn><DrvSt><Wd CyrId="нюрьхкалгафтомс">ńuŕʿka·lgaftə̑ms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="causative" CyrId="нюрьхкалгафтомс">ńuŕʿka·lgaftə̑ms</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">заставлять укорачивать</t>
@@ -131833,7 +131825,7 @@ jds</t>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="олафтомс">olaftə̑ms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="олафтомс">olaftə̑ms</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -131865,7 +131857,7 @@ jds</t>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="олафнемс">olafńəms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="олафнемс">olafńəms</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -131890,7 +131882,7 @@ jds</t>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="олсемс">olśəms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="олсемс">olśəms</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -132052,7 +132044,7 @@ jds</t>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="reflexivePassive"/><DrvStCtn><DrvSt><Wd CyrId="парондомс">parə̑ndə̑ms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="reflexivePassive" CyrId="парондомс">parə̑ndə̑ms</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">утешаться</t>
@@ -132081,7 +132073,7 @@ jds</t>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="factative"/><DrvStCtn><DrvSt><Wd CyrId="парондомс">parə̑ndə̑ms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="factative" CyrId="парондомс">parə̑ndə̑ms</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -132108,7 +132100,7 @@ jds</t>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="парондомс">parə̑ndə̑ms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="парондомс">parə̑ndə̑ms</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">утешать</t>
@@ -132228,7 +132220,7 @@ jds</t>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="causative"/><DrvStCtn><DrvSt><Wd CyrId="сянгярьгадомс">śäŋǵäŕgadə̑ms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="causative" CyrId="сянгярьгадомс">śäŋǵäŕgadə̑ms</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">красить в (? тёмно‑)синий цвет</t>
@@ -132257,7 +132249,7 @@ jds</t>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG>(<DrvT vl="causative"/><DrvStCtn><DrvSt><Wd CyrId="сталгадомс">stalgadoms</Wd></DrvSt></DrvStCtn><Cm>usw</Cm>)</DrvG>
+<DrvG>(<l_drv drvType="causative" CyrId="сталгадомс">stalgadoms</l_drv><Cm>usw</Cm>)</DrvG>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">утяжелять</t>
@@ -132307,7 +132299,7 @@ jds</t>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="сомборгодомс">sə̑mbə̑rgə̑də̑ms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="сомборгодомс">sə̑mbə̑rgə̑də̑ms</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">помутиться</t>
@@ -132415,7 +132407,7 @@ jds</t>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="тюжалгафтомс">t́uža·lgaftə̑ms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="тюжалгафтомс">t́uža·lgaftə̑ms</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">желтить</t>
@@ -132459,7 +132451,7 @@ jds</t>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="frequentative"/></DrvG>
+<l_drv drvType="frequentative"></l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">хромать</t>
@@ -132682,7 +132674,7 @@ jds</t>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="шумордамс">šumə̑rda·ms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="шумордамс">šumə̑rda·ms</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t>[постепенно заканчивать</t>
@@ -132793,7 +132785,7 @@ jds</t>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="яшəлекшнемс">jäšəĺəkšńəms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="яшəлекшнемс">jäšəĺəkšńəms</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -132825,7 +132817,7 @@ jds</t>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="factative"/><DrvStCtn><DrvSt><Wd CyrId="яшəлекшнемс">jäšəĺəkšńəms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="factative" CyrId="яшəлекшнемс">jäšəĺəkšńəms</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -132857,7 +132849,7 @@ jds</t>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="яшəлекшнефтемс">jäšəĺəkšńəft́əms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="яшəлекшнефтемс">jäšəĺəkšńəft́əms</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -132889,7 +132881,7 @@ jds</t>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="яшəлефтемс">jäšəĺəft́əms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="яшəлефтемс">jäšəĺəft́əms</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -132921,7 +132913,7 @@ jds</t>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="яшəлефнемс">jäšəĺəfńəms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="яшəлефнемс">jäšəĺəfńəms</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -132958,7 +132950,7 @@ jds</t>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="яшəндемс">jäšəńd́əms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="яшəндемс">jäšəńd́əms</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -133141,7 +133133,7 @@ jds</t>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="эшкстамс">eškstams</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="эшкстамс">eškstams</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">ставить в укрытие</t>
@@ -133256,7 +133248,7 @@ jds</t>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="эчкə̑лгофтомс">ečkə̑lgə̑ftə̑ms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="эчкə̑лгофтомс">ečkə̑lgə̑ftə̑ms</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -133288,7 +133280,7 @@ jds</t>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="reflexivePassive"/><DrvStCtn><DrvSt><Wd CyrId="эчкə̑лгофтомс">ečkə̑lgə̑ftə̑ms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="reflexivePassive" CyrId="эчкə̑лгофтомс">ečkə̑lgə̑ftə̑ms</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -133333,7 +133325,7 @@ jds</t>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="factative"/><DrvStCtn><DrvSt><Wd CyrId="эчкə̑момс">ečkə̑mə̑ms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="factative" CyrId="эчкə̑момс">ečkə̑mə̑ms</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -133370,7 +133362,7 @@ jds</t>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="эчкəптемс">ečkəpt́əms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="эчкəптемс">ečkəpt́əms</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -133427,7 +133419,7 @@ jds</t>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="frequentative"/></DrvG>
+<l_drv drvType="frequentative"></l_drv>
 <mg copiedFrom="preceding">
 <tg xml:lang="rus">
 <t edit="MK">жадно есть</t>
@@ -133980,7 +133972,7 @@ auch <FrnTxt><Chc>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="ароптфтомс">arə̑ptftə̑ms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="ароптфтомс">arə̑ptftə̑ms</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -134012,7 +134004,7 @@ auch <FrnTxt><Chc>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="ароптфнемс">arə̑ptfńəms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="ароптфнемс">arə̑ptfńəms</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -134239,7 +134231,7 @@ auch <FrnTxt><Chc>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="causative"/><DrvStCtn><DrvSt><Wd CyrId="катморгодомс">katmə̑rgə̑də̑ms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="causative" CyrId="катморгодомс">katmə̑rgə̑də̑ms</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">завить</t>
@@ -134298,7 +134290,7 @@ auch <FrnTxt><Chc>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="causative"/><DrvStCtn><DrvSt><Wd CyrId="кятавкстомомс">ḱätavkstə̑mə̑ms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="causative" CyrId="кятавкстомомс">ḱätavkstə̑mə̑ms</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">протрезвлять</t>
@@ -135086,7 +135078,7 @@ auch <FrnTxt><Chc>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="causative"/><DrvStCtn><DrvSt><Wd CyrId="пинделдомс">ṕińd́əldə̑ms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="causative" CyrId="пинделдомс">ṕińd́əldə̑ms</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -135141,7 +135133,7 @@ auch <FrnTxt><Chc>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="causative"/><DrvStCtn><DrvSt><Wd CyrId="пинделгодомс">ṕińd́əlgə̑də̑ms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="causative" CyrId="пинделгодомс">ṕińd́əlgə̑də̑ms</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -135515,7 +135507,7 @@ auch <FrnTxt><Chc>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="такə̑ргофтомс">takə̑rgə̑ftə̑ms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="такə̑ргофтомс">takə̑rgə̑ftə̑ms</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -135584,7 +135576,7 @@ auch <FrnTxt><Chc>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="causative"/><DrvStCtn><DrvSt><Wd CyrId="танготкстомомс">taŋgə̑tkstə̑mə̑ms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="causative" CyrId="танготкстомомс">taŋgə̑tkstə̑mə̑ms</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">прикреплять</t>
@@ -135695,7 +135687,7 @@ auch <FrnTxt><Chc>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="factative"/></DrvG>
+<l_drv drvType="factative"></l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -135763,7 +135755,7 @@ auch <FrnTxt><Chc>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="frequentative"/></DrvG>
+<l_drv drvType="frequentative"></l_drv>
 <mg copiedFrom="preceding">
 <tg xml:lang="rus">
 <t edit="MK">ворчать</t>
@@ -135937,7 +135929,7 @@ auch <FrnTxt><Chc>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="цигондамс">ćigə̑nda·ms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="цигондамс">ćigə̑nda·ms</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">артачиться</t>
@@ -136101,7 +136093,7 @@ auch <FrnTxt><Chc>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="ёлмалгафтомс">jolmalgaftə̑ms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="ёлмалгафтомс">jolmalgaftə̑ms</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -136133,7 +136125,7 @@ auch <FrnTxt><Chc>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="ёлмалгафнемс">jolmalgafńəms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="ёлмалгафнемс">jolmalgafńəms</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -136172,7 +136164,7 @@ auch <FrnTxt><Chc>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="factative"/><DrvStCtn><DrvSt><Wd CyrId="ёлмалгафтомс">jolmalgaftə̑ms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="factative" CyrId="ёлмалгафтомс">jolmalgaftə̑ms</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">заставлять уменьшать</t>
@@ -136215,7 +136207,7 @@ auch <FrnTxt><Chc>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="ёлмалгафтфтомс">jolmalgaftftə̑ms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="ёлмалгафтфтомс">jolmalgaftftə̑ms</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -136287,7 +136279,7 @@ auch <FrnTxt><Chc>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="factative"/><DrvStCtn><DrvSt><Wd CyrId="роу̯налгадомс">rou̯nalgadə̑ms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="factative" CyrId="роу̯налгадомс">rou̯nalgadə̑ms</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">выравнивать</t>
@@ -136358,7 +136350,7 @@ auch <FrnTxt><Chc>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="factative"/><DrvStCtn><DrvSt><Wd CyrId="ровнайгадомс">rovnajgadə̑ms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="factative" CyrId="ровнайгадомс">rovnajgadə̑ms</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">сгладить</t>
@@ -136394,7 +136386,7 @@ auch <FrnTxt><Chc>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="ровнайгафтомс">rovnajgaftə̑ms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="ровнайгафтомс">rovnajgaftə̑ms</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">сглаживать</t>
@@ -136618,7 +136610,7 @@ auch <FrnTxt><Chc>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="causative"/><DrvStCtn><DrvSt><Wd CyrId="акшə̑лдомс">akšə̑ldə̑ms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="causative" CyrId="акшə̑лдомс">akšə̑ldə̑ms</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">заставлять белеться</t>
@@ -136669,7 +136661,7 @@ auch <FrnTxt><Chc>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="акшə̑лгофтомс">akšə̑lgə̑ftə̑ms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="акшə̑лгофтомс">akšə̑lgə̑ftə̑ms</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -136701,7 +136693,7 @@ auch <FrnTxt><Chc>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="акшə̑лгофнемс">akšə̑lgə̑fńəms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="акшə̑лгофнемс">akšə̑lgə̑fńəms</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -136824,7 +136816,7 @@ auch <FrnTxt><Chc>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="factative"/><DrvStCtn><DrvSt><Wd CyrId="акшə̑момс">akšə̑mə̑ms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="factative" CyrId="акшə̑момс">akšə̑mə̑ms</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t>белить</t>
@@ -136907,7 +136899,7 @@ auch <FrnTxt><Chc>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="акшə̑птомс">akšə̑ptə̑ms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="акшə̑птомс">akšə̑ptə̑ms</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">белить</t>
@@ -137004,7 +136996,7 @@ auch <FrnTxt><Chc>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="causative"/><DrvStCtn><DrvSt><Wd CyrId="вадямомс">vad́amə̑ms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="causative" CyrId="вадямомс">vad́amə̑ms</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">ласкать</t>
@@ -137270,7 +137262,7 @@ auch <FrnTxt><Chc>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="видептемс">v́id́əpt́əms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="видептемс">v́id́əpt́əms</l_drv>
 <mg copiedFrom="preceding">
 <tg xml:lang="rus">
 <t edit="MK">оправдывать</t>
@@ -137311,7 +137303,7 @@ auch <FrnTxt><Chc>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="видепнемс">v́id́əpńəms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="видепнемс">v́id́əpńəms</l_drv>
 <mg copiedFrom="preceding">
 <tg xml:lang="rus">
 <t edit="MK">оправдывать</t>
@@ -137503,7 +137495,7 @@ auch <FrnTxt><Chc>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="frequentative"/></DrvG>
+<l_drv drvType="frequentative"></l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -137898,7 +137890,7 @@ auch <FrnTxt><Chc>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="кашандомс">kašandə̑ms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="кашандомс">kašandə̑ms</l_drv>
 <mg copiedFrom="preceding">
 <tg xml:lang="rus">
 <t>норовистый</t>
@@ -137940,7 +137932,7 @@ auch <FrnTxt><Chc>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="causative"/><DrvStCtn><DrvSt><Wd CyrId="кевəрдемс">ḱevəŕd́əms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="causative" CyrId="кевəрдемс">ḱevəŕd́əms</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -138019,7 +138011,7 @@ auch <FrnTxt><Chc>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="causative"/><DrvStCtn><DrvSt><Wd CyrId="кельмолгодомс">ḱeĺmə̑lgə̑də̑ms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="causative" CyrId="кельмолгодомс">ḱeĺmə̑lgə̑də̑ms</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -138056,7 +138048,7 @@ auch <FrnTxt><Chc>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="кельмолгофтомс">ḱeĺmə̑lgə̑ftə̑ms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="кельмолгофтомс">ḱeĺmə̑lgə̑ftə̑ms</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -138081,7 +138073,7 @@ auch <FrnTxt><Chc>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="inchoative"/><DrvStCtn><DrvSt><Wd CyrId="кельмəмс">ḱeĺməms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="inchoative" CyrId="кельмəмс">ḱeĺməms</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">начинать мёрзнуть</t>
@@ -138123,7 +138115,7 @@ auch <FrnTxt><Chc>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="кельмəфтемс">ḱeĺməft́əms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="кельмəфтемс">ḱeĺməft́əms</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -138149,7 +138141,7 @@ auch <FrnTxt><Chc>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="reflexivePassive"/><DrvStCtn><DrvSt><Wd CyrId="кельмəфтемс">ḱeĺməft́əms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="reflexivePassive" CyrId="кельмəфтемс">ḱeĺməft́əms</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">(мочь) охладеваться</t>
@@ -138280,7 +138272,7 @@ auch <FrnTxt><Chc>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="кичкə̑ргодомс">ḱičkə̑rgə̑də̑ms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="кичкə̑ргодомс">ḱičkə̑rgə̑də̑ms</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">вертеться</t>
@@ -138312,7 +138304,7 @@ auch <FrnTxt><Chc>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="кичкə̑ргофтомс">ḱičkə̑rgə̑ftə̑ms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="кичкə̑ргофтомс">ḱičkə̑rgə̑ftə̑ms</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -138338,7 +138330,7 @@ auch <FrnTxt><Chc>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="reflexive"/><DrvStCtn><DrvSt><Wd CyrId="кичкə̑ргофтомс">ḱičkə̑rgə̑ftə̑ms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="reflexive" CyrId="кичкə̑ргофтомс">ḱičkə̑rgə̑ftə̑ms</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -138462,7 +138454,7 @@ auch <FrnTxt><Chc>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="козякафтомс">koźakaftə̑ms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="козякафтомс">koźakaftə̑ms</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -138487,7 +138479,7 @@ auch <FrnTxt><Chc>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="котьмамс">kot́mams</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="котьмамс">kot́mams</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -138513,7 +138505,7 @@ auch <FrnTxt><Chc>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="лафчəптомс">lafčəptə̑ms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="лафчəптомс">lafčəptə̑ms</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -138538,7 +138530,7 @@ auch <FrnTxt><Chc>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="лажадомс">lažadə̑ms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="лажадомс">lažadə̑ms</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">затосковать</t>
@@ -138567,7 +138559,7 @@ auch <FrnTxt><Chc>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="causative"/><DrvStCtn><DrvSt><Wd CyrId="лажадомс">lažadə̑ms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="causative" CyrId="лажадомс">lažadə̑ms</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">заставлять тосковать</t>
@@ -138615,7 +138607,7 @@ auch <FrnTxt><Chc>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="factative"/><DrvStCtn><DrvSt><Wd CyrId="лажнамс">lažnams</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="factative" CyrId="лажнамс">lažnams</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -138640,7 +138632,7 @@ auch <FrnTxt><Chc>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="лажнафтомс">lažnaftə̑ms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="лажнафтомс">lažnaftə̑ms</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -138665,7 +138657,7 @@ auch <FrnTxt><Chc>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="лажнамс">lažnams</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="лажнамс">lažnams</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">шуметь</t>
@@ -138715,7 +138707,7 @@ auch <FrnTxt><Chc>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="лажносемс">lažnə̑śəms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="лажносемс">lažnə̑śəms</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t>[шуметь</t>
@@ -138757,7 +138749,7 @@ auch <FrnTxt><Chc>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="лапшкə̑фтомс">lapškə̑ftə̑ms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="лапшкə̑фтомс">lapškə̑ftə̑ms</l_drv>
 <mg copiedFrom="preceding">
 <tg xml:lang="rus">
 <t>сплющить</t>
@@ -138830,7 +138822,7 @@ auch <FrnTxt><Chc>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="низелгодомс">ńiźəlgə̑də̑ms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="низелгодомс">ńiźəlgə̑də̑ms</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -138884,7 +138876,7 @@ auch <FrnTxt><Chc>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="factative"/><DrvStCtn><DrvSt><Wd CyrId="низелгофтомс">ńiźəlgə̑ftə̑ms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="factative" CyrId="низелгофтомс">ńiźəlgə̑ftə̑ms</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">заставлять скалить зубы</t>
@@ -138962,7 +138954,7 @@ auch <FrnTxt><Chc>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG>(<DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="нуваргадомс">nuva·rgadə̑ms</Wd></DrvSt></DrvStCtn><DrvStCtn><DrvSt><Wd CyrId="нуваргадомс">nuvargadə̑ms</Wd></DrvSt></DrvStCtn>)</DrvG>
+<DrvG>(<l_drv drvType="frequentative" CyrId="нуваргадомс">nuva·rgadə̑ms</l_drv><l_drv drvType="frequentative" CyrId="нуваргадомс">nuvargadə̑ms</l_drv>)</DrvG>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">? расти вкось (дерево)</t>
@@ -139032,7 +139024,7 @@ auch <FrnTxt><Chc>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="нуваргачнемс">nuva·rgačńəms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="нуваргачнемс">nuva·rgačńəms</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -139058,7 +139050,7 @@ auch <FrnTxt><Chc>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="нуваргафтомс">nuvargaftə̑ms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="нуваргафтомс">nuvargaftə̑ms</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">наклонять</t>
@@ -139299,7 +139291,7 @@ auch <FrnTxt><Chc>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="causative"/><DrvStCtn><DrvSt><Wd CyrId="равᵈжə̑лгодомс">ravᵈžə̑lgə̑də̑ms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="causative" CyrId="равᵈжə̑лгодомс">ravᵈžə̑lgə̑də̑ms</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -139376,7 +139368,7 @@ auch <FrnTxt><Chc>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="causative"/><DrvStCtn><DrvSt><Wd CyrId="равᵈжə̑момс">ravᵈžə̑mə̑ms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="causative" CyrId="равᵈжə̑момс">ravᵈžə̑mə̑ms</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">чернить</t>
@@ -139438,7 +139430,7 @@ auch <FrnTxt><Chc>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="торкстамс">tə̑rksta·ms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="торкстамс">tə̑rksta·ms</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -139492,8 +139484,6 @@ auch <FrnTxt><Chc>
 <t>böse werden</t>
 <t>launisch werden</t>
 <t>eigensinnig werden</t>
-</tg>
-<tg xml:lang="deu">
 <t>widerspenstig werden</t>
 <t>bockig werden</t>
 </tg>
@@ -140113,7 +140103,7 @@ auch <FrnTxt><Chc>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG>(<DrvT vl="factative"/><DrvStCtn><DrvSt><Wd CyrId="ашолгадомс">ašolgadoms</Wd></DrvSt></DrvStCtn><Cm>usw</Cm>)</DrvG>
+<DrvG>(<l_drv drvType="factative" CyrId="ашолгадомс">ašolgadoms</l_drv><Cm>usw</Cm>)</DrvG>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">белить</t>
@@ -140448,7 +140438,7 @@ auch <FrnTxt><Chc>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="V"/><st/>
 </lg>
-<DrvG><DrvT vl="iterative"/><DrvStCtn><DrvSt><Wd CyrId="ашолгадомс">ašolgadoms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="iterative" CyrId="ашолгадомс">ašolgadoms</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">бледнеть</t>
@@ -140499,7 +140489,7 @@ auch <FrnTxt><Chc>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="V"/><st/>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="ашолгафтомс">ašolgaftoms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="ашолгафтомс">ašolgaftoms</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">белить</t>
@@ -140752,7 +140742,7 @@ auch <FrnTxt><Chc>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="V"/><st/>
 </lg>
-<DrvG>(<DrvT vl="causative"/><DrvStCtn><DrvSt><Wd CyrId="берякадомс">b́eŕakadoms</Wd></DrvSt></DrvStCtn><Cm>usw</Cm>)</DrvG>
+<DrvG>(<l_drv drvType="causative" CyrId="берякадомс">b́eŕakadoms</l_drv><Cm>usw</Cm>)</DrvG>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">истощить</t>
@@ -140909,7 +140899,7 @@ auch <FrnTxt><Chc>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="V"/><st/>
 </lg>
-<DrvG><DrvT vl="factative"/></DrvG>
+<l_drv drvType="factative"></l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">сделать одноглазым</t>
@@ -140982,7 +140972,7 @@ auch <FrnTxt><Chc>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="V"/><st/>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="вадяшкафтомс">vad́aškaftoms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="вадяшкафтомс">vad́aškaftoms</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t>гладить</t>
@@ -141239,7 +141229,7 @@ auch <FrnTxt><Chc>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="V"/><st/>
 </lg>
-<DrvG><DrvT vl="momentative"/></DrvG>
+<l_drv drvType="momentative"></l_drv>
 <mg>
 <tg xml:lang="rus">
 <t>мазнуть</t>
@@ -141685,7 +141675,7 @@ auch <FrnTxt><Chc>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="V"/><st/>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="вачомс">vačoms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="вачомс">vačoms</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">изголодаться</t>
@@ -141743,7 +141733,7 @@ auch <FrnTxt><Chc>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="V"/><st/>
 </lg>
-<DrvG><DrvT vl="causative"/><DrvStCtn><DrvSt><Wd CyrId="вачомс">vačoms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="causative" CyrId="вачомс">vačoms</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">заставить голодать</t>
@@ -141811,7 +141801,7 @@ auch <FrnTxt><Chc>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="V"/><st/>
 </lg>
-<DrvG><DrvT vl="causative"/><DrvStCtn><DrvSt><Wd CyrId="вачомомс">vačomoms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="causative" CyrId="вачомомс">vačomoms</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">заставлять голодать</t>
@@ -142187,7 +142177,7 @@ auch <FrnTxt><Chc>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="V"/><st/>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="весёлгавтомс">v́eśolgavtoms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="весёлгавтомс">v́eśolgavtoms</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">веселить</t>
@@ -142522,7 +142512,7 @@ auch <FrnTxt><Chc>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="V"/><st/>
 </lg>
-<DrvG><DrvT vl="iterative"/><DrvStCtn><DrvSt><Wd CyrId="весёлгадомс">v́eśolgadoms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="iterative" CyrId="весёлгадомс">v́eśolgadoms</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">радоваться</t>
@@ -142767,7 +142757,7 @@ auch <FrnTxt><Chc>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="causative"/><DrvStCtn><DrvSt><Wd CyrId="видемомс">v́id́əmə̑ms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="causative" CyrId="видемомс">v́id́əmə̑ms</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">выпрямить</t>
@@ -142894,7 +142884,7 @@ auch <FrnTxt><Chc>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="V"/><st/>
 </lg>
-<DrvG><DrvT vl="causative"/><DrvStCtn><DrvSt><Wd CyrId="витькстамс">v́it́kstams</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="causative" CyrId="витькстамс">v́it́kstams</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">заставить признаться</t>
@@ -142923,7 +142913,7 @@ auch <FrnTxt><Chc>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="V"/><st/>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="витькстамс">v́it́kstams</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="витькстамс">v́it́kstams</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">сознаваться</t>
@@ -143074,7 +143064,7 @@ auch <FrnTxt><Chc>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="V"/><st/>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="витькстамс">v́it́kstams</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="витькстамс">v́it́kstams</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">сознаваться</t>
@@ -143176,7 +143166,7 @@ auch <FrnTxt><Chc>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="V"/><st/>
 </lg>
-<DrvG><DrvT vl="reflexivePassive"/><DrvStCtn><DrvSt><Wd CyrId="витемс">v́it́ems</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="reflexivePassive" CyrId="витемс">v́it́ems</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">подкрепиться</t>
@@ -143239,7 +143229,7 @@ auch <FrnTxt><Chc>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="V"/><st/>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="витевемс">v́it́ev́ems</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="витевемс">v́it́ev́ems</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">удовлетворяться</t>
@@ -143284,7 +143274,7 @@ auch <FrnTxt><Chc>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="V"/><st/>
 </lg>
-<DrvG><DrvT vl="causative"/><DrvStCtn><DrvSt><Wd CyrId="витемс">v́it́ems</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="causative" CyrId="витемс">v́it́ems</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">заставить исправить</t>
@@ -143315,7 +143305,7 @@ auch <FrnTxt><Chc>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="V"/><st/>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="витевтемс">v́it́evt́ems</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="витевтемс">v́it́evt́ems</l_drv>
 <mg copiedFrom="preceding">
 <tg xml:lang="rus">
 <t edit="MK">заставить исправить</t>
@@ -143833,7 +143823,7 @@ auch <FrnTxt><Chc>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="V"/><st/>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="витемс">v́it́ems</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="витемс">v́it́ems</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">чинить</t>
@@ -144178,7 +144168,7 @@ auch <FrnTxt><Chc>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="V"/><st/>
 </lg>
-<DrvG><DrvT vl="reflexive"/><DrvStCtn><DrvSt><Wd CyrId="глушамс">glušams</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="reflexive" CyrId="глушамс">glušams</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">оглушиться</t>
@@ -144968,7 +144958,7 @@ auch <FrnTxt><Chc>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="frequentative"/></DrvG>
+<l_drv drvType="frequentative"></l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">катать</t>
@@ -145453,7 +145443,7 @@ auch <FrnTxt><Chc>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="frequentative"/></DrvG>
+<l_drv drvType="frequentative"></l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">вертеться взад и вперёд</t>
@@ -145587,7 +145577,7 @@ auch <FrnTxt><Chc>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="causative"/><DrvStCtn><DrvSt><Wd CyrId="кельмемс">ḱeĺḿems</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="causative" CyrId="кельмемс">ḱeĺḿems</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t>прохладить</t>
@@ -145892,7 +145882,7 @@ auch <FrnTxt><Chc>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="V"/><st/>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="кельмемс">ḱeĺḿems</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="кельмемс">ḱeĺḿems</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -146204,7 +146194,7 @@ auch <FrnTxt><Chc>
 <GeoUB xml:lang="mdf">
 <GeoU>P</GeoU>
 </GeoUB>
-<DrvG><DrvT vl="causative"/></DrvG>
+<l_drv drvType="causative"></l_drv>
 </PhnUBlock>
 </lg>
 <mg>
@@ -146477,7 +146467,7 @@ auch <FrnTxt><Chc>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="V"/><st/>
 </lg>
-<DrvG><DrvT vl="causative"/></DrvG>
+<l_drv drvType="causative"></l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">слепить</t>
@@ -146596,7 +146586,7 @@ auch <FrnTxt><Chc>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="V"/><st/>
 </lg>
-<DrvG><DrvT vl="reflexivePassive"/><DrvStCtn><DrvSt><Wd CyrId="кшумᴉ͐рдамс">kšumᴉ͐rda·ms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="reflexivePassive" CyrId="кшумᴉ͐рдамс">kšumᴉ͐rda·ms</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">мочь заканчиваться</t>
@@ -146643,7 +146633,7 @@ auch <FrnTxt><Chc>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="V"/><st/>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="лавчомомс">lavčomoms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="лавчомомс">lavčomoms</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -146876,7 +146866,7 @@ auch <FrnTxt><Chc>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG>(<DrvT vl="causative"/><DrvStCtn><DrvSt><Wd CyrId="лавчомомс">lavčomoms</Wd></DrvSt></DrvStCtn><Cm>usw</Cm>)</DrvG>
+<DrvG>(<l_drv drvType="causative" CyrId="лавчомомс">lavčomoms</l_drv><Cm>usw</Cm>)</DrvG>
 <mg>
 <tg xml:lang="rus">
 <t>[ослабить</t>
@@ -146973,7 +146963,7 @@ auch <FrnTxt><Chc>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="V"/><st/>
 </lg>
-<DrvG><DrvT vl="reflexivePassive"/><DrvStCtn><DrvSt><Wd CyrId="лажамс">lažams</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="reflexivePassive" CyrId="лажамс">lažams</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t>выплакать</t>
@@ -147194,7 +147184,7 @@ auch <FrnTxt><Chc>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="inchoative"/></DrvG>
+<l_drv drvType="inchoative"></l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">заплакать</t>
@@ -147723,7 +147713,7 @@ auch <FrnTxt><Chc>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="V"/><st/>
 </lg>
-<DrvG>(<DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="лажадᴉ͐мс">lažadᴉ͐ms</Wd></DrvSt></DrvStCtn><DrvStCtn><DrvSt><Wd CyrId="лажадумс">lažadums</Wd></DrvSt></DrvStCtn>)</DrvG>
+<DrvG>(<l_drv drvType="frequentative" CyrId="лажадᴉ͐мс">lažadᴉ͐ms</l_drv><l_drv drvType="frequentative" CyrId="лажадумс">lažadums</l_drv>)</DrvG>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -147794,7 +147784,7 @@ auch <FrnTxt><Chc>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="V"/><st/>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="лажномс">lažnoms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="лажномс">lažnoms</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">шуметь</t>
@@ -148065,7 +148055,7 @@ auch <FrnTxt><Chc>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="V"/><st/>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="лайшемс">lajše͔ms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="лайшемс">lajše͔ms</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -148278,7 +148268,7 @@ auch <FrnTxt><Chc>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG>(<DrvT vl="factative"/><DrvStCtn><DrvSt><Wd CyrId="лапушкадомс">lapuškadoms</Wd></DrvSt></DrvStCtn><Cm>usw</Cm>)</DrvG>
+<DrvG>(<l_drv drvType="factative" CyrId="лапушкадомс">lapuškadoms</l_drv><Cm>usw</Cm>)</DrvG>
 <mg>
 <tg xml:lang="rus">
 <t>сплющить</t>
@@ -148419,7 +148409,7 @@ auch <FrnTxt><Chc>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="V"/><st/>
 </lg>
-<DrvG><DrvT vl="causative"/><DrvStCtn><DrvSt><Wd CyrId="лапштангадомкс">lapštangadomks</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="causative" CyrId="лапштангадомкс">lapštangadomks</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">сплющить</t>
@@ -148545,7 +148535,7 @@ auch <FrnTxt><Chc>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG>(<DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="экшелямс">ekše͔ĺams</Wd></DrvSt></DrvStCtn><DrvStCtn><DrvSt><Wd CyrId="(й)ӓшəлемс">(j)äšəĺəms</Wd></DrvSt></DrvStCtn>)</DrvG>
+<DrvG>(<l_drv drvType="frequentative" CyrId="экшелямс">ekše͔ĺams</l_drv><l_drv drvType="frequentative" CyrId="(й)ӓшəлемс">(j)äšəĺəms</l_drv>)</DrvG>
 <mg>
 <tg xml:lang="rus">
 <t>купать</t>
@@ -148748,7 +148738,7 @@ auch <FrnTxt><Chc>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="V"/><st/>
 </lg>
-<DrvG><DrvT vl="iterative"/><DrvStCtn><DrvSt><Wd CyrId="лембелгадомс">ĺemb́elgadoms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="iterative" CyrId="лембелгадомс">ĺemb́elgadoms</l_drv>
 <mg copiedFrom="preceding">
 <tg xml:lang="rus">
 <t>потеплеть</t>
@@ -149438,7 +149428,7 @@ auch <FrnTxt><Chc>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="V"/><st/>
 </lg>
-<DrvG><DrvT vl="iterative"/><DrvStCtn><DrvSt><Wd CyrId="лиядомс">ĺijadoms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="iterative" CyrId="лиядомс">ĺijadoms</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">оставаться</t>
@@ -149495,7 +149485,7 @@ auch <FrnTxt><Chc>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG>(<DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="лиядомс">ĺijadoms</Wd></DrvSt></DrvStCtn><DrvStCtn><DrvSt><Wd CyrId="илядомс">iĺa·də̑ms</Wd></DrvSt></DrvStCtn>)</DrvG>
+<DrvG>(<l_drv drvType="frequentative" CyrId="лиядомс">ĺijadoms</l_drv><l_drv drvType="frequentative" CyrId="илядомс">iĺa·də̑ms</l_drv>)</DrvG>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">оставаться</t>
@@ -149573,7 +149563,7 @@ auch <FrnTxt><Chc>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="V"/><st/>
 </lg>
-<DrvG><DrvT vl="passive"/></DrvG>
+<l_drv drvType="passive"></l_drv>
 <mg>
 <tg xml:lang="rus">
 <t>остаться немного [времени и т. п.]</t>
@@ -149640,7 +149630,7 @@ auch <FrnTxt><Chc>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG>(<DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="лядᴉ͐мс">ĺadᴉ͐ms</Wd></DrvSt></DrvStCtn><DrvStCtn><DrvSt><Wd CyrId="лядомс">ĺadə̑ms</Wd></DrvSt></DrvStCtn>)</DrvG>
+<DrvG>(<l_drv drvType="frequentative" CyrId="лядᴉ͐мс">ĺadᴉ͐ms</l_drv><l_drv drvType="frequentative" CyrId="лядомс">ĺadə̑ms</l_drv>)</DrvG>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">оставаться</t>
@@ -149788,7 +149778,7 @@ auch <FrnTxt><Chc>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG>(<DrvT vl="causative"/><DrvStCtn><DrvSt><Wd CyrId="мазэлгадомс">maze͔lgadoms</Wd></DrvSt></DrvStCtn><Cm>usw</Cm>)</DrvG>
+<DrvG>(<l_drv drvType="causative" CyrId="мазэлгадомс">maze͔lgadoms</l_drv><Cm>usw</Cm>)</DrvG>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">украшать</t>
@@ -150173,7 +150163,7 @@ auch <FrnTxt><Chc>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="V"/><st/>
 </lg>
-<DrvG><DrvT vl="causative"/><DrvStCtn><DrvSt><Wd CyrId="мирямс">ḿiŕams</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="causative" CyrId="мирямс">ḿiŕams</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">помирить</t>
@@ -150273,7 +150263,7 @@ auch <FrnTxt><Chc>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="V"/><st/>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="мутявомс">mut́avoms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="мутявомс">mut́avoms</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -150298,7 +150288,7 @@ auch <FrnTxt><Chc>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="V"/><st/>
 </lg>
-<DrvG><DrvT vl="reflexivePassive"/><DrvStCtn><DrvSt><Wd CyrId="мутямс">mut́ams</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="reflexivePassive" CyrId="мутямс">mut́ams</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">мутиться</t>
@@ -150620,7 +150610,7 @@ auch <FrnTxt><Chc>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG>(<DrvT vl="causative"/><DrvStCtn><DrvSt><Wd CyrId="начкомс">načkoms</Wd></DrvSt></DrvStCtn><DrvStCtn><DrvSt><Wd CyrId="начкə̑мс">načkə̑ms</Wd></DrvSt></DrvStCtn>)</DrvG>
+<DrvG>(<l_drv drvType="causative" CyrId="начкомс">načkoms</l_drv><l_drv drvType="causative" CyrId="начкə̑мс">načkə̑ms</l_drv>)</DrvG>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">смачивать</t>
@@ -150783,7 +150773,7 @@ auch <FrnTxt><Chc>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG>(<DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="начтамс">načtams</Wd></DrvSt></DrvStCtn><DrvStCtn><DrvSt><Wd CyrId="начтомс">načtoms</Wd></DrvSt></DrvStCtn>)</DrvG>
+<DrvG>(<l_drv drvType="frequentative" CyrId="начтамс">načtams</l_drv><l_drv drvType="frequentative" CyrId="начтомс">načtoms</l_drv>)</DrvG>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">смачивать</t>
@@ -150850,7 +150840,7 @@ auch <FrnTxt><Chc>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="V"/><st/>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="низыльгафтомс">ńizi͔ĺgaftoms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="низыльгафтомс">ńizi͔ĺgaftoms</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -151408,7 +151398,7 @@ auch <FrnTxt><Chc>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="V"/><st/>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="низэльдемс">ńize͔ĺd́ems</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="низэльдемс">ńize͔ĺd́ems</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">ухмыляться</t>
@@ -151698,7 +151688,7 @@ auch <FrnTxt><Chc>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="V"/><st/>
 </lg>
-<DrvG><DrvT vl="causative"/><DrvStCtn><DrvSt><Wd CyrId="ношкалгадомс">noškalgadoms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="causative" CyrId="ношкалгадомс">noškalgadoms</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">притупить</t>
@@ -152294,7 +152284,7 @@ auch <FrnTxt><Chc>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="V"/><st/>
 </lg>
-<DrvG><DrvT vl="iterative"/><DrvStCtn><DrvSt><Wd CyrId="нуваргадомс">nuvargadoms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="iterative" CyrId="нуваргадомс">nuvargadoms</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">кланяться</t>
@@ -152795,7 +152785,7 @@ auch <FrnTxt><Chc>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="V"/><st/>
 </lg>
-<DrvG><DrvT vl="iterative"/><DrvStCtn><DrvSt><Wd CyrId="нусмакадомс">nusma·kadoms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="iterative" CyrId="нусмакадомс">nusma·kadoms</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -152820,7 +152810,7 @@ auch <FrnTxt><Chc>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="V"/><st/>
 </lg>
-<DrvG><DrvT vl="inchoative"/></DrvG>
+<l_drv drvType="inchoative"></l_drv>
 <mg>
 <tg xml:lang="rus">
 <t>опечалиться</t>
@@ -152850,7 +152840,7 @@ auch <FrnTxt><Chc>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="V"/><st/>
 </lg>
-<DrvG><DrvT vl="iterative"/><DrvStCtn><DrvSt><Wd CyrId="нусмангадомс">nusma·ngadoms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="iterative" CyrId="нусмангадомс">nusma·ngadoms</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -153213,7 +153203,7 @@ auch <FrnTxt><Chc>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="V"/><st/>
 </lg>
-<DrvG>(<DrvT vl="factative"/><DrvStCtn><DrvSt><Wd CyrId="одолгадомс">odolgadoms</Wd></DrvSt></DrvStCtn><Cm>usw</Cm>)</DrvG>
+<DrvG>(<l_drv drvType="factative" CyrId="одолгадомс">odolgadoms</l_drv><Cm>usw</Cm>)</DrvG>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">обновить</t>
@@ -153558,7 +153548,7 @@ auch <FrnTxt><Chc>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="V"/><st/>
 </lg>
-<DrvG><DrvT vl="iterative"/><DrvStCtn><DrvSt><Wd CyrId="ожолгадомс">ožolgadoms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="iterative" CyrId="ожолгадомс">ožolgadoms</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">бледнеть</t>
@@ -153613,7 +153603,7 @@ auch <FrnTxt><Chc>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="factative"/><DrvStCtn><DrvSt><Wd CyrId="оламс">olams</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="factative" CyrId="оламс">olams</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">белить</t>
@@ -153869,7 +153859,7 @@ auch <FrnTxt><Chc>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="оламс">olams</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="оламс">olams</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">бледнеть</t>
@@ -153954,7 +153944,7 @@ auch <FrnTxt><Chc>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="V"/><st/>
 </lg>
-<DrvG><DrvT vl="factative"/><DrvStCtn><DrvSt><Wd CyrId="опакадомс">opakadoms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="factative" CyrId="опакадомс">opakadoms</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -154308,7 +154298,7 @@ auch <FrnTxt><Chc>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="опаптомс">opaptə̑ms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="опаптомс">opaptə̑ms</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">душить</t>
@@ -154357,7 +154347,7 @@ auch <FrnTxt><Chc>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG>(<DrvT vl="factative"/><DrvStCtn><DrvSt><Wd CyrId="опамомс">opamoms</Wd></DrvSt></DrvStCtn><DrvStCtn><DrvSt><Wd CyrId="опамомс">opamə̑ms</Wd></DrvSt></DrvStCtn>)</DrvG>
+<DrvG>(<l_drv drvType="factative" CyrId="опамомс">opamoms</l_drv><l_drv drvType="factative" CyrId="опамомс">opamə̑ms</l_drv>)</DrvG>
 <mg>
 <tg xml:lang="rus">
 <t>задохнуть</t>
@@ -154441,7 +154431,7 @@ auch <FrnTxt><Chc>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="factative"/><DrvStCtn><DrvSt><Wd CyrId="откстомомс">otkstomoms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="factative" CyrId="откстомомс">otkstomoms</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">обновить</t>
@@ -154806,7 +154796,7 @@ auch <FrnTxt><Chc>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="V"/><st/>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="пегойгафтомс">ṕegojgaftoms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="пегойгафтомс">ṕegojgaftoms</l_drv>
 <mg copiedFrom="preceding">
 <tg xml:lang="rus">
 <t edit="MK">делать пегим</t>
@@ -155047,7 +155037,7 @@ auch <FrnTxt><Chc>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="V"/><st/>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="пингелемс">ṕiŋǵeĺems</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="пингелемс">ṕiŋǵeĺems</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -155072,7 +155062,7 @@ auch <FrnTxt><Chc>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="V"/><st/>
 </lg>
-<DrvG><DrvT vl="iterative"/><DrvStCtn><DrvSt><Wd CyrId="пингедемс">ṕiŋǵed́ems</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="iterative" CyrId="пингедемс">ṕiŋǵed́ems</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">обивать обручами</t>
@@ -155764,7 +155754,7 @@ auch <FrnTxt><Chc>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="V"/><st/>
 </lg>
-<DrvG><DrvT vl="iterative"/><DrvStCtn><DrvSt><Wd CyrId="потморгадомс">potmorgadoms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="iterative" CyrId="потморгадомс">potmorgadoms</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">опечалиться</t>
@@ -156097,7 +156087,7 @@ auch <FrnTxt><Chc>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="V"/><st/>
 </lg>
-<DrvG>(<DrvT vl="causative"/><DrvStCtn><DrvSt><Wd CyrId="равшкадомс">ravškadoms</Wd></DrvSt></DrvStCtn><Cm>usw</Cm>)</DrvG>
+<DrvG>(<l_drv drvType="causative" CyrId="равшкадомс">ravškadoms</l_drv><Cm>usw</Cm>)</DrvG>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">чернить</t>
@@ -156411,7 +156401,7 @@ auch <FrnTxt><Chc>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG>(<DrvT vl="iterative"/><DrvStCtn><DrvSt><Wd CyrId="раушкадомс">rauškadoms</Wd></DrvSt></DrvStCtn><Cm>usw</Cm>)</DrvG>
+<DrvG>(<l_drv drvType="iterative" CyrId="раушкадомс">rauškadoms</l_drv><Cm>usw</Cm>)</DrvG>
 <mg>
 <tg xml:lang="rus">
 <t>чернеть</t>
@@ -157275,7 +157265,7 @@ auch <FrnTxt><Chc>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="V"/><st/>
 </lg>
-<DrvG><DrvT vl="reflexivePassive"/><DrvStCtn><DrvSt><Wd CyrId="солавтомс">solavtoms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="reflexivePassive" CyrId="солавтомс">solavtoms</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">(мочь) оттаиваться</t>
@@ -157348,7 +157338,7 @@ auch <FrnTxt><Chc>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="causative"/><DrvStCtn><DrvSt><Wd CyrId="соламс">solams</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="causative" CyrId="соламс">solams</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">оттаивать</t>
@@ -157523,7 +157513,7 @@ auch <FrnTxt><Chc>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="V"/><st/>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="соламс">solams</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="соламс">solams</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -157549,7 +157539,7 @@ auch <FrnTxt><Chc>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="V"/><st/>
 </lg>
-<DrvG><DrvT vl="reflexivePassive"/><DrvStCtn><DrvSt><Wd CyrId="справамс">spravams</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="reflexivePassive" CyrId="справамс">spravams</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">возделываться</t>
@@ -157599,7 +157589,7 @@ auch <FrnTxt><Chc>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="V"/><st/>
 </lg>
-<DrvG><DrvT vl="causative"/><DrvStCtn><DrvSt><Wd CyrId="справамс">spravams</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="causative" CyrId="справамс">spravams</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">улучшать</t>
@@ -158419,7 +158409,7 @@ auch <Et>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="inchoative"/></DrvG>
+<l_drv drvType="inchoative"></l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">помутиться</t>
@@ -158553,7 +158543,7 @@ auch <Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="V"/><st/>
 </lg>
-<DrvG><DrvT vl="reflexivePassive"/><DrvStCtn><DrvSt><Wd CyrId="сыредемс">si͔ŕed́ems</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="reflexivePassive" CyrId="сыредемс">si͔ŕed́ems</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">стареть</t>
@@ -158867,7 +158857,7 @@ auch <Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="V"/><st/>
 </lg>
-<DrvG><DrvT vl="causative"/><DrvStCtn><DrvSt><Wd CyrId="сыридимс">si͔ŕid́ims</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="causative" CyrId="сыридимс">si͔ŕid́ims</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t>состарить</t>
@@ -159049,7 +159039,7 @@ auch <Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="V"/><st/>
 </lg>
-<DrvG><DrvT vl="inchoative"/></DrvG>
+<l_drv drvType="inchoative"></l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">сходить с ума</t>
@@ -159231,7 +159221,7 @@ auch <Et>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG>(<DrvT vl="causative"/><DrvStCtn><DrvSt><Wd CyrId="сэтьмемс">se͔t́ḿems</Wd></DrvSt></DrvStCtn><Cm>usw</Cm>)</DrvG>
+<DrvG>(<l_drv drvType="causative" CyrId="сэтьмемс">se͔t́ḿems</l_drv><Cm>usw</Cm>)</DrvG>
 <mg>
 <TrlnCtn>
 <tg xml:lang="rus">
@@ -159325,7 +159315,7 @@ auch <Et>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="сетьмəфтомс">śet́məftə̑ms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="сетьмəфтомс">śet́məftə̑ms</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">успокаивать</t>
@@ -159358,7 +159348,7 @@ auch <Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="V"/><st/>
 </lg>
-<DrvG><DrvT vl="factative"/><DrvStCtn><DrvSt><Wd CyrId="сэтьмелгадомс">se͔t́ḿelgadoms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="factative" CyrId="сэтьмелгадомс">se͔t́ḿelgadoms</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -159540,7 +159530,7 @@ auch <Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="V"/><st/>
 </lg>
-<DrvG><DrvT vl="iterative"/><DrvStCtn><DrvSt><Wd CyrId="сэчкадомс">se͔čkadoms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="iterative" CyrId="сэчкадомс">se͔čkadoms</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -159818,7 +159808,7 @@ auch <Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="V"/><st/>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="сэнедемс">se͔ńed́ems</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="сэнедемс">se͔ńed́ems</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">вышивать синей нитью</t>
@@ -159948,7 +159938,7 @@ auch <Et>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG>(<DrvT vl="causative"/><DrvStCtn><DrvSt><Wd CyrId="сэнемемс">se͔ńeḿems</Wd></DrvSt></DrvStCtn><DrvStCtn><DrvSt><Wd CyrId="сенемəмс">śeńəməms</Wd></DrvSt></DrvStCtn>)</DrvG>
+<DrvG>(<l_drv drvType="causative" CyrId="сэнемемс">se͔ńeḿems</l_drv><l_drv drvType="causative" CyrId="сенемəмс">śeńəməms</l_drv>)</DrvG>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">избить до синяков</t>
@@ -160171,7 +160161,7 @@ auch <Et>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="causative"/><DrvStCtn><DrvSt><Wd CyrId="сэньшкə̑домс">se͔ńškə̑də̑ms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="causative" CyrId="сэньшкə̑домс">se͔ńškə̑də̑ms</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -160314,7 +160304,7 @@ auch <Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="V"/><st/>
 </lg>
-<DrvG><DrvT vl="iterative"/><DrvStCtn><DrvSt><Wd CyrId="сюпалгадомс">śupalgadoms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="iterative" CyrId="сюпалгадомс">śupalgadoms</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">богатеть</t>
@@ -160625,7 +160615,7 @@ auch <Et>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG>(<DrvT vl="causative"/><DrvStCtn><DrvSt><Wd CyrId="таймаскадомс">tajmaskadoms</Wd></DrvSt></DrvStCtn><DrvStCtn><DrvSt><Wd CyrId="таймаскə̑домс">tajmaskə̑də̑ms</Wd></DrvSt></DrvStCtn>)</DrvG>
+<DrvG>(<l_drv drvType="causative" CyrId="таймаскадомс">tajmaskadoms</l_drv><l_drv drvType="causative" CyrId="таймаскə̑домс">tajmaskə̑də̑ms</l_drv>)</DrvG>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -160785,7 +160775,7 @@ auch <Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="V"/><st/>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="таймаскадомс">tajmaskadoms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="таймаскадомс">tajmaskadoms</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">оцепеневать</t>
@@ -160864,7 +160854,7 @@ auch <Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="V"/><st/>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="таймаскадомс">tajmaskadoms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="таймаскадомс">tajmaskadoms</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -161295,7 +161285,7 @@ auch <Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="V"/><st/>
 </lg>
-<DrvG><DrvT vl="iterative"/><DrvStCtn><DrvSt><Wd CyrId="теіньгадомс">t́eińgadoms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="iterative" CyrId="теіньгадомс">t́eińgadoms</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -161705,7 +161695,7 @@ auch <Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="V"/><st/>
 </lg>
-<DrvG><DrvT vl="reflexive"/><DrvStCtn><DrvSt><Wd CyrId="тупамс">tupams</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="reflexive" CyrId="тупамс">tupams</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">притупиться</t>
@@ -162084,7 +162074,7 @@ auch <Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="V"/><st/>
 </lg>
-<DrvG><DrvT vl="iterative"/><DrvStCtn><DrvSt><Wd CyrId="турмускадомс">turmuskadoms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="iterative" CyrId="турмускадомс">turmuskadoms</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t>становиться угрюмым</t>
@@ -162647,7 +162637,7 @@ auch <Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="V"/><st/>
 </lg>
-<DrvG><DrvT vl="iterative"/><DrvStCtn><DrvSt><Wd CyrId="тюжалгадомс">t́užalgadoms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="iterative" CyrId="тюжалгадомс">t́užalgadoms</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">желтеть</t>
@@ -162775,7 +162765,7 @@ auch <Et>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="удаламс">uda·lams</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="удаламс">uda·lams</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">хорошо удаваться</t>
@@ -163258,7 +163248,7 @@ auch <Et>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="inchoative"/></DrvG>
+<l_drv drvType="inchoative"></l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">захромать</t>
@@ -163690,7 +163680,7 @@ auch <Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="V"/><st/>
 </lg>
-<DrvG><DrvT vl="causative"/></DrvG>
+<l_drv drvType="causative"></l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">смягчать</t>
@@ -164106,7 +164096,7 @@ auch <Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="V"/><st/>
 </lg>
-<DrvG>(<DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="чиремемс">či͔ŕeḿems</Wd></DrvSt></DrvStCtn><DrvStCtn><DrvSt><Wd CyrId="чиремемс">čiŕeḿems</Wd></DrvSt></DrvStCtn>)</DrvG>
+<DrvG>(<l_drv drvType="frequentative" CyrId="чиремемс">či͔ŕeḿems</l_drv><l_drv drvType="frequentative" CyrId="чиремемс">čiŕeḿems</l_drv>)</DrvG>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">клониться, поворачиваться боком</t>
@@ -164237,7 +164227,7 @@ auch <Et>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG>(<DrvT vl="causative"/><DrvStCtn><DrvSt><Wd CyrId="чиремемс">či͔ŕeḿems</Wd></DrvSt></DrvStCtn><Cm>usw</Cm>)</DrvG>
+<DrvG>(<l_drv drvType="causative" CyrId="чиремемс">či͔ŕeḿems</l_drv><Cm>usw</Cm>)</DrvG>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">наклонить</t>
@@ -164515,7 +164505,7 @@ auch <Et>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG>(<DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="чиртемс">čiŕt́ems</Wd></DrvSt></DrvStCtn><DrvStCtn><DrvSt><Wd CyrId="ширьфтемс">šiŕft́əms</Wd></DrvSt></DrvStCtn>)</DrvG>
+<DrvG>(<l_drv drvType="frequentative" CyrId="чиртемс">čiŕt́ems</l_drv><l_drv drvType="frequentative" CyrId="ширьфтемс">šiŕft́əms</l_drv>)</DrvG>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -165080,7 +165070,7 @@ auch <Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="V"/><st/>
 </lg>
-<DrvG><DrvT vl="causative"/><DrvStCtn><DrvSt><Wd CyrId="чумбракстомомс">čumbrakstomoms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="causative" CyrId="чумбракстомомс">čumbrakstomoms</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -165631,7 +165621,7 @@ auch <Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="V"/><st/>
 </lg>
-<DrvG><DrvT vl="iterative"/><DrvStCtn><DrvSt><Wd CyrId="шождыньгадомс">šoždi͔ńgadoms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="iterative" CyrId="шождыньгадомс">šoždi͔ńgadoms</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">облегчаться</t>
@@ -165779,7 +165769,7 @@ auch <Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="V"/><st/>
 </lg>
-<DrvG><DrvT vl="causative"/><DrvStCtn><DrvSt><Wd CyrId="экшелгадомс">ekšelgadoms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="causative" CyrId="экшелгадомс">ekšelgadoms</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">охлаждать</t>
@@ -166853,7 +166843,7 @@ auch <Et>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG>(<DrvT vl="factative"/><DrvStCtn><DrvSt><Wd CyrId="экшендемс">ekšeńd́ems</Wd></DrvSt></DrvStCtn><DrvStCtn><DrvSt><Wd CyrId="(й)ӓшəндемс">(j)äšəńd́əms</Wd></DrvSt></DrvStCtn>)</DrvG>
+<DrvG>(<l_drv drvType="factative" CyrId="экшендемс">ekšeńd́ems</l_drv><l_drv drvType="factative" CyrId="(й)ӓшəндемс">(j)äšəńd́əms</l_drv>)</DrvG>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">охлаждать</t>
@@ -166973,7 +166963,7 @@ auch <Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="V"/><st/>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="ӓрьваскадумс">äŕvaskadums</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="ӓрьваскадумс">äŕvaskadums</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -167064,7 +167054,7 @@ auch <Et>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG>(<DrvT vl="causative"/><DrvStCtn><DrvSt><Wd CyrId="эряскадомс">eŕaskadoms</Wd></DrvSt></DrvStCtn><Cm>usw</Cm>)</DrvG>
+<DrvG>(<l_drv drvType="causative" CyrId="эряскадомс">eŕaskadoms</l_drv><Cm>usw</Cm>)</DrvG>
 <mg>
 <tg xml:lang="rus">
 <t>поторопить</t>
@@ -167385,7 +167375,7 @@ auch <Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="V"/><st/>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="эряскадумс">eŕaskadums</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="эряскадумс">eŕaskadums</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">сердиться</t>
@@ -167449,7 +167439,7 @@ auch <Et>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG>(<DrvT vl="causative"/><DrvStCtn><DrvSt><Wd CyrId="эчкельгадомс">ečḱeĺgadoms</Wd></DrvSt></DrvStCtn><Cm>usw</Cm>)</DrvG>
+<DrvG>(<l_drv drvType="causative" CyrId="эчкельгадомс">ečḱeĺgadoms</l_drv><Cm>usw</Cm>)</DrvG>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">сгущать</t>
@@ -167985,7 +167975,7 @@ auch <Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="V"/><st/>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="якстердямс">jakśt́eŕd́ams</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="якстердямс">jakśt́eŕd́ams</l_drv>
 <mg copiedFrom="preceding">
 <tg xml:lang="rus">
 <t edit="MK">шить красной ниткой</t>

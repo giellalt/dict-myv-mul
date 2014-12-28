@@ -38,7 +38,7 @@
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/></DrvG>
+<l_drv drvType="diminutive"></l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">постоялый двор</t>
@@ -6548,7 +6548,7 @@ Tat., tschuw. <Et>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="Redupl"/></DrvG>
+<l_drv drvType="Redupl"></l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">тише!</t>
@@ -7031,8 +7031,6 @@ Tat., tschuw. <Et>
 <tg xml:lang="deu">
 <t>sieh hier!</t>
 <t>nun (also)!</t>
-</tg>
-<tg xml:lang="deu">
 <t>nun denn!</t>
 <t>wohlan! (wird bes. bei Hochzeitsgelagen u. Gedächtnisfeiern gebraucht)</t>
 </tg>
@@ -7608,7 +7606,7 @@ Tat., tschuw. <Et>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="шӓтяф">šät́af</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="шӓтяф">šät́af</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">ходьба</t>
@@ -7857,7 +7855,7 @@ Tat., tschuw. <Et>
 </InflB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><DrvSt><Wd CyrId="тярьфтем">t́äŕft́əm</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="diminutive" CyrId="тярьфтем">t́äŕft́əm</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t>закваска</t>
@@ -12053,8 +12051,6 @@ Tat., tschuw. <Et>
 <tg xml:lang="deu">
 <t>wahrscheinlich</t>
 <t>allem Anschein nach</t>
-</tg>
-<tg xml:lang="deu">
 <t>nicht wahr</t>
 <t>wirklich</t>
 <t>fürwahr</t>
@@ -13020,8 +13016,6 @@ Tat., tschuw. <Et>
 <tg xml:lang="deu">
 <t>gerade</t>
 <t>eben</t>
-</tg>
-<tg xml:lang="deu">
 <t>soeben</t>
 <t>beinahe</t>
 <t>nahe daran (etw. zu tun)</t>
@@ -19630,7 +19624,7 @@ Tat
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="momentative"/></DrvG>
+<l_drv drvType="momentative"></l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">охнуть</t>
@@ -19762,7 +19756,7 @@ Tat
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="inchoative"/><DrvStCtn><DrvSt><Wd CyrId="тяремс">t́äŕəms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="inchoative" CyrId="тяремс">t́äŕəms</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">начинать дрожать</t>
@@ -19795,7 +19789,7 @@ Tat
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="causative"/><DrvStCtn><DrvSt><Wd CyrId="тяремс">t́äŕəms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="causative" CyrId="тяремс">t́äŕəms</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">заставлять дрожать</t>
@@ -19870,7 +19864,7 @@ Tat
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="тярьфтемс">t́äŕft́əms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="тярьфтемс">t́äŕft́əms</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -19902,7 +19896,7 @@ Tat
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="тярьфнемс">t́äŕfńəms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="тярьфнемс">t́äŕfńəms</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -19971,7 +19965,7 @@ Tat
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="шӓемс">šäjəms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="шӓемс">šäjəms</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -19996,7 +19990,7 @@ Tat
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="шӓендемс">šäjəńd́əms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="шӓендемс">šäjəńd́əms</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -20033,7 +20027,7 @@ Tat
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="шӓтямс">šät́ams</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="шӓтямс">šät́ams</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">случаться</t>
@@ -20095,7 +20089,7 @@ Tat
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="шӓтнемс">šät́ńəms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="шӓтнемс">šät́ńəms</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -20122,7 +20116,7 @@ Tat
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="reflexivePassive"/><DrvStCtn><DrvSt><Wd CyrId="шӓтнемс">šät́ńəms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="reflexivePassive" CyrId="шӓтнемс">šät́ńəms</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">(мочь) топтаться</t>
@@ -20176,7 +20170,7 @@ Tat
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="causative"/><DrvStCtn><DrvSt><Wd CyrId="шӓтнемс">šät́ńəms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="causative" CyrId="шӓтнемс">šät́ńəms</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">ходить</t>
@@ -20215,7 +20209,7 @@ Tat
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="шӓтнефтемс">šät́ńəft́əms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="шӓтнефтемс">šät́ńəft́əms</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">заставлять ходить</t>
@@ -20268,7 +20262,7 @@ Tat
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="causative"/><DrvStCtn><DrvSt><Wd CyrId="шӓтямс">šät́ams</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="causative" CyrId="шӓтямс">šät́ams</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">заставлять делать один шаг</t>
@@ -20346,7 +20340,7 @@ Tat
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="frequentative"/><DrvStCtn><DrvSt><Wd CyrId="шӓтяфтомс">šät́aftə̑ms</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="frequentative" CyrId="шӓтяфтомс">šät́aftə̑ms</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">случаться</t>
@@ -21710,7 +21704,7 @@ ChrE
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="V"/><st/>
 </lg>
-<DrvG><DrvT vl="momentative"/></DrvG>
+<l_drv drvType="momentative"></l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">охнуть</t>
@@ -21822,7 +21816,7 @@ ChrE
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="iterative"/><DrvStCtn><DrvSt><Wd CyrId="охадемс">oᵪad́ems</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="iterative" CyrId="охадемс">oᵪad́ems</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t>охать</t>
@@ -21966,7 +21960,7 @@ ChrE
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG><DrvT vl="causative"/><DrvStCtn><DrvSt><Wd CyrId="тернемс">t́eŕńems</Wd></DrvSt></DrvStCtn></DrvG>
+<l_drv drvType="causative" CyrId="тернемс">t́eŕńems</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">заставить дрожать</t>
@@ -22005,7 +21999,7 @@ ChrE
 </GeoUB>
 </PhnUBlock>
 </lg>
-<DrvG>(<DrvT vl="inchoative"/><DrvStCtn><DrvSt><Wd CyrId="тернемс">t́eŕńems</Wd></DrvSt></DrvStCtn><DrvStCtn><DrvSt><Wd CyrId="тярнемс">t́äŕńəms</Wd></DrvSt></DrvStCtn>)</DrvG>
+<DrvG>(<l_drv drvType="inchoative" CyrId="тернемс">t́eŕńems</l_drv><l_drv drvType="inchoative" CyrId="тярнемс">t́äŕńəms</l_drv>)</DrvG>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">пошатнуться</t>
@@ -22221,8 +22215,6 @@ ChrE
 <mg>
 <tg xml:lang="rus">
 <t>есть</t>
-</tg>
-<tg xml:lang="rus">
 <t edit="MK">имеется</t>
 </tg>
 <tg xml:lang="deu">
