@@ -1,6 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="myv">
   <e>
+<stem_name xml:lang="myv" hid="1" pos="CS" lemma="сётоки"/>
+<stem_name xml:lang="mdf" hid="1" pos="" lemma="сётаки"/>
+<HWB>
+<E3Head><POS pos="N"/><deriv isa="prt-I"/></E3Head>
+<lg xml:lang="myv"><l pos="Adv">сётоки</l>
+<st>сётоки</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="сётᴉ͐ки">śotᴉ͐ḱi</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Nask</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg xml:lang="mdf"><l pos="Adv">сётаки</l>
+<st>сётаки</st>
+<PhnUBlock>
+<PhnU>
+<Wd mdfId="сётаки">śotaḱi</Wd>
+</PhnU>
+<GeoUB xml:lang="mdf">
+<GeoU/>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">всё же</t>
+<t edit="MK">однако</t>
+<t edit="MK">всё-таки</t>
+</tg>
+<tg xml:lang="deu">
+<t edit="MK">trotzdem</t>
+<t edit="MK">doch</t>
+<t edit="MK">dennoch</t>
+</tg>
+</mg>
+<xg>
+<x>
+<Wd myvId="ну">nu</Wd>
+<Wd myvId="сётᴉ͐ки">śotᴉ͐ḱi</Wd>
+<Wd myvId="следᴉ͐за">śĺedᴉ͐za</Wd>
+<Wd myvId="муювсь">mujuv́ś</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Nask</GeoU>
+</GeoUB>
+<sources>
+<book name="III" pg="243"/>
+</sources>
+<xt xml:lang="deu">Doch nun haben wir eine Spur gefunden.</xt>
+</xg>
+</HWB>
+<Etg>
+<EtSrcL xml:lang="rus"/>
+<Et>всё-таки</Et>
+</Etg>
+</e>
+  <e>
 <root_ref xml:lang="myv" hid="2" pos="N" lemma=""/>
 <root_ref xml:lang="mdf" hid="2" pos="N" lemma="норт"/>
 <HWB>
