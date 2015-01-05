@@ -1,122 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="myv">
   <e>
-<stem_name xml:lang="myv" hid="2" pos="A" lemma="XX"/>
-<stem_name xml:lang="mdf" hid="2" pos="A" lemma="прястальнай"/>
-<HWB>
-<E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="A">XX</l><st/>
-</lg>
-<lg xml:lang="mdf"><l pos="A">прястальнай</l>
-<st>прястальнай</st>
-<PhnUBlock>
-<PhnU>
-<Wd mdfId="прястальнай">pŕästaĺnaj</Wd>
-</PhnU>
-</PhnUBlock>
-</lg>
-<mg>
-<Sense vl="notGiven"/>
-</mg>
-<xg>
-:
-</xg>
-</HWB>
-<MWUB>
-<E3Head><POS/><deriv isa="Dem"/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="N"/><st/>
-</lg>
-<lg xml:lang="mdf"><l pos="N">прястальнай кудня</l>
-<st>прястальнай кудня</st>
-<PhnUBlock>
-<PhnU>
-<Wd mdfId="прястальнай">pŕästaĺnaj</Wd>
-<Wd mdfId="кудня">kudńä</Wd>
-</PhnU>
-<GeoUB xml:lang="mdf">
-<GeoU>Temn</GeoU>
-</GeoUB>
-</PhnUBlock>
-</lg>
-<l_drv drvType="diminutive"></l_drv>
-<mg>
-<tg xml:lang="rus">
-<t edit="MK">постоялый двор</t>
-<t edit="MK">трактир</t>
-<t edit="MK">гостиница</t>
-</tg>
-<tg xml:lang="deu">
-<t>Herberge</t>
-<t pos="N">Wirtshaus</t>
-<t pos="N">Gasthaus</t>
-</tg>
-</mg>
-.
-<xg>
-<x>
-<Wd mdfId="веля">v́eĺä</Wd>
-<Hph edit="MK"/>
-<Wd mdfId="пеняса">ṕeńasa</Wd>
-<Wd mdfId="прястальнай">pŕästaĺnaj</Wd>
-<Wd mdfId="кудня">kudńä</Wd>
-<tk3 isa="comma"/>
-<Wd mdfId="прястальнай">pŕästaĺnaj</Wd>
-<Wd mdfId="кудня">kudńä</Wd>
-<tk3 isa="comma"/>
-<Wd mdfId="стаяльнай">stajaĺnaj</Wd>
-<Wd mdfId="домня">doḿńä</Wd>
-</x>
-<GeoUB xml:lang="mdf">
-<GeoU>Temn</GeoU>
-</GeoUB>
-<sources>
-<book name="VIII" pg="306"/>
-</sources>
-<xt xml:lang="deu">Am Dorfende (steht) ein Wirtshaus, ein Wirtshaus, ein Gasthaus.</xt>
-</xg>
-</MWUB>
-<Etg>
-<EtSrcL edit="MK" xml:lang="rus"/>
-<EtCtn>
-<Et edit="MK">пристальный</Et>
-</EtCtn>
-</Etg>
-</e>
-  <e>
-<stem_name xml:lang="myv" hid="2" pos="A" lemma="XX"/>
-<stem_name xml:lang="mdf" hid="2" pos="A" lemma="плгавернай"/>
-<HWB>
-<E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="A">XX</l><st/>
-</lg>
-<lg xml:lang="mdf"><l pos="A">плгавернай</l>
-<st>пәлгавернай</st>
-<PhnUBlock>
-<PhnU>
-<Wd mdfId="пə̑лгаве·рнай">pə̑lgav́e·rnaj</Wd>
-</PhnU>
-<GeoUB xml:lang="mdf">
-<GeoU>Pš</GeoU>
-</GeoUB>
-</PhnUBlock>
-</lg>
-<mg>
-<tg xml:lang="rus">
-<t edit="MK">правоверный</t>
-</tg>
-<tg xml:lang="deu">
-<t>rechtgläubig</t>
-</tg>
-</mg>
-</HWB>
-<Etg>
-<EtSrcL xml:lang="rus"/>
-<Et>благове́рный</Et>
-</Etg>
-</e>
-  <e>
-    <stem_ref xml:lang="myv" hid="2" pos="Interj" lemma="незнай"/>
-    <stem_ref xml:lang="mdf" hid="2" pos="Interj" lemma=""/>
+<root_ref xml:lang="myv" hid="2" pos="Interj" lemma="незнай"/>
+<root_ref xml:lang="mdf" hid="2" pos="Interj" lemma=""/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="N">незнайка</l>
@@ -166,548 +52,8 @@
 </Etg>
 </e>
   <e>
-    <stem_ref xml:lang="myv" hid="2" pos="Interj" lemma="незнай"/>
-    <stem_ref xml:lang="mdf" hid="2" pos="Interj" lemma=""/>
-<HWB>
-<E3Head><POS/></E3Head>
-<lg xml:lang="myv"><l pos="A">незнамой</l>
-<st>незнамой</st>
-<PhnUBlock>
-<PhnU>
-<Wd myvId="незнамой">ńeznamoj</Wd>
-</PhnU>
-<GeoUB xml:lang="myv">
-<GeoU>Af</GeoU>
-</GeoUB>
-</PhnUBlock>
-</lg>
-<lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
-</lg>
-<mg>
-<tg xml:lang="rus">
-<t edit="MK">незнакомый</t>
-</tg>
-<tg xml:lang="deu">
-<t>unbekannt</t>
-</tg>
-</mg>
-<xg>
-<x>
-<Wd myvId="кодамо">kodamo</Wd>
-<Wd myvId="кулыстэ">kuli͔ste͔</Wd>
-<Hph edit="MK"/>
-<Wd myvId="ёмистэ">joḿiste͔</Wd>
-<Wd myvId="петране">ṕetrańe</Wd>
-<tk3 isa="comma"/>
-<Wd myvId="знамойстэ">znamojste͔</Wd>
-<Wd myvId="кодамо">kodamo</Wd>
-<Wd myvId="незнамойстэ">ńeznamojste͔</Wd>
-<Wd myvId="велявсь">v́eĺavś</Wd>
-<tk3 isa="comma"/>
-<Wd myvId="простинк">prośt́iŋḱ</Wd>
-<Hph edit="MK"/>
-<Wd myvId="милостинк">ḿilośt́iŋḱ</Wd>
-</x>
-<GeoUB xml:lang="myv">
-<GeoU>Af</GeoU>
-</GeoUB>
-<sources>
-<book name="III" pg="159"/>
-</sources>
-<xt xml:lang="deu">Von welchem, dem Petra bekannten Verstorbenen, von welchem Unbekannten auch (die Krankheit) gekommen ist, erlöst ihn, erbarmt euch seiner!</xt>
-</xg>
-</HWB>
-<Etg>
-<EtSrcL edit="MK" xml:lang="rus"/>
-<EtCtn>
-<Et edit="MK">незна́емый</Et>
-</EtCtn>
-</Etg>
-</e>
-  <e>
-    <stem_ref xml:lang="myv" hid="2" pos="Num" lemma="сисем"/>
-    <stem_ref xml:lang="mdf" hid="2" pos="Num" lemma="сисем"/>
-<HWB>
-<E3Head><POS pos="Attr-Tra"/></E3Head>
-<lg xml:lang="myv"><l pos="A">сисеметькс</l>
-<st>сисеметькс</st>
-<PhnUBlock>
-<PhnU>
-<Wd myvId="сисе·метькс">śiśe·ḿet́ks</Wd>
-</PhnU>
-<GeoUB xml:lang="myv">
-<GeoU>Mar</GeoU>
-</GeoUB>
-<InflB>
-<InflCtn>
-<InflTags tag="+SP+Gen+Indef"/>
-<Infl>
-<Wd myvId="сисе·метьксынь">śiśe·ḿet́ksi͔ń</Wd>
-</Infl>
-</InflCtn>
-</InflB>
-</PhnUBlock>
-</lg>
-<lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
-</lg>
-<mg>
-<tg xml:lang="rus">
-<t edit="MK">седьмой</t>
-</tg>
-<tg xml:lang="deu">
-<t>der siebente</t>
-</tg>
-</mg>
-</HWB>
-</e>
-  <e>
-    <stem_ref xml:lang="myv" hid="2" pos="Num" lemma="сисем"/>
-    <stem_ref xml:lang="mdf" hid="2" pos="Num" lemma="сисем"/>
-<HWB>
-<E3Head><POS pos="N"/><deriv isa="prt-CE"/></E3Head>
-<lg xml:lang="myv"><l pos="A">сисемеце</l>
-<st>сисеметсе</st>
-<PhnUBlock>
-<Chc>
-<Vrt>
-<PhnU>
-<Wd myvId="сись̀эметьсе">śiś̀eḿet́śe</Wd>
-</PhnU>
-</Vrt>
-<Vrt>
-<PhnU>
-<Wd myvId="сисьметьсе">śiśḿet́śe</Wd>
-</PhnU>
-</Vrt>
-<Vrt><PhnU>
-<Wd myvId="сись̀эмтьсе">śiś̀eḿt́śe</Wd>
-</PhnU>
-</Vrt>
-</Chc>
-<sources>
-<book name="Chr" xml:lang="myv"/>
-</sources>
-</PhnUBlock>
-<PhnUBlock>
-<PhnU>
-<Wd myvId="сисемеце">śiśeḿeće</Wd>
-</PhnU>
-<GeoUB xml:lang="myv">
-<GeoU>Mar</GeoU>
-</GeoUB>
-</PhnUBlock>
-</lg>
-<lg xml:lang="mdf"><l pos="A">сисемтсе</l>
-<st>сисемтсе</st>
-<PhnUBlock>
-<PhnU>
-<Wd mdfId="сись̀əмтьсьɛ̆">śiś̀əḿt́śɛ̆</Wd>
-</PhnU>
-<sources>
-<book name="Chr" xml:lang="mdf"/>
-</sources>
-</PhnUBlock>
-</lg>
-<mg>
-<tg xml:lang="rus">
-<t edit="MK">седьмой</t>
-</tg>
-<tg xml:lang="deu">
-<t>der siebente</t>
-</tg>
-</mg>
-<xg>
-<x>
-<Wd myvId="кавто">kavto</Wd>
-<Wd edit="MK" myvId="ашчить">ašči͔t́</Wd>
-<tk3 isa="comma"/>
-<Wd myvId="кавто">kavto</Wd>
-<Wd myvId="удыть">udi͔t́</Wd>
-<tk3 isa="comma"/>
-<Wd myvId="ветеце">v́et́eće</Wd>
-<Wd myvId="яки">jaḱi</Wd>
-<tk3 isa="comma"/>
-<Wd myvId="котоце">kotoće</Wd>
-<Wd myvId="ветни">v́et́ńi</Wd>
-<tk3 isa="comma"/>
-<Wd myvId="сисемеце">śiśeḿeće</Wd>
-<Wd myvId="морот">morot</Wd>
-<Wd myvId="моры">mori͔</Wd>
-<tk3 isa="fullstop"/>
-<Wd myvId="–">–</Wd>
-<Wd myvId="кенкшысь">ḱeŋkši͔ś</Wd>
-</x>
-<GeoUB xml:lang="myv">
-<GeoU>Mar</GeoU>
-</GeoUB>
-<sources>
-<book name="2" pg="33"/>
-</sources>
-<xt xml:lang="deu">Zwei wachen, zwei schlafen, der fünfte geht, der sechste dient als Führer, der siebente singt Lieder. – Die Tür.</xt>
-</xg>
-</HWB>
-</e>
-  <e>
-<stem_name xml:lang="myv" hid="2" pos="A" lemma="тузов"/>
-<stem_name xml:lang="mdf" hid="2" pos="A" lemma=""/>
-<HWB>
-<E3Head><POS/></E3Head>
-<lg xml:lang="myv"><l pos="A">тузов</l>
-<st>тузов</st>
-<PhnUBlock>
-<PhnU>
-<Wd myvId="тузов">tuzov</Wd>
-</PhnU>
-<GeoUB xml:lang="myv">
-<GeoU>NSurk</GeoU>
-</GeoUB>
-</PhnUBlock>
-</lg>
-<lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
-</lg>
-<mg>
-<t xml:lang="rus">[импр. паралл. слово без значения к <FrnTxt><Wd CyrId="тазов">tazov</Wd></FrnTxt></t>
-<t xml:lang="deu">bedeutungsloses, impr. (<cl id="pair">Par.-Wort zu <FrnTxt><Wd CyrId="тазов">tazov</Wd></FrnTxt></cl>)</t>
-</mg>
-;
-<mg>
-<tg xml:lang="rus">
-<t>? шелудивый</t>
-</tg>
-<tg xml:lang="deu">
-<t>? grindig</t>
-<t>räudig</t>
-<t>krätzig]</t>
-</tg>
-</mg>
-<xg>
-<x>
-<Wd myvId="шачтак">šačtak</Wd>
-<Wd myvId="тейтерь">t́ejt́eŕ</Wd>
-<Hph edit="MK"/>
-<Wd myvId="кака">kaka</Wd>
-<tk3 isa="comma"/>
-<Wd myvId="тузов">tuzov</Wd>
-<Hph edit="MK"/>
-<Wd myvId="тазов">tazov</Wd>
-<Wd myvId="улезэ">uĺeze͔</Wd>
-</x>
-<GeoUB xml:lang="myv">
-<GeoU>NSurk</GeoU>
-</GeoUB>
-<sources>
-<book name="II" pg="119"/>
-</sources>
-<xt xml:lang="deu">Du sollst ein Mädchen gebären, es soll grindig und krätzig sein.</xt>
-</xg>
-</HWB>
-</e>
-  <e>
-    <stem_ref xml:lang="myv" hid="2" pos="N" lemma=""/>
-    <stem_ref xml:lang="mdf" hid="2" pos="N" lemma="норт"/>
-<HWB>
-<E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Ad-A"/><st/>
-</lg>
-<lg xml:lang="mdf"><l pos="Ad-A">норшт</l>
-<st>норшт</st>
-<PhnUBlock>
-<PhnU>
-<Wd mdfId="норшт">noršt</Wd>
-</PhnU>
-<GeoUB xml:lang="mdf">
-<GeoU>P</GeoU>
-</GeoUB>
-</PhnUBlock>
-<PhnUBlock>
-<PhnU>
-<Wd mdfId="норхч́к">norʿč́k</Wd>
-</PhnU>
-<GeoUB xml:lang="mdf">
-<GeoU>Pš</GeoU>
-</GeoUB>
-</PhnUBlock>
-</lg>
-<mg>
-<Sense vl="notGiven"/>
-</mg>
-<xg>
-:
-</xg>
-</HWB>
-<MWUB>
-<E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="N"/><st/>
-</lg>
-<lg xml:lang="mdf"><l pos="N">норшт абед</l>
-<st>норшт абед</st>
-<PhnUBlock>
-<PhnU>
-<Wd mdfId="норшт">noršt</Wd>
-<Wd mdfId="абед">ab́ed</Wd>
-</PhnU>
-<GeoUB xml:lang="mdf">
-<GeoU>P</GeoU>
-</GeoUB>
-</PhnUBlock>
-<PhnUBlock>
-<PhnU>
-<Wd mdfId="норхч́к">norʿč́k</Wd>
-<Wd mdfId="абед">ab́ed</Wd>
-</PhnU>
-<GeoUB xml:lang="mdf">
-<GeoU>Pš</GeoU>
-</GeoUB>
-</PhnUBlock>
-</lg>
-<mg>
-<tg xml:lang="rus">
-<t edit="MK">середина дня</t>
-</tg>
-<tg xml:lang="deu">
-<t>Mittag</t>
-</tg>
-(<dfQsyn1 rel="syn">“<FrnTxt><Wd CyrId="лоткаф">lotkaf</Wd>
-<Wd CyrId="абе·д">ab́e·d</Wd></FrnTxt> der angehaltene Mittag”</dfQsyn1>)</mg>
-<xg>
-<x>
-<Wd mdfId="н">n</Wd>
-<tk3 isa="fullstop"/>
-<Wd mdfId="абе·д">ab́e·d</Wd>
-<tk3 isa="comma"/>
-<Wd mdfId="лоткась">lotkaś</Wd>
-<Wd mdfId="шись">šiś</Wd>
-</x>
-<GeoUB xml:lang="mdf">
-<GeoU>P</GeoU>
-</GeoUB>
-<xt xml:lang="deu">Pš Es ist Mittag, die Sonne ist stehengeblieben.</xt>
-</xg>
-<xg>
-<x>
-<Wd mdfId="сон">son</Wd>
-<Wd mdfId="сась">saś</Wd>
-<Wd mdfId="норхч́к">norʿč́k</Wd>
-<Wd mdfId="абе·цта">ab́e·cta</Wd>
-</x>
-<GeoUB xml:lang="mdf">
-<GeoU>Pš</GeoU>
-</GeoUB>
-<xt xml:lang="deu">Er kam gerade am Mittag an.</xt>
-</xg>
-</MWUB>
-<MWUB>
-<E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Adv"/><st/>
-</lg>
-<lg xml:lang="mdf"><l pos="Adv">н абец</l>
-<st>н абец</st>
-<PhnUBlock>
-<PhnU>
-<Wd mdfId="н.">n.</Wd>
-<Wd mdfId="абе·ц">ab́e·c</Wd>
-</PhnU>
-<GeoUB xml:lang="mdf">
-<GeoU>P</GeoU>
-<GeoU>Pš</GeoU>
-</GeoUB>
-</PhnUBlock>
-</lg>
-<mg>
-<tg xml:lang="rus">
-<t edit="MK">до середины дня</t>
-</tg>
-<tg xml:lang="deu">
-<t>bis Mittag</t>
-</tg>
-</mg>
-</MWUB>
-<MWUB>
-<E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Adv"/><st/>
-</lg>
-<lg xml:lang="mdf"><l pos="Adv">н илятс</l>
-<st>н илятс</st>
-<PhnUBlock>
-<PhnU>
-<Wd mdfId="н.">n.</Wd>
-<Wd mdfId="илятьс">iĺät́s</Wd>
-</PhnU>
-<GeoUB xml:lang="mdf">
-<GeoU>P</GeoU>
-<GeoU>Pš</GeoU>
-</GeoUB>
-</PhnUBlock>
-</lg>
-<mg>
-<tg xml:lang="rus">
-<t edit="MK">до позднего вечера</t>
-</tg>
-<tg xml:lang="deu">
-<t>bis spät abends</t>
-</tg>
-</mg>
-<xg>
-<x>
-<Wd mdfId="сон">son</Wd>
-<Wd mdfId="илятсь">iĺa·tś</Wd>
-<Wd mdfId="норхтш́к">norʿtš́k</Wd>
-<Wd mdfId="илятьс">iĺä·t́s</Wd>
-</x>
-<GeoUB xml:lang="mdf">
-<GeoU>Pš</GeoU>
-</GeoUB>
-<xt xml:lang="deu">Er blieb bis spät abends (= bis zur Dämmerung).</xt>
-</xg>
-</MWUB>
-</e>
-  <e>
-<stem_name xml:lang="myv" hid="2" pos="Adv" lemma="XX"/>
-<stem_name xml:lang="mdf" hid="2" pos="Adv" lemma="пльцьком"/>
-<HWB>
-<E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Adv">XX</l><st/>
-</lg>
-<lg xml:lang="mdf"><l pos="Adv">пльцьком</l>
-<st>пәльцьком</st>
-<PhnUBlock>
-<PhnU>
-<Wd mdfId="пə̑льцьком">pə̑ĺćkom</Wd>
-</PhnU>
-<GeoUB xml:lang="mdf">
-<GeoU>Temn</GeoU>
-</GeoUB>
-</PhnUBlock>
-</lg>
-<mg>
-<tg xml:lang="rus">
-<t>земно</t>
-</tg>
-<tg xml:lang="deu">
-<t>auf den Boden</t>
-</tg>
-(<dfQsyn1 rel="syn"><dfQsyn2><i><tk2>
-<Wd CyrId="мастор">mastə̑r</Wd>
-<Wd CyrId="ваксс">vakss</Wd></tk2></i></dfQsyn2>
-<GeoUB xml:lang="mdf">
-<GeoU>Sp</GeoU>
-</GeoUB>
-</dfQsyn1>)</mg>
-</HWB>
-<Etg>
-<EtSrcL edit="MK" xml:lang="rus"/>
-<EtCtn>
-<Et edit="MK">ползко́м</Et>
-</EtCtn>[
-</Etg>;
-<Etg>
-vgl. auch <Et>
-<Wd CyrId="пуляза">puĺaza</Wd></Et>: <Et>
-<Wd CyrId="пульᵈ́зямс">puĺᵈ́źams</Wd></Et>, <Et>
-<Wd CyrId="пульськадьмекс">puĺśkad́ḿeks</Wd></Et>]
-</Etg>
-</e>
-  <e>
-    <stem_ref xml:lang="myv" hid="2" pos="Num" lemma="сисем"/>
-    <stem_ref xml:lang="mdf" hid="2" pos="Num" lemma="сисем"/>
-<HWB>
-<E3Head><POS/></E3Head>
-<lg xml:lang="myv"><l pos="Adv">сисемей</l>
-<st>сисемей</st>
-<PhnUBlock>
-<PhnU>
-<Wd myvId="сисемей">śiśeḿej</Wd>
-</PhnU>
-<GeoUB xml:lang="myv">
-<GeoU>Mar</GeoU>
-</GeoUB>
-</PhnUBlock>
-<PhnUBlock>
-<PhnU>
-<Wd myvId="сисемев">śiśeḿev</Wd>
-</PhnU>
-<GeoUB xml:lang="myv">
-<GeoU>Kozl</GeoU>
-</GeoUB>
-</PhnUBlock>
-</lg>
-<lg edit="JMR" xml:lang="mdf"><l pos="Adv"/><st/>
-</lg>
-<DrvG>(<Cx vl="lative"/>)</DrvG>
-<mg>
-<tg xml:lang="rus">
-<t edit="MK">на семь частей</t>
-</tg>
-<tg xml:lang="deu">
-<t>in sieben Teile</t>
-</tg>
-<dfQl1>(
-<GeoUB xml:lang="myv">
-<GeoU>Mar</GeoU>
-</GeoUB>
-)</dfQl1>
-</mg>
-;
-<mg>
-<tg xml:lang="rus">
-<t edit="MK">в семи направлениях</t>
-</tg>
-<tg xml:lang="deu">
-<t>in sieben Richtungen</t>
-</tg>
-<dfQl1>(
-<GeoUB xml:lang="myv">
-<GeoU>Kozl</GeoU>
-</GeoUB>
-)</dfQl1>
-</mg>
-<xg>
-<x>
-<Wd myvId="боцькась">boćkaś</Wd>
-<Wd myvId="сисемей">śiśeḿej</Wd>
-<Wd myvId="пукштаць">pukštać</Wd>
-</x>
-<GeoUB xml:lang="myv">
-<GeoU>Mar</GeoU>
-</GeoUB>
-<sources>
-<book name="2" pg="105"/>
-</sources>
-<xt xml:lang="deu">Die Tonne zersprang in sieben Teile.</xt>
-</xg>
-</HWB>
-</e>
-  <e>
-    <stem_ref xml:lang="myv" hid="2" pos="Num" lemma="сисем"/>
-    <stem_ref xml:lang="mdf" hid="2" pos="Num" lemma="сисем"/>
-<HWB>
-<E3Head><POS/></E3Head>
-<lg xml:lang="myv"><l pos="Adv">сисемцеде</l>
-<st>сисемцеде</st>
-<PhnUBlock>
-<PhnU>
-<Wd myvId="сисемцеде">śiśemćed́e</Wd>
-</PhnU>
-<GeoUB xml:lang="myv">
-<GeoU>Večk</GeoU>
-</GeoUB>
-</PhnUBlock>
-</lg>
-<lg edit="JMR" xml:lang="mdf"><l pos="Adv"/><st/>
-</lg>
-<mg>
-<tg xml:lang="rus">
-<t edit="MK">в седьмой раз</t>
-</tg>
-<tg xml:lang="deu">
-<t>zum siebenten Mal</t>
-</tg>
-</mg>
-</HWB>
-</e>
-  <e>
-<stem_name xml:lang="myv" hid="2" pos="Ideoph" lemma="XX"/>
-<stem_name xml:lang="mdf" hid="2" pos="Ideoph" lemma="чик"/>
+<root_name xml:lang="myv" hid="2" pos="Ideoph" lemma="XX"/>
+<root_name xml:lang="mdf" hid="2" pos="Ideoph" lemma="чик"/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="Ideoph">XX</l><st/>
@@ -760,8 +106,8 @@ vgl. auch <Et>
 </Etg>
 </e>
   <e>
-    <stem_ref xml:lang="myv" hid="2" pos="Interj" lemma="XX"/>
-    <stem_ref xml:lang="mdf" hid="2" pos="Interj" lemma="пав"/>
+<root_ref xml:lang="myv" hid="2" pos="Interj" lemma="XX"/>
+<root_ref xml:lang="mdf" hid="2" pos="Interj" lemma="пав"/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="Interj"/><st/>
@@ -836,8 +182,8 @@ vgl. auch <Et>
 </HWB>
 </e>
   <e>
-    <stem_ref xml:lang="myv" hid="2" pos="Interj" lemma="ох"/>
-    <stem_ref xml:lang="mdf" hid="2" pos="Interj" lemma="ох"/>
+<root_ref xml:lang="myv" hid="2" pos="Interj" lemma="ох"/>
+<root_ref xml:lang="mdf" hid="2" pos="Interj" lemma="ох"/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="Interj"/><st/>
@@ -909,8 +255,8 @@ vgl. auch <Et>
 </HWB>
 </e>
   <e>
-    <stem_ref xml:lang="myv" hid="2" pos="Interj" lemma="тык"/>
-    <stem_ref xml:lang="mdf" hid="2" pos="Interj" lemma="тәк"/>
+<root_ref xml:lang="myv" hid="2" pos="Interj" lemma="тык"/>
+<root_ref xml:lang="mdf" hid="2" pos="Interj" lemma="тәк"/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="Interj"/><st/>
@@ -975,8 +321,8 @@ vgl. auch <Et>
 </HWB>
 </e>
   <e>
-<stem_name xml:lang="myv" hid="2" pos="Interj" lemma="XX"/>
-<stem_name xml:lang="mdf" hid="2" pos="Interj" lemma="псюрк-псюрк"/>
+<root_name xml:lang="myv" hid="2" pos="Interj" lemma="XX"/>
+<root_name xml:lang="mdf" hid="2" pos="Interj" lemma="псюрк-псюрк"/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="Interj">XX</l><st/>
@@ -1005,8 +351,8 @@ vgl. auch <Et>
 </HWB>
 </e>
   <e>
-<stem_name xml:lang="myv" hid="2" pos="Interj" lemma="XX"/>
-<stem_name xml:lang="mdf" hid="2" pos="Interj" lemma="тпр"/>
+<root_name xml:lang="myv" hid="2" pos="Interj" lemma="XX"/>
+<root_name xml:lang="mdf" hid="2" pos="Interj" lemma="тпр"/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="Interj">XX</l><st/>
@@ -1057,8 +403,8 @@ vgl. auch <Et>
 </HWB>
 </e>
   <e>
-<stem_name xml:lang="myv" hid="2" pos="Interj" lemma="XX"/>
-<stem_name xml:lang="mdf" hid="2" pos="Interj" lemma="тьфа"/>
+<root_name xml:lang="myv" hid="2" pos="Interj" lemma="XX"/>
+<root_name xml:lang="mdf" hid="2" pos="Interj" lemma="тьфа"/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="Interj">XX</l><st/>
@@ -1094,8 +440,8 @@ vgl. auch <Et>
 </HWB>
 </e>
   <e>
-<stem_name xml:lang="myv" hid="2" pos="Interj" lemma="XX"/>
-<stem_name xml:lang="mdf" hid="2" pos="Interj" lemma="тюлю-балю"/>
+<root_name xml:lang="myv" hid="2" pos="Interj" lemma="XX"/>
+<root_name xml:lang="mdf" hid="2" pos="Interj" lemma="тюлю-балю"/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="Interj">XX</l><st/>
@@ -1126,8 +472,8 @@ vgl. auch <Et>
 </HWB>
 </e>
   <e>
-<stem_name xml:lang="myv" hid="2" pos="Interj" lemma="XX"/>
-<stem_name xml:lang="mdf" hid="2" pos="Interj" lemma="тютю"/>
+<root_name xml:lang="myv" hid="2" pos="Interj" lemma="XX"/>
+<root_name xml:lang="mdf" hid="2" pos="Interj" lemma="тютю"/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="Interj">XX</l><st/>
@@ -1319,8 +665,8 @@ vgl. auch <Et>
 </MWUB>
 </e>
   <e>
-<stem_name xml:lang="myv" hid="2" pos="Interj" lemma="XX"/>
-<stem_name xml:lang="mdf" hid="2" pos="Interj" lemma="уть-уть-уть"/>
+<root_name xml:lang="myv" hid="2" pos="Interj" lemma="XX"/>
+<root_name xml:lang="mdf" hid="2" pos="Interj" lemma="уть-уть-уть"/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="Interj">XX</l><st/>
@@ -1358,8 +704,8 @@ vgl. auch <Et>
 </Etg>
 </e>
   <e>
-<stem_name xml:lang="myv" hid="2" pos="Interj" lemma="XX"/>
-<stem_name xml:lang="mdf" hid="2" pos="Interj" lemma="ця"/>
+<root_name xml:lang="myv" hid="2" pos="Interj" lemma="XX"/>
+<root_name xml:lang="mdf" hid="2" pos="Interj" lemma="ця"/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="Interj">XX</l><st/>
@@ -1432,8 +778,8 @@ vgl. auch <Et>
 </MWUB>
 </e>
   <e>
-<stem_name xml:lang="myv" hid="2" pos="Interj" lemma="XX"/>
-<stem_name xml:lang="mdf" hid="2" pos="Interj" lemma="чо"/>
+<root_name xml:lang="myv" hid="2" pos="Interj" lemma="XX"/>
+<root_name xml:lang="mdf" hid="2" pos="Interj" lemma="чо"/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="Interj">XX</l><st/>
@@ -1466,8 +812,8 @@ vgl. auch <Et>
 </HWB>
 </e>
   <e>
-<stem_name xml:lang="myv" hid="2" pos="Interj" lemma="XX"/>
-<stem_name xml:lang="mdf" hid="2" pos="Interj" lemma="шиньдю"/>
+<root_name xml:lang="myv" hid="2" pos="Interj" lemma="XX"/>
+<root_name xml:lang="mdf" hid="2" pos="Interj" lemma="шиньдю"/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="Interj">XX</l><st/>
@@ -1494,8 +840,8 @@ vgl. auch <Et>
 </HWB>
 </e>
   <e>
-<stem_name xml:lang="myv" hid="2" pos="Interj" lemma="XX"/>
-<stem_name xml:lang="mdf" hid="2" pos="Interj" lemma="пав"/>
+<root_name xml:lang="myv" hid="2" pos="Interj" lemma="XX"/>
+<root_name xml:lang="mdf" hid="2" pos="Interj" lemma="пав"/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="Interj">XX</l><st/>
@@ -1543,8 +889,8 @@ vgl. auch <Et>
 </MWUB>
 </e>
   <e>
-<stem_name xml:lang="myv" hid="2" pos="Interj" lemma="дягу"/>
-<stem_name xml:lang="mdf" hid="2" pos="Interj" lemma=""/>
+<root_name xml:lang="myv" hid="2" pos="Interj" lemma="дягу"/>
+<root_name xml:lang="mdf" hid="2" pos="Interj" lemma=""/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="Interj">дягу</l>
@@ -1591,8 +937,8 @@ vgl. auch <Et>
 </HWB>
 </e>
   <e>
-<stem_name xml:lang="myv" hid="2" pos="Interj" lemma="лойлях"/>
-<stem_name xml:lang="mdf" hid="2" pos="Interj" lemma=""/>
+<root_name xml:lang="myv" hid="2" pos="Interj" lemma="лойлях"/>
+<root_name xml:lang="mdf" hid="2" pos="Interj" lemma=""/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="Interj">лойлях</l>
@@ -1701,8 +1047,8 @@ vgl. auch <Et>
 </Etg>
 </e>
   <e>
-<stem_name xml:lang="myv" hid="2" pos="Interj" lemma="машк"/>
-<stem_name xml:lang="mdf" hid="2" pos="Interj" lemma="машк"/>
+<root_name xml:lang="myv" hid="2" pos="Interj" lemma="машк"/>
+<root_name xml:lang="mdf" hid="2" pos="Interj" lemma="машк"/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="Interj">машк</l>
@@ -1738,8 +1084,8 @@ vgl. auch <Et>
 </HWB>
 </e>
   <e>
-<stem_name xml:lang="myv" hid="2" pos="Interj" lemma="на"/>
-<stem_name xml:lang="mdf" hid="2" pos="Interj" lemma="на"/>
+<root_name xml:lang="myv" hid="2" pos="Interj" lemma="на"/>
+<root_name xml:lang="mdf" hid="2" pos="Interj" lemma="на"/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="Interj">на</l>
@@ -2370,8 +1716,8 @@ vgl. auch <Et>
 </Etg>
 </e>
   <e>
-<stem_name xml:lang="myv" hid="2" pos="Interj" lemma="незнай"/>
-<stem_name xml:lang="mdf" hid="2" pos="Interj" lemma=""/>
+<root_name xml:lang="myv" hid="2" pos="Interj" lemma="незнай"/>
+<root_name xml:lang="mdf" hid="2" pos="Interj" lemma=""/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="Interj">незнай</l>
@@ -2444,8 +1790,8 @@ vgl. auch <Et>
 </Etg>
 </e>
   <e>
-<stem_name xml:lang="myv" hid="2" pos="Interj" lemma="нето"/>
-<stem_name xml:lang="mdf" hid="2" pos="Interj" lemma=""/>
+<root_name xml:lang="myv" hid="2" pos="Interj" lemma="нето"/>
+<root_name xml:lang="mdf" hid="2" pos="Interj" lemma=""/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="Interj">нето</l>
@@ -2515,8 +1861,8 @@ vgl. auch <Et>
 </Etg>
 </e>
   <e>
-<stem_name xml:lang="myv" hid="2" pos="Interj" lemma="нечево"/>
-<stem_name xml:lang="mdf" hid="2" pos="Interj" lemma=""/>
+<root_name xml:lang="myv" hid="2" pos="Interj" lemma="нечево"/>
+<root_name xml:lang="mdf" hid="2" pos="Interj" lemma=""/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="Interj">нечево</l>
@@ -2563,8 +1909,8 @@ vgl. auch <Et>
 </Etg>
 </e>
   <e>
-<stem_name xml:lang="myv" hid="2" pos="Interj" lemma="ну"/>
-<stem_name xml:lang="mdf" hid="2" pos="Interj" lemma=""/>
+<root_name xml:lang="myv" hid="2" pos="Interj" lemma="ну"/>
+<root_name xml:lang="mdf" hid="2" pos="Interj" lemma=""/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="Interj">ну</l>
@@ -2733,8 +2079,8 @@ vgl. auch <Et>
 </Etg>
 </e>
   <e>
-<stem_name xml:lang="myv" hid="2" pos="Interj" lemma="нурт"/>
-<stem_name xml:lang="mdf" hid="2" pos="Interj" lemma=""/>
+<root_name xml:lang="myv" hid="2" pos="Interj" lemma="нурт"/>
+<root_name xml:lang="mdf" hid="2" pos="Interj" lemma=""/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="Interj">нурт</l>
@@ -2807,8 +2153,8 @@ vgl. auch <Et>
 </Etg>
 </e>
   <e>
-<stem_name xml:lang="myv" hid="2" pos="Interj" lemma="нуш"/>
-<stem_name xml:lang="mdf" hid="2" pos="Interj" lemma="нуш"/>
+<root_name xml:lang="myv" hid="2" pos="Interj" lemma="нуш"/>
+<root_name xml:lang="mdf" hid="2" pos="Interj" lemma="нуш"/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="Interj">нуш</l>
@@ -2950,8 +2296,8 @@ vgl. auch <Et>
 </Etg>
 </e>
   <e>
-<stem_name xml:lang="myv" hid="2" pos="Interj" lemma="онот"/>
-<stem_name xml:lang="mdf" hid="2" pos="Interj" lemma=""/>
+<root_name xml:lang="myv" hid="2" pos="Interj" lemma="онот"/>
+<root_name xml:lang="mdf" hid="2" pos="Interj" lemma=""/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="Interj">онот</l>
@@ -3137,8 +2483,8 @@ vgl. auch <Et>
 </Etg>
 </e>
   <e>
-<stem_name xml:lang="myv" hid="2" pos="Interj" lemma="ох"/>
-<stem_name xml:lang="mdf" hid="2" pos="Interj" lemma="ох"/>
+<root_name xml:lang="myv" hid="2" pos="Interj" lemma="ох"/>
+<root_name xml:lang="mdf" hid="2" pos="Interj" lemma="ох"/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="Interj">ох</l>
@@ -3365,8 +2711,8 @@ vgl. auch <Et>
 </Etg>
 </e>
   <e>
-    <stem_ref xml:lang="myv" hid="2" pos="Interj" lemma="ох"/>
-    <stem_ref xml:lang="mdf" hid="2" pos="Interj" lemma="ох"/>
+<root_ref xml:lang="myv" hid="2" pos="Interj" lemma="ох"/>
+<root_ref xml:lang="mdf" hid="2" pos="Interj" lemma="ох"/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="Interj">оха</l>
@@ -3425,8 +2771,8 @@ vgl. auch <Et>
 </Etg>
 </e>
   <e>
-    <stem_ref xml:lang="myv" hid="2" pos="Interj" lemma="ох"/>
-    <stem_ref xml:lang="mdf" hid="2" pos="Interj" lemma="ох"/>
+<root_ref xml:lang="myv" hid="2" pos="Interj" lemma="ох"/>
+<root_ref xml:lang="mdf" hid="2" pos="Interj" lemma="ох"/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="Interj">охай</l>
@@ -3544,8 +2890,8 @@ vgl. auch <Et>
 </Etg>
 </e>
   <e>
-<stem_name xml:lang="myv" hid="2" pos="Interj" lemma="паньдя"/>
-<stem_name xml:lang="mdf" hid="2" pos="Interj" lemma="паньдя"/>
+<root_name xml:lang="myv" hid="2" pos="Interj" lemma="паньдя"/>
+<root_name xml:lang="mdf" hid="2" pos="Interj" lemma="паньдя"/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="Interj">паньдя</l>
@@ -3627,8 +2973,8 @@ vgl. auch <Et>
 </HWB>
 </e>
   <e>
-<stem_name xml:lang="myv" hid="2" pos="Interj" lemma="пасиба"/>
-<stem_name xml:lang="mdf" hid="2" pos="Interj" lemma="пасиба"/>
+<root_name xml:lang="myv" hid="2" pos="Interj" lemma="пасиба"/>
+<root_name xml:lang="mdf" hid="2" pos="Interj" lemma="пасиба"/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="Interj">пасиба</l>
@@ -3912,8 +3258,8 @@ vgl. auch <Et>
 </Etg>
 </e>
   <e>
-<stem_name xml:lang="myv" hid="2" pos="Interj" lemma="пожалой"/>
-<stem_name xml:lang="mdf" hid="2" pos="Interj" lemma="пожалой"/>
+<root_name xml:lang="myv" hid="2" pos="Interj" lemma="пожалой"/>
+<root_name xml:lang="mdf" hid="2" pos="Interj" lemma="пожалой"/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="Interj">пожалой</l><st/>
@@ -4028,8 +3374,8 @@ vgl. auch <Et>
 </Etg>
 </e>
   <e>
-    <stem_ref xml:lang="myv" hid="2" pos="Interj" lemma="пожалой"/>
-    <stem_ref xml:lang="mdf" hid="2" pos="Interj" lemma="пожалой"/>
+<root_ref xml:lang="myv" hid="2" pos="Interj" lemma="пожалой"/>
+<root_ref xml:lang="mdf" hid="2" pos="Interj" lemma="пожалой"/>
 <HWB>
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
 <lg xml:lang="myv"><l pos="Interj">пожалыста</l>
@@ -4156,8 +3502,8 @@ vgl. auch <Et>
 </Etg>
 </e>
   <e>
-    <stem_ref xml:lang="myv" hid="2" pos="Pron" lemma="сам"/>
-    <stem_ref xml:lang="mdf" hid="2" pos="Pron" lemma=""/>
+<root_ref xml:lang="myv" hid="2" pos="Pron" lemma="сам"/>
+<root_ref xml:lang="mdf" hid="2" pos="Pron" lemma=""/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="Interj">самай</l>
@@ -4388,8 +3734,8 @@ vgl. auch <Et>
 </Etg>
 </e>
   <e>
-<stem_name xml:lang="myv" hid="2" pos="Interj" lemma="тайдай"/>
-<stem_name xml:lang="mdf" hid="2" pos="Interj" lemma=""/>
+<root_name xml:lang="myv" hid="2" pos="Interj" lemma="тайдай"/>
+<root_name xml:lang="mdf" hid="2" pos="Interj" lemma=""/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="Interj">тайдай</l>
@@ -4445,8 +3791,8 @@ vgl. auch <Et>
 </HWB>
 </e>
   <e>
-<stem_name xml:lang="myv" hid="2" pos="Interj" lemma="тиба"/>
-<stem_name xml:lang="mdf" hid="2" pos="Interj" lemma="тиба"/>
+<root_name xml:lang="myv" hid="2" pos="Interj" lemma="тиба"/>
+<root_name xml:lang="mdf" hid="2" pos="Interj" lemma="тиба"/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="Interj">тиба</l>
@@ -4546,8 +3892,8 @@ vgl. auch <Et>
 </Etg>
 </e>
   <e>
-<stem_name xml:lang="myv" hid="2" pos="Interj" lemma="то"/>
-<stem_name xml:lang="mdf" hid="2" pos="Interj" lemma=""/>
+<root_name xml:lang="myv" hid="2" pos="Interj" lemma="то"/>
+<root_name xml:lang="mdf" hid="2" pos="Interj" lemma=""/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="Interj">то</l>
@@ -4795,8 +4141,8 @@ vgl. auch <Et>
 </Etg>
 </e>
   <e>
-<stem_name xml:lang="myv" hid="2" pos="Interj" lemma="тпруга"/>
-<stem_name xml:lang="mdf" hid="2" pos="Interj" lemma=""/>
+<root_name xml:lang="myv" hid="2" pos="Interj" lemma="тпруга"/>
+<root_name xml:lang="mdf" hid="2" pos="Interj" lemma=""/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="Interj">тпруга</l>
@@ -4858,8 +4204,8 @@ vgl. auch <Et>
 </HWB>
 </e>
   <e>
-<stem_name xml:lang="myv" hid="2" pos="Interj" lemma="тык"/>
-<stem_name xml:lang="mdf" hid="2" pos="Interj" lemma="тәк"/>
+<root_name xml:lang="myv" hid="2" pos="Interj" lemma="тык"/>
+<root_name xml:lang="mdf" hid="2" pos="Interj" lemma="тәк"/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="Interj">тык</l>
@@ -4966,8 +4312,8 @@ vgl. auch <Et>
 </HWB>
 </e>
   <e>
-    <stem_ref xml:lang="myv" hid="2" pos="Interj" lemma="тык"/>
-    <stem_ref xml:lang="mdf" hid="2" pos="Interj" lemma="тәк"/>
+<root_ref xml:lang="myv" hid="2" pos="Interj" lemma="тык"/>
+<root_ref xml:lang="mdf" hid="2" pos="Interj" lemma="тәк"/>
 <HWB>
 <E3Head><POS pos="N"/><deriv isa="prt-I"/></E3Head>
 <lg xml:lang="myv"><l pos="Interj">тыки</l>
@@ -5146,8 +4492,8 @@ Tat., tschuw. <Et>
 </Etg>
 </e>
   <e>
-<stem_name xml:lang="myv" hid="2" pos="Interj" lemma="тю"/>
-<stem_name xml:lang="mdf" hid="2" pos="Interj" lemma=""/>
+<root_name xml:lang="myv" hid="2" pos="Interj" lemma="тю"/>
+<root_name xml:lang="mdf" hid="2" pos="Interj" lemma=""/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="Interj">тю</l>
@@ -5195,8 +4541,8 @@ Tat., tschuw. <Et>
 </HWB>
 </e>
   <e>
-<stem_name xml:lang="myv" hid="2" pos="Interj" lemma="ужо"/>
-<stem_name xml:lang="mdf" hid="2" pos="Interj" lemma="ожу"/>
+<root_name xml:lang="myv" hid="2" pos="Interj" lemma="ужо"/>
+<root_name xml:lang="mdf" hid="2" pos="Interj" lemma="ожу"/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="Interj">ужо</l>
@@ -5560,8 +4906,8 @@ Tat., tschuw. <Et>
 </HWB>
 </e>
   <e>
-    <stem_ref xml:lang="myv" hid="2" pos="Interj" lemma="ужо"/>
-    <stem_ref xml:lang="mdf" hid="2" pos="Interj" lemma="ожу"/>
+<root_ref xml:lang="myv" hid="2" pos="Interj" lemma="ужо"/>
+<root_ref xml:lang="mdf" hid="2" pos="Interj" lemma="ожу"/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="Interj">ужодо</l>
@@ -5688,8 +5034,8 @@ Tat., tschuw. <Et>
 </HWB>
 </e>
   <e>
-    <stem_ref xml:lang="myv" hid="2" pos="Interj" lemma="ужо"/>
-    <stem_ref xml:lang="mdf" hid="2" pos="Interj" lemma="ожу"/>
+<root_ref xml:lang="myv" hid="2" pos="Interj" lemma="ужо"/>
+<root_ref xml:lang="mdf" hid="2" pos="Interj" lemma="ожу"/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="Interj">ужодояк</l>
@@ -5761,8 +5107,8 @@ Tat., tschuw. <Et>
 </HWB>
 </e>
   <e>
-    <stem_ref xml:lang="myv" hid="2" pos="Interj" lemma="ужо"/>
-    <stem_ref xml:lang="mdf" hid="2" pos="Interj" lemma="ожу"/>
+<root_ref xml:lang="myv" hid="2" pos="Interj" lemma="ужо"/>
+<root_ref xml:lang="mdf" hid="2" pos="Interj" lemma="ожу"/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="Interj">ужока</l>
@@ -5929,8 +5275,8 @@ Tat., tschuw. <Et>
 </HWB>
 </e>
   <e>
-    <stem_ref xml:lang="myv" hid="2" pos="Interj" lemma="ужо"/>
-    <stem_ref xml:lang="mdf" hid="2" pos="Interj" lemma="ожу"/>
+<root_ref xml:lang="myv" hid="2" pos="Interj" lemma="ужо"/>
+<root_ref xml:lang="mdf" hid="2" pos="Interj" lemma="ожу"/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="Interj">ужокая</l>
@@ -6010,8 +5356,8 @@ Tat., tschuw. <Et>
 </HWB>
 </e>
   <e>
-<stem_name xml:lang="myv" hid="2" pos="Interj" lemma="утю"/>
-<stem_name xml:lang="mdf" hid="2" pos="Interj" lemma=""/>
+<root_name xml:lang="myv" hid="2" pos="Interj" lemma="утю"/>
+<root_name xml:lang="mdf" hid="2" pos="Interj" lemma=""/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="Interj">утю</l><st>утю</st>
@@ -6101,8 +5447,8 @@ Tat., tschuw. <Et>
 </MWUB>
 </e>
   <e>
-<stem_name xml:lang="myv" hid="2" pos="Interj" lemma="хадияшка"/>
-<stem_name xml:lang="mdf" hid="2" pos="Interj" lemma=""/>
+<root_name xml:lang="myv" hid="2" pos="Interj" lemma="хадияшка"/>
+<root_name xml:lang="mdf" hid="2" pos="Interj" lemma=""/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="Interj">хадияшка</l>
@@ -6156,8 +5502,8 @@ Tat., tschuw. <Et>
 </HWB>
 </e>
   <e>
-<stem_name xml:lang="myv" hid="2" pos="Interj" lemma="хайдай"/>
-<stem_name xml:lang="mdf" hid="2" pos="Interj" lemma=""/>
+<root_name xml:lang="myv" hid="2" pos="Interj" lemma="хайдай"/>
+<root_name xml:lang="mdf" hid="2" pos="Interj" lemma=""/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="Interj">хайдай</l>
@@ -6216,8 +5562,8 @@ Tat., tschuw. <Et>
 </Etg>
 </e>
   <e>
-<stem_name xml:lang="myv" hid="2" pos="Interj" lemma="хайдым"/>
-<stem_name xml:lang="mdf" hid="2" pos="Interj" lemma=""/>
+<root_name xml:lang="myv" hid="2" pos="Interj" lemma="хайдым"/>
+<root_name xml:lang="mdf" hid="2" pos="Interj" lemma=""/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="Interj">хайдым</l>
@@ -6250,8 +5596,8 @@ Tat., tschuw. <Et>
 </Etg>
 </e>
   <e>
-<stem_name xml:lang="myv" hid="2" pos="Interj" lemma="хох"/>
-<stem_name xml:lang="mdf" hid="2" pos="Interj" lemma=""/>
+<root_name xml:lang="myv" hid="2" pos="Interj" lemma="хох"/>
+<root_name xml:lang="mdf" hid="2" pos="Interj" lemma=""/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="Interj">хох</l>
@@ -6296,8 +5642,8 @@ Tat., tschuw. <Et>
 </HWB>
 </e>
   <e>
-<stem_name xml:lang="myv" hid="2" pos="Interj" lemma="хроп"/>
-<stem_name xml:lang="mdf" hid="2" pos="Interj" lemma=""/>
+<root_name xml:lang="myv" hid="2" pos="Interj" lemma="хроп"/>
+<root_name xml:lang="mdf" hid="2" pos="Interj" lemma=""/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="Interj">хроп</l>
@@ -6338,8 +5684,8 @@ Tat., tschuw. <Et>
 </HWB>
 </e>
   <e>
-<stem_name xml:lang="myv" hid="2" pos="Interj" lemma="цю"/>
-<stem_name xml:lang="mdf" hid="2" pos="Interj" lemma="цю"/>
+<root_name xml:lang="myv" hid="2" pos="Interj" lemma="цю"/>
+<root_name xml:lang="mdf" hid="2" pos="Interj" lemma="цю"/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="Interj">цю</l>
@@ -6567,8 +5913,8 @@ Tat., tschuw. <Et>
 </Etg>
 </e>
   <e>
-<stem_name xml:lang="myv" hid="2" pos="Interj" lemma="цюлю"/>
-<stem_name xml:lang="mdf" hid="2" pos="Interj" lemma=""/>
+<root_name xml:lang="myv" hid="2" pos="Interj" lemma="цюлю"/>
+<root_name xml:lang="mdf" hid="2" pos="Interj" lemma=""/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="Interj">цюлю</l>
@@ -6702,8 +6048,8 @@ Tat., tschuw. <Et>
 </MWUB>
 </e>
   <e>
-<stem_name xml:lang="myv" hid="2" pos="Interj" lemma="цё"/>
-<stem_name xml:lang="mdf" hid="2" pos="Interj" lemma=""/>
+<root_name xml:lang="myv" hid="2" pos="Interj" lemma="цё"/>
+<root_name xml:lang="mdf" hid="2" pos="Interj" lemma=""/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="Interj">цё</l>
@@ -6751,8 +6097,8 @@ Tat., tschuw. <Et>
 </HWB>
 </e>
   <e>
-<stem_name xml:lang="myv" hid="2" pos="Interj" lemma="чуш-чуш"/>
-<stem_name xml:lang="mdf" hid="2" pos="Interj" lemma="чуш-чуш"/>
+<root_name xml:lang="myv" hid="2" pos="Interj" lemma="чуш-чуш"/>
+<root_name xml:lang="mdf" hid="2" pos="Interj" lemma="чуш-чуш"/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="Interj">чуш-чуш</l>
@@ -6793,8 +6139,8 @@ Tat., tschuw. <Et>
 </HWB>
 </e>
   <e>
-<stem_name xml:lang="myv" hid="2" pos="Interj" lemma="э"/>
-<stem_name xml:lang="mdf" hid="2" pos="Interj" lemma=""/>
+<root_name xml:lang="myv" hid="2" pos="Interj" lemma="э"/>
+<root_name xml:lang="mdf" hid="2" pos="Interj" lemma=""/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="Interj">э</l>
@@ -6871,8 +6217,8 @@ Tat., tschuw. <Et>
 </Etg>
 </e>
   <e>
-<stem_name xml:lang="myv" hid="2" pos="Interj" lemma="эй"/>
-<stem_name xml:lang="mdf" hid="2" pos="Interj" lemma=""/>
+<root_name xml:lang="myv" hid="2" pos="Interj" lemma="эй"/>
+<root_name xml:lang="mdf" hid="2" pos="Interj" lemma=""/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="Interj">эй</l>
@@ -6962,8 +6308,8 @@ Tat., tschuw. <Et>
 </Etg>
 </e>
   <e>
-<stem_name xml:lang="myv" hid="2" pos="Interj" lemma="элда"/>
-<stem_name xml:lang="mdf" hid="2" pos="Interj" lemma=""/>
+<root_name xml:lang="myv" hid="2" pos="Interj" lemma="элда"/>
+<root_name xml:lang="mdf" hid="2" pos="Interj" lemma=""/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="Interj">элда</l>
@@ -6990,8 +6336,8 @@ Tat., tschuw. <Et>
 </HWB>
 </e>
   <e>
-<stem_name xml:lang="myv" hid="2" pos="Interj" lemma="я"/>
-<stem_name xml:lang="mdf" hid="2" pos="Interj" lemma="я"/>
+<root_name xml:lang="myv" hid="2" pos="Interj" lemma="я"/>
+<root_name xml:lang="mdf" hid="2" pos="Interj" lemma="я"/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="Interj">я</l>
@@ -7242,8 +6588,8 @@ Tat., tschuw. <Et>
 </Etg>
 </e>
   <e>
-<stem_name xml:lang="myv" hid="2" pos="Pcle" lemma="я"/>
-<stem_name xml:lang="mdf" hid="2" pos="Pcle" lemma=""/>
+<root_name xml:lang="myv" hid="2" pos="Pcle" lemma="я"/>
+<root_name xml:lang="mdf" hid="2" pos="Pcle" lemma=""/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="Interj">я</l>
@@ -7338,8 +6684,8 @@ Tat., tschuw. <Et>
 </Etg>
 </e>
   <e>
-    <stem_ref xml:lang="myv" hid="2" pos="Interj" lemma="XX"/>
-    <stem_ref xml:lang="mdf" hid="2" pos="Interj" lemma="псюрк-псюрк"/>
+<root_ref xml:lang="myv" hid="2" pos="Interj" lemma="XX"/>
+<root_ref xml:lang="mdf" hid="2" pos="Interj" lemma="псюрк-псюрк"/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="N"/><st/>
@@ -7375,8 +6721,8 @@ Tat., tschuw. <Et>
 </HWB>
 </e>
   <e>
-    <stem_ref xml:lang="myv" hid="2" pos="Interj" lemma="чуш-чуш"/>
-    <stem_ref xml:lang="mdf" hid="2" pos="Interj" lemma="чуш-чуш"/>
+<root_ref xml:lang="myv" hid="2" pos="Interj" lemma="чуш-чуш"/>
+<root_ref xml:lang="mdf" hid="2" pos="Interj" lemma="чуш-чуш"/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="N"/><st/>
@@ -7412,8 +6758,8 @@ Tat., tschuw. <Et>
 </HWB>
 </e>
   <e>
-    <stem_ref xml:lang="myv" hid="2" pos="V" lemma="XX"/>
-    <stem_ref xml:lang="mdf" hid="2" pos="V" lemma="тяремс"/>
+<root_ref xml:lang="myv" hid="2" pos="V" lemma="XX"/>
+<root_ref xml:lang="mdf" hid="2" pos="V" lemma="тяремс"/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="N"/><st/>
@@ -7441,8 +6787,8 @@ Tat., tschuw. <Et>
 </HWB>
 </e>
   <e>
-    <stem_ref xml:lang="myv" hid="2" pos="V" lemma="XX"/>
-    <stem_ref xml:lang="mdf" hid="2" pos="V" lemma="шяямс"/>
+<root_ref xml:lang="myv" hid="2" pos="V" lemma="XX"/>
+<root_ref xml:lang="mdf" hid="2" pos="V" lemma="шяямс"/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="N"/><st/>
@@ -7488,8 +6834,8 @@ Tat., tschuw. <Et>
 </HWB>
 </e>
   <e>
-    <stem_ref xml:lang="myv" hid="2" pos="V" lemma="XX"/>
-    <stem_ref xml:lang="mdf" hid="2" pos="V" lemma="шяямс"/>
+<root_ref xml:lang="myv" hid="2" pos="V" lemma="XX"/>
+<root_ref xml:lang="mdf" hid="2" pos="V" lemma="шяямс"/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="N"/><st/>
@@ -7537,8 +6883,8 @@ Tat., tschuw. <Et>
 </HWB>
 </e>
   <e>
-    <stem_ref xml:lang="myv" hid="2" pos="V" lemma="XX"/>
-    <stem_ref xml:lang="mdf" hid="2" pos="V" lemma="шятямс"/>
+<root_ref xml:lang="myv" hid="2" pos="V" lemma="XX"/>
+<root_ref xml:lang="mdf" hid="2" pos="V" lemma="шятямс"/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="N"/><st/>
@@ -7589,8 +6935,8 @@ Tat., tschuw. <Et>
 </HWB>
 </e>
   <e>
-    <stem_ref xml:lang="myv" hid="2" pos="V" lemma="XX"/>
-    <stem_ref xml:lang="mdf" hid="2" pos="V" lemma="шятямс"/>
+<root_ref xml:lang="myv" hid="2" pos="V" lemma="XX"/>
+<root_ref xml:lang="mdf" hid="2" pos="V" lemma="шятямс"/>
 <HWB>
 <E3Head><POS pos="N"/><deriv isa="dim-KE"/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="N"/><st/>
@@ -7641,8 +6987,8 @@ Tat., tschuw. <Et>
 </HWB>
 </e>
   <e>
-    <stem_ref xml:lang="myv" hid="2" pos="V" lemma="XX"/>
-    <stem_ref xml:lang="mdf" hid="2" pos="V" lemma="шятямс"/>
+<root_ref xml:lang="myv" hid="2" pos="V" lemma="XX"/>
+<root_ref xml:lang="mdf" hid="2" pos="V" lemma="шятямс"/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="N"/><st/>
@@ -7770,8 +7116,8 @@ Tat., tschuw. <Et>
 </MWUB>
 </e>
   <e>
-<stem_name xml:lang="myv" hid="2" pos="N" lemma=""/>
-<stem_name xml:lang="mdf" hid="2" pos="N" lemma="норт"/>
+<root_name xml:lang="myv" hid="2" pos="N" lemma=""/>
+<root_name xml:lang="mdf" hid="2" pos="N" lemma="норт"/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="N"/>
@@ -7830,8 +7176,8 @@ Tat., tschuw. <Et>
 </CompositionalPhraseCtn>
 </e>
   <e>
-    <stem_ref xml:lang="myv" hid="2" pos="V" lemma="XX"/>
-    <stem_ref xml:lang="mdf" hid="2" pos="V" lemma="тяремс"/>
+<root_ref xml:lang="myv" hid="2" pos="V" lemma="XX"/>
+<root_ref xml:lang="mdf" hid="2" pos="V" lemma="тяремс"/>
 <HWB>
 <E3Head><POS/><deriv isa="dim-NYA"/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="N"/><st/>
@@ -7868,8 +7214,8 @@ Tat., tschuw. <Et>
 </HWB>
 </e>
   <e>
-<stem_name xml:lang="myv" hid="2" pos="N" lemma="пизэ"/>
-<stem_name xml:lang="mdf" hid="2" pos="N" lemma="пиза"/>
+<root_name xml:lang="myv" hid="2" pos="N" lemma="пизэ"/>
+<root_name xml:lang="mdf" hid="2" pos="N" lemma="пиза"/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="N">пизэ</l><st/><!-- Just a noun -->
@@ -7950,8 +7296,8 @@ Tat., tschuw. <Et>
 </MWUB>
 </e>
   <e>
-    <stem_ref xml:lang="myv" hid="2" pos="Interj" lemma="чуш-чуш"/>
-    <stem_ref xml:lang="mdf" hid="2" pos="Interj" lemma="чуш-чуш"/>
+<root_ref xml:lang="myv" hid="2" pos="Interj" lemma="чуш-чуш"/>
+<root_ref xml:lang="mdf" hid="2" pos="Interj" lemma="чуш-чуш"/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="N">чушка</l>
@@ -8103,8 +7449,8 @@ Tat., tschuw. <Et>
 </Etg>
 </e>
   <e>
-<stem_name xml:lang="myv" hid="2" pos="N" lemma="эрьгат"/>
-<stem_name xml:lang="mdf" hid="2" pos="N" lemma=""/>
+<root_name xml:lang="myv" hid="2" pos="N" lemma="эрьгат"/>
+<root_name xml:lang="mdf" hid="2" pos="N" lemma=""/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="N">эрьгат</l>
@@ -8159,8 +7505,8 @@ Tat., tschuw. <Et>
 </MWUB>
 </e>
   <e>
-<stem_name xml:lang="myv" hid="2" pos="N" lemma="эфтерь"/>
-<stem_name xml:lang="mdf" hid="2" pos="N" lemma=""/>
+<root_name xml:lang="myv" hid="2" pos="N" lemma="эфтерь"/>
+<root_name xml:lang="mdf" hid="2" pos="N" lemma=""/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="N">эфтерь</l>
@@ -8293,8 +7639,8 @@ Tat., tschuw. <Et>
 </MWUB>
 </e>
   <e>
-    <stem_ref xml:lang="myv" hid="2" pos="Num" lemma="сисем"/>
-    <stem_ref xml:lang="mdf" hid="2" pos="Num" lemma="сисем"/>
+<root_ref xml:lang="myv" hid="2" pos="Num" lemma="сисем"/>
+<root_ref xml:lang="mdf" hid="2" pos="Num" lemma="сисем"/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="Num"/><st/>
@@ -8352,8 +7698,8 @@ Tat., tschuw. <Et>
 </HWB>
 </e>
   <e>
-    <stem_ref xml:lang="myv" hid="2" pos="Num" lemma="сисем"/>
-    <stem_ref xml:lang="mdf" hid="2" pos="Num" lemma="сисем"/>
+<root_ref xml:lang="myv" hid="2" pos="Num" lemma="сисем"/>
+<root_ref xml:lang="mdf" hid="2" pos="Num" lemma="сисем"/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="Num"/><st/>
@@ -8403,8 +7749,8 @@ Tat., tschuw. <Et>
 </HWB>
 </e>
   <e>
-    <stem_ref xml:lang="myv" hid="2" pos="Num" lemma="сисем"/>
-    <stem_ref xml:lang="mdf" hid="2" pos="Num" lemma="сисем"/>
+<root_ref xml:lang="myv" hid="2" pos="Num" lemma="сисем"/>
+<root_ref xml:lang="mdf" hid="2" pos="Num" lemma="сисем"/>
 <HWB>
 <E3Head><POS pos="N"/><deriv isa="dim-KE"/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="Num"/><st/>
@@ -8465,8 +7811,8 @@ Tat., tschuw. <Et>
 </HWB>
 </e>
   <e>
-<stem_name xml:lang="myv" hid="2" pos="Num" lemma="сисем"/>
-<stem_name xml:lang="mdf" hid="2" pos="Num" lemma="сисем"/>
+<root_name xml:lang="myv" hid="2" pos="Num" lemma="сисем"/>
+<root_name xml:lang="mdf" hid="2" pos="Num" lemma="сисем"/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="Num">сисем</l>
@@ -9227,8 +8573,8 @@ Tat., tschuw. <Et>
 </MWUB>
 </e>
   <e>
-    <stem_ref xml:lang="myv" hid="2" pos="Num" lemma="сисем"/>
-    <stem_ref xml:lang="mdf" hid="2" pos="Num" lemma="сисем"/>
+<root_ref xml:lang="myv" hid="2" pos="Num" lemma="сисем"/>
+<root_ref xml:lang="mdf" hid="2" pos="Num" lemma="сисем"/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="Num">сисеменст</l>
@@ -9351,8 +8697,8 @@ Tat., tschuw. <Et>
 </HWB>
 </e>
   <e>
-    <stem_ref xml:lang="myv" hid="2" pos="Num" lemma="сисем"/>
-    <stem_ref xml:lang="mdf" hid="2" pos="Num" lemma="сисем"/>
+<root_ref xml:lang="myv" hid="2" pos="Num" lemma="сисем"/>
+<root_ref xml:lang="mdf" hid="2" pos="Num" lemma="сисем"/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="Num">сисемценст</l>
@@ -9388,8 +8734,8 @@ Tat., tschuw. <Et>
 </HWB>
 </e>
   <e>
-<stem_name xml:lang="myv" hid="2" pos="Num" lemma="сядо"/>
-<stem_name xml:lang="mdf" hid="2" pos="Num" lemma="сяда"/>
+<root_name xml:lang="myv" hid="2" pos="Num" lemma="сядо"/>
+<root_name xml:lang="mdf" hid="2" pos="Num" lemma="сяда"/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="Num">сядо</l>
@@ -9935,8 +9281,8 @@ Tat., tschuw. <Et>
 </MWUB>
 </e>
   <e>
-    <stem_ref xml:lang="myv" hid="2" pos="Num" lemma="сядо"/>
-    <stem_ref xml:lang="mdf" hid="2" pos="Num" lemma="сяда"/>
+<root_ref xml:lang="myv" hid="2" pos="Num" lemma="сядо"/>
+<root_ref xml:lang="mdf" hid="2" pos="Num" lemma="сяда"/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="Num">сядонст</l>
@@ -9991,8 +9337,8 @@ Tat., tschuw. <Et>
 </HWB>
 </e>
   <e>
-    <stem_ref xml:lang="myv" hid="2" pos="Num" lemma="сядо"/>
-    <stem_ref xml:lang="mdf" hid="2" pos="Num" lemma="сяда"/>
+<root_ref xml:lang="myv" hid="2" pos="Num" lemma="сядо"/>
+<root_ref xml:lang="mdf" hid="2" pos="Num" lemma="сяда"/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="Num">сядоценст</l>
@@ -10019,8 +9365,8 @@ Tat., tschuw. <Et>
 </HWB>
 </e>
   <e>
-    <stem_ref xml:lang="myv" hid="2" pos="Num" lemma="сядо"/>
-    <stem_ref xml:lang="mdf" hid="2" pos="Num" lemma="сяда"/>
+<root_ref xml:lang="myv" hid="2" pos="Num" lemma="сядо"/>
+<root_ref xml:lang="mdf" hid="2" pos="Num" lemma="сяда"/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="Num">сядошка</l>
@@ -10047,8 +9393,8 @@ Tat., tschuw. <Et>
 </HWB>
 </e>
   <e>
-<stem_name xml:lang="myv" hid="2" pos="Num" lemma="тышча"/>
-<stem_name xml:lang="mdf" hid="2" pos="Num" lemma="тышчя"/>
+<root_name xml:lang="myv" hid="2" pos="Num" lemma="тышча"/>
+<root_name xml:lang="mdf" hid="2" pos="Num" lemma="тышчя"/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="Num">тышча</l>
@@ -10165,8 +9511,8 @@ Tat., tschuw. <Et>
 </Etg>
 </e>
   <e>
-<stem_name xml:lang="myv" hid="2" pos="Pcle" lemma="XX"/>
-<stem_name xml:lang="mdf" hid="2" pos="Pcle" lemma="незля"/>
+<root_name xml:lang="myv" hid="2" pos="Pcle" lemma="XX"/>
+<root_name xml:lang="mdf" hid="2" pos="Pcle" lemma="незля"/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="Pcle">XX</l><st/>
@@ -10202,8 +9548,8 @@ Tat., tschuw. <Et>
 </Etg>
 </e>
   <e>
-<stem_name xml:lang="myv" hid="2" pos="Pcle" lemma="XX"/>
-<stem_name xml:lang="mdf" hid="2" pos="Pcle" lemma="нлнатай"/>
+<root_name xml:lang="myv" hid="2" pos="Pcle" lemma="XX"/>
+<root_name xml:lang="mdf" hid="2" pos="Pcle" lemma="нлнатай"/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="Pcle">XX</l><st/>
@@ -10255,8 +9601,8 @@ Tat., tschuw. <Et>
 </Etg>
 </e>
   <e>
-<stem_name xml:lang="myv" hid="2" pos="Pcle" lemma="XX"/>
-<stem_name xml:lang="mdf" hid="2" pos="Pcle" lemma="нлта"/>
+<root_name xml:lang="myv" hid="2" pos="Pcle" lemma="XX"/>
+<root_name xml:lang="mdf" hid="2" pos="Pcle" lemma="нлта"/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="Pcle">XX</l><st/>
@@ -10333,8 +9679,8 @@ Tat., tschuw. <Et>
 </Etg>
 </e>
   <e>
-<stem_name xml:lang="myv" hid="2" pos="Pcle" lemma="XX"/>
-<stem_name xml:lang="mdf" hid="2" pos="Pcle" lemma="шять"/>
+<root_name xml:lang="myv" hid="2" pos="Pcle" lemma="XX"/>
+<root_name xml:lang="mdf" hid="2" pos="Pcle" lemma="шять"/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="Pcle">XX</l><st/>
@@ -10424,8 +9770,8 @@ Tat., tschuw. <Et>
 </Etg>
 </e>
   <e>
-<stem_name xml:lang="myv" hid="2" pos="Pcle" lemma="XX"/>
-<stem_name xml:lang="mdf" hid="2" pos="Pcle" lemma="нлна"/>
+<root_name xml:lang="myv" hid="2" pos="Pcle" lemma="XX"/>
+<root_name xml:lang="mdf" hid="2" pos="Pcle" lemma="нлна"/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="Pcle">XX</l><st/>
@@ -10547,8 +9893,8 @@ Tat., tschuw. <Et>
 </Etg>
 </e>
   <e>
-<stem_name xml:lang="myv" hid="2" pos="Pcle" lemma="XX"/>
-<stem_name xml:lang="mdf" hid="2" pos="Pcle" lemma="налтай"/>
+<root_name xml:lang="myv" hid="2" pos="Pcle" lemma="XX"/>
+<root_name xml:lang="mdf" hid="2" pos="Pcle" lemma="налтай"/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="Pcle">XX</l><st/>
@@ -10580,8 +9926,8 @@ Tat., tschuw. <Et>
 </HWB>
 </e>
   <e>
-<stem_name xml:lang="myv" hid="2" pos="Pcle" lemma="ду"/>
-<stem_name xml:lang="mdf" hid="2" pos="Pcle" lemma=""/>
+<root_name xml:lang="myv" hid="2" pos="Pcle" lemma="ду"/>
+<root_name xml:lang="mdf" hid="2" pos="Pcle" lemma=""/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="Pcle">ду</l>
@@ -10632,8 +9978,8 @@ Tat., tschuw. <Et>
 </HWB>
 </e>
   <e>
-<stem_name xml:lang="myv" hid="2" pos="Pcle" lemma="ино"/>
-<stem_name xml:lang="mdf" hid="2" pos="Pcle" lemma="ина"/>
+<root_name xml:lang="myv" hid="2" pos="Pcle" lemma="ино"/>
+<root_name xml:lang="mdf" hid="2" pos="Pcle" lemma="ина"/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="Pcle">ино</l>
@@ -11063,8 +10409,8 @@ Tat., tschuw. <Et>
 </Etg>
 </e>
   <e>
-<stem_name xml:lang="myv" hid="2" pos="Pcle" lemma="интай"/>
-<stem_name xml:lang="mdf" hid="2" pos="Pcle" lemma="интай"/>
+<root_name xml:lang="myv" hid="2" pos="Pcle" lemma="интай"/>
+<root_name xml:lang="mdf" hid="2" pos="Pcle" lemma="интай"/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="Pcle">интай</l>
@@ -11168,8 +10514,8 @@ Tat., tschuw. <Et>
 </HWB>
 </e>
   <e>
-<stem_name xml:lang="myv" hid="2" pos="Pcle" lemma="лиш"/>
-<stem_name xml:lang="mdf" hid="2" pos="Pcle" lemma="леш"/>
+<root_name xml:lang="myv" hid="2" pos="Pcle" lemma="лиш"/>
+<root_name xml:lang="mdf" hid="2" pos="Pcle" lemma="леш"/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="Pcle">лиш</l>
@@ -11370,8 +10716,8 @@ Tat., tschuw. <Et>
 </Etg>
 </e>
   <e>
-<stem_name xml:lang="myv" hid="2" pos="Pcle" lemma="мик"/>
-<stem_name xml:lang="mdf" hid="2" pos="Pcle" lemma="мяк"/>
+<root_name xml:lang="myv" hid="2" pos="Pcle" lemma="мик"/>
+<root_name xml:lang="mdf" hid="2" pos="Pcle" lemma="мяк"/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="Pcle">мик</l>
@@ -11931,8 +11277,8 @@ Tat., tschuw. <Et>
 </Etg>
 </e>
   <e>
-<stem_name xml:lang="myv" hid="2" pos="Pcle" lemma="натой"/>
-<stem_name xml:lang="mdf" hid="2" pos="Pcle" lemma=""/>
+<root_name xml:lang="myv" hid="2" pos="Pcle" lemma="натой"/>
+<root_name xml:lang="mdf" hid="2" pos="Pcle" lemma=""/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="Pcle">натой</l>
@@ -12023,8 +11369,8 @@ Tat., tschuw. <Et>
 </HWB>
 </e>
   <e>
-<stem_name xml:lang="myv" hid="2" pos="Pcle" lemma="некак"/>
-<stem_name xml:lang="mdf" hid="2" pos="Pcle" lemma="никак"/>
+<root_name xml:lang="myv" hid="2" pos="Pcle" lemma="некак"/>
+<root_name xml:lang="mdf" hid="2" pos="Pcle" lemma="никак"/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="Pcle">некак</l><st/>
@@ -12096,8 +11442,8 @@ Tat., tschuw. <Et>
 </Etg>
 </e>
   <e>
-<stem_name xml:lang="myv" hid="2" pos="Pcle" lemma="неушто"/>
-<stem_name xml:lang="mdf" hid="2" pos="Pcle" lemma=""/>
+<root_name xml:lang="myv" hid="2" pos="Pcle" lemma="неушто"/>
+<root_name xml:lang="mdf" hid="2" pos="Pcle" lemma=""/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="Pcle">неушто</l>
@@ -12141,8 +11487,8 @@ Tat., tschuw. <Et>
 </Etg>
 </e>
   <e>
-<stem_name xml:lang="myv" hid="2" pos="Pcle" lemma="парязда"/>
-<stem_name xml:lang="mdf" hid="2" pos="Pcle" lemma=""/>
+<root_name xml:lang="myv" hid="2" pos="Pcle" lemma="парязда"/>
+<root_name xml:lang="mdf" hid="2" pos="Pcle" lemma=""/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="Pcle">парязда</l>
@@ -12176,8 +11522,8 @@ Tat., tschuw. <Et>
 </HWB>
 </e>
   <e>
-<stem_name xml:lang="myv" hid="2" pos="Pcle" lemma="сех"/>
-<stem_name xml:lang="mdf" hid="2" pos="Pcle" lemma=""/>
+<root_name xml:lang="myv" hid="2" pos="Pcle" lemma="сех"/>
+<root_name xml:lang="mdf" hid="2" pos="Pcle" lemma=""/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="Pcle">сех</l>
@@ -12727,8 +12073,8 @@ Tat., tschuw. <Et>
 </Etg>
 </e>
   <e>
-<stem_name xml:lang="myv" hid="2" pos="Pcle" lemma="тожо"/>
-<stem_name xml:lang="mdf" hid="2" pos="Pcle" lemma=""/>
+<root_name xml:lang="myv" hid="2" pos="Pcle" lemma="тожо"/>
+<root_name xml:lang="mdf" hid="2" pos="Pcle" lemma=""/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="Pcle">тожо</l>
@@ -12762,8 +12108,8 @@ Tat., tschuw. <Et>
 </Etg>
 </e>
   <e>
-<stem_name xml:lang="myv" hid="2" pos="Pcle" lemma="токадей"/>
-<stem_name xml:lang="mdf" hid="2" pos="Pcle" lemma=""/>
+<root_name xml:lang="myv" hid="2" pos="Pcle" lemma="токадей"/>
+<root_name xml:lang="mdf" hid="2" pos="Pcle" lemma=""/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="Pcle">токадей</l>
@@ -12791,8 +12137,8 @@ Tat., tschuw. <Et>
 </HWB>
 </e>
   <e>
-<stem_name xml:lang="myv" hid="2" pos="Pcle" lemma="эдь"/>
-<stem_name xml:lang="mdf" hid="2" pos="Pcle" lemma=""/>
+<root_name xml:lang="myv" hid="2" pos="Pcle" lemma="эдь"/>
+<root_name xml:lang="mdf" hid="2" pos="Pcle" lemma=""/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="Pcle">эдь</l>
@@ -12838,8 +12184,8 @@ Tat., tschuw. <Et>
 </Etg>
 </e>
   <e>
-<stem_name xml:lang="myv" hid="2" pos="Pcle" lemma="эй"/>
-<stem_name xml:lang="mdf" hid="2" pos="Pcle" lemma=""/>
+<root_name xml:lang="myv" hid="2" pos="Pcle" lemma="эй"/>
+<root_name xml:lang="mdf" hid="2" pos="Pcle" lemma=""/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="Pcle">эй</l>
@@ -12885,8 +12231,8 @@ Tat., tschuw. <Et>
 </HWB>
 </e>
   <e>
-<stem_name xml:lang="myv" hid="2" pos="Pcle" lemma="эль"/>
-<stem_name xml:lang="mdf" hid="2" pos="Pcle" lemma="әля"/>
+<root_name xml:lang="myv" hid="2" pos="Pcle" lemma="эль"/>
+<root_name xml:lang="mdf" hid="2" pos="Pcle" lemma="әля"/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="Pcle">эль</l>
@@ -13368,8 +12714,8 @@ Tat., tschuw. <Et>
 </Etg>
 </e>
   <e>
-<stem_name xml:lang="myv" hid="2" pos="Pcle" lemma="ёк"/>
-<stem_name xml:lang="mdf" hid="2" pos="Pcle" lemma=""/>
+<root_name xml:lang="myv" hid="2" pos="Pcle" lemma="ёк"/>
+<root_name xml:lang="mdf" hid="2" pos="Pcle" lemma=""/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="Pcle">ёк</l>
@@ -13401,8 +12747,8 @@ Tat
 </Etg>
 </e>
   <e>
-<stem_name xml:lang="myv" hid="2" pos="Po" lemma="дуро"/>
-<stem_name xml:lang="mdf" hid="2" pos="Po" lemma="турә"/>
+<root_name xml:lang="myv" hid="2" pos="Po" lemma="дуро"/>
+<root_name xml:lang="mdf" hid="2" pos="Po" lemma="турә"/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="Po">дуро</l>
@@ -13556,8 +12902,8 @@ Tat
 </HWB>
 </e>
   <e>
-    <stem_ref xml:lang="myv" hid="2" pos="V" lemma="XX"/>
-    <stem_ref xml:lang="mdf" hid="2" pos="V" lemma="тяремс"/>
+<root_ref xml:lang="myv" hid="2" pos="V" lemma="XX"/>
+<root_ref xml:lang="mdf" hid="2" pos="V" lemma="тяремс"/>
 <HWB>
 <E3Head><POS pos="N"/><deriv isa="prt-I"/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="Prc"/><st/>
@@ -13658,8 +13004,8 @@ Tat
 </MWUB>
 </e>
   <e>
-<stem_name xml:lang="myv" hid="2" pos="Pron" lemma="XX"/>
-<stem_name xml:lang="mdf" hid="2" pos="Pron" lemma="эрьхть"/>
+<root_name xml:lang="myv" hid="2" pos="Pron" lemma="XX"/>
+<root_name xml:lang="mdf" hid="2" pos="Pron" lemma="эрьхть"/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="Pron">XX</l><st/>
@@ -13739,8 +13085,8 @@ Tat
 </HWB>
 </e>
   <e>
-<stem_name xml:lang="myv" hid="2" pos="Pron" lemma="мон"/>
-<stem_name xml:lang="mdf" hid="2" pos="Pron" lemma="мон"/>
+<root_name xml:lang="myv" hid="2" pos="Pron" lemma="мон"/>
+<root_name xml:lang="mdf" hid="2" pos="Pron" lemma="мон"/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="Pron">мон</l>
@@ -13856,8 +13202,8 @@ Tat
 </MWUB>
 </e>
   <e>
-    <stem_ref xml:lang="myv" hid="2" pos="Pron" lemma="мон"/>
-    <stem_ref xml:lang="mdf" hid="2" pos="Pron" lemma="мон"/>
+<root_ref xml:lang="myv" hid="2" pos="Pron" lemma="мон"/>
+<root_ref xml:lang="mdf" hid="2" pos="Pron" lemma="мон"/>
 <HWB>
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
 <lg xml:lang="myv"><l pos="Pron">монь</l>
@@ -15825,8 +15171,8 @@ Tat
 </MWUB>
 </e>
   <e>
-<stem_name xml:lang="myv" hid="2" pos="Pron" lemma="сам"/>
-<stem_name xml:lang="mdf" hid="2" pos="Pron" lemma=""/>
+<root_name xml:lang="myv" hid="2" pos="Pron" lemma="сам"/>
+<root_name xml:lang="mdf" hid="2" pos="Pron" lemma=""/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="Pron">сам</l>
@@ -15860,8 +15206,8 @@ Tat
 </Etg>
 </e>
   <e>
-    <stem_ref xml:lang="myv" hid="2" pos="Pron" lemma="сам"/>
-    <stem_ref xml:lang="mdf" hid="2" pos="Pron" lemma=""/>
+<root_ref xml:lang="myv" hid="2" pos="Pron" lemma="сам"/>
+<root_ref xml:lang="mdf" hid="2" pos="Pron" lemma=""/>
 <HWB>
 <E3Head><POS pos="N"/><deriv isa="DVNoun-OMA"/></E3Head>
 <lg xml:lang="myv"><l pos="Pron">сама</l>
@@ -15935,8 +15281,8 @@ Tat
 </Etg>
 </e>
   <e>
-    <stem_ref xml:lang="myv" hid="2" pos="Num" lemma="сисем"/>
-    <stem_ref xml:lang="mdf" hid="2" pos="Num" lemma="сисем"/>
+<root_ref xml:lang="myv" hid="2" pos="Num" lemma="сисем"/>
+<root_ref xml:lang="mdf" hid="2" pos="Num" lemma="сисем"/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="Pron">сисемненек</l>
@@ -16043,8 +15389,8 @@ Tat
 </MWUB>
 </e>
   <e>
-<stem_name xml:lang="myv" hid="2" pos="Pron" lemma="сон"/>
-<stem_name xml:lang="mdf" hid="2" pos="Pron" lemma="сон"/>
+<root_name xml:lang="myv" hid="2" pos="Pron" lemma="сон"/>
+<root_name xml:lang="mdf" hid="2" pos="Pron" lemma="сон"/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="Pron">сон</l>
@@ -16185,8 +15531,8 @@ Tat
 </MWUB>
 </e>
   <e>
-    <stem_ref xml:lang="myv" hid="2" pos="Pron" lemma="сон"/>
-    <stem_ref xml:lang="mdf" hid="2" pos="Pron" lemma="сон"/>
+<root_ref xml:lang="myv" hid="2" pos="Pron" lemma="сон"/>
+<root_ref xml:lang="mdf" hid="2" pos="Pron" lemma="сон"/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="Pron">сонзэ</l>
@@ -17544,8 +16890,8 @@ Tat
 </MWUB>
 </e>
   <e>
-<stem_name xml:lang="myv" hid="2" pos="Pron" lemma="тон"/>
-<stem_name xml:lang="mdf" hid="2" pos="Pron" lemma="тон"/>
+<root_name xml:lang="myv" hid="2" pos="Pron" lemma="тон"/>
+<root_name xml:lang="mdf" hid="2" pos="Pron" lemma="тон"/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="Pron">тон</l>
@@ -17660,8 +17006,8 @@ Tat
 </MWUB>
 </e>
   <e>
-    <stem_ref xml:lang="myv" hid="2" pos="Pron" lemma="тон"/>
-    <stem_ref xml:lang="mdf" hid="2" pos="Pron" lemma="тон"/>
+<root_ref xml:lang="myv" hid="2" pos="Pron" lemma="тон"/>
+<root_ref xml:lang="mdf" hid="2" pos="Pron" lemma="тон"/>
 <HWB>
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
 <lg xml:lang="myv"><l pos="Pron">тонь</l>
@@ -18672,8 +18018,8 @@ Tat
 </MWUB>
 </e>
   <e>
-<stem_name xml:lang="myv" hid="2" pos="Qnt" lemma="доволь"/>
-<stem_name xml:lang="mdf" hid="2" pos="Qnt" lemma=""/>
+<root_name xml:lang="myv" hid="2" pos="Qnt" lemma="доволь"/>
+<root_name xml:lang="mdf" hid="2" pos="Qnt" lemma=""/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="Qnt">доволь</l>
@@ -18745,8 +18091,8 @@ Tat
 </Etg>
 </e>
   <e>
-    <stem_ref xml:lang="myv" hid="2" pos="Qnt" lemma="доволь"/>
-    <stem_ref xml:lang="mdf" hid="2" pos="Qnt" lemma=""/>
+<root_ref xml:lang="myv" hid="2" pos="Qnt" lemma="доволь"/>
+<root_ref xml:lang="mdf" hid="2" pos="Qnt" lemma=""/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="Qnt">довольна</l>
@@ -18854,8 +18200,8 @@ Tat
 </Etg>
 </e>
   <e>
-<stem_name xml:lang="myv" hid="2" pos="Qnt" lemma="несколька"/>
-<stem_name xml:lang="mdf" hid="2" pos="Qnt" lemma="нескәлька"/>
+<root_name xml:lang="myv" hid="2" pos="Qnt" lemma="несколька"/>
+<root_name xml:lang="mdf" hid="2" pos="Qnt" lemma="нескәлька"/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="Qnt">несколька</l>
@@ -18944,8 +18290,8 @@ Tat
 </Etg>
 </e>
   <e>
-<stem_name xml:lang="myv" hid="2" pos="Qnt" lemma="эрьва"/>
-<stem_name xml:lang="mdf" hid="2" pos="Qnt" lemma=""/>
+<root_name xml:lang="myv" hid="2" pos="Qnt" lemma="эрьва"/>
+<root_name xml:lang="mdf" hid="2" pos="Qnt" lemma=""/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="Qnt">эрьва</l>
@@ -19543,8 +18889,8 @@ Tat
 </MWUB>
 </e>
   <e>
-    <stem_ref xml:lang="myv" hid="2" pos="Interj" lemma="XX"/>
-    <stem_ref xml:lang="mdf" hid="2" pos="Interj" lemma="пав"/>
+<root_ref xml:lang="myv" hid="2" pos="Interj" lemma="XX"/>
+<root_ref xml:lang="mdf" hid="2" pos="Interj" lemma="пав"/>
 <HWB>
 <E3Head><POS pos="V"/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="V"/><st/>
@@ -19607,8 +18953,8 @@ Tat
 </HWB>
 </e>
   <e>
-    <stem_ref xml:lang="myv" hid="2" pos="Interj" lemma="ох"/>
-    <stem_ref xml:lang="mdf" hid="2" pos="Interj" lemma="ох"/>
+<root_ref xml:lang="myv" hid="2" pos="Interj" lemma="ох"/>
+<root_ref xml:lang="mdf" hid="2" pos="Interj" lemma="ох"/>
 <HWB>
 <E3Head><POS pos="V"/><deriv isa="mom-TQ"/><deriv isa="Mom"/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="V"/><st/>
@@ -19652,8 +18998,8 @@ Tat
 </Etg>
 </e>
   <e>
-    <stem_ref xml:lang="myv" hid="2" pos="Interj" lemma="ох"/>
-    <stem_ref xml:lang="mdf" hid="2" pos="Interj" lemma="ох"/>
+<root_ref xml:lang="myv" hid="2" pos="Interj" lemma="ох"/>
+<root_ref xml:lang="mdf" hid="2" pos="Interj" lemma="ох"/>
 <HWB>
 <E3Head><POS pos="V"/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="V"/><st/>
@@ -19681,8 +19027,8 @@ Tat
 </HWB>
 </e>
   <e>
-    <stem_ref xml:lang="myv" hid="2" pos="N" lemma=""/>
-    <stem_ref xml:lang="mdf" hid="2" pos="N" lemma="норт"/>
+<root_ref xml:lang="myv" hid="2" pos="N" lemma=""/>
+<root_ref xml:lang="mdf" hid="2" pos="N" lemma="норт"/>
 <HWB>
 <E3Head><POS pos="V"/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="V"/><st/>
@@ -19739,8 +19085,8 @@ Tat
 </HWB>
 </e>
   <e>
-    <stem_ref xml:lang="myv" hid="2" pos="V" lemma="XX"/>
-    <stem_ref xml:lang="mdf" hid="2" pos="V" lemma="тяремс"/>
+<root_ref xml:lang="myv" hid="2" pos="V" lemma="XX"/>
+<root_ref xml:lang="mdf" hid="2" pos="V" lemma="тяремс"/>
 <HWB>
 <E3Head><POS pos="V"/><deriv isa="Inch"/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="V"/><st/>
@@ -19768,8 +19114,8 @@ Tat
 </HWB>
 </e>
   <e>
-    <stem_ref xml:lang="myv" hid="2" pos="V" lemma="XX"/>
-    <stem_ref xml:lang="mdf" hid="2" pos="V" lemma="тяремс"/>
+<root_ref xml:lang="myv" hid="2" pos="V" lemma="XX"/>
+<root_ref xml:lang="mdf" hid="2" pos="V" lemma="тяремс"/>
 <HWB>
 <E3Head><POS pos="V"/><deriv isa="fact-CfTQ"/><deriv isa="Kaus"/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="V"/><st/>
@@ -19847,8 +19193,8 @@ Tat
 </HWB>
 </e>
   <e>
-    <stem_ref xml:lang="myv" hid="2" pos="V" lemma="XX"/>
-    <stem_ref xml:lang="mdf" hid="2" pos="V" lemma="тяремс"/>
+<root_ref xml:lang="myv" hid="2" pos="V" lemma="XX"/>
+<root_ref xml:lang="mdf" hid="2" pos="V" lemma="тяремс"/>
 <HWB>
 <E3Head><POS pos="V"/><deriv isa="frequ-NE"/><deriv isa="Frequ"/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="V"/><st/>
@@ -19872,8 +19218,8 @@ Tat
 </HWB>
 </e>
   <e>
-    <stem_ref xml:lang="myv" hid="2" pos="V" lemma="XX"/>
-    <stem_ref xml:lang="mdf" hid="2" pos="V" lemma="тяремс"/>
+<root_ref xml:lang="myv" hid="2" pos="V" lemma="XX"/>
+<root_ref xml:lang="mdf" hid="2" pos="V" lemma="тяремс"/>
 <HWB>
 <E3Head><POS pos="V"/><deriv isa="frequ-KSHN"/><deriv isa="Frequ"/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="V"/><st/>
@@ -19904,8 +19250,8 @@ Tat
 </HWB>
 </e>
   <e>
-    <stem_ref xml:lang="myv" hid="2" pos="V" lemma="XX"/>
-    <stem_ref xml:lang="mdf" hid="2" pos="V" lemma="шяямс"/>
+<root_ref xml:lang="myv" hid="2" pos="V" lemma="XX"/>
+<root_ref xml:lang="mdf" hid="2" pos="V" lemma="шяямс"/>
 <HWB>
 <E3Head><POS pos="V"/><deriv isa="frequ-KSHN"/><deriv isa="Frequ"/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="V"/><st/>
@@ -19948,8 +19294,8 @@ Tat
 </HWB>
 </e>
   <e>
-    <stem_ref xml:lang="myv" hid="2" pos="V" lemma="XX"/>
-    <stem_ref xml:lang="mdf" hid="2" pos="V" lemma="шяямс"/>
+<root_ref xml:lang="myv" hid="2" pos="V" lemma="XX"/>
+<root_ref xml:lang="mdf" hid="2" pos="V" lemma="шяямс"/>
 <HWB>
 <E3Head><POS pos="V"/><deriv isa="frequ-NDE"/><deriv isa="Frequ"/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="V"/><st/>
@@ -19973,8 +19319,8 @@ Tat
 </HWB>
 </e>
   <e>
-    <stem_ref xml:lang="myv" hid="2" pos="V" lemma="XX"/>
-    <stem_ref xml:lang="mdf" hid="2" pos="V" lemma="шяямс"/>
+<root_ref xml:lang="myv" hid="2" pos="V" lemma="XX"/>
+<root_ref xml:lang="mdf" hid="2" pos="V" lemma="шяямс"/>
 <HWB>
 <E3Head><POS pos="V"/><deriv isa="frequ-KSHN"/><deriv isa="Frequ"/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="V"/><st/>
@@ -19998,8 +19344,8 @@ Tat
 </HWB>
 </e>
   <e>
-    <stem_ref xml:lang="myv" hid="2" pos="V" lemma="XX"/>
-    <stem_ref xml:lang="mdf" hid="2" pos="V" lemma="шятямс"/>
+<root_ref xml:lang="myv" hid="2" pos="V" lemma="XX"/>
+<root_ref xml:lang="mdf" hid="2" pos="V" lemma="шятямс"/>
 <HWB>
 <E3Head><POS pos="V"/><deriv isa="frequ-NE"/><deriv isa="Frequ"/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="V"/><st/>
@@ -20040,8 +19386,8 @@ Tat
 </HWB>
 </e>
   <e>
-    <stem_ref xml:lang="myv" hid="2" pos="V" lemma="XX"/>
-    <stem_ref xml:lang="mdf" hid="2" pos="V" lemma="шятямс"/>
+<root_ref xml:lang="myv" hid="2" pos="V" lemma="XX"/>
+<root_ref xml:lang="mdf" hid="2" pos="V" lemma="шятямс"/>
 <HWB>
 <E3Head><POS pos="V"/><deriv isa="frequ-KSHN"/><deriv isa="Frequ"/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="V"/><st/>
@@ -20097,8 +19443,8 @@ Tat
 </HWB>
 </e>
   <e>
-    <stem_ref xml:lang="myv" hid="2" pos="V" lemma="XX"/>
-    <stem_ref xml:lang="mdf" hid="2" pos="V" lemma="шятямс"/>
+<root_ref xml:lang="myv" hid="2" pos="V" lemma="XX"/>
+<root_ref xml:lang="mdf" hid="2" pos="V" lemma="шятямс"/>
 <HWB>
 <E3Head><POS pos="V"/><deriv isa="pass-VE"/><deriv isa="Refl.-Pass"/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="V"/><st/>
@@ -20146,8 +19492,8 @@ Tat
 </HWB>
 </e>
   <e>
-    <stem_ref xml:lang="myv" hid="2" pos="V" lemma="XX"/>
-    <stem_ref xml:lang="mdf" hid="2" pos="V" lemma="шятямс"/>
+<root_ref xml:lang="myv" hid="2" pos="V" lemma="XX"/>
+<root_ref xml:lang="mdf" hid="2" pos="V" lemma="шятямс"/>
 <HWB>
 <E3Head><POS pos="V"/><deriv isa="fact-VvT"/><deriv isa="Kaus"/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="V"/><st/>
@@ -20185,8 +19531,8 @@ Tat
 </HWB>
 </e>
   <e>
-    <stem_ref xml:lang="myv" hid="2" pos="V" lemma="XX"/>
-    <stem_ref xml:lang="mdf" hid="2" pos="V" lemma="шятямс"/>
+<root_ref xml:lang="myv" hid="2" pos="V" lemma="XX"/>
+<root_ref xml:lang="mdf" hid="2" pos="V" lemma="шятямс"/>
 <HWB>
 <E3Head><POS pos="V"/><deriv isa="frequ-NE"/><deriv isa="Frequ"/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="V"/><st/>
@@ -20225,8 +19571,8 @@ Tat
 </HWB>
 </e>
   <e>
-    <stem_ref xml:lang="myv" hid="2" pos="V" lemma="XX"/>
-    <stem_ref xml:lang="mdf" hid="2" pos="V" lemma="шятямс"/>
+<root_ref xml:lang="myv" hid="2" pos="V" lemma="XX"/>
+<root_ref xml:lang="mdf" hid="2" pos="V" lemma="шятямс"/>
 <HWB>
 <E3Head><POS pos="V"/><deriv isa="fact-VvT"/><deriv isa="Kaus"/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="V"/><st/>
@@ -20311,8 +19657,8 @@ Tat
 </HWB>
 </e>
   <e>
-    <stem_ref xml:lang="myv" hid="2" pos="V" lemma="XX"/>
-    <stem_ref xml:lang="mdf" hid="2" pos="V" lemma="шятямс"/>
+<root_ref xml:lang="myv" hid="2" pos="V" lemma="XX"/>
+<root_ref xml:lang="mdf" hid="2" pos="V" lemma="шятямс"/>
 <HWB>
 <E3Head><POS pos="V"/><deriv isa="frequ-NE"/><deriv isa="Frequ"/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="V"/><st/>
@@ -20353,8 +19699,8 @@ Tat
 </HWB>
 </e>
   <e>
-    <stem_ref xml:lang="myv" hid="2" pos="V" lemma="XX"/>
-    <stem_ref xml:lang="mdf" hid="2" pos="V" lemma="шятямс"/>
+<root_ref xml:lang="myv" hid="2" pos="V" lemma="XX"/>
+<root_ref xml:lang="mdf" hid="2" pos="V" lemma="шятямс"/>
 <HWB>
 <E3Head><POS pos="V"/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="V"/><st/>
@@ -20394,8 +19740,8 @@ Tat
 </HWB>
 </e>
   <e>
-<stem_name xml:lang="myv" hid="2" pos="V" lemma="XX"/>
-<stem_name xml:lang="mdf" hid="2" pos="V" lemma="пәчкамс"/>
+<root_name xml:lang="myv" hid="2" pos="V" lemma="XX"/>
+<root_name xml:lang="mdf" hid="2" pos="V" lemma="пәчкамс"/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="V">XX</l><st/>
@@ -20509,8 +19855,8 @@ Tat
 </HWB>
 </e>
   <e>
-<stem_name xml:lang="myv" hid="2" pos="V" lemma="XX"/>
-<stem_name xml:lang="mdf" hid="2" pos="V" lemma="тяремс"/>
+<root_name xml:lang="myv" hid="2" pos="V" lemma="XX"/>
+<root_name xml:lang="mdf" hid="2" pos="V" lemma="тяремс"/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="V">XX</l><st/>
@@ -20566,8 +19912,8 @@ Tat
 </HWB>
 </e>
   <e>
-<stem_name xml:lang="myv" hid="2" pos="V" lemma="XX"/>
-<stem_name xml:lang="mdf" hid="2" pos="V" lemma="шяямс"/>
+<root_name xml:lang="myv" hid="2" pos="V" lemma="XX"/>
+<root_name xml:lang="mdf" hid="2" pos="V" lemma="шяямс"/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="V">XX</l><st/>
@@ -20669,8 +20015,8 @@ Tat
 </HWB>
 </e>
   <e>
-<stem_name xml:lang="myv" hid="2" pos="V" lemma="XX"/>
-<stem_name xml:lang="mdf" hid="2" pos="V" lemma="шятямс"/>
+<root_name xml:lang="myv" hid="2" pos="V" lemma="XX"/>
+<root_name xml:lang="mdf" hid="2" pos="V" lemma="шятямс"/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="V">XX</l><st/>
@@ -20834,8 +20180,8 @@ Tat
 </HWB>
 </e>
   <e>
-    <stem_ref xml:lang="myv" hid="2" pos="Qnt" lemma="доволь"/>
-    <stem_ref xml:lang="mdf" hid="2" pos="Qnt" lemma=""/>
+<root_ref xml:lang="myv" hid="2" pos="Qnt" lemma="доволь"/>
+<root_ref xml:lang="mdf" hid="2" pos="Qnt" lemma=""/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="V">доволявомс</l>
@@ -20892,8 +20238,8 @@ Tat
 </Etg>
 </e>
   <e>
-<stem_name xml:lang="myv" hid="2" pos="V" lemma="иля"/>
-<stem_name xml:lang="mdf" hid="2" pos="V" lemma=""/>
+<root_name xml:lang="myv" hid="2" pos="V" lemma="иля"/>
+<root_name xml:lang="mdf" hid="2" pos="V" lemma=""/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="V">иля</l>
@@ -21669,8 +21015,8 @@ ChrE
 </MWUB>
 </e>
   <e>
-    <stem_ref xml:lang="myv" hid="2" pos="Interj" lemma="ох"/>
-    <stem_ref xml:lang="mdf" hid="2" pos="Interj" lemma="ох"/>
+<root_ref xml:lang="myv" hid="2" pos="Interj" lemma="ох"/>
+<root_ref xml:lang="mdf" hid="2" pos="Interj" lemma="ох"/>
 <HWB>
 <E3Head><POS pos="V"/><deriv isa="mom-DE"/><deriv isa="Mom"/></E3Head>
 <lg xml:lang="myv"><l pos="V">охадемс</l>
@@ -21762,8 +21108,8 @@ ChrE
 </HWB>
 </e>
   <e>
-    <stem_ref xml:lang="myv" hid="2" pos="Interj" lemma="ох"/>
-    <stem_ref xml:lang="mdf" hid="2" pos="Interj" lemma="ох"/>
+<root_ref xml:lang="myv" hid="2" pos="Interj" lemma="ох"/>
+<root_ref xml:lang="mdf" hid="2" pos="Interj" lemma="ох"/>
 <HWB>
 <E3Head><POS pos="V"/><deriv isa="iter-JA"/><deriv isa="Iter"/></E3Head>
 <lg xml:lang="myv"><l pos="V">охаемс</l>
@@ -21867,8 +21213,8 @@ ChrE
 </HWB>
 </e>
   <e>
-<stem_name xml:lang="myv" hid="2" pos="V" lemma="паломс"/>
-<stem_name xml:lang="mdf" hid="2" pos="V" lemma=""/>
+<root_name xml:lang="myv" hid="2" pos="V" lemma="паломс"/>
+<root_name xml:lang="mdf" hid="2" pos="V" lemma=""/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="V">паломс</l><st>паломс</st>
@@ -21920,8 +21266,8 @@ ChrE
 </Etg>
 </e>
   <e>
-    <stem_ref xml:lang="myv" hid="2" pos="V" lemma="XX"/>
-    <stem_ref xml:lang="mdf" hid="2" pos="V" lemma="тяремс"/>
+<root_ref xml:lang="myv" hid="2" pos="V" lemma="XX"/>
+<root_ref xml:lang="mdf" hid="2" pos="V" lemma="тяремс"/>
 <HWB>
 <E3Head><POS pos="V"/><deriv isa="fact-VvT"/><deriv isa="Kaus"/></E3Head>
 <lg xml:lang="myv"><l pos="V">терьневтемс</l>
@@ -21972,8 +21318,8 @@ ChrE
 </HWB>
 </e>
   <e>
-    <stem_ref xml:lang="myv" hid="2" pos="V" lemma="XX"/>
-    <stem_ref xml:lang="mdf" hid="2" pos="V" lemma="тяремс"/>
+<root_ref xml:lang="myv" hid="2" pos="V" lemma="XX"/>
+<root_ref xml:lang="mdf" hid="2" pos="V" lemma="тяремс"/>
 <HWB>
 <E3Head><POS pos="V"/><deriv isa="Inch"/></E3Head>
 <lg xml:lang="myv"><l pos="V">терьнезевемс</l>
@@ -22021,8 +21367,8 @@ ChrE
 </HWB>
 </e>
   <e>
-    <stem_ref xml:lang="myv" hid="2" pos="V" lemma="XX"/>
-    <stem_ref xml:lang="mdf" hid="2" pos="V" lemma="тяремс"/>
+<root_ref xml:lang="myv" hid="2" pos="V" lemma="XX"/>
+<root_ref xml:lang="mdf" hid="2" pos="V" lemma="тяремс"/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="V">терьнемс</l>
@@ -22187,8 +21533,8 @@ ChrE
 </HWB>
 </e>
   <e>
-<stem_name xml:lang="myv" hid="2" pos="V" lemma="эрьме"/>
-<stem_name xml:lang="mdf" hid="2" pos="V" lemma=""/>
+<root_name xml:lang="myv" hid="2" pos="V" lemma="эрьме"/>
+<root_name xml:lang="mdf" hid="2" pos="V" lemma=""/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="V">эрьме</l>
@@ -22481,6 +21827,142 @@ ChrE
 </GeoUB>
 <xt xml:lang="deu">[Gestern hatte er <Note>? zweimal so viel</Note> Geld].</xt>
 </xg>
+</MWUB>
+</e>
+  <e>
+<root_ref xml:lang="myv" hid="1" pos="V" lemma="петемс"/>
+<root_ref xml:lang="mdf" hid="1" pos="V" lemma="петемс"/>
+<HWB>
+<E3Head><POS/></E3Head>
+<lg xml:lang="myv"><l pos="V:ConNeg">петть</l>
+<st>петть</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="петь">ṕet́</Wd>
+</PhnU>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l pos="V:ConNeg"/><st/>
+</lg>
+<DerivationBlock>(mit Neg.)</DerivationBlock>
+<mg>
+<Sense vl="notGiven"/>
+</mg>
+<xg>
+:
+</xg>
+</HWB>
+<MWUB>
+<E3Head><POS/></E3Head>
+<lg xml:lang="myv"><l pos="Prc">апак петть</l>
+<st>апак петть</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="апак">apak</Wd>
+<Wd myvId="петь">ṕet́</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Kal</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l pos="Prc"/><st/>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">некастрированный</t>
+</tg>
+<tg xml:lang="deu">
+<t>unkastriert</t>
+<t>unverschnitten</t>
+</tg>
+</mg>
+</MWUB>
+<MWUB>
+<E3Head><POS/></E3Head>
+<lg xml:lang="myv"><l pos="N">апак петть айгор</l>
+<st>апак петть айгор</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="апак">apak</Wd>
+<Wd myvId="петь">ṕet́</Wd>
+<Wd myvId="айгу·р">ajgu·r</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Kal</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l pos="N"/><st/>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">некастрированный веребец</t>
+</tg>
+<tg xml:lang="deu">
+<t>unverschnittener Hengst</t>
+</tg>
+</mg>
+</MWUB>
+</e>
+  <e>
+<root_ref xml:lang="myv" hid="1" pos="V" lemma="пидемс"/>
+<root_ref xml:lang="mdf" hid="1" pos="V" lemma="пидемс"/>
+<HWB>
+<E3Head><POS pos="VNeg"/></E3Head>
+<lg xml:lang="myv"><l pos="V:ConNeg">пиде</l>
+<st>пиде</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="пиде">ṕid́e</Wd>
+</PhnU>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l pos="V:ConNeg"/><st/>
+</lg>
+<DerivationBlock>(mit Neg.)</DerivationBlock>
+<mg>
+<Sense vl="notGiven"/>
+</mg>
+<xg>
+:
+</xg>
+</HWB>
+<MWUB>
+<E3Head><POS pos="VNeg"/></E3Head>
+<lg xml:lang="myv"><l pos="Prc">апак пиде</l>
+<st>апак пиде</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="апак">apak</Wd>
+<Wd myvId="пиде">ṕid́e</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Mar</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l pos="Prc"/><st/>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">сырой</t>
+<t edit="MK">неварёный</t>
+</tg>
+<tg xml:lang="deu">
+<t>roh</t>
+<t>ungekocht</t>
+</tg>
+</mg>
+;
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">не варя</t>
+</tg>
+<tg xml:lang="deu">
+<t>ohne zu kochen</t>
+</tg>
+</mg>
 </MWUB>
 </e>
 </r>
