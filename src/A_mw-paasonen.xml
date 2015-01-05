@@ -1,6 +1,111 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="myv">
   <e>
+<root_ref xml:lang="myv" hid="1" pos="Pcle" lemma="адо"/>
+<root_ref xml:lang="mdf" hid="1" pos="" lemma=""/>
+<HWB>
+<E3Head><POS pos="A_IS-GEN"/></E3Head>
+<lg xml:lang="myv"><l pos="A">адонь</l>
+<st>адонь</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="адонь">adoń</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Večk</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
+<DerivationBlock>[Gen. von <i><tk2>
+<Wd CyrId="адо">ado</Wd></tk2></i>]</DerivationBlock>
+<mg>
+<Sense vl="notGiven"/>
+</mg>
+<xg>
+<x>
+<Wd myvId="вай">vaj</Wd>
+<Wd myvId="чангодинᴣат">čaŋgod́inᴣat</Wd>
+<Wd myvId="тейтерь">t́ejt́eŕ</Wd>
+<Hph/>
+<Wd myvId="эйть">ejt́</Wd>
+<tk3 isa="comma"/>
+<Wd myvId="адонь">adoń</Wd>
+<Wd myvId="пасиба">paśiba</Wd>
+<Wd myvId="одᴣ́ора">odᴣ́ora</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Večk</GeoU>
+</GeoUB>
+<sources>
+<book name="I" pg="439"/>
+</sources>
+<xt xml:lang="deu">Helf Gott, Mädchen! Danke, junger Mann!</xt>
+</xg>
+</HWB>
+</e>
+  <e>
+<root_ref xml:lang="myv" hid="1" pos="Pcle" lemma="нады"/>
+<root_ref xml:lang="mdf" hid="1" pos="" lemma=""/>
+<HWB>
+<E3Head><POS freeType="morphological" pos=""/></E3Head>
+<lg xml:lang="myv"><l pos="A">надобной</l>
+<st>надобной</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="надобной">nadobnoj</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Kozl</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">нужный</t>
+<t edit="MK">необходимый</t>
+<t edit="MK">годный</t>
+</tg>
+<tg xml:lang="deu">
+<t>nötig</t>
+<t>notwendig</t>
+<t>brauchbar</t>
+</tg>
+</mg>
+<xg>
+<x>
+<Wd myvId="латко">latko</Wd>
+<Hph edit="MK"/>
+<Wd myvId="чамасонть">čamasońt́</Wd>
+<Wd myvId="кичкере">ḱičḱeŕe</Wd>
+<Wd myvId="пекше">ṕekše</Wd>
+<tk3 isa="comma"/>
+<Wd myvId="кичкере">ḱičḱeŕe</Wd>
+<Wd myvId="пекше">ṕekše</Wd>
+<tk3 isa="comma"/>
+<Wd myvId="надобной">nadobnoj</Wd>
+<Wd myvId="чуфто">čufto</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Kozl</GeoU>
+</GeoUB>
+<sources>
+<book name="I" pg="343"/>
+</sources>
+<xt xml:lang="deu">Am Talhang steht eine krumme Linde, eine krumme Linde, ein brauchbarer Baum.</xt>
+</xg>
+</HWB>
+<Etg>
+<EtSrcL edit="MK" xml:lang="rus"/>
+<EtCtn>
+<Et edit="MK">надобный</Et>
+</EtCtn>
+</Etg>
+</e>
+  <e>
 <root_name xml:lang="myv" hid="2" pos="A" lemma="XX"/>
 <root_name xml:lang="mdf" hid="2" pos="A" lemma="прястальнай"/>
 <HWB>
