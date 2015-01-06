@@ -1,57 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="myv">
   <e>
-<root_ref xml:lang="myv" hid="2" pos="Interj" lemma="незнай"/>
-<root_ref xml:lang="mdf" hid="2" pos="Interj" lemma=""/>
-<HWB>
-<E3Head><POS/></E3Head>
-<lg xml:lang="myv"><l pos="N">незнайка</l>
-<st>незнайка</st>
-<PhnUBlock>
-<PhnU>
-<Wd myvId="незнайка">ńeznajka</Wd>
-</PhnU>
-<GeoUB xml:lang="myv">
-<GeoU>Mar</GeoU>
-</GeoUB>
-</PhnUBlock>
-</lg>
-<lg edit="JMR" xml:lang="mdf"><l pos="N"/><st/>
-</lg>
-<mg>
-<tg xml:lang="rus">
-<t edit="MK">не заботящийся о чём-н.</t>
-<t edit="MK">беззаботный</t>
-</tg>
-<tg xml:lang="deu">
-<t edit="MK">einer der sich um nichts kümmert</t>
-</tg>
-<tg xml:lang="deu">
-<t edit="MK">sorgloser Mensch</t>
-</tg>
-</mg>
-<xg>
-<x>
-<Wd myvId="косо">koso</Wd>
-<Wd myvId="монь">moń</Wd>
-<Wd myvId="ней">ńej</Wd>
-<Wd myvId="незнайкам">ńeznajkam</Wd>
-<Wd myvId="пишчевти">ṕiščevt́i</Wd>
-</x>
-<GeoUB xml:lang="myv">
-<GeoU>Mar</GeoU>
-</GeoUB>
-<xt xml:lang="deu">[Wo leidet nun mein Sorgloser?].</xt>
-</xg>
-</HWB>
-<Etg>
-<EtSrcL edit="MK" xml:lang="rus"/>
-<EtCtn>
-<Et edit="MK">незна́йка</Et>
-</EtCtn>
-</Etg>
-</e>
-  <e>
 <root_name xml:lang="myv" hid="2" pos="Ideoph" lemma="XX"/>
 <root_name xml:lang="mdf" hid="2" pos="Ideoph" lemma="чик"/>
 <HWB>
@@ -5894,7 +5843,7 @@ Tat., tschuw. <Et>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<l_drv drvType="Redupl"></l_drv>
+<l_drv drvType="Redupl"/>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">тише!</t>
@@ -7212,6 +7161,57 @@ Tat., tschuw. <Et>
 </tg>
 </mg>
 </HWB>
+</e>
+  <e>
+<root_ref xml:lang="myv" hid="2" pos="Interj" lemma="незнай"/>
+<root_ref xml:lang="mdf" hid="2" pos="Interj" lemma=""/>
+<HWB>
+<E3Head><POS/></E3Head>
+<lg xml:lang="myv"><l pos="N">незнайка</l>
+<st>незнайка</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="незнайка">ńeznajka</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Mar</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l pos="N"/><st/>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">не заботящийся о чём-н.</t>
+<t edit="MK">беззаботный</t>
+</tg>
+<tg xml:lang="deu">
+<t edit="MK">einer der sich um nichts kümmert</t>
+</tg>
+<tg xml:lang="deu">
+<t edit="MK">sorgloser Mensch</t>
+</tg>
+</mg>
+<xg>
+<x>
+<Wd myvId="косо">koso</Wd>
+<Wd myvId="монь">moń</Wd>
+<Wd myvId="ней">ńej</Wd>
+<Wd myvId="незнайкам">ńeznajkam</Wd>
+<Wd myvId="пишчевти">ṕiščevt́i</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Mar</GeoU>
+</GeoUB>
+<xt xml:lang="deu">[Wo leidet nun mein Sorgloser?].</xt>
+</xg>
+</HWB>
+<Etg>
+<EtSrcL edit="MK" xml:lang="rus"/>
+<EtCtn>
+<Et edit="MK">незна́йка</Et>
+</EtCtn>
+</Etg>
 </e>
   <e>
 <root_name xml:lang="myv" hid="2" pos="N" lemma="пизэ"/>
@@ -18970,7 +18970,7 @@ Tat
 </GeoUB>
 </PhnUBlock>
 </lg>
-<l_drv drvType="momentative"></l_drv>
+<l_drv drvType="momentative"/>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">охнуть</t>
@@ -21050,7 +21050,7 @@ ChrE
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="V"/><st/>
 </lg>
-<l_drv drvType="momentative"></l_drv>
+<l_drv drvType="momentative"/>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">охнуть</t>

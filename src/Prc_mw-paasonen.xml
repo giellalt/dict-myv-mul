@@ -1,92 +1,106 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="myv">
   <e>
-<root_ref xml:lang="myv" hid="1" pos="V" lemma="эрямс"/>
-<root_ref xml:lang="mdf" hid="1" pos="V" lemma="эрямс"/>
+<root_ref xml:lang="myv" hid="1" pos="Stem" lemma="кува-"/>
+<root_ref xml:lang="mdf" hid="1" pos="" lemma="кува-"/>
 <HWB>
-<E3Head><POS pos="N"/><deriv isa="prt-ZY"/></E3Head>
-<lg xml:lang="myv"><l pos="Prc">эрязь</l>
-<st>эрязь</st>
-<PhnUBlock>
-<Chc>
-<Vrt>
-<PhnU>
-<Wd myvId="эрязь">eŕäź</Wd>
-</PhnU>
-</Vrt>
-<Vrt>
-<PhnU src="MK">
-<Wd edit="MK" myvId="эрясь">eŕäś</Wd>
-</PhnU>
-</Vrt>
-</Chc>
-<GeoUB xml:lang="myv">
-<GeoU>Mar</GeoU>
-</GeoUB>
-</PhnUBlock>
-<PhnUBlock>
-<PhnU>
-<Wd myvId="эрязь">eŕaź</Wd>
-</PhnU>
-<GeoUB xml:lang="myv">
-<GeoU>SŠant</GeoU>
-</GeoUB>
-</PhnUBlock>
+<E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
+<lg edit="JMR" xml:lang="myv"><l pos="Prc"/><st/>
 </lg>
-<lg edit="JMR" xml:lang="mdf"><l pos="Prc"/><st/>
+<lg xml:lang="mdf"><l pos="Prc">кувакаста ашчи</l>
+<st>кувакаста ашчи</st>
+<PhnUBlock>
+<PhnU>
+<Wd mdfId="кувакаста">kuvakasta</Wd>
+<Wd mdfId="ашчи">ašči</Wd>
+</PhnU>
+<GeoUB xml:lang="mdf">
+<GeoU>Sel</GeoU>
+</GeoUB>
+</PhnUBlock>
 </lg>
 <mg>
 <tg xml:lang="rus">
-<t>пожилой</t>
+<t edit="MK">продолговатый</t>
 </tg>
 <tg xml:lang="deu">
-<t>älter</t>
-<t>ältlich</t>
-<t>bejahrt</t>
+<t>länglich</t>
+</tg>
+</mg>
+</HWB>
+</e>
+  <e>
+<root_ref xml:lang="myv" hid="1" pos="Stem" lemma="сырь-"/>
+<root_ref xml:lang="mdf" hid="1" pos="" lemma=""/>
+<HWB>
+<E3Head><POS/></E3Head>
+<lg edit="JMR" xml:lang="myv"><l pos="Prc"/><st/>
+</lg>
+<lg xml:lang="mdf"><l pos="Prc">сирьнетьф</l>
+<st>сирьнетьф</st>
+<PhnUBlock>
+<PhnU>
+<Wd mdfId="сирнетьф">śiŕńət́f</Wd>
+</PhnU>
+<GeoUB xml:lang="mdf">
+<GeoU>Patra</GeoU>
+<GeoU>Saz</GeoU>
+<GeoU>Katm</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">золочённый</t>
+</tg>
+<tg xml:lang="deu">
+<t>vergoldet</t>
 </tg>
 </mg>
 <xg>
 <x>
-<Wd myvId="тейтерись">t́ejt́eŕiś</Wd>
-<Wd myvId="пароль">paroĺ</Wd>
-<Wd myvId="сыре">si͔ŕe</Wd>
-<Wd myvId="матюша">mat́uša</Wd>
-<tk3 isa="comma"/>
-<Wd myvId="дочасяк">dočaśak</Wd>
-<Wd myvId="доброй">dobroj</Wd>
-<Wd myvId="эрясь">eŕäś</Wd>
-<Wd myvId="матюша">mat́uša</Wd>
+<Wd mdfId="сирнедя">śiŕńəd́ä</Wd>
+<Wd mdfId="сирнетьфть">śiŕńət́ft́</Wd>
+<Wd mdfId="синь">śiń</Wd>
+<Wd mdfId="шарынясна">šari͔ńasna</Wd>
 </x>
-<GeoUB xml:lang="myv">
-<GeoU>Mar</GeoU>
+<GeoUB xml:lang="mdf">
+<GeoU>Saz</GeoU>
 </GeoUB>
 <sources>
-<book name="1" pg="30"/>
+<book name="IV" pg="58"/>
 </sources>
-<xt xml:lang="deu">Ein gutes Mädchen war die alte Matjuscha, eine vortreffliche Tochter die bejahrte Matjuscha.</xt>
+<xt xml:lang="deu">Ihre Räder sind (so) vergoldet (dass sie) mehr als Gold (glänzen).</xt>
 </xg>
 <xg>
 <x>
-<Wd myvId="уш">uš</Wd>
-<Wd edit="MK" myvId="мень">ḿeń</Wd>
-<Wd myvId="кис">ḱis</Wd>
-<Wd myvId="авардят">avaŕd́at</Wd>
-<Wd myvId="сыре">si͔ŕe</Wd>
-<Wd myvId="матюша">mat́uša</Wd>
-<tk3 isa="comma"/>
-<Wd edit="MK" myvId="мень">ḿeń</Wd>
-<Wd myvId="кис">ḱis</Wd>
-<Wd edit="MK" myvId="мелявтат">ḿeĺavtat</Wd>
-<Wd myvId="эрясь">eŕäś</Wd>
-<Wd myvId="матюша">mat́uša</Wd>
-<tk3 isa="quest"/></x>
-<GeoUB xml:lang="myv">
-<GeoU>Mar</GeoU>
+<Wd mdfId="сирнеса">śiŕńəsa</Wd>
+<Wd edit="MK" mdfId="сирнетьфть">śiŕńət́ft́</Wd>
+<Wd mdfId="сонь">soń</Wd>
+<Wd mdfId="пацянянзон">paćäńanzə̑n</Wd>
+</x>
+<GeoUB xml:lang="mdf">
+<GeoU>Patra</GeoU>
 </GeoUB>
 <sources>
-<book name="1" pg="32"/>
+<book name="IV" pg="179"/>
 </sources>
-<xt xml:lang="deu">Warum weinst du, alte Matjuscha, warum grämst du dich, bejahrte Matjuscha?</xt>
+<xt xml:lang="deu">Golden leuchten ihre Flügel.</xt>
+</xg>
+<xg>
+<x>
+<Wd mdfId="сирнедя">śiŕńəd́ä</Wd>
+<Wd mdfId="сирнетьфть">śiŕńət́ft́</Wd>
+<Wd mdfId="сонь">soń</Wd>
+<Wd mdfId="пацянянзан">paćäńanzan</Wd>
+</x>
+<GeoUB xml:lang="mdf">
+<GeoU>Katm</GeoU>
+</GeoUB>
+<sources>
+<book name="IV" pg="345"/>
+</sources>
+<xt xml:lang="deu">Goldener als Gold leuchten seine Flügel.</xt>
 </xg>
 </HWB>
 </e>
@@ -8808,6 +8822,266 @@ Ger. <Et>лёжа</Et>]
 </HWB>
 </e>
   <e>
+<root_ref xml:lang="myv" hid="1" pos="Stem" lemma="XX"/>
+<root_ref xml:lang="mdf" hid="1" pos="Stem" lemma="азар-"/>
+<HWB>
+<E3Head><POS pos="N"/><deriv isa="prt-ZY"/></E3Head>
+<lg xml:lang="myv"><l pos="Prc">азаргадозь</l>
+<st>азаргадозь</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="азаргадозь">azargadoź</Wd>
+</PhnU>
+<GeoUB edit="MK" xml:lang="myv">
+<GeoU edit="MK">NSurk</GeoU>
+</GeoUB>
+</PhnUBlock>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="азаргадузь">azargaduź</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Hl</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">бешеный</t>
+<t edit="MK">помешанный</t>
+<t edit="MK">неистовый</t>
+</tg>
+<tg xml:lang="deu">
+<t>toll</t>
+<t>wahnsinnig</t>
+<t>besessen</t>
+</tg>(
+<GeoUB xml:lang="myv">
+<GeoU>Hl</GeoU>
+</GeoUB>
+)</mg>
+<xg>
+<x>
+<Wd myvId="азаргадозь">azargadoź</Wd>
+<Wd myvId="кулыця">kuli͔ća</Wd>
+</x>
+<GeoUB edit="MK" xml:lang="myv">
+<GeoU edit="MK">NSurk</GeoU>
+</GeoUB>
+<sources>
+<book name="III" pg="187"/>
+</sources>
+<xt xml:lang="deu">Die als Verrückte Gestorbene(n).</xt>
+</xg>
+</HWB>
+</e>
+  <e>
+<root_ref xml:lang="myv" hid="1" pos="Stem" lemma="XX"/>
+<root_ref xml:lang="mdf" hid="1" pos="Stem" lemma="азар-"/>
+<HWB>
+<E3Head><POS pos="A"/></E3Head>
+<lg xml:lang="myv"><l pos="Prc">азардсь</l>
+<st>азардсь</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="азарьць">azaŕć</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Mar</GeoU>
+</GeoUB>
+<InflB>
+<InflCtn>
+<Infl>
+<Wd tag="+SP+Gen+Indef" myvId="азарьцинь">azaŕćiń</Wd>
+</Infl>
+</InflCtn>
+</InflB>
+</PhnUBlock>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="азарьць">azaŕć</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Ba</GeoU>
+<GeoU>Večk</GeoU>
+<GeoU edit="MK">Bug</GeoU>
+<GeoU>NBajt</GeoU>
+<GeoU>Vez</GeoU>
+<GeoU>StMokl</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
+<mg>
+<TrlnCtn>
+<tg xml:lang="rus">
+<t edit="MK">сумасшедший</t>
+<t edit="MK">бешеный</t>
+</tg>
+<tg xml:lang="rus">
+<t edit="MK">помешанный</t>
+<t edit="MK">неистовый</t>
+</tg>
+</TrlnCtn>
+<tg xml:lang="deu">
+<t>wahnsinnig</t>
+<t>toll</t>
+<t>besessen</t>
+<t>rasend</t>
+</tg>
+</mg>
+<xg>
+<x>
+<Wd myvId="ней">ńej</Wd>
+<Wd myvId="кунцолодо">kuncolodo</Wd>
+<Wd myvId="кортаса">kortasa</Wd>
+<Wd myvId="уцяскавтомо">ućaskavtomo</Wd>
+<Wd myvId="ломаненть">lomańeńt́</Wd>
+<tk3 isa="comma"/>
+<Wd myvId="конань">konań</Wd>
+<Wd myvId="полазо">polazo</Wd>
+<Wd myvId="сон">son</Wd>
+<Wd myvId="азарьць">azaŕć</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Večk</GeoU>
+</GeoUB>
+<sources>
+<book name="V" pg="244"/>
+</sources>
+<xt xml:lang="deu">Hört mir zu, ich beschreibe einen unglücklichen Menschen, der eine böse Frau hat.</xt>
+</xg>
+</HWB>
+<MWUB>
+<E3Head><POS/></E3Head>
+<lg xml:lang="myv"><l pos="N">азардсь кель</l>
+<st>азардсь кель</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="азарьць">azaŕć</Wd>
+<Wd myvId="кель">ḱeĺ</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>NSurk</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">рана, полученная от повреждения</t>
+</tg>
+<tg xml:lang="deu">
+<t>Wunde, die durch Verletzung entsteht</t>
+</tg>
+</mg>
+<xg>
+<x>
+<Wd myvId="кортавтума">kortavtuma</Wd>
+<Wd myvId="азарьць">azaŕć</Wd>
+<Wd myvId="кельде">ḱeĺd́e</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>NSurk</GeoU>
+</GeoUB>
+<sources>
+<book name="III" pg="63"/>
+</sources>
+<xt xml:lang="deu">Zauberspruch gegen eine Wunde, die man beim Hinfallen bekommen hat.</xt>
+</xg>
+</MWUB>
+<MWUB>
+<E3Head><POS/></E3Head>
+<lg xml:lang="myv"><l pos="N">азардсь киска</l>
+<st>азардсь киска</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="азарьць">azaŕć</Wd>
+<Wd myvId="киска">ḱiska</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Mar</GeoU>
+<GeoUCtn>
+<FrCm freeType="questionRelation" Modification="manus"/>
+<GeoU>Bug</GeoU>
+</GeoUCtn>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">бешеная собака</t>
+</tg>
+<tg xml:lang="deu">
+<t>tollwütiger Hund</t>
+</tg>
+</mg>
+<xg>
+<x>
+<Wd myvId="уж">už</Wd>
+<Wd myvId="азарьць">azaŕć</Wd>
+<Wd myvId="кискакс">ḱiskaks</Wd>
+<Wd myvId="сынь">si͔ń</Wd>
+<Wd myvId="турить">tuŕit́</Wd>
+</x>
+<GeoUB edit="MK" xml:lang="myv">
+<GeoU edit="MK">Bug</GeoU>
+</GeoUB>
+<sources>
+<book name="VI" pg="44"/>
+</sources>
+<xt xml:lang="deu">Sie kämpfen wie tolle (wütige) Hunde.</xt>
+</xg>
+</MWUB>
+<MWUB>
+<E3Head><POS/></E3Head>
+<lg xml:lang="myv"><l pos="N">азардсь пине</l>
+<st>азардсь пине</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="азарьць">azaŕć</Wd>
+<Wd myvId="пине">ṕińe</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Vez</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
+<mg copiedFrom="preceding">
+<tg xml:lang="rus">
+<t edit="MK">бешеная собака</t>
+</tg>
+<tg xml:lang="deu">
+<t>tollwütiger Hund</t>
+</tg>
+</mg>
+<xg>
+<x>
+<Wd myvId="мейс">ḿejs</Wd>
+<Wd myvId="маньчик">mańčiḱ</Wd>
+<Wd myvId="азарьць">azaŕć</Wd>
+<Wd myvId="пине">ṕińe</Wd>
+<Wd myvId="козяйкам">koźajkam</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Vez</GeoU>
+</GeoUB>
+<sources>
+<book name="II" pg="151"/>
+</sources>
+<xt xml:lang="deu">Was verführtest du meine Gattin, die tolle Hündin?</xt>
+</xg>
+</MWUB>
+</e>
+  <e>
 <root_ref xml:lang="myv" hid="1" pos="V" lemma="азомс"/>
 <root_ref xml:lang="mdf" hid="1" pos="V" lemma="азәмс"/>
 <HWB>
@@ -12044,6 +12318,56 @@ Ger. <Et>лёжа</Et>]
 </HWB>
 </e>
   <e>
+<root_ref xml:lang="myv" hid="1" pos="Stem" lemma="вель-"/>
+<root_ref xml:lang="mdf" hid="1" pos="" lemma="вель-"/>
+<HWB>
+<E3Head><POS freeType="morphological" pos="pastPrt"/></E3Head>
+<lg edit="JMR" xml:lang="myv"><l pos="Prc">вельтявт</l>
+<st>ве4льтявт</st>
+</lg>
+<lg xml:lang="mdf"><l>вельтяф</l>
+<st>вельтяф</st>
+<PhnUBlock>
+<PhnU>
+<Wd mdfId="вельхтяф">v́eĺʿt́af</Wd>
+</PhnU>
+<GeoUB xml:lang="mdf">
+<GeoU>P</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">покрытый</t>
+<Cm edit="MK">разбросанный</Cm>
+</tg>
+<tg xml:lang="deu">
+<t>bedeckt [ausgebreitet]</t>
+</tg>
+</mg>
+<xg>
+<x>
+<Wd mdfId="лата">lata</Wd>
+<Hph edit="MK"/>
+<Wd mdfId="прява">pŕava</Wd>
+<Wd mdfId="акша">akša</Wd>
+<Wd mdfId="котф">kotf</Wd>
+<Wd mdfId="вельхтяф">v́eĺʿt́af</Wd>
+<tk3 isa="fullstop"/>
+<tk3 isa="dash"/>
+<Wd mdfId="ловсь">lovś</Wd>
+</x>
+<GeoUB xml:lang="mdf">
+<GeoU>P</GeoU>
+</GeoUB>
+<sources>
+<book name="IV" pg="641"/>
+</sources>
+<xt xml:lang="deu">Auf dem Schutzdach ist ein weisses Tuch ausgebreitet. – Der Schnee.</xt>
+</xg>
+</HWB>
+</e>
+  <e>
 <root_ref xml:lang="myv" hid="1" pos="V" lemma="ветямс"/>
 <root_ref xml:lang="mdf" hid="1" pos="V" lemma="вятемс"/>
 <HWB>
@@ -14741,6 +15065,144 @@ Ger. <Et>лёжа</Et>]
 </tg>
 </mg>
 </MWUB>
+</e>
+  <e>
+<root_ref xml:lang="myv" hid="1" pos="Stem" lemma="каргодо"/>
+<root_ref xml:lang="mdf" hid="1" pos="" lemma=""/>
+<HWB>
+<E3Head><POS pos="A"/></E3Head>
+<lg xml:lang="myv"><l pos="Prc">каргоць</l>
+<st>каргоць</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="каргуць">karguć</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Mar</GeoU>
+</GeoUB>
+</PhnUBlock>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="каргоць">kargoć</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Atr</GeoU>
+<GeoU>VVr</GeoU>
+<GeoU>Večk</GeoU>
+</GeoUB>
+</PhnUBlock>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="каргᴉ͐ць">kargᴉ͐ć</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Ba</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg xml:lang="mdf"><l>каргуць</l>
+<st>каргуць</st>
+<PhnUBlock>
+<PhnU>
+<Wd mdfId="каргуць">karguć</Wd>
+</PhnU>
+<GeoUB xml:lang="mdf">
+<GeoU>Sel</GeoU>
+</GeoUB>
+</PhnUBlock>
+<PhnUBlock>
+<PhnU>
+<Wd mdfId="карьгəць">kaŕgəć</Wd>
+</PhnU>
+<GeoUB xml:lang="mdf">
+<GeoU>Pš</GeoU>
+</GeoUB>
+</PhnUBlock>
+<PhnUBlock>
+<Chc>
+<Vrt>
+<PhnU>
+<Wd mdfId="карьгəць">kaŕgəć</Wd>
+</PhnU>
+</Vrt>
+<Vrt>
+<PhnU>
+<Wd mdfId="карьгоць">kaŕgə̑ć</Wd>
+</PhnU>
+</Vrt>
+</Chc>
+<GeoUB xml:lang="mdf">
+<GeoU>Ur</GeoU>
+</GeoUB>
+</PhnUBlock>
+<PhnUBlock>
+<PhnU>
+<Wd mdfId="карьгə·ць">kaŕgə·ć</Wd>
+</PhnU>
+<GeoUB xml:lang="mdf">
+<GeoU>Jurtk</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">загрязнившийся</t>
+<t edit="MK">грязный</t>
+</tg>
+<tg xml:lang="deu">
+<t>durch Schmutz verhärtet</t>
+<t>schmutzig</t>
+</tg>
+</mg>
+;
+<mg>
+<tg xml:lang="rus">
+<t>чумазый</t>
+<t>замаранный</t>
+</tg>
+<tg xml:lang="deu">
+<t>schmutzig</t>
+<t>beschmutzt</t>
+</tg>
+<dfQl1>(<l1>
+<GeoUB xml:lang="myv">
+<GeoU>Mar: z.B. Hemd, Gesicht; </GeoU>
+</GeoUB>
+<GeoUB xml:lang="mdf">
+<GeoU>Pš</GeoU>
+<GeoU>Ur</GeoU>
+<GeoU>Jurtk</GeoU>
+</GeoUB>
+: von Kleidern</l1>)</dfQl1>
+</mg>
+;
+<mg>
+<dfLQl1>(
+<GeoUB xml:lang="mdf">
+<GeoU>Sel</GeoU>
+</GeoUB>
+<re>:)</re></dfLQl1>
+<tg xml:lang="rus">
+<t edit="MK">грубый</t>
+<t edit="MK">суровый</t>
+</tg>
+<tg xml:lang="deu">
+<t>grob</t>
+<t>rauh</t>
+</tg>
+</mg>
+<xg>
+<x>
+<Wd mdfId="монь">moń</Wd>
+<Wd mdfId="панарозя">pana·rə̑źä</Wd>
+<Wd mdfId="карьгə·тьсь">kaŕgə·t́ś</Wd>
+</x>
+<GeoUB xml:lang="mdf">
+<GeoU>Jurtk</GeoU>
+</GeoUB>
+<xt xml:lang="deu">Mein Hemd ist schmutzig.</xt>
+</xg>
+</HWB>
 </e>
   <e>
 <root_ref xml:lang="myv" hid="1" pos="V" lemma="кардамс"/>
@@ -29897,7 +30359,7 @@ Ger. <Et>лёжа</Et>]
 </GeoUB>
 </PhnUBlock>
 </lg>
-<SubjectField>bot</SubjectField>
+<domain>bot</domain>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">какой-то вид чертополоха или крапивы</t>
@@ -30646,6 +31108,43 @@ Ger. <Et>лёжа</Et>]
 </HWB>
 </e>
   <e>
+<root_ref xml:lang="myv" hid="1" pos="Stem" lemma="раця-"/>
+<root_ref xml:lang="mdf" hid="1" pos="" lemma=""/>
+<HWB>
+<E3Head><POS pos="N"/><deriv isa="prt-ZY"/></E3Head>
+<lg xml:lang="myv"><l pos="Prc">рацякадозь</l>
+<st>рацякадозь</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="рацякадозь">raćakadoź</Wd>
+</PhnU>
+<GeoUB edit="MK" xml:lang="myv">
+<GeoU edit="MK">Večk</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
+<DrvG>(<DrvT vl="verbalNoun"/>)</DrvG>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">раскидистый</t>
+</tg>
+<tg xml:lang="deu">
+<t>breitgewachsen</t>
+</tg>
+</mg>
+<xg>
+<x>
+<Wd CyrId="рацякадозь">raćakadoź</Wd>
+<Wd CyrId="тараткенᴣэ">taratḱenᴣe͔</Wd>
+</x>
+<GeoNeed/>
+<xt xml:lang="deu">Seine Zweige sind breitgewachsen.</xt>
+</xg>
+</HWB>
+</e>
+  <e>
 <root_ref xml:lang="myv" hid="1" pos="V" lemma="раштамс"/>
 <root_ref xml:lang="mdf" hid="1" pos="V" lemma="раштамс"/>
 <HWB>
@@ -31144,6 +31643,442 @@ Ger. <Et>лёжа</Et>]
 <xt xml:lang="deu">Sie nahmen alle Kuchen [“Alle Kuchen (sind) weggenommen (worden)”], (nur) einer blieb übrig.</xt>
 </xg>
 </HWB>
+</e>
+  <e>
+<root_ref xml:lang="myv" hid="1" pos="Stem" lemma="сала-"/>
+<root_ref xml:lang="mdf" hid="1" pos="" lemma=""/>
+<HWB>
+<E3Head><POS pos="N"/><deriv isa="prt-I"/></E3Head>
+<lg xml:lang="myv"><l pos="Prc">салы</l>
+<st>салы</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="салы">sali͔</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU extension="common"/>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg xml:lang="mdf"><l>салай</l>
+<st>салай</st>
+<PhnUBlock>
+<PhnU>
+<Wd mdfId="салай">salaj</Wd>
+</PhnU>
+<GeoUB xml:lang="mdf">
+<GeoU extension="common"/>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">ворующий</t>
+</tg>
+<tg xml:lang="deu">
+<t>stehlend</t>
+</tg>
+</mg>
+;
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">вор</t>
+</tg>
+<tg xml:lang="deu">
+<t>Dieb</t>
+</tg>
+</mg>
+<xg>
+<x>
+<Wd myvId="нолдан">noldan</Wd>
+<Wd myvId="салысэ">sali͔se͔</Wd>
+<tk3 isa="comma"/>
+<Wd myvId="нолдан">noldan</Wd>
+<Wd myvId="колысэ">koli͔se͔</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Večk</GeoU>
+</GeoUB>
+<sources>
+<book name="I" pg="106"/>
+</sources>
+<xt xml:lang="deu">Ich schicke Diebe, ich schicke Missetäter.</xt>
+</xg>
+</HWB>
+<MWUB>
+<E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
+<lg xml:lang="myv"><l>алашань салы</l>
+<st>алашань салы</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="алашань">alašań</Wd>
+<Wd myvId="салы">sali͔</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Mar</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">конокрад</t>
+</tg>
+<tg xml:lang="deu">
+<t>Pferdedieb</t>
+</tg>
+</mg>
+<xg>
+<x>
+<Wd myvId="нете">ńet́e</Wd>
+<Wd myvId="кодат">kodat</Wd>
+<Wd myvId="пинетне">ṕińet́ńe</Wd>
+<tk3 isa="quest"/>
+<Wd myvId="чить">či͔t́</Wd>
+<Wd myvId="алашань">alašań</Wd>
+<Wd myvId="салытне">sali͔t́ńe</Wd>
+<tk3 isa="comma"/>
+<Wd myvId="веть">v́et́</Wd>
+<Wd myvId="утомонь">utomoń</Wd>
+<Wd myvId="грабитне">grab́it́ńe</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Mar</GeoU>
+</GeoUB>
+<sources>
+<book name="1" pg="134"/>
+</sources>
+<xt xml:lang="deu">Was sind diese für Unverschämte [“Hunde”]? Bei Tage Pferdediebe, in der Nacht Plünderer von Speichern.</xt>
+</xg>
+</MWUB>
+<MWUB>
+<E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
+<lg xml:lang="myv"><l>калынь салы</l>
+<st>калынь салы</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="калынь">kali͔ń</Wd>
+<Wd myvId="салы">sali͔</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU/>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg xml:lang="mdf"><l>каләнь салай</l>
+<st>каләнь салай</st>
+<PhnUBlock>
+<PhnU>
+<Wd mdfId="калə̑нь">kalə̑ń</Wd>
+<Wd mdfId="салай">salaj</Wd>
+</PhnU>
+<GeoUB xml:lang="mdf">
+<GeoU>P</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<t>мартышка</t>
+</tg>
+<tg xml:lang="deu">
+<t>Seeschwalbe</t>
+</tg>(
+<GeoUB xml:lang="myv">
+<GeoU/>
+</GeoUB>
+)</mg>
+;
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">чайка</t>
+</tg>
+<tg xml:lang="deu">
+<t>Möwe</t>
+</tg>(
+<GeoUB xml:lang="mdf">
+<GeoU>P</GeoU>
+</GeoUB>
+)</mg>
+</MWUB>
+<MWUB>
+<E3Head><POS pos="N"/><deriv isa="prt-I"/></E3Head>
+<lg xml:lang="myv"><l>салы-токе</l>
+<st>салы-токе</st>
+<PhnUBlock>
+<Chc>
+<Vrt>
+<PhnU>
+<Wd myvId="салы">sali͔</Wd>
+<Hph/>
+<Wd myvId="токе">toḱe</Wd>
+</PhnU>
+</Vrt>
+<Vrt>
+<PhnU>
+<Hph/>
+<Wd myvId="токи">toḱi</Wd>
+</PhnU>
+</Vrt>
+</Chc>
+<GeoUB xml:lang="myv">
+<GeoU>Petr</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">воровской</t>
+<t edit="MK">ворующий</t>
+</tg>
+<tg xml:lang="deu">
+<t>diebisch</t>
+<t>stehlend</t>
+</tg>
+</mg>
+<xg>
+<x>
+<Wd myvId="ванык">vani͔ḱ</Wd>
+<Wd myvId="цярахманда">ćaraᵪmanda</Wd>
+<tk3 isa="comma"/>
+<Wd myvId="а">a</Wd>
+<Wd myvId="пара">para</Wd>
+<Wd myvId="вармада">varmada</Wd>
+<tk3 isa="comma"/>
+<Wd myvId="салы">sali͔</Wd>
+<Hph/>
+<Wd myvId="токе">toḱe</Wd>
+<Wd myvId="ломанда">lomańda</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Petr</GeoU>
+</GeoUB>
+<sources>
+<book name="VIII" pg="84"/>
+</sources>
+<xt xml:lang="deu">Schütze ‒‒‒ vor Hagel, vor bösen Winden, vor diebischen Menschen!</xt>
+</xg>
+<xg>
+<x>
+<Wd myvId="ваныть">vani͔t́</Wd>
+<Wd myvId="‒‒‒">‒‒‒</Wd>
+<Wd myvId="салы">sali͔</Wd>
+<Hph/>
+<Wd myvId="токи">toḱi</Wd>
+<Wd myvId="ломанда">lomańda</Wd>
+<tk3 isa="excl"/></x>
+<GeoUB xml:lang="myv">
+<GeoU>Petr</GeoU>
+</GeoUB>
+<sources>
+<book name="VIII" pg="92"/>
+</sources>
+<xt xml:lang="deu">Schütze ‒‒‒ vor diebischen Menschen!</xt>
+</xg>
+</MWUB>
+<MWUB>
+<E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
+<lg xml:lang="myv"><l>салмуксынь салы</l>
+<st>салмуксынь салы</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="салмуксынь">salmuksi͔ń</Wd>
+<Wd myvId="салы">sali͔</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Mar</GeoU>
+</GeoUB>
+</PhnUBlock>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="салмуксонь">salmuksoń</Wd>
+<Wd myvId="салы">sali͔</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Večk</GeoU>
+<GeoU>Is</GeoU>
+</GeoUB>
+</PhnUBlock>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="салмоксонь">salmoksoń</Wd>
+<Wd myvId="салӓ͔">salä͔</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Kad</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg xml:lang="mdf"><l>салмәкс-салай</l>
+<st>салмәкс-салай</st>
+<PhnUBlock>
+<PhnU>
+<Wd mdfId="салмокс">salmə̑ks</Wd>
+<Hph/>
+<Wd mdfId="салай">salaj</Wd>
+</PhnU>
+<GeoUB xml:lang="mdf">
+<GeoU>P</GeoU>
+</GeoUB>
+</PhnUBlock>
+<PhnUBlock>
+<PhnU>
+<Wd mdfId="салмоксонь">salmə̑ksə̑ń</Wd>
+<Wd mdfId="салай">salaj</Wd>
+</PhnU>
+<GeoUB xml:lang="mdf">
+<GeoU>Čemb</GeoU>
+<GeoU>Sučk</GeoU>
+</GeoUB>
+</PhnUBlock>
+<PhnUBlock>
+<Chc>
+<Vrt>
+<PhnU>
+<Wd mdfId="салмукс">salmuks</Wd>
+<Hph/>
+<Wd mdfId="салай">salaj</Wd></PhnU>
+</Vrt>
+<Vrt>
+<PhnU>
+<Wd mdfId="салмукс">salmuks</Wd>
+<Hph/>
+<WdCtn>
+<FrCm freeType="questionRelation" Modification="manus"/>
+<Wd mdfId="салӓ">salä</Wd>
+</WdCtn>
+</PhnU>
+</Vrt>
+</Chc>
+<GeoUB xml:lang="mdf">
+<GeoU>Sel</GeoU>
+</GeoUB>
+</PhnUBlock>
+<PhnUBlock>
+<PhnU>
+<Wd mdfId="салмоксо·нь">salmə̑ksə̑·ń</Wd>
+<Wd mdfId="залай">zala·j</Wd>
+</PhnU>
+<GeoUB xml:lang="mdf">
+<GeoU>MdJurtk</GeoU>
+</GeoUB>
+</PhnUBlock>
+<PhnUBlock>
+<PhnU>
+<Wd mdfId="салмокс">salmə̑ks</Wd>
+<Hph/>
+<Wd mdfId="салаі">salai</Wd>
+</PhnU>
+<GeoUB xml:lang="mdf">
+<GeoU/>
+</GeoUB>
+<InflB>
+<InflCtn>
+<InflTags tag="+SP+Gen+Indef"/>
+<Infl><Wd mdfId="салмокс">salmə̑ks</Wd>
+<Hph/>
+<Wd mdfId="салаін">salain</Wd>
+</Infl>
+</InflCtn>
+</InflB>
+</PhnUBlock>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<t>коромысло</t>
+<t edit="MK">стрекоза</t>
+</tg>
+<tg xml:lang="deu">
+<t>Wasserjungfer</t>
+<t pos="N">Libelle</t>
+</tg>
+<dfQl1>(
+<GeoUB xml:lang="myv">
+<GeoU>Mar</GeoU>
+<GeoU>Večk</GeoU>
+<GeoU>Is</GeoU>
+<GeoU>Kad</GeoU>
+</GeoUB>
+<GeoUB xml:lang="mdf">
+<GeoU>P</GeoU>
+<GeoU>Čemb</GeoU>
+<GeoU>Sučk</GeoU>
+<GeoU>Sel</GeoU>
+<GeoU>MdJurtk</GeoU>
+</GeoUB>
+)</dfQl1>
+</mg>
+;
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">какая-то птичка</t>
+</tg>
+<tg xml:lang="deu">
+<t>ein (kleiner) Vogel</t>
+</tg>(
+<GeoUB xml:lang="mdf">
+<GeoU/>
+</GeoUB>
+)</mg>
+</MWUB>
+<MWUB>
+<E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
+<lg edit="JMR" xml:lang="myv"><l/><st/>
+</lg>
+<lg xml:lang="mdf"><l>вайньнь салай</l>
+<st>вайньнь салай</st>
+<PhnUBlock>
+<PhnU>
+<Wd mdfId="вайннь">vajńń</Wd>
+<Wd mdfId="салай">salaj</Wd>
+</PhnU>
+<GeoUB xml:lang="mdf">
+<GeoU>Sel</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">какое-то растение</t>
+</tg>
+<tg xml:lang="deu">
+<t>irgendeine Pflanze</t>
+</tg>
+</mg>
+;
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">? стрекоза</t>
+</tg>
+<tg xml:lang="deu">
+<t>[?] Wasserjungfer</t>
+<t pos="N">Libelle</t>
+</tg>
+</mg>
+;
+<mg>
+<tg xml:lang="rus">
+<t>снегирь</t>
+</tg>
+<tg xml:lang="deu">
+<t>Dompfaff</t>
+<t>Gimpel</t>
+</tg>
+</mg>
+;
+<mg>
+<tg xml:lang="rus">
+<t>? щеглёнок</t>
+</tg>
+<tg xml:lang="deu">
+<t>? Stieglitz</t>
+<t>Distelfink</t>
+</tg>
+</mg>
+</MWUB>
 </e>
   <e>
 <root_ref xml:lang="myv" hid="1" pos="V" lemma="сивемс"/>
@@ -41082,6 +42017,96 @@ folg.]
 <GeoU>P</GeoU>
 </GeoUB>
 </dfQsyn1>)</mg>
+</HWB>
+</e>
+  <e>
+<root_ref xml:lang="myv" hid="1" pos="V" lemma="эрямс"/>
+<root_ref xml:lang="mdf" hid="1" pos="V" lemma="эрямс"/>
+<HWB>
+<E3Head><POS pos="N"/><deriv isa="prt-ZY"/></E3Head>
+<lg xml:lang="myv"><l pos="Prc">эрязь</l>
+<st>эрязь</st>
+<PhnUBlock>
+<Chc>
+<Vrt>
+<PhnU>
+<Wd myvId="эрязь">eŕäź</Wd>
+</PhnU>
+</Vrt>
+<Vrt>
+<PhnU src="MK">
+<Wd edit="MK" myvId="эрясь">eŕäś</Wd>
+</PhnU>
+</Vrt>
+</Chc>
+<GeoUB xml:lang="myv">
+<GeoU>Mar</GeoU>
+</GeoUB>
+</PhnUBlock>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="эрязь">eŕaź</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>SŠant</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l pos="Prc"/><st/>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<t>пожилой</t>
+</tg>
+<tg xml:lang="deu">
+<t>älter</t>
+<t>ältlich</t>
+<t>bejahrt</t>
+</tg>
+</mg>
+<xg>
+<x>
+<Wd myvId="тейтерись">t́ejt́eŕiś</Wd>
+<Wd myvId="пароль">paroĺ</Wd>
+<Wd myvId="сыре">si͔ŕe</Wd>
+<Wd myvId="матюша">mat́uša</Wd>
+<tk3 isa="comma"/>
+<Wd myvId="дочасяк">dočaśak</Wd>
+<Wd myvId="доброй">dobroj</Wd>
+<Wd myvId="эрясь">eŕäś</Wd>
+<Wd myvId="матюша">mat́uša</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Mar</GeoU>
+</GeoUB>
+<sources>
+<book name="1" pg="30"/>
+</sources>
+<xt xml:lang="deu">Ein gutes Mädchen war die alte Matjuscha, eine vortreffliche Tochter die bejahrte Matjuscha.</xt>
+</xg>
+<xg>
+<x>
+<Wd myvId="уш">uš</Wd>
+<Wd edit="MK" myvId="мень">ḿeń</Wd>
+<Wd myvId="кис">ḱis</Wd>
+<Wd myvId="авардят">avaŕd́at</Wd>
+<Wd myvId="сыре">si͔ŕe</Wd>
+<Wd myvId="матюша">mat́uša</Wd>
+<tk3 isa="comma"/>
+<Wd edit="MK" myvId="мень">ḿeń</Wd>
+<Wd myvId="кис">ḱis</Wd>
+<Wd edit="MK" myvId="мелявтат">ḿeĺavtat</Wd>
+<Wd myvId="эрясь">eŕäś</Wd>
+<Wd myvId="матюша">mat́uša</Wd>
+<tk3 isa="quest"/></x>
+<GeoUB xml:lang="myv">
+<GeoU>Mar</GeoU>
+</GeoUB>
+<sources>
+<book name="1" pg="32"/>
+</sources>
+<xt xml:lang="deu">Warum weinst du, alte Matjuscha, warum grämst du dich, bejahrte Matjuscha?</xt>
+</xg>
 </HWB>
 </e>
   <e>

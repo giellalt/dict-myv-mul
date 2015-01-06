@@ -2385,6 +2385,88 @@
 </HWB>
 </e>
   <e>
+<root_ref xml:lang="myv" hid="1" pos="Stem" lemma="вель-"/>
+<root_ref xml:lang="mdf" hid="1" pos="" lemma="вель-"/>
+<HWB>
+<E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
+<lg xml:lang="myv"><l pos="VGen">вельтянь</l>
+<st>ве4льтянь</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="вельтянь">v́eĺt́äń</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Mar</GeoU>
+</GeoUB>
+</PhnUBlock>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="вельтянь">v́eĺt́ań</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>VVr</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">покрытый</t>
+</tg>
+<tg xml:lang="deu">
+<t>gedeckt</t>
+</tg>
+</mg>
+<xg>
+<x>
+<Wd myvId="будимкс">bud́imks</Wd>
+<Wd myvId="улят">uĺat</Wd>
+<Wd myvId="те">t́e</Wd>
+<Wd myvId="шкане">škańe</Wd>
+<Wd myvId="вельтянь">v́eĺt́äń</Wd>
+<Hph edit="MK"/>
+<Wd myvId="ацань">acań</Wd>
+<Wd myvId="таркасо">tarkaso</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Mar</GeoU>
+</GeoUB>
+<sources>
+<book name="1" pg="188"/>
+</sources>
+<xt xml:lang="deu">Wenn du zu dieser Stunde auf einem gedeckten, bereiteten Lager dich befindest.</xt>
+</xg>
+</HWB>
+<MWUB>
+<E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
+<lg xml:lang="myv"><l>веьльтянь кеьрь</l>
+<st>веьльтянь кеьрь</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="вельтянь">v́eĺt́ań</Wd>
+<Wd myvId="керь">ḱeŕ</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Af</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">кровельное лыко</t>
+</tg>
+<tg xml:lang="deu">
+<t>aufs Dach gelegte Lindenrinde</t>
+<t>Dachrinde [Dach</t>
+<t>Rindendach]</t>
+</tg>
+</mg>
+</MWUB>
+</e>
+  <e>
 <root_ref xml:lang="myv" hid="1" pos="V" lemma="веьльмемс"/>
 <root_ref xml:lang="mdf" hid="1" pos="V" lemma="велемәмс"/>
 <HWB>

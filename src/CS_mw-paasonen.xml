@@ -384,6 +384,167 @@
 </Etg>
 </e>
   <e>
+<stem_ref xml:lang="myv" hid="1" pos="CS" lemma="если"/>
+<stem_ref xml:lang="mdf" hid="1" pos="" lemma="если"/>
+<HWB>
+<E3Head><POS/><deriv isa="prt-I"/></E3Head>
+<lg edit="JMR" xml:lang="myv"><l pos="CS"/><st/>
+</lg>
+<lg xml:lang="mdf"><l pos="CS">естели</l>
+<st>естели</st>
+<PhnUBlock>
+<PhnU>
+<Wd mdfId="естели">jeśt́əĺi</Wd>
+</PhnU>
+<GeoUB xml:lang="mdf">
+<GeoU>Sel</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">если</t>
+</tg>
+<tg xml:lang="deu">
+<t>wenn</t>
+<t>falls</t>
+</tg>
+</mg>
+<xg>
+<x>
+<Wd mdfId="а">a</Wd>
+<Wd mdfId="естели">jeśt́əĺi</Wd>
+<Wd mdfId="мондедн">mońd́ədn</Wd>
+<Wd mdfId="од">od</Wd>
+<tk3 isa="comma"/>
+<Wd mdfId="улеза">uĺəza</Wd>
+<Wd mdfId="радно·й">radno·j</Wd>
+<Wd mdfId="сестразя">śestraźä</Wd>
+</x>
+<GeoUB xml:lang="mdf">
+<GeoU>Sel</GeoU>
+</GeoUB>
+<sources>
+<book name="IV" pg="808"/>
+</sources>
+<xt xml:lang="deu">Aber ist es jünger als ich, soll es meine eigene jüngere Schwester sein.</xt>
+</xg>
+</HWB>
+<Etg>
+<EtSrcL edit="MK" xml:lang="rus"/>
+<EtCtn>
+<Et edit="MK">естли</Et>
+</EtCtn>
+</Etg>
+</e>
+  <e>
+<stem_name xml:lang="myv" hid="1" pos="" lemma="XX"/>
+<stem_name xml:lang="mdf" hid="1" pos="Pcle" lemma="ар́зяй"/>
+<HWB>
+<E3Head><POS freeType="morphological" pos="Conj-syntax"/></E3Head>
+<lg edit="JMR" xml:lang="myv"><l pos="CS">XX</l><st/>
+</lg>
+<lg xml:lang="mdf"><l pos="CS">ар́зяй</l>
+<st>ар́зяй</st>
+<PhnUBlock>
+<Chc>
+<Vrt>
+<PhnU>
+<Wd mdfId="арьзяй">aŕźä·j</Wd>
+</PhnU>
+</Vrt>
+<Vrt>
+<PhnU prnth="+">
+<cnt1>(? ~</cnt1>
+<Wd mdfId="ə̑рьзяй">ə̑ŕźä·j</Wd>
+</PhnU>
+</Vrt>
+<Vrt><PhnU prnth="+">
+<cnt1>~ </cnt1>
+<Wd mdfId="резӓ·й">ŕezä·j</Wd>
+</PhnU>
+</Vrt>
+</Chc>
+<GeoUB xml:lang="mdf">
+<GeoU>P</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<mg>
+<Syntax function="Konj"/>
+<tg xml:lang="rus">
+<t>разве</t>
+<t>нечто</t>
+</tg>
+<tg xml:lang="deu">
+<t>denn</t>
+<t>etwa (in Fragesätzen)</t>
+</tg>
+</mg>
+;
+<mg predArg="nach Neg">
+<tg xml:lang="rus">
+<t edit="MK">даже если</t>
+<t edit="MK">лишь бы</t>
+</tg>
+<tg xml:lang="deu">
+<t>wenn (auch) nur</t>
+</tg>
+</mg>
+<xg>
+<x>
+<Wd mdfId="минь">ḿiń</Wd>
+<Wd mdfId="лофтса">loftsa</Wd>
+<Wd mdfId="аш">aš</Wd>
+<tk3 isa="fullstop"/>
+<tk3 isa="dash"/>
+<Wd mdfId="арьзяй">aŕźäj</Wd>
+<Wd mdfId="максат">maksat</Wd>
+<Wd mdfId="ведь">v́ed́</Wd>
+<Wd mdfId="модиня">mod́ińä</Wd>
+</x>
+<GeoUB xml:lang="mdf">
+<GeoU>P</GeoU>
+</GeoUB>
+<xt xml:lang="deu">“Wir haben keine Milch.” – “Nun, gib mir etwas, wenn auch nur Wasser!”.</xt>
+</xg>
+<xg>
+<x>
+<Wd mdfId="аф">af</Wd>
+<Wd mdfId="шафттядязь">šaftt́äd́äź</Wd>
+<tk3 isa="comma"/>
+<Wd mdfId="ə̑рьзяй">ə̑ŕźä·j</Wd>
+<Wd mdfId="макссак">makssak</Wd>
+<Wd mdfId="сяканяцень">śakańäćəń</Wd>
+</x>
+<GeoUB xml:lang="mdf">
+<GeoU>P</GeoU>
+</GeoUB>
+<xt xml:lang="deu">Wir werden dich nicht umbringen, wenn du nur dieses dein Gefäss (uns) gibst.</xt>
+</xg>
+</HWB>
+<Etg>
+<EtType edit="MK" vl="vgl"/>
+<EtSrcL edit="MK" vl="mrdv"/>
+<EtCtn>
+<Et edit="MK">
+<Wd CyrId="ара">ara</Wd></Et>
+</EtCtn>[
+;
+<Et>
+<Wd CyrId="арашк">ara·šk</Wd></Et>
+;
+<Et>
+<Wd CyrId="арашты">arašti͔</Wd></Et>
+;
+<Et>
+<Wd CyrId="аразди">araźd́i</Wd></Et>
+;
+<Et>
+<Wd CyrId="арази">araźi</Wd></Et>]
+</Etg>
+</e>
+  <e>
 <stem_name xml:lang="myv" hid="1" pos="CS" lemma="XX"/>
 <stem_name xml:lang="mdf" hid="1" pos="CS" lemma="чем"/>
 <HWB>
@@ -2434,60 +2595,6 @@ dschag. <Et>
 <Etg>
 <EtSrcL xml:lang="rus"/>
 <Et>чтобы</Et>
-</Etg>
-</e>
-  <e>
-<stem_ref xml:lang="myv" hid="1" pos="CS" lemma="если"/>
-<stem_ref xml:lang="mdf" hid="1" pos="" lemma="если"/>
-<HWB>
-<E3Head><POS/><deriv isa="prt-I"/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="CS"/><st/>
-</lg>
-<lg xml:lang="mdf"><l pos="CS">естели</l>
-<st>естели</st>
-<PhnUBlock>
-<PhnU>
-<Wd mdfId="естели">jeśt́əĺi</Wd>
-</PhnU>
-<GeoUB xml:lang="mdf">
-<GeoU>Sel</GeoU>
-</GeoUB>
-</PhnUBlock>
-</lg>
-<mg>
-<tg xml:lang="rus">
-<t edit="MK">если</t>
-</tg>
-<tg xml:lang="deu">
-<t>wenn</t>
-<t>falls</t>
-</tg>
-</mg>
-<xg>
-<x>
-<Wd mdfId="а">a</Wd>
-<Wd mdfId="естели">jeśt́əĺi</Wd>
-<Wd mdfId="мондедн">mońd́ədn</Wd>
-<Wd mdfId="од">od</Wd>
-<tk3 isa="comma"/>
-<Wd mdfId="улеза">uĺəza</Wd>
-<Wd mdfId="радно·й">radno·j</Wd>
-<Wd mdfId="сестразя">śestraźä</Wd>
-</x>
-<GeoUB xml:lang="mdf">
-<GeoU>Sel</GeoU>
-</GeoUB>
-<sources>
-<book name="IV" pg="808"/>
-</sources>
-<xt xml:lang="deu">Aber ist es jünger als ich, soll es meine eigene jüngere Schwester sein.</xt>
-</xg>
-</HWB>
-<Etg>
-<EtSrcL edit="MK" xml:lang="rus"/>
-<EtCtn>
-<Et edit="MK">естли</Et>
-</EtCtn>
 </Etg>
 </e>
   <e>
