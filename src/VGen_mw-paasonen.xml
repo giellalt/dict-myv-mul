@@ -1,6 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="myv">
   <e>
+<root_ref xml:lang="myv" hid="1" pos="Num" lemma="ниле"/>
+<root_ref xml:lang="mdf" hid="1" pos="" lemma="ниле"/>
+<HWB>
+<E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
+<lg edit="JMR" xml:lang="myv"><l pos="VGen"/><st/>
+</lg>
+<lg xml:lang="mdf"><l>нелензань</l>
+<st>нелензань</st>
+<PhnUBlock>
+<Chc>
+<Vrt>
+<PhnU>
+<FrCm freeType="analogy" Modification="manus"/>
+<Wd mdfId="нелензань">ńəĺənza·ń</Wd>
+</PhnU>
+</Vrt>
+<Vrt>
+<PhnU src="arch">
+<Wd mdfId="нелензань">ńeĺenza·ń</Wd>
+</PhnU>
+</Vrt>
+</Chc>
+<GeoUB xml:lang="mdf">
+<GeoU>P</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<mg>
+<Syntax function="Adj"/>
+<tg xml:lang="rus">
+<t edit="MK">учетверённый</t>
+</tg>
+<tg xml:lang="deu">
+<t edit="MK">vervierfacht</t>
+</tg>
+<tg xml:lang="deu">
+<t edit="MK">vierfach gedreht</t>
+</tg>
+</mg>
+</HWB>
+</e>
+  <e>
 <root_ref xml:lang="myv" hid="1" pos="V" lemma="васькамс"/>
 <root_ref xml:lang="mdf" hid="1" pos="V" lemma="васькамс"/>
 <HWB>
