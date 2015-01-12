@@ -1,6 +1,237 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="myv">
   <e>
+<root_ref xml:lang="myv" hid="1" pos="Interj" lemma="цивтёр"/>
+<root_ref xml:lang="mdf" hid="1" pos="Interj" lemma="цифтәр"/>
+<HWB>
+<E3Head><POS/></E3Head>
+<lg xml:lang="myv"><l pos="Adv">цивцёрт</l>
+<st>цивцёрт</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="цивцёрт">ćivćort</Wd>
+</PhnU>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
+<mg>
+<Sense vl="notGiven"/>
+</mg>
+<xg>
+:
+</xg>
+</HWB>
+<CompositionalPhraseCtn>
+<E3Head><POS/></E3Head>
+<lg xml:lang="myv"><l pos="V">цивцёрт меремс</l>
+<st>цивцёрт меремс</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="цивцёрт">ćivćort</Wd>
+<tk3 isa="ws"/>
+<Wd myvId="меремс">ḿeŕems</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Kozl</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
+<SenseGroup>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">блестеть</t>
+<t edit="MK">сиять</t>
+</tg>
+<tg xml:lang="deu">
+<t>glänzen</t>
+<t>strahlen</t>
+</tg>
+</mg>
+</SenseGroup>
+<xg>
+<x>
+<Wd myvId="вай">vaj</Wd>
+<tk3 isa="ws"/>
+<Wd myvId="цивцёрт">ćivćort</Wd>
+<tk3 isa="ws"/>
+<Wd myvId="мэри">meŕi</Wd>
+<tk3 isa="ws"/>
+<Wd myvId="пона">pona</Wd>
+<Hph/>
+<Wd myvId="пирязо">ṕiŕazo</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Kozl</GeoU>
+</GeoUB>
+<sources>
+<book name="I" pg="343"/>
+</sources>
+<xt xml:lang="deu">Die Spitzen seiner Haare glänzen.</xt>
+</xg>
+</CompositionalPhraseCtn>
+</e>
+  <e>
+<root_ref xml:lang="myv" hid="1" pos="Interj" lemma="цяр"/>
+<root_ref xml:lang="mdf" hid="1" pos="" lemma=""/>
+<HWB>
+<E3Head><POS/></E3Head>
+<lg xml:lang="myv"><l pos="Adv">цярцк</l>
+<st>цярцк</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="цярцк">ćarck</Wd>
+</PhnU>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
+<mg>
+<Sense vl="notGiven"/>
+</mg>
+<xg>
+:
+</xg>
+</HWB>
+<CompositionalPhraseCtn>
+<E3Head><POS/></E3Head>
+<lg xml:lang="myv"><l pos="V">цярцк меремс</l>
+<st>цярцк меремс</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="цярцк">ćarck</Wd>
+<tk3 isa="ws"/>
+<Wd myvId="меремс">ḿeŕems</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Ba</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
+<SubjectField>onomat</SubjectField>
+<SenseGroup>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">хлопнуть</t>
+<t edit="MK">щёлкнуть (ружьё)</t>
+</tg>
+<tg xml:lang="deu">
+<t>knallen</t>
+<re>von der Flinte, wenn nur das Zündhütchen verbrennt</re>
+</tg>
+</mg>
+</SenseGroup>
+</CompositionalPhraseCtn>
+</e>
+  <e>
+<root_name xml:lang="myv" hid="1" pos="Adv" lemma="цёк"/>
+<root_name xml:lang="mdf" hid="1" pos="Adv" lemma="цёк"/>
+<HWB>
+<E3Head><POS/></E3Head>
+<lg xml:lang="myv"><l pos="Adv">цёк</l>
+<st>цёк</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="цёк">ćok</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Nask</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg xml:lang="mdf"><l pos="Adv">цёк</l>
+<st>цёк</st>
+<PhnUBlock>
+<PhnU>
+<Wd mdfId="цёк">ćok</Wd>
+</PhnU>
+<GeoUB xml:lang="mdf">
+<GeoU>Sučk</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<SenseGroup>
+<mg>
+<tg xml:lang="rus">
+<t>как</t>
+</tg>
+<tg xml:lang="deu">
+<t>wie</t>
+</tg>
+</mg>
+</SenseGroup>
+<xg>
+<x>
+<Wd myvId="кӓв">käv</Wd>
+<Wd myvId="панда">panda</Wd>
+<Wd myvId="покш">pokš</Wd>
+<tk3 isa="fullstop"/>
+<Wd myvId="цёк">ćok</Wd>
+<Wd myvId="стена">śt́ena·</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Nask</GeoU>
+</GeoUB>
+<sources>
+<book name="III" pg="248"/>
+</sources>
+<xt xml:lang="deu">Ein grosser Steinberg, (steil) wie eine Wand.</xt>
+</xg>
+<xg>
+<x>
+<Wd mdfId="монь">moń</Wd>
+<Wd mdfId="идезя">id́əźä</Wd>
+<Wd mdfId="цёк">ćok</Wd>
+<Wd mdfId="келу">ḱelu</Wd>
+<Hph/>
+<Wd mdfId="пря">pŕä</Wd>
+<Hph/>
+<Wd mdfId="ӓвсь">ävś</Wd>
+<Wd mdfId="арась">araś</Wd>
+</x>
+<GeoUB xml:lang="mdf">
+<GeoU>Sučk</GeoU>
+</GeoUB>
+<t xml:lang="deu">[? Mein Kind ist wie an Birkenwipfel-<FrnTxt><Wd CyrId="ӓвсь">ävś</Wd></FrnTxt>-Krankheit erkrankt od. ? Mein Kind ist (böse) wie Birkenwipfel-<FrnTxt><Wd CyrId="ӓвсь">ävś</Wd></FrnTxt> geworden].</t>
+</xg>
+</HWB>
+</e>
+  <e>
+<root_ref xml:lang="myv" hid="1" pos="Interj" lemma="арази"/>
+<root_ref xml:lang="mdf" hid="1" pos="Interj" lemma="арази"/>
+<HWB>
+<E3Head><POS pos="Attr-Tra"/></E3Head>
+<lg xml:lang="myv"><l pos="Adv">аразикс</l>
+<st>аразикс</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="аразикс">araźiks</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Večk</GeoU>
+<GeoU>Is</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<t>разве</t>
+<t>нечто</t>
+</tg>
+<tg xml:lang="deu">
+<t>denn</t>
+<t>etwa (in Fragesätzen)</t>
+</tg>
+</mg>
+</HWB>
+</e>
+  <e>
 <root_ref xml:lang="myv" hid="2" pos="N" lemma=""/>
 <root_ref xml:lang="mdf" hid="2" pos="N" lemma="норт"/>
 <HWB>

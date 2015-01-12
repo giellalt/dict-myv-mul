@@ -1,6 +1,444 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="myv">
   <e>
+<root_ref xml:lang="myv" hid="1" pos="Prop" lemma="XX"/>
+<root_ref xml:lang="mdf" hid="1" pos="Prop" lemma="Азов"/>
+<HWB>
+<E3Head><POS pos="N"/><deriv isa="prt-I"/></E3Head>
+<lg edit="JMR" xml:lang="myv"><l pos="A"/><st/>
+</lg>
+<lg xml:lang="mdf"><l pos="A">азовски</l>
+<st>азовски</st>
+<PhnUBlock>
+<PhnU>
+<Wd mdfId="азо·вски">azo·vsḱi</Wd>
+</PhnU>
+<GeoUB xml:lang="mdf">
+<GeoU>Katm</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<mg>
+<Syntax function="Adj"/>
+<tg xml:lang="rus">
+<t edit="MK">азовский</t>
+</tg>
+<tg xml:lang="deu">
+<t>Asower</t>
+</tg>
+</mg>
+<Citg>
+<Cit>
+<Wd mdfId="азо·вски">azo·vsḱi</Wd>
+<Wd mdfId="баярти">bajart́i</Wd>
+<Wd mdfId="сисем">śiśəm</Wd>
+<Wd mdfId="кизот">ḱizə̑t</Wd>
+<Wd mdfId="сисем">śiśəm</Wd>
+<Wd mdfId="шить">šit́</Wd>
+</Cit>
+<GeoUB xml:lang="mdf">
+<GeoU>Katm</GeoU>
+</GeoUB>
+<sources>
+<book name="IV" pg="170"/>
+</sources>
+<CitT xml:lang="deu">Mit einem [dem] Asover Bojaren sieben Jahre und sieben Tage (alt).</CitT>
+</Citg>
+</HWB>
+<Etg>
+<EtSrcL edit="MK" xml:lang="rus"/>
+<EtCtn>
+<Et edit="MK">азо́вский</Et>
+</EtCtn>
+</Etg>
+</e>
+  <e>
+<root_ref xml:lang="myv" hid="1" pos="Prop" lemma="казань"/>
+<root_ref xml:lang="mdf" hid="1" pos="" lemma="казан"/>
+<HWB>
+<E3Head><POS pos="A"/></E3Head>
+<lg xml:lang="myv"><l pos="A">казанцкой</l>
+<st>казанцкой</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="казанцкой">kazanckoj</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Vez</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">казанский</t>
+</tg>
+<tg xml:lang="deu">
+<t>kasanisch</t>
+</tg>
+</mg>
+<xg>
+<x>
+<Wd myvId="казанцкой">kazanckoj</Wd>
+<Wd myvId="шапка">šapka</Wd>
+<Wd myvId="савань">savań</Wd>
+<Wd myvId="терюшань">t́eŕušań</Wd>
+<Wd myvId="прясонᴣо">pŕasonᴣo</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Vez</GeoU>
+</GeoUB>
+<sources>
+<book name="I" pg="383"/>
+</sources>
+<xt xml:lang="deu">Eine kasanische Mütze hat Savas Terjuscha auf [seinem Kopfe].</xt>
+</xg>
+</HWB>
+<Etg>
+<EtSrcL edit="MK" xml:lang="rus"/>
+<EtCtn>
+<Et edit="MK">каза́нский</Et>
+</EtCtn>
+</Etg>
+</e>
+  <e>
+<root_ref xml:lang="myv" hid="1" pos="Prop" lemma="москов"/>
+<root_ref xml:lang="mdf" hid="1" pos="" lemma="моску"/>
+<HWB>
+<E3Head><POS/></E3Head>
+<lg xml:lang="myv"><l pos="A">московской</l>
+<st>московской</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="московской">moskovskoj</Wd>
+</PhnU>
+<sources>
+<book name="Chr" xml:lang="myv"/>
+</sources>
+<GeoUB xml:lang="myv">
+<GeoU>Mar</GeoU>
+<GeoU>Hl</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">московский</t>
+</tg>
+<tg xml:lang="deu">
+<t>Moskauer</t>
+</tg>
+</mg>
+<Citg>
+<Cit>
+<Wd myvId="московской">moskovskoj</Wd>
+<Wd myvId="котань">kotań</Wd>
+<Wd myvId="чикурцот">či͔kurcot</Wd>
+</Cit>
+<GeoUB xml:lang="myv">
+<GeoU>Mar</GeoU>
+</GeoUB>
+<sources>
+<book name="1" pg="158"/>
+</sources>
+<CitT xml:lang="deu">[Sie sind] in knarrenden Moskauer Schuhen [eig.: “im Geknarr der Moskauer Schuhe”].</CitT>
+</Citg>
+<Citg>
+<Cit>
+<Wd myvId="московской">moskovskoj</Wd>
+<Wd myvId="котаст">kotast</Wd>
+<Wd myvId="чикурдыть">či͔kurdi͔t́</Wd>
+</Cit>
+<GeoUB xml:lang="myv">
+<GeoU>Hl</GeoU>
+</GeoUB>
+<sources>
+<book name="1" pg="162"/>
+</sources>
+<CitT xml:lang="deu">Ihre Moskauer Schuhe knarren.</CitT>
+</Citg>
+<Citg>
+<Cit>
+<Wd myvId="московской">moskovskoj</Wd>
+<Wd myvId="морост">morost</Wd>
+<Wd myvId="сынь">si͔ń</Wd>
+<Wd myvId="ранкстызь">raŋksti͔ź</Wd>
+<Wd myvId="ялгиним">jalǵińim</Wd>
+</Cit>
+<GeoUB xml:lang="myv">
+<GeoU>Hl</GeoU>
+</GeoUB>
+<sources>
+<book name="1" pg="162"/>
+</sources>
+<CitT xml:lang="deu">Sie stimmten ihre Moskauer Lieder an, meine Freundinnen.</CitT>
+</Citg>
+</HWB>
+<Etg>
+<EtSrcL xml:lang="rus"/>
+<Et>моско́вский</Et>
+</Etg>
+</e>
+  <e>
+<root_ref xml:lang="myv" hid="1" pos="Prop" lemma="нижной"/>
+<root_ref xml:lang="mdf" hid="1" pos="" lemma=""/>
+<HWB>
+<E3Head><POS/></E3Head>
+<lg xml:lang="myv"><l pos="A">нижгороцкой</l>
+<st>нижгороцкой</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="нижгороцкой">ńižgorockoj</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Ba</GeoU>
+</GeoUB>
+</PhnUBlock>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="мижгороцкой">ḿižgorockoj</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>VVr</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<t>[нижне-новгородский</t>
+</tg>
+<TrlnCtn>
+<tg xml:lang="deu">
+<t pos="N">Nishgoroder</t>
+</tg>
+<re>= Nishni-Nowgoroder</re>]
+</TrlnCtn>
+</mg>
+<Citg>
+<Cit>
+<Wd myvId="нижгороцкой">ńižgorockoj</Wd>
+<Wd myvId="равжа">ravža</Wd>
+<Wd myvId="шляпа">šĺapa</Wd>
+<Wd myvId="прясᴉ͐нза">ṕŕasᴉ͐nza</Wd>
+</Cit>
+<GeoUB xml:lang="myv">
+<GeoU>Ba</GeoU>
+</GeoUB>
+<sources>
+<book name="VII" pg="434"/>
+</sources>
+<CitT xml:lang="deu">[Er hat] einen schwarzen Hut aus Nižgorod auf dem Kopfe.</CitT>
+</Citg>
+<Citg>
+<Cit>
+<Wd myvId="мижго·роцкой">ḿižgo·rockoj</Wd>
+<Wd myvId="ули·цёй">uĺi·ćoj</Wd>
+</Cit>
+<GeoUB xml:lang="myv">
+<GeoU>VVr</GeoU>
+</GeoUB>
+<sources>
+<book name="II" pg="359"/>
+</sources>
+<CitT xml:lang="deu">Auf der Strasse von [Nishgorod].</CitT>
+</Citg>
+</HWB>
+</e>
+  <e>
+<root_ref xml:lang="myv" hid="1" pos="Prop" lemma="пенза"/>
+<root_ref xml:lang="mdf" hid="1" pos="" lemma="пенза"/>
+<HWB>
+<E3Head><POS/></E3Head>
+<lg xml:lang="myv"><l pos="A">пензинской</l>
+<st>пензинской</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="пензинской">ṕenźinskoj</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>SŠant</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">пензяк</t>
+<t edit="MK">пензенский</t>
+</tg>
+<tg xml:lang="deu">
+<t>(Bewohner) von Pensa</t>
+<t>aus der Stadt Pensa herstammend</t>
+</tg>
+</mg>
+<Citg>
+<Cit>
+<Wd myvId="вай">vaj</Wd>
+<Wd myvId="сюпав">śupav</Wd>
+<Wd myvId="мокшо">mokšo</Wd>
+<tk3 isa="comma"/>
+<Wd myvId="пензинской">ṕenźinskoj</Wd>
+<Wd myvId="эрьзя">eŕźa</Wd>
+</Cit>
+<GeoUB xml:lang="myv">
+<GeoU>SŠant</GeoU>
+</GeoUB>
+<sources>
+<book name="I" pg="349"/>
+</sources>
+<CitT xml:lang="deu">Ein reicher Mokschane, ein Ersäne aus Pensa.</CitT>
+</Citg>
+</HWB>
+<Etg>
+<EtSrcL xml:lang="rus"/>
+<Et>пензенский</Et>
+</Etg>
+</e>
+  <e>
+<root_ref xml:lang="myv" hid="1" pos="Prop" lemma="саратов"/>
+<root_ref xml:lang="mdf" hid="1" pos="" lemma=""/>
+<HWB>
+<E3Head><POS/></E3Head>
+<lg xml:lang="myv"><l pos="A">саратовской</l>
+<st>саратовской</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="саратовской">saratovskoj</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>StDemk</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg xml:lang="mdf"><l>саратускай</l>
+<st>саратускай</st>
+<PhnUBlock>
+<PhnU>
+<Wd mdfId="саратускай">sara·tuskaj</Wd>
+</PhnU>
+<GeoUB xml:lang="mdf">
+<GeoU>Kr</GeoU>
+</GeoUB>
+</PhnUBlock>
+<PhnUBlock>
+<PhnU>
+<Wd mdfId="саратушкай">sara·tuškaj</Wd>
+</PhnU>
+<re>[wohl irrt.]</re>
+<GeoUB xml:lang="mdf">
+<GeoU>Pa</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">саратовский</t>
+</tg>
+<tg xml:lang="deu">
+<t pos="N">Saratower</t>
+</tg>
+</mg>
+<Citg>
+<Cit>
+<Wd myvId="вай">vaj</Wd>
+<Wd myvId="саратовскойть">saratovskojt́</Wd>
+<Wd myvId="катянь">kat́ań</Wd>
+<Wd myvId="цюлканза">ćulkanza</Wd>
+</Cit>
+<GeoUB xml:lang="myv">
+<GeoU>StDemk</GeoU>
+</GeoUB>
+<sources>
+<book name="V" pg="170"/>
+</sources>
+<CitT xml:lang="deu">Aus Saratov sind Katjas Strümpfe (gekauft).</CitT>
+</Citg>
+<Citg>
+<Cit>
+<Wd mdfId="сон">son</Wd>
+<Wd mdfId="саратускай">sara·tuskaj</Wd>
+<Wd mdfId="сара">sara</Wd>
+<Wd mdfId="цюлкаса">ćulka·sa</Wd>
+</Cit>
+<GeoUB edit="MK" xml:lang="mdf">
+<GeoU edit="MK">Kr</GeoU>
+</GeoUB>
+<sources>
+<book name="IV" pg="204"/>
+</sources>
+<CitT xml:lang="deu">Saraj (war) in Saratover-Strümpfen.</CitT>
+</Citg>
+<Citg>
+<Cit>
+<Wd mdfId="саратушкай">sara·tuškaj</Wd>
+<Wd mdfId="ялгаканяй">jalgakańäj</Wd>
+<Wd mdfId="цюлканяса">ćulka·ńasa</Wd>
+</Cit>
+<GeoUB xml:lang="mdf">
+<GeoU>Pa</GeoU>
+</GeoUB>
+<sources>
+<book name="IV" pg="217"/>
+</sources>
+<CitT xml:lang="deu">[Er geht] in Saratower Strümpfen, Freundin.</CitT>
+</Citg>
+</HWB>
+<Etg>
+<EtSrcL edit="MK" xml:lang="rus"/>
+<EtCtn>
+<Et edit="MK">сара́товский</Et>
+</EtCtn>
+</Etg>
+</e>
+  <e>
+<root_ref xml:lang="myv" hid="1" pos="Prop" lemma="шимышей"/>
+<root_ref xml:lang="mdf" hid="1" pos="" lemma=""/>
+<HWB>
+<E3Head><POS/></E3Head>
+<lg xml:lang="myv"><l pos="A">шимышейской</l>
+<st>шимышейской</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="шимышейской">šimi͔šejskoj</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>StDemk</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">происходящий из Шемышея</t>
+</tg>
+<tg xml:lang="deu">
+<t>aus Schemyschej herstammend</t>
+</tg>
+</mg>
+<Citg>
+<Cit>
+<Wd myvId="вай">vaj</Wd>
+<Wd myvId="шимышейскойть">šimi͔šejskojt́</Wd>
+<Wd myvId="шакшурыненза">šakšuri͔ńenza</Wd>
+</Cit>
+<GeoUB xml:lang="myv">
+<GeoU>StDemk</GeoU>
+</GeoUB>
+<sources>
+<book name="VII" pg="170"/>
+</sources>
+<CitT xml:lang="deu">Aus Schimyschej sind ihre Festschuhe (gekauft).</CitT>
+</Citg>
+</HWB>
+</e>
+  <e>
 <root_ref xml:lang="myv" hid="3" pos="Pron" lemma="ме-"/>
 <root_ref xml:lang="mdf" hid="3" pos="Pron" lemma="ме-"/>
 <HWB>
