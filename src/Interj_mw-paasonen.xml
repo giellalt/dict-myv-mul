@@ -1,6 +1,1177 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="myv">
   <e>
+<root_ref xml:lang="myv" hid="1" pos="Ideoph" lemma="XX"/>
+<root_ref xml:lang="mdf" hid="1" pos="Ideoph" lemma="нулт"/>
+<HWB>
+<E3Head><POS/></E3Head>
+<lg edit="JMR" xml:lang="myv"><l pos="Ideoph"/><st/>
+</lg>
+<lg xml:lang="mdf"><l>нултык</l>
+<st>нултык</st>
+<PhnUBlock>
+<PhnU>
+<Wd mdfId="нулхты·к">nulʿti͔·ḱ</Wd>
+</PhnU>
+<GeoUB xml:lang="mdf">
+<GeoU>Sučk</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">подраж. быстрому движению</t>
+<t edit="MK">“шмыг!”</t>
+</tg>
+<tg xml:lang="deu">
+<t>eine schnelle Bewegung beschreibendes Wort</t>
+<t>“husch!”</t>
+<t>in einem Nu</t>
+</tg>
+(<dfQsyn1 rel="syn"><dfQsyn2><i><tk2>
+<Wd CyrId="нулхт">nulʿt</Wd></tk2></i></dfQsyn2>
+<GeoUB xml:lang="mdf">
+<GeoU>P</GeoU>
+</GeoUB>
+</dfQsyn1>)</mg>
+</HWB>
+</e>
+  <e>
+<root_name xml:lang="myv" hid="1" pos="Ideoph" lemma="XX"/>
+<root_name xml:lang="mdf" hid="1" pos="Ideoph" lemma="нулт"/>
+<HWB>
+<E3Head><POS/></E3Head>
+<lg edit="JMR" xml:lang="myv"><l pos="Ideoph">XX</l><st/>
+</lg>
+<lg xml:lang="mdf"><l pos="Ideoph">нулт</l>
+<st>нулт</st>
+<PhnUBlock>
+<PhnU>
+<Wd mdfId="нулхт">nulʿt</Wd>
+</PhnU>
+<GeoUB xml:lang="mdf">
+<GeoU>P</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">подраж. быстрому движению</t>
+<t edit="MK">“шмыг!”</t>
+</tg>
+<tg xml:lang="deu">
+<t>eine schnelle Bewegung beschreibendes Wort</t>
+<t>“husch!”</t>
+<t>in einem Nu</t>
+</tg>
+(<dfQsyn1 rel="syn"><dfQsyn2><i><tk2>
+<Wd CyrId="нулхты·к">nulʿti͔·ḱ</Wd></tk2></i></dfQsyn2>
+<GeoUB xml:lang="mdf">
+<GeoU>Sučk</GeoU>
+</GeoUB>
+</dfQsyn1>)</mg>
+<xg>
+<x>
+<Chc>
+<Vrt>
+<Wd mdfId="мон">mon</Wd>
+<Wd mdfId="ашəнь">ašəń</Wd>
+<Wd mdfId="кенерьхть">ḱeńəŕʿt́</Wd>
+</Vrt>
+<Vrt>
+<Wd mdfId="мон">mon</Wd>
+<Wd mdfId="ашиня">ašińä</Wd>
+<Wd mdfId="кенерь">ḱeńəŕ</Wd>
+</Vrt>
+</Chc>
+<Wd mdfId="ваномска">vanə̑mska</Wd>
+<tk3 isa="comma"/>
+<Wd mdfId="сон">son</Wd>
+<Wd mdfId="нулхт">nulʿt</Wd>
+<Wd mdfId="мольсь">moĺś</Wd>
+</x>
+<GeoUB xml:lang="mdf">
+<GeoU>Sučk</GeoU>
+</GeoUB>
+<xt xml:lang="deu">Ich hatte nicht Zeit, (genau) hinzuschauen, da war er schon vorbeigehuscht.</xt>
+</xg>
+<xg>
+<x>
+<Chc>
+<Vrt>
+<Wd mdfId="мон">mon</Wd>
+<Wd mdfId="ашəнь">ašəń</Wd>
+<Wd mdfId="кенерьхть">ḱeńəŕʿt́</Wd>
+</Vrt>
+<Vrt>
+<Wd mdfId="мон">mon</Wd>
+<Wd mdfId="ашиня">ašińä</Wd>
+<Wd mdfId="кенерь">ḱeńəŕ</Wd>
+</Vrt>
+</Chc>
+<Wd mdfId="ваномска">vanə̑mska</Wd>
+<tk3 isa="comma"/>
+<Wd mdfId="синь">śiń</Wd>
+<Wd mdfId="нулхт">nulʿt</Wd>
+<Wd mdfId="мольсть">moĺśt́</Wd>
+</x>
+<GeoUB xml:lang="mdf">
+<GeoU>Sučk</GeoU>
+</GeoUB>
+<xt xml:lang="deu">Ich hatte nicht Zeit, (genau) hinzuschauen, da waren sie schon vorbeigehuscht.</xt>
+</xg>
+</HWB>
+</e>
+  <e>
+<root_ref xml:lang="myv" hid="1" pos="N" lemma="XX"/>
+<root_ref xml:lang="mdf" hid="1" pos="N" lemma="тязя"/>
+<HWB>
+<E3Head><POS/><deriv isa="Anr"/></E3Head>
+<lg edit="JMR" xml:lang="myv"><l pos="Interj"/><st/>
+</lg>
+<lg xml:lang="mdf"><l pos="Interj">тязяняй</l>
+<st>тязяняй</st>
+<PhnUBlock>
+<PhnU>
+<Wd mdfId="тязяняй">t́äźäńäj</Wd>
+</PhnU>
+<GeoUB xml:lang="mdf">
+<GeoU>P</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<DrvG>(<DrvT vl="diminutive"/><DrvT vl="vocative"/>)</DrvG>
+<mg copiedFrom="preceding">
+<Defintion xml:lang="rus">[назв. молодой, которая моложе своего мужа]</Defintion>
+<Defintion xml:lang="deu">einer von den Namen der jungen Frau, der von denen gebraucht wird, die jünger als ihr Mann sind.</Defintion>
+</mg>
+<xg>
+<x>
+<Wd mdfId="тязяняй">t́äźäńäj</Wd>
+<Hph/>
+<Wd mdfId="аваняй">avańäj</Wd>
+<tk3 isa="comma"/>
+<Wd mdfId="тязяняй">t́äźäńäj</Wd>
+<Hph/>
+<Wd mdfId="тядяняй">t́äd́äńäj</Wd>
+</x>
+<GeoUB xml:lang="mdf">
+<GeoU>P</GeoU>
+</GeoUB>
+<xt xml:lang="deu">[Schwägerin, Mütterchen, Schwägerin, Mütterchen!] (der Brudersfrau).</xt>
+</xg>
+</HWB>
+</e>
+  <e>
+<root_ref xml:lang="myv" hid="1" pos="N" lemma="XX"/>
+<root_ref xml:lang="mdf" hid="1" pos="N" lemma="тязя"/>
+<HWB>
+<E3Head><POS/><deriv isa="Anr"/></E3Head>
+<lg edit="JMR" xml:lang="myv"><l pos="Interj"/><st/>
+</lg>
+<lg xml:lang="mdf"><l pos="Interj">тязьванякай</l>
+<st>тязьванякай</st>
+<PhnUBlock>
+<PhnU>
+<WdCtn>
+<Wd>t́äźvańa<Chc><Vrt/><Vrt>ka</Vrt>
+</Chc><Chc><Vrt/><Vrt>j</Vrt>
+</Chc></Wd>
+</WdCtn>
+</PhnU>
+<GeoUB xml:lang="mdf">
+<GeoU>Sel</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<DrvG><DrvTCtn><DrvT edit="MK" vl="vocative"/></DrvTCtn></DrvG>
+<mg copiedFrom="preceding">
+<Defintion xml:lang="rus">[жена третьего младшего брата мужа]</Defintion>
+<Defintion xml:lang="deu">Frau des drittjüngeren Bruders des Mannes</Defintion>
+</mg>
+</HWB>
+</e>
+  <e>
+<root_ref xml:lang="myv" hid="1" pos="N" lemma="дух"/>
+<root_ref xml:lang="mdf" hid="1" pos="" lemma=""/>
+<HWB>
+<E3Head><POS/><deriv isa="Anr"/></E3Head>
+<lg edit="JMR" xml:lang="myv"><l pos="Interj"/><st/>
+</lg>
+<lg xml:lang="mdf"><l pos="Interj">тушаняй</l>
+<st>тушаняй</st>
+<PhnUBlock>
+<PhnU>
+<Wd mdfId="тушаняй">tuša·ńäj</Wd>
+</PhnU>
+<GeoUB edit="MK" xml:lang="mdf">
+<GeoU edit="MK">Mam</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<DrvG><DrvT vl="vocative"/><DrvSt>dem. F. <FrCm freeType="analogy" Modification="manus"/><i><tk2>
+<Wd CyrId="тушаня">tuša·ńä</Wd></tk2></i></DrvSt></DrvG>
+<mg>
+<Sense vl="notGiven"/>
+</mg>
+<xg>
+<x>
+<Wd edit="MK" CyrId="сяфття">śäft́t́ä</Wd>
+<Wd CyrId="улюша">uĺuša</Wd>
+<tk3 isa="comma"/>
+<Wd edit="MK" CyrId="сяфття">śäft́t́ä</Wd>
+<tk3 edit="MK" isa="ws"/>
+<Wd edit="MK" CyrId="тушаняй">tuša·ńäj</Wd>
+</x>
+<GeoNeed/>
+<sources>
+<book name="IV" pg="277"/>
+</sources>
+<xt xml:lang="deu">Ich nehme dich [zur Frau], Uljascha, ich nehme dich, Liebchen.</xt>
+</xg>
+</HWB>
+</e>
+  <e>
+<root_ref xml:lang="myv" hid="1" pos="N" lemma="плема"/>
+<root_ref xml:lang="mdf" hid="1" pos="" lemma="плема"/>
+<HWB>
+<E3Head><POS/><deriv isa="Anr"/></E3Head>
+<lg edit="JMR" xml:lang="myv"><l pos="Interj"/><st/>
+</lg>
+<lg xml:lang="mdf"><l pos="Interj">племяннекәняй</l>
+<st>племяннекәняй</st>
+<PhnUBlock>
+<PhnU>
+<FrCm freeType="analogy" Modification="manus"/>
+<Wd mdfId="племӓ·ннекə̑няй">pĺəmä·ńńəkə̑ńäj</Wd>
+</PhnU>
+<GeoUB xml:lang="mdf">
+<GeoU>Sel</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<DrvG>(<DrvT vl="diminutive"/><DrvT vl="vocative"/>)</DrvG>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">(мой, дорогой) племянник</t>
+</tg>
+<tg xml:lang="deu">
+<t edit="MK">Neffe</t>
+</tg>
+<tg xml:lang="deu">
+<t edit="MK">mein Neffe</t>
+</tg>
+<tg xml:lang="deu">
+<t edit="MK">lieber Neffe</t>
+</tg>
+</mg>
+<xg>
+<x>
+<Wd mdfId="колда">kolda</Wd>
+<Wd edit="MK" mdfId="тойнь">tojń</Wd>
+<Wd mdfId="шкайсь">škajś</Wd>
+<Wd mdfId="канттанза">kanttanza</Wd>
+<tk3 isa="comma"/>
+<Wd edit="MK" mdfId="племянникə̑няй">pĺəḿä·ńńikə̑ńäj</Wd>
+</x>
+<GeoUB xml:lang="mdf">
+<GeoU>Sel</GeoU>
+</GeoUB>
+<sources>
+<book name="IV" pg="814"/>
+</sources>
+<xt xml:lang="deu">Woher führt dich Gott, Neffe?</xt>
+</xg>
+<xg>
+<x>
+<Wd edit="MK" mdfId="племяннекə̑няй">pĺəḿä·ńńəkə̑ńäj</Wd>
+<tk3 isa="comma"/>
+<Wd mdfId="трудна">trudna</Wd>
+<Wd mdfId="сатомс">satə̑ms</Wd>
+</x>
+<GeoUB xml:lang="mdf">
+<GeoU>Sel</GeoU>
+</GeoUB>
+<sources>
+<book name="IV" pg="814"/>
+</sources>
+<xt xml:lang="deu">Neffe, es ist schwer es zu schaffen.</xt>
+</xg>
+</HWB>
+</e>
+  <e>
+<root_ref xml:lang="myv" hid="1" pos="N" lemma="поздоров"/>
+<root_ref xml:lang="mdf" hid="1" pos="" lemma=""/>
+<HWB>
+<E3Head><POS/></E3Head>
+<lg edit="JMR" xml:lang="myv"><l pos="Interj"/><st/>
+</lg>
+<lg xml:lang="mdf"><l>поздоровка</l>
+<st>поздоровка</st>
+<PhnUBlock>
+<PhnU>
+<Wd mdfId="поздоровка">pozdorovka</Wd>
+</PhnU>
+<GeoUB xml:lang="mdf">
+<GeoU>VVr</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<mg copiedFrom="preceding">
+<tg xml:lang="rus">
+<t edit="MK">(формула приветствия) здравствуйте!</t>
+</tg>
+<tg xml:lang="deu">
+<t>(Grussformel) seid gegrüsst!</t>
+</tg>
+</mg>
+</HWB>
+</e>
+  <e>
+<root_name xml:lang="myv" hid="1" pos="Interj" lemma="XX"/>
+<root_name xml:lang="mdf" hid="1" pos="Interj" lemma="бай"/>
+<HWB>
+<E3Head><POS/></E3Head>
+<lg edit="JMR" xml:lang="myv"><l pos="Interj">XX</l><st/>
+</lg>
+<lg xml:lang="mdf"><l pos="Interj">бай</l>
+<st>бай</st>
+<PhnUBlock>
+<PhnU>
+<Wd mdfId="бай">baj</Wd>
+</PhnU>
+<GeoUB xml:lang="mdf">
+<GeoU>Temn</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<mg>
+<t xml:lang="rus">[? сокр. от <FrnTxt><Wd CyrId="бабай">babaj</Wd></FrnTxt>]</t>
+<t xml:lang="deu">? eine Verkürz. von <FrnTxt><Wd CyrId="бабай">babaj</Wd></FrnTxt></t>
+</mg>
+;
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">? междом.</t>
+</tg>
+<tg xml:lang="deu">
+<t edit="MK">? eine Interj.</t>
+</tg>
+</mg>
+<xg>
+<x>
+<Wd mdfId="бай">baj</Wd>
+<tk3 isa="comma"/>
+<Wd mdfId="бай">baj</Wd>
+<tk3 isa="comma"/>
+<Wd mdfId="тон">ton</Wd>
+<tk3 isa="comma"/>
+<Wd mdfId="бабакай">babakaj</Wd>
+<tk3 isa="comma"/>
+<Wd mdfId="пидек">ṕid́ek</Wd>
+<Wd mdfId="тейнек">t́ejńek</Wd>
+<Wd mdfId="кели">ḱeĺi</Wd>
+<Wd mdfId="пачат">pačat</Wd>
+</x>
+<GeoUB xml:lang="mdf">
+<GeoU>Temn</GeoU>
+</GeoUB>
+<sources>
+<book name="VIII" pg="258"/>
+</sources>
+<xt xml:lang="deu">Baj, baj, du, Grossmutter, backe uns breite Pfannkuchen!</xt>
+</xg>
+</HWB>
+</e>
+  <e>
+<root_name xml:lang="myv" hid="1" pos="Interj" lemma="XX"/>
+<root_name xml:lang="mdf" hid="1" pos="Interj" lemma="пәлька-марь"/>
+<HWB>
+<E3Head><POS/></E3Head>
+<lg edit="JMR" xml:lang="myv"><l pos="Interj">XX</l><st/>
+</lg>
+<lg xml:lang="mdf"><l pos="Interj">пәлька-марь</l>
+<st>пәлька-марь</st>
+<PhnUBlock>
+<PhnU>
+<Wd mdfId="пəлька">ṕəĺka·</Wd>
+<Hph/>
+<Wd mdfId="марь">maŕ</Wd>
+</PhnU>
+<GeoUB xml:lang="mdf">
+<GeoU>P</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">одноглазый</t>
+<Cm edit="MK">ругат.</Cm>
+</tg>
+<tg xml:lang="deu">
+<t pos="N">Einäugiger</t>
+<re>Schimpfw.</re>
+</tg>
+</mg>
+</HWB>
+</e>
+  <e>
+<root_ref xml:lang="myv" hid="1" pos="N" lemma="кире"/>
+<root_ref xml:lang="mdf" hid="1" pos="" lemma="кәря"/>
+<HWB>
+<E3Head><POS freeType="morphological" pos="Interj-syntax"/></E3Head>
+<lg xml:lang="myv"><l pos="Interj">кирь</l>
+<st>кирь</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="кирь">ḱiŕ</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Šug</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
+<mg>
+<Syntax function="Interj"/>
+<t xml:lang="rus"/>
+</mg>
+:
+<xg>
+<x>
+<Wd myvId="кирь">ḱiŕ</Wd>
+<Hph edit="MK"/>
+<Wd myvId="кирь">ḱiŕ</Wd>
+<Wd myvId="кирия">ḱiŕija</Wd>
+<tk3 isa="excl"/></x>
+<GeoUB xml:lang="myv">
+<GeoU>Šug</GeoU>
+</GeoUB>
+<sources>
+<book name="III" pg="112"/>
+</sources>
+<t xml:lang="deu">[?] (Mag den Knäuel (<FrnTxt><Wd CyrId="кире">ḱiŕe</Wd></FrnTxt>) bedeuten. P.).</t>
+</xg>
+</HWB>
+<Etg>
+<EtType edit="MK" vl="vgl"/>[
+auch <Et>
+<Wd CyrId="кирямс">ḱiŕams</Wd></Et>]
+</Etg>
+</e>
+  <e>
+<root_ref xml:lang="myv" hid="1" pos="N" lemma="лад"/>
+<root_ref xml:lang="mdf" hid="1" pos="" lemma="лад"/>
+<HWB>
+<E3Head><POS/></E3Head>
+<lg xml:lang="myv"><l pos="Interj">ладна</l>
+<st>ладна</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="ладна">ladna</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Mar</GeoU>
+<GeoU>VVr</GeoU>
+<GeoU>Kal</GeoU>
+<GeoU>Kažl</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">ладно!</t>
+</tg>
+<tg xml:lang="deu">
+<t>gut!</t>
+</tg>
+</mg>
+<xg>
+<x>
+<Wd myvId="ладна">ladna</Wd>
+<Wd myvId="эшчо">eščo</Wd>
+<Wd myvId="кискатне">ḱiskat́ńe</Wd>
+<Wd myvId="парт">part</Wd>
+<Wd myvId="годявсть">god́avśt́</Wd>
+<tk3 isa="comma"/>
+<Wd myvId="оргодевсть">orgod́ev́śt́</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Mar</GeoU>
+</GeoUB>
+<sources>
+<book name="2" pg="121"/>
+</sources>
+<xt xml:lang="deu">Schon gut, dass meine Hunde [zufällig] gut waren, sie entflohen.</xt>
+</xg>
+<xg>
+<x>
+<Wd myvId="ну">nu</Wd>
+<tk3 isa="comma"/>
+<Wd myvId="ладна">la·dna</Wd>
+<tk3 isa="comma"/>
+<Wd myvId="уле·зэ">uĺe·ze͔</Wd>
+<Wd myvId="тонде·ть">tońd́e·t́</Wd>
+<tk3 isa="comma"/>
+<Wd myvId="ме·йде">ḿe·jd́e</Wd>
+<Wd myvId="а">a</Wd>
+<Wd myvId="со·дан">so·dan</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>VVr</GeoU>
+</GeoUB>
+<sources>
+<book name="III" pg="282"/>
+</sources>
+<xt xml:lang="deu">Nun gut, du sollst haben was ich nicht weiss!</xt>
+</xg>
+<xg>
+<x>
+<Wd myvId="мон">mon</Wd>
+<Wd myvId="уш">uš</Wd>
+<Wd myvId="прякснынь">ṕŕaksni͔ń</Wd>
+<Wd myvId="сазян">saźan</Wd>
+<tk3 isa="comma"/>
+<Wd myvId="мондень">mońd́eń</Wd>
+<Wd myvId="ладна">ladna</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Kal</GeoU>
+</GeoUB>
+<sources>
+<book name="2" pg="147"/>
+</sources>
+<x>
+<Wd myvId="мон">mon</Wd>
+<Wd myvId="уш">uš</Wd>
+<Wd myvId="прякст">ṕŕakst</Wd>
+<Wd myvId="сайса">sajsa</Wd>
+<tk3 isa="comma"/>
+<Wd myvId="монянь">mońä·ń</Wd>
+<Wd myvId="ладна">ladna</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Kažl</GeoU>
+</GeoUB>
+<sources>
+<book name="2" pg="148"/>
+</sources>
+<xt xml:lang="deu">Ich werde schon das Obere nehmen, mir ist's gleich.</xt>
+</xg>
+</HWB>
+<MWUB>
+<E3Head><POS freeType="morphological" pos="elative-adv"/></E3Head>
+<lg xml:lang="myv"><l>ладнасто</l>
+<st>ладнасто</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="ладнасто">ladnasto</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Mar</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
+<mg>
+<Syntax function="Adv"/>
+<TrlnCtn>
+<tg xml:lang="rus">
+<t edit="MK">примирительно</t>
+<t edit="MK">дружно</t>
+</tg>
+<tg xml:lang="rus">
+<t edit="MK">единодушно</t>
+<t edit="MK">полюбовно</t>
+</tg>
+</TrlnCtn>
+<tg xml:lang="deu">
+<t>versöhnlich</t>
+<t>einträchtig</t>
+<t>einmütig</t>
+<t>gütlich</t>
+</tg>
+</mg>
+</MWUB>
+<Etg>
+<EtSrcL edit="MK" xml:lang="rus"/>
+<EtCtn>
+<Et edit="MK">ладно</Et>
+</EtCtn>
+</Etg>
+</e>
+  <e>
+<root_ref xml:lang="myv" hid="1" pos="N" lemma="левкс"/>
+<root_ref xml:lang="mdf" hid="1" pos="" lemma="лефкс"/>
+<HWB>
+<E3Head><POS pos="N"/><deriv isa="vocat-KAJ"/></E3Head>
+<lg xml:lang="myv"><l pos="Interj">левкай</l>
+<st>левкай</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="левкай">ĺevkaj</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>MKly</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
+<DerivationBlock>(unregelmässig gebildete Anr. zu <i><tk2>
+<Wd CyrId="левкс">ĺevks</Wd></tk2></i>)</DerivationBlock>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">моё дитятко</t>
+</tg>
+<tg xml:lang="deu">
+<t>mein Kindchen</t>
+</tg>
+</mg>
+</HWB>
+</e>
+  <e>
+<root_ref xml:lang="myv" hid="1" pos="N" lemma="леля"/>
+<root_ref xml:lang="mdf" hid="1" pos="" lemma="ляля"/>
+<HWB>
+<E3Head><POS pos="N"/><deriv isa="vocat-KAJ"/></E3Head>
+<lg xml:lang="myv"><l pos="Interj">лелякай</l>
+<st>лелякай</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="лелякай">ĺeĺakaj</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Mar</GeoU>
+<GeoU>Večk</GeoU>
+<GeoU>Jeg</GeoU>
+</GeoUB>
+</PhnUBlock>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="лялькай">ĺaĺkaj</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>NSurk</GeoU>
+<GeoUCtn>
+<FrCm freeType="questionRelation" Modification="manus"/>
+<GeoU>SŠant</GeoU>
+</GeoUCtn>
+</GeoUB>
+</PhnUBlock>,
+<PhnUBlock>
+<Chc>
+<Vrt>
+<PhnU>
+<Wd myvId="лялякай">ĺäĺakaj</Wd>
+</PhnU>
+</Vrt>
+<Vrt>
+<PhnU>
+<Wd myvId="лялькай">ĺäĺkaj</Wd>
+</PhnU>
+</Vrt>
+</Chc>
+<GeoUB xml:lang="myv">
+<GeoU>Ba</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
+<DrvG>(<DrvT vl="diminutive"/><DrvT vl="vocative"/>)</DrvG>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">(старший) брат</t>
+</tg>
+<tg xml:lang="deu">
+<t>(älterer) Bruder</t>
+</tg>
+</mg>
+<xg>
+<x>
+<Wd myvId="вай">vaj</Wd>
+<Wd myvId="маринь">maŕiń</Wd>
+<Hph edit="MK"/>
+<Wd myvId="кулинь">kuĺiń</Wd>
+<tk3 isa="comma"/>
+<Wd myvId="лелякам">ĺeĺakam</Wd>
+<Hph edit="MK"/>
+<Wd myvId="душам">dušam</Wd>
+<Wd myvId="монь">moń</Wd>
+<Wd myvId="стада">stada</Wd>
+<Wd myvId="ваны">vani͔</Wd>
+<Wd myvId="ней">ńej</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>SŠant</GeoU>
+</GeoUB>
+<sources>
+<book name="I" pg="55"/>
+</sources>
+<xt xml:lang="deu">Ich vernahm, ich hörte, dass mein [älterer] Bruder, mein Herz, eine Herde weide.</xt>
+</xg>
+<xg>
+<x>
+<Wd myvId="монде">mońd́e</Wd>
+<Wd myvId="пола">pola</Wd>
+<Wd myvId="лелькам">ĺeĺkam</Wd>
+<Wd myvId="сайнесь">sajńeś</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>SŠant</GeoU>
+</GeoUB>
+<sources>
+<book name="I" pg="249"/>
+</sources>
+<xt xml:lang="deu">Mein [älterer] Bruder hat eine Gattin für mich genommen.</xt>
+</xg>
+<xg>
+<x>
+<Wd myvId="мон">mon</Wd>
+<Wd myvId="вана">vana</Wd>
+<tk3 isa="comma"/>
+<Wd myvId="лелякай">ĺeĺakaj</Wd>
+<tk3 isa="comma"/>
+<Wd myvId="сэредян">se͔ŕed́an</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Mar</GeoU>
+</GeoUB>
+<sources>
+<book name="2" pg="121"/>
+</sources>
+<xt xml:lang="deu">Sieh, Brüderchen, ich bin krank.</xt>
+</xg>
+<xg>
+<x>
+<Wd myvId="ух">uᵪ</Wd>
+<Wd myvId="поручиккай">poruči͔kkaj</Wd>
+<tk3 isa="comma"/>
+<Wd myvId="а">a</Wd>
+<Wd myvId="тон">ton</Wd>
+<Wd myvId="лелякай">ĺeĺaka·j</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Jeg</GeoU>
+</GeoUB>
+<sources>
+<book name="1" pg="92"/>
+</sources>
+<xt xml:lang="deu">O, lieber Lieutenant, du Brüderchen!</xt>
+</xg>
+</HWB>
+</e>
+  <e>
+<root_ref xml:lang="myv" hid="1" pos="N" lemma="XX"/>
+<root_ref xml:lang="mdf" hid="1" pos="N" lemma="нул"/>
+<HWB>
+<E3Head><POS/></E3Head>
+<lg xml:lang="myv"><l pos="Interj">нулк</l>
+<st>нулк</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="нулк">nulk</Wd>
+</PhnU>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
+<mg>
+<Sense vl="notGiven"/>
+</mg>
+<xg>
+:
+</xg>
+</HWB>
+<CompositionalPhraseCtn>
+<E3Head><POS/></E3Head>
+<lg xml:lang="myv"><l pos="V">нулк меремс</l>
+<st>нулк меремс</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="нулк">nulk</Wd>
+<Wd myvId="меремс">ḿeŕems</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Ba</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">качнуться</t>
+<t edit="MK">поколебаться</t>
+</tg>
+<tg xml:lang="deu">
+<t edit="MK">einmal schwingen, pendeln</t>
+</tg>
+</mg>
+</CompositionalPhraseCtn>
+</e>
+  <e>
+<root_ref xml:lang="myv" hid="1" pos="N" lemma="господь"/>
+<root_ref xml:lang="mdf" hid="1" pos="" lemma=""/>
+<HWB>
+<E3Head><POS pos="N"/><deriv isa="prt-I"/></E3Head>
+<lg xml:lang="myv"><l pos="Interj">осподи</l>
+<st>осподи</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="осподи">ospod́i</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>VVr</GeoU>
+<GeoU>SŠant</GeoU>
+</GeoUB>
+</PhnUBlock>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="воспə̑ди">vospə̑d́i</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Nask</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
+<mg>
+<Syntax function="Interj"/>
+<tg xml:lang="rus">
+<t edit="MK">господи!</t>
+<t edit="MK">ради бога!</t>
+</tg>
+<tg xml:lang="deu">
+<t edit="MK">Herrgott!</t>
+</tg>
+<tg xml:lang="deu">
+<t edit="MK">um Gottes willen!</t>
+</tg>
+</mg>
+<xg>
+<x>
+<Wd myvId="видна">v́idna</Wd>
+<Wd myvId="осподи">ospod́i</Wd>
+<Wd myvId="грешнойтяно">gŕešnojt́ano</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>SŠant</GeoU>
+</GeoUB>
+<sources>
+<book name="I" pg="12"/>
+</sources>
+<xt xml:lang="deu">Sicher, Herr, sind wir schuldig. </xt>
+</xg>
+</HWB>
+<Etg>
+<EtSrcL xml:lang="rus"/>
+<Et>господи!</Et>
+</Etg>
+</e>
+  <e>
+<root_ref xml:lang="myv" hid="1" pos="N" lemma="поздоров"/>
+<root_ref xml:lang="mdf" hid="1" pos="" lemma=""/>
+<HWB>
+<E3Head><POS pos="N"/><deriv isa="dim-NE"/></E3Head><E3Head><POS pos="N"/><deriv isa="dim-KINE"/></E3Head>
+<lg xml:lang="myv"><l pos="Interj">поздоровкине</l>
+<st>поздоровкине</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="поздоровкине">pozdorovḱińe</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>VVr</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
+<l_drv drvType="diminutive"/>
+<mg copiedFrom="preceding">
+<tg xml:lang="rus">
+<t edit="MK">(формула приветствия) здравствуйте!</t>
+</tg>
+<tg xml:lang="deu">
+<t>(Grussformel) seid gegrüsst!</t>
+</tg>
+</mg>
+<xg>
+<x>
+<Wd edit="MK" myvId="поздоровкине">pozdorovḱińe</Wd>
+<Wd myvId="а">a</Wd>
+<Wd myvId="ёвтат">jovtat</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>VVr</GeoU>
+</GeoUB>
+<sources>
+<book name="II" pg="515"/>
+</sources>
+<xt xml:lang="deu">(Was) sagst du keinen Gruss?</xt>
+</xg>
+</HWB>
+</e>
+  <e>
+<root_ref xml:lang="myv" hid="1" pos="N" lemma="прошчения"/>
+<root_ref xml:lang="mdf" hid="1" pos="" lemma="праштшенгя"/>
+<HWB>
+<E3Head><POS pos="N"/><deriv isa="prt-I"/></E3Head>
+<lg xml:lang="myv"><l pos="Interj">прости</l>
+<st>прости</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="прости">prośt́i</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Mar</GeoU>
+</GeoUB>
+<prnth>(russ. Imper.)</prnth>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">прости!</t>
+</tg>
+<tg xml:lang="deu">
+<t>vergib!</t>
+<t>verzeihe!</t>
+</tg>
+</mg>
+<xg>
+<x>
+<Wd myvId="прости">prośt́i</Wd>
+<Wd myvId="монь">moń</Wd>
+<Wd myvId="хріста">ᵪrista</Wd>
+<Hph/>
+<Wd myvId="ради">rad́i</Wd>
+<tk3 isa="excl"/></x>
+<GeoUB xml:lang="myv">
+<GeoU>Mar</GeoU>
+</GeoUB>
+<sources>
+<book name="2" pg="14"/>
+</sources>
+<xt xml:lang="deu">Verzeihe [mir] um Christi willen!</xt>
+</xg>
+</HWB>
+<Etg>
+<EtSrcL edit="MK" xml:lang="rus"/>
+<EtCtn>
+<Et edit="MK">прости́!</Et>
+</EtCtn>
+</Etg>
+</e>
+  <e>
+<root_ref xml:lang="myv" hid="1" pos="N" lemma="XX"/>
+<root_ref xml:lang="mdf" hid="1" pos="N" lemma="рад"/>
+<HWB>
+<E3Head><POS pos="Adv"/></E3Head>
+<lg xml:lang="myv"><l pos="Interj">рад бу</l>
+<st>рад бу</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="рад">rad</Wd>
+<Wd myvId="бу">bu</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>God</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">охотно</t>
+<t edit="MK">с удовольствием</t>
+</tg>
+<tg xml:lang="deu">
+<t>“wäre froh”</t>
+<t>gern</t>
+</tg>
+</mg>
+<xg>
+<x>
+<Wd myvId="рад">rad</Wd>
+<Wd myvId="бу">bu</Wd>
+<tk3 isa="comma"/>
+<Wd myvId="алькай">aĺkaj</Wd>
+<tk3 isa="comma"/>
+<Wd myvId="озавлинь">ozavĺiń</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>God</GeoU>
+</GeoUB>
+<sources>
+<book name="VII" pg="284"/>
+</sources>
+<xt xml:lang="deu">Sehr gern setzte ich mich, Brüderlein!</xt>
+</xg>
+</HWB>
+<Etg>
+<EtSrcL edit="MK" xml:lang="rus"/>
+<EtCtn>
+<Et edit="MK">рад + бы</Et>
+</EtCtn>
+</Etg>
+</e>
+  <e>
+<root_ref xml:lang="myv" hid="1" pos="N" lemma="стьреча"/>
+<root_ref xml:lang="mdf" hid="1" pos="" lemma=""/>
+<HWB>
+<E3Head><POS/></E3Head>
+<lg xml:lang="myv"><l pos="Interj">стьречай</l>
+<st>стьречай</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="стречай">śt́ŕečaj</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Jeg</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">встречай (меня)!</t>
+</tg>
+<tg xml:lang="deu">
+<t>komm (mir) entgegen!</t>
+</tg>
+</mg>
+<xg>
+<x>
+<Wd edit="MK" myvId="стречай">śt́ŕečaj</Wd>
+<tk3 isa="comma"/>
+<Wd myvId="катинка">kat́iŋka</Wd>
+<tk3 isa="comma"/>
+<Wd edit="MK" myvId="стречай">śt́ŕečaj</Wd>
+<tk3 isa="comma"/>
+<Wd myvId="лапинка">laṕiŋka</Wd>
+<tk3 isa="excl"/></x>
+<GeoUB xml:lang="myv">
+<GeoU>Jeg</GeoU>
+</GeoUB>
+<sources>
+<book name="1" pg="96"/>
+</sources>
+<xt xml:lang="deu">Komm mir entgegen, Katinka, komm mir entgegen, Lapinka!</xt>
+</xg>
+</HWB>
+<Etg>
+<EtSrcL edit="MK" xml:lang="rus"/>[
+Imper. <Et>встреча́й</Et>]
+</Etg>
+</e>
+  <e>
+<root_ref xml:lang="myv" hid="1" pos="N" lemma="туво"/>
+<root_ref xml:lang="mdf" hid="1" pos="" lemma="тува"/>
+<HWB>
+<E3Head><POS/></E3Head>
+<lg xml:lang="myv"><l pos="Interj">тво-тво</l>
+<st>тво-тво</st>
+<PhnUBlock>
+<Chc>
+<Vrt>
+<PhnU>
+<Wd myvId="тво">tvo</Wd>
+<Hph/>
+<Wd myvId="тво">tvo</Wd>
+</PhnU>
+</Vrt>
+<Vrt>
+<PhnU>
+[<FrCm freeType="RelationToPreviousSibling" status="&lt;"/><i>
+<tk2>
+<Wd myvId="туво">tuvo</Wd>
+<Hph/>
+<Wd myvId="туво">tuvo</Wd>
+</tk2>
+</i>]</PhnU>
+</Vrt>
+</Chc>
+<GeoUB xml:lang="myv">
+<GeoU>Atr</GeoU>
+<GeoU>Večk</GeoU>
+<GeoU>Ba</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">приман. свиней</t>
+</tg>
+<tg xml:lang="deu">
+<t pos="N">Lockruf für Schweine</t>
+</tg>
+</mg>
+</HWB>
+</e>
+  <e>
+<root_ref xml:lang="myv" hid="1" pos="N" lemma="XX"/>
+<root_ref xml:lang="mdf" hid="1" pos="N" lemma="ёлдәр"/>
+<HWB>
+<E3Head><POS/></E3Head>
+<lg xml:lang="myv"><l pos="Interj">ёлдорк</l>
+<st>ёлдорк</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="ёлдо·рк">joldo·rk</Wd>
+</PhnU>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
+<mg>
+<Sense vl="notGiven"/>
+</mg>
+<xg>
+:
+</xg>
+</HWB>
+<CompositionalPhraseCtn>
+<E3Head><POS/></E3Head>
+<lg xml:lang="myv"><l pos="V">ёлдорк меремс</l>
+<st>ёлдорк меремс</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="ёлдо·рк">joldo·rk</Wd>
+<Wd myvId="мере·мс">ḿeŕe·ms</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Ba</GeoU>
+<GeoU>Večk</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">мигнуть глазами</t>
+<t edit="MK">бросить беглый взгляд</t>
+</tg>
+<tg xml:lang="deu">
+<t>einmal mit den Augen zwinkern</t>
+<t>einen flüchtigen Blick werfen</t>
+</tg>
+</mg>
+</CompositionalPhraseCtn>
+</e>
+  <e>
 <root_ref xml:lang="myv" hid="1" pos="Interj" lemma="XX"/>
 <root_ref xml:lang="mdf" hid="1" pos="Interj" lemma=""/>
 <HWB>
