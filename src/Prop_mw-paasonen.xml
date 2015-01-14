@@ -1,122 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="myv">
   <e>
-<root_name xml:lang="myv" hid="1" pos="N" lemma="ивашка"/>
-<root_name xml:lang="mdf" hid="1" pos="N" lemma=""/>
-<HWB>
-<E3Head><POS/></E3Head>
-<lg xml:lang="myv"><l pos="N">ивашка</l>
-<st>ивашка</st>
-<PhnUBlock>
-<PhnU>
-<Wd myvId="ивашка">ivaška</Wd>
-</PhnU>
-<GeoUB xml:lang="myv">
-<GeoU>Mar</GeoU>
-<GeoU>VVr</GeoU>
-</GeoUB>
-</PhnUBlock>
-<PhnUBlock>
-<PhnU>
-<Wd myvId="ивашка">iva·ška</Wd>
-</PhnU>
-<GeoUB xml:lang="myv">
-<GeoU>Kad</GeoU>
-<GeoU>Kal</GeoU>
-</GeoUB>
-</PhnUBlock>
-</lg>
-<lg edit="JMR" xml:lang="mdf"><l pos="N"/><st/>
-</lg>
-<mg>
-<tg xml:lang="rus">
-<t edit="MK">плохой квас</t>
-</tg>
-<tg xml:lang="deu">
-<t edit="MK">schlechter Kwas</t>
-<t>[schlechtes Dünnbier (vom zweiten Aufguss)] (beim Brauen des Kwases od. Dünnbiers)</t>
-</tg>
-(<dfQsyn1 rel="syn"><dfQsyn2><i><tk2>
-<Wd CyrId="меелькс">ḿejiĺks</Wd></tk2></i></dfQsyn2>
-<GeoUB xml:lang="myv">
-<GeoU>Kal</GeoU>
-</GeoUB>
-</dfQsyn1>,
-<dfQsyn1 rel="syn"><dfQsyn2><i><tk2>
-<Wd CyrId="меелькс">ḿäi·ĺks</Wd></tk2></i></dfQsyn2>
-<GeoUB xml:lang="myv">
-<GeoU>Ba</GeoU>
-</GeoUB>
-</dfQsyn1>,
-<dfQsyn1 rel="syn"><dfQsyn2><i><tk2>
-<Wd CyrId="каяш">kajaš</Wd></tk2></i></dfQsyn2>
-<GeoUB xml:lang="myv">
-<GeoU/>
-</GeoUB>
-</dfQsyn1>,
-<dfQsyn1 rel="syn"><dfQsyn2><i><tk2>
-<Wd CyrId="соно·к">sə̑no·k</Wd></tk2></i></dfQsyn2>
-<GeoUB xml:lang="mdf">
-<GeoU>P</GeoU>
-</GeoUB>
-</dfQsyn1>)</mg>
-</HWB>
-</e>
-  <e>
-<root_ref xml:lang="myv" hid="1" pos="Prop" lemma="Яик"/>
-<root_ref xml:lang="mdf" hid="1" pos="" lemma=""/>
-<HWB>
-<E3Head><POS pos="N"/><deriv isa="dim-INYKA"/></E3Head>
-<lg xml:lang="myv"><l pos="N">яичинька</l>
-<st>яичинька</st>
-<PhnUBlock>
-<PhnU>
-<Wd myvId="яичинька">jaičińka</Wd>
-</PhnU>
-<GeoUB xml:lang="myv">
-<GeoU>MKly</GeoU>
-</GeoUB>
-</PhnUBlock>
-</lg>
-<lg edit="JMR" xml:lang="mdf"><l/><st/>
-</lg>
-<mg>
-<tg xml:lang="rus">
-<t edit="MK">жительница Яика (Уральска)</t>
-</tg>
-<tg xml:lang="deu">
-<t>eine Frau aus Jaik (Uralsk)</t>
-</tg>
-</mg>
-<xg>
-<x>
-<Wd myvId="Яикстэнть">jaikste͔ńt́</Wd>
-<Wd myvId="саян">sajan</Wd>
-<Wd myvId="Яикень">jaiḱeń</Wd>
-<Wd myvId="тейтерь">t́ejt́eŕ</Wd>
-<tk3 isa="comma"/>
-<Wd myvId="Яикень">jaiḱeń</Wd>
-<Wd myvId="тейтерь">t́ejt́eŕ</Wd>
-<Wd myvId="мон">mon</Wd>
-<Wd myvId="яичинька">jaičińka</Wd>
-</x>
-<GeoUB xml:lang="myv">
-<GeoU>MKly</GeoU>
-</GeoUB>
-<sources>
-<book name="VII" pg="12"/>
-</sources>
-<xt xml:lang="deu">Vom Jaik-Land hole ich mir ein Jaiker Mädchen, ein Jaiker Mädchen, eine Jaikerin.</xt>
-</xg>
-</HWB>
-<Etg>
-<EtSrcL edit="MK" xml:lang="rus"/>
-<EtCtn>
-<Et edit="MK">яича́нка</Et>
-</EtCtn>
-</Etg>
-</e>
-  <e>
 <root_ref xml:lang="myv" hid="1" pos="Prop" lemma="XX"/>
 <root_ref xml:lang="mdf" hid="1" pos="Prop" lemma="лепа"/>
 <HWB>
@@ -1960,142 +1844,6 @@
 </HWB>
 </e>
   <e>
-<root_ref xml:lang="myv" hid="1" pos="Prop" lemma="мала"/>
-<root_ref xml:lang="mdf" hid="1" pos="" lemma="мала"/>
-<HWB>
-<E3Head><POS/></E3Head>
-<lg xml:lang="myv"><l pos="Prop">малай-баба</l>
-<st>малай-баба</st>
-<PhnUBlock>
-<PhnU>
-<Wd myvId="малай">malaj</Wd>
-<Hph/>
-<Wd myvId="баба">baba</Wd>
-</PhnU>
-<GeoUB xml:lang="myv">
-<GeoU>Vez</GeoU>
-</GeoUB>
-</PhnUBlock>
-</lg>
-<lg edit="JMR" xml:lang="mdf"><l/><st/>
-</lg>
-<DerivationBlock>[wohl eine Anr.]</DerivationBlock>
-<mg>
-<dF xml:lang="rus">[имя известной колдуньи в деревне Вязовка]</dF>
-<dF xml:lang="deu">eine berühmte Zauberin u. Gewährsperson P:s im Dorfe Wjasowka</dF>
-</mg>
-</HWB>
-</e>
-  <e>
-<root_ref xml:lang="myv" hid="1" pos="Prop" lemma="мала"/>
-<root_ref xml:lang="mdf" hid="1" pos="" lemma="мала"/>
-<HWB>
-<E3Head><POS/><deriv isa="dim-NYA"/></E3Head>
-<lg xml:lang="myv"><l pos="Prop">маланя</l>
-<st>маланя</st>
-<PhnUBlock>
-<PhnU>
-<Wd myvId="маланя">malańa</Wd>
-</PhnU>
-<GeoUB xml:lang="myv">
-<GeoU>Vez</GeoU>
-</GeoUB>
-</PhnUBlock>
-</lg>
-<lg xml:lang="mdf"><l>маланя</l>
-<st>маланя</st>
-<PhnUBlock>
-<Chc>
-<Vrt>
-<PhnU>
-<Wd mdfId="маланя">malańä</Wd>
-</PhnU>
-</Vrt>
-<Vrt>
-<PhnU>
-<Wd mdfId="маланья">malańjä</Wd>
-</PhnU>
-</Vrt>
-</Chc>
-<GeoUB xml:lang="mdf">
-<GeoU>Temn</GeoU>
-</GeoUB>
-</PhnUBlock>
-</lg>
-<mg>
-<tg xml:lang="rus">
-<td edit="MK">женское имя</td>
-<t edit="MK" type="approx">Маланя</t>
-</tg>
-<tg xml:lang="deu">
-<td>ein Frauenname</td>
-<t type="approx">Malanja</t>
-<t type="approx">Melanie</t>
-</tg>
-[Dem. zu <FrnTxt>
-<Wd CyrId="мала">mala</Wd></FrnTxt> od. aus russ. Malanja]
-</mg>
-<xg>
-<x>
-<Wd myvId="саень">sajeń</Wd>
-<Wd myvId="полазо">polazo</Wd>
-<Wd myvId="маланя">malańa</Wd>
-</x>
-<GeoUB xml:lang="myv">
-<GeoU>Vez</GeoU>
-</GeoUB>
-<sources>
-<book name="I" pg="226"/>
-</sources>
-<xt xml:lang="deu">Seine genommene Gattin (heisst) Malanja.</xt>
-</xg>
-<xg>
-<x>
-<Wd mdfId="абрань">abrań</Wd>
-<Wd mdfId="маланясь">malańäś</Wd>
-<tk3 isa="comma"/>
-<Wd mdfId="кайги">kajǵi</Wd>
-<Wd mdfId="пайгонь">pajgə̑ń</Wd>
-<Wd mdfId="салайнясь">salajńäś</Wd>
-<tk3 isa="excl"/></x>
-<GeoUB xml:lang="mdf">
-<GeoU>Temn</GeoU>
-</GeoUB>
-<sources>
-<book name="VIII" pg="276"/>
-</sources>
-<xt xml:lang="deu">Abras Malanja, die eine klingende Schelle stahl!</xt>
-</xg>
-<xg>
-<x>
-<Wd mdfId="эста">esta</Wd>
-<Wd mdfId="ризояза">ŕizə̑jaza</Wd>
-<Hph/>
-<Wd mdfId="разояза">razə̑jaza</Wd>
-<Wd mdfId="сельмостонза">śeĺmə̑stə̑nza</Wd>
-<Wd mdfId="маланьять">malańjät́</Wd>
-<Wd mdfId="акшесь">akšeś</Wd>
-<tk3 isa="excl"/></x>
-<GeoUB xml:lang="mdf">
-<GeoU>Temn</GeoU>
-</GeoUB>
-<sources>
-<book name="VIII" pg="382"/>
-</sources>
-<xt xml:lang="deu">Dann möge auch der Star in Malanjas Auge(n) Sprösslinge heraustreiben!</xt>
-</xg>
-</HWB>
-<Etg>
-<EtType edit="MK" vl="vgl"/>
-<EtSrcL edit="MK" vl="russ"/>
-<EtCtn>
-<Et edit="MK">Мала́ня</Et>
-</EtCtn>[
-<DerivationBlock><DrvT vl="diminutive"/><DrvSrc>Мела́ния</DrvSrc>
-</DerivationBlock>]
-</Etg>
-</e>
-  <e>
 <root_name xml:lang="myv" hid="1" pos="Prop" lemma=""/>
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="пелькай"/>
 <HWB>
@@ -3513,7 +3261,7 @@
 </e>
   <e>
 <root_ref xml:lang="myv" hid="1" pos="Prop" lemma="XX"/>
-<root_ref xml:lang="mdf" hid="1" pos="Prop" lemma="Ар́том"/>
+<root_ref xml:lang="mdf" hid="1" pos="Prop" lemma="Арьтом"/>
 <HWB>
 <E3Head><POS pos="Prop"/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="Prop"/><st/>
@@ -3626,8 +3374,8 @@
 <E3Head><POS pos="N"/><deriv isa="dim-NYA"/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="Prop"/><st/>
 </lg>
-<lg xml:lang="mdf"><l pos="Prop">ар́оня</l>
-<st>ар́оня</st>
+<lg xml:lang="mdf"><l pos="Prop">арьоня</l>
+<st>арьоня</st>
 <PhnUBlock>
 <PhnU>
 <Wd mdfId="арьɯня">aŕɯńä</Wd>
@@ -3670,8 +3418,8 @@
 <E3Head><POS pos="N"/><deriv isa="dim-NYA"/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="Prop"/><st/>
 </lg>
-<lg xml:lang="mdf"><l pos="Prop">атер́ня</l>
-<st>атер́ня</st>
+<lg xml:lang="mdf"><l pos="Prop">атерьня</l>
+<st>атерьня</st>
 <PhnUBlock>
 <PhnU>
 <Wd mdfId="атерня">at́əŕńä</Wd>
@@ -5189,8 +4937,8 @@
 <E3Head><POS pos="N"/><deriv isa="dim-NYA"/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="Prop"/><st/>
 </lg>
-<lg xml:lang="mdf"><l pos="Prop">катер́ня</l>
-<st>катер́ня</st>
+<lg xml:lang="mdf"><l pos="Prop">катерьня</l>
+<st>катерьня</st>
 <PhnUBlock>
 <PhnU>
 <Wd mdfId="катерня">kat́əŕńä</Wd>
@@ -5276,14 +5024,14 @@
 </HWB>
 </e>
   <e>
-<root_ref xml:lang="myv" hid="1" pos="Prop" lemma="Кир́дюва"/>
-<root_ref xml:lang="mdf" hid="1" pos="Prop" lemma="кир́дю"/>
+<root_ref xml:lang="myv" hid="1" pos="Prop" lemma="Кирьдюва"/>
+<root_ref xml:lang="mdf" hid="1" pos="Prop" lemma="кирьдю"/>
 <HWB>
 <E3Head><POS pos="N"/><deriv isa="dim-NYA"/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="Prop"/><st/>
 </lg>
-<lg xml:lang="mdf"><l pos="Prop">кир́дюня</l>
-<st>кир́дюня</st>
+<lg xml:lang="mdf"><l pos="Prop">кирьдюня</l>
+<st>кирьдюня</st>
 <PhnUBlock>
 <PhnU>
 <Wd mdfId="кирдюня">ḱiŕd́uńä</Wd>
@@ -8651,7 +8399,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="ала"/>
 <HWB>
 <E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">ала</l>
 <st>ала</st>
@@ -8703,7 +8451,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="лепа"/>
 <HWB>
 <E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">лепа</l>
 <st>лепа</st>
@@ -8731,7 +8479,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="Марфа"/>
 <HWB>
 <E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop" sem_type="Fem">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop" sem_type="Fem"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop" sem_type="Fem">Марфа</l>
 <st>Марфа</st>
@@ -8783,7 +8531,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="матьфей"/>
 <HWB>
 <E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">матьфей</l>
 <st>матьфей</st>
@@ -8829,7 +8577,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="парков"/>
 <HWB>
 <E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">парков</l>
 <st>парков</st>
@@ -8881,7 +8629,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="тёря"/>
 <HWB>
 <E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">тёря</l>
 <st>тёря</st>
@@ -8955,7 +8703,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="юткәнь"/>
 <HWB>
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">юткәнь</l>
 <st>юткәнь</st>
@@ -9054,7 +8802,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="васелиса"/>
 <HWB>
 <E3Head><POS freeType="morphological" pos="ine-attr"/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop" sem_type="Fem">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop" sem_type="Fem"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop" sem_type="Fem">васелиса</l>
 <st>васелиса</st>
@@ -9113,7 +8861,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="пекса"/>
 <HWB>
 <E3Head><POS freeType="morphological" pos="ine-attr"/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">пекса</l>
 <st>пекса</st>
@@ -9154,7 +8902,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="" lemma="пляй"/>
 <HWB>
 <E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">пляй</l>
 <st>пляй</st>
@@ -9180,7 +8928,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="" lemma="пәнкедь"/>
 <HWB>
 <E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">пәнкедь</l>
 <st>пәнкедь</st>
@@ -9223,7 +8971,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="" lemma="реця"/>
 <HWB>
 <E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">реця</l>
 <st>реця</st>
@@ -9300,7 +9048,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="" lemma="салазәнькярьгя"/>
 <HWB>
 <E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">салазәнькярьгя</l>
 <st>салазәнькярьгя</st>
@@ -9374,7 +9122,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="" lemma="самакәш"/>
 <HWB>
 <E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">самакәш</l>
 <st>самакәш</st>
@@ -9426,7 +9174,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="" lemma="сазан"/>
 <HWB>
 <E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">сазан</l>
 <st>сазан</st>
@@ -9488,7 +9236,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="" lemma="сна"/>
 <HWB>
 <E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">сна</l>
 <st>сна</st>
@@ -9518,7 +9266,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="" lemma="сузма"/>
 <HWB>
 <E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">сузма</l>
 <st>сузма</st>
@@ -9561,7 +9309,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="" lemma="стьряпшай"/>
 <HWB>
 <E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">стьряпшай</l>
 <st>стьряпшай</st>
@@ -9709,7 +9457,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="" lemma="сьоре-ляй"/>
 <HWB>
 <E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">сьоре-ляй</l>
 <st>сьоре-ляй</st>
@@ -9761,7 +9509,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="" lemma="тамбоф"/>
 <HWB>
 <E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">тамбоф</l>
 <st>тамбоф</st>
@@ -9790,7 +9538,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="" lemma="трака"/>
 <HWB>
 <E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">трака</l>
 <st>трака</st>
@@ -9878,7 +9626,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="" lemma="тройця"/>
 <HWB>
 <E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">тройця</l>
 <st>тройця</st>
@@ -9947,7 +9695,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="" lemma="тряпа"/>
 <HWB>
 <E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">тряпа</l>
 <st>тряпа</st>
@@ -9997,7 +9745,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="" lemma="тятәш"/>
 <HWB>
 <E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">тятәш</l>
 <st>тятәш</st>
@@ -10023,7 +9771,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="" lemma="унуй"/>
 <HWB>
 <E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">унуй</l>
 <st>унуй</st>
@@ -10067,7 +9815,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="" lemma="цифтамас"/>
 <HWB>
 <E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">цифтамас</l>
 <st>цифтамас</st>
@@ -10147,7 +9895,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="" lemma="чакәш"/>
 <HWB>
 <E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">чакәш</l>
 <st>чакәш</st>
@@ -10207,7 +9955,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="" lemma="чебәрка"/>
 <HWB>
 <E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">чебәрка</l>
 <st>чебәрка</st>
@@ -10259,7 +10007,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="шача"/>
 <HWB>
 <E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">шача</l>
 <st>шача</st>
@@ -10313,7 +10061,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="шовам"/>
 <HWB>
 <E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">шовам</l>
 <st>шовам</st>
@@ -10349,7 +10097,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="шукштяльмя"/>
 <HWB>
 <E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">шукштяльмя</l>
 <st>шукштяльмя</st>
@@ -10403,7 +10151,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="лемза"/>
 <HWB>
 <E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">лемза</l>
 <st>лемза</st>
@@ -10456,7 +10204,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="лендай"/>
 <HWB>
 <E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop" sem_type="Fem">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop" sem_type="Fem"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop" sem_type="Fem">лендай</l>
 <st>лендай</st>
@@ -10484,7 +10232,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="Лоля"/>
 <HWB>
 <E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">Лоля</l>
 <st>Лоля</st>
@@ -10527,7 +10275,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="мака"/>
 <HWB>
 <E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop" sem_type="Fem">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop" sem_type="Fem"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop" sem_type="Fem">мака</l>
 <st>мака</st>
@@ -10575,7 +10323,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="максим"/>
 <HWB>
 <E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">максим</l>
 <st>максим</st>
@@ -10764,7 +10512,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="малав"/>
 <HWB>
 <E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">малав</l>
 <st>малав</st>
@@ -10873,7 +10621,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="маннила"/>
 <HWB>
 <E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">маннила</l>
 <st>маннила</st>
@@ -10902,7 +10650,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="мавра"/>
 <HWB>
 <E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop" sem_type="Fem">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop" sem_type="Fem"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop" sem_type="Fem">мавра</l>
 <st>мавра</st>
@@ -10952,7 +10700,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="мялёха"/>
 <HWB>
 <E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop" sem_type="Fem">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop" sem_type="Fem"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop" sem_type="Fem">мялёха</l>
 <st>мялёха</st>
@@ -11016,7 +10764,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="мортась-атя"/>
 <HWB>
 <E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">мортась-атя</l>
 <st>мортась-атя</st>
@@ -11124,7 +10872,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="муравеч"/>
 <HWB>
 <E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">муравеч</l>
 <st>муравеч</st>
@@ -11170,7 +10918,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="муром"/>
 <HWB>
 <E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">муром</l>
 <st>муром</st>
@@ -11215,7 +10963,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="ногам-кужа"/>
 <HWB>
 <E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">ногам-кужа</l>
 <st>ногам-кужа</st>
@@ -11254,7 +11002,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="нолдаш"/>
 <HWB>
 <E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">нолдаш</l>
 <st>нолдаш</st>
@@ -11300,7 +11048,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="норай"/>
 <HWB>
 <E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">норай</l>
 <st>норай</st>
@@ -11340,7 +11088,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="норжьат"/>
 <HWB>
 <E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">норжьат</l>
 <st>норжьат</st>
@@ -11399,7 +11147,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="нуштай"/>
 <HWB>
 <E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">нуштай</l>
 <st>нуштай</st>
@@ -11427,7 +11175,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="ордаш"/>
 <HWB>
 <E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">ордаш</l>
 <st>ордаш</st>
@@ -11506,7 +11254,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="оцяпа"/>
 <HWB>
 <E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">оцяпа</l>
 <st>оцяпа</st>
@@ -11571,7 +11319,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="паньтюш"/>
 <HWB>
 <E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">паньтюш</l>
 <st>паньтюш</st>
@@ -11619,7 +11367,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="пашад"/>
 <HWB>
 <E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">пашад</l>
 <st>пашад</st>
@@ -11682,7 +11430,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="патрока"/>
 <HWB>
 <E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">патрока</l>
 <st>патрока</st>
@@ -11741,7 +11489,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="пекма"/>
 <HWB>
 <E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">пекма</l>
 <st>пекма</st>
@@ -11817,7 +11565,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="пляй"/>
 <HWB>
 <E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">пляй</l>
 <st>пляй</st>
@@ -11866,7 +11614,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="полад"/>
 <HWB>
 <E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">полад</l>
 <st>полад</st>
@@ -11907,7 +11655,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="полаш"/>
 <HWB>
 <E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">полаш</l>
 <st>полаш</st>
@@ -11950,7 +11698,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="пәчяй"/>
 <HWB>
 <E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">пәчяй</l>
 <st>пәчяй</st>
@@ -11978,7 +11726,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="риба"/>
 <HWB>
 <E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">риба</l>
 <st>риба</st>
@@ -12040,7 +11788,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="рязяф"/>
 <HWB>
 <E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">рязяф</l>
 <st>рязяф</st>
@@ -12089,7 +11837,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="сара"/>
 <HWB>
 <E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">сара</l>
 <st>сара</st>
@@ -12141,7 +11889,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="Сетю"/>
 <HWB>
 <E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">Сетю</l>
 <st>Сетю</st>
@@ -12192,7 +11940,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="сёкава"/>
 <HWB>
 <E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">сёкава</l>
 <st>сёкава</st>
@@ -12220,7 +11968,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="софа"/>
 <HWB>
 <E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">софа</l>
 <st>софа</st>
@@ -12267,7 +12015,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="солтай"/>
 <HWB>
 <E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">солтай</l>
 <st>солтай</st>
@@ -12322,7 +12070,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="тарас"/>
 <HWB>
 <E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">тарас</l>
 <st>тарас</st>
@@ -12376,7 +12124,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="таштю"/>
 <HWB>
 <E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">таштю</l>
 <st>таштю</st>
@@ -12414,7 +12162,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="топай"/>
 <HWB>
 <E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">топай</l>
 <st>топай</st>
@@ -12449,7 +12197,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="сурдей"/>
 <HWB>
 <E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">сурдей</l>
 <st>сурдей</st>
@@ -12497,7 +12245,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="тота"/>
 <HWB>
 <E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">тота</l>
 <st>тота</st>
@@ -12578,7 +12326,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="цяба"/>
 <HWB>
 <E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">цяба</l>
 <st>цяба</st>
@@ -12664,7 +12412,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="шурка"/>
 <HWB>
 <E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">шурка</l>
 <st>шурка</st>
@@ -12714,7 +12462,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="юда"/>
 <HWB>
 <E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">юда</l>
 <st>юда</st>
@@ -12780,7 +12528,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="яга"/>
 <HWB>
 <E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">яга</l>
 <st>яга</st>
@@ -12823,7 +12571,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="Лесюва"/>
 <HWB>
 <E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">Лесюва</l>
 <st>лесюва</st>
@@ -12871,7 +12619,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="Левжа"/>
 <HWB>
 <E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">Левжа</l>
 <st>левжа</st>
@@ -12914,7 +12662,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="Левжяй"/>
 <HWB>
 <E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">Левжяй</l>
 <st>левжяй</st>
@@ -12942,7 +12690,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="Лемдяй"/>
 <HWB>
 <E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">Лемдяй</l>
 <st>лемдяй</st>
@@ -12970,7 +12718,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="Мәлафей"/>
 <HWB>
 <E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">Мәлафей</l>
 <st>мәлафей</st>
@@ -13029,7 +12777,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="Насилка"/>
 <HWB>
 <E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">Насилка</l>
 <st>насилка</st>
@@ -13076,7 +12824,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="Ося"/>
 <HWB>
 <E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">Ося</l>
 <st>ося</st>
@@ -13128,7 +12876,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="Пәлабайка"/>
 <HWB>
 <E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">Пәлабайка</l>
 <st>пәлабайка</st>
@@ -13172,7 +12920,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="Риза"/>
 <HWB>
 <E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">Риза</l>
 <st>риза</st>
@@ -13227,7 +12975,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="Митка"/>
 <HWB>
 <E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">Митка</l>
 <st>митка</st>
@@ -13267,7 +13015,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="Прасковя"/>
 <HWB>
 <E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">Прасковя</l>
 <st>прасковя</st>
@@ -13313,7 +13061,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="Санда"/>
 <HWB>
 <E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">Санда</l>
 <st>санда</st>
@@ -13362,7 +13110,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="Степан"/>
 <HWB>
 <E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">Степан</l>
 <st>степан</st>
@@ -13417,7 +13165,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="Яку"/>
 <HWB>
 <E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">Яку</l>
 <st>яку</st>
@@ -13526,7 +13274,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="Ёжка"/>
 <HWB>
 <E3Head><POS pos="Prop"/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l>
 <st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">Ёжка</l>
@@ -13555,7 +13303,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="Ёнка"/>
 <HWB>
 <E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">Ёнка</l>
 <st>ёнка</st>
@@ -13602,7 +13350,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="Ефют"/>
 <HWB>
 <E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">Ефют</l>
 <st>ефют</st>
@@ -13633,7 +13381,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="Ивяля"/>
 <HWB>
 <E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">Ивяля</l>
 <st>ивяля</st>
@@ -13799,7 +13547,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="Ига"/>
 <HWB>
 <E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">Ига</l>
 <st>ига</st>
@@ -13906,7 +13654,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="Илю"/>
 <HWB>
 <E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">Илю</l>
 <st>илю</st>
@@ -13959,7 +13707,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="Илюта"/>
 <HWB>
 <E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">Илюта</l>
 <st>илюта</st>
@@ -14007,7 +13755,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="Ималав"/>
 <HWB>
 <E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">Ималав</l>
 <st>ималав</st>
@@ -14035,7 +13783,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="Яна"/>
 <HWB>
 <E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">Яна</l>
 <st>яна</st>
@@ -14095,7 +13843,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="Абра"/>
 <HWB>
 <E3Head><POS pos="Prop"/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">Абра</l>
 <st>Абра</st>
@@ -14163,7 +13911,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="Авгор"/>
 <HWB>
 <E3Head><POS pos="Prop"/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">Авгор</l>
 <st>Авгор</st>
@@ -14191,7 +13939,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="Адаж"/>
 <HWB>
 <E3Head><POS pos="Prop"/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">Адаж</l>
 <st>Адаж</st>
@@ -14235,7 +13983,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="Азов"/>
 <HWB>
 <E3Head><POS pos="Prop"/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">Азов</l>
 <st>Азов</st>
@@ -14285,7 +14033,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="Азю"/>
 <HWB>
 <E3Head><POS pos="Prop"/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">Азю</l>
 <st>Азю</st>
@@ -14319,7 +14067,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="Акаш"/>
 <HWB>
 <E3Head><POS pos="Prop"/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">Акаш</l>
 <st>Акаш</st>
@@ -14395,7 +14143,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="Альте-веля"/>
 <HWB>
 <E3Head><POS pos="Prop"/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">Альте-веля</l>
 <st>Альте-веля</st>
@@ -14425,7 +14173,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="Аню"/>
 <HWB>
 <E3Head><POS pos="Prop"/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">Аню</l>
 <st>Аню</st>
@@ -14486,7 +14234,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="Арча"/>
 <HWB>
 <E3Head><POS pos="Prop"/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">Арча</l>
 <st>Арча</st>
@@ -14514,7 +14262,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="Аржа"/>
 <HWB>
 <E3Head><POS pos="Prop"/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">Аржа</l>
 <st>Аржа</st>
@@ -14558,7 +14306,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="Арьшу"/>
 <HWB>
 <E3Head><POS pos="Prop"/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">Арьшу</l>
 <st>Арьшу</st>
@@ -14594,13 +14342,13 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 </e>
   <e>
 <root_name xml:lang="myv" hid="1" pos="Prop" lemma="XX"/>
-<root_name xml:lang="mdf" hid="1" pos="Prop" lemma="Ар́том"/>
+<root_name xml:lang="mdf" hid="1" pos="Prop" lemma="Арьтом"/>
 <HWB>
 <E3Head><POS pos="Prop"/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
-<lg xml:lang="mdf"><l pos="Prop">Ар́том</l>
-<st>Ар́том</st>
+<lg xml:lang="mdf"><l pos="Prop">Арьтом</l>
+<st>Арьтом</st>
 <PhnUBlock>
 <PhnU>
 <Wd mdfId="артом">aŕtom</Wd>
@@ -14651,7 +14399,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="Арю"/>
 <HWB>
 <E3Head><POS pos="Prop"/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">Арю</l>
 <st>Арю</st>
@@ -14693,7 +14441,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="Астеркән"/>
 <HWB>
 <E3Head><POS pos="Prop"/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">Астеркән</l>
 <st>Астеркән</st>
@@ -14727,7 +14475,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="Атерь"/>
 <HWB>
 <E3Head><POS pos="Prop"/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">Атерь</l>
 <st>Атерь</st>
@@ -14835,7 +14583,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="Атерь"/>
 <HWB>
 <E3Head><POS pos="Prop"/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">Атерь</l>
 <st>Атерь</st>
@@ -14961,7 +14709,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="Бурмиза"/>
 <HWB>
 <E3Head><POS pos="Prop"/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">Бурмиза</l>
 <st>Бурмиза</st>
@@ -15008,7 +14756,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="Вакәш"/>
 <HWB>
 <E3Head><POS pos="Prop"/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">Вакәш</l>
 <st>Вакәш</st>
@@ -15055,7 +14803,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="Валодерясь"/>
 <HWB>
 <E3Head><POS pos="Prop"/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">Валодерясь</l>
 <st>Валодерясь</st>
@@ -15100,7 +14848,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="Варжаляй"/>
 <HWB>
 <E3Head><POS pos="Prop"/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">Варжаляй</l>
 <st>Варжаляй</st>
@@ -15153,7 +14901,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="Василиефка"/>
 <HWB>
 <E3Head><POS pos="Prop"/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">Василиефка</l>
 <st>Василиефка</st>
@@ -15194,7 +14942,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="Вельтерьмя"/>
 <HWB>
 <E3Head><POS pos="Prop"/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">Вельтерьмя</l>
 <st>Вельтерьмя</st>
@@ -15222,7 +14970,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="гарась"/>
 <HWB>
 <E3Head><POS freeType="morphological" pos="Prop"/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">гарась</l>
 <st>гарась</st>
@@ -15274,7 +15022,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="гарьдей"/>
 <HWB>
 <E3Head><POS freeType="morphological" pos="Prop"/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">гарьдей</l>
 <st>гарьдей</st>
@@ -15318,7 +15066,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="гаврила"/>
 <HWB>
 <E3Head><POS freeType="morphological" pos="Prop"/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">гаврила</l>
 <st>гаврила</st>
@@ -15371,7 +15119,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="горәш"/>
 <HWB>
 <E3Head><POS freeType="morphological" pos="Prop"/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">горәш</l>
 <st>горәш</st>
@@ -15433,7 +15181,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="горька"/>
 <HWB>
 <E3Head><POS freeType="morphological" pos="Prop"/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">горька</l>
 <st>горька</st>
@@ -15479,7 +15227,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="Кадәм"/>
 <HWB>
 <E3Head><POS pos="Prop"/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">Кадәм</l>
 <st>Кадәм</st>
@@ -15508,7 +15256,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="Камус"/>
 <HWB>
 <E3Head><POS pos="Prop"/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">Камус</l>
 <st>Камус</st>
@@ -15567,7 +15315,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="Кандай"/>
 <HWB>
 <E3Head><POS pos="Prop"/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">Кандай</l>
 <st>Кандай</st>
@@ -15618,7 +15366,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="Каньжа"/>
 <HWB>
 <E3Head><POS pos="Prop"/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">Каньжа</l>
 <st>Каньжа</st>
@@ -15675,7 +15423,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="Кара"/>
 <HWB>
 <E3Head><POS pos="Prop"/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">Кара</l>
 <st>Кара</st>
@@ -15723,7 +15471,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="Карцайка"/>
 <HWB>
 <E3Head><POS pos="Prop"/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">Карцайка</l>
 <st>Карцайка</st>
@@ -15760,7 +15508,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="Карчма"/>
 <HWB>
 <E3Head><POS pos="Prop"/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">Карчма</l>
 <st>Карчма</st>
@@ -15824,7 +15572,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="Карьчу"/>
 <HWB>
 <E3Head><POS pos="Prop"/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">Карьчу</l>
 <st>Карьчу</st>
@@ -15908,7 +15656,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="Катьмис"/>
 <HWB>
 <E3Head><POS pos="Prop"/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">Катьмис</l>
 <st>Катьмис</st>
@@ -15936,7 +15684,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="Кавря"/>
 <HWB>
 <E3Head><POS pos="Prop"/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">Кавря</l>
 <st>Кавря</st>
@@ -15988,7 +15736,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="Кяшал"/>
 <HWB>
 <E3Head><POS pos="Prop"/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">Кяшал</l>
 <st>Кяшал</st>
@@ -16016,7 +15764,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="Кеця"/>
 <HWB>
 <E3Head><POS pos="Prop"/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">Кеця</l>
 <st>Кеця</st>
@@ -16051,7 +15799,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="Келгужа"/>
 <HWB>
 <E3Head><POS pos="Prop"/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">Келгужа</l>
 <st>Келгужа</st>
@@ -16080,7 +15828,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="Келяш"/>
 <HWB>
 <E3Head><POS pos="Prop"/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">Келяш</l>
 <st>Келяш</st>
@@ -16108,7 +15856,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="Келяш"/>
 <HWB>
 <E3Head><POS pos="Prop"/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">Келяш</l>
 <st>Келяш</st>
@@ -16168,7 +15916,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="Кенева"/>
 <HWB>
 <E3Head><POS pos="Prop"/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">Кенева</l>
 <st>Кенева</st>
@@ -16211,7 +15959,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="Керата"/>
 <HWB>
 <E3Head><POS pos="Prop"/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">Керата</l>
 <st>Керата</st>
@@ -16240,7 +15988,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="Керьзя"/>
 <HWB>
 <E3Head><POS pos="Prop"/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">Керьзя</l>
 <st>Керьзя</st>
@@ -16287,7 +16035,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="Кесьмяй"/>
 <HWB>
 <E3Head><POS pos="Prop"/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">Кесьмяй</l>
 <st>Кесьмяй</st>
@@ -16323,7 +16071,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="Кирилка"/>
 <HWB>
 <E3Head><POS pos="Prop"/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">Кирилка</l>
 <st>Кирилка</st>
@@ -16368,7 +16116,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="Клим"/>
 <HWB>
 <E3Head><POS pos="Prop"/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">Клим</l>
 <st>Клим</st>
@@ -16426,7 +16174,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="Кола"/>
 <HWB>
 <E3Head><POS pos="Prop"/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">Кола</l>
 <st>Кола</st>
@@ -16483,7 +16231,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="Колапәна"/>
 <HWB>
 <E3Head><POS pos="Prop"/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">Колапәна</l>
 <st>Колапәна</st>
@@ -16519,7 +16267,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="Колдаес"/>
 <HWB>
 <E3Head><POS pos="Prop"/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">Колдаес</l>
 <st>Колдаес</st>
@@ -16547,7 +16295,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="Конай"/>
 <HWB>
 <E3Head><POS pos="Prop"/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">Конай</l>
 <st>Конай</st>
@@ -16575,7 +16323,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="Конякәж"/>
 <HWB>
 <E3Head><POS pos="Prop"/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">Конякәж</l>
 <st>Конякәж</st>
@@ -16634,7 +16382,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="Котай"/>
 <HWB>
 <E3Head><POS pos="Prop"/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">Котай</l>
 <st>Котай</st>
@@ -16662,7 +16410,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="Крила"/>
 <HWB>
 <E3Head><POS pos="Prop"/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">Крила</l>
 <st>Крила</st>
@@ -16743,7 +16491,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="Куцяй"/>
 <HWB>
 <E3Head><POS pos="Prop"/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">Куцяй</l>
 <st>Куцяй</st>
@@ -16771,7 +16519,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="Кудай"/>
 <HWB>
 <E3Head><POS pos="Prop"/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">Кудай</l>
 <st>Кудай</st>
@@ -16811,7 +16559,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="Курай"/>
 <HWB>
 <E3Head><POS pos="Prop"/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">Курай</l>
 <st>Курай</st>
@@ -16872,7 +16620,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="Кшняка"/>
 <HWB>
 <E3Head><POS pos="Prop"/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">Кшняка</l>
 <st>Кшняка</st>
@@ -16900,7 +16648,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="Кәдяй"/>
 <HWB>
 <E3Head><POS pos="Prop"/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">Кәдяй</l>
 <st>Кәдяй</st>
@@ -16928,7 +16676,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="Кәрмай"/>
 <HWB>
 <E3Head><POS pos="Prop"/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">Кәрмай</l>
 <st>Кәрмай</st>
@@ -16978,7 +16726,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="Польтя"/>
 <HWB>
 <E3Head><POS pos="Prop"/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">Польтя</l>
 <st>Польтя</st>
@@ -17020,7 +16768,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="Фана"/>
 <HWB>
 <E3Head><POS pos="Prop"/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">Фана</l>
 <st>Фана</st>
@@ -17111,7 +16859,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="Фока"/>
 <HWB>
 <E3Head><POS pos="Prop"/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">Фока</l>
 <st>Фока</st>
@@ -17168,7 +16916,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="Фтарой"/>
 <HWB>
 <E3Head><POS pos="Prop"/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">Фтарой</l>
 <st>Фтарой</st>
@@ -17220,7 +16968,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="Цыба"/>
 <HWB>
 <E3Head><POS pos="Prop"/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">Цыба</l>
 <st>Цыба</st>
@@ -17264,7 +17012,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="ярьмила"/>
 <HWB>
 <E3Head><POS freeType="morphological" pos="Prop"/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Prop">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">ярьмила</l>
 <st>ярьмила</st>
@@ -20320,8 +20068,8 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 </HWB>
 <MWUB>
 <E3Head><POS pos="N"/></E3Head>
-<lg xml:lang="myv"><l pos="Prop">эр́жьань бруслан</l>
-<st>эр́жьань бруслан</st>
+<lg xml:lang="myv"><l pos="Prop">эрьжьань бруслан</l>
+<st>эрьжьань бруслан</st>
 <PhnUBlock>
 <PhnU>
 <Wd myvId="эрьᴣ́ань">eŕᴣ́ań</Wd>
@@ -27402,12 +27150,12 @@ Eine Wachskerze wurde angezündet u. eine Frau sprach folg. Gebet: <i>
 </HWB>
 </e>
   <e>
-<root_name xml:lang="myv" hid="1" pos="Prop" lemma="Кир́дюва"/>
-<root_name xml:lang="mdf" hid="1" pos="Prop" lemma="кир́дю"/>
+<root_name xml:lang="myv" hid="1" pos="Prop" lemma="Кирьдюва"/>
+<root_name xml:lang="mdf" hid="1" pos="Prop" lemma="кирьдю"/>
 <HWB>
 <E3Head><POS pos="Prop"/></E3Head>
-<lg xml:lang="myv"><l pos="Prop">Кир́дюва</l>
-<st>Кир́дюва</st>
+<lg xml:lang="myv"><l pos="Prop">Кирьдюва</l>
+<st>Кирьдюва</st>
 <PhnUBlock>
 <PhnU>
 <Wd myvId="кирдюва">ḱiŕd́uva</Wd>
@@ -27417,8 +27165,8 @@ Eine Wachskerze wurde angezündet u. eine Frau sprach folg. Gebet: <i>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<lg xml:lang="mdf"><l pos="Prop">кир́дю</l>
-<st>кир́дю</st>
+<lg xml:lang="mdf"><l pos="Prop">кирьдю</l>
+<st>кирьдю</st>
 <PhnUBlock>
 <PhnU>
 <Wd mdfId="кирдю">ḱiŕd́u</Wd>
@@ -42591,6 +42339,49 @@ Dem. zu <Et>Сёма</Et>]
 </Etg>
 </e>
   <e>
+<root_ref xml:lang="myv" hid="1" pos="Num" lemma="вейке"/>
+<root_ref xml:lang="mdf" hid="1" pos="Num" lemma="фкя"/>
+<HWB>
+<E3Head><POS/></E3Head>
+<lg xml:lang="myv"><l pos="Prop">Тифтё</l>
+<st>Тифтё</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="тифтё">t́ift́o</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>MKly</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<td edit="MK">женское имя</td>
+</tg>
+<tg xml:lang="deu">
+<t>ein Frauenname</t>
+</tg>
+</mg>
+<xg>
+<x>
+<Wd myvId="эрюмань">eŕumań</Wd>
+<Wd myvId="ульнесь">uĺńeś</Wd>
+<Wd myvId="тифтё">t́ift́o</Wd>
+<Wd myvId="патязо">pat́azo</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>MKly</GeoU>
+</GeoUB>
+<sources>
+<book name="VII" pg="28"/>
+</sources>
+<xt xml:lang="deu">Erjuma hatte eine ältere Schwester Tiftjo.</xt>
+</xg>
+</HWB>
+</e>
+  <e>
 <root_name xml:lang="myv" hid="1" pos="Prop" lemma="Трофим"/>
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma="Трафим"/>
 <HWB>
@@ -44589,6 +44380,124 @@ Kurzf. zu <Et>Фёдор</Et>)]
 </Etg>
 </e>
   <e>
+<root_name xml:lang="myv" hid="1" pos="Prop" lemma="Яик"/>
+<root_name xml:lang="mdf" hid="1" pos="" lemma=""/>
+<HWB>
+<E3Head><POS/></E3Head>
+<lg xml:lang="myv"><l pos="Prop">Яик</l>
+<st>Яик</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="яік">jaik</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Is</GeoU>
+<GeoU edit="MK">MKly</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">Яик</t>
+</tg>
+<tg xml:lang="rus">
+<t>Уральск [город и район]</t>
+</tg>
+<tg xml:lang="deu">
+<t>Uralsk [Stadt u. Bezirk]</t>
+</tg>(
+<GeoUB xml:lang="myv">
+<GeoU>Is</GeoU>
+</GeoUB>
+)</mg>
+<xg>
+<x>
+<Wd myvId="яікстэнть">jaikste͔ńt́</Wd>
+<Wd myvId="саян">sajan</Wd>
+<Wd myvId="яікень">jaiḱeń</Wd>
+<Wd myvId="тейтерь">t́ejt́eŕ</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>MKly</GeoU>
+</GeoUB>
+<sources>
+<book name="VII" pg="12"/>
+</sources>
+<xt xml:lang="deu">Vom Jaik-Land hole ich mir ein Jaiker Mädchen.</xt>
+</xg>
+<xg>
+<x>
+<Wd myvId="сынь">si͔ń</Wd>
+<Wd myvId="и">i</Wd>
+<Wd myvId="гадаіть">gadait́</Wd>
+<Wd myvId="кипанят">ḱipańat</Wd>
+<Hph edit="MK"/>
+<Wd myvId="оксят">okśat</Wd>
+<Wd myvId="яікев">jaiḱev</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Is</GeoU>
+</GeoUB>
+<sources>
+<book name="I" pg="156"/>
+</sources>
+<xt xml:lang="deu">Kipanja und Oksja denken nach Jaik (zu gehen).</xt>
+</xg>
+</HWB>
+<MWUB>
+<E3Head><POS/></E3Head>
+<lg xml:lang="myv"><l>Яик-мастор</l>
+<st>Яик-мастор</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="яік">jaik</Wd>
+<Hph/>
+<Wd myvId="мастор">mastor</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>MKly</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">“Яикская земля”</t>
+</tg>
+<tg xml:lang="deu">
+<t>“Jaiker Land”</t>
+</tg>
+</mg>
+<xg>
+<x>
+<Wd myvId="мон">mon</Wd>
+<Wd myvId="туян">tujan</Wd>
+<tk3 isa="comma"/>
+<Wd myvId="авай">avaj</Wd>
+<tk3 isa="comma"/>
+<Wd myvId="яік">jaik</Wd>
+<Wd myvId="масторов">mastorov</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>MKly</GeoU>
+</GeoUB>
+<sources>
+<book name="VII" pg="12"/>
+</sources>
+<xt xml:lang="deu">Ich mache mich auf, Mutter, nach Jaik-Land. </xt>
+</xg>
+</MWUB>
+<Etg>
+<EtSrcL edit="MK" xml:lang="rus"/>
+<EtCtn>
+<Et edit="MK">Яи́к</Et>
+</EtCtn>
+</Etg>
+</e>
+  <e>
 <root_name xml:lang="myv" hid="1" pos="Prop" lemma="Янька"/>
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma=""/>
 <HWB>
@@ -45657,47 +45566,6 @@ Kurzf. zu <Et>Фёдор</Et>)]
 </Etg>
 </e>
   <e>
-<root_name xml:lang="myv" hid="1" pos="Prop" lemma="гор́дяй"/>
-<root_name xml:lang="mdf" hid="1" pos="Prop" lemma=""/>
-<HWB>
-<E3Head><POS freeType="morphological" pos="Prop"/></E3Head>
-<lg xml:lang="myv"><l pos="Prop">гор́дяй</l>
-<st>гор́дяй</st>
-<PhnUBlock>
-<PhnU>
-<Wd myvId="гордяй">goŕd́aj</Wd>
-</PhnU>
-<GeoUB xml:lang="myv">
-<GeoU>VVr</GeoU>
-</GeoUB>
-</PhnUBlock>
-<PhnUBlock>
-<PhnU>
-<Wd myvId="гордей">goŕd́ej</Wd>
-</PhnU>
-<GeoUB xml:lang="myv">
-<GeoU>Temn</GeoU>
-</GeoUB>
-</PhnUBlock>
-</lg>
-<lg edit="JMR" xml:lang="mdf"><l pos="Prop"/><st/>
-</lg>
-<mg>
-<tg xml:lang="rus">
-<td edit="MK">мужское имя</td>
-<t edit="MK">Гордей</t>
-</tg>
-<tg xml:lang="deu">
-<td>ein Männername</td>
-</tg>
-</mg>
-</HWB>
-<Etg>
-<EtSrcL xml:lang="rus"/>
-<Et>Горде́й</Et>
-</Etg>
-</e>
-  <e>
 <root_name xml:lang="myv" hid="1" pos="Prop" lemma="горнукш"/>
 <root_name xml:lang="mdf" hid="1" pos="Prop" lemma=""/>
 <HWB>
@@ -45771,6 +45639,47 @@ Kurzf. zu <Et>Фёдор</Et>)]
 </tg>
 </mg>
 </HWB>
+</e>
+  <e>
+<root_name xml:lang="myv" hid="1" pos="Prop" lemma="горьдяй"/>
+<root_name xml:lang="mdf" hid="1" pos="Prop" lemma=""/>
+<HWB>
+<E3Head><POS freeType="morphological" pos="Prop"/></E3Head>
+<lg xml:lang="myv"><l pos="Prop">горьдяй</l>
+<st>горьдяй</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="гордяй">goŕd́aj</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>VVr</GeoU>
+</GeoUB>
+</PhnUBlock>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="гордей">goŕd́ej</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Temn</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l pos="Prop"/><st/>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<td edit="MK">мужское имя</td>
+<t edit="MK">Гордей</t>
+</tg>
+<tg xml:lang="deu">
+<td>ein Männername</td>
+</tg>
+</mg>
+</HWB>
+<Etg>
+<EtSrcL xml:lang="rus"/>
+<Et>Горде́й</Et>
+</Etg>
 </e>
   <e>
 <root_name xml:lang="myv" hid="1" pos="Prop" lemma="гриша"/>
@@ -48421,6 +48330,142 @@ Kurzf. zu <Et>Фёдор</Et>)]
 <EtSrcL edit="MK" vl="?ru"/>
 <EtCtn>
 <Et edit="MK">Маля</Et>
+</EtCtn>[
+<DerivationBlock><DrvT vl="diminutive"/><DrvSrc>Мела́ния</DrvSrc>
+</DerivationBlock>]
+</Etg>
+</e>
+  <e>
+<root_ref xml:lang="myv" hid="1" pos="Prop" lemma="мала"/>
+<root_ref xml:lang="mdf" hid="1" pos="" lemma="мала"/>
+<HWB>
+<E3Head><POS/></E3Head>
+<lg xml:lang="myv"><l pos="Prop">малай-баба</l>
+<st>малай-баба</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="малай">malaj</Wd>
+<Hph/>
+<Wd myvId="баба">baba</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Vez</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
+<DerivationBlock>[wohl eine Anr.]</DerivationBlock>
+<mg>
+<dF xml:lang="rus">[имя известной колдуньи в деревне Вязовка]</dF>
+<dF xml:lang="deu">eine berühmte Zauberin u. Gewährsperson P:s im Dorfe Wjasowka</dF>
+</mg>
+</HWB>
+</e>
+  <e>
+<root_ref xml:lang="myv" hid="1" pos="Prop" lemma="мала"/>
+<root_ref xml:lang="mdf" hid="1" pos="" lemma="мала"/>
+<HWB>
+<E3Head><POS/><deriv isa="dim-NYA"/></E3Head>
+<lg xml:lang="myv"><l pos="Prop">маланя</l>
+<st>маланя</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="маланя">malańa</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Vez</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg xml:lang="mdf"><l>маланя</l>
+<st>маланя</st>
+<PhnUBlock>
+<Chc>
+<Vrt>
+<PhnU>
+<Wd mdfId="маланя">malańä</Wd>
+</PhnU>
+</Vrt>
+<Vrt>
+<PhnU>
+<Wd mdfId="маланья">malańjä</Wd>
+</PhnU>
+</Vrt>
+</Chc>
+<GeoUB xml:lang="mdf">
+<GeoU>Temn</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<td edit="MK">женское имя</td>
+<t edit="MK" type="approx">Маланя</t>
+</tg>
+<tg xml:lang="deu">
+<td>ein Frauenname</td>
+<t type="approx">Malanja</t>
+<t type="approx">Melanie</t>
+</tg>
+[Dem. zu <FrnTxt>
+<Wd CyrId="мала">mala</Wd></FrnTxt> od. aus russ. Malanja]
+</mg>
+<xg>
+<x>
+<Wd myvId="саень">sajeń</Wd>
+<Wd myvId="полазо">polazo</Wd>
+<Wd myvId="маланя">malańa</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Vez</GeoU>
+</GeoUB>
+<sources>
+<book name="I" pg="226"/>
+</sources>
+<xt xml:lang="deu">Seine genommene Gattin (heisst) Malanja.</xt>
+</xg>
+<xg>
+<x>
+<Wd mdfId="абрань">abrań</Wd>
+<Wd mdfId="маланясь">malańäś</Wd>
+<tk3 isa="comma"/>
+<Wd mdfId="кайги">kajǵi</Wd>
+<Wd mdfId="пайгонь">pajgə̑ń</Wd>
+<Wd mdfId="салайнясь">salajńäś</Wd>
+<tk3 isa="excl"/></x>
+<GeoUB xml:lang="mdf">
+<GeoU>Temn</GeoU>
+</GeoUB>
+<sources>
+<book name="VIII" pg="276"/>
+</sources>
+<xt xml:lang="deu">Abras Malanja, die eine klingende Schelle stahl!</xt>
+</xg>
+<xg>
+<x>
+<Wd mdfId="эста">esta</Wd>
+<Wd mdfId="ризояза">ŕizə̑jaza</Wd>
+<Hph/>
+<Wd mdfId="разояза">razə̑jaza</Wd>
+<Wd mdfId="сельмостонза">śeĺmə̑stə̑nza</Wd>
+<Wd mdfId="маланьять">malańjät́</Wd>
+<Wd mdfId="акшесь">akšeś</Wd>
+<tk3 isa="excl"/></x>
+<GeoUB xml:lang="mdf">
+<GeoU>Temn</GeoU>
+</GeoUB>
+<sources>
+<book name="VIII" pg="382"/>
+</sources>
+<xt xml:lang="deu">Dann möge auch der Star in Malanjas Auge(n) Sprösslinge heraustreiben!</xt>
+</xg>
+</HWB>
+<Etg>
+<EtType edit="MK" vl="vgl"/>
+<EtSrcL edit="MK" vl="russ"/>
+<EtCtn>
+<Et edit="MK">Мала́ня</Et>
 </EtCtn>[
 <DerivationBlock><DrvT vl="diminutive"/><DrvSrc>Мела́ния</DrvSrc>
 </DerivationBlock>]
@@ -57688,124 +57733,6 @@ auch russ. <Et>Моке́й</Et>]
 </Etg>
 </e>
   <e>
-<root_name xml:lang="myv" hid="1" pos="Prop" lemma="Яик"/>
-<root_name xml:lang="mdf" hid="1" pos="" lemma=""/>
-<HWB>
-<E3Head><POS/></E3Head>
-<lg xml:lang="myv"><l pos="Prop">Яик</l>
-<st>Яик</st>
-<PhnUBlock>
-<PhnU>
-<Wd myvId="яік">jaik</Wd>
-</PhnU>
-<GeoUB xml:lang="myv">
-<GeoU>Is</GeoU>
-<GeoU edit="MK">MKly</GeoU>
-</GeoUB>
-</PhnUBlock>
-</lg>
-<lg edit="JMR" xml:lang="mdf"><l/><st/>
-</lg>
-<mg>
-<tg xml:lang="rus">
-<t edit="MK">Яик</t>
-</tg>
-<tg xml:lang="rus">
-<t>Уральск [город и район]</t>
-</tg>
-<tg xml:lang="deu">
-<t>Uralsk [Stadt u. Bezirk]</t>
-</tg>(
-<GeoUB xml:lang="myv">
-<GeoU>Is</GeoU>
-</GeoUB>
-)</mg>
-<xg>
-<x>
-<Wd myvId="яікстэнть">jaikste͔ńt́</Wd>
-<Wd myvId="саян">sajan</Wd>
-<Wd myvId="яікень">jaiḱeń</Wd>
-<Wd myvId="тейтерь">t́ejt́eŕ</Wd>
-</x>
-<GeoUB xml:lang="myv">
-<GeoU>MKly</GeoU>
-</GeoUB>
-<sources>
-<book name="VII" pg="12"/>
-</sources>
-<xt xml:lang="deu">Vom Jaik-Land hole ich mir ein Jaiker Mädchen.</xt>
-</xg>
-<xg>
-<x>
-<Wd myvId="сынь">si͔ń</Wd>
-<Wd myvId="и">i</Wd>
-<Wd myvId="гадаіть">gadait́</Wd>
-<Wd myvId="кипанят">ḱipańat</Wd>
-<Hph edit="MK"/>
-<Wd myvId="оксят">okśat</Wd>
-<Wd myvId="яікев">jaiḱev</Wd>
-</x>
-<GeoUB xml:lang="myv">
-<GeoU>Is</GeoU>
-</GeoUB>
-<sources>
-<book name="I" pg="156"/>
-</sources>
-<xt xml:lang="deu">Kipanja und Oksja denken nach Jaik (zu gehen).</xt>
-</xg>
-</HWB>
-<MWUB>
-<E3Head><POS/></E3Head>
-<lg xml:lang="myv"><l>Яик-мастор</l>
-<st>Яик-мастор</st>
-<PhnUBlock>
-<PhnU>
-<Wd myvId="яік">jaik</Wd>
-<Hph/>
-<Wd myvId="мастор">mastor</Wd>
-</PhnU>
-<GeoUB xml:lang="myv">
-<GeoU>MKly</GeoU>
-</GeoUB>
-</PhnUBlock>
-</lg>
-<lg edit="JMR" xml:lang="mdf"><l/><st/>
-</lg>
-<mg>
-<tg xml:lang="rus">
-<t edit="MK">“Яикская земля”</t>
-</tg>
-<tg xml:lang="deu">
-<t>“Jaiker Land”</t>
-</tg>
-</mg>
-<xg>
-<x>
-<Wd myvId="мон">mon</Wd>
-<Wd myvId="туян">tujan</Wd>
-<tk3 isa="comma"/>
-<Wd myvId="авай">avaj</Wd>
-<tk3 isa="comma"/>
-<Wd myvId="яік">jaik</Wd>
-<Wd myvId="масторов">mastorov</Wd>
-</x>
-<GeoUB xml:lang="myv">
-<GeoU>MKly</GeoU>
-</GeoUB>
-<sources>
-<book name="VII" pg="12"/>
-</sources>
-<xt xml:lang="deu">Ich mache mich auf, Mutter, nach Jaik-Land. </xt>
-</xg>
-</MWUB>
-<Etg>
-<EtSrcL edit="MK" xml:lang="rus"/>
-<EtCtn>
-<Et edit="MK">Яи́к</Et>
-</EtCtn>
-</Etg>
-</e>
-  <e>
 <root_ref xml:lang="myv" hid="1" pos="Prop" lemma="якаля"/>
 <root_ref xml:lang="mdf" hid="1" pos="" lemma=""/>
 <HWB>
@@ -58041,5 +57968,219 @@ auch russ. <Et>Моке́й</Et>]
 <DerivationBlock><DrvT vl="diminutive"/><DrvSrc>Иаки́м</DrvSrc>
 </DerivationBlock>]
 </Etg>
+</e>
+  <e>
+<root_ref xml:lang="myv" hid="1" pos="A" lemma="козя"/>
+<root_ref xml:lang="mdf" hid="1" pos="A" lemma="козе"/>
+<HWB>
+<E3Head><POS pos="Prop"/></E3Head>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"/><st/>
+</lg>
+<lg xml:lang="mdf"><l pos="Prop">Козяй</l>
+<st>Козяй</st>
+<PhnUBlock>
+<PhnU>
+<Wd mdfId="козяй">koźäj</Wd>
+</PhnU>
+<GeoUB xml:lang="mdf">
+<GeoU/>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<t>[фамилия</t>
+</tg>
+<Calque xml:lang="rus">Богач</Calque>
+<tg xml:lang="deu">
+<t>ein Familienname</t>
+<t>“Der Reiche”]</t>
+</tg>
+</mg>
+<xg>
+<x>
+<Wd mdfId="козяень">koźäjəń</Wd>
+<Wd mdfId="алё·нась">aĺo·naś</Wd>
+</x>
+<GeoUB xml:lang="mdf">
+<GeoU/>
+</GeoUB>
+<sources>
+<book name="IV" pg="302"/>
+</sources>
+<xt xml:lang="deu">Kosjajs [Des Reichen] Aljona.</xt>
+</xg>
+</HWB>
+</e>
+  <e>
+<root_ref xml:lang="myv" hid="1" pos="A" lemma="сола"/>
+<root_ref xml:lang="mdf" hid="1" pos="A" lemma="сола"/>
+<HWB>
+<E3Head><POS/></E3Head>
+<lg xml:lang="myv"><l pos="Prop">солай</l>
+<st>солай</st>
+<PhnUBlock>
+<Chc>
+<Vrt>
+<PhnU>
+<Wd myvId="солай">solaj</Wd>
+</PhnU>
+</Vrt>
+<Vrt>
+<PhnU>
+<Wd myvId="сола">sola</Wd>
+</PhnU>
+</Vrt>
+</Chc>
+<GeoUB xml:lang="myv">
+<GeoU>Bag</GeoU>
+</GeoUB>
+</PhnUBlock>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="солай">solaj</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoUCtn>
+<FrCm freeType="questionRelation" Modification="manus"/>
+<GeoU>Bug</GeoU>
+</GeoUCtn>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l pos="Prop"/><st/>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<td edit="MK">женское имя</td>
+</tg>
+<tg xml:lang="deu">
+<t>ein Frauenname</t>
+</tg>
+</mg>
+<xg>
+<x>
+<Wd myvId="сисем">śiśem</Wd>
+<Wd myvId="алянь">aĺań</Wd>
+<Wd myvId="солай">solaj</Wd>
+<Wd myvId="ве">v́e</Wd>
+<Wd myvId="сазор">sazor</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Bag</GeoU>
+</GeoUB>
+<sources>
+<book name="I" pg="413"/>
+</sources>
+<xt xml:lang="deu">Solaj ist die einzige [jüngere] Schwester von sieben Brüdern.</xt>
+</xg>
+<xg>
+<x>
+<Wd myvId="остаткат">ostatkat</Wd>
+<Wd myvId="префне">pŕefńe</Wd>
+<Wd myvId="солаень">solajeń</Wd>
+<Wd myvId="салавсть">salavśt́</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Bag</GeoU>
+</GeoUB>
+<sources>
+<book name="I" pg="415"/>
+</sources>
+<xt xml:lang="deu">(Da) stahl sich der Rest von Solajs Verstande davon.</xt>
+</xg>
+<xg>
+<x>
+<Wd myvId="конёв">końov</Wd>
+<Wd myvId="коцтке">koctḱe</Wd>
+<Wd myvId="солань">solań</Wd>
+<Wd myvId="кецэнᴣэ">ḱece͔nᴣe͔</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Bag</GeoU>
+</GeoUB>
+<sources>
+<book name="I" pg="414"/>
+</sources>
+<xt xml:lang="deu">Ein Linnen (fein) wie Papier hat Solaj in den Händen.</xt>
+</xg>
+<xg>
+<x>
+<Wd myvId="парьцей">paŕćej</Wd>
+<Wd myvId="кесак">ḱesak</Wd>
+<Wd myvId="солане">solańe</Wd>
+<Wd myvId="каясть">kajaśt́</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Bag</GeoU>
+</GeoUB>
+<sources>
+<book name="I" pg="415"/>
+</sources>
+<xt xml:lang="deu">Sie warfen Solaj einen Strang Seidengarn zu.</xt>
+</xg>
+<xg>
+<x>
+<Wd myvId="солай">solaj</Wd>
+<Hph edit="MK"/>
+<Wd myvId="патинем">pat́ińem</Wd>
+<tk3 isa="comma"/>
+<Wd myvId="тон">ton</Wd>
+<Wd myvId="явик">jav́ik</Wd>
+<tk3 isa="comma"/>
+<Wd myvId="оном">onom</Wd>
+<Wd myvId="кортаса">kortasa</Wd>
+</x>
+<GeoUB edit="MK" xml:lang="myv">
+<GeoU edit="MK">Bug</GeoU>
+</GeoUB>
+<sources>
+<book name="V" pg="348"/>
+</sources>
+<xt xml:lang="deu">Meine Schwester Solaj, deute du ihn, ich erzähle meinen Traum.</xt>
+</xg>
+</HWB>
+</e>
+  <e>
+<root_ref xml:lang="myv" hid="1" pos="A" lemma="сола"/>
+<root_ref xml:lang="mdf" hid="1" pos="A" lemma="сола"/>
+<HWB>
+<E3Head><POS pos="N"/><deriv isa="DVNoun-MKA"/></E3Head>
+<lg xml:lang="myv"><l pos="Prop">соламка</l>
+<st>соламка</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="соламка">solamka</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Kl</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l pos="Prop"/><st/>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<td edit="MK">женское имя</td>
+</tg>
+<tg xml:lang="deu">
+<t>ein Frauenname</t>
+</tg>
+</mg>
+<xg>
+<x>
+<Wd myvId="тейтересь">t́ejt́eŕeś</Wd>
+<Wd myvId="паро">paro</Wd>
+<Wd myvId="соламка">solamka</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Kl</GeoU>
+</GeoUB>
+<sources>
+<book name="I" pg="418"/>
+</sources>
+<xt xml:lang="deu">Ein gutes Mädchen ist Solamka!</xt>
+</xg>
+</HWB>
 </e>
 </r>

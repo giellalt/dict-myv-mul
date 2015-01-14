@@ -136,703 +136,6 @@
 </MWUB>
 </e>
   <e>
-<root_name xml:lang="myv" hid="1" pos="Det" lemma="то"/>
-<root_name xml:lang="mdf" hid="1" pos="Stem" lemma="то"/>
-<HWB>
-<E3Head><POS/></E3Head>
-<lg xml:lang="myv"><l pos="Det">то</l>
-<st>то</st>
-<PhnUBlock>
-<PhnU>
-<Wd myvId="то">to</Wd>
-</PhnU>
-<GeoUB xml:lang="myv">
-<GeoU>NSurk</GeoU>
-<GeoU>Sulli</GeoU>
-</GeoUB>
-</PhnUBlock>
-</lg>
-<lg edit="JMR" xml:lang="mdf"><l/><st/>
-</lg>
-<mg>
-<tg xml:lang="rus">
-<t edit="MK">тот</t>
-</tg>
-<tg xml:lang="deu">
-<t edit="MK">jener</t>
-</tg>
-</mg>
-<xg>
-<x>
-<Wd myvId="“косо">“koso</Wd>
-<Wd myvId="соки?”">soḱi?”</Wd>
-<Wd myvId="–">–</Wd>
-<Wd myvId="“оно">“ono</Wd>
-<tk3 isa="comma"/>
-<Wd myvId="то">to</Wd>
-<Wd myvId="ёно!”">jono!”</Wd>
-</x>
-<GeoUB xml:lang="myv">
-<GeoU>NSurk</GeoU>
-</GeoUB>
-<xt xml:lang="deu">“Wo pflügt er?” – “Sieh, in jener Richtung (dort)!”.</xt>
-</xg>
-<xg>
-<x>
-<Wd myvId="сисем">śiśem</Wd>
-<Wd myvId="масторонь">mastoroń</Wd>
-<tk3 isa="comma"/>
-<Wd myvId="татар">tatar</Wd>
-<tk3 isa="comma"/>
-<Wd myvId="то">to</Wd>
-<Wd myvId="ёно">jono</Wd>
-<tk3 isa="comma"/>
-<Wd myvId="сисем">śiśem</Wd>
-<Wd myvId="масторонь">mastoroń</Wd>
-<tk3 isa="comma"/>
-<Wd myvId="татар">tatar</Wd>
-<tk3 isa="comma"/>
-<Wd myvId="томбале">tombaĺe</Wd>
-</x>
-<GeoUB xml:lang="myv">
-<GeoU>Sulli</GeoU>
-</GeoUB>
-<sources>
-<book name="VII" pg="92"/>
-</sources>
-<xt xml:lang="deu">Jenseits sieben Länder, Tatar, jenseits sieben Länder, Tatar.</xt>
-</xg>
-</HWB>
-</e>
-  <e>
-<root_ref xml:lang="myv" hid="1" pos="Det" lemma="то"/>
-<root_ref xml:lang="mdf" hid="1" pos="Stem" lemma="то"/>
-<HWB>
-<E3Head><POS/></E3Head>
-<lg xml:lang="myv"><l pos="Det">товат</l>
-<st>товат</st>
-<PhnUBlock>
-<PhnU>
-<Wd myvId="товат">tovat</Wd>
-</PhnU>
-<GeoUB xml:lang="myv">
-<GeoU>Atr</GeoU>
-</GeoUB>
-</PhnUBlock>
-</lg>
-<lg edit="JMR" xml:lang="mdf"><l/><st/>
-</lg>
-<DrvG>[<comment/><DrvStCtn><DrvSt><Wd CyrId="то">to</Wd></DrvSt></DrvStCtn><fnct>+</fnct><DrvStCtn><DrvSt><Wd CyrId="ва!">va!</Wd></DrvSt></DrvStCtn><fnct>+</fnct><DrvStCtn><DrvSt><Wd CyrId="то">to</Wd></DrvSt></DrvStCtn>]</DrvG>
-<mg>
-<tg xml:lang="rus">
-<t edit="MK">тот</t>
-</tg>
-<tg xml:lang="deu">
-<t edit="MK">jener</t>
-</tg>
-</mg>
-</HWB>
-</e>
-  <e>
-<root_ref xml:lang="myv" hid="1" pos="Det" lemma="то"/>
-<root_ref xml:lang="mdf" hid="1" pos="Stem" lemma="то"/>
-<HWB>
-<E3Head><POS/></E3Head>
-<lg xml:lang="myv"><l pos="Det">товолце</l>
-<st>товолце</st>
-<PhnUBlock>
-<PhnU>
-<Wd myvId="толцӓ͔">tolcä͔</Wd>
-</PhnU>
-<GeoUB xml:lang="myv">
-<GeoU>Kažl</GeoU>
-</GeoUB>
-</PhnUBlock>
-</lg>
-<lg xml:lang="mdf"><l>товәлся</l>
-<st>товәлся</st>
-<PhnUBlock>
-<PhnU>
-<Wd mdfId="тово·лся">tovə̑·lśä</Wd>
-</PhnU>
-<GeoUB xml:lang="mdf">
-<GeoU>MdJurtk</GeoU>
-</GeoUB>
-</PhnUBlock>
-</lg>
-<mg>
-<tg xml:lang="rus">
-<t edit="MK">находящийся на той стороне</t>
-</tg>
-<tg xml:lang="deu">
-<t>in jener Richtung befindlich</t>
-</tg>
-</mg>
-</HWB>
-</e>
-  <e>
-<root_ref xml:lang="myv" hid="1" pos="Det" lemma="то"/>
-<root_ref xml:lang="mdf" hid="1" pos="Stem" lemma="то"/>
-<HWB>
-<E3Head><POS/></E3Head>
-<lg xml:lang="myv"><l pos="Det">тона</l>
-<st>тона</st>
-<PhnUBlock>
-<PhnU>
-<Wd myvId="тона">tona</Wd>
-</PhnU>
-<sources>
-<book name="Chr" xml:lang="myv"/>
-</sources>
-<GeoUB xml:lang="myv">
-<GeoU>Mar</GeoU>
-<GeoU>Petr</GeoU>
-</GeoUB>
-</PhnUBlock>
-</lg>
-<lg xml:lang="mdf"><l pos="Det">тона</l>
-<st>тона</st>
-<PhnUBlock>
-<PhnU>
-<Wd mdfId="тона">tona</Wd>
-</PhnU>
-<sources>
-<book name="Chr" xml:lang="mdf"/>
-</sources>
-<GeoUB xml:lang="mdf">
-<GeoU>P</GeoU>
-<GeoU>Kr</GeoU>
-<GeoU>Sel</GeoU>
-</GeoUB>
-</PhnUBlock>
-</lg>
-<mg>
-<tg xml:lang="rus">
-<t edit="MK">тот</t>
-</tg>
-<tg xml:lang="deu">
-<t>jener</t>
-</tg>
-</mg>
-;
-<mg>
-<dfLQl1>(
-<GeoUB xml:lang="myv">
-<GeoU>Petr</GeoU>
-</GeoUB>
-<re>:)</re></dfLQl1>
-<tg xml:lang="rus">
-<t>чёрт</t>
-</tg>
-<tg xml:lang="deu">
-<t>Teufel</t>
-</tg>
-</mg>
-;
-<mg>
-<dfLQl1>(
-<GeoUB xml:lang="mdf">
-<GeoU/>
-</GeoUB>
-<us1>euphem</us1><re>:)</re></dfLQl1>
-<tg xml:lang="rus">
-<t edit="MK">наружные половые органы</t>
-</tg>
-<tg xml:lang="deu">
-<t>Scham</t>
-</tg>
-(<dfQsyn1 rel="syn">“ <FrnTxt><Wd CyrId="теня">t́eńa</Wd></FrnTxt>” 
-<GeoUB xml:lang="myv">
-<GeoU/>
-</GeoUB>
-</dfQsyn1>)</mg>
-<xg>
-<x>
-<Wd myvId="тона">tona</Wd>
-<Wd myvId="тусь">tuś</Wd>
-<Wd myvId="каськас">kaśkas</Wd>
-</x>
-<GeoUB xml:lang="myv">
-<GeoU>Mar</GeoU>
-</GeoUB>
-<sources>
-<book name="2" pg="82"/>
-</sources>
-<xt xml:lang="deu">Jenes verschwand in den Bodenraum.</xt>
-</xg>
-<xg>
-<x>
-<Wd myvId="козонь">kozoń</Wd>
-<Wd myvId="чачнэсь">čačne͔ś</Wd>
-<Wd myvId="комулявка">komuĺavka</Wd>
-<tk3 isa="quest"/>
-<Wd myvId="‒‒‒">‒‒‒</Wd>
-<Wd myvId="суронь">suroń</Wd>
-<tk3 isa="comma"/>
-<Wd myvId="равонь">ravoń</Wd>
-<Wd myvId="тона">tona</Wd>
-<Wd myvId="бокас">bokas</Wd>
-<tk3 isa="comma"/>
-<Wd myvId="суронь">suroń</Wd>
-<tk3 isa="comma"/>
-<Wd myvId="равонь">ravoń</Wd>
-<Wd myvId="тона">tona</Wd>
-<Wd myvId="чамас">čamas</Wd>
-</x>
-<GeoUB xml:lang="myv">
-<GeoU>Mar</GeoU>
-</GeoUB>
-<sources>
-<book name="1" pg="74"/>
-</sources>
-<xt xml:lang="deu">Wo ist der Hopfen geboren? ‒‒‒ An jener Seite der Sura, Wolga, an jenem Abhange der Sura, Wolga.</xt>
-</xg>
-<xg>
-<x>
-<Wd myvId="тона">tona</Wd>
-<Wd myvId="кудонь">kudoń</Wd>
-<Wd myvId="одирьва">od́iŕva</Wd>
-<tk3 isa="comma"/>
-<Wd myvId="сеецтэ">śejecte͔</Wd>
-<Wd myvId="сюкунякшны">śukuńakšni͔</Wd>
-<tk3 isa="fullstop"/>
-<Wd myvId="–">–</Wd>
-<Wd myvId="лисьма">ĺiśma</Wd>
-<Hph edit="MK"/>
-<Wd myvId="оципись">oćiṕiś</Wd>
-</x>
-<GeoUB xml:lang="myv">
-<GeoU>Mar</GeoU>
-</GeoUB>
-<sources>
-<book name="2" pg="63"/>
-</sources>
-<xt xml:lang="deu">Es ist die junge Frau des dortigen Hauses, sie verbeugt sich häufig. – Der Brunnenschwengel.</xt>
-</xg>
-<xg>
-<x>
-<Wd myvId="чарькиць">čaŕḱić</Wd>
-<Wd myvId="тятям">t́at́am</Wd>
-<tk3 isa="comma"/>
-<Wd myvId="сондза">sondza</Wd>
-<Wd myvId="тонат">tonat</Wd>
-<Note type="clarification">
-<Wd myvId="раужітне">raužit́ńe</Wd>
-</Note>
-<Wd myvId="ветнезь">v́et́ńeź</Wd>
-</x>
-<GeoUB xml:lang="myv">
-<GeoU>Petr</GeoU>
-</GeoUB>
-<sources>
-<book name="VIII" pg="246"/>
-</sources>
-<xt xml:lang="deu">Mein Vater verstand, ihn hatten Verstorbene (schwarze Teufel) verführt.</xt>
-</xg>
-<xg>
-<x>
-<Wd mdfId="вата">vata</Wd>
-<Wd mdfId="молян">moĺan</Wd>
-<Wd mdfId="тона">tona</Wd>
-<Wd mdfId="куду">kudu</Wd>
-</x>
-<GeoUB edit="MK" xml:lang="mdf">
-<GeoU edit="MK">Sel</GeoU>
-</GeoUB>
-<sources>
-<book name="IV" pg="238"/>
-</sources>
-<xt xml:lang="deu">Wart, ich gehe in die Stube meiner Schwiegereltern.</xt>
-</xg>
-<xg>
-<x>
-<Wd mdfId="тячи">t́äči</Wd>
-<Wd mdfId="сялə̑ндонь">śalə̑ndə̑ń</Wd>
-<Wd mdfId="тонань">tonań</Wd>
-<Wd mdfId="палафтонь">palaftə̑ń</Wd>
-</x>
-<GeoUB xml:lang="mdf">
-<GeoU/>
-</GeoUB>
-<sources>
-<book name="IV" pg="249"/>
-</sources>
-<xt xml:lang="deu">Ich habe heute [mit ihr] gezankt, ich habe (sie) etwas küssen heissen.</xt>
-</xg>
-</HWB>
-<MWUB>
-<E3Head><POS/></E3Head>
-<lg xml:lang="myv"><l pos="N">тоначи</l>
-<st>тоначи</st>
-<PhnUBlock>
-<PhnU>
-<Wd myvId="тона">tona</Wd>
-<Hph/>
-<Wd myvId="чи">tši</Wd>
-</PhnU>
-<sources>
-<book name="Chr" xml:lang="myv"/>
-</sources>
-</PhnUBlock>
-<PhnUBlock>
-<PhnU>
-<Wd myvId="тоначи">tonači</Wd>
-</PhnU>
-<GeoUB xml:lang="myv">
-<GeoU>Večk</GeoU>
-<GeoU>Bag</GeoU>
-<GeoU>Jeg</GeoU>
-<GeoU>Petr</GeoU>
-<GeoU>Bug</GeoU>
-</GeoUB>
-</PhnUBlock>
-</lg>
-<lg xml:lang="mdf"><l pos="Т">тонаши</l>
-<st>тонаши</st>
-<PhnUBlock>
-<PhnU>
-<Wd mdfId="тонаши">tonaši</Wd>
-</PhnU>
-<GeoUB xml:lang="mdf">
-<GeoU>P</GeoU>
-<GeoU>Kr</GeoU>
-<GeoU>Čemb</GeoU>
-<GeoU>Sučk</GeoU>
-</GeoUB>
-</PhnUBlock>
-</lg>
-<mg>
-<tg xml:lang="rus">
-<t edit="MK">потусторонний мир</t>
-<t edit="MK">тот свет</t>
-<t edit="MK">царство мёртвых</t>
-</tg>
-<tg xml:lang="deu">
-<t>die andere Welt</t>
-<t>Jenseits</t>
-<t>Totenreich</t>
-</tg>
-</mg>
-;
-<mg>
-<t xml:lang="rus">(Pl.:) <FrnTxt><Wd CyrId="тоначитне">tonačit́ńe</Wd></FrnTxt> 
-<GeoUB xml:lang="myv">
-<GeoU/>
-</GeoUB>
- ― <FrnTxt><Wd CyrId="тонашитня">tonašit́ńä</Wd></FrnTxt> 
-<GeoUB xml:lang="mdf">
-<GeoU>Čemb</GeoU>
-</GeoUB>
- [покойные]</t>
-<tg xml:lang="deu">
-<t>die Verstorbenen</t>
-</tg>
-</mg>
-<xg>
-<x>
-<Wd myvId="ва">va</Wd>
-<Wd myvId="тоначиста">tonačista</Wd>
-<Wd edit="MK" myvId="кенгелеманть">ḱeŋǵeĺemańt́</Wd>
-<Wd myvId="киса">ḱisa</Wd>
-<Wd myvId="повоттядызь">povot́t́adi͔ź</Wd>
-<Wd myvId="кельда">ḱeĺda</Wd>
-<tk3 isa="excl"/></x>
-<GeoUB xml:lang="myv">
-<GeoU>Petr</GeoU>
-</GeoUB>
-<sources>
-<book name="VIII" pg="174"/>
-</sources>
-<xt xml:lang="deu">Warte, du wirst im Jenseits wegen deiner Lügenhaftigkeit an der Zunge aufgehängt!</xt>
-</xg>
-<xg>
-<x>
-<Wd myvId="покштинень">pokšt́ińeń</Wd>
-<Hph/>
-<Wd myvId="бабинень">bab́ińeń</Wd>
-<tk3 isa="comma"/>
-<Wd myvId="тоначисэ">tonačise͔</Wd>
-<Wd myvId="эрицят">eŕićat</Wd>
-</x>
-<GeoUB xml:lang="myv">
-<GeoU>Bag</GeoU>
-</GeoUB>
-<xt xml:lang="deu">Meine Ahnen, die ihr in der anderen Welt lebt.</xt>
-</xg>
-<xg>
-<x>
-<Wd myvId="цёрам">ćoram</Wd>
-<Wd myvId="тоначив">tonačiv</Wd>
-<Wd myvId="туекшнэсь">tujekšne͔ś</Wd>
-</x>
-<GeoUB edit="MK" xml:lang="myv">
-<GeoU edit="MK">Bug</GeoU>
-</GeoUB>
-<sources>
-<book name="V" pg="472"/>
-</sources>
-<xt xml:lang="deu">Mein Sohn war ins Jenseits gegangen.</xt>
-</xg>
-<xg>
-<x>
-<Wd mdfId="кия">ḱijä</Wd>
-<Wd mdfId="тол">tol</Wd>
-<Hph edit="MK"/>
-<Wd mdfId="ваномать">vanə̑mat́</Wd>
-<Wd mdfId="аф">af</Wd>
-<Wd mdfId="кельксы">ḱeĺksi͔</Wd>
-<tk3 isa="comma"/>
-<Wd mdfId="сянь">śäń</Wd>
-<Wd mdfId="тонашиц">tonašic</Wd>
-<Wd mdfId="шобда">šobda</Wd>
-<Wd mdfId="ули">uĺi</Wd>
-</x>
-<GeoUB xml:lang="mdf">
-<GeoU>P</GeoU>
-</GeoUB>
-<sources>
-<book name="IV" pg="727"/>
-</sources>
-<xt xml:lang="deu">Wer das Feuer nicht hüten mag, dessen Jenseits-Leben wird dunkel sein.</xt>
-</xg>
-<xg>
-<x>
-<Wd mdfId="воронь">vorə̑ń</Wd>
-<Wd mdfId="вор">vor</Wd>
-<Wd mdfId="тонашитска">tonašitska</Wd>
-</x>
-<GeoUB xml:lang="mdf">
-<GeoU>Kr</GeoU>
-</GeoUB>
-<sources>
-<book name="IV" pg="895"/>
-</sources>
-<xt xml:lang="deu">Der Dieb ist ein Dieb auch in jener Welt!</xt>
-</xg>
-<xg>
-<x>
-<Wd mdfId="тонашинь">tonašiń</Wd>
-<Wd mdfId="тол">tol</Wd>
-<Wd mdfId="ваны">vani͔</Wd>
-</x>
-<GeoUB xml:lang="mdf"/>
-<xt xml:lang="deu">Er schaut die Lichter (“das Feuer”) der anderen Welt (sagt man von einem, der sehr schwach, dem Tode nahe ist).</xt>
-</xg>
-<xg>
-<x>
-<Wd myvId="тоначитнень">tonačit́ńeń</Wd>
-<Wd myvId="неінь">ńeiń</Wd>
-</x>
-<GeoUB xml:lang="myv"/>
-<xt xml:lang="deu">Ich habe [im Traum] Verstorbene gesehen.</xt>
-</xg>
-<xg>
-<x>
-<Wd mdfId="вазня">vazńä</Wd>
-<Wd mdfId="няят">ńäjat</Wd>
-<tk3 isa="comma"/>
-<Wd mdfId="тонашить">tonašit́</Wd>
-<Note>
-<Wd mdfId="няят">ńäjat</Wd>
-</Note></x>
-<GeoUB xml:lang="mdf">
-<GeoU/>
-</GeoUB>
-<sources>
-<book name="IV" pg="737"/>
-</sources>
-<xt xml:lang="deu">Siehst du [im Traume] ein Kalb, so wirst du das Jenseits sehen.</xt>
-</xg>
-</MWUB>
-<MWUB>
-<E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l/><st/>
-</lg>
-<lg xml:lang="mdf"><l pos="N">тонашинь ломатть</l>
-<st>тонашинь ломатть</st>
-<PhnUBlock>
-<PhnU>
-<Wd mdfId="тонашинь">tonašiń</Wd>
-<Wd mdfId="ломатть">lomat́t́</Wd>
-</PhnU>
-<GeoUB xml:lang="mdf">
-<GeoU>Sučk</GeoU>
-</GeoUB>
-</PhnUBlock>
-</lg>
-<mg>
-<tg xml:lang="rus">
-<t edit="MK">покойные</t>
-</tg>
-<tg xml:lang="deu">
-<t>Verstorbene</t>
-<t>Menschen der anderen Welt</t>
-</tg>
-</mg>
-</MWUB>
-<MWUB>
-<E3Head><POS freeType="morphological" pos="ine-attr"/></E3Head>
-<lg xml:lang="myv"><l pos="A">тоначисэ марто</l>
-<st>тоначисэ марто</st>
-<PhnUBlock>
-<PhnU>
-<Chc>
-<Vrt>
-<Wd myvId="тоначи">tonači</Wd>
-</Vrt>
-<Vrt>
-<Wd myvId="тоначисэ">tonačise͔</Wd>
-</Vrt>
-</Chc>
-<Wd myvId="маро">maro</Wd>
-</PhnU>
-<GeoUB xml:lang="myv">
-<GeoU/>
-</GeoUB>
-</PhnUBlock>
-</lg>
-<lg edit="JMR" xml:lang="mdf"><l/><st/>
-</lg>
-<mg>
-<tg xml:lang="rus">
-<t edit="MK">с покойными</t>
-</tg>
-<tg xml:lang="deu">
-<t>mit den Verstorbenen</t>
-</tg>
-</mg>
-</MWUB>
-<MWUB>
-<E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
-<lg xml:lang="myv"><l pos="N">тоначинь осод</l>
-<st>тоначинь осод</st>
-<PhnUBlock>
-<PhnU>
-<Wd myvId="тоначинь">tonačiń</Wd>
-<Wd myvId="осод">osod</Wd>
-</PhnU>
-<GeoUB xml:lang="myv">
-<GeoU>Mar</GeoU>
-</GeoUB>
-</PhnUBlock>
-</lg>
-<lg edit="JMR" xml:lang="mdf"><l/><st/>
-</lg>
-<mg>
-<tg xml:lang="rus">
-<t>[происходящая от покойников болезнь</t>
-</tg>
-<t xml:lang="deu">eine von den Verstorbenen herrührende <FrnTxt><Wd CyrId="осод">osod</Wd></FrnTxt>-Krankheit]</t>
-(<dfQsyn1 rel="syn"><FrnTxt><Wd CyrId="калмо">kalmo</Wd>
-<Hph/>
-<Wd CyrId="лангонь">laŋgoń</Wd></FrnTxt> [<FrnTxt><Wd CyrId="осод">osod</Wd></FrnTxt>]</dfQsyn1>)</mg>
-</MWUB>
-<MWUB>
-<E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l/><st/>
-</lg>
-<lg xml:lang="mdf"><l pos="N">тона мастор</l>
-<st>тона мастор</st>
-<PhnUBlock>
-<PhnU>
-<Wd mdfId="тона">tona</Wd>
-<Wd mdfId="мастор">mastə̑r</Wd>
-</PhnU>
-<GeoUB xml:lang="mdf">
-<GeoU>P</GeoU>
-<GeoU edit="MK">Mam</GeoU>
-</GeoUB>
-</PhnUBlock>
-</lg>
-<mg>
-<tg xml:lang="rus">
-<t edit="MK">потусторонний мир</t>
-<t edit="MK">царство мёртвых</t>
-</tg>
-<tg xml:lang="deu">
-<t>die andere Welt</t>
-<t>Totenreich</t>
-</tg>
-(<dfQsyn1 rel="syn"><dfQsyn2><i><tk2>
-<Wd CyrId="тонаши">tonaši</Wd></tk2></i></dfQsyn2>
-<GeoUB xml:lang="mdf">
-<GeoU>P</GeoU>
-</GeoUB>
-</dfQsyn1>)</mg>
-<xg>
-<x>
-<Wd mdfId="тона">tona</Wd>
-<Wd mdfId="масторсь">mastə̑rś</Wd>
-<Wd mdfId="тяфтамка">t́aftamka</Wd>
-<tk3 isa="comma"/>
-<Wd mdfId="кодама">kodama</Wd>
-<Wd edit="MK" mdfId="минь">ḿiń</Wd>
-</x>
-<GeoUB edit="MK" xml:lang="mdf">
-<GeoU edit="MK">Mam</GeoU>
-</GeoUB>
-<sources>
-<book name="IV" pg="854"/>
-</sources>
-<xt xml:lang="deu">Jene Welt ist ganz wie die unsrige.</xt>
-</xg>
-</MWUB>
-<MWUB>
-<E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="Det"/><st/>
-</lg>
-<lg xml:lang="mdf"><l pos="Det">тонат нонат</l>
-<st>тонат нонат</st>
-<PhnUBlock>
-<PhnU>
-<Wd mdfId="тонат">tonat</Wd>
-<Wd mdfId="нонат">nonat</Wd>
-</PhnU>
-<GeoUB xml:lang="mdf">
-<GeoU>Sel</GeoU>
-</GeoUB>
-</PhnUBlock>
-</lg>
-<mg>
-<tg xml:lang="rus">
-<t edit="MK">те</t>
-</tg>
-<tg xml:lang="deu">
-<t edit="MK">jene</t>
-</tg>
-</mg>
-</MWUB>
-</e>
-  <e>
-<root_ref xml:lang="myv" hid="1" pos="Det" lemma="то"/>
-<root_ref xml:lang="mdf" hid="1" pos="Stem" lemma="то"/>
-<HWB>
-<E3Head><POS/></E3Head>
-<lg xml:lang="myv"><l pos="Det">тоната</l>
-<st>тоната</st>
-<PhnUBlock>
-<PhnU>
-<Wd myvId="тоната">tonata</Wd>
-</PhnU>
-<GeoUB xml:lang="myv">
-<GeoU>Večk</GeoU>
-</GeoUB>
-</PhnUBlock>
-</lg>
-<lg edit="JMR" xml:lang="mdf"><l/><st/>
-</lg>
-<mg>
-<tg xml:lang="rus">
-<t>тот</t>
-</tg>
-<tg xml:lang="deu">
-<t>jener</t>
-</tg>
-(<dfQsyn1 rel="syn"><dfQsyn2><i><tk2>
-<Wd CyrId="тона">tona</Wd></tk2></i></dfQsyn2></dfQsyn1>)</mg>
-</HWB>
-</e>
-  <e>
 <root_ref xml:lang="myv" hid="1" pos="Stem" lemma="васо-"/>
 <root_ref xml:lang="mdf" hid="1" pos="" lemma="васә-"/>
 <HWB>
@@ -2496,6 +1799,703 @@
 </MWUB>
 </e>
   <e>
+<root_name xml:lang="myv" hid="1" pos="Det" lemma="то"/>
+<root_name xml:lang="mdf" hid="1" pos="Stem" lemma="то"/>
+<HWB>
+<E3Head><POS/></E3Head>
+<lg xml:lang="myv"><l pos="Det">то</l>
+<st>то</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="то">to</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>NSurk</GeoU>
+<GeoU>Sulli</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">тот</t>
+</tg>
+<tg xml:lang="deu">
+<t edit="MK">jener</t>
+</tg>
+</mg>
+<xg>
+<x>
+<Wd myvId="“косо">“koso</Wd>
+<Wd myvId="соки?”">soḱi?”</Wd>
+<Wd myvId="–">–</Wd>
+<Wd myvId="“оно">“ono</Wd>
+<tk3 isa="comma"/>
+<Wd myvId="то">to</Wd>
+<Wd myvId="ёно!”">jono!”</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>NSurk</GeoU>
+</GeoUB>
+<xt xml:lang="deu">“Wo pflügt er?” – “Sieh, in jener Richtung (dort)!”.</xt>
+</xg>
+<xg>
+<x>
+<Wd myvId="сисем">śiśem</Wd>
+<Wd myvId="масторонь">mastoroń</Wd>
+<tk3 isa="comma"/>
+<Wd myvId="татар">tatar</Wd>
+<tk3 isa="comma"/>
+<Wd myvId="то">to</Wd>
+<Wd myvId="ёно">jono</Wd>
+<tk3 isa="comma"/>
+<Wd myvId="сисем">śiśem</Wd>
+<Wd myvId="масторонь">mastoroń</Wd>
+<tk3 isa="comma"/>
+<Wd myvId="татар">tatar</Wd>
+<tk3 isa="comma"/>
+<Wd myvId="томбале">tombaĺe</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Sulli</GeoU>
+</GeoUB>
+<sources>
+<book name="VII" pg="92"/>
+</sources>
+<xt xml:lang="deu">Jenseits sieben Länder, Tatar, jenseits sieben Länder, Tatar.</xt>
+</xg>
+</HWB>
+</e>
+  <e>
+<root_ref xml:lang="myv" hid="1" pos="Det" lemma="то"/>
+<root_ref xml:lang="mdf" hid="1" pos="Stem" lemma="то"/>
+<HWB>
+<E3Head><POS/></E3Head>
+<lg xml:lang="myv"><l pos="Det">товат</l>
+<st>товат</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="товат">tovat</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Atr</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
+<DrvG>[<comment/><DrvStCtn><DrvSt><Wd CyrId="то">to</Wd></DrvSt></DrvStCtn><fnct>+</fnct><DrvStCtn><DrvSt><Wd CyrId="ва!">va!</Wd></DrvSt></DrvStCtn><fnct>+</fnct><DrvStCtn><DrvSt><Wd CyrId="то">to</Wd></DrvSt></DrvStCtn>]</DrvG>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">тот</t>
+</tg>
+<tg xml:lang="deu">
+<t edit="MK">jener</t>
+</tg>
+</mg>
+</HWB>
+</e>
+  <e>
+<root_ref xml:lang="myv" hid="1" pos="Det" lemma="то"/>
+<root_ref xml:lang="mdf" hid="1" pos="Stem" lemma="то"/>
+<HWB>
+<E3Head><POS/></E3Head>
+<lg xml:lang="myv"><l pos="Det">товолце</l>
+<st>товолце</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="толцӓ͔">tolcä͔</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Kažl</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg xml:lang="mdf"><l>товәлся</l>
+<st>товәлся</st>
+<PhnUBlock>
+<PhnU>
+<Wd mdfId="тово·лся">tovə̑·lśä</Wd>
+</PhnU>
+<GeoUB xml:lang="mdf">
+<GeoU>MdJurtk</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">находящийся на той стороне</t>
+</tg>
+<tg xml:lang="deu">
+<t>in jener Richtung befindlich</t>
+</tg>
+</mg>
+</HWB>
+</e>
+  <e>
+<root_ref xml:lang="myv" hid="1" pos="Det" lemma="то"/>
+<root_ref xml:lang="mdf" hid="1" pos="Stem" lemma="то"/>
+<HWB>
+<E3Head><POS/></E3Head>
+<lg xml:lang="myv"><l pos="Det">тона</l>
+<st>тона</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="тона">tona</Wd>
+</PhnU>
+<sources>
+<book name="Chr" xml:lang="myv"/>
+</sources>
+<GeoUB xml:lang="myv">
+<GeoU>Mar</GeoU>
+<GeoU>Petr</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg xml:lang="mdf"><l pos="Det">тона</l>
+<st>тона</st>
+<PhnUBlock>
+<PhnU>
+<Wd mdfId="тона">tona</Wd>
+</PhnU>
+<sources>
+<book name="Chr" xml:lang="mdf"/>
+</sources>
+<GeoUB xml:lang="mdf">
+<GeoU>P</GeoU>
+<GeoU>Kr</GeoU>
+<GeoU>Sel</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">тот</t>
+</tg>
+<tg xml:lang="deu">
+<t>jener</t>
+</tg>
+</mg>
+;
+<mg>
+<dfLQl1>(
+<GeoUB xml:lang="myv">
+<GeoU>Petr</GeoU>
+</GeoUB>
+<re>:)</re></dfLQl1>
+<tg xml:lang="rus">
+<t>чёрт</t>
+</tg>
+<tg xml:lang="deu">
+<t>Teufel</t>
+</tg>
+</mg>
+;
+<mg>
+<dfLQl1>(
+<GeoUB xml:lang="mdf">
+<GeoU/>
+</GeoUB>
+<us1>euphem</us1><re>:)</re></dfLQl1>
+<tg xml:lang="rus">
+<t edit="MK">наружные половые органы</t>
+</tg>
+<tg xml:lang="deu">
+<t>Scham</t>
+</tg>
+(<dfQsyn1 rel="syn">“ <FrnTxt><Wd CyrId="теня">t́eńa</Wd></FrnTxt>” 
+<GeoUB xml:lang="myv">
+<GeoU/>
+</GeoUB>
+</dfQsyn1>)</mg>
+<xg>
+<x>
+<Wd myvId="тона">tona</Wd>
+<Wd myvId="тусь">tuś</Wd>
+<Wd myvId="каськас">kaśkas</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Mar</GeoU>
+</GeoUB>
+<sources>
+<book name="2" pg="82"/>
+</sources>
+<xt xml:lang="deu">Jenes verschwand in den Bodenraum.</xt>
+</xg>
+<xg>
+<x>
+<Wd myvId="козонь">kozoń</Wd>
+<Wd myvId="чачнэсь">čačne͔ś</Wd>
+<Wd myvId="комулявка">komuĺavka</Wd>
+<tk3 isa="quest"/>
+<Wd myvId="‒‒‒">‒‒‒</Wd>
+<Wd myvId="суронь">suroń</Wd>
+<tk3 isa="comma"/>
+<Wd myvId="равонь">ravoń</Wd>
+<Wd myvId="тона">tona</Wd>
+<Wd myvId="бокас">bokas</Wd>
+<tk3 isa="comma"/>
+<Wd myvId="суронь">suroń</Wd>
+<tk3 isa="comma"/>
+<Wd myvId="равонь">ravoń</Wd>
+<Wd myvId="тона">tona</Wd>
+<Wd myvId="чамас">čamas</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Mar</GeoU>
+</GeoUB>
+<sources>
+<book name="1" pg="74"/>
+</sources>
+<xt xml:lang="deu">Wo ist der Hopfen geboren? ‒‒‒ An jener Seite der Sura, Wolga, an jenem Abhange der Sura, Wolga.</xt>
+</xg>
+<xg>
+<x>
+<Wd myvId="тона">tona</Wd>
+<Wd myvId="кудонь">kudoń</Wd>
+<Wd myvId="одирьва">od́iŕva</Wd>
+<tk3 isa="comma"/>
+<Wd myvId="сеецтэ">śejecte͔</Wd>
+<Wd myvId="сюкунякшны">śukuńakšni͔</Wd>
+<tk3 isa="fullstop"/>
+<Wd myvId="–">–</Wd>
+<Wd myvId="лисьма">ĺiśma</Wd>
+<Hph edit="MK"/>
+<Wd myvId="оципись">oćiṕiś</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Mar</GeoU>
+</GeoUB>
+<sources>
+<book name="2" pg="63"/>
+</sources>
+<xt xml:lang="deu">Es ist die junge Frau des dortigen Hauses, sie verbeugt sich häufig. – Der Brunnenschwengel.</xt>
+</xg>
+<xg>
+<x>
+<Wd myvId="чарькиць">čaŕḱić</Wd>
+<Wd myvId="тятям">t́at́am</Wd>
+<tk3 isa="comma"/>
+<Wd myvId="сондза">sondza</Wd>
+<Wd myvId="тонат">tonat</Wd>
+<Note type="clarification">
+<Wd myvId="раужітне">raužit́ńe</Wd>
+</Note>
+<Wd myvId="ветнезь">v́et́ńeź</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Petr</GeoU>
+</GeoUB>
+<sources>
+<book name="VIII" pg="246"/>
+</sources>
+<xt xml:lang="deu">Mein Vater verstand, ihn hatten Verstorbene (schwarze Teufel) verführt.</xt>
+</xg>
+<xg>
+<x>
+<Wd mdfId="вата">vata</Wd>
+<Wd mdfId="молян">moĺan</Wd>
+<Wd mdfId="тона">tona</Wd>
+<Wd mdfId="куду">kudu</Wd>
+</x>
+<GeoUB edit="MK" xml:lang="mdf">
+<GeoU edit="MK">Sel</GeoU>
+</GeoUB>
+<sources>
+<book name="IV" pg="238"/>
+</sources>
+<xt xml:lang="deu">Wart, ich gehe in die Stube meiner Schwiegereltern.</xt>
+</xg>
+<xg>
+<x>
+<Wd mdfId="тячи">t́äči</Wd>
+<Wd mdfId="сялə̑ндонь">śalə̑ndə̑ń</Wd>
+<Wd mdfId="тонань">tonań</Wd>
+<Wd mdfId="палафтонь">palaftə̑ń</Wd>
+</x>
+<GeoUB xml:lang="mdf">
+<GeoU/>
+</GeoUB>
+<sources>
+<book name="IV" pg="249"/>
+</sources>
+<xt xml:lang="deu">Ich habe heute [mit ihr] gezankt, ich habe (sie) etwas küssen heissen.</xt>
+</xg>
+</HWB>
+<MWUB>
+<E3Head><POS/></E3Head>
+<lg xml:lang="myv"><l pos="N">тоначи</l>
+<st>тоначи</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="тона">tona</Wd>
+<Hph/>
+<Wd myvId="чи">tši</Wd>
+</PhnU>
+<sources>
+<book name="Chr" xml:lang="myv"/>
+</sources>
+</PhnUBlock>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="тоначи">tonači</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Večk</GeoU>
+<GeoU>Bag</GeoU>
+<GeoU>Jeg</GeoU>
+<GeoU>Petr</GeoU>
+<GeoU>Bug</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg xml:lang="mdf"><l pos="Т">тонаши</l>
+<st>тонаши</st>
+<PhnUBlock>
+<PhnU>
+<Wd mdfId="тонаши">tonaši</Wd>
+</PhnU>
+<GeoUB xml:lang="mdf">
+<GeoU>P</GeoU>
+<GeoU>Kr</GeoU>
+<GeoU>Čemb</GeoU>
+<GeoU>Sučk</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">потусторонний мир</t>
+<t edit="MK">тот свет</t>
+<t edit="MK">царство мёртвых</t>
+</tg>
+<tg xml:lang="deu">
+<t>die andere Welt</t>
+<t>Jenseits</t>
+<t>Totenreich</t>
+</tg>
+</mg>
+;
+<mg>
+<t xml:lang="rus">(Pl.:) <FrnTxt><Wd CyrId="тоначитне">tonačit́ńe</Wd></FrnTxt> 
+<GeoUB xml:lang="myv">
+<GeoU/>
+</GeoUB>
+ ― <FrnTxt><Wd CyrId="тонашитня">tonašit́ńä</Wd></FrnTxt> 
+<GeoUB xml:lang="mdf">
+<GeoU>Čemb</GeoU>
+</GeoUB>
+ [покойные]</t>
+<tg xml:lang="deu">
+<t>die Verstorbenen</t>
+</tg>
+</mg>
+<xg>
+<x>
+<Wd myvId="ва">va</Wd>
+<Wd myvId="тоначиста">tonačista</Wd>
+<Wd edit="MK" myvId="кенгелеманть">ḱeŋǵeĺemańt́</Wd>
+<Wd myvId="киса">ḱisa</Wd>
+<Wd myvId="повоттядызь">povot́t́adi͔ź</Wd>
+<Wd myvId="кельда">ḱeĺda</Wd>
+<tk3 isa="excl"/></x>
+<GeoUB xml:lang="myv">
+<GeoU>Petr</GeoU>
+</GeoUB>
+<sources>
+<book name="VIII" pg="174"/>
+</sources>
+<xt xml:lang="deu">Warte, du wirst im Jenseits wegen deiner Lügenhaftigkeit an der Zunge aufgehängt!</xt>
+</xg>
+<xg>
+<x>
+<Wd myvId="покштинень">pokšt́ińeń</Wd>
+<Hph/>
+<Wd myvId="бабинень">bab́ińeń</Wd>
+<tk3 isa="comma"/>
+<Wd myvId="тоначисэ">tonačise͔</Wd>
+<Wd myvId="эрицят">eŕićat</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Bag</GeoU>
+</GeoUB>
+<xt xml:lang="deu">Meine Ahnen, die ihr in der anderen Welt lebt.</xt>
+</xg>
+<xg>
+<x>
+<Wd myvId="цёрам">ćoram</Wd>
+<Wd myvId="тоначив">tonačiv</Wd>
+<Wd myvId="туекшнэсь">tujekšne͔ś</Wd>
+</x>
+<GeoUB edit="MK" xml:lang="myv">
+<GeoU edit="MK">Bug</GeoU>
+</GeoUB>
+<sources>
+<book name="V" pg="472"/>
+</sources>
+<xt xml:lang="deu">Mein Sohn war ins Jenseits gegangen.</xt>
+</xg>
+<xg>
+<x>
+<Wd mdfId="кия">ḱijä</Wd>
+<Wd mdfId="тол">tol</Wd>
+<Hph edit="MK"/>
+<Wd mdfId="ваномать">vanə̑mat́</Wd>
+<Wd mdfId="аф">af</Wd>
+<Wd mdfId="кельксы">ḱeĺksi͔</Wd>
+<tk3 isa="comma"/>
+<Wd mdfId="сянь">śäń</Wd>
+<Wd mdfId="тонашиц">tonašic</Wd>
+<Wd mdfId="шобда">šobda</Wd>
+<Wd mdfId="ули">uĺi</Wd>
+</x>
+<GeoUB xml:lang="mdf">
+<GeoU>P</GeoU>
+</GeoUB>
+<sources>
+<book name="IV" pg="727"/>
+</sources>
+<xt xml:lang="deu">Wer das Feuer nicht hüten mag, dessen Jenseits-Leben wird dunkel sein.</xt>
+</xg>
+<xg>
+<x>
+<Wd mdfId="воронь">vorə̑ń</Wd>
+<Wd mdfId="вор">vor</Wd>
+<Wd mdfId="тонашитска">tonašitska</Wd>
+</x>
+<GeoUB xml:lang="mdf">
+<GeoU>Kr</GeoU>
+</GeoUB>
+<sources>
+<book name="IV" pg="895"/>
+</sources>
+<xt xml:lang="deu">Der Dieb ist ein Dieb auch in jener Welt!</xt>
+</xg>
+<xg>
+<x>
+<Wd mdfId="тонашинь">tonašiń</Wd>
+<Wd mdfId="тол">tol</Wd>
+<Wd mdfId="ваны">vani͔</Wd>
+</x>
+<GeoUB xml:lang="mdf"/>
+<xt xml:lang="deu">Er schaut die Lichter (“das Feuer”) der anderen Welt (sagt man von einem, der sehr schwach, dem Tode nahe ist).</xt>
+</xg>
+<xg>
+<x>
+<Wd myvId="тоначитнень">tonačit́ńeń</Wd>
+<Wd myvId="неінь">ńeiń</Wd>
+</x>
+<GeoUB xml:lang="myv"/>
+<xt xml:lang="deu">Ich habe [im Traum] Verstorbene gesehen.</xt>
+</xg>
+<xg>
+<x>
+<Wd mdfId="вазня">vazńä</Wd>
+<Wd mdfId="няят">ńäjat</Wd>
+<tk3 isa="comma"/>
+<Wd mdfId="тонашить">tonašit́</Wd>
+<Note>
+<Wd mdfId="няят">ńäjat</Wd>
+</Note></x>
+<GeoUB xml:lang="mdf">
+<GeoU/>
+</GeoUB>
+<sources>
+<book name="IV" pg="737"/>
+</sources>
+<xt xml:lang="deu">Siehst du [im Traume] ein Kalb, so wirst du das Jenseits sehen.</xt>
+</xg>
+</MWUB>
+<MWUB>
+<E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
+<lg edit="JMR" xml:lang="myv"><l/><st/>
+</lg>
+<lg xml:lang="mdf"><l pos="N">тонашинь ломатть</l>
+<st>тонашинь ломатть</st>
+<PhnUBlock>
+<PhnU>
+<Wd mdfId="тонашинь">tonašiń</Wd>
+<Wd mdfId="ломатть">lomat́t́</Wd>
+</PhnU>
+<GeoUB xml:lang="mdf">
+<GeoU>Sučk</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">покойные</t>
+</tg>
+<tg xml:lang="deu">
+<t>Verstorbene</t>
+<t>Menschen der anderen Welt</t>
+</tg>
+</mg>
+</MWUB>
+<MWUB>
+<E3Head><POS freeType="morphological" pos="ine-attr"/></E3Head>
+<lg xml:lang="myv"><l pos="A">тоначисэ марто</l>
+<st>тоначисэ марто</st>
+<PhnUBlock>
+<PhnU>
+<Chc>
+<Vrt>
+<Wd myvId="тоначи">tonači</Wd>
+</Vrt>
+<Vrt>
+<Wd myvId="тоначисэ">tonačise͔</Wd>
+</Vrt>
+</Chc>
+<Wd myvId="маро">maro</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU/>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">с покойными</t>
+</tg>
+<tg xml:lang="deu">
+<t>mit den Verstorbenen</t>
+</tg>
+</mg>
+</MWUB>
+<MWUB>
+<E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
+<lg xml:lang="myv"><l pos="N">тоначинь осод</l>
+<st>тоначинь осод</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="тоначинь">tonačiń</Wd>
+<Wd myvId="осод">osod</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Mar</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<t>[происходящая от покойников болезнь</t>
+</tg>
+<t xml:lang="deu">eine von den Verstorbenen herrührende <FrnTxt><Wd CyrId="осод">osod</Wd></FrnTxt>-Krankheit]</t>
+(<dfQsyn1 rel="syn"><FrnTxt><Wd CyrId="калмо">kalmo</Wd>
+<Hph/>
+<Wd CyrId="лангонь">laŋgoń</Wd></FrnTxt> [<FrnTxt><Wd CyrId="осод">osod</Wd></FrnTxt>]</dfQsyn1>)</mg>
+</MWUB>
+<MWUB>
+<E3Head><POS/></E3Head>
+<lg edit="JMR" xml:lang="myv"><l/><st/>
+</lg>
+<lg xml:lang="mdf"><l pos="N">тона мастор</l>
+<st>тона мастор</st>
+<PhnUBlock>
+<PhnU>
+<Wd mdfId="тона">tona</Wd>
+<Wd mdfId="мастор">mastə̑r</Wd>
+</PhnU>
+<GeoUB xml:lang="mdf">
+<GeoU>P</GeoU>
+<GeoU edit="MK">Mam</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">потусторонний мир</t>
+<t edit="MK">царство мёртвых</t>
+</tg>
+<tg xml:lang="deu">
+<t>die andere Welt</t>
+<t>Totenreich</t>
+</tg>
+(<dfQsyn1 rel="syn"><dfQsyn2><i><tk2>
+<Wd CyrId="тонаши">tonaši</Wd></tk2></i></dfQsyn2>
+<GeoUB xml:lang="mdf">
+<GeoU>P</GeoU>
+</GeoUB>
+</dfQsyn1>)</mg>
+<xg>
+<x>
+<Wd mdfId="тона">tona</Wd>
+<Wd mdfId="масторсь">mastə̑rś</Wd>
+<Wd mdfId="тяфтамка">t́aftamka</Wd>
+<tk3 isa="comma"/>
+<Wd mdfId="кодама">kodama</Wd>
+<Wd edit="MK" mdfId="минь">ḿiń</Wd>
+</x>
+<GeoUB edit="MK" xml:lang="mdf">
+<GeoU edit="MK">Mam</GeoU>
+</GeoUB>
+<sources>
+<book name="IV" pg="854"/>
+</sources>
+<xt xml:lang="deu">Jene Welt ist ganz wie die unsrige.</xt>
+</xg>
+</MWUB>
+<MWUB>
+<E3Head><POS/></E3Head>
+<lg edit="JMR" xml:lang="myv"><l pos="Det"/><st/>
+</lg>
+<lg xml:lang="mdf"><l pos="Det">тонат нонат</l>
+<st>тонат нонат</st>
+<PhnUBlock>
+<PhnU>
+<Wd mdfId="тонат">tonat</Wd>
+<Wd mdfId="нонат">nonat</Wd>
+</PhnU>
+<GeoUB xml:lang="mdf">
+<GeoU>Sel</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">те</t>
+</tg>
+<tg xml:lang="deu">
+<t edit="MK">jene</t>
+</tg>
+</mg>
+</MWUB>
+</e>
+  <e>
+<root_ref xml:lang="myv" hid="1" pos="Det" lemma="то"/>
+<root_ref xml:lang="mdf" hid="1" pos="Stem" lemma="то"/>
+<HWB>
+<E3Head><POS/></E3Head>
+<lg xml:lang="myv"><l pos="Det">тоната</l>
+<st>тоната</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="тоната">tonata</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Večk</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<t>тот</t>
+</tg>
+<tg xml:lang="deu">
+<t>jener</t>
+</tg>
+(<dfQsyn1 rel="syn"><dfQsyn2><i><tk2>
+<Wd CyrId="тона">tona</Wd></tk2></i></dfQsyn2></dfQsyn1>)</mg>
+</HWB>
+</e>
+  <e>
 <root_ref xml:lang="myv" hid="1" pos="Stem" lemma="удал-"/>
 <root_ref xml:lang="mdf" hid="1" pos="N" lemma="фтал-"/>
 <HWB>
@@ -2824,5 +2824,282 @@
 </tg>
 </mg>
 </MWUB>
+</e>
+  <e>
+<root_ref xml:lang="myv" hid="1" pos="A" lemma="омбо"/>
+<root_ref xml:lang="mdf" hid="1" pos="A" lemma="омба"/>
+<HWB>
+<E3Head><POS/></E3Head>
+<lg xml:lang="myv"><l pos="Det">омбонст</l>
+<st>омбонст</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="омбунст">ombunst</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Mar</GeoU>
+<GeoU>SŠant</GeoU>
+</GeoUB>
+</PhnUBlock>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="омбонст">ombonst</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Atr</GeoU>
+<GeoU>Ba</GeoU>
+<GeoU>Večk</GeoU>
+</GeoUB>
+</PhnUBlock>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="омбонцт">ombonct</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Petr</GeoU>
+</GeoUB>
+</PhnUBlock>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="омбᴉ͐нцня͔">ombᴉ͐ncńä͔</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Kažl</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg xml:lang="mdf"><l pos="Num">омбәнсня</l>
+<st>омбәнсня</st>
+<PhnUBlock>
+<PhnU>
+<Wd mdfId="омбонсня">ombə̑nsńä</Wd>
+</PhnU>
+<GeoUB xml:lang="mdf">
+<GeoU>P</GeoU>
+</GeoUB>
+</PhnUBlock>
+<PhnUBlock>
+<PhnU>
+<FrCm freeType="analogy" Modification="manus"/>
+<Wd mdfId="омбонцня">ombə̑ncńä</Wd>
+</PhnU>
+<GeoUB xml:lang="mdf">
+<GeoU>Kr<l3 type="specific">Mam</l3></GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<DerivationBlock>[die letzten F. im Nom. der best. Dekl.]</DerivationBlock>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">другая пара</t>
+</tg>
+<tg xml:lang="deu">
+<t>ein anderes Paar</t>
+<t>das andere Paar</t>
+</tg>
+<dfQl1>(
+<GeoUB xml:lang="myv">
+<GeoU>Mar</GeoU>
+<GeoU>Atr</GeoU>
+<GeoU>Ba</GeoU>
+<GeoU>Večk</GeoU>
+<GeoU>SŠant</GeoU>
+<GeoU edit="MK">Petr</GeoU>
+</GeoUB>
+)</dfQl1>
+</mg>
+;
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">другие</t>
+</tg>
+<tg xml:lang="deu">
+<t>die anderen</t>
+</tg>
+<dfQl1>(
+<GeoUB edit="MK" xml:lang="myv">
+<GeoU edit="MK">Kažl</GeoU>
+</GeoUB>
+<GeoUB xml:lang="mdf">
+<GeoU>P</GeoU>
+<GeoU>Kr</GeoU>
+</GeoUB>
+)</dfQl1>
+</mg>
+;
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">в другой раз</t>
+</tg>
+<tg xml:lang="deu">
+<t>ein anderes Mal</t>
+<t>das andere Mal</t>
+</tg>
+<dfQl1>(
+<GeoUB xml:lang="myv">
+<GeoU>Mar</GeoU>
+</GeoUB>
+)</dfQl1>
+</mg>
+<xg>
+<x>
+<Wd myvId="монь">moń</Wd>
+<Wd myvId="улить">uĺit́</Wd>
+<Wd myvId="омбонст">ombonst</Wd>
+<Wd myvId="кемень">ḱeḿeń</Wd>
+</x>
+[
+<GeoUB xml:lang="myv">
+<GeoU>Večk]</GeoU>
+</GeoUB>
+<xt xml:lang="deu">Ich habe andere Stiefel.</xt>
+</xg>
+<xg>
+<x>
+<Wd myvId="сон">son</Wd>
+<Wd myvId="рамась">ramaś</Wd>
+<Wd myvId="омбонст">ombonst</Wd>
+<Wd myvId="понкст">poŋkst</Wd>
+</x>
+[
+<GeoUB xml:lang="myv">
+<GeoU>Večk]</GeoU>
+</GeoUB>
+<xt xml:lang="deu">Er kaufte andere Hosen.</xt>
+</xg>
+<xg>
+<x>
+<Wd myvId="омбонцт">ombonct</Wd>
+<Wd myvId="орчамут">orčamut</Wd>
+<Hph/>
+<Wd myvId="карьцимат">kaŕćimat</Wd>
+<Wd edit="MK" myvId="кирьксить">ḱiŕkśit́</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Petr</GeoU>
+</GeoUB>
+<sources>
+<book name="VIII" pg="252"/>
+</sources>
+<xt xml:lang="deu">Ein anderes Paar Schuhwerk und eine Kleidung werden (durch Schaben der Münze dem Verstorbenen) gewidmet.</xt>
+</xg>
+<xg>
+<x>
+<Wd mdfId="финсня">f́insńä</Wd>
+<Wd mdfId="тов">tov</Wd>
+<tk3 isa="comma"/>
+<Wd mdfId="омбонсня">ombə̑nsńä</Wd>
+<Wd mdfId="тов">tov</Wd>
+</x>
+<GeoUB xml:lang="mdf">
+<GeoU>P</GeoU>
+</GeoUB>
+<xt xml:lang="deu">Die einen hierhin (eig.: dorthin), die anderen dorthin.</xt>
+</xg>
+<xg>
+<x>
+<Wd mdfId="оду">odu</Wd>
+<Wd mdfId="кутьшсь">kut́šś</Wd>
+<Wd edit="MK" mdfId="омбонтснəнь">ombə̑ntsnəń</Wd>
+</x>
+<GeoUB xml:lang="mdf">
+<GeoU>Kr<l3 type="specific">Mam</l3></GeoU>
+</GeoUB>
+<sources>
+<book name="IV" pg="885"/>
+</sources>
+<xt xml:lang="deu">Er sandte andere (von seinen Boten).</xt>
+</xg>
+</HWB>
+<MWUB>
+<E3Head><POS/></E3Head>
+<lg xml:lang="myv"><l pos="N">омбунст карьть</l>
+<st>омбунст карьть</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="омбунст">ombunst</Wd>
+<Wd myvId="карть">kaŕt́</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Mar</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l pos="N"/><st/>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">другая пара лаптей</t>
+</tg>
+<tg xml:lang="deu">
+<t>ein anderes Paar Bastschuhe</t>
+</tg>
+</mg>
+</MWUB>
+</e>
+  <e>
+<root_ref xml:lang="myv" hid="1" pos="A" lemma="омбо"/>
+<root_ref xml:lang="mdf" hid="1" pos="A" lemma="омба"/>
+<HWB>
+<E3Head><POS/></E3Head>
+<lg xml:lang="myv"><l pos="Det">омбоценст</l>
+<st>омбоценст</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="омбоценст">omboćenst</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Večk</GeoU>
+<GeoU>Vez</GeoU>
+</GeoUB>
+</PhnUBlock>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="омбоцинкст">omboćiŋkst</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>VVr</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l pos="Num"/><st/>
+</lg>
+<DrvG><NxCtn>
+<Nx edit="MK" vl="plural"/>
+</NxCtn></DrvG>
+<mg>
+<tg xml:lang="rus">
+<t>[? в другой раз</t>
+</tg>
+<tg xml:lang="deu">
+<t>? ein andermal</t>
+</tg>
+</mg>
+;
+<mg>
+<tg xml:lang="rus">
+<t>другие</t>
+</tg>
+<tg xml:lang="deu">
+<t>andere]</t>
+</tg>
+(<dfQsyn1 rel="syn"><dfQsyn2><i><tk2>
+<Wd CyrId="омбонст">ombonst</Wd></tk2></i></dfQsyn2></dfQsyn1>)</mg>
+<xg>
+<x>
+<Wd myvId="омбоценст">omboćenst</Wd>
+<Wd myvId="валнэть">valne͔t́</Wd>
+<Wd myvId="эсь">eś</Wd>
+<Wd myvId="корта">korta</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Vez</GeoU>
+</GeoUB>
+<sources>
+<book name="I" pg="229"/>
+</sources>
+<xt xml:lang="deu">Weitere Worte sprach er nicht.</xt>
+</xg>
+</HWB>
 </e>
 </r>

@@ -1,88 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="myv">
   <e>
-<root_ref xml:lang="myv" hid="1" pos="Num" lemma="вейке"/>
-<root_ref xml:lang="mdf" hid="1" pos="" lemma="фкя"/>
-<HWB>
-<E3Head><POS/><deriv isa="dim-KE"/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="N"/><st/>
-</lg>
-<lg xml:lang="mdf"><l pos="N">вестькя</l>
-<st>вестькя</st>
-<PhnUBlock>
-<PhnU>
-<Wd mdfId="вестькя">v́eśt́ḱä</Wd>
-</PhnU>
-<GeoUB xml:lang="mdf">
-<GeoU>P</GeoU>
-<GeoU>Kr</GeoU>
-</GeoUB>
-</PhnUBlock>
-</lg>
-<l_drv drvType="diminutive" CyrId="весть">v́eśt́</l_drv>
-<mg copiedFrom="preceding">
-<tg xml:lang="rus">
-<t edit="MK">ни разу</t>
-<t edit="MK">ни одного раза</t>
-</tg>
-<tg xml:lang="deu">
-<t>kein einziges Mal</t>
-</tg>
-</mg>
-</HWB>
-<MWUB>
-<E3Head><POS pos="Adv-Temp"/></E3Head>
-<lg xml:lang="myv"><l>веськеть</l>
-<st>веськеть</st>
-<PhnUBlock>
-<PhnU>
-<Wd myvId="веськеть">v́eśḱet́</Wd>
-</PhnU>
-<GeoUB xml:lang="myv">
-<GeoU>VVr</GeoU>
-</GeoUB>
-</PhnUBlock>
-</lg>
-<lg edit="JMR" xml:lang="mdf"><l/><st/>
-</lg>
-<DerivationBlock>(Dem. zu <i><tk2>
-<Wd CyrId="весть">v́eśt́</Wd></tk2></i> + -Suff. <i><tk2>
-<WdCtn>
-<Wd>
-<Hph/>t́</Wd>
-</WdCtn></tk2></i>)</DerivationBlock>
-<mg>
-<Syntax function="Adv"/>
-<tg xml:lang="rus">
-<t edit="MK">разок</t>
-</tg>
-<tg xml:lang="deu">
-<t>einmal</t>
-</tg>
-</mg>
-<xg>
-<x>
-<Wd myvId="веське·ть">v́eśḱe·t́</Wd>
-<Wd myvId="чалгинь">čalǵiń</Wd>
-<tk3 isa="comma"/>
-<Wd myvId="кавсть">kavśt́</Wd>
-<Wd myvId="варштынь">varšti͔ń</Wd>
-</x>
-<GeoUB xml:lang="myv">
-<GeoU>VVr</GeoU>
-</GeoUB>
-<sources>
-<book name="II" pg="358"/>
-</sources>
-<xt xml:lang="deu">Ich schaute zweimal bei jedem Schritt [“Wenn ich einmal schritt, schaute ich zweimal”].</xt>
-</xg>
-</MWUB>
-</e>
-  <e>
 <root_ref xml:lang="myv" hid="1" pos="Num" lemma="ниле"/>
-<root_ref xml:lang="mdf" hid="1" pos="" lemma="ниле"/>
+<root_ref xml:lang="mdf" hid="1" pos="Num" lemma="ниле"/>
 <HWB>
-<E3Head><POS freeType="morphological" pos=""/></E3Head>
+<E3Head><POS/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="N"/><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="N">нилясть</l>
@@ -108,7 +30,7 @@
 </e>
   <e>
 <root_ref xml:lang="myv" hid="1" pos="Num" lemma="ниле"/>
-<root_ref xml:lang="mdf" hid="1" pos="" lemma="ниле"/>
+<root_ref xml:lang="mdf" hid="1" pos="Num" lemma="ниле"/>
 <HWB>
 <E3Head><POS/><deriv isa="dim-KE"/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="N"/><st/>
@@ -467,7 +389,85 @@
 </e>
   <e>
 <root_ref xml:lang="myv" hid="1" pos="Num" lemma="вейке"/>
-<root_ref xml:lang="mdf" hid="1" pos="" lemma="фкя"/>
+<root_ref xml:lang="mdf" hid="1" pos="Num" lemma="фкя"/>
+<HWB>
+<E3Head><POS/><deriv isa="dim-KE"/></E3Head>
+<lg edit="JMR" xml:lang="myv"><l pos="Num"/><st/>
+</lg>
+<lg xml:lang="mdf"><l pos="Num">вестькя</l>
+<st>вестькя</st>
+<PhnUBlock>
+<PhnU>
+<Wd mdfId="вестькя">v́eśt́ḱä</Wd>
+</PhnU>
+<GeoUB xml:lang="mdf">
+<GeoU>P</GeoU>
+<GeoU>Kr</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<l_drv drvType="diminutive" CyrId="весть">v́eśt́</l_drv>
+<mg copiedFrom="preceding">
+<tg xml:lang="rus">
+<t edit="MK">ни разу</t>
+<t edit="MK">ни одного раза</t>
+</tg>
+<tg xml:lang="deu">
+<t>kein einziges Mal</t>
+</tg>
+</mg>
+</HWB>
+<MWUB>
+<E3Head><POS pos="Adv-Temp"/></E3Head>
+<lg xml:lang="myv"><l>веськеть</l>
+<st>веськеть</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="веськеть">v́eśḱet́</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>VVr</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
+<DerivationBlock>(Dem. zu <i><tk2>
+<Wd CyrId="весть">v́eśt́</Wd></tk2></i> + -Suff. <i><tk2>
+<WdCtn>
+<Wd>
+<Hph/>t́</Wd>
+</WdCtn></tk2></i>)</DerivationBlock>
+<mg>
+<Syntax function="Adv"/>
+<tg xml:lang="rus">
+<t edit="MK">разок</t>
+</tg>
+<tg xml:lang="deu">
+<t>einmal</t>
+</tg>
+</mg>
+<xg>
+<x>
+<Wd myvId="веське·ть">v́eśḱe·t́</Wd>
+<Wd myvId="чалгинь">čalǵiń</Wd>
+<tk3 isa="comma"/>
+<Wd myvId="кавсть">kavśt́</Wd>
+<Wd myvId="варштынь">varšti͔ń</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>VVr</GeoU>
+</GeoUB>
+<sources>
+<book name="II" pg="358"/>
+</sources>
+<xt xml:lang="deu">Ich schaute zweimal bei jedem Schritt [“Wenn ich einmal schritt, schaute ich zweimal”].</xt>
+</xg>
+</MWUB>
+</e>
+  <e>
+<root_ref xml:lang="myv" hid="1" pos="Num" lemma="вейке"/>
+<root_ref xml:lang="mdf" hid="1" pos="Num" lemma="фкя"/>
 <HWB>
 <E3Head><POS/><deriv isa="dim-NYA"/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="Num"/><st/>
@@ -797,7 +797,7 @@
 </e>
   <e>
 <root_ref xml:lang="myv" hid="1" pos="Num" lemma="вейке"/>
-<root_ref xml:lang="mdf" hid="1" pos="" lemma="фкя"/>
+<root_ref xml:lang="mdf" hid="1" pos="Num" lemma="фкя"/>
 <HWB>
 <E3Head><POS freeType="morphological" pos="num"/></E3Head>
 <lg xml:lang="myv"><l pos="Num">ве</l>
@@ -1735,7 +1735,7 @@
 </e>
   <e>
 <root_name xml:lang="myv" hid="1" pos="Num" lemma="вейке"/>
-<root_name xml:lang="mdf" hid="1" pos="" lemma="фкя"/>
+<root_name xml:lang="mdf" hid="1" pos="Num" lemma="фкя"/>
 <HWB>
 <E3Head><POS/><deriv isa="dim-KE"/></E3Head>
 <lg xml:lang="myv"><l pos="Num">вейке</l>
@@ -3445,7 +3445,7 @@
 </e>
   <e>
 <root_ref xml:lang="myv" hid="1" pos="Num" lemma="вейке"/>
-<root_ref xml:lang="mdf" hid="1" pos="" lemma="фкя"/>
+<root_ref xml:lang="mdf" hid="1" pos="Num" lemma="фкя"/>
 <HWB>
 <E3Head><POS pos="N"/><deriv isa="dim-NE"/></E3Head><E3Head><POS pos="N"/><deriv isa="dim-KINE"/></E3Head>
 <lg xml:lang="myv"><l pos="Num">вейкине</l>
@@ -3952,7 +3952,7 @@
 </e>
   <e>
 <root_ref xml:lang="myv" hid="1" pos="Num" lemma="вейке"/>
-<root_ref xml:lang="mdf" hid="1" pos="" lemma="фкя"/>
+<root_ref xml:lang="mdf" hid="1" pos="Num" lemma="фкя"/>
 <HWB>
 <E3Head><POS pos="Adv"/></E3Head>
 <lg xml:lang="myv"><l pos="Num">вейте-вейте</l>
@@ -4133,7 +4133,7 @@
 </e>
   <e>
 <root_ref xml:lang="myv" hid="1" pos="Num" lemma="вейке"/>
-<root_ref xml:lang="mdf" hid="1" pos="" lemma="фкя"/>
+<root_ref xml:lang="mdf" hid="1" pos="Num" lemma="фкя"/>
 <HWB>
 <E3Head><POS pos="Adv"/></E3Head>
 <lg xml:lang="myv"><l pos="Num">весть</l>
@@ -10532,7 +10532,7 @@
 </e>
   <e>
 <root_name xml:lang="myv" hid="1" pos="Num" lemma="ниле"/>
-<root_name xml:lang="mdf" hid="1" pos="" lemma="ниле"/>
+<root_name xml:lang="mdf" hid="1" pos="Num" lemma="ниле"/>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="Num">ниле</l>
@@ -10642,7 +10642,7 @@
 </xg>
 </HWB>
 <MWUB>
-<E3Head><POS freeType="morphological" pos=""/></E3Head>
+<E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l>ниле кецэ</l>
 <st>ниле кецэ</st>
 <PhnUBlock>
@@ -10720,7 +10720,7 @@
 </mg>
 </MWUB>
 <MWUB>
-<E3Head><POS freeType="morphological" pos=""/></E3Head>
+<E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l>ниле пильксэ</l>
 <st>ниле пильксэ</st>
 <PhnUBlock>
@@ -10823,7 +10823,7 @@
 </xg>
 </MWUB>
 <MWUB>
-<E3Head><POS freeType="morphological" pos=""/></E3Head>
+<E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l>ниле рогасо</l>
 <st>ниле рогасо</st>
 <PhnUBlock>
@@ -10872,7 +10872,7 @@
 </xg>
 </MWUB>
 <MWUB>
-<E3Head><POS freeType="morphological" pos=""/></E3Head>
+<E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l>ниле уголцо</l>
 <st>ниле уголцо</st>
 <PhnUBlock>
@@ -10927,7 +10927,7 @@
 </xg>
 </MWUB>
 <MWUB>
-<E3Head><POS freeType="morphological" pos=""/></E3Head>
+<E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l>ниле варясо</l>
 <st>ниле варясо</st>
 <PhnUBlock>
@@ -11109,7 +11109,7 @@
 </xg>
 </MWUB>
 <MWUB>
-<E3Head><POS freeType="morphological" pos=""/></E3Head>
+<E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l>нилисят</l>
 <st>нилисят</st>
 <PhnUBlock>
@@ -11152,9 +11152,9 @@
 </e>
   <e>
 <root_ref xml:lang="myv" hid="1" pos="Num" lemma="ниле"/>
-<root_ref xml:lang="mdf" hid="1" pos="" lemma="ниле"/>
+<root_ref xml:lang="mdf" hid="1" pos="Num" lemma="ниле"/>
 <HWB>
-<E3Head><POS freeType="morphological" pos=""/></E3Head>
+<E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="Num">нилексть</l>
 <st>нилексть</st>
 <PhnUBlock>
@@ -11497,50 +11497,7 @@
 </e>
   <e>
 <root_ref xml:lang="myv" hid="1" pos="Num" lemma="вейке"/>
-<root_ref xml:lang="mdf" hid="1" pos="" lemma="фкя"/>
-<HWB>
-<E3Head><POS/></E3Head>
-<lg xml:lang="myv"><l pos="Prop">Тифтё</l>
-<st>Тифтё</st>
-<PhnUBlock>
-<PhnU>
-<Wd myvId="тифтё">t́ift́o</Wd>
-</PhnU>
-<GeoUB xml:lang="myv">
-<GeoU>MKly</GeoU>
-</GeoUB>
-</PhnUBlock>
-</lg>
-<lg edit="JMR" xml:lang="mdf"><l/><st/>
-</lg>
-<mg>
-<tg xml:lang="rus">
-<td edit="MK">женское имя</td>
-</tg>
-<tg xml:lang="deu">
-<t>ein Frauenname</t>
-</tg>
-</mg>
-<xg>
-<x>
-<Wd myvId="эрюмань">eŕumań</Wd>
-<Wd myvId="ульнесь">uĺńeś</Wd>
-<Wd myvId="тифтё">t́ift́o</Wd>
-<Wd myvId="патязо">pat́azo</Wd>
-</x>
-<GeoUB xml:lang="myv">
-<GeoU>MKly</GeoU>
-</GeoUB>
-<sources>
-<book name="VII" pg="28"/>
-</sources>
-<xt xml:lang="deu">Erjuma hatte eine ältere Schwester Tiftjo.</xt>
-</xg>
-</HWB>
-</e>
-  <e>
-<root_ref xml:lang="myv" hid="1" pos="Num" lemma="вейке"/>
-<root_ref xml:lang="mdf" hid="1" pos="" lemma="фкя"/>
+<root_ref xml:lang="mdf" hid="1" pos="Num" lemma="фкя"/>
 <HWB>
 <E3Head><POS freeType="morphological" pos="stem"/></E3Head>
 <lg xml:lang="myv"><l pos="Stem">вее-</l>

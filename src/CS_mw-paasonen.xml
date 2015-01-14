@@ -439,13 +439,13 @@
 </e>
   <e>
 <stem_name xml:lang="myv" hid="1" pos="" lemma="XX"/>
-<stem_name xml:lang="mdf" hid="1" pos="Pcle" lemma="ар́зяй"/>
+<stem_name xml:lang="mdf" hid="1" pos="Pcle" lemma="арьзяй"/>
 <HWB>
 <E3Head><POS freeType="morphological" pos="Conj-syntax"/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="CS">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="CS"></l><st/>
 </lg>
-<lg xml:lang="mdf"><l pos="CS">ар́зяй</l>
-<st>ар́зяй</st>
+<lg xml:lang="mdf"><l pos="CS">арьзяй</l>
+<st>арьзяй</st>
 <PhnUBlock>
 <Chc>
 <Vrt>
@@ -549,7 +549,7 @@
 <stem_name xml:lang="mdf" hid="1" pos="CS" lemma="чем"/>
 <HWB>
 <E3Head><POS freeType="morphological" pos=""/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="CS">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="CS"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="CS">чем</l>
 <st>чем</st>
@@ -617,7 +617,7 @@
 <stem_name xml:lang="mdf" hid="1" pos="CS" lemma="ёта"/>
 <HWB>
 <E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="CS">XX</l><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="CS"></l><st/>
 </lg>
 <lg xml:lang="mdf"><l pos="CS">ёта</l>
 <st>ёта</st>
