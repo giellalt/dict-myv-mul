@@ -1,6 +1,801 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="myv">
   <e>
+<root_ref xml:lang="myv" hid="1" pos="V" lemma="аштемс"/>
+<root_ref xml:lang="mdf" hid="1" pos="V" lemma="аштшәмс"/>
+<HWB>
+<E3Head><POS pos="Prop"/></E3Head>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"/><st/>
+</lg>
+<lg xml:lang="mdf"><l pos="Prop">Аштяй</l>
+<st>Аштяй</st>
+<PhnUBlock>
+<PhnU>
+<Wd mdfId="аштяй">ašt́äj</Wd>
+</PhnU>
+<GeoUB xml:lang="mdf">
+<GeoU>P</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<td edit="MK">имя мокш. князя</td>
+</tg>
+<tg xml:lang="deu">
+<td>Name eines Mokschanen-Fürsten</td>
+</tg>
+</mg>
+</HWB>
+</e>
+  <e>
+<root_ref xml:lang="myv" hid="1" pos="V" lemma="ускомс"/>
+<root_ref xml:lang="mdf" hid="1" pos="V" lemma="ускәмс"/>
+<HWB>
+<E3Head><POS pos="N"/><deriv isa="vocat-KAJ"/></E3Head>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"/><st/>
+</lg>
+<lg xml:lang="mdf"><l pos="Prop">ускай</l>
+<st>ускай</st>
+<PhnUBlock>
+<PhnU>
+<Wd mdfId="ускай">uska·j</Wd>
+</PhnU>
+<GeoUB xml:lang="mdf">
+<GeoU>P</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<td edit="MK">старинное мокш. личное имя</td>
+</tg>
+<tg xml:lang="deu">
+<td>ein alter moksch. Personenname</td>
+</tg>
+</mg>
+</HWB>
+</e>
+  <e>
+<root_ref xml:lang="myv" hid="1" pos="V" lemma="веьчкемс"/>
+<root_ref xml:lang="mdf" hid="1" pos="V" lemma="вечкәмс"/>
+<HWB>
+<E3Head><POS pos="Prop"/></E3Head>
+<lg xml:lang="myv"><l pos="Prop">Веьчкилей</l>
+<st>Веьчкилей</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="вечкилей">v́ečḱiĺej</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>God</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l pos="Prop"/><st/>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<t>[назв. деревни</t>
+</tg>
+<t xml:lang="deu">Dorfname in einem Liede (<cl id="pair">Par.-Wort: <FrnTxt><Wd CyrId="кельгилей">ḱeĺǵiĺej</Wd></FrnTxt></cl>)]</t>
+</mg>
+<xg>
+<x>
+<Wd myvId="вечкилеев">v́ečḱiĺejev</Wd>
+<tk3 isa="comma"/>
+<Wd myvId="патянень">pat́ańeń</Wd>
+<tk3 isa="comma"/>
+<Wd myvId="кельгилеев">ḱeĺǵiĺejev</Wd>
+<tk3 isa="comma"/>
+<Wd myvId="эзнанень">eznańeń</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>God</GeoU>
+</GeoUB>
+<sources>
+<book name="VII" pg="284"/>
+</sources>
+<xt xml:lang="deu">Nach Večkilej, zu meiner älteren Schwester, nach Kelgilej, zu meinem Schwager.</xt>
+</xg>
+</HWB>
+</e>
+  <e>
+<root_ref xml:lang="myv" hid="1" pos="V" lemma="каямс"/>
+<root_ref xml:lang="mdf" hid="1" pos="V" lemma="каямс"/>
+<HWB>
+<E3Head><POS pos="Prop"/></E3Head>
+<lg xml:lang="myv"><l pos="Prop">Каяль</l>
+<st>Каяль</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="каяль">kajä·ĺ</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Ba</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l pos="Prop"/><st/>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<td edit="MK">мужское имя</td>
+</tg>
+<tg xml:lang="deu">
+<td>ein Männername (wurde einem Neugeborenen gegeben, wenn die Mutter kurz vor der Geburt auf den Hof hinausgegangen war, um Kehricht auf den Haufen zu werfen)</td>
+</tg>
+</mg>
+</HWB>
+</e>
+  <e>
+<root_ref xml:lang="myv" hid="1" pos="V" lemma="киртамс"/>
+<root_ref xml:lang="mdf" hid="1" pos="V" lemma="кәртамс"/>
+<HWB>
+<E3Head><POS pos="Prop"/></E3Head>
+<lg xml:lang="myv"><l pos="Prop">Куртай</l>
+<st>Куртай</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="куртай">kurtaj</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Večk</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l pos="Prop"/><st/>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<td edit="MK">имя какого-то мифического лица (“обжигающий”)</td>
+</tg>
+<tg xml:lang="deu">
+<td edit="MK">Name einer mythischen Person in einem Zauberspruch, Bed. wohl ‘versengend, Versenger(in)’</td>
+</tg>
+</mg>
+<xg>
+<x>
+<Wd myvId="ине">ińe</Wd>
+<Wd myvId="ведень">v́ed́eń</Wd>
+<Wd myvId="томбальде">tombaĺd́e</Wd>
+<Wd myvId="сась">saś</Wd>
+<Wd myvId="куртай">kurtaj</Wd>
+<Hph edit="MK"/>
+<Wd myvId="бабине">bab́ińe</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Večk</GeoU>
+</GeoUB>
+<sources>
+<book name="III" pg="143"/>
+</sources>
+<xt xml:lang="deu">Von jenseits eines grossen Wassers ist die Kurtaj-Alte gekommen.</xt>
+</xg>
+</HWB>
+</e>
+  <e>
+<root_ref xml:lang="myv" hid="1" pos="V" lemma="нуемс"/>
+<root_ref xml:lang="mdf" hid="1" pos="V" lemma="нуемс"/>
+<HWB>
+<E3Head><POS/></E3Head>
+<lg xml:lang="myv"><l pos="Prop">Нуйка</l>
+<st>Нуйка</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="нуйка">nujka</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Večk</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l pos="Prop"/><st/>
+</lg>
+<DerivationBlock>[? &lt; <i><tk2>
+<Wd CyrId="нуи">nuji</Wd></tk2></i> + <i><tk2>
+<Wd CyrId="ка">ka</Wd></tk2></i>; vgl. <i><tk2>
+<Wd CyrId="нуяль">nujaĺ</Wd></tk2></i>]</DerivationBlock>
+<mg>
+<tg xml:lang="rus">
+<td edit="MK">морд. имя</td>
+</tg>
+<tg xml:lang="deu">
+<td>mordw. Name</td>
+</tg>
+</mg>
+<xg>
+<x>
+<Wd myvId="цёрась">ćoraś</Wd>
+<Wd myvId="паро">paro</Wd>
+<Wd myvId="нуйкань">nujkań</Wd>
+<Wd myvId="цёра">ćora</Wd>
+<tk3 isa="comma"/>
+<Wd myvId="алясь">aĺaś</Wd>
+<Wd myvId="доброй">dobroj</Wd>
+<Wd myvId="нуйкань">nujkań</Wd>
+<Wd myvId="аля">aĺa</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Večk</GeoU>
+</GeoUB>
+<sources>
+<book name="I" pg="395"/>
+</sources>
+<xt xml:lang="deu">Ein trefflicher Mann ist der Nujka-Mann, ein tüchtiger Mann ist der Nujka-Mann.</xt>
+</xg>
+</HWB>
+</e>
+  <e>
+<root_ref xml:lang="myv" hid="1" pos="V" lemma="нуемс"/>
+<root_ref xml:lang="mdf" hid="1" pos="V" lemma="нуемс"/>
+<HWB>
+<E3Head><POS/></E3Head>
+<lg xml:lang="myv"><l pos="Prop">Нуяль</l>
+<st>Нуяль</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="нуяль">nujaĺ</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>VVr</GeoU>
+<GeoU>Vez</GeoU>
+<GeoU>SŠant</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l pos="Prop"/><st/>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<td edit="MK">женское имя (рождённой во время жатвы)</td>
+</tg>
+<tg xml:lang="deu">
+<td>ein Frauenname (wurde gegeben, wenn das Kind während der Erntearbeiten geboren wurde)</td>
+</tg>
+</mg>
+;
+<mg>
+<dfLQl1>(
+<GeoUB xml:lang="myv">
+<GeoU>Vez</GeoU>
+</GeoUB>
+<Cm>:)</Cm></dfLQl1>
+<tg xml:lang="rus">
+<td edit="MK">мужское имя</td>
+</tg>
+<tg xml:lang="deu">
+<td edit="MK">ein Männername</td>
+</tg>
+</mg>
+<xg>
+<x>
+<Wd myvId="сон">son</Wd>
+<Wd myvId="нуя">nuja</Wd>
+<Hph/>
+<Wd myvId="велес">v́eĺes</Wd>
+<Wd myvId="те">t́e</Wd>
+<Wd myvId="од">od</Wd>
+<Wd myvId="торговой">torgovoj</Wd>
+<Wd myvId="молекшнэсь">moĺekšne͔ś</Wd>
+<tk3 isa="comma"/>
+<Wd myvId="сон">son</Wd>
+<Wd myvId="нуяль">nujaĺ</Wd>
+<Hph/>
+<Wd myvId="атянь">at́ań</Wd>
+<Wd myvId="ортанᴣо">ortanᴣo</Wd>
+<Wd myvId="ланкс">laŋks</Wd>
+<Wd myvId="лоткакшнось">lotkakšnoś</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Vez</GeoU>
+</GeoUB>
+<sources>
+<book name="I" pg="165"/>
+</sources>
+<xt xml:lang="deu">Der junge Kaufmann kam in das Dorf Nuja, er hielt am Tore des alten Nujalj.</xt>
+</xg>
+</HWB>
+</e>
+  <e>
+<root_ref xml:lang="myv" hid="1" pos="V" lemma="пурьнямс"/>
+<root_ref xml:lang="mdf" hid="1" pos="V" lemma="пурьнямс"/>
+<HWB>
+<E3Head><POS pos="Prop"/></E3Head>
+<lg xml:lang="myv"><l pos="Prop">Пурняй</l>
+<st>Пурняй</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="пурняй">purńaj</Wd>
+</PhnU>
+<GeoUB edit="MK" xml:lang="myv">
+<GeoU edit="MK">Bug</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l pos="Prop"/><st/>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<td edit="MK">мужское имя</td>
+</tg>
+<tg xml:lang="deu">
+<td>ein Männername</td>
+</tg>
+</mg>
+<xg>
+<x>
+<Wd CyrId="омботькс">ombot́ks</Wd>
+<Wd CyrId="цёразо">ćorazo</Wd>
+<Wd CyrId="сон">son</Wd>
+<Wd CyrId="пурняй">purńaj</Wd>
+</x>
+<GeoNeed/>
+<sources>
+<book name="V" pg="252"/>
+</sources>
+<xt xml:lang="deu">Sein jüngerer (‘anderer’) Sohn (hiess) Purnjaj.</xt>
+</xg>
+</HWB>
+</e>
+  <e>
+<root_ref xml:lang="myv" hid="1" pos="V" lemma="веьчкемс"/>
+<root_ref xml:lang="mdf" hid="1" pos="V" lemma="вечкәмс"/>
+<HWB>
+<E3Head><POS pos="N"/><deriv isa="vocat-KAJ"/></E3Head>
+<lg xml:lang="myv"><l pos="Prop">веьчкай</l>
+<st>веьчкай</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="вечкай">v́ečkaj</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Mar</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l pos="Prop"/><st/>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<td>[мужское имя</td>
+</tg>
+<tg xml:lang="deu">
+<td>im Liede als Männername] Wetschkaj [aufgefasst; vgl. jedoch <FrnTxt><Wd CyrId="вечка">v́ečka</Wd>
+<Hph/>
+<Wd CyrId="дедай">d́edaj</Wd></FrnTxt>, <FrnTxt><Wd CyrId="вечка">v́ečka</Wd>
+<Hph/>
+<Wd CyrId="бабай">babaj</Wd></FrnTxt>]</td>
+</tg>
+</mg>
+<xg>
+<x>
+<Wd myvId="адякая">ad́akaja</Wd>
+<tk3 isa="comma"/>
+<Wd myvId="полай">polaj</Wd>
+<tk3 isa="comma"/>
+<Wd edit="MK" myvId="ашчеме">ašče͔ḿe</Wd>
+<tk3 isa="comma"/>
+<Wd myvId="вечкай">v́ečkaj</Wd>
+<tk3 isa="comma"/>
+<Wd myvId="вечкай">v́ečkaj</Wd>
+<Wd myvId="ней">ńej</Wd>
+<Wd myvId="деданень">d́edańeń</Wd>
+<tk3 isa="comma"/>
+<Wd myvId="вечкайнезэ">v́ečkajńeze͔</Wd>
+<Wd myvId="ней">ńej</Wd>
+<Wd myvId="бабанень">babańeń</Wd>
+<tk3 isa="excl"/></x>
+<GeoUB xml:lang="myv">
+<GeoU>Mar</GeoU>
+</GeoUB>
+<sources>
+<book name="1" pg="42"/>
+</sources>
+<xt xml:lang="deu">Komm, Männchen, zu Gaste, zu dem Grossvater Wetschkaj, zu der Grossmutter, der Frau Wetschkaj's!</xt>
+</xg>
+</HWB>
+</e>
+  <e>
+<root_ref xml:lang="myv" hid="1" pos="V" lemma="веьчкемс"/>
+<root_ref xml:lang="mdf" hid="1" pos="V" lemma="вечкәмс"/>
+<HWB>
+<E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
+<lg xml:lang="myv"><l pos="Prop">веьчкань веьле</l>
+<st>веьчкань веьле</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="вечкань">v́ečkań</Wd>
+<Wd myvId="веле">v́eĺe</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU/>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l pos="Prop"/><st/>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">эрз. назв. с. Вечканово</t>
+</tg>
+<t xml:lang="deu">ers. Name des Dorfes Wetschkanowo, Bez. Buguruslan, Gouv. 
+<GeoU>Samara</GeoU></t>
+</mg>
+</HWB>
+</e>
+  <e>
+<root_ref xml:lang="myv" hid="1" pos="V" lemma="веьчкемс"/>
+<root_ref xml:lang="mdf" hid="1" pos="V" lemma="вечкәмс"/>
+<HWB>
+<E3Head><POS pos="N"/><deriv isa="prt-ZY"/></E3Head>
+<lg xml:lang="myv"><l pos="Prop">веьчкезь-веьле</l>
+<st>веьчкезь-веьле</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="вечкезь">v́ečḱeź</Wd>
+<Hph/>
+<Wd myvId="веле">v́eĺe</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>VVr</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l pos="Prop"/><st/>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">эрз. с. Вечкусово</t>
+</tg>
+<tg xml:lang="deu">
+<t>ers. Dorf im Gouv. N.-Nowgorod, Wetschkussowo [“Geliebtes Dorf”]</t>
+</tg>
+</mg>
+<xg>
+<x>
+<Wd myvId="а">a</Wd>
+<Wd myvId="вечкезь">v́ečḱeź</Wd>
+<Hph/>
+<Wd edit="MK" myvId="велень">v́eĺeń</Wd>
+<Wd myvId="тонеінь">tońeiń</Wd>
+<Wd myvId="сьпира">śṕira</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>VVr</GeoU>
+</GeoUB>
+<sources>
+<book name="II" pg="38"/>
+</sources>
+<xt xml:lang="deu">(Es ist) Tonejs Spirja von Vetschkesj-vele.</xt>
+</xg>
+<xg>
+<x>
+<Wd myvId="вечкезь">v́ečḱeź</Wd>
+<Hph/>
+<Wd myvId="велень">v́eĺeń</Wd>
+<Wd myvId="подряшчикть">pod́ŕaščiḱt́</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>VVr</GeoU>
+</GeoUB>
+<sources>
+<book name="II" pg="369"/>
+</sources>
+<xt xml:lang="deu">Aus Vetschkesj-vele [waren] die Beauftragten.</xt>
+</xg>
+</HWB>
+</e>
+  <e>
+<root_ref xml:lang="myv" hid="1" pos="Ideoph" lemma="кальдерь"/>
+<root_ref xml:lang="mdf" hid="1" pos="" lemma="гальдерь"/>
+<HWB>
+<E3Head><POS pos="N"/><deriv isa="vocat-KAJ"/></E3Head>
+<lg xml:lang="myv"><l pos="Prop">кальдерькай</l>
+<st>кальдерькай</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="кальдерькай">kaĺd́eŕkaj</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>NBajt</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l pos="Prop"/><st/>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<td edit="MK">личное имя</td>
+</tg>
+<tg xml:lang="deu">
+<td>ein [Personen-]Name</td>
+</tg>
+</mg>
+<xg>
+<x>
+<Wd myvId="кальдерькаень">kaĺd́eŕkajeń</Wd>
+<Wd myvId="урьватне">uŕvat́ńe</Wd>
+<tk3 isa="comma"/>
+<Wd myvId="урьватне">uŕvat́ńe</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>NBajt</GeoU>
+</GeoUB>
+<sources>
+<book name="V" pg="522"/>
+</sources>
+<xt xml:lang="deu">Kaljderjkajs Schwiegertöchter, Schwiegertöchter (Frauen, Frauen).</xt>
+</xg>
+</HWB>
+</e>
+  <e>
+<root_ref xml:lang="myv" hid="1" pos="V" lemma="ледемс"/>
+<root_ref xml:lang="mdf" hid="1" pos="V" lemma="ледемс"/>
+<HWB>
+<E3Head><POS/></E3Head>
+<lg xml:lang="myv"><l pos="Prop">ледяй</l>
+<st>ледяй</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="ледяй">ĺed́aj</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Petr</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l pos="Prop"/><st/>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<td edit="MK">имя ребёнка, рождённого во время покоса</td>
+</tg>
+<tg xml:lang="deu">
+<td>Name des zur Mähzeit geborenen Kindes</td>
+</tg>
+</mg>
+<xg>
+<x>
+<Wd myvId="чачинь">čačiń</Wd>
+<Hph edit="MK"/>
+<Wd myvId="дяряй">d́äŕaj</Wd>
+<Wd myvId="пакшась">pakšaś</Wd>
+<Wd myvId="ледема">ĺed́ema</Wd>
+<Wd myvId="ланга">laŋga</Wd>
+<tk3 isa="comma"/>
+<Wd myvId="кармить">karḿit́</Wd>
+<Wd myvId="тендза">t́endza</Wd>
+<Wd myvId="мереме">ḿeŕeḿe</Wd>
+<Chc>“<Vrt>
+<Wd myvId="ледяй">ĺed́aj</Wd>
+</Vrt>
+<Vrt>
+<Wd myvId="ледяське">ĺed́aśḱe</Wd>
+</Vrt>”</Chc>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Petr</GeoU>
+</GeoUB>
+<sources>
+<book name="VIII" pg="150"/>
+</sources>
+<xt xml:lang="deu">Wurde das Kind zur Zeit der Heuernte
+(zur Mähezeit) geboren, beginnt man es
+<FrnTxtg><FrnTxt><Chc>
+<Vrt>
+<Wd CyrId="ледяй">ĺed́aj</Wd>
+</Vrt>
+<Vrt>
+<FrCm freeType="RelationToPreviousSibling" status="oder"/>
+<Wd CyrId="ледяське">ĺed́aśḱe</Wd>
+</Vrt></Chc></FrnTxt>
+<FrnTxtT xml:lang="deu">Mäher</FrnTxtT></FrnTxtg>
+ zu nennen.</xt>
+</xg>
+</HWB>
+</e>
+  <e>
+<root_ref xml:lang="myv" hid="1" pos="V" lemma="пиемс"/>
+<root_ref xml:lang="mdf" hid="1" pos="V" lemma="пиемс"/>
+<HWB>
+<E3Head><POS/></E3Head>
+<lg xml:lang="myv"><l pos="Prop">писё</l>
+<st>писё</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="писё">ṕiśo</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>NSurk</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l pos="Prop"/><st/>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<td edit="MK">имя мальчика, постоянно пускающего слюну из рта</td>
+</tg>
+<tg xml:lang="deu">
+<td>ein Name, der einem Jungen gegeben wird, dem der Speichel beständig aus dem Munde fliesst</td>
+</tg>
+</mg>
+</HWB>
+</e>
+  <e>
+<root_ref xml:lang="myv" hid="1" pos="V" lemma="тандадомс"/>
+<root_ref xml:lang="mdf" hid="1" pos="V" lemma="тандадәмс"/>
+<HWB>
+<E3Head><POS/></E3Head>
+<lg xml:lang="myv"><l pos="Prop">тандаль</l>
+<st>тандаль</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="тандаль">tandaĺ</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Bag</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l pos="Prop"/><st/>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<td edit="MK">женское имя</td>
+</tg>
+<tg xml:lang="deu">
+<td>ein Frauenname (wird einem Mädchen gegeben, das als viertes nach drei früheren geboren wird)</td>
+</tg>
+</mg>
+</HWB>
+</e>
+  <e>
+<root_ref xml:lang="myv" hid="1" pos="V" lemma="учомс"/>
+<root_ref xml:lang="mdf" hid="1" pos="V" lemma="утшәмс"/>
+<HWB>
+<E3Head><POS/></E3Head>
+<lg xml:lang="myv"><l pos="Prop">учай</l>
+<st>учай</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="учай">učaj</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Petr</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l pos="Prop"/><st/>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<td edit="MK">морд. личное имя</td>
+</tg>
+<tg xml:lang="deu">
+<td>ein mordw. Personenname</td>
+</tg>
+</mg>
+<xg>
+<x>
+<Wd myvId="учинь">učiń</Wd>
+<Hph edit="MK"/>
+<Wd myvId="дяряйть">d́äŕajt́</Wd>
+<Wd edit="MK" myvId="пакшанть">pakšańt́</Wd>
+<Wd myvId="чачумандза">čačumandza</Wd>
+<Wd myvId="кувать">kuvat́</Wd>
+<tk3 isa="comma"/>
+<Wd myvId="кармить">karḿit́</Wd>
+<Wd myvId="тендза">t́endza</Wd>
+<Wd myvId="мереме">ḿeŕeḿe</Wd>
+<tk3 isa="“"/>
+<Wd myvId="учай">učaj</Wd>
+<tk3 isa="”"/>
+<Note>
+<tk3 isa="“"/>
+<Wd myvId="учуське">učuśḱe</Wd>
+<tk3 isa="”"/>
+</Note>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Petr</GeoU>
+</GeoUB>
+<sources>
+<book name="VIII" pg="150"/>
+</sources>
+<t xml:lang="deu">Wenn man lange auf die Geburt des Kindes warten muss, beginnt man es <FrnTxt><Wd CyrId="учай">učaj</Wd></FrnTxt> oder <FrnTxt><Wd CyrId="учаське">učaśḱe</Wd></FrnTxt> (Erwartetes) zu nennen.</t>
+</xg>
+</HWB>
+</e>
+  <e>
+<stem_name xml:lang="myv" hid="1" pos="" lemma="XX"/>
+<stem_name xml:lang="mdf" hid="1" pos="Prop" lemma="пуләкс"/>
+<HWB>
+<E3Head><POS pos="Attr-Tra"/></E3Head>
+<lg edit="JMR" xml:lang="myv"><l pos="Prop"></l><st/>
+</lg>
+<lg xml:lang="mdf"><l pos="Prop">пуләкс</l>
+<st>пуләкс</st>
+<PhnUBlock>
+<PhnU>
+<Wd mdfId="пулə̑кс">pulə̑ks</Wd>
+</PhnU>
+<GeoUB xml:lang="mdf">
+<GeoU>Temn</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">мокш. назв. деревни Лесное Плуксово</t>
+</tg>
+<tg xml:lang="deu">
+<t>moksch. Name des Dorfes Pluksowo, Bez. Temnikow, Gouv. Tambow</t>
+</tg>
+</mg>
+</HWB>
+</e>
+  <e>
+<root_ref xml:lang="myv" hid="1" pos="Stem" lemma="вель-"/>
+<root_ref xml:lang="mdf" hid="1" pos="" lemma="вель-"/>
+<HWB>
+<E3Head><POS/></E3Head>
+<lg xml:lang="myv"><l pos="Prop">Веьльдяй</l>
+<st>Веьльдяй</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="вельдяй">v́eĺd́aj</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Kozl</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l/><st/>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">назв. мифологических лиц</t>
+</tg>
+<tg xml:lang="deu">
+<t edit="MK">Name myth. Personen in einem Zauberspruch</t>
+</tg>
+</mg>
+<xg>
+<x>
+<Wd myvId="парьцей">paŕćej</Wd>
+<Hph edit="MK"/>
+<Wd myvId="коса">kosa</Wd>
+<Wd myvId="вельдяй">v́eĺd́aj</Wd>
+<Hph edit="MK"/>
+<Wd myvId="баба">baba</Wd>
+<tk3 isa="comma"/>
+<Wd myvId="парьцей">paŕćej</Wd>
+<Hph edit="MK"/>
+<Wd myvId="сакал">sakal</Wd>
+<Wd myvId="вельдяй">v́eĺd́aj</Wd>
+<Hph/>
+<Wd myvId="атя">at́a</Wd>
+<tk3 isa="comma"/>
+<Wd myvId="ведь">v́ed́</Wd>
+<Hph/>
+<Wd myvId="мастор">mastor</Wd>
+<Hph/>
+<Wd myvId="ава">ava</Wd>
+<Wd myvId="матушка">matuška</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Kozl</GeoU>
+</GeoUB>
+<sources>
+<book name="III" pg="66"/>
+</sources>
+<xt xml:lang="deu">Seidenzöpfige Veldjaj-Alte, seidenbärtiger Veldjaj-Alter, Mutter des Wassers und der Erde, Mütterchen!</xt>
+</xg>
+</HWB>
+</e>
+  <e>
 <root_ref xml:lang="myv" hid="1" pos="Prop" lemma="XX"/>
 <root_ref xml:lang="mdf" hid="1" pos="Prop" lemma="лепа"/>
 <HWB>
@@ -174,12 +969,13 @@
 </lg>
 <DrvG><DrvTCtn><DrvT edit="MK" vl="diminutive"/></DrvTCtn>[<DrvStCtn><FrCm freeType="analogy" Modification="manus"/><DrvSt><Wd CyrId="мотю">mot́u</Wd></DrvSt></DrvStCtn>]</DrvG>
 <mg>
-<dF xml:lang="rus">[мужское имя</dF>
 <tg xml:lang="rus">
+<td>[мужское имя</td>
 <t type="approx">Матвей]</t>
 </tg>
-<dF xml:lang="deu">ein Männername</dF>
-<dF xml:lang="deu">entspricht nach P. dem russ. Namen <Fragment type="approx">Matfej</Fragment> (<Fragment type="approx">Matthäus</Fragment>, <Fragment type="approx">Matthias</Fragment>)</dF>
+<tg xml:lang="deu">
+<td>ein Männername, entspricht nach P. dem russ. Namen <Fragment type="approx">Matfej</Fragment> (<Fragment type="approx">Matthäus</Fragment>, <Fragment type="approx">Matthias</Fragment>)</td>
+</tg>
 </mg>
 <xg>
 <x>
@@ -417,10 +1213,10 @@
 <l_drv drvType="diminutive" CyrId="матерь">mat́əŕ</l_drv>
 <mg>
 <tg xml:lang="rus">
-<t edit="MK">? женское имя</t>
+<td edit="MK">? женское имя</td>
 </tg>
 <tg xml:lang="deu">
-<t edit="MK">? ein Frauenname</t>
+<td edit="MK">? ein Frauenname</td>
 </tg>
 </mg>
 <xg>
@@ -608,8 +1404,8 @@
 <tg xml:lang="rus">
 <td edit="MK">женское имя</td>
 </tg>
-<t xml:lang="deu">ein Frauenname (fam. F., eine Art Dem. zu <FrnTxt><Wd CyrId="санда">sanda</Wd></FrnTxt>)</t>
 <tg xml:lang="deu">
+<td>ein Frauenname (fam. F., eine Art Dem. zu <FrnTxt><Wd CyrId="санда">sanda</Wd></FrnTxt>)</td>
 <t>Aleksandra</t>
 </tg>
 </mg>
@@ -878,8 +1674,8 @@
 <td edit="MK">женское имя</td>
 <t edit="MK" type="approx">Маря</t>
 </tg>
-<dF xml:lang="deu">ein Frauenname</dF>
 <tg xml:lang="deu">
+<td>ein Frauenname</td>
 <t type="approx">Marja (Maria)</t>
 </tg>
 </mg>
@@ -983,8 +1779,8 @@
 <td edit="MK">женское имя</td>
 <t edit="MK" type="approx">Марюня</t>
 </tg>
-<dF xml:lang="deu">ein Frauenname</dF>
 <tg xml:lang="deu">
+<td>ein Frauenname</td>
 <t type="approx">Marja (Maria, Marie)</t>
 </tg>
 </mg>
@@ -1056,10 +1852,10 @@
 <Wd CyrId="миклай">ḿiklaj</Wd></tk2></i> + Dem.]</DerivationBlock>
 <mg>
 <tg xml:lang="rus">
-<t edit="MK">семейное имя</t>
+<td edit="MK">семейное имя</td>
 </tg>
 <tg xml:lang="deu">
-<t>ein Familienname [wohl Mikla(j)s Sohn]</t>
+<td>ein Familienname [wohl Mikla(j)s Sohn]</td>
 </tg>
 </mg>
 <xg>
@@ -1895,7 +2691,7 @@
 <t edit="MK" type="approx">Марфутка</t>
 </tg>
 <tg xml:lang="deu">
-<t>ein Frauenname (Dem. zu russ. Dem. Marfuta (Martha))</t>
+<td>ein Frauenname (Dem. zu russ. Dem. Marfuta (Martha))</td>
 </tg>
 </mg>
 <xg>
@@ -1959,7 +2755,7 @@
 <t edit="MK" type="approx">Марфа</t>
 </tg>
 <tg xml:lang="deu">
-<t>ein Frauenname (fam. F. zu Marfa (Martha))</t>
+<td>ein Frauenname (fam. F. zu Marfa (Martha))</td>
 </tg>
 </mg>
 <xg>
@@ -2174,10 +2970,10 @@
 </lg>
 <mg>
 <tg xml:lang="rus">
-<t edit="MK">? личное имя</t>
+<td edit="MK">? личное имя</td>
 </tg>
 <tg xml:lang="deu">
-<t edit="MK">? ein Personenname</t>
+<td edit="MK">? ein Personenname</td>
 </tg>
 </mg>
 <xg>
@@ -2228,11 +3024,11 @@
 <DrvG><DrvT vl="diminutive"/><DrvStCtn><FrCm freeType="analogy" Modification="manus"/><DrvSt><Wd CyrId="васю">vaśu</Wd></DrvSt></DrvStCtn></DrvG>
 <mg>
 <tg xml:lang="rus">
-<t edit="MK">женское имя</t>
+<td edit="MK">женское имя</td>
 <t edit="MK">Василиса</t>
 </tg>
 <tg xml:lang="deu">
-<t>ein Frauenname</t>
+<td>ein Frauenname</td>
 <t>Wassilissa</t>
 </tg>
 </mg>
@@ -2359,11 +3155,11 @@
 </lg>
 <mg>
 <tg xml:lang="rus">
-<t edit="MK">женское имя</t>
+<td edit="MK">женское имя</td>
 <t edit="MK">Анастасия</t>
 </tg>
 <tg xml:lang="deu">
-<t>ein Frauenname</t>
+<td>ein Frauenname</td>
 <t>Anastasia</t>
 </tg>
 </mg>
@@ -2467,16 +3263,23 @@
 <l_drv drvType="vocative"/>
 <mg>
 <tg xml:lang="rus">
-<t edit="MK">имя одной из снох</t>
+<td edit="MK">имя одной из снох</td>
 </tg>
-<t xml:lang="deu">so nennen u. reden diejenigen die Schwiegertochter an, die jünger sind als ihr Mann (
+<tg xml:lang="deu">
+<td>so nennen u. reden diejenigen die Schwiegertochter an, die jünger sind als ihr Mann</td>
+</tg> (
 <GeoUB xml:lang="mdf">
 <GeoU>P</GeoU> 
 <GeoU>Alk</GeoU> 
 <GeoU>Čemb</GeoU> 
 <GeoU>Sel</GeoU>
 </GeoUB>
-); [einer von den] Name[n, der auf der Hochzeit] der jungen Frau [gegeben wird]</t>(
+)</mg>
+;
+<mg>
+<tg xml:lang="deu">
+<td>[einer von den] Name[n, der auf der Hochzeit] der jungen Frau [gegeben wird]</td>
+</tg>(
 <GeoUB xml:lang="mdf">
 <GeoU>Pš</GeoU>
 <GeoU>Čemb</GeoU>
@@ -2568,10 +3371,10 @@
 </lg>
 <mg>
 <tg xml:lang="rus">
-<t edit="MK">личное имя</t>
+<td edit="MK">личное имя</td>
 </tg>
 <tg xml:lang="deu">
-<t>ein Personenname</t>
+<td>ein Personenname</td>
 </tg>
 </mg>
 <xg>
@@ -2740,7 +3543,7 @@
 <t edit="MK">Иосиф</t>
 </tg>
 <tg xml:lang="deu">
-<t edit="MK">ein Männername</t>
+<td edit="MK">ein Männername</td>
 </tg>
 <tg xml:lang="deu">
 <t edit="MK">Joseph</t>
@@ -2797,7 +3600,7 @@
 <t edit="MK">Митря</t>
 </tg>
 <tg xml:lang="deu">
-<t edit="MK">ein Männername</t>
+<td edit="MK">ein Männername</td>
 </tg>
 </mg>
 <xg>
@@ -3006,7 +3809,7 @@
 <t edit="MK">Стёпа</t>
 </tg>
 <tg xml:lang="deu">
-<t edit="MK">ein Männername</t>
+<td edit="MK">ein Männername</td>
 </tg>
 <tg xml:lang="deu">
 <t edit="MK">Stepan</t>
@@ -4632,7 +5435,7 @@
 <t edit="MK">Григорий</t>
 </tg>
 <tg xml:lang="deu">
-<t edit="MK">ein Männername</t>
+<td edit="MK">ein Männername</td>
 </tg>
 <tg xml:lang="deu">
 <t edit="MK">Grigori</t>
@@ -5194,8 +5997,8 @@
 <td edit="MK">женское имя</td>
 <t edit="MK" type="approx">Марька</t>
 </tg>
-<dF xml:lang="deu">ein Frauenname</dF>
 <tg xml:lang="deu">
+<td>ein Frauenname</td>
 <t type="approx">Marija (Maria, Marie)</t>
 </tg>
 </mg>
@@ -5266,8 +6069,8 @@
 <td edit="MK">женское имя</td>
 <t edit="MK" type="approx">Мария</t>
 </tg>
-<dF xml:lang="deu">ein Frauenname</dF>
 <tg xml:lang="deu">
+<td>ein Frauenname</td>
 <t type="approx">Marja (Maria, Marie)</t>
 </tg>
 </mg>
@@ -5394,7 +6197,7 @@
 </lg>
 <mg>
 <tg xml:lang="rus">
-<t edit="MK">мужское имя</t>
+<td edit="MK">мужское имя</td>
 <t>[Микита</t>
 </tg>
 <tg xml:lang="deu">
@@ -6093,7 +6896,7 @@
 <t edit="MK">Пётр</t>
 </tg>
 <tg xml:lang="deu">
-<t edit="MK">ein Männername</t>
+<td edit="MK">ein Männername</td>
 </tg>
 <tg xml:lang="deu">
 <t edit="MK">Peter</t>
@@ -8840,11 +9643,11 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 </lg>
 <mg>
 <tg xml:lang="rus">
-<t edit="MK">женское имя</t>
+<td edit="MK">женское имя</td>
 <t edit="MK">Василиса</t>
 </tg>
 <tg xml:lang="deu">
-<t>ein Frauenname</t>
+<td>ein Frauenname</td>
 <t>Wassilissa</t>
 </tg>
 </mg>
@@ -8876,10 +9679,10 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 </lg>
 <mg>
 <tg xml:lang="rus">
-<t edit="MK">мужское имя</t>
+<td edit="MK">мужское имя</td>
 </tg>
 <tg xml:lang="deu">
-<t>ein Männername</t>
+<td>ein Männername</td>
 </tg>
 </mg>
 <xg>
@@ -9350,10 +10153,10 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 </lg>
 <mg>
 <tg xml:lang="rus">
-<t edit="MK">морд. прозвище</t>
+<td edit="MK">морд. прозвище</td>
 </tg>
 <tg xml:lang="deu">
-<t>ein mordw. Beiname (“Strassenname”)</t>
+<td>ein mordw. Beiname (“Strassenname”)</td>
 </tg>
 </mg>
 <xg>
@@ -10887,7 +11690,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 </lg>
 <mg>
 <tg xml:lang="rus">
-<t edit="MK">? фамилия</t>
+<td edit="MK">? фамилия</td>
 </tg>
 <tg xml:lang="deu">
 <t edit="MK">? ein Familienname</t>
@@ -11018,11 +11821,11 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 </lg>
 <mg>
 <tg xml:lang="rus">
-<t edit="MK">личное имя</t>
-<t edit="MK">? прозвище</t>
+<td edit="MK">личное имя</td>
+<td edit="MK">? прозвище</td>
 </tg>
 <tg xml:lang="deu">
-<t edit="MK">ein Personenname (? Beiname)</t>
+<td edit="MK">ein Personenname (? Beiname)</td>
 </tg>
 </mg>
 <xg>
@@ -11063,10 +11866,10 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 </lg>
 <mg>
 <tg xml:lang="rus">
-<t edit="MK">морд. личное имя</t>
+<td edit="MK">морд. личное имя</td>
 </tg>
 <tg xml:lang="deu">
-<t>ein mordw. Personenname</t>
+<td>ein mordw. Personenname</td>
 </tg>
 </mg>
 <xg>
@@ -12215,7 +13018,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <td edit="MK">мужское имя</td>
 </tg>
 <tg xml:lang="deu">
-<t edit="MK">ein Männername</t>
+<td edit="MK">ein Männername</td>
 </tg>
 </mg>
 <xg>
@@ -12264,7 +13067,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <td edit="MK">мужское имя</td>
 </tg>
 <tg xml:lang="deu">
-<t edit="MK">ein Männername</t>
+<td edit="MK">ein Männername</td>
 </tg>
 </mg>
 </HWB>
@@ -12427,10 +13230,10 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 </lg>
 <mg>
 <tg xml:lang="rus">
-<t edit="MK">личное имя</t>
+<td edit="MK">личное имя</td>
 </tg>
 <tg xml:lang="deu">
-<t>ein Personenname</t>
+<td>ein Personenname</td>
 </tg>
 </mg>
 <xg>
@@ -12543,7 +13346,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 </lg>
 <mg>
 <tg xml:lang="rus">
-<t edit="MK">личное имя</t>
+<td edit="MK">личное имя</td>
 </tg>
 <tg xml:lang="deu">
 <t>ein Vorname</t>
@@ -12936,12 +13739,12 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 </lg>
 <mg>
 <tg xml:lang="rus">
-<t edit="MK">личное имя</t>
-<t edit="MK">? прозвище</t>
+<td edit="MK">личное имя</td>
+<td edit="MK">? прозвище</td>
 </tg>
 <tg xml:lang="deu">
-<t>ein Personenname</t>
-<t pos="Prop">? Beiname</t>
+<td>ein Personenname</td>
+<td pos="Prop">? Beiname</td>
 </tg>
 </mg>
 <xg>
@@ -12994,7 +13797,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <t edit="MK">Митька</t>
 </tg>
 <tg xml:lang="deu">
-<t edit="MK">ein Männername</t>
+<td edit="MK">ein Männername</td>
 </tg>
 <tg xml:lang="deu">
 <t edit="MK">Mitka</t>
@@ -13129,7 +13932,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <t edit="MK">Степан</t>
 </tg>
 <tg xml:lang="deu">
-<t edit="MK">ein Männername</t>
+<td edit="MK">ein Männername</td>
 </tg>
 <tg xml:lang="deu">
 <t edit="MK">Stepan (Stefanus)</t>
@@ -15134,12 +15937,12 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 </lg>
 <mg>
 <tg xml:lang="rus">
-<t edit="MK">? фамилия</t>
-<t edit="MK">? прозвище</t>
+<td edit="MK">? фамилия</td>
+<td edit="MK">? прозвище</td>
 </tg>
 <tg xml:lang="deu">
-<t>? Familienname</t>
-<t>? Schimpfname</t>
+<td>? Familienname</td>
+<td>? Schimpfname</td>
 </tg>
 </mg>
 <xg>
@@ -15438,10 +16241,10 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 </lg>
 <mg>
 <tg xml:lang="rus">
-<t edit="MK">личное имя</t>
+<td edit="MK">личное имя</td>
 </tg>
 <tg xml:lang="deu">
-<t>ein Personenname</t>
+<td>ein Personenname</td>
 </tg>
 </mg>
 <xg>
@@ -16437,7 +17240,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <t edit="MK">Кирилл</t>
 </tg>
 <tg xml:lang="deu">
-<t edit="MK">ein Männername</t>
+<td edit="MK">ein Männername</td>
 </tg>
 <tg xml:lang="deu">
 <t edit="MK">Cyrillus</t>
@@ -16575,10 +17378,10 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 </lg>
 <mg>
 <tg xml:lang="rus">
-<t edit="MK">личное имя</t>
+<td edit="MK">личное имя</td>
 </tg>
 <tg xml:lang="deu">
-<t>ein Personenname</t>
+<td>ein Personenname</td>
 </tg>
 </mg>
 <xg>
@@ -19666,12 +20469,12 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 </lg>
 <mg>
 <tg xml:lang="rus">
-<t edit="MK">имя основателя рода</t>
-<t edit="MK">также оскорбительное прозвище</t>
+<td edit="MK">имя основателя рода</td>
+<td edit="MK">также оскорбительное прозвище</td>
 </tg>
 <tg xml:lang="deu">
-<t>Name des Gründers einer Sippe</t>
-<t>auch Schimpfname</t>
+<td>Name des Gründers einer Sippe</td>
+<td>auch Schimpfname</td>
 </tg>
 </mg>
 <xg>
@@ -19808,9 +20611,9 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 </lg>
 <mg>
 <tg xml:lang="rus">
-<t edit="MK">мужское прозвище</t>
+<td edit="MK">мужское прозвище</td>
 </tg>
-<t xml:lang="deu">ein männl. Beiname (= <cyr>Фёдор</cyr>)</t>
+<td xml:lang="deu">ein männl. Beiname (= <cyr>Фёдор</cyr>)</td>
 </mg>
 </HWB>
 </e>
@@ -20977,11 +21780,11 @@ Dem. zu <Et>Васи́лий</Et>]
 </lg>
 <mg>
 <tg xml:lang="rus">
-<t edit="MK">женское имя</t>
+<td edit="MK">женское имя</td>
 <t edit="MK">Василиса</t>
 </tg>
 <tg xml:lang="deu">
-<t>ein Frauenname</t>
+<td>ein Frauenname</td>
 <t>Wassilissa</t>
 </tg>
 </mg>
@@ -21522,10 +22325,10 @@ Dem. zu <Et>Васи́лий</Et>]
 </lg>
 <mg>
 <tg xml:lang="rus">
-<t edit="MK">личное имя</t>
+<td edit="MK">личное имя</td>
 </tg>
 <tg xml:lang="deu">
-<t>ein Personenname</t>
+<td>ein Personenname</td>
 <t>Wikat</t>
 </tg>
 </mg>
@@ -21562,7 +22365,7 @@ Dem. zu <Et>Васи́лий</Et>]
 <GeoUB xml:lang="myv">
 <GeoU>Mar</GeoU>
 </GeoUB>
-<SubjectField>myth</SubjectField>
+<domain>myth</domain>
 </PhnUBlock>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="Prop"/><st/>
@@ -22192,7 +22995,7 @@ Dem. zu <Et>Васи́лий</Et>]
 <t edit="MK">Григорий</t>
 </tg>
 <tg xml:lang="deu">
-<t edit="MK">ein Männername</t>
+<td edit="MK">ein Männername</td>
 </tg>
 <tg xml:lang="deu">
 <t edit="MK">Grigori</t>
@@ -22278,7 +23081,7 @@ Dem. zu <Et>Васи́лий</Et>]
 <t edit="MK">Григорий</t>
 </tg>
 <tg xml:lang="deu">
-<t edit="MK">ein Männername</t>
+<td edit="MK">ein Männername</td>
 </tg>
 <tg xml:lang="deu">
 <t edit="MK">Grigori</t>
@@ -22739,7 +23542,7 @@ Dem. zu <Et>Васи́лий</Et>]
 </lg>
 <mg>
 <tg xml:lang="rus">
-<t edit="MK">женское имя</t>
+<td edit="MK">женское имя</td>
 <t>[Ева</t>
 </tg>
 <tg xml:lang="deu">
@@ -23055,10 +23858,10 @@ Dem. zu <Et>Васи́лий</Et>]
 </lg>
 <mg>
 <tg xml:lang="rus">
-<t edit="MK">личное имя</t>
+<td edit="MK">личное имя</td>
 </tg>
 <tg xml:lang="deu">
-<t>ein Personenname</t>
+<td>ein Personenname</td>
 </tg>
 </mg>
 <xg>
@@ -27399,7 +28202,7 @@ Eine Wachskerze wurde angezündet u. eine Frau sprach folg. Gebet: <i>
 <t edit="MK">Кирилл</t>
 </tg>
 <tg xml:lang="deu">
-<t edit="MK">ein Männername</t>
+<td edit="MK">ein Männername</td>
 </tg>
 <tg xml:lang="deu">
 <t edit="MK">Cyrillus</t>
@@ -28196,7 +28999,7 @@ Eine Wachskerze wurde angezündet u. eine Frau sprach folg. Gebet: <i>
 <t edit="MK">Никодим</t>
 </tg>
 <tg xml:lang="deu">
-<t edit="MK">ein Männername</t>
+<td edit="MK">ein Männername</td>
 </tg>
 </mg>
 <xg>
@@ -28369,7 +29172,7 @@ Eine Wachskerze wurde angezündet u. eine Frau sprach folg. Gebet: <i>
 <td edit="MK">мужское имя</td>
 </tg>
 <tg xml:lang="deu">
-<t edit="MK">ein Männername</t>
+<td edit="MK">ein Männername</td>
 </tg>
 </mg>
 <xg>
@@ -30189,7 +30992,7 @@ Eine Wachskerze wurde angezündet u. eine Frau sprach folg. Gebet: <i>
 <EtSrcL edit="MK" xml:lang="rus"/>
 <EtCtn>
 <Et edit="MK">Лукья́н</Et>
-</EtCtn>[, <SubjectField>altert</SubjectField> <Et>Лукиа́н</Et>]
+</EtCtn>[, <temporal>altert</temporal> <Et>Лукиа́н</Et>]
 </Etg>
 </e>
   <e>
@@ -30844,8 +31647,8 @@ Eine Wachskerze wurde angezündet u. eine Frau sprach folg. Gebet: <i>
 <td edit="MK">женское имя</td>
 <t edit="MK" type="approx">Мария</t>
 </tg>
-<dF xml:lang="deu">ein Frauenname</dF>
 <tg xml:lang="deu">
+<td>ein Frauenname</td>
 <t type="approx">Marija (Maria, Marie)</t>
 </tg>
 <dF xml:lang="deu">in Zaubersprüchen oft als Name der Erdmutter (personifizierten Erde), der Morgenröte usw.</dF>
@@ -30972,8 +31775,8 @@ Eine Wachskerze wurde angezündet u. eine Frau sprach folg. Gebet: <i>
 <td edit="MK">женское имя</td>
 <t edit="MK" type="approx">Мария</t>
 </tg>
-<dF xml:lang="deu">ein Frauenname</dF>
 <tg xml:lang="deu">
+<td>ein Frauenname</td>
 <t type="approx">Marija (Marie)</t>
 </tg>
 </mg>
@@ -31036,8 +31839,8 @@ Eine Wachskerze wurde angezündet u. eine Frau sprach folg. Gebet: <i>
 <td edit="MK">женское имя</td>
 <t edit="MK" type="approx">Марюша</t>
 </tg>
-<dF xml:lang="deu">ein Frauenname</dF>
 <tg xml:lang="deu">
+<td>ein Frauenname</td>
 <t type="approx">Marjuscha</t>
 <t type="approx">Marija (Mariechen)</t>
 </tg>
@@ -31109,8 +31912,8 @@ Eine Wachskerze wurde angezündet u. eine Frau sprach folg. Gebet: <i>
 <td edit="MK">женское имя</td>
 <t edit="MK" type="approx">Марьюшка</t>
 </tg>
-<dF xml:lang="deu">ein Frauenname</dF>
 <tg xml:lang="deu">
+<td>ein Frauenname</td>
 <t type="approx">Marija (Marie, Marjuschka)</t>
 </tg>
 </mg>
@@ -31159,8 +31962,8 @@ Eine Wachskerze wurde angezündet u. eine Frau sprach folg. Gebet: <i>
 <td edit="MK">женское имя</td>
 <t edit="MK" type="approx">Маря</t>
 </tg>
-<dF xml:lang="deu">ein Frauenname</dF>
 <tg xml:lang="deu">
+<td>ein Frauenname</td>
 <t type="approx">Marja (Maria, Marie)</t>
 </tg>
 </mg>
@@ -31325,8 +32128,8 @@ Eine Wachskerze wurde angezündet u. eine Frau sprach folg. Gebet: <i>
 <td edit="MK">женское имя</td>
 <t edit="MK" type="approx">Мария</t>
 </tg>
-<dF xml:lang="deu">ein Frauenname</dF>
 <tg xml:lang="deu">
+<td>ein Frauenname</td>
 <t type="approx">Marja (Maria, Marie)</t>
 </tg>
 <dF xml:lang="deu">fam. F. zu <CapI>
@@ -31464,8 +32267,8 @@ Eine Wachskerze wurde angezündet u. eine Frau sprach folg. Gebet: <i>
 <td edit="MK">женское имя</td>
 <t edit="MK" type="approx">Маша</t>
 </tg>
-<dF xml:lang="deu">ein Frauenname</dF>
 <tg xml:lang="deu">
+<td>ein Frauenname</td>
 <t type="approx">Marija</t>
 <t type="approx">Mascha (Mariechen)</t>
 </tg>
@@ -31549,8 +32352,8 @@ Eine Wachskerze wurde angezündet u. eine Frau sprach folg. Gebet: <i>
 <td edit="MK">женское имя</td>
 <t edit="MK" type="approx">Машенька</t>
 </tg>
-<dF xml:lang="deu">ein Frauenname</dF>
 <tg xml:lang="deu">
+<td>ein Frauenname</td>
 <t type="approx">Marija</t>
 <t type="approx">Maschinka (Mariechen)</t>
 </tg>
@@ -31659,8 +32462,8 @@ Eine Wachskerze wurde angezündet u. eine Frau sprach folg. Gebet: <i>
 <td edit="MK">женское имя</td>
 <t edit="MK" type="approx">Машура</t>
 </tg>
-<dF xml:lang="deu">ein Frauenname</dF>
 <tg xml:lang="deu">
+<td>ein Frauenname</td>
 <t type="approx">Maschura (Mariechen)</t>
 </tg>
 </mg>
@@ -31722,8 +32525,8 @@ Eine Wachskerze wurde angezündet u. eine Frau sprach folg. Gebet: <i>
 <td edit="MK">женское имя</td>
 <t edit="MK" type="approx">Машута</t>
 </tg>
-<dF xml:lang="deu">ein Frauenname</dF>
 <tg xml:lang="deu">
+<td>ein Frauenname</td>
 <t type="approx">Maschuta (Mariechen)</t>
 </tg>
 </mg>
@@ -32064,7 +32867,7 @@ Eine Wachskerze wurde angezündet u. eine Frau sprach folg. Gebet: <i>
 <t edit="MK">Микита</t>
 </tg>
 <tg xml:lang="deu">
-<t edit="MK">ein Männername</t>
+<td edit="MK">ein Männername</td>
 </tg>
 <tg xml:lang="deu">
 <t edit="MK">Mikita (Nikita, Nicetas)</t>
@@ -32478,7 +33281,7 @@ Eine Wachskerze wurde angezündet u. eine Frau sprach folg. Gebet: <i>
 <t edit="MK">Митря</t>
 </tg>
 <tg xml:lang="deu">
-<t edit="MK">ein Männername</t>
+<td edit="MK">ein Männername</td>
 </tg>
 </mg>
 <xg>
@@ -32734,7 +33537,7 @@ Eine Wachskerze wurde angezündet u. eine Frau sprach folg. Gebet: <i>
 <t edit="MK">Митя</t>
 </tg>
 <tg xml:lang="deu">
-<t edit="MK">ein Männername</t>
+<td edit="MK">ein Männername</td>
 </tg>
 <tg xml:lang="deu">
 <t edit="MK">Mitja</t>
@@ -32828,7 +33631,7 @@ Eine Wachskerze wurde angezündet u. eine Frau sprach folg. Gebet: <i>
 <t edit="MK">Михайла</t>
 </tg>
 <tg xml:lang="deu">
-<t edit="MK">ein Männername</t>
+<td edit="MK">ein Männername</td>
 </tg>
 <tg xml:lang="deu">
 <t edit="MK">Michail (Michael)</t>
@@ -37913,7 +38716,7 @@ Adjekt. Gen. aus dem russ. Adj. <Et>Петро́в</Et>]
 </lg>
 <mg>
 <tg xml:lang="rus">
-<t edit="MK">личное имя</t>
+<td edit="MK">личное имя</td>
 </tg>
 <tg xml:lang="deu">
 <t edit="MK">ein Personenname</t>
@@ -38203,7 +39006,7 @@ Adjekt. Gen. aus dem russ. Adj. <Et>Петро́в</Et>]
 <tg xml:lang="rus">
 <t edit="MK">(в фольклоре) (большая) река</t>
 </tg>
-<t xml:lang="deu"><SubjectField>in der Volksd</SubjectField> Fluss</t>
+<t xml:lang="deu"><stylistic>in der Volksd</stylistic> Fluss</t>
 <t xml:lang="deu">Strom (heutzutage meist <FrnTxt><Wd CyrId="ляй">ĺäj</Wd></FrnTxt>)</t>(
 <GeoUB xml:lang="mdf">
 <GeoU>P</GeoU>
@@ -39901,7 +40704,7 @@ Adjekt. Gen. aus dem russ. Adj. <Et>Петро́в</Et>]
 </lg>
 <mg>
 <tg xml:lang="rus">
-<t edit="MK">личное имя</t>
+<td edit="MK">личное имя</td>
 </tg>
 <t xml:lang="deu">ein Personenname (als Name des <FrnTxt><Wd CyrId="алганжей">alganᴣ̌ej</Wd></FrnTxt>-Dämons in einem Zauberspruch)</t>
 </mg>
@@ -40888,7 +41691,7 @@ fam. F. <Et>Сема́ша (Семён)</Et>]
 <t edit="MK">Сергей</t>
 </tg>
 <tg xml:lang="deu">
-<t edit="MK">ein Männername</t>
+<td edit="MK">ein Männername</td>
 </tg>
 <tg xml:lang="deu">
 <t edit="MK">Sergej</t>
@@ -41677,7 +42480,7 @@ fam. F. <Et>Сема́ша (Семён)</Et>]
 <t edit="MK">Семён</t>
 </tg>
 <tg xml:lang="deu">
-<t edit="MK">ein Männername</t>
+<td edit="MK">ein Männername</td>
 </tg>
 <tg xml:lang="deu">
 <t edit="MK">Simeon</t>
@@ -42361,7 +43164,7 @@ Dem. zu <Et>Сёма</Et>]
 <td edit="MK">женское имя</td>
 </tg>
 <tg xml:lang="deu">
-<t>ein Frauenname</t>
+<td>ein Frauenname</td>
 </tg>
 </mg>
 <xg>
@@ -42728,7 +43531,7 @@ Dem. zu <Et>Сёма</Et>]
 <t edit="MK">Тимофей</t>
 </tg>
 <tg xml:lang="deu">
-<t edit="MK">ein Männername</t>
+<td edit="MK">ein Männername</td>
 </tg>
 <tg xml:lang="deu">
 <t edit="MK">Timofej</t>
@@ -44837,10 +45640,10 @@ Kurzf. zu <Et>Фёдор</Et>)]
 </lg>
 <mg>
 <tg xml:lang="rus">
-<t edit="MK">мужское прозвище</t>
+<td edit="MK">мужское прозвище</td>
 </tg>
 <tg xml:lang="deu">
-<t>ein männl. Beiname</t>
+<td>ein männl. Beiname</td>
 </tg>
 </mg>
 </HWB>
@@ -45029,10 +45832,10 @@ Kurzf. zu <Et>Фёдор</Et>)]
 </lg>
 <mg>
 <tg xml:lang="rus">
-<t edit="MK">личное имя</t>
+<td edit="MK">личное имя</td>
 </tg>
 <tg xml:lang="deu">
-<t>ein Personenname</t>
+<td>ein Personenname</td>
 </tg>
 </mg>
 <xg>
@@ -45585,14 +46388,14 @@ Kurzf. zu <Et>Фёдор</Et>)]
 </lg>
 <mg>
 <tg xml:lang="rus">
-<t edit="MK">? фамилия</t>
-<t edit="MK">? назв. улицы</t>
+<td edit="MK">? фамилия</td>
+<td edit="MK">? назв. улицы</td>
 </tg>
 <tg xml:lang="deu">
-<t edit="MK">? Familienname</t>
+<td edit="MK">? Familienname</td>
 </tg>
 <tg xml:lang="deu">
-<t edit="MK">? Strassenname</t>
+<td edit="MK">? Strassenname</td>
 </tg>
 </mg>
 <xg>
@@ -46746,10 +47549,10 @@ Kurzf. zu <Et>Фёдор</Et>)]
 </lg>
 <mg>
 <tg xml:lang="rus">
-<t edit="MK">мужское прозвище</t>
+<td edit="MK">мужское прозвище</td>
 </tg>
 <tg xml:lang="deu">
-<t>ein männl. Beiname</t>
+<td>ein männl. Beiname</td>
 </tg>
 (<dfQsyn1 rel="syn">Fjodor</dfQsyn1>)</mg>
 </HWB>
@@ -47257,10 +48060,10 @@ Kurzf. zu <Et>Фёдор</Et>)]
 </lg>
 <mg>
 <tg xml:lang="rus">
-<t edit="MK">мужское имя</t>
+<td edit="MK">мужское имя</td>
 </tg>
 <tg xml:lang="deu">
-<t>ein Männername</t>
+<td>ein Männername</td>
 </tg>
 </mg>
 <xg>
@@ -47425,10 +48228,10 @@ Kurzf. zu <Et>Фёдор</Et>)]
 </lg>
 <mg>
 <tg xml:lang="rus">
-<t edit="MK">мужское прозвище</t>
+<td edit="MK">мужское прозвище</td>
 </tg>
 <tg xml:lang="deu">
-<t>ein männl. Beiname</t>
+<td>ein männl. Beiname</td>
 </tg>
 </mg>
 </HWB>
@@ -47615,11 +48418,11 @@ Kurzf. zu <Et>Фёдор</Et>)]
 </lg>
 <mg>
 <tg xml:lang="rus">
-<t edit="MK">женское имя</t>
+<td edit="MK">женское имя</td>
 <t edit="MK">Лиза</t>
 </tg>
 <tg xml:lang="deu">
-<t>ein Frauenname</t>
+<td>ein Frauenname</td>
 <t>Lisa (Liese, Elisabeth)</t>
 </tg>
 </mg>
@@ -48771,7 +49574,7 @@ Kurzf. zu <Et>Фёдор</Et>)]
 <GeoUB xml:lang="myv">
 <GeoU>Mar</GeoU>
 </GeoUB>
-<SubjectField>myth</SubjectField>
+<domain>myth</domain>
 </PhnUBlock>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l/><st/>
@@ -48832,8 +49635,8 @@ Kurzf. zu <Et>Фёдор</Et>)]
 <td edit="MK">женское имя</td>
 <t edit="MK" type="approx">Марина</t>
 </tg>
-<dF xml:lang="deu">ein Frauenname</dF>
 <tg xml:lang="deu">
+<td>ein Frauenname</td>
 <t type="approx">Marina</t>
 </tg>
 </mg>
@@ -49686,8 +50489,8 @@ Kurzf. zu <Et>Фёдор</Et>)]
 <td edit="MK">женское имя</td>
 <t edit="MK" type="approx">Маша</t>
 </tg>
-<dF xml:lang="deu">ein Frauenname</dF>
 <tg xml:lang="deu">
+<td>ein Frauenname</td>
 <t type="approx">Mascha (Mariechen)</t>
 </tg>
 </mg>
@@ -49843,7 +50646,7 @@ Kurzf. zu <Et>Фёдор</Et>)]
 <t edit="MK">Михей</t>
 </tg>
 <tg xml:lang="deu">
-<t edit="MK">ein Männername</t>
+<td edit="MK">ein Männername</td>
 </tg>
 <tg xml:lang="deu">
 <t edit="MK">Michej</t>
@@ -50539,11 +51342,11 @@ auch russ. <Et>Моке́й</Et>]
 </lg>
 <mg>
 <tg xml:lang="rus">
-<t edit="MK">женское имя</t>
+<td edit="MK">женское имя</td>
 <t edit="MK">Анастасия</t>
 </tg>
 <tg xml:lang="deu">
-<t>ein Frauenname</t>
+<td>ein Frauenname</td>
 <t>Anastasia</t>
 </tg>
 </mg>
@@ -50646,7 +51449,7 @@ auch russ. <Et>Моке́й</Et>]
 </lg>
 <mg>
 <tg xml:lang="rus">
-<t edit="MK">женское имя</t>
+<td edit="MK">женское имя</td>
 <t edit="MK">Анастасия</t>
 </tg>
 <tg xml:lang="deu">
@@ -50778,11 +51581,11 @@ auch russ. <Et>Моке́й</Et>]
 </lg>
 <mg>
 <tg xml:lang="rus">
-<t edit="MK">женское имя</t>
+<td edit="MK">женское имя</td>
 <t edit="MK">Анастасия</t>
 </tg>
 <tg xml:lang="deu">
-<t>ein Frauenname</t>
+<td>ein Frauenname</td>
 <t>Anastasia</t>
 </tg>
 </mg>
@@ -50830,11 +51633,11 @@ auch russ. <Et>Моке́й</Et>]
 </lg>
 <mg>
 <tg xml:lang="rus">
-<t edit="MK">женское имя</t>
+<td edit="MK">женское имя</td>
 <t edit="MK">Анастасия</t>
 </tg>
 <tg xml:lang="deu">
-<t>ein Frauenname</t>
+<td>ein Frauenname</td>
 <t>[fam. Kurzf. von] Anastasia</t>
 </tg>
 </mg>
@@ -50970,7 +51773,7 @@ auch russ. <Et>Моке́й</Et>]
 <td edit="MK">мужское имя</td>
 </tg>
 <tg xml:lang="deu">
-<t edit="MK">ein Männername</t>
+<td edit="MK">ein Männername</td>
 </tg>
 </mg>
 <xg>
@@ -51531,10 +52334,10 @@ auch russ. <Et>Моке́й</Et>]
 </lg>
 <mg>
 <tg xml:lang="rus">
-<t edit="MK">личное имя</t>
+<td edit="MK">личное имя</td>
 </tg>
 <tg xml:lang="deu">
-<t>ein Personenname</t>
+<td>ein Personenname</td>
 </tg>
 </mg>
 <xg>
@@ -51758,10 +52561,10 @@ auch russ. <Et>Моке́й</Et>]
 </lg>
 <mg>
 <tg xml:lang="rus">
-<t edit="MK">мужское имя</t>
+<td edit="MK">мужское имя</td>
 </tg>
 <tg xml:lang="deu">
-<t>ein Männername</t>
+<td>ein Männername</td>
 </tg>
 </mg>
 <xg>
@@ -51811,7 +52614,7 @@ auch russ. <Et>Моке́й</Et>]
 </lg>
 <mg>
 <tg xml:lang="rus">
-<t edit="MK">личное имя</t>
+<td edit="MK">личное имя</td>
 </tg>
 <tg xml:lang="deu">
 <t>ein Personenname (in Zaubersprüchen)</t>
@@ -51865,7 +52668,7 @@ auch russ. <Et>Моке́й</Et>]
 </lg>
 <mg>
 <tg xml:lang="rus">
-<t edit="MK">личное имя</t>
+<td edit="MK">личное имя</td>
 </tg>
 <t xml:lang="deu">ein Personenname (
 <GeoUB xml:lang="myv">
@@ -52615,7 +53418,7 @@ auch russ. <Et>Моке́й</Et>]
 </lg>
 <mg>
 <tg xml:lang="rus">
-<t edit="MK">личное имя</t>
+<td edit="MK">личное имя</td>
 <t edit="MK">“полночный”</t>
 </tg>
 <tg xml:lang="deu">
@@ -52671,19 +53474,19 @@ auch russ. <Et>Моке́й</Et>]
 </lg>
 <mg>
 <tg xml:lang="rus">
-<t edit="MK">личное имя в песне</t>
+<td edit="MK">личное имя в песне</td>
 </tg>
 <tg xml:lang="deu">
-<t>[Personenname in einem Liede</t>
+<td>[Personenname in einem Liede</td>
 </tg>
 </mg>
 ;
 <mg>
 <tg xml:lang="rus">
-<t>прозвище</t>
+<td>прозвище</td>
 </tg>
 <tg xml:lang="deu">
-<t pos="N">Schimpfname]</t>
+<td pos="N">Schimpfname]</td>
 </tg>
 </mg>
 <xg>
@@ -53062,10 +53865,10 @@ auch russ. <Et>Моке́й</Et>]
 </lg>
 <mg>
 <tg xml:lang="rus">
-<t edit="MK">мужское имя</t>
+<td edit="MK">мужское имя</td>
 </tg>
 <tg xml:lang="deu">
-<t>ein Männername</t>
+<td>ein Männername</td>
 </tg>
 </mg>
 </HWB>
@@ -54927,7 +55730,7 @@ auch russ. <Et>Моке́й</Et>]
 </lg>
 <mg>
 <tg xml:lang="rus">
-<t edit="MK">морд. прозвище</t>
+<td edit="MK">морд. прозвище</td>
 </tg>
 <tg xml:lang="deu">
 <t>ein mordw. Beiname (“Strassenname”)</t>
@@ -55946,13 +56749,13 @@ auch russ. <Et>Моке́й</Et>]
 <mg>
 <tg xml:lang="rus">
 <td edit="MK">мужское имя</td>
-<t edit="MK">прозвище</t>
+<td edit="MK">прозвище</td>
 </tg>
 <tg xml:lang="deu">
-<t edit="MK">ein Männername</t>
+<td edit="MK">ein Männername</td>
 </tg>
 <tg xml:lang="deu">
-<t edit="MK">Beiname</t>
+<td edit="MK">Beiname</td>
 </tg>
 </mg>
 <xg>
@@ -56157,7 +56960,7 @@ auch russ. <Et>Моке́й</Et>]
 <td edit="MK">женское имя</td>
 </tg>
 <tg xml:lang="deu">
-<t>ein Frauenname</t>
+<td>ein Frauenname</td>
 </tg>
 </mg>
 <xg>
@@ -56327,10 +57130,10 @@ auch russ. <Et>Моке́й</Et>]
 </lg>
 <mg>
 <tg xml:lang="rus">
-<t edit="MK">личное имя</t>
+<td edit="MK">личное имя</td>
 </tg>
 <tg xml:lang="deu">
-<t>ein Personenname</t>
+<td>ein Personenname</td>
 </tg>(
 <GeoUB xml:lang="myv">
 <GeoU>Vez</GeoU>
@@ -58055,7 +58858,7 @@ auch russ. <Et>Моке́й</Et>]
 <td edit="MK">женское имя</td>
 </tg>
 <tg xml:lang="deu">
-<t>ein Frauenname</t>
+<td>ein Frauenname</td>
 </tg>
 </mg>
 <xg>
@@ -58164,7 +58967,7 @@ auch russ. <Et>Моке́й</Et>]
 <td edit="MK">женское имя</td>
 </tg>
 <tg xml:lang="deu">
-<t>ein Frauenname</t>
+<td>ein Frauenname</td>
 </tg>
 </mg>
 <xg>

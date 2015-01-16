@@ -1,6 +1,193 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="myv">
   <e>
+<root_ref xml:lang="myv" hid="2" pos="V" lemma="XX"/>
+<root_ref xml:lang="mdf" hid="2" pos="V" lemma="тяремс"/>
+<HWB>
+<E3Head><POS pos="N"/><deriv isa="prt-I"/></E3Head>
+<lg edit="JMR" xml:lang="myv"><l pos="Prc"/><st/>
+</lg>
+<lg xml:lang="mdf"><l pos="Prc">тяри</l>
+<st>тяри</st>
+<PhnUBlock>
+<PhnU>
+<Wd mdfId="тяри">t́äŕi</Wd>
+</PhnU>
+<GeoUB xml:lang="mdf">
+<GeoU>P</GeoU>
+<GeoU>Kr</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">дрожащий</t>
+<t edit="MK">шатающийся</t>
+</tg>
+<tg xml:lang="deu">
+<t>bebend</t>
+<t>schwankend</t>
+</tg>
+</mg>
+<xg>
+<x>
+<Wd mdfId="шиве·чть">šiv́e·čt́</Wd>
+<Wd mdfId="федяняц">f́ed́äńac</Wd>
+<Wd mdfId="шары">šari͔</Wd>
+<Wd mdfId="пирянясь">ṕiŕäńäś</Wd>
+<tk3 isa="comma"/>
+<Wd mdfId="шары">šari͔</Wd>
+<Wd mdfId="пирянясь">ṕiŕäńäś</Wd>
+<tk3 isa="comma"/>
+<Wd mdfId="тяри">t́äŕi</Wd>
+<Wd mdfId="кудрянясь">kud́ŕä·ńäś</Wd>
+</x>
+<GeoUB edit="MK" xml:lang="mdf">
+<GeoU edit="MK">P</GeoU>
+</GeoUB>
+<sources>
+<book name="IV"/>
+<PageCtn>
+<Pg begin="68" end="69"/>
+</PageCtn>
+</sources>
+<xt xml:lang="deu">Schneiders Fedja, der Windbeutel, der Windbeutel, das Flatterhaar!</xt>
+</xg>
+<xg>
+<x>
+<Wd mdfId="кролань">krolań</Wd>
+<Wd edit="MK" mdfId="сёманясь">śomańäś</Wd>
+<Wd mdfId="секя">śeḱä</Wd>
+<Wd edit="MK" mdfId="цёранясь">ćorańäś</Wd>
+<tk3 isa="comma"/>
+<Wd mdfId="шары">šari͔</Wd>
+<Wd mdfId="пирянясь">ṕiŕäńäś</Wd>
+<tk3 isa="comma"/>
+<Wd mdfId="тяри">t́äŕi</Wd>
+<Wd mdfId="кудрянясь">kud́ŕä·ńäś</Wd>
+</x>
+<GeoUB edit="MK" xml:lang="mdf">
+<GeoU edit="MK">Kr</GeoU>
+</GeoUB>
+<sources>
+<book name="IV" pg="350"/>
+</sources>
+<xt xml:lang="deu">Krolas Sjoma, der einzige Sohn (seiner Eltern), der Windbeutel, das Flatterhaar!</xt>
+</xg>
+</HWB>
+<MWUB>
+<E3Head><POS pos="N"/><deriv isa="prt-I"/></E3Head>
+<lg edit="JMR" xml:lang="myv"><l pos="N"/><st/>
+</lg>
+<lg xml:lang="mdf"><l pos="N">тяри шяй</l>
+<st>тяри шяй</st>
+<PhnUBlock>
+<PhnU>
+<Wd mdfId="тяри">t́äŕi</Wd>
+<Wd mdfId="шӓй">šäj</Wd>
+</PhnU>
+<GeoUB xml:lang="mdf">
+<GeoU>P</GeoU>
+<GeoU>Kr</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">зыбкое болото</t>
+</tg>
+<tg xml:lang="deu">
+<t>bebender Sumpf</t>
+</tg>
+</mg>
+</MWUB>
+</e>
+  <e>
+<root_ref xml:lang="myv" hid="1" pos="Adv" lemma="пеле"/>
+<root_ref xml:lang="mdf" hid="1" pos="Adv" lemma="пяле"/>
+<HWB>
+<E3Head><POS/></E3Head>
+<lg edit="JMR" xml:lang="myv"><l pos="Prc"/><st/>
+</lg>
+<lg xml:lang="mdf"><l pos="Prc">пялептьф</l>
+<st>пялептьф</st>
+<PhnUBlock>
+<Chc>
+<Vrt>
+<PhnU>
+<FrCm freeType="analogy" Modification="manus"/>
+<Wd mdfId="пялептьф">ṕäĺəpt́f́</Wd>
+</PhnU>
+</Vrt>
+<Vrt>
+<PhnU src="arch">
+<Wd mdfId="пялептф">ṕäĺeptf</Wd>
+</PhnU>
+</Vrt>
+</Chc>
+<GeoUB xml:lang="mdf">
+<GeoU>P</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">начатый</t>
+</tg>
+<tg xml:lang="deu">
+<t>angebrochen</t>
+<Cm>vom Brot</Cm>
+</tg>;
+<dfQsyn1>(<See>
+<Function>Gegens.:</Function>
+<FrnTxt><Wd CyrId="шумбра">šumbra</Wd></FrnTxt>
+</See>, <FrnTxt><Wd CyrId="целай">ćelaj</Wd></FrnTxt> <cyr>[неначатый]</cyr> / unangebrochen, heil, ganz</dfQsyn1>)</mg>
+<xg>
+<x>
+<Wd mdfId="тя">t́ä</Wd>
+<Wd mdfId="кшись">kšiś</Wd>
+<Wd mdfId="пялептф">ṕäĺəptf</Wd>
+</x>
+<GeoUB xml:lang="mdf">
+<GeoU>P</GeoU>
+</GeoUB>
+<xt xml:lang="deu">Dieses Brot ist schon angebrochen.</xt>
+</xg>
+</HWB>
+</e>
+  <e>
+<root_ref xml:lang="myv" hid="1" pos="A" lemma="наксадо"/>
+<root_ref xml:lang="mdf" hid="1" pos="A" lemma="наксада"/>
+<HWB>
+<E3Head><POS/></E3Head>
+<lg xml:lang="myv"><l pos="Prc">наксадсь</l>
+<st>наксадсь</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="наксаць">naksać</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Atr</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l pos="Prc"/><st/>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">гнилой</t>
+<t edit="MK">прогнивший</t>
+<t edit="MK">истлевший</t>
+</tg>
+<tg xml:lang="deu">
+<t>faul</t>
+<t>verfault</t>
+<t>vermodert</t>
+</tg>
+</mg>
+</HWB>
+</e>
+  <e>
 <root_ref xml:lang="myv" hid="1" pos="Interj" lemma="чох"/>
 <root_ref xml:lang="mdf" hid="1" pos="Interj" lemma="чоф"/>
 <HWB>
@@ -5973,7 +6160,7 @@ Ger. <Et>лёжа</Et>]
 <GeoUB xml:lang="mdf">
 <GeoU>Pš</GeoU>
 </GeoUB>
-: <cyr>[тайное слово]</cyr> / <SubjectField>Geheimw</SubjectField>)</t>
+: <cyr>[тайное слово]</cyr> / <stylistic>Geheimw</stylistic>)</t>
 </mg>
 <xg>
 <x>
@@ -13172,7 +13359,7 @@ Ger. <Et>лёжа</Et>]
 </HWB>
 <MWUB>
 <E3Head><POS pos="N"/><deriv isa="prt-I"/></E3Head>
-<lg xml:lang="myv"><l>вижны паця</l>
+<lg xml:lang="myv"><l pos="N">вижны паця</l>
 <st>вижны паця</st>
 <PhnUBlock>
 <PhnU>
@@ -13219,7 +13406,7 @@ Ger. <Et>лёжа</Et>]
 </MWUB>
 <MWUB>
 <E3Head><POS pos="N"/><deriv isa="prt-I"/></E3Head>
-<lg xml:lang="myv"><l>вижны толга</l>
+<lg xml:lang="myv"><l pos="N">вижны толга</l>
 <st>вижны толга</st>
 <PhnUBlock>
 <Chc>
@@ -17290,7 +17477,7 @@ Ger. <Et>лёжа</Et>]
 )</mg>
 ;
 <mg>
-<t xml:lang="rus"><SubjectField>fig</SubjectField> [(переносно) утомлённый</t>
+<t xml:lang="rus"><stylistic>fig</stylistic> [(переносно) утомлённый</t>
 <TrlnCtn>
 <tg xml:lang="deu">
 <t>ermattet</t>
@@ -18806,7 +18993,7 @@ Ger. <Et>лёжа</Et>]
 </mg>
 ;
 <mg>
-<t xml:lang="rus"><SubjectField>myth</SubjectField> [повелитель(ница) земли]</t>
+<t xml:lang="rus"><domain>myth</domain> [повелитель(ница) земли]</t>
 <tg xml:lang="deu">
 <t>Beherrscher(in) der Erde</t>
 </tg>(
@@ -19186,7 +19373,7 @@ Ger. <Et>лёжа</Et>]
 )</mg>
 ;
 <mg>
-<t xml:lang="rus"><SubjectField>myth</SubjectField> [властительница села</t>
+<t xml:lang="rus"><domain>myth</domain> [властительница села</t>
 <tg xml:lang="deu">
 <t>Herrscherin über das Dorf]</t>
 </tg>(
@@ -19301,7 +19488,7 @@ Ger. <Et>лёжа</Et>]
 )</mg>
 ;
 <mg copiedFrom="preceding">
-<t xml:lang="rus"><SubjectField>myth</SubjectField> [властительница села</t>
+<t xml:lang="rus"><domain>myth</domain> [властительница села</t>
 <tg xml:lang="deu">
 <t>Herrscherin über das Dorf]</t>
 </tg>(
@@ -30264,7 +30451,7 @@ Ger. <Et>лёжа</Et>]
 </HWB>
 <MWUB>
 <E3Head><POS pos="N"/><deriv isa="prt-I"/></E3Head>
-<lg xml:lang="myv"><l>пракшны орма</l>
+<lg xml:lang="myv"><l pos="N">пракшны орма</l>
 <st>пракшны орма</st>
 <PhnUBlock>
 <PhnU>
@@ -30766,7 +30953,7 @@ Ger. <Et>лёжа</Et>]
 </HWB>
 <MWUB>
 <E3Head><POS pos="N"/><deriv isa="prt-I"/></E3Head>
-<lg xml:lang="myv"><l>пупи тикше</l>
+<lg xml:lang="myv"><l pos="N">пупи тикше</l>
 <st>пупи тикше</st>
 <PhnUBlock>
 <PhnU>
@@ -31751,7 +31938,7 @@ Ger. <Et>лёжа</Et>]
 </HWB>
 <MWUB>
 <E3Head><POS pos="N"/><deriv isa="prt-ZY"/></E3Head>
-<lg xml:lang="myv"><l>режнезь ловсо</l>
+<lg xml:lang="myv"><l pos="N">режнезь ловсо</l>
 <st>режнезь ловсо</st>
 <PhnUBlock>
 <PhnU>
@@ -32837,7 +33024,7 @@ Ger. <Et>лёжа</Et>]
 </MWUB>
 <MWUB>
 <E3Head><POS pos="N"/><deriv isa="prt-I"/></E3Head>
-<lg xml:lang="myv"><l>сими кудо</l>
+<lg xml:lang="myv"><l pos="N">сими кудо</l>
 <st>сими кудо</st>
 <PhnUBlock>
 <PhnU>
@@ -34386,7 +34573,7 @@ Ger. <Et>лёжа</Et>]
 </HWB>
 <MWUB>
 <E3Head><POS/></E3Head>
-<lg xml:lang="myv"><l>сэредиця-тарка</l>
+<lg xml:lang="myv"><l pos="N">сэредиця-тарка</l>
 <st>сэредиця-тарка</st>
 <PhnUBlock>
 <PhnU>
@@ -34486,7 +34673,7 @@ folg.]
 </HWB>
 <MWUB>
 <E3Head><POS/></E3Head>
-<lg xml:lang="myv"><l>сювсь нерь</l>
+<lg xml:lang="myv"><l pos="N">сювсь нерь</l>
 <st>сювсь нерь</st>
 <PhnUBlock>
 <PhnU>
@@ -35265,7 +35452,7 @@ folg.]
 </HWB>
 <MWUB>
 <E3Head><POS pos="N"/><deriv isa="prt-I"/></E3Head>
-<lg xml:lang="myv"><l>тапи алганжей</l>
+<lg xml:lang="myv"><l pos="N">тапи алганжей</l>
 <st>тапи алганжей</st>
 <PhnUBlock>
 <PhnU>
@@ -35479,7 +35666,7 @@ folg.]
 </HWB>
 <MWUB>
 <E3Head><POS pos="N"/><deriv isa="prt-I"/></E3Head>
-<lg xml:lang="myv"><l>тарди орма</l>
+<lg xml:lang="myv"><l pos="N">тарди орма</l>
 <st>тарди орма</st>
 <PhnUBlock>
 <Chc>
@@ -35647,7 +35834,7 @@ folg.]
 </HWB>
 <MWUB>
 <E3Head><POS pos="N"/><deriv isa="prt-ZY"/></E3Head>
-<lg xml:lang="myv"><l>теизь кедь</l>
+<lg xml:lang="myv"><l pos="N">теизь кедь</l>
 <st>теизь кедь</st>
 <PhnUBlock>
 <PhnU>
@@ -35874,7 +36061,7 @@ folg.]
 </MWUB>
 <MWUB>
 <E3Head><POS/></E3Head>
-<lg xml:lang="myv"><l>тяй-орма</l>
+<lg xml:lang="myv"><l pos="N">тяй-орма</l>
 <st>тяй-орма</st>
 <PhnUBlock>
 <PhnU>
@@ -36375,7 +36562,7 @@ folg.]
 </Vrt>
 <Vrt>
 <PhnU>
-<SubjectField>folkl</SubjectField>
+<stylistic>folkl</stylistic>
 <Wd myvId="дири">d́iŕi</Wd>
 </PhnU>
 </Vrt>
@@ -36869,7 +37056,7 @@ folg.]
 </HWB>
 <MWUB>
 <E3Head><POS pos="N"/><deriv isa="prt-I"/></E3Head>
-<lg xml:lang="myv"><l>торны чакш</l>
+<lg xml:lang="myv"><l pos="N">торны чакш</l>
 <st>торны чакш</st>
 <PhnUBlock>
 <PhnU>
@@ -36894,7 +37081,7 @@ folg.]
 </MWUB>
 <MWUB>
 <E3Head><POS pos="N"/><deriv isa="prt-I"/></E3Head>
-<lg xml:lang="myv"><l>торны тарка</l>
+<lg xml:lang="myv"><l pos="N">торны тарка</l>
 <st>торны тарка</st>
 <PhnUBlock>
 <PhnU>
@@ -37476,7 +37663,7 @@ folg.]
 </MWUB>
 <MWUB>
 <E3Head><POS pos="N"/><deriv isa="prt-I"/></E3Head>
-<lg xml:lang="myv"><l>ули-паро</l>
+<lg xml:lang="myv"><l pos="N">ули-паро</l>
 <st>ули-паро</st>
 <PhnUBlock>
 <PhnU>
@@ -39629,7 +39816,7 @@ folg.]
 </MWUB>
 <MWUB>
 <E3Head><POS pos="N"/><deriv isa="prt-I"/></E3Head>
-<lg xml:lang="myv"><l>чачи мастор</l>
+<lg xml:lang="myv"><l pos="N">чачи мастор</l>
 <st>чачи мастор</st>
 <PhnUBlock>
 <Chc>
@@ -40708,7 +40895,7 @@ folg.]
 </MWUB>
 <MWUB>
 <E3Head><POS pos="N"/><deriv isa="prt-I"/></E3Head>
-<lg xml:lang="myv"><l>чуди веьдь</l>
+<lg xml:lang="myv"><l pos="N">чуди веьдь</l>
 <st>чуди веьдь</st>
 <PhnUBlock>
 <PhnU>
@@ -41232,7 +41419,7 @@ folg.]
 </HWB>
 <MWUB>
 <E3Head><POS pos="N"/><deriv isa="vocat-KAJ"/></E3Head>
-<lg xml:lang="myv"><l>шкай-атя</l>
+<lg xml:lang="myv"><l pos="N">шкай-атя</l>
 <st>шкай-атя</st>
 <PhnUBlock>
 <PhnU>
@@ -41277,7 +41464,7 @@ folg.]
 </MWUB>
 <MWUB>
 <E3Head><POS pos="N"/><deriv isa="vocat-KAJ"/></E3Head>
-<lg xml:lang="myv"><l>шкай-баба</l>
+<lg xml:lang="myv"><l pos="N">шкай-баба</l>
 <st>шкай-баба</st>
 <PhnUBlock>
 <PhnU>
@@ -41360,7 +41547,7 @@ folg.]
 </MWUB>
 <MWUB>
 <E3Head><POS pos="N"/><deriv isa="prt-I"/></E3Head>
-<lg xml:lang="myv"><l>шки-пас</l>
+<lg xml:lang="myv"><l pos="N">шки-пас</l>
 <st>шки-пас</st>
 <PhnUBlock>
 <PhnU>
@@ -43189,7 +43376,7 @@ folg.]
 </MWUB>
 <MWUB>
 <E3Head><POS pos="N"/><deriv isa="prt-I"/></E3Head>
-<lg xml:lang="myv"><l>юты нармунь</l>
+<lg xml:lang="myv"><l pos="N">юты нармунь</l>
 <st>юты нармунь</st>
 <PhnUBlock>
 <PhnU>
@@ -43469,7 +43656,7 @@ folg.]
 </HWB>
 <MWUB>
 <E3Head><POS pos="N"/><deriv isa="prt-I"/></E3Head>
-<lg xml:lang="myv"><l>юры-яжи комадонь пал</l>
+<lg xml:lang="myv"><l pos="N">юры-яжи комадонь пал</l>
 <st>юры-яжи комадонь пал</st>
 <PhnUBlock>
 <PhnU>
@@ -44443,7 +44630,7 @@ folg.]
 </HWB>
 <MWUB>
 <E3Head><POS pos="N"/><deriv isa="prt-I"/></E3Head>
-<lg xml:lang="myv"><l>ярцы алганжей</l>
+<lg xml:lang="myv"><l pos="N">ярцы алганжей</l>
 <st>ярцы алганжей</st>
 <PhnUBlock>
 <PhnU>
@@ -44466,7 +44653,7 @@ folg.]
 </MWUB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
-<lg xml:lang="myv"><l>ярцынь кудо</l>
+<lg xml:lang="myv"><l pos="N">ярцынь кудо</l>
 <st>ярцынь кудо</st>
 <PhnUBlock>
 <PhnU>
@@ -44677,7 +44864,7 @@ folg.]
 </HWB>
 <MWUB>
 <E3Head><POS pos="N"/><deriv isa="prt-I"/></E3Head>
-<lg xml:lang="myv"><l>ёколды сан</l>
+<lg xml:lang="myv"><l pos="N">ёколды сан</l>
 <st>ёколды сан</st>
 <PhnUBlock>
 <PhnU>

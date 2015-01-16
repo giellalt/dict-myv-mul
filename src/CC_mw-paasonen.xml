@@ -403,6 +403,201 @@ dial. <Et>али</Et>
 </Etg>
 </e>
   <e>
+<root_ref xml:lang="myv" hid="1" pos="V" lemma="аштемс"/>
+<root_ref xml:lang="mdf" hid="1" pos="V" lemma="аштшәмс"/>
+<HWB>
+<E3Head><POS pos="V:Imp.2Sg"/></E3Head>
+<lg xml:lang="myv"><l pos="CC">аштәк</l>
+<st>аштәк</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="аштəк">aštək</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Nask</GeoU>
+</GeoUB>
+</PhnUBlock>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="ашк">ašk</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Kažl</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg xml:lang="mdf"><l pos="CC">ашчәк</l>
+<st>ашчәк</st>
+<PhnUBlock>
+<PhnU>
+<Wd mdfId="ашчəк">aščək</Wd>
+</PhnU>
+<GeoUB xml:lang="mdf">
+<GeoU>Čemb</GeoU>
+</GeoUB>
+</PhnUBlock>
+<PhnUBlock>
+<PhnU>
+<Wd mdfId="ашк">ašk</Wd>
+</PhnU>
+<GeoUB xml:lang="mdf">
+<GeoU>Sel</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<DerivationBlock>[urspr. Imper.]</DerivationBlock>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">если</t>
+</tg>
+<tg xml:lang="deu">
+<t>wenn</t>
+</tg>(
+<GeoUB xml:lang="myv">
+<GeoU>Kažl</GeoU>
+</GeoUB>
+)</mg>
+;
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">подожди!</t>
+<t edit="MK">постой-ка!</t>
+<t edit="MK">вперёд!</t>
+</tg>
+<tg xml:lang="deu">
+<t>warte!</t>
+<t>wart mal!</t>
+<t>wohlan!</t>
+</tg>(
+<GeoUB xml:lang="mdf">
+<GeoU>Sel</GeoU>
+</GeoUB>
+)</mg>
+<xg>
+<x>
+<Wd myvId="ашк">ašk</Wd>
+<Wd myvId="мон">mon</Wd>
+<Wd myvId="молян">moĺan</Wd>
+<tk3 isa="comma"/>
+<Wd myvId="тевсь">t́ev́ś</Wd>
+<Wd myvId="удалӓ͔">uda·lä͔</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Kažl</GeoU>
+</GeoUB>
+<xt xml:lang="deu">Wenn ich (dahin) gehe, so wird die Arbeit (Sache) gelingen!</xt>
+</xg>
+<xg>
+<x>
+<Wd mdfId="ашк">ašk</Wd>
+<Wd mdfId="явафтан">java·ftan</Wd>
+<Chc>
+<Vrt>
+<Wd mdfId="туст">tust</Wd>
+</Vrt>
+<Vrt>
+<Wd mdfId="туста">tusta</Wd>
+</Vrt>
+</Chc>
+<Wd mdfId="удомнязень">udə̑mńä·źəń</Wd>
+</x>
+<GeoUB edit="MK" xml:lang="mdf">
+<GeoU edit="MK">Sel</GeoU>
+</GeoUB>
+<sources>
+<book name="IV" pg="238"/>
+</sources>
+<xt xml:lang="deu">Wart, ich vertreibe mir den tiefen Schlaf.</xt>
+</xg>
+</HWB>
+<MWUB>
+<E3Head><POS pos="N"/><deriv isa="dim-KE"/></E3Head>
+<lg edit="JMR" xml:lang="myv"><l pos="Interj"/><st/>
+</lg>
+<lg xml:lang="mdf"><l pos="Interj">ашкя</l>
+<st>ашкя</st>
+<PhnUBlock>
+<PhnU>
+<Wd mdfId="ашкя">ašḱä</Wd>
+</PhnU>
+<GeoUB xml:lang="mdf">
+<GeoU>Sel</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">вперёд!</t>
+</tg>
+<tg xml:lang="deu">
+<t>wohlan!</t>
+</tg>
+(<dfQsyn1 rel="syn"><dfQsyn2><i><tk2>
+<Wd CyrId="ашк">ašk</Wd></tk2></i></dfQsyn2></dfQsyn1>)</mg>
+<xg>
+<x>
+<Wd mdfId="ашкя">ašḱä</Wd>
+<Wd mdfId="молян">moĺan</Wd>
+</x>
+<GeoUB xml:lang="mdf">
+<GeoU>Sel</GeoU>
+</GeoUB>
+<xt xml:lang="deu">Wohlan, ich will gehen!</xt>
+</xg>
+</MWUB>
+<MWUB>
+<E3Head><POS pos="N"/><deriv isa="prt-I"/></E3Head>
+<lg edit="JMR" xml:lang="myv"><l pos="Prc"/><st/>
+</lg>
+<lg xml:lang="mdf"><l pos="Prc">ашкәни</l>
+<st>ашкәни</st>
+<PhnUBlock>
+<PhnU>
+<Wd mdfId="ашкəни">ašḱəńi</Wd>
+</PhnU>
+<GeoUB xml:lang="mdf">
+<GeoU>Sel</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<DrvG>(<comment/><DrvStCtn><DrvSt><Wd CyrId="ашкя">ašḱä</Wd></DrvSt></DrvStCtn><fnct>+</fnct><DrvStCtn><DrvSt><Wd CyrId="ни">ńi</Wd></DrvSt></DrvStCtn>)</DrvG>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">вперёд!</t>
+</tg>
+<tg xml:lang="deu">
+<t>wohlan!</t>
+</tg>
+</mg>
+<xg>
+<x>
+<Wd mdfId="ашкəни">ašḱəńi</Wd>
+<Wd mdfId="молян">moĺan</Wd>
+</x>
+<GeoUB xml:lang="mdf">
+<GeoU>Sel</GeoU>
+</GeoUB>
+<xt xml:lang="deu">Wohlan, ich will gehen!</xt>
+</xg>
+<xg>
+<x>
+<Wd mdfId="ашкəни">ašḱəńi</Wd>
+<Wd mdfId="мон">mon</Wd>
+<Wd mdfId="молян">moĺan</Wd>
+<Wd mdfId="отьсязнь">ot́śäźń</Wd>
+<Wd mdfId="пяли">ṕäĺi</Wd>
+</x>
+<GeoUB xml:lang="mdf">
+<GeoU>Sel</GeoU>
+</GeoUB>
+<sources>
+<book name="IV" pg="160"/>
+</sources>
+<xt xml:lang="deu">Halt, ich gehe zu meinem Onkel.</xt>
+</xg>
+</MWUB>
+</e>
+  <e>
 <stem_name xml:lang="myv" hid="1" pos="CC" lemma="да"/>
 <stem_name xml:lang="mdf" hid="1" pos="" lemma="та"/>
 <HWB>
@@ -1119,7 +1314,7 @@ dial. <Et>али</Et>
 <t>dessenungeachtet</t>
 </tg>
 </mg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd myvId="а">a</Wd>
 <Wd myvId="сими">śiḿi</Wd>

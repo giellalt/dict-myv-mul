@@ -1,6 +1,1878 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="myv">
   <e>
+<root_ref xml:lang="myv" hid="2" pos="Num" lemma="сисем"/>
+<root_ref xml:lang="mdf" hid="2" pos="Num" lemma="сисем"/>
+<HWB>
+<E3Head><POS/></E3Head>
+<lg edit="JMR" xml:lang="myv"><l pos="Num"/><st/>
+</lg>
+<lg xml:lang="mdf"><l pos="Num">сисемгя</l>
+<st>сисемгя</st>
+<PhnUBlock>
+<PhnU>
+<Wd mdfId="сисемгя">śiśəmǵä</Wd>
+</PhnU>
+<GeoUB xml:lang="mdf">
+<GeoU>Čemb</GeoU>
+<GeoU>Kr</GeoU>
+<GeoU>Kars</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<DrvG>(<Cx vl="prolative"/>)</DrvG>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">семь раз</t>
+</tg>
+<tg xml:lang="deu">
+<t>siebenmal</t>
+</tg>
+</mg>
+<xg>
+<x>
+<Wd mdfId="кона">kona</Wd>
+<Wd mdfId="сюдуф">śuduf</Wd>
+<tk3 isa="comma"/>
+<Wd mdfId="ся">śä</Wd>
+<Wd mdfId="сисемгя">śiśəmǵä</Wd>
+<Wd mdfId="ёмбланяста">jomblańasta</Wd>
+<Wd mdfId="əрьвяяза">əŕv́ä·jaza</Wd>
+</x>
+<GeoUB xml:lang="mdf">
+<GeoU>Kars</GeoU>
+</GeoUB>
+<sources>
+<book name="IV" pg="78"/>
+</sources>
+<xt xml:lang="deu">Wer verflucht (sein will), der möge siebenmal als kleines (Kind) heiraten.</xt>
+</xg>
+<xg>
+<x>
+<Wd mdfId="сисемгяня">śiśəmǵä·ńä</Wd>
+<Wd mdfId="сюдуф">śuduf</Wd>
+</x>
+<GeoUB xml:lang="mdf">
+<GeoU>Kr</GeoU>
+</GeoUB>
+<xt xml:lang="deu">[Siebenmal verflucht].</xt>
+</xg>
+</HWB>
+</e>
+  <e>
+<root_ref xml:lang="myv" hid="2" pos="Num" lemma="сисем"/>
+<root_ref xml:lang="mdf" hid="2" pos="Num" lemma="сисем"/>
+<HWB>
+<E3Head><POS/></E3Head>
+<lg edit="JMR" xml:lang="myv"><l pos="Num"/><st/>
+</lg>
+<lg xml:lang="mdf"><l pos="Num">сисемксть</l>
+<st>сисемксть</st>
+<PhnUBlock>
+<PhnU>
+<Wd mdfId="сисемксть">śiśemkśt́</Wd>
+</PhnU>
+<GeoUB edit="MK" xml:lang="mdf">
+<GeoU edit="MK">P</GeoU>
+</GeoUB>
+</PhnUBlock>
+<PhnUBlock>
+<PhnU>
+<Wd mdfId="сизексть">śiźəkśt́</Wd>
+</PhnU>
+<GeoUB xml:lang="mdf">
+<GeoU>Sel</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">семь раз</t>
+</tg>
+<tg xml:lang="deu">
+<t>siebenmal</t>
+</tg>
+</mg>
+<xg>
+<x>
+<Wd mdfId="комсь">komś</Wd>
+<Wd mdfId="сисиксть">śiśikśt́</Wd>
+<Wd mdfId="эряви">eŕäv́i</Wd>
+<Wd mdfId="морафтомс">moraftə̑ms</Wd>
+</x>
+<GeoUB xml:lang="mdf">
+<GeoU>Sel</GeoU>
+</GeoUB>
+<sources>
+<book name="IV" pg="763"/>
+</sources>
+<xt xml:lang="deu">[Der Zauberspruch] muss siebenundzwanzigmal gesprochen werden.</xt>
+</xg>
+</HWB>
+</e>
+  <e>
+<root_ref xml:lang="myv" hid="2" pos="Num" lemma="сисем"/>
+<root_ref xml:lang="mdf" hid="2" pos="Num" lemma="сисем"/>
+<HWB>
+<E3Head><POS pos="N"/><deriv isa="dim-KE"/></E3Head>
+<lg edit="JMR" xml:lang="myv"><l pos="Num"/><st/>
+</lg>
+<lg xml:lang="mdf"><l pos="Num">сисемцькя</l>
+<st>сисемцькя</st>
+<PhnUBlock>
+<PhnU>
+<Wd mdfId="сисемцькя">śiśəmćḱä</Wd>
+</PhnU>
+<GeoUB xml:lang="mdf">
+<GeoU/>
+</GeoUB>
+</PhnUBlock>
+<PhnUBlock>
+<PhnU>
+<Wd mdfId="сиси·мцькя">śiśi·mćḱä</Wd>
+</PhnU>
+<GeoUB xml:lang="mdf">
+<GeoU>Sel</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">все семеро</t>
+</tg>
+<tg xml:lang="deu">
+<t edit="MK">alle sieben</t>
+</tg>
+</mg>
+;
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">все семь раз</t>
+</tg>
+<tg xml:lang="deu">
+<t>alle sieben Mal</t>
+</tg>
+</mg>
+<xg>
+<x>
+<Wd mdfId="кафксть">kafkśt́</Wd>
+<Wd mdfId="яфодезь">jafə̑d́əź</Wd>
+<tk3 isa="comma"/>
+<Wd mdfId="керезн">ḱeŕəźn</Wd>
+<Wd mdfId="сиси·мтськя">śiśi·mtśḱä</Wd>
+<Wd mdfId="прянзн">pŕanzn</Wd>
+</x>
+<GeoUB xml:lang="mdf">
+<GeoU>Sel</GeoU>
+</GeoUB>
+<sources>
+<book name="IV" pg="811"/>
+</sources>
+<xt xml:lang="deu">Zweimal schlagend hieb er alle ihre sieben Köpfe ab.</xt>
+</xg>
+</HWB>
+</e>
+  <e>
+<root_name xml:lang="myv" hid="2" pos="Num" lemma="сисем"/>
+<root_name xml:lang="mdf" hid="2" pos="Num" lemma="сисем"/>
+<HWB>
+<E3Head><POS/></E3Head>
+<lg xml:lang="myv"><l pos="Num">сисем</l>
+<st>сисем</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="сись̀эм">śiś̀em</Wd>
+</PhnU>
+<sources>
+<book name="Chr" xml:lang="myv"/>
+</sources>
+</PhnUBlock>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="сисем">śiśem</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Mar</GeoU>
+<GeoU>Jeg</GeoU>
+</GeoUB>
+</PhnUBlock>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="сиси·м">śiśi·m</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Ba</GeoU>
+</GeoUB>
+</PhnUBlock>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="сисим">śiśiḿ</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Kal</GeoU>
+</GeoUB>
+</PhnUBlock>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="сисьᴉм">śiśᴉḿ</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Kažl</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg xml:lang="mdf"><l pos="Num">сисем</l>
+<st>сисем</st>
+<PhnUBlock>
+<PhnU>
+<Wd mdfId="сись̀əм">śiś̀əḿ</Wd>
+</PhnU>
+<sources>
+<book name="Chr" xml:lang="mdf"/>
+</sources>
+<sources>
+<book name="FS" pg="40" xml:lang="mdf"/>
+</sources>
+</PhnUBlock>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">семь</t>
+</tg>
+<tg xml:lang="deu">
+<t>sieben</t>
+</tg>
+</mg>
+<xg>
+<x>
+<Wd myvId="сон">son</Wd>
+<Wd myvId="сисем">śiśem</Wd>
+<Wd myvId="цёрат">ćorat</Wd>
+<Wd myvId="чачтокшнось">čačtokšnoś</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Mar</GeoU>
+</GeoUB>
+<sources>
+<book name="1" pg="12"/>
+</sources>
+<xt xml:lang="deu">Sie gebar sieben Söhne.</xt>
+</xg>
+<xg>
+<x>
+<Wd myvId="сисем">śiśem</Wd>
+<Wd myvId="цёра">ćora</Wd>
+<Hph edit="MK"/>
+<Wd myvId="тяканзо">t́akanzo</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Jeg</GeoU>
+</GeoUB>
+<sources>
+<book name="1" pg="106"/>
+</sources>
+<xt xml:lang="deu">Er hat sieben Söhne.</xt>
+</xg>
+<xg>
+<x>
+<Chc>
+<Vrt>
+<Wd myvId="пирьгим">ṕiŕǵiḿ</Wd>
+</Vrt>
+<Vrt>
+<Wd myvId="пирьгиме">ṕiŕǵiḿe</Wd>
+</Vrt>
+</Chc>
+<Hph edit="MK"/>
+<Wd myvId="инязурс">ińazurs</Wd>
+<Wd myvId="лединзэ">ĺed́inze͔</Wd>
+<Wd myvId="сисим">śiśiḿ</Wd>
+<Wd myvId="костирхнынь">kośt́irʿni͔ń</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Kal</GeoU>
+</GeoUB>
+<sources>
+<book name="2" pg="137"/>
+</sources>
+<xt xml:lang="deu">Fürst Pirgime hatte jene sieben Scheiterhaufen erschossen.</xt>
+</xg>
+</HWB>
+<MWUB>
+<E3Head><POS/></E3Head>
+<lg xml:lang="myv"><l pos="A">сисем-иесэ</l>
+<st>сисем-иесэ</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="сись̀эм">śiś̀em</Wd>
+<Hph/>
+<Wd myvId="иес̀э">ijes̀e͔</Wd>
+</PhnU>
+<sources>
+<book name="Chr" xml:lang="myv"/>
+</sources>
+</PhnUBlock>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="сисем">śiśem</Wd>
+<Wd myvId="иесэ">ijese͔</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Mar</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">семилетний</t>
+</tg>
+<tg xml:lang="deu">
+<t>siebenjährig</t>
+</tg>
+</mg>
+<xg>
+<x>
+<Wd myvId="вана">vana</Wd>
+<Wd myvId="тыненк">ti͔ńeŋḱ</Wd>
+<Wd myvId="алстынь">alsti͔ń</Wd>
+<Wd myvId="сисем">śiśem</Wd>
+<Wd myvId="иесэ">ijese͔</Wd>
+<Wd myvId="бука">buka</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Mar</GeoU>
+</GeoUB>
+<sources>
+<book name="2" pg="1"/>
+</sources>
+<xt xml:lang="deu">Sehet, ich habe euch einen siebenjährigen Ochsen versprochen.</xt>
+</xg>
+</MWUB>
+<MWUB>
+<E3Head><POS/></E3Head>
+<lg xml:lang="myv"><l pos="Adv">сисемкирда</l>
+<st>сисемкирда</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="сисемкирда">śiśemḱirda</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>SŠant</GeoU>
+</GeoUB>
+</PhnUBlock>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="сисемкирдаш">śiśemḱirdaš</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Is</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l pos="N"/><st/>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<t>сычуг</t>
+</tg>
+<tg xml:lang="deu">
+<t>Labmagen</t>
+<t>Käsemagen</t>
+</tg>
+<dfQsyn1>(<See>
+<Function>vgl.</Function>
+<FrnTxt><Wd CyrId="кото">kot̀o</Wd></FrnTxt>
+</See>: <FrnTxt><Wd CyrId="котонькирда">kotońḱirda</Wd></FrnTxt> usw.</dfQsyn1>)</mg>
+</MWUB>
+<MWUB>
+<E3Head><POS/></E3Head>
+<lg xml:lang="myv"><l pos="Prop">сисем озяст</l>
+<st>сисем озяст</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="сисем">śiśem</Wd>
+<Wd myvId="озяст">oźast</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Is</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l pos="Prop"/><st/>
+</lg>
+<mg>
+<Nx vl="Pl:MK"/>
+<tg xml:lang="rus">
+<t edit="MK">большая Медведица</t>
+</tg>
+<tg xml:lang="deu">
+<t>der Grosse Bär (Gestirn)</t>
+</tg>
+</mg>
+</MWUB>
+<MWUB>
+<E3Head><POS/></E3Head>
+<lg xml:lang="myv"><l pos="A">сисем прямо</l>
+<st>сисем прямо</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="сись̀эм">śiś̀em</Wd>
+<Wd myvId="прямо">ṕŕamo</Wd>
+</PhnU>
+<sources>
+<book name="Chr" xml:lang="myv"/>
+</sources>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">семиглавый</t>
+</tg>
+<tg xml:lang="deu">
+<t>siebenköpfig</t>
+</tg>
+</mg>
+</MWUB>
+<MWUB>
+<E3Head><POS/></E3Head>
+<lg xml:lang="myv"><l pos="A">сисем прясо</l>
+<st>сисем прясо</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="сисем">śiśem</Wd>
+<Chc>
+<Vrt>
+<Wd myvId="пря">pŕa</Wd>
+</Vrt>
+<Vrt>
+<Wd myvId="прясо">pŕaso</Wd>
+</Vrt>
+</Chc>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Mar</GeoU>
+</GeoUB>
+</PhnUBlock>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="сисим">śiśiḿ</Wd>
+<Chc>
+<Vrt>
+<Wd myvId="пря">ṕŕa</Wd>
+</Vrt>
+<Vrt>
+<Wd myvId="пряса">ṕŕasa</Wd>
+</Vrt>
+</Chc>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Kal</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">семиглавый</t>
+</tg>
+<tg xml:lang="deu">
+<t>siebenköpfig</t>
+</tg>
+</mg>
+<xg>
+<x>
+<Wd myvId="сон">son</Wd>
+<Wd myvId="пек">ṕeḱ</Wd>
+<Wd myvId="пельсь">ṕeĺś</Wd>
+<Wd myvId="сисим">śiśiḿ</Wd>
+<Wd myvId="прень">ṕŕeń</Wd>
+<Wd myvId="карязт">kaŕazt</Wd>
+<Wd myvId="жівалгадуматес">živalgadumat́es</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Kal</GeoU>
+</GeoUB>
+<sources>
+<book name="2" pg="137"/>
+</sources>
+<xt xml:lang="deu">Er hatte sehr gefürchtet, dass der siebenköpfige Karjas wieder lebendig würde.</xt>
+</xg>
+<xg>
+<x>
+<Wd myvId="кармась">karmaś</Wd>
+<Wd myvId="сисем">śiśem</Wd>
+<Wd myvId="прясо">ṕŕaso</Wd>
+<Wd myvId="гуй">guj</Wd>
+<Wd myvId="само">samo</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Mar</GeoU>
+</GeoUB>
+<sources>
+<book name="2" pg="122"/>
+</sources>
+<xt xml:lang="deu">Die siebenköpfige Schlange fing an zu kommen.</xt>
+</xg>
+<xg>
+<x>
+<Wd myvId="ат">at</Wd>
+<Wd myvId="васула">vasula</Wd>
+<Wd myvId="мазэ">maze͔</Wd>
+<Wd myvId="дамайтес">damajt́es</Wd>
+<Wd myvId="эресь">eŕeś</Wd>
+<Wd myvId="сисим">śiśiḿ</Wd>
+<Wd myvId="пряса">ṕŕasa</Wd>
+<Wd myvId="каряс">kaŕas</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Kal</GeoU>
+</GeoUB>
+<sources>
+<book name="2" pg="135"/>
+</sources>
+<xt xml:lang="deu">Nicht weit von dem schönen Damaj lebte der siebenköpfige Karjas.</xt>
+</xg>
+</MWUB>
+<MWUB>
+<E3Head><POS/></E3Head>
+<lg xml:lang="myv"><l pos="N">сисем сялгума</l>
+<st>сисем сялгума</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="сисем">śiśem</Wd>
+<Wd myvId="сялгума">śalguma</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>VVr</GeoU>
+<GeoU>Is</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l pos="N"/><st/>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">вышивка впереди на рубашке</t>
+</tg>
+<t xml:lang="deu">eine Stickerei vorn am Hemde, oberhalb der <FrnTxt><Wd CyrId="эльзире">eĺźiŕe</Wd></FrnTxt>-Stickerei</t>
+</mg>
+</MWUB>
+<MWUB>
+<E3Head><POS/></E3Head>
+<lg xml:lang="myv"><l pos="Prop">сисем тешть</l>
+<st>сисем тешть</st>
+<PhnUBlock>
+<Chc>
+<Vrt>
+<PhnU>
+<Wd myvId="сисем">śiśem</Wd>
+<Wd myvId="тешть">t́ešt́</Wd>
+</PhnU>
+</Vrt>
+<Vrt>
+<PhnU>
+<Wd myvId="сисем">śiśem</Wd>
+<Wd myvId="дешть">d́ešt́</Wd>
+</PhnU>
+</Vrt>
+</Chc>
+<GeoUB xml:lang="myv">
+<GeoU>Večk</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg xml:lang="mdf"><l pos="Prop">сисем тяштть</l>
+<st>сисем тяштть</st>
+<PhnUBlock>
+<PhnU>
+<Wd mdfId="сисем">śiśəm</Wd>
+<Wd mdfId="тяштть">t́äšt́t́</Wd>
+</PhnU>
+<GeoUB xml:lang="mdf">
+<GeoU>Čemb</GeoU>
+</GeoUB>
+</PhnUBlock>
+<PhnUBlock>
+<PhnU>
+<Wd mdfId="сисем">śiśəm</Wd>
+<Wd mdfId="тяшчəт">t́äščət</Wd>
+</PhnU>
+<GeoUB xml:lang="mdf">
+<GeoU>Ur</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<mg>
+<Nx vl="plural"/>
+<tg xml:lang="rus">
+<t>семизвездие</t>
+<Cm>созвездие</Cm>
+</tg>
+<tg xml:lang="deu">
+<t>der Grosse Bär (Gestirn)</t>
+<t>Plejaden</t>
+</tg>
+(<dfQsyn1 rel="syn"><dfQsyn2><i><tk2>
+<Wd CyrId="сисем">śiśem</Wd>
+<Wd CyrId="озяст">oźast</Wd></tk2></i></dfQsyn2>
+<GeoUB xml:lang="myv">
+<GeoU>Is</GeoU>
+</GeoUB>
+</dfQsyn1>,
+<dfQsyn1 rel="syn"><dfQsyn2><i><tk2>
+<Wd CyrId="озяскить">oźa·sḱit́</Wd></tk2></i></dfQsyn2>
+<GeoUB xml:lang="myv">
+<GeoU>Ba</GeoU>
+</GeoUB>
+</dfQsyn1>,
+<dfQsyn1 rel="syn"><dfQsyn2><i><tk2>
+<Wd CyrId="лость">lośt́</Wd></tk2></i></dfQsyn2>
+<GeoUB xml:lang="myv">
+<GeoU>Ba</GeoU>
+</GeoUB>
+</dfQsyn1>,
+<dfQsyn1 rel="syn"><dfQsyn2><i><tk2>
+<Wd CyrId="курьцякс">kuŕćaks</Wd>
+<Hph/>
+<Wd CyrId="парь">paŕ</Wd></tk2></i></dfQsyn2>
+<GeoUB xml:lang="myv">
+<GeoU>VVr</GeoU>
+</GeoUB>
+</dfQsyn1>,
+<dfQsyn1 rel="syn"><dfQsyn2><i><tk2>
+<Wd CyrId="кечə·ня">ḱečə·ńä</Wd></tk2></i></dfQsyn2>
+<GeoUB xml:lang="mdf">
+<GeoU>MdJurtk</GeoU>
+</GeoUB>
+</dfQsyn1>)</mg>
+</MWUB>
+<MWUB>
+<E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
+<lg xml:lang="myv"><l pos="Num">сизьгемень</l>
+<st>сизьгемень</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="сизьгемень">śiźǵeḿeń</Wd>
+</PhnU>
+<sources>
+<book name="Chr" xml:lang="myv"/>
+</sources>
+<GeoUB xml:lang="myv">
+<GeoU>Mar</GeoU>
+</GeoUB>
+</PhnUBlock>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="сизьгямᴉнь">śiźǵä·mᴉń</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Ba</GeoU>
+</GeoUB>
+</PhnUBlock>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="сизьгеминь">śiźǵeḿiń</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Kad</GeoU>
+<GeoU>Kal</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg xml:lang="mdf"><l pos="Num">сезьгемәнь</l>
+<st>сезьгемәнь</st>
+<PhnUBlock>
+<PhnU>
+<Wd mdfId="сезьге·мəнь">śəźǵe·məń</Wd>
+</PhnU>
+<sources>
+<book name="Chr" xml:lang="mdf"/>
+</sources>
+<GeoUB xml:lang="mdf">
+<GeoU>P</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">семьдесят</t>
+</tg>
+<tg xml:lang="deu">
+<t>siebzig</t>
+</tg>
+</mg>
+<xg>
+<x>
+<Wd myvId="сизьгемень">śiźǵeḿeń</Wd>
+<Wd myvId="одижат">od́ižat</Wd>
+<Wd myvId="ланксонзо">laŋksonzo</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Mar</GeoU>
+</GeoUB>
+<sources>
+<book name="2" pg="46"/>
+</sources>
+<xt xml:lang="deu">Siebzig Kleidungen hat es an.</xt>
+</xg>
+</MWUB>
+<MWUB>
+<E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
+<lg xml:lang="myv"><l pos="N">сизьгеминь карта</l>
+<st>сизьгеминь карта</st>
+<PhnUBlock>
+<Chc>
+<Vrt>
+<PhnU>
+<Wd myvId="сизьгеминь">śiźǵeḿiń</Wd>
+<Wd myvId="карта">karta</Wd>
+</PhnU>
+</Vrt>
+<Vrt>
+<PhnU>
+<Wd myvId="сизьге·минь">śiźǵe·ḿiń</Wd>
+<Wd myvId="кархта">karʿta·</Wd>
+</PhnU>
+</Vrt>
+<Vrt><PhnU>
+<Wd myvId="сизьге·минь">śiźǵe·ḿiń</Wd>
+<Wd myvId="гархта">garʿta·</Wd>
+<Hph/>
+</PhnU>
+</Vrt>
+</Chc>
+<GeoUB xml:lang="myv">
+<GeoU>Kad</GeoU>
+</GeoUB>
+</PhnUBlock>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="сизьге·минь">śiźǵe·ḿiń</Wd>
+<Wd myvId="кархта">karʿta</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Kal</GeoU>
+</GeoUB>
+<InflB>
+<InflCtn>
+<InflTags tag="+Pl+Nom+Indef"/>
+<Infl><Wd myvId="сизьге·минь">śiźǵe·ḿiń</Wd>
+<Wd myvId="кархтат">karʿtat</Wd>
+</Infl>
+</InflCtn>
+</InflB>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l pos="N"/><st/>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<t>сычуг</t>
+</tg>
+<tg xml:lang="deu">
+<t>Labmagen</t>
+<t>Käsemagen (der Kuh)</t>
+</tg>
+</mg>
+</MWUB>
+<MWUB>
+<E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
+<lg xml:lang="myv"><l pos="Num">сизьгемень сисем</l>
+<st>сизьгемень сисем</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="сизьгемень">śiźǵeḿeń</Wd>
+<Wd myvId="сисем">śiśem</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Mar</GeoU>
+</GeoUB>
+</PhnUBlock>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="сизьгеминь">śiźǵeḿiń</Wd>
+<Wd myvId="сисим">śiśiḿ</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Kal</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l pos="Num"/><st/>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">семьдесят семь</t>
+</tg>
+<tg xml:lang="deu">
+<t>siebenundsiebzig</t>
+</tg>
+</mg>
+<xg>
+<x>
+<Wd edit="MK" myvId="сизьгемень">śiźǵeḿeń</Wd>
+<Wd myvId="сисем">śiśem</Wd>
+<Wd myvId="плашчасот">plaščasot</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Mar</GeoU>
+</GeoUB>
+<sources>
+<book name="1" pg="192"/>
+</sources>
+<xt xml:lang="deu">Mit siebenundsiebzig Metallplatten sind sie (geschmückt).</xt>
+</xg>
+<xg>
+<x>
+<Chc>
+<Vrt>
+<Wd myvId="ниль">ńiĺ</Wd>
+</Vrt>
+<Vrt>
+<Wd myvId="ниле">ńiĺe</Wd>
+</Vrt>
+</Chc>
+<Wd myvId="уголцо">ugolco</Wd>
+<tk3 isa="comma"/>
+<Wd myvId="сизьгемень">śiźǵeḿeń</Wd>
+<Wd myvId="сисем">śiśem</Wd>
+<Wd myvId="эзнесэ">eźńese͔</Wd>
+<tk3 isa="comma"/>
+<Wd myvId="весе">v́eśe</Wd>
+<Wd myvId="долкись">dolḱiś</Wd>
+<Wd myvId="ланксонзо">laŋksonzo</Wd>
+<tk3 isa="fullstop"/>
+<Wd myvId="–">–</Wd>
+<Wd myvId="шчоткатне">ščotkat́ńe</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Mar</GeoU>
+</GeoUB>
+<sources>
+<book name="2" pg="47"/>
+</sources>
+<xt xml:lang="deu">Viereckig, mit siebenundsiebzig Gelenken, alle Schulden liegen auf ihm. – Die Bürste.</xt>
+</xg>
+<xg>
+<x>
+<Wd myvId="монь">moń</Wd>
+<Wd myvId="сизьгеминь">śiźǵeḿiń</Wd>
+<Wd myvId="сисим">śiśiḿ</Wd>
+<Wd myvId="пьревим">ṕŕev́iḿ</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Kal</GeoU>
+</GeoUB>
+<sources>
+<book name="2" pg="143"/>
+</sources>
+<xt xml:lang="deu">Ich habe siebenundsiebzig Auswege.</xt>
+</xg>
+</MWUB>
+<MWUB>
+<E3Head><POS/></E3Head>
+<lg xml:lang="myv"><l pos="Num">сисемсят</l>
+<st>сисемсят</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="сисемсят">śiśemśat</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Mar</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg xml:lang="mdf"><l pos="Num">сисем-сят</l>
+<st>сисем-сят</st>
+<PhnUBlock>
+<PhnU>
+<Wd mdfId="сись̀əм">śiś̀əḿ</Wd>
+<Hph/>
+<Wd mdfId="сят̄">śat̄</Wd>
+</PhnU>
+<sources>
+<book name="Chr"/>
+<LanguageCtn>
+<Language edit="MK" xml:lang="mdf"/>
+</LanguageCtn>
+</sources>
+</PhnUBlock>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">семьсот</t>
+</tg>
+<tg xml:lang="deu">
+<t>siebenhundert</t>
+</tg>
+</mg>
+<xg>
+<x>
+<Wd myvId="вишкинка">v́išḱiŋka</Wd>
+<Wd myvId="ошнесэ">ošńese͔</Wd>
+<Wd myvId="сисемсят">śiśemśat</Wd>
+<Wd myvId="казак">kazak</Wd>
+<Wd myvId="турить">tuŕit́</Wd>
+<tk3 isa="fullstop"/>
+<Wd myvId="–">–</Wd>
+<Wd myvId="мако">mako</Wd>
+<Hph edit="MK"/>
+<Wd myvId="прясь">ṕŕäś</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Mar</GeoU>
+</GeoUB>
+<sources>
+<book name="2" pg="73"/>
+</sources>
+<xt xml:lang="deu">In einem kleinen Städtchen balgen sich siebenhundert Kosaken. – Der Mohnkopf.</xt>
+</xg>
+</MWUB>
+</e>
+  <e>
+<root_ref xml:lang="myv" hid="2" pos="Num" lemma="сисем"/>
+<root_ref xml:lang="mdf" hid="2" pos="Num" lemma="сисем"/>
+<HWB>
+<E3Head><POS/></E3Head>
+<lg xml:lang="myv"><l pos="Num">сисеменст</l>
+<st>сисеменст</st>
+<PhnUBlock>
+<Chc>
+<Vrt>
+<PhnU>
+<Wd myvId="сисеменст">śiśeḿenst</Wd>
+</PhnU>
+</Vrt>
+<Vrt>
+<PhnU>
+<Wd myvId="сисе·минст">śiśe·ḿinst</Wd>
+</PhnU>
+</Vrt>
+</Chc>
+<GeoUB xml:lang="myv">
+<GeoU>Mar</GeoU>
+</GeoUB>
+</PhnUBlock>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="сисеменст">śiśeḿenst</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Večk</GeoU>
+</GeoUB>
+</PhnUBlock>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="сиси·минст">śiśi·ḿinst</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Ba</GeoU>
+</GeoUB>
+</PhnUBlock>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="сисеминкст">śiśeḿinkst</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>VVr</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg xml:lang="mdf"><l pos="Num">сисемәнцт</l>
+<st>сисемәнцт</st>
+<PhnUBlock>
+<PhnU>
+<Wd mdfId="сисемонцт">śiśəmə̑nct</Wd>
+</PhnU>
+<GeoUB xml:lang="mdf">
+<GeoU>Ur</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<t>семеро</t>
+</tg>
+<tg xml:lang="deu">
+<t>sieben</t>
+<Cm>an der Zahl</Cm>
+</tg>
+</mg>
+;
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">семь пар (о парных предметах)</t>
+</tg>
+<tg xml:lang="deu">
+<t>sieben Paare (von paarweisen Dingen)</t>
+</tg>
+<dfQl1>(
+<GeoUB xml:lang="myv">
+<GeoU>Mar</GeoU>
+<GeoU>Večk</GeoU>
+</GeoUB>
+)</dfQl1>
+</mg>
+;
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">в седьмой раз</t>
+</tg>
+<tg xml:lang="deu">
+<t>zum siebenten Mal</t>
+</tg>
+<dfQl1>(
+<GeoUB xml:lang="myv">
+<GeoU>Mar</GeoU>
+</GeoUB>
+)</dfQl1>
+</mg>
+<xg>
+<x>
+<Wd myvId="монь">moń</Wd>
+<Wd myvId="улить">uĺit́</Wd>
+<Wd myvId="понксон">poŋkson</Wd>
+<Wd myvId="сисеменст">śiśeḿenst</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Mar</GeoU>
+</GeoUB>
+<xt xml:lang="deu">Ich habe sieben [Paar] Hosen.</xt>
+</xg>
+<xg>
+<x>
+<Wd myvId="монь">moń</Wd>
+<Wd myvId="улить">uĺit́</Wd>
+<Wd myvId="панарон">panaron</Wd>
+<Wd myvId="сисеменст">śiśeḿenst</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Mar</GeoU>
+</GeoUB>
+<xt xml:lang="deu">Ich habe Hemden für sieben Anzüge.</xt>
+</xg>
+</HWB>
+</e>
+  <e>
+<root_ref xml:lang="myv" hid="2" pos="Num" lemma="сисем"/>
+<root_ref xml:lang="mdf" hid="2" pos="Num" lemma="сисем"/>
+<HWB>
+<E3Head><POS/></E3Head>
+<lg xml:lang="myv"><l pos="Num">сисемценст</l>
+<st>сисемценст</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="сисемценст">śiśemćenst</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Večk</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg xml:lang="mdf"><l pos="Num">сисемценцт</l>
+<st>сисемценцт</st>
+<PhnUBlock>
+<PhnU>
+<Wd mdfId="сисемценцт">śiśəmćənct</Wd>
+</PhnU>
+<GeoUB xml:lang="mdf">
+<GeoU>Ur</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">? седьмая пара (о парных вещах)</t>
+</tg>
+<tg xml:lang="deu">
+<t edit="MK">? das siebente Paar (von paarweisen Dingen)</t>
+</tg>
+</mg>
+</HWB>
+</e>
+  <e>
+<root_name xml:lang="myv" hid="2" pos="Num" lemma="сядо"/>
+<root_name xml:lang="mdf" hid="2" pos="Num" lemma="сяда"/>
+<HWB>
+<E3Head><POS/></E3Head>
+<lg xml:lang="myv"><l pos="Num">сядо</l>
+<st>сядо</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="сядо">śado</Wd>
+</PhnU>
+<sources>
+<book name="Chr" xml:lang="myv"/>
+</sources>
+</PhnUBlock>
+<PhnUBlock>
+<Chc>
+<Vrt>
+<PhnU>
+<Wd myvId="сядо">śado</Wd>
+</PhnU>
+</Vrt>
+<Vrt>
+<PhnU>
+<Wd myvId="сядӑ">śadă</Wd>
+</PhnU>
+</Vrt>
+</Chc>
+<sources>
+<book name="FS" pg="30" xml:lang="myv"/>
+</sources>
+</PhnUBlock>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="сядо">śado</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Mar</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg xml:lang="mdf"><l pos="Num">сяда</l>
+<st>сяда</st>
+<PhnUBlock>
+<PhnU>
+<Wd mdfId="сядӑ">śadă</Wd>
+</PhnU>
+<sources>
+<book name="Chr" xml:lang="mdf"/>
+</sources>
+<GeoUB xml:lang="mdf">
+<GeoU>P</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">сто</t>
+</tg>
+<tg xml:lang="deu">
+<t>hundert</t>
+</tg>
+</mg>
+<xg>
+<x>
+<Wd myvId="тон">ton</Wd>
+<Wd myvId="сядо">śado</Wd>
+<Wd myvId="ютксто">jutksto</Wd>
+<Wd myvId="кочказят">kočkaźat</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Mar</GeoU>
+</GeoUB>
+<sources>
+<book name="1" pg="140"/>
+</sources>
+<xt xml:lang="deu">Du bist unter Hundert ausgewählt [worden].</xt>
+</xg>
+<xg>
+<x>
+<Wd myvId="сядо">śado</Wd>
+<Wd myvId="валкс">valks</Wd>
+<Wd myvId="ярмак">jarmak</Wd>
+<Wd myvId="теть">t́et́</Wd>
+<Wd myvId="ёвтан">jovtan</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Mar</GeoU>
+</GeoUB>
+<sources>
+<book name="2" pg="5"/>
+</sources>
+<xt xml:lang="deu">Ich weihe dir hundert Rubel Geld.</xt>
+</xg>
+<xg>
+<x>
+<Wd myvId="ней">ńej</Wd>
+<Wd myvId="сядо">śado</Wd>
+<Wd myvId="ютась">jutaś</Wd>
+<Wd myvId="эстенек">eśt́eńeḱ</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Mar</GeoU>
+</GeoUB>
+<sources>
+<book name="1" pg="54"/>
+</sources>
+<xt xml:lang="deu">Ja, hundert (Rubel) sind für mich aufgegangen [? Ja, hundert (Burschen) sind an uns(erem Hause) vorübergegangen].</xt>
+</xg>
+<xg>
+<x>
+<Wd myvId="вай">vaj</Wd>
+<Wd myvId="сядонь">śadoń</Wd>
+<Wd myvId="нешкень">ńešḱeń</Wd>
+<Wd myvId="кирдитне">ḱiŕd́it́ńe</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Mar</GeoU>
+</GeoUB>
+<sources>
+<book name="1" pg="122"/>
+</sources>
+<xt xml:lang="deu">Sie sind Züchter von hundert Bienenkörben.</xt>
+</xg>
+<xg>
+<x>
+<Wd myvId="а">a</Wd>
+<Wd myvId="сядосо">śadoso</Wd>
+<Wd myvId="вешчанок">v́eščanok</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Mar</GeoU>
+</GeoUB>
+<sources>
+<book name="1" pg="134"/>
+</sources>
+<xt xml:lang="deu">Wir fordern nicht [Rubel in] Hundertzahlen.</xt>
+</xg>
+</HWB>
+<MWUB>
+<E3Head><POS/></E3Head>
+<lg edit="JMR" xml:lang="myv"><l pos="Qnt"/><st/>
+</lg>
+<lg xml:lang="mdf"><l pos="Qnt">сяда пяля</l>
+<st>сяда пяля</st>
+<PhnUBlock>
+<PhnU>
+<Wd mdfId="сяда">śada</Wd>
+<Wd mdfId="пяля">ṕäĺä</Wd>
+</PhnU>
+<GeoUB xml:lang="mdf">
+<GeoU>P</GeoU>
+</GeoUB>
+</PhnUBlock>
+<PhnUBlock>
+<PhnU>
+<Wd mdfId="сядот">śadə̑t</Wd>
+<Wd mdfId="пялет">ṕäĺet</Wd>
+</PhnU>
+<GeoUB xml:lang="mdf">
+<GeoU>Temn</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">полтораста</t>
+</tg>
+<tg xml:lang="deu">
+<t>anderthalb hundert</t>
+</tg>
+</mg>
+<xg>
+<x>
+<Wd mdfId="сядот">śadə̑t</Wd>
+<Wd mdfId="пялет">ṕäĺet</Wd>
+<Wd mdfId="нешкя">ńešḱä</Wd>
+<Wd mdfId="эсонза">esə̑nza</Wd>
+</x>
+<GeoUB xml:lang="mdf">
+<GeoU>Temn</GeoU>
+</GeoUB>
+<sources>
+<book name="VIII" pg="276"/>
+</sources>
+<xt xml:lang="deu">(Da gab es) anderthalb hundert Bienenstöcke.</xt>
+</xg>
+<xg>
+<x>
+<Wd mdfId="вири">v́iŕi</Wd>
+<Wd mdfId="кадонцть">kadə̑nct́</Wd>
+<Wd mdfId="сядонь">śadə̑ń</Wd>
+<Wd mdfId="пялень">ṕäĺeń</Wd>
+<Wd mdfId="таварняснон">tavarńasnə̑n</Wd>
+</x>
+<GeoUB xml:lang="mdf">
+<GeoU>Temn</GeoU>
+</GeoUB>
+<sources>
+<book name="VIII" pg="416"/>
+</sources>
+<xt xml:lang="deu">Sie haben im Wald ihre anderthalb hundert (Rubel) wertigen Waren gelassen.</xt>
+</xg>
+</MWUB>
+<MWUB>
+<E3Head><POS/></E3Head>
+<lg edit="JMR" xml:lang="myv"><l pos="Num"/><st/>
+</lg>
+<lg xml:lang="mdf"><l pos="Num">кафтасятт</l>
+<st>кафтасятт</st>
+<PhnUBlock>
+<PhnU>
+<Wd mdfId="кафтасятт">kaftaśatt</Wd>
+</PhnU>
+<GeoUB edit="MK" xml:lang="mdf">
+<GeoU edit="MK">P</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">двести</t>
+</tg>
+<tg xml:lang="deu">
+<t>zweihundert</t>
+</tg>
+</mg>
+</MWUB>
+<MWUB>
+<E3Head><POS/></E3Head>
+<lg xml:lang="myv"><l pos="Num">колмосядо</l>
+<st>колмосядо</st>
+<PhnUBlock>
+<Chc>
+<Vrt>
+<PhnU>
+<Wd myvId="колмосядо">kolmośado</Wd>
+</PhnU>
+</Vrt>
+<Vrt>
+<PhnU>
+<Wd myvId="колмосят">kolmośat</Wd>
+</PhnU>
+</Vrt>
+</Chc>
+<GeoUB xml:lang="myv">
+<GeoU>Mar</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l pos="Num"/><st/>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">триста</t>
+</tg>
+<tg xml:lang="deu">
+<t>dreihundert</t>
+</tg>
+</mg>
+<xg>
+<x>
+<Wd myvId="колмосядо">kolmośado</Wd>
+<Wd myvId="ярмаконкак">jarmakoŋkak</Wd>
+<Wd myvId="а">a</Wd>
+<Wd myvId="эряви">eŕav́i</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Mar</GeoU>
+</GeoUB>
+<sources>
+<book name="2"/>
+<PageCtn>
+<Pg begin="95" end="96"/>
+</PageCtn>
+</sources>
+<xt xml:lang="deu">Auch eure dreihundert Münzen [? Rubel] sind nicht nötig.</xt>
+</xg>
+<xg>
+<x>
+<Wd myvId="но">no</Wd>
+<Wd myvId="вана">vana</Wd>
+<Wd myvId="теть">t́et́</Wd>
+<Wd myvId="колмосят">kolmośat</Wd>
+<Wd myvId="цэлковой">ce͔lkovoj</Wd>
+<Wd myvId="ярмак">jarmak</Wd>
+<tk3 isa="excl"/></x>
+<GeoUB xml:lang="myv">
+<GeoU>Mar</GeoU>
+</GeoUB>
+<sources>
+<book name="2" pg="95"/>
+</sources>
+<xt xml:lang="deu">[Sieh hier,] da hast du dreihundert Rubel Geld!</xt>
+</xg>
+<xg>
+<x>
+<Wd myvId="монь">moń</Wd>
+<Wd myvId="ули">uĺi</Wd>
+<Wd myvId="нарвуцям">narvućam</Wd>
+<tk3 isa="colon"/>
+<Wd myvId="колмосят">kolmośat</Wd>
+<Wd myvId="алонзо">alonzo</Wd>
+<tk3 isa="comma"/>
+<Wd myvId="а">a</Wd>
+<Wd myvId="ципакатнень">ćipakat́ńeń</Wd>
+<Wd myvId="цётостак">ćotostak</Wd>
+<Wd myvId="арась">araś</Wd>
+<tk3 isa="fullstop"/>
+<Wd myvId="–">–</Wd>
+<Wd myvId="авунясь">avuńäś</Wd>
+<tk3 isa="comma"/>
+<Wd myvId="пултнэ">pultne͔</Wd>
+<tk3 isa="comma"/>
+<Wd myvId="зёрнатне">źornatńe</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Mar</GeoU>
+</GeoUB>
+<sources>
+<book name="2" pg="45"/>
+</sources>
+<xt xml:lang="deu">Ich habe eine Bruthenne: sie hat dreihundert Eier, die Küchlein aber sind zahllos. – Die Darre, die Garben, die Getreidekörner.</xt>
+</xg>
+<xg>
+<x>
+<Wd myvId="колмосят">kolmośat</Wd>
+<Wd myvId="ведьгемень">v́ed́ǵeḿeń</Wd>
+<Wd edit="MK" myvId="вете">v́et́e</Wd>
+<Wd myvId="письмарт">ṕiśmart</Wd>
+<tk3 isa="fullstop"/>
+<Wd myvId="–">–</Wd>
+<Wd myvId="иесь">ijeś</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Mar</GeoU>
+</GeoUB>
+<sources>
+<book name="2" pg="37"/>
+</sources>
+<xt xml:lang="deu">Dreihundertfünfundfünfzig Stare. – Das Jahr.</xt>
+</xg>
+</MWUB>
+<MWUB>
+<E3Head><POS/></E3Head>
+<lg xml:lang="myv"><l pos="Num">нилисят</l>
+<st>нилисят</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="нилисят">ńiĺiśat</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Hl</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l pos="Num"/><st/>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">четыреста</t>
+</tg>
+<tg xml:lang="deu">
+<t>vierhundert</t>
+</tg>
+</mg>
+<xg>
+<x>
+<Wd myvId="монь">moń</Wd>
+<Wd myvId="ули">uĺi</Wd>
+<Wd myvId="саразум">sarazum</Wd>
+<tk3 isa="comma"/>
+<Wd myvId="нилисят">ńiĺiśat</Wd>
+<Wd myvId="алунзу">alunzu</Wd>
+<tk3 isa="comma"/>
+<Wd myvId="а">a</Wd>
+<Wd myvId="ципакатнинь">ćipakat́ńiń</Wd>
+<Wd myvId="цёт">ćot</Wd>
+<Wd myvId="арась">araś</Wd>
+<tk3 isa="fullstop"/>
+<Wd myvId="–">–</Wd>
+<Wd myvId="авнясь">avńäś</Wd>
+<tk3 isa="comma"/>
+<Wd myvId="пултны">pultni͔</Wd>
+<tk3 isa="comma"/>
+<Wd myvId="зёрнатни">źornat́ńi</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Hl</GeoU>
+</GeoUB>
+<sources>
+<book name="2" pg="46"/>
+</sources>
+<xt xml:lang="deu">Ich habe eine Henne, sie hat vierhundert Eier, die Küchlein aber sind zahllos. – Die Darre, die Garben, die Getreidekörner.</xt>
+</xg>
+</MWUB>
+<MWUB>
+<E3Head><POS/></E3Head>
+<lg xml:lang="myv"><l pos="Num">ветесядо</l>
+<st>ветесядо</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="ветесядо">v́et́eśado</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Mar</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l pos="Num"/><st/>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">пятьсот</t>
+</tg>
+<tg xml:lang="deu">
+<t>fünfhundert</t>
+</tg>
+</mg>
+<xg>
+<x>
+<Wd myvId="цэлковоись">ce͔lkovojiś</Wd>
+<Wd myvId="арды">ardi͔</Wd>
+<tk3 isa="comma"/>
+<Wd myvId="сядось">śadoś</Wd>
+<Wd myvId="сасы">sasi͔</Wd>
+<tk3 isa="comma"/>
+<Wd myvId="ветесядось">v́et́eśadoś</Wd>
+<Wd myvId="пупорди">pupoŕd́i</Wd>
+<tk3 isa="comma"/>
+<Wd myvId="питневинть">ṕit́ńev́ińt́</Wd>
+<Wd myvId="чавсы">čavsi͔</Wd>
+<tk3 isa="fullstop"/>
+<Wd myvId="–">–</Wd>
+<Wd myvId="ружыясь">ruži͔jaś</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Mar</GeoU>
+</GeoUB>
+<sources>
+<book name="2" pg="58"/>
+</sources>
+<xt xml:lang="deu">Ein Rubel läuft, hundert holen ihn ein, fünfhundert stolpern, töten das Teuere. – Die Flinte (deren Hagelschrot das Wildpret trifft).</xt>
+</xg>
+</MWUB>
+<MWUB>
+<E3Head><POS/></E3Head>
+<lg xml:lang="myv"><l pos="Num">котосят</l>
+<st>котосят</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="котосят">kotośat</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Mar</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l pos="Num"/><st/>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">шестьсот</t>
+</tg>
+<tg xml:lang="deu">
+<t>sechshundert</t>
+</tg>
+</mg>
+<xg>
+<x>
+<Wd myvId="на">na</Wd>
+<tk3 isa="comma"/>
+<Wd myvId="мотрос">motros</Wd>
+<tk3 isa="comma"/>
+<Wd myvId="котосят">kotośat</Wd>
+<Wd myvId="цэлковой">ce͔lkovoj</Wd>
+<Wd myvId="ярмак">jarmak</Wd>
+<tk3 isa="excl"/></x>
+<GeoUB xml:lang="myv">
+<GeoU>Mar</GeoU>
+</GeoUB>
+<sources>
+<book name="2" pg="96"/>
+</sources>
+<xt xml:lang="deu">Da hast du, Motros, sechshundert Rubel Geld!</xt>
+</xg>
+</MWUB>
+<MWUB>
+<E3Head><POS/></E3Head>
+<lg xml:lang="myv"><l pos="Num">сисемсят</l>
+<st>сисемсят</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="сисемсят">śiśemśat</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Mar</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg xml:lang="mdf"><l pos="Num">сисем-сят</l>
+<st>сисем-сят</st>
+<PhnUBlock>
+<PhnU>
+<Wd mdfId="сись̀əм">śiś̀əḿ</Wd>
+<Hph/>
+<Wd mdfId="сят̄">śat̄</Wd>
+</PhnU>
+<sources>
+<book name="Chr"/>
+<LanguageCtn>
+<Language edit="MK" xml:lang="mdf"/>
+</LanguageCtn>
+</sources>
+</PhnUBlock>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">семьсот</t>
+</tg>
+<tg xml:lang="deu">
+<t>siebenhundert</t>
+</tg>
+</mg>
+<xg>
+<x>
+<Wd myvId="вишкинка">v́išḱiŋka</Wd>
+<Wd myvId="ошнесэ">ošńese͔</Wd>
+<Wd myvId="сисемсят">śiśemśat</Wd>
+<Wd myvId="казак">kazak</Wd>
+<Wd myvId="турить">tuŕit́</Wd>
+<tk3 isa="fullstop"/>
+<Wd myvId="–">–</Wd>
+<Wd myvId="мако">mako</Wd>
+<Hph edit="MK"/>
+<Wd myvId="прясь">ṕŕäś</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Mar</GeoU>
+</GeoUB>
+<sources>
+<book name="2" pg="73"/>
+</sources>
+<xt xml:lang="deu">In einem kleinen Städtchen balgen sich siebenhundert Kosaken. – Der Mohnkopf.</xt>
+</xg>
+</MWUB>
+</e>
+  <e>
+<root_ref xml:lang="myv" hid="2" pos="Num" lemma="сядо"/>
+<root_ref xml:lang="mdf" hid="2" pos="Num" lemma="сяда"/>
+<HWB>
+<E3Head><POS/></E3Head>
+<lg xml:lang="myv"><l pos="Num">сядонст</l>
+<st>сядонст</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="сядонст">śadonst</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Atr</GeoU>
+<GeoU>Večk</GeoU>
+</GeoUB>
+</PhnUBlock>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="сяду·нст">śadu·nst</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Ba</GeoU>
+</GeoUB>
+</PhnUBlock>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="сядынкст">śadi͔ŋkst</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>VVr</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg xml:lang="mdf"><l pos="Num">сядәньст</l>
+<st>сядәньст</st>
+<PhnUBlock>
+<PhnU>
+<Wd mdfId="сядо·ньст">śadə̑·ńst</Wd>
+</PhnU>
+<GeoUB xml:lang="mdf">
+<GeoU>MdJurtk</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">сто пар (напр. обуви)</t>
+</tg>
+<TrlnCtn status="zb"><tg xml:lang="deu">
+<t>hundert Paar</t>
+<Cm>z.B. Schuhe</Cm>
+</tg>
+</TrlnCtn>
+</mg>
+</HWB>
+</e>
+  <e>
+<root_ref xml:lang="myv" hid="2" pos="Num" lemma="сядо"/>
+<root_ref xml:lang="mdf" hid="2" pos="Num" lemma="сяда"/>
+<HWB>
+<E3Head><POS/></E3Head>
+<lg xml:lang="myv"><l pos="Num">сядоценст</l>
+<st>сядоценст</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="сядоценст">śadoćenst</Wd>
+</PhnU>
+<GeoUB edit="MK" xml:lang="myv">
+<GeoU edit="MK">Večk</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l pos="Num"/><st/>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">? сотая пара</t>
+</tg>
+<tg xml:lang="deu">
+<t edit="MK">? das hundertste Paar</t>
+</tg>
+</mg>
+</HWB>
+</e>
+  <e>
+<root_ref xml:lang="myv" hid="2" pos="Num" lemma="сядо"/>
+<root_ref xml:lang="mdf" hid="2" pos="Num" lemma="сяда"/>
+<HWB>
+<E3Head><POS/></E3Head>
+<lg xml:lang="myv"><l pos="Num">сядошка</l>
+<st>сядошка</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="сядошка">śadoška</Wd>
+</PhnU>
+<sources>
+<book name="Chr" xml:lang="myv"/>
+</sources>
+</PhnUBlock>
+</lg>
+<lg edit="JMR" xml:lang="mdf"><l pos="Num"/><st/>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">около ста</t>
+</tg>
+<tg xml:lang="deu">
+<t>ungefähr hundert</t>
+</tg>
+</mg>
+</HWB>
+</e>
+  <e>
+<root_name xml:lang="myv" hid="2" pos="Num" lemma="тышча"/>
+<root_name xml:lang="mdf" hid="2" pos="Num" lemma="тышчя"/>
+<HWB>
+<E3Head><POS/></E3Head>
+<lg xml:lang="myv"><l pos="Num">тышча</l>
+<st>тышча</st>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="тышча">ti͔šča</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Mar</GeoU>
+<GeoU>Ba</GeoU>
+</GeoUB>
+</PhnUBlock>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="тысьця">ti͔śća</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Gor</GeoU>
+</GeoUB>
+</PhnUBlock>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="тышца">ti͔šca·</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Kad</GeoU>
+</GeoUB>
+</PhnUBlock>
+<PhnUBlock>
+<Chc>
+<Vrt>
+<PhnU>
+<Wd myvId="тыштя">ti͔št́a</Wd>
+</PhnU>
+</Vrt>
+<Vrt>
+<PhnU>
+<Wd myvId="тышиця">ti͔šića</Wd>
+</PhnU>
+</Vrt>
+</Chc>
+<GeoUB xml:lang="myv">
+<GeoU>Večk</GeoU>
+</GeoUB>
+</PhnUBlock>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="тышиця">ti͔šića</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Kozl</GeoU>
+</GeoUB>
+</PhnUBlock>
+<PhnUBlock>
+<PhnU>
+<Wd myvId="тысича">ti͔śiča</Wd>
+</PhnU>
+<GeoUB xml:lang="myv">
+<GeoU>Is</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<lg xml:lang="mdf"><l pos="Num">тышчя</l>
+<st>тышчя</st>
+<PhnUBlock>
+<PhnU>
+<Wd mdfId="тышчӓ·">ti͔ščä·</Wd>
+</PhnU>
+<GeoUB xml:lang="mdf">
+<GeoU>Sučk</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<mg>
+<tg xml:lang="rus">
+<t edit="MK">тысяча</t>
+</tg>
+<tg xml:lang="deu">
+<t>tausend</t>
+</tg>
+</mg>
+<xg>
+<x>
+<Wd myvId="сон">son</Wd>
+<Wd myvId="удалакшнось">udalakšnoś</Wd>
+<Wd myvId="богдашке">bogdašḱe</Wd>
+<Wd myvId="купецькекс">kuṕećḱeks</Wd>
+<tk3 isa="comma"/>
+<Wd myvId="сисем">śiśem</Wd>
+<Wd myvId="велева">v́eĺeva</Wd>
+<Wd myvId="богдашке">bogdašḱe</Wd>
+<Wd myvId="якамо">jakamo</Wd>
+<tk3 isa="comma"/>
+<Wd myvId="сисем">śiśem</Wd>
+<Wd myvId="тышицянь">ti͔šićań</Wd>
+<Wd myvId="богдашке">bogdašḱe</Wd>
+<Wd myvId="саеме">sajeḿe</Wd>
+</x>
+<GeoUB xml:lang="myv">
+<GeoU>Kozl</GeoU>
+</GeoUB>
+<sources>
+<book name="I" pg="168"/>
+</sources>
+<xt xml:lang="deu">Bogdaschke taugte gut zum Handelsmann, sieben Dörfer zu besuchen, siebentausend (Rubel) zu bekommen.</xt>
+</xg>
+</HWB>
+<Etg>
+<EtSrcL edit="MK" xml:lang="rus"/>
+<EtCtn>
+<Et edit="MK">тысяча</Et>
+</EtCtn>
+</Etg>
+</e>
+  <e>
 <root_ref xml:lang="myv" hid="1" pos="Num" lemma="ниле"/>
 <root_ref xml:lang="mdf" hid="1" pos="Num" lemma="ниле"/>
 <HWB>

@@ -271,7 +271,7 @@
 <GeoUB xml:lang="mdf">
 <GeoU>P</GeoU>
 </GeoUB>
-<xt xml:lang="deu"><SubjectField>folkl</SubjectField> Der [eine] Hund bellt, wenn er einen Wolf sieht, der andere (aber) bellt seinem Beispiel folgend.</xt>
+<xt xml:lang="deu"><stylistic>folkl</stylistic> Der [eine] Hund bellt, wenn er einen Wolf sieht, der andere (aber) bellt seinem Beispiel folgend.</xt>
 </xg>
 <xg>
 <x>
@@ -807,7 +807,7 @@
 <xt xml:lang="deu">Bring das (? dein) Pferd auf Trab!</xt>
 </xg>
 </CompositionalPhraseCtn>
-<MWUB>
+<CompositionalPhraseCtn>
 <E3Head><POS pos="N"/><deriv isa="prt-ZY"/></E3Head>
 <lg xml:lang="myv"><l pos="V">ардозь туемс</l>
 <st>ардозь туемс</st>
@@ -879,7 +879,7 @@
 </sources>
 <xt xml:lang="deu">Ein Blatt fiel nieder, er lief davon.</xt>
 </xg>
-</MWUB>
+</CompositionalPhraseCtn>
 </e>
   <e>
 <root_ref xml:lang="myv" hid="1" pos="N" lemma="важа"/>

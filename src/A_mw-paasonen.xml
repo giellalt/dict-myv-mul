@@ -1,11 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="myv">
   <e>
+<root_ref xml:lang="myv" hid="1" pos="Adv" lemma="меля"/>
+<root_ref xml:lang="mdf" hid="1" pos="Adv" lemma="меля"/>
+<HWB>
+<E3Head><POS/><deriv isa="dim-NYA"/></E3Head>
+<lg edit="JMR" xml:lang="myv"><l pos="A"/><st/>
+</lg>
+<lg xml:lang="mdf"><l pos="A">мелямбаньня</l>
+<st>мелямбаньня</st>
+<PhnUBlock>
+<PhnU>
+<Wd mdfId="мелямбання">ḿeĺambańńä</Wd>
+</PhnU>
+<GeoUB xml:lang="mdf">
+<GeoU>P</GeoU>
+<GeoU>Pš</GeoU>
+<GeoU>Čemb</GeoU>
+</GeoUB>
+</PhnUBlock>
+</lg>
+<DrvG><DrvTCtn>
+<FrCm edit="MK" freeType="questionRelation" Modification="MK"/><DrvT vl="diminutive"/></DrvTCtn>[<DrvStCtn><DrvSt><Wd CyrId="мелямбань">ḿeĺambań</Wd></DrvSt></DrvStCtn>]</DrvG>
+.
+</HWB>
+</e>
+  <e>
 <root_ref xml:lang="myv" hid="1" pos="A" lemma="тужо"/>
 <root_ref xml:lang="mdf" hid="1" pos="A" lemma="тужа"/>
 <HWB>
 <E3Head><POS/><deriv isa="dim-NE"/></E3Head>
-<lg xml:lang="myv"><l pos="N">тужине</l>
+<lg xml:lang="myv"><l pos="A">тужине</l>
 <st>тужине</st>
 <PhnUBlock>
 <PhnU>
@@ -146,7 +171,7 @@
 <t>Feinheit</t>
 </tg>
 </mg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd myvId="кавто">kavto</Wd>
 <Wd myvId="пева">ṕeva</Wd>
@@ -158,13 +183,12 @@
 <Wd myvId="–">–</Wd>
 <Wd myvId="петькелись">ṕet́ḱeĺiś</Wd>
 </x>
-[
-<GeoUB xml:lang="myv">
-<GeoU>Mar]</GeoU>
+<GeoUB edit="MK" xml:lang="myv">
+<GeoU edit="MK">Mar</GeoU>
 </GeoUB>
 <xt xml:lang="deu">An beiden Enden dick, seine Mitte (aber) dünn. – Die Mörserkeule.</xt>
 </xg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd myvId="пезэ">ṕeze͔</Wd>
 <Wd myvId="сювозь">śuvoź</Wd>
@@ -850,7 +874,7 @@
 </sources>
 <xt xml:lang="deu">Leichter Wind, ‒‒‒ blase doch nicht über den Tannenwald [? Kiefernwald]!</xt>
 </xg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd myvId="мезень">ḿeźeń</Wd>
 <Wd myvId="роботась">robotaś</Wd>
@@ -1169,7 +1193,7 @@
 <t>rötlich</t>
 </tg>
 </mg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd myvId="пижыне">ṕiži͔ńe</Wd>
 <tk3 isa="comma"/>
@@ -1190,7 +1214,7 @@
 </sources>
 <xt xml:lang="deu">Grün, schön, in den Herbsttagen rot. – Die Wintersaat.</xt>
 </xg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd myvId="тундонь">tundoń</Wd>
 <Wd myvId="чине">či͔ńe</Wd>
@@ -1951,7 +1975,7 @@
 <t edit="MK">unzählig</t>
 </tg>
 </mg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd mdfId="мон">mon</Wd>
 <Wd mdfId="кандан">kandan</Wd>
@@ -2221,7 +2245,7 @@
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="A"/><st/>
 </lg>
-<lg xml:lang="mdf"><l>ювәнь</l>
+<lg xml:lang="mdf"><l pos="A">ювәнь</l>
 <st>ювәнь</st>
 <PhnUBlock>
 <Chc>
@@ -2752,7 +2776,7 @@
 <E3Head><POS pos="N"/><deriv isa="prt-I"/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="A"/><st/>
 </lg>
-<lg xml:lang="mdf"><l>пянги</l>
+<lg xml:lang="mdf"><l pos="A">пянги</l>
 <st>пянги</st>
 <PhnUBlock>
 <PhnU>
@@ -2793,7 +2817,7 @@
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="A"/><st/>
 </lg>
-<lg xml:lang="mdf"><l>серень</l>
+<lg xml:lang="mdf"><l pos="A">серень</l>
 <st>серень</st>
 <PhnUBlock>
 <PhnU>
@@ -2815,7 +2839,7 @@
 <t>aus Kupfer</t>
 </tg>
 </mg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd mdfId="куйсь">kujś</Wd>
 <Wd mdfId="серень">śeŕəń</Wd>
@@ -3325,7 +3349,7 @@ Aus russ. Instr. <Et>хвальбою</Et>]
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="A"/><st/>
 </lg>
-<lg xml:lang="mdf"><l>шожярень</l>
+<lg xml:lang="mdf"><l pos="A">шожярень</l>
 <st>шожярень</st>
 <PhnUBlock>
 <PhnU>
@@ -3369,7 +3393,7 @@ Aus russ. Instr. <Et>хвальбою</Et>]
 <E3Head><POS pos="N"/><deriv isa="prt-I"/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="A"/><st/>
 </lg>
-<lg xml:lang="mdf"><l>шужяри</l>
+<lg xml:lang="mdf"><l pos="A">шужяри</l>
 <st>шужяри</st>
 <PhnUBlock>
 <PhnU>
@@ -3420,9 +3444,9 @@ Aus russ. Instr. <Et>хвальбою</Et>]
 </HWB>
 <MWUB>
 <E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l/><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="A"//><st/>
 </lg>
-<lg xml:lang="mdf"><l>лажу-ләжу</l>
+<lg xml:lang="mdf"><l pos="A"/>лажу-ләжу</l>
 <st>лажу-ләжу</st>
 <PhnUBlock>
 <Chc>
@@ -3499,9 +3523,9 @@ Aus russ. Instr. <Et>хвальбою</Et>]
 </HWB>
 <MWUB>
 <E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l/><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="A"/><st/>
 </lg>
-<lg xml:lang="mdf"><l>мянду сельмя</l>
+<lg xml:lang="mdf"><l pos="A">мянду сельмя</l>
 <st>мянду сельмя</st>
 <PhnUBlock>
 <Chc>
@@ -3764,7 +3788,7 @@ Aus russ. Instr. <Et>хвальбою</Et>]
 <E3Head><POS freeType="morphological" pos="noun:Abe"/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="A"/><st/>
 </lg>
-<lg xml:lang="mdf"><l>вазьфтемя</l>
+<lg xml:lang="mdf"><l pos="A">вазьфтемя</l>
 <st>вазьфтемя</st>
 <PhnUBlock>
 <PhnU>
@@ -3784,7 +3808,7 @@ Aus russ. Instr. <Et>хвальбою</Et>]
 <t>ohne Mütze</t>
 </tg>
 </mg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd edit="MK" mdfId="сембя">śemb́ä</Wd>
 <tk3 edit="MK" isa="ws"/>
@@ -4062,7 +4086,7 @@ Aus der russ. Instr.-F. <Et>грозо́ю</Et>]
 <E3Head><POS pos="A_IS-GEN"/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="A"/><st/>
 </lg>
-<lg xml:lang="mdf"><l>пайгәнь</l>
+<lg xml:lang="mdf"><l pos="A">пайгәнь</l>
 <st>пайгәнь</st>
 <PhnUBlock>
 <PhnU>
@@ -4150,7 +4174,7 @@ Aus der russ. Instr.-F. <Et>грозо́ю</Et>]
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="A"/><st/>
 </lg>
-<lg xml:lang="mdf"><l>покста</l>
+<lg xml:lang="mdf"><l pos="A">покста</l>
 <st>покста</st>
 <PhnUBlock>
 <PhnU>
@@ -4199,7 +4223,7 @@ Aus der russ. Instr.-F. <Et>грозо́ю</Et>]
 <E3Head><POS pos="A_IS-GEN"/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="A"/><st/>
 </lg>
-<lg xml:lang="mdf"><l>покстәнь</l>
+<lg xml:lang="mdf"><l pos="A">покстәнь</l>
 <st>покстәнь</st>
 <PhnUBlock>
 <PhnU>
@@ -4544,9 +4568,9 @@ Aus der russ. Instr.-F. <Et>грозо́ю</Et>]
 <root_ref xml:lang="mdf" hid="1" pos="" lemma="врема"/>
 <HWB>
 <E3Head><POS freeType="morphological" pos="Adv-syntax"/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="A"/><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Adv"/><st/>
 </lg>
-<lg xml:lang="mdf"><l>времафтәма</l>
+<lg xml:lang="mdf"><l pos="Adv"/>времафтәма</l>
 <st>времафтәма</st>
 <PhnUBlock>
 <PhnU>
@@ -4605,7 +4629,7 @@ Aus der russ. Instr.-F. <Et>грозо́ю</Et>]
 <E3Head><POS pos="N"/><deriv isa="dim-KE"/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="A"/><st/>
 </lg>
-<lg xml:lang="mdf"><l>крайницькя</l>
+<lg xml:lang="mdf"><l pos="A">крайницькя</l>
 <st>крайницькя</st>
 <PhnUBlock>
 <PhnU>
@@ -4636,7 +4660,7 @@ Aus der russ. Instr.-F. <Et>грозо́ю</Et>]
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="A"/><st/>
 </lg>
-<lg xml:lang="mdf"><l>виндерень</l>
+<lg xml:lang="mdf"><l pos="A">виндерень</l>
 <st>виндерень</st>
 <PhnUBlock>
 <PhnU>
@@ -4692,9 +4716,9 @@ Aus der russ. Instr.-F. <Et>грозо́ю</Et>]
 </HWB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l/><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="N"/><st/>
 </lg>
-<lg xml:lang="mdf"><l>индерень тергала</l>
+<lg xml:lang="mdf"><l pos="N">индерень тергала</l>
 <st>индерень тергала</st>
 <PhnUBlock>
 <PhnU>
@@ -4775,7 +4799,7 @@ Aus der russ. Instr.-F. <Et>грозо́ю</Et>]
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="A"/><st/>
 </lg>
-<lg xml:lang="mdf"><l>кабачкәнь</l>
+<lg xml:lang="mdf"><l pos="A">кабачкәнь</l>
 <st>кабачкәнь</st>
 <PhnUBlock>
 <PhnU>
@@ -4798,9 +4822,9 @@ Aus der russ. Instr.-F. <Et>грозо́ю</Et>]
 </HWB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l/><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="N"/><st/>
 </lg>
-<lg xml:lang="mdf"><l>кабачкәнь кушак</l>
+<lg xml:lang="mdf"><l pos="N">кабачкәнь кушак</l>
 <st>кабачкәнь кушак</st>
 <PhnUBlock>
 <PhnU>
@@ -4992,7 +5016,7 @@ Aus der russ. Instr.-F. <Et>грозо́ю</Et>]
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="A"/><st/>
 </lg>
-<lg xml:lang="mdf"><l>кяденьнь</l>
+<lg xml:lang="mdf"><l pos="A">кяденьнь</l>
 <st>кяденьнь</st>
 <PhnUBlock>
 <PhnU>
@@ -5020,7 +5044,7 @@ Aus der russ. Instr.-F. <Et>грозо́ю</Et>]
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="A"/><st/>
 </lg>
-<lg xml:lang="mdf"><l>кедень</l>
+<lg xml:lang="mdf"><l pos="A">кедень</l>
 <st>кедень</st>
 <PhnUBlock>
 <PhnU>
@@ -5280,9 +5304,9 @@ Aus der russ. Instr.-F. <Et>грозо́ю</Et>]
 </HWB>
 <MWUB>
 <E3Head><POS pos="Adv"/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l/><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="A"/><st/>
 </lg>
-<lg xml:lang="mdf"><l>копу-капу</l>
+<lg xml:lang="mdf"><l pos="A">копу-капу</l>
 <st>копу-капу</st>
 <PhnUBlock>
 <PhnU>
@@ -5360,7 +5384,7 @@ Aus der russ. Instr.-F. <Et>грозо́ю</Et>]
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="A"/><st/>
 </lg>
-<lg xml:lang="mdf"><l>коренень</l>
+<lg xml:lang="mdf"><l pos="A">коренень</l>
 <st>коренень</st>
 <PhnUBlock>
 <PhnU>
@@ -5465,7 +5489,7 @@ Aus der russ. Instr.-F. <Et>грозо́ю</Et>]
 <E3Head><POS freeType="morphological" pos="noun:Comp"/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="A"/><st/>
 </lg>
-<lg xml:lang="mdf"><l>коцядәкшка</l>
+<lg xml:lang="mdf"><l pos="A">коцядәкшка</l>
 <st>коцядәкшка</st>
 <PhnUBlock>
 <PhnU>
@@ -5533,7 +5557,7 @@ Aus der russ. Instr.-F. <Et>грозо́ю</Et>]
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="A"/><st/>
 </lg>
-<lg xml:lang="mdf"><l>кучкань</l>
+<lg xml:lang="mdf"><l pos="A">кучкань</l>
 <st>кучкань</st>
 <PhnUBlock>
 <PhnU>
@@ -5640,7 +5664,7 @@ Aus der russ. Instr.-F. <Et>грозо́ю</Et>]
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="A"/><st/>
 </lg>
-<lg xml:lang="mdf"><l>лангань</l>
+<lg xml:lang="mdf"><l pos="A">лангань</l>
 <st>лангань</st>
 <PhnUBlock>
 <PhnU>
@@ -5663,9 +5687,9 @@ Aus der russ. Instr.-F. <Et>грозо́ю</Et>]
 </HWB>
 <MWUB>
 <E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l/><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="N"/><st/>
 </lg>
-<lg xml:lang="mdf"><l>ланган гаяф</l>
+<lg xml:lang="mdf"><l pos="N">ланган гаяф</l>
 <st>ланган гаяф</st>
 <PhnUBlock>
 <PhnU>
@@ -5696,9 +5720,9 @@ Aus der russ. Instr.-F. <Et>грозо́ю</Et>]
 </MWUB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l/><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="N"/><st/>
 </lg>
-<lg xml:lang="mdf"><l>лангань шчама</l>
+<lg xml:lang="mdf"><l pos="N">лангань шчама</l>
 <st>лангань шчама</st>
 <PhnUBlock>
 <Chc>
@@ -5807,7 +5831,7 @@ Aus der russ. Instr.-F. <Et>грозо́ю</Et>]
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="A"/><st/>
 </lg>
-<lg xml:lang="mdf"><l>левшәнь</l>
+<lg xml:lang="mdf"><l pos="A">левшәнь</l>
 <st>левшәнь</st>
 <PhnUBlock>
 <PhnU>
@@ -5830,9 +5854,9 @@ Aus der russ. Instr.-F. <Et>грозо́ю</Et>]
 </HWB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l/><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="N"/><st/>
 </lg>
-<lg xml:lang="mdf"><l>левшәнь кушак</l>
+<lg xml:lang="mdf"><l pos="N">левшәнь кушак</l>
 <st>левшәнь кушак</st>
 <PhnUBlock>
 <PhnU>
@@ -5931,7 +5955,7 @@ Aus der russ. Instr.-F. <Et>грозо́ю</Et>]
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="A"/><st/>
 </lg>
-<lg xml:lang="mdf"><l>мартәнь</l>
+<lg xml:lang="mdf"><l pos="A">мартәнь</l>
 <st>мартәнь</st>
 <PhnUBlock>
 <PhnU>
@@ -6092,7 +6116,7 @@ Aus der russ. Instr.-F. <Et>грозо́ю</Et>]
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="A"/><st/>
 </lg>
-<lg xml:lang="mdf"><l>менельстәнь</l>
+<lg xml:lang="mdf"><l pos="A">менельстәнь</l>
 <st>менельстәнь</st>
 <PhnUBlock>
 <PhnU>
@@ -6122,9 +6146,9 @@ Aus der russ. Instr.-F. <Et>грозо́ю</Et>]
 </HWB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l/><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="N"/><st/>
 </lg>
-<lg xml:lang="mdf"><l>менельстәнь кудат</l>
+<lg xml:lang="mdf"><l pos="N">менельстәнь кудат</l>
 <st>менельстәнь кудат</st>
 <PhnUBlock>
 <PhnU>
@@ -6245,7 +6269,7 @@ Aus der russ. Instr.-F. <Et>грозо́ю</Et>]
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="A"/><st/>
 </lg>
-<lg xml:lang="mdf"><l>мерань</l>
+<lg xml:lang="mdf"><l pos="A">мерань</l>
 <st>мерань</st>
 <PhnUBlock>
 <PhnU>
@@ -6541,7 +6565,7 @@ Aus der russ. Instr.-F. <Et>грозо́ю</Et>]
 </sources>
 <xt xml:lang="deu">Injurju hat (deren) vier, Pstjurju acht. – Die Kuh hat vier, die Sau acht Zitzen.</xt>
 </xg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd mdfId="аштши">aštši</Wd>
 <tk3 isa="comma"/>
@@ -6579,7 +6603,7 @@ Aus der russ. Instr.-F. <Et>грозо́ю</Et>]
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="A"/><st/>
 </lg>
-<lg xml:lang="mdf"><l>ногаень</l>
+<lg xml:lang="mdf"><l pos="A">ногаень</l>
 <st>ногаень</st>
 <PhnUBlock>
 <PhnU>
@@ -6766,7 +6790,7 @@ Aus der russ. Instr.-F. <Et>грозо́ю</Et>]
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="A"/><st/>
 </lg>
-<lg xml:lang="mdf"><l>ункстань</l>
+<lg xml:lang="mdf"><l pos="A">ункстань</l>
 <st>ункстань</st>
 <PhnUBlock>
 <PhnU>
@@ -6854,7 +6878,7 @@ Aus der russ. Instr.-F. <Et>грозо́ю</Et>]
 <E3Head><POS pos="N"/><deriv isa="prt-I"/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="A"/><st/>
 </lg>
-<lg xml:lang="mdf"><l>паважчи</l>
+<lg xml:lang="mdf"><l pos="A">паважчи</l>
 <st>паважчи</st>
 <PhnUBlock>
 <PhnU>
@@ -7010,7 +7034,7 @@ Aus der russ. Instr.-F. <Et>грозо́ю</Et>]
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="A"/><st/>
 </lg>
-<lg xml:lang="mdf"><l>пакарень</l>
+<lg xml:lang="mdf"><l pos="A">пакарень</l>
 <st>пакарень</st>
 <PhnUBlock>
 <PhnU>
@@ -7219,9 +7243,9 @@ Aus der russ. Instr.-F. <Et>грозо́ю</Et>]
 </HWB>
 <MWUB>
 <E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l/><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="N"/><st/>
 </lg>
-<lg xml:lang="mdf"><l>пуняв ашка</l>
+<lg xml:lang="mdf"><l pos="N">пуняв ашка</l>
 <st>пуняв ашка</st>
 <PhnUBlock>
 <PhnU>
@@ -7244,9 +7268,9 @@ Aus der russ. Instr.-F. <Et>грозо́ю</Et>]
 </MWUB>
 <MWUB>
 <E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l/><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="N"/><st/>
 </lg>
-<lg xml:lang="mdf"><l>пуняв пандәс</l>
+<lg xml:lang="mdf"><l pos="N">пуняв пандәс</l>
 <st>пуняв пандәс</st>
 <PhnUBlock>
 <PhnU>
@@ -7549,7 +7573,7 @@ Aus der russ. Instr.-F. <Et>грозо́ю</Et>]
 <E3Head><POS/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l/><st/>
 </lg>
-<lg xml:lang="mdf"><l>пряфтәма кудня</l>
+<lg xml:lang="mdf"><l pos="N">пряфтәма кудня</l>
 <st>пряфтәма кудня</st>
 <PhnUBlock>
 <PhnU>
@@ -7594,7 +7618,7 @@ Aus der russ. Instr.-F. <Et>грозо́ю</Et>]
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="A"/><st/>
 </lg>
-<lg xml:lang="mdf"><l>рудань</l>
+<lg xml:lang="mdf"><l pos="A">рудань</l>
 <st>рудань</st>
 <PhnUBlock>
 <PhnU>
@@ -7680,7 +7704,7 @@ Aus der russ. Instr.-F. <Et>грозо́ю</Et>]
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="A"/><st/>
 </lg>
-<lg xml:lang="mdf"><l>соладәнь</l>
+<lg xml:lang="mdf"><l pos="A">соладәнь</l>
 <st>соладәнь</st>
 <PhnUBlock>
 <PhnU>
@@ -7752,7 +7776,7 @@ Aus der russ. Instr.-F. <Et>грозо́ю</Et>]
 <E3Head><POS/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l/><st/>
 </lg>
-<lg xml:lang="mdf"><l>золаду боза</l>
+<lg xml:lang="mdf"><l pos="N">золаду боза</l>
 <st>золаду боза</st>
 <PhnUBlock>
 <PhnU>
@@ -7827,7 +7851,7 @@ Aus der russ. Instr.-F. <Et>грозо́ю</Et>]
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="A"/><st/>
 </lg>
-<lg xml:lang="mdf"><l>стамеднаень</l>
+<lg xml:lang="mdf"><l pos="A">стамеднаень</l>
 <st>стамеднаень</st>
 <PhnUBlock>
 <PhnU>
@@ -7905,7 +7929,7 @@ Aus der russ. Instr.-F. <Et>грозо́ю</Et>]
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="A"/><st/>
 </lg>
-<lg xml:lang="mdf"><l>сурәнь</l>
+<lg xml:lang="mdf"><l pos="A">сурәнь</l>
 <st>сурәнь</st>
 <PhnUBlock>
 <PhnU>
@@ -7930,7 +7954,7 @@ Aus der russ. Instr.-F. <Et>грозо́ю</Et>]
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l/><st/>
 </lg>
-<lg xml:lang="mdf"><l>сурәнь цюкәр</l>
+<lg xml:lang="mdf"><l pos="N">сурәнь цюкәр</l>
 <st>сурәнь цюкәр</st>
 <PhnUBlock>
 <PhnU>
@@ -7955,7 +7979,7 @@ Aus der russ. Instr.-F. <Et>грозо́ю</Et>]
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l/><st/>
 </lg>
-<lg xml:lang="mdf"><l>сурәнь пача</l>
+<lg xml:lang="mdf"><l pos="N">сурәнь пача</l>
 <st>сурәнь пача</st>
 <PhnUBlock>
 <PhnU>
@@ -7980,7 +8004,7 @@ Aus der russ. Instr.-F. <Et>грозо́ю</Et>]
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l/><st/>
 </lg>
-<lg xml:lang="mdf"><l>сурәнь пяштя</l>
+<lg xml:lang="mdf"><l pos="N">сурәнь пяштя</l>
 <st>сурәнь пяштя</st>
 <PhnUBlock>
 <PhnU>
@@ -8199,7 +8223,7 @@ Aus der russ. Instr.-F. <Et>грозо́ю</Et>]
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="A"/><st/>
 </lg>
-<lg xml:lang="mdf"><l>сёрәнь</l>
+<lg xml:lang="mdf"><l pos="A">сёрәнь</l>
 <st>сёрәнь</st>
 <PhnUBlock>
 <PhnU>
@@ -8227,7 +8251,7 @@ Aus der russ. Instr.-F. <Et>грозо́ю</Et>]
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="A"/><st/>
 </lg>
-<lg xml:lang="mdf"><l>сюрәнь</l>
+<lg xml:lang="mdf"><l pos="A">сюрәнь</l>
 <st>сюрәнь</st>
 <PhnUBlock>
 <PhnU>
@@ -8277,8 +8301,8 @@ Aus der russ. Instr.-F. <Et>грозо́ю</Et>]
 <E3Head><POS/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l/><st/>
 </lg>
-<lg xml:lang="mdf"><l>табаку шалка</l>
-<st>табаку шалка</st>
+<lg xml:lang="mdf"><l pos="N">табаку шалхка</l>
+<st>табаку шалхка</st>
 <PhnUBlock>
 <PhnU>
 <Wd mdfId="табаку">tabaku</Wd>
@@ -8350,7 +8374,7 @@ Aus der russ. Instr.-F. <Et>грозо́ю</Et>]
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="A"/><st/>
 </lg>
-<lg xml:lang="mdf"><l>тяләнь</l>
+<lg xml:lang="mdf"><l pos="A">тяләнь</l>
 <st>тяләнь</st>
 <PhnUBlock>
 <PhnU>
@@ -8397,7 +8421,7 @@ Aus der russ. Instr.-F. <Et>грозо́ю</Et>]
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="A"/><st/>
 </lg>
-<lg xml:lang="mdf"><l>тяштень</l>
+<lg xml:lang="mdf"><l pos="A">тяштень</l>
 <st>тяштень</st>
 <PhnUBlock>
 <Chc>
@@ -8522,7 +8546,7 @@ Aus der russ. Instr.-F. <Et>грозо́ю</Et>]
 <E3Head><POS/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l/><st/>
 </lg>
-<lg xml:lang="mdf"><l>толу баба</l>
+<lg xml:lang="mdf"><l pos="N">толу баба</l>
 <st>толу баба</st>
 <PhnUBlock>
 <PhnU>
@@ -8592,7 +8616,7 @@ Aus der russ. Instr.-F. <Et>грозо́ю</Et>]
 <E3Head><POS/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l/><st/>
 </lg>
-<lg xml:lang="mdf"><l>толу сура</l>
+<lg xml:lang="mdf"><l pos="N">толу сура</l>
 <st>толу сура</st>
 <PhnUBlock>
 <PhnU>
@@ -8771,7 +8795,7 @@ Aus der russ. Instr.-F. <Et>грозо́ю</Et>]
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="A"/><st/>
 </lg>
-<lg xml:lang="mdf"><l>укладәнь</l>
+<lg xml:lang="mdf"><l pos="A">укладәнь</l>
 <st>укладәнь</st>
 <PhnUBlock>
 <Chc>
@@ -8887,7 +8911,7 @@ Aus der russ. Instr.-F. <Et>грозо́ю</Et>]
 <E3Head><POS/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l/><st/>
 </lg>
-<lg xml:lang="mdf"><l>укладнай узерь</l>
+<lg xml:lang="mdf"><l pos="N">укладнай узерь</l>
 <st>укладнай узерь</st>
 <PhnUBlock>
 <PhnU>
@@ -8990,7 +9014,7 @@ Aus der russ. Instr.-F. <Et>грозо́ю</Et>]
 <t>dünn</t>
 </tg>
 </mg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd mdfId="ронгоц">roŋgə̑c</Wd>
 <Wd mdfId="цё̇цель">ćȯćəĺ</Wd>
@@ -9070,7 +9094,7 @@ Aus der russ. Instr.-F. <Et>грозо́ю</Et>]
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="A"/><st/>
 </lg>
-<lg xml:lang="mdf"><l>ширьдень</l>
+<lg xml:lang="mdf"><l pos="A">ширьдень</l>
 <st>ширьдень</st>
 <PhnUBlock>
 <PhnU>
@@ -9121,7 +9145,7 @@ Aus der russ. Instr.-F. <Et>грозо́ю</Et>]
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="A"/><st/>
 </lg>
-<lg xml:lang="mdf"><l>шәварәнь</l>
+<lg xml:lang="mdf"><l pos="A">шәварәнь</l>
 <st>шәварәнь</st>
 <PhnUBlock>
 <PhnU>
@@ -9396,7 +9420,7 @@ Aus der russ. Instr.-F. <Et>грозо́ю</Et>]
 <E3Head><POS pos="N"/><deriv isa="prt-IJ"/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="A"/><st/>
 </lg>
-<lg xml:lang="mdf"><l>етәвитый</l>
+<lg xml:lang="mdf"><l pos="A">етәвитый</l>
 <st>етәвитый</st>
 <PhnUBlock>
 <PhnU>
@@ -9729,7 +9753,7 @@ Aus der russ. Instr.-F. <Et>грозо́ю</Et>]
 <E3Head><POS/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l/><st/>
 </lg>
-<lg xml:lang="mdf"><l>кать-мезяма</l>
+<lg xml:lang="mdf"><l pos="Pron">кать-мезяма</l>
 <st>кать-мезяма</st>
 <PhnUBlock>
 <PhnU>
@@ -9785,7 +9809,7 @@ Aus der russ. Instr.-F. <Et>грозо́ю</Et>]
 </tg>
 </mg>
 </SenseGroup>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd mdfId="конашка">konaška</Wd>
 <Wd mdfId="шумоц">šumə̑c</Wd>
@@ -9812,7 +9836,7 @@ Aus der russ. Instr.-F. <Et>грозо́ю</Et>]
 <E3Head><POS/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l/><st/>
 </lg>
-<lg xml:lang="mdf"><l>сяшка васта</l>
+<lg xml:lang="mdf"><l pos="N">сяшка васта</l>
 <st>сяшка васта</st>
 <PhnUBlock>
 <PhnU>
@@ -9866,7 +9890,7 @@ Aus der russ. Instr.-F. <Et>грозо́ю</Et>]
 <E3Head><POS/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l/><st/>
 </lg>
-<lg xml:lang="mdf"><l>сяшкада</l>
+<lg xml:lang="mdf"><l pos="Adv">сяшкада</l>
 <st>сяшкада</st>
 <PhnUBlock>
 <PhnU>
@@ -9899,7 +9923,7 @@ Aus der russ. Instr.-F. <Et>грозо́ю</Et>]
 <E3Head><POS/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l/><st/>
 </lg>
-<lg xml:lang="mdf"><l>аф сяшкада тяшкада</l>
+<lg xml:lang="mdf"><l pos="Adv">аф сяшкада тяшкада</l>
 <st>аф сяшкада тяшкада</st>
 <PhnUBlock>
 <PhnU>
@@ -9928,7 +9952,7 @@ Aus der russ. Instr.-F. <Et>грозо́ю</Et>]
 <E3Head><POS/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l/><st/>
 </lg>
-<lg xml:lang="mdf"><l>сяшкава</l>
+<lg xml:lang="mdf"><l pos="Adv">сяшкава</l>
 <st>сяшкава</st>
 <PhnUBlock>
 <PhnU>
@@ -10167,7 +10191,7 @@ auch <Et>
 </e>
   <e>
 <root_ref xml:lang="myv" hid="3" pos="Pron" lemma="э-"/>
-<root_ref xml:lang="mdf" hid="3" pos="" lemma="э-"/>
+<root_ref xml:lang="mdf" hid="3" pos="Pron" lemma="э-"/>
 <HWB>
 <E3Head><POS/><deriv isa="DVNoun-MKA"/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="A"/><st/>
@@ -10367,7 +10391,7 @@ auch <Et>
 <E3Head><POS pos="A"/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="A"/><st/>
 </lg>
-<lg xml:lang="mdf"><l>кафәнза</l>
+<lg xml:lang="mdf"><l pos="A">кафәнза</l>
 <st>кафәнза</st>
 <PhnUBlock>
 <Chc>
@@ -10432,9 +10456,9 @@ auch <Et>
 <root_ref xml:lang="mdf" hid="1" pos="" lemma="колма"/>
 <HWB>
 <E3Head><POS freeType="morphological" pos="Adv-syntax"/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="A"/><st/>
+<lg edit="JMR" xml:lang="myv"><l pos="Adv"/><st/>
 </lg>
-<lg xml:lang="mdf"><l>колмәнза</l>
+<lg xml:lang="mdf"><l pos="Adv">колмәнза</l>
 <st>колмәнза</st>
 <PhnUBlock>
 <PhnU>
@@ -10467,7 +10491,7 @@ auch <Et>
 <E3Head><POS pos="N"/><deriv isa="dim-NYA"/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="A"/><st/>
 </lg>
-<lg xml:lang="mdf"><l>колмәньзаня</l>
+<lg xml:lang="mdf"><l pos="A">колмәньзаня</l>
 <st>колмәньзаня</st>
 <PhnUBlock>
 <PhnU>
@@ -10515,7 +10539,7 @@ auch <Et>
 <E3Head><POS freeType="morphological" pos="gen-attr"/><deriv isa="Part"/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="A"/><st/>
 </lg>
-<lg xml:lang="mdf"><l>колмәнзань</l>
+<lg xml:lang="mdf"><l pos="A">колмәнзань</l>
 <st>колмәнзань</st>
 <PhnUBlock>
 <PhnU>
@@ -10598,7 +10622,7 @@ auch <Et>
 <E3Head><POS pos="N"/><deriv isa="dim-NYA"/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="A"/><st/>
 </lg>
-<lg xml:lang="mdf"><l>колмәнзаньня</l>
+<lg xml:lang="mdf"><l pos="A">колмәнзаньня</l>
 <st>колмәнзаньня</st>
 <PhnUBlock>
 <PhnU>
@@ -10995,7 +11019,7 @@ auch <Et>
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l/><st/>
 </lg>
-<lg xml:lang="mdf"><l>шобдавань саря</l>
+<lg xml:lang="mdf"><l pos="N">шобдавань саря</l>
 <st>шобдавань саря</st>
 <PhnUBlock>
 <PhnU>
@@ -11056,7 +11080,7 @@ auch <Et>
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l/><st/>
 </lg>
-<lg xml:lang="mdf"><l>шовдаваньнь зарят</l>
+<lg xml:lang="mdf"><l pos="Adv">шовдаваньнь зарят</l>
 <st>шовдаваньнь зарят</st>
 <PhnUBlock>
 <Chc>
@@ -11190,7 +11214,7 @@ auch <Et>
 <E3Head><POS/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l/><st/>
 </lg>
-<lg xml:lang="mdf"><l>ләпана пиля</l>
+<lg xml:lang="mdf"><l pos="N">ләпана пиля</l>
 <st>ләпана пиля</st>
 <PhnUBlock>
 <PhnU>
@@ -11308,7 +11332,7 @@ auch <Et>
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l/><st/>
 </lg>
-<lg xml:lang="mdf"><l>сядынгәльденьнь</l>
+<lg xml:lang="mdf"><l pos="A">сядынгәльденьнь</l>
 <st>сядынгәльденьнь</st>
 <PhnUBlock>
 <Chc>
@@ -11351,7 +11375,7 @@ auch <Et>
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l/><st/>
 </lg>
-<lg xml:lang="mdf"><l>тядынгельдень</l>
+<lg xml:lang="mdf"><l pos="A">тядынгельдень</l>
 <st>тядынгельдень</st>
 <PhnUBlock>
 <PhnU>
@@ -12931,7 +12955,7 @@ auch <Et>
 <GeoUB xml:lang="mdf">
 <GeoU>Bold</GeoU>
 </GeoUB>
-<SubjectField>in der Volksd</SubjectField>
+<stylistic>in der Volksd</stylistic>
 </PhnUBlock>
 </lg>
 <mg>
@@ -13159,7 +13183,7 @@ auch <Et>
 <t>schief, schräg wachsend</t>
 </tg>
 </mg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd mdfId="акша">akša</Wd>
 <Wd mdfId="паба">paba</Wd>
@@ -13751,7 +13775,7 @@ auch <Et>
 <t edit="MK">streifend</t>
 </tg>
 </mg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd edit="MK" mdfId="конекəня">końekəńä</Wd>
 <tk3 edit="MK" isa="ws"/>
@@ -14436,7 +14460,7 @@ auch <Et>
 <t>bläulich</t>
 </tg>
 </mg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd mdfId="сенерня">śeńəŕńä</Wd>
 <Hph/>
@@ -14584,7 +14608,7 @@ auch <Et>
 <t>zieml. weich</t>
 </tg>
 </mg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd mdfId="алу">alu</Wd>
 <Wd mdfId="валги">valǵi</Wd>
@@ -14663,7 +14687,7 @@ auch <Et>
 <t>düster</t>
 </tg>
 </mg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd mdfId="тялə̑нда">t́alə̑nda</Wd>
 <Wd mdfId="весяла">v́eśala</Wd>
@@ -14981,7 +15005,7 @@ auch <Et>
 <t>habgierig</t>
 </tg>
 </mg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd edit="MK" mdfId="нелеге·мəнь">ńeĺəǵe·məń</Wd>
 <Wd mdfId="панаротс">panarə̑ts</Wd>
@@ -16334,7 +16358,7 @@ auch <Et>
 </GeoUB>
 )</dfQl1>
 </mg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd mdfId="вяри">v́äŕi</Wd>
 <Wd mdfId="куци">kući</Wd>
@@ -17192,7 +17216,7 @@ auch <Et>
 <t>schwärzlich</t>
 </tg>
 </mg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd mdfId="вяри">v́äŕi</Wd>
 <Wd mdfId="куци">kući</Wd>
@@ -17901,7 +17925,7 @@ baschk. <Et><i>
 </GeoUB>
 )</dfQl1>
 </mg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd mdfId="шобда">šobda</Wd>
 <tk3 isa="comma"/>
@@ -19697,7 +19721,7 @@ baschk. <Et><i>
 </sources>
 <xt xml:lang="deu">[Er hat] unten lauter Leistenbrüche.</xt>
 </xg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd mdfId="монь">moń</Wd>
 <Wd mdfId="ули">uĺi</Wd>
@@ -19724,7 +19748,7 @@ baschk. <Et><i>
 </sources>
 <xt xml:lang="deu">Ich habe einen Grossvater, bis zur Mitternacht redet er nicht, dann singt er ununterbrochen. – Der Hahn.</xt>
 </xg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd mdfId="сон">son</Wd>
 <Wd mdfId="тепəня">t́əṕəńä·</Wd>
@@ -19807,7 +19831,7 @@ baschk. <Et><i>
 <t>gesund</t>
 </tg>
 </mg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd mdfId="монь">moń</Wd>
 <Wd mdfId="ули">uĺi</Wd>
@@ -19955,7 +19979,7 @@ baschk. <Et><i>
 <t>einen dicken Hintern habend</t>
 </tg>
 </mg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd mdfId="тотмак">totmak</Wd>
 <Hph edit="MK"/>
@@ -19976,7 +20000,7 @@ baschk. <Et><i>
 </sources>
 <xt xml:lang="deu">Ein Dünnes mit dickem Hintern, in seinem Munde ein Gewehr. – Der Kienspanhalter.</xt>
 </xg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd mdfId="каргонь">kargə̑ń</Wd>
 <Wd mdfId="сялдас">śaldas</Wd>
@@ -22498,7 +22522,7 @@ Bez. Krasnoslobodsk, Gouv. Pensa</t>
 <t>zieml. leicht</t>
 </tg>
 </mg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd mdfId="алу">alu</Wd>
 <Wd mdfId="валги">valǵi</Wd>
@@ -25831,7 +25855,7 @@ jedenfalls <Et>
 </GeoUB>
 )</dfQl1>
 </mg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd mdfId="паксява">pakśava</Wd>
 <Wd mdfId="тарав">tarav</Wd>
@@ -25983,7 +26007,7 @@ jedenfalls <Et>
 <t>dick”</t>
 </tg>
 </mg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd mdfId="əрьвянязя">əŕv́ä·ńäźä</Wd>
 <Wd mdfId="тёрдай">t́ordaj</Wd>
@@ -26791,7 +26815,7 @@ jedenfalls <Et>
 <t edit="MK">? struppig u. zottig</t>
 </tg>
 </mg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd mdfId="тшохору">tšoᵪoru</Wd>
 <Hph edit="MK"/>
@@ -27029,7 +27053,7 @@ jedenfalls <Et>
 <t>Kartoffeln u. Öl (Butter)</t>
 </tg>
 </mg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd mdfId="кафта">kafta</Wd>
 <Wd mdfId="ундунят">unduńa·t</Wd>
@@ -29069,7 +29093,7 @@ jedenfalls <Et>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<lg xml:lang="mdf"><l>авафтома</l>
+<lg xml:lang="mdf"><l pos="A">авафтома</l>
 <st>авафтома</st>
 <PhnUBlock>
 <PhnU>
@@ -29447,7 +29471,7 @@ jedenfalls <Et>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<lg xml:lang="mdf"><l>аказиянь</l>
+<lg xml:lang="mdf"><l pos="A">аказиянь</l>
 <st>аказиянь</st>
 <PhnUBlock>
 <PhnU>
@@ -29502,7 +29526,7 @@ jedenfalls <Et>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<lg xml:lang="mdf"><l>аказиянь ломаньць</l>
+<lg xml:lang="mdf"><l pos="N">аказиянь ломаньць</l><!-- CHECK DETERMINATE -->
 <st>аказиянь ломаньць</st>
 <PhnUBlock>
 <PhnU>
@@ -29646,7 +29670,7 @@ jedenfalls <Et>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<lg xml:lang="mdf"><l>алдәнь</l>
+<lg xml:lang="mdf"><l pos="A">алдәнь</l>
 <st>алдәнь</st>
 <PhnUBlock>
 <PhnU>
@@ -30029,7 +30053,7 @@ jedenfalls <Et>
 </InflB>
 </PhnUBlock>
 </lg>
-<lg xml:lang="mdf"><l>алув</l>
+<lg xml:lang="mdf"><l pos="A">алув</l>
 <st>алув</st>
 <PhnUBlock>
 <PhnU>
@@ -30168,7 +30192,7 @@ jedenfalls <Et>
 <lg edit="JMR" xml:lang="myv"><l pos="A">алянь</l>
 <st>алянь</st>
 </lg>
-<lg xml:lang="mdf"><l>алянь</l>
+<lg xml:lang="mdf"><l pos="N">алянь</l>
 <st>алянь</st>
 <PhnUBlock>
 <PhnU>
@@ -30238,10 +30262,10 @@ jedenfalls <Et>
 </HWB>
 <MWUB>
 <E3Head><POS pos="N"/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l>алянь манастирь</l>
+<lg edit="JMR" xml:lang="myv"><l pos="N">алянь манастирь</l>
 <st>алянь манастирь</st>
 </lg>
-<lg xml:lang="mdf"><l>аляньнь монастирь</l>
+<lg xml:lang="mdf"><l pos="N">аляньнь монастирь</l>
 <st>аляньнь монастирь</st>
 <PhnUBlock>
 <PhnU>
@@ -30499,7 +30523,7 @@ jedenfalls <Et>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<lg xml:lang="mdf"><l>аржу</l>
+<lg xml:lang="mdf"><l pos="A">аржу</l>
 <st>аржу</st>
 <PhnUBlock>
 <PhnU>
@@ -32433,7 +32457,7 @@ jedenfalls <Et>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<lg xml:lang="mdf"><l>пальсянәнь</l>
+<lg xml:lang="mdf"><l pos="A">пальсянәнь</l>
 <st>пальсянәнь</st>
 <PhnUBlock>
 <PhnU>
@@ -33022,7 +33046,7 @@ Aus der russ. prädik. F. <Et>бога́т</Et>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<lg xml:lang="mdf"><l>педнай</l>
+<lg xml:lang="mdf"><l pos="A">педнай</l>
 <st>педнай</st>
 <PhnUBlock>
 <PhnU>
@@ -35188,7 +35212,7 @@ prädik. F. <Et>бела</Et>]
 </GeoUB>
 </PhnUBlock>
 </lg>
-<lg xml:lang="mdf"><l>поярәшнай</l>
+<lg xml:lang="mdf"><l pos="A">поярәшнай</l>
 <st>поярәшнай</st>
 <PhnUBlock>
 <PhnU>
@@ -36812,7 +36836,7 @@ tat. (Bl.) misch. <Et>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<lg xml:lang="mdf"><l>вазу</l>
+<lg xml:lang="mdf"><l pos="A">вазу</l>
 <st>вазу</st>
 <PhnUBlock>
 <PhnU>
@@ -36895,7 +36919,7 @@ tat. (Bl.) misch. <Et>
 <lg edit="JMR" xml:lang="myv"><l pos="A">ваксошка</l>
 <st>ваксошка</st>
 </lg>
-<lg xml:lang="mdf"><l>ваксшка</l>
+<lg xml:lang="mdf"><l pos="A">ваксшка</l>
 <st>ваксшка</st>
 <PhnUBlock>
 <PhnU>
@@ -36933,7 +36957,7 @@ tat. (Bl.) misch. <Et>
 <E3Head><POS pos="A"/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="A">валажа</l><st/>
 </lg>
-<lg xml:lang="mdf"><l>валажя</l>
+<lg xml:lang="mdf"><l pos="A">валажя</l>
 <st>валажя</st>
 <PhnUBlock>
 <PhnU>
@@ -37004,7 +37028,7 @@ tat. (Bl.) misch. <Et>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<lg xml:lang="mdf"><l>валазя</l>
+<lg xml:lang="mdf"><l pos="A">валазя</l>
 <st>валазя</st>
 <PhnUBlock>
 <Chc>
@@ -37212,10 +37236,10 @@ tat. (Bl.) misch. <Et>
 </HWB>
 <MWUB>
 <E3Head><POS pos="N"/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l>валазя пря</l>
+<lg edit="JMR" xml:lang="myv"><l pos="A">валазя пря</l>
 <st>валазя пря</st>
 </lg>
-<lg xml:lang="mdf"><l>валазя пря</l>
+<lg xml:lang="mdf"><l pos="A">валазя пря</l>
 <st>валазя пря</st>
 <PhnUBlock>
 <PhnU>
@@ -37269,7 +37293,7 @@ tat. (Bl.) misch. <Et>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<lg xml:lang="mdf"><l>валу</l>
+<lg xml:lang="mdf"><l pos="A">валу</l>
 <st>валу</st>
 <PhnUBlock>
 <PhnU>
@@ -37824,7 +37848,7 @@ tat. (Bl.) misch. <Et>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<lg xml:lang="mdf"><l>вармафтәма</l>
+<lg xml:lang="mdf"><l pos="A">вармафтәма</l>
 <st>вармафтәма</st>
 <PhnUBlock>
 <PhnU>
@@ -37909,7 +37933,7 @@ tat. (Bl.) misch. <Et>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<lg xml:lang="mdf"><l>варяв</l>
+<lg xml:lang="mdf"><l pos="A">варяв</l>
 <st>варяв</st>
 <PhnUBlock>
 <PhnU>
@@ -38075,10 +38099,10 @@ tat. (Bl.) misch. <Et>
 </MWUB>
 <MWUB>
 <E3Head><POS pos="N"/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l>варяв пря</l>
+<lg edit="JMR" xml:lang="myv"><l pos="N">варяв пря</l>
 <st>варяв пря</st>
 </lg>
-<lg xml:lang="mdf"><l>варяв пря</l>
+<lg xml:lang="mdf"><l pos="A">варяв пря</l>
 <st>варяв пря</st>
 <PhnUBlock>
 <Chc>
@@ -38153,7 +38177,7 @@ tat. (Bl.) misch. <Et>
 <E3Head><POS freeType="morphological" pos="noun:Gen"/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l/><st/>
 </lg>
-<lg xml:lang="mdf"><l>шалка-варянь</l>
+<lg xml:lang="mdf"><l pos="A">шалка-варянь</l>
 <st>шалка-варянь</st>
 <PhnUBlock>
 <PhnU>
@@ -38520,7 +38544,7 @@ tat. (Bl.) misch. <Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="Adv"/><st/>
 </lg>
-<SubjectField>veralt</SubjectField>
+<temporal>veralt</temporal>
 <mg>
 <tg xml:lang="rus">
 <t>первоначально</t>
@@ -38710,7 +38734,7 @@ jedoch
 </HWB>
 <MWUB>
 <E3Head><POS pos="N"/></E3Head>
-<lg xml:lang="myv"><l>васолонь тарка</l>
+<lg xml:lang="myv"><l pos="N">васолонь тарка</l>
 <st>васолонь тарка</st>
 <PhnUBlock>
 <PhnU>
@@ -38849,7 +38873,7 @@ jedoch
 </GeoUB>
 </PhnUBlock>
 </lg>
-<lg xml:lang="mdf"><l>ваци</l>
+<lg xml:lang="mdf"><l pos="A">ваци</l>
 <st>ваци</st>
 <PhnUBlock>
 <PhnU>
@@ -39607,7 +39631,7 @@ jedoch
 </GeoUB>
 </PhnUBlock>
 </lg>
-<lg xml:lang="mdf"><l>вашу</l>
+<lg xml:lang="mdf"><l pos="A">вашу</l>
 <st>вашу</st>
 <PhnUBlock>
 <PhnU>
@@ -40379,7 +40403,7 @@ jedoch
 </GeoUB>
 </PhnUBlock>
 </lg>
-<lg xml:lang="mdf"><l>фкат</l>
+<lg xml:lang="mdf"><l pos="A">фкат</l>
 <st>фкат</st>
 <PhnUBlock>
 <PhnU>
@@ -40520,7 +40544,7 @@ jedoch
 </MWUB>
 <MWUB>
 <E3Head><POS pos="Adv"/></E3Head>
-<lg xml:lang="myv"><l>вейкетьстэ</l>
+<lg xml:lang="myv"><l pos="Adv">вейкетьстэ</l>
 <st>вӒ4йкетьстэ</st>
 <PhnUBlock>
 <PhnU>
@@ -40698,7 +40722,7 @@ jedoch
 </GeoUB>
 </PhnUBlock>
 </lg>
-<lg xml:lang="mdf"><l>векавошнай</l>
+<lg xml:lang="mdf"><l pos="A">векавошнай</l>
 <st>векавошнай</st>
 <PhnUBlock>
 <PhnU>
@@ -40857,7 +40881,7 @@ jedoch
 </HWB>
 <MWUB>
 <E3Head><POS pos="N"/><deriv isa="gen-attr"/></E3Head>
-<lg xml:lang="myv"><l>лома веьлень</l>
+<lg xml:lang="myv"><l pos="A">лома велень</l>
 <st>лома веьлень</st>
 <PhnUBlock>
 <PhnU>
@@ -40884,7 +40908,7 @@ jedoch
 </MWUB>
 <MWUB>
 <E3Head><POS pos="N"/><deriv isa="prt-CE"/></E3Head>
-<lg xml:lang="myv"><l>веьсе веьлень</l>
+<lg xml:lang="myv"><l pos="A">весе велень</l>
 <st>веьсе веьлень</st>
 <PhnUBlock>
 <PhnU>
@@ -40918,7 +40942,7 @@ jedoch
 <lg edit="JMR" xml:lang="myv"><l pos="A">велестэнь</l>
 <st>ве4лестэнь</st>
 </lg>
-<lg xml:lang="mdf"><l>велестәнь</l>
+<lg xml:lang="mdf"><l pos="A">велестәнь</l>
 <st>велестәнь</st>
 <PhnUBlock>
 <PhnU>
@@ -41069,7 +41093,7 @@ jedoch
 </GeoUB>
 </PhnUBlock>
 </lg>
-<lg xml:lang="mdf"><l>вериня</l>
+<lg xml:lang="mdf"><l pos="A">вериня</l>
 <st>вериня</st>
 <PhnUBlock>
 <PhnU>
@@ -42137,7 +42161,7 @@ jedoch
 <lg edit="JMR" xml:lang="myv"><l pos="A">вететькс</l>
 <st>вӒ4тетькс</st>
 </lg>
-<lg xml:lang="mdf"><l>ветецекс</l>
+<lg xml:lang="mdf"><l pos="A">ветецекс</l><!-- CHECK -->
 <st>ветецекс</st>
 <PhnUBlock>
 <PhnU>
@@ -43313,7 +43337,7 @@ jedoch
 </GeoUB>
 </PhnUBlock>
 </lg>
-<lg xml:lang="mdf"><l>ведю</l>
+<lg xml:lang="mdf"><l pos="A">ведю</l>
 <st>ведю</st>
 <PhnUBlock>
 <PhnU>
@@ -43449,8 +43473,8 @@ jedoch
 </GeoUB>
 </PhnUBlock>
 </lg>
-<lg xml:lang="mdf"><l>вяры</l>
-<st>вяры</st>
+<lg xml:lang="mdf"><l pos="A">вери</l>
+<st>вери</st>
 <PhnUBlock>
 <Chc>
 <Vrt>
@@ -43668,7 +43692,7 @@ jedoch
 </GeoUB>
 </PhnUBlock>
 </lg>
-<lg xml:lang="mdf"><l>верек</l>
+<lg xml:lang="mdf"><l pos="A">верек</l>
 <st>верек</st>
 <PhnUBlock>
 <Chc>
@@ -43858,7 +43882,7 @@ jedoch
 </MWUB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos="elative-adv"/></E3Head>
-<lg xml:lang="myv"><l>веьрекстэ</l>
+<lg xml:lang="myv"><l pos="Adv">верекстэ</l>
 <st>веьрекстэ</st>
 <PhnUBlock>
 <PhnU>
@@ -44004,7 +44028,7 @@ jedoch
 </GeoUB>
 </PhnUBlock>
 </lg>
-<lg xml:lang="mdf"><l>верьксу</l>
+<lg xml:lang="mdf"><l pos="A">верьксу</l>
 <st>верьксу</st>
 <PhnUBlock>
 <PhnU>
@@ -44057,7 +44081,7 @@ jedoch
 </GeoUB>
 </PhnUBlock>
 </lg>
-<lg xml:lang="mdf"><l>вецана</l>
+<lg xml:lang="mdf"><l pos="A">вецана</l>
 <st>вецана</st>
 <PhnUBlock>
 <PhnU>
@@ -44158,10 +44182,10 @@ jedoch
 </HWB>
 <MWUB>
 <E3Head><POS pos="N"/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l>веьцана модамарь</l>
+<lg edit="JMR" xml:lang="myv"><l pos="N">вецана модамарь</l>
 <st>веьцана модамарь</st>
 </lg>
-<lg xml:lang="mdf"><l>вецана модамарь</l>
+<lg xml:lang="mdf"><l pos="N">вецана модамарь</l>
 <st>вецана модамарь</st>
 <PhnUBlock>
 <PhnU>
@@ -44504,7 +44528,7 @@ jedoch
 </GeoUB>
 </PhnUBlock>
 </lg>
-<lg xml:lang="mdf"><l>вии</l>
+<lg xml:lang="mdf"><l pos="A">вии</l>
 <st>вии</st>
 <PhnUBlock>
 <PhnU>
@@ -44739,7 +44763,7 @@ jedoch
 </GeoUB>
 </PhnUBlock>
 </lg>
-<lg xml:lang="mdf"><l>вии варма</l>
+<lg xml:lang="mdf"><l pos="N">вии варма</l>
 <st>вии варма</st>
 <PhnUBlock>
 <PhnU>
@@ -44777,7 +44801,7 @@ jedoch
 </MWUB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos="elative-adv"/></E3Head>
-<lg xml:lang="myv"><l>виевстэ</l>
+<lg xml:lang="myv"><l pos="Adv">виевстэ</l>
 <st>виевстэ</st>
 <PhnUBlock>
 <PhnU>
@@ -44791,7 +44815,7 @@ jedoch
 </GeoUB>
 </PhnUBlock>
 </lg>
-<lg xml:lang="mdf"><l>вииста</l>
+<lg xml:lang="mdf"><l pos="Adv">вииста</l>
 <st>вииста</st>
 <PhnUBlock>
 <PhnU>
@@ -46247,7 +46271,7 @@ jedoch
 </GeoUB>
 </PhnUBlock>
 </lg>
-<lg xml:lang="mdf"><l>виекшу</l>
+<lg xml:lang="mdf"><l pos="A">виекшу</l>
 <st>виекшу</st>
 <PhnUBlock>
 <Chc>
@@ -46895,7 +46919,7 @@ jedoch
 </GeoUB>
 </PhnUBlock>
 </lg>
-<lg xml:lang="mdf"><l>вярзу</l>
+<lg xml:lang="mdf"><l pos="A">вярзу</l>
 <st>вярзу</st>
 <PhnUBlock>
 <Chc>
@@ -47063,7 +47087,7 @@ jedoch
 </GeoUB>
 </PhnUBlock>
 </lg>
-<lg xml:lang="mdf"><l>вирьфтемя</l>
+<lg xml:lang="mdf"><l pos="A">вирьфтемя</l>
 <st>вирьфтемя</st>
 <PhnUBlock>
 <PhnU>
@@ -47344,7 +47368,7 @@ jedoch
 </GeoUB>
 </PhnUBlock>
 </lg>
-<lg xml:lang="mdf"><l>вишәнь</l>
+<lg xml:lang="mdf"><l pos="A">вишәнь</l>
 <st>вишәнь</st>
 <PhnUBlock>
 <PhnU>
@@ -47371,7 +47395,7 @@ jedoch
 </HWB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
-<lg xml:lang="myv"><l>вишинь товт</l>
+<lg xml:lang="myv"><l pos="N">вишинь товт</l>
 <st>вишинь товт</st>
 <PhnUBlock>
 <PhnU>
@@ -47764,7 +47788,7 @@ jedoch
 </HWB>
 <MWUB>
 <E3Head><POS/></E3Head>
-<lg xml:lang="myv"><l>волосной кантор</l>
+<lg xml:lang="myv"><l pos="N">волосной кантор</l>
 <st>волосной кантор</st>
 <PhnUBlock>
 <PhnU>
@@ -49467,7 +49491,7 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 </HWB>
 <MWUB>
 <E3Head><POS/></E3Head>
-<lg xml:lang="myv"><l>граневой столба</l>
+<lg xml:lang="myv"><l pos="N">граневой столба</l>
 <st>граневой столба</st>
 <PhnUBlock>
 <PhnU>
@@ -49577,7 +49601,7 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<lg xml:lang="mdf"><l>крешнай</l>
+<lg xml:lang="mdf"><l pos="A">крешнай</l>
 <st>крешнай</st>
 <PhnUBlock>
 <PhnU>
@@ -49770,7 +49794,7 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 </HWB>
 <MWUB>
 <E3Head><POS/></E3Head>
-<lg xml:lang="myv"><l>гривенной сьвеча</l>
+<lg xml:lang="myv"><l pos="N">гривенной сьвеча</l>
 <st>гривенной сьвеча</st>
 <PhnUBlock>
 <PhnU>
@@ -49842,7 +49866,7 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 </HWB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos="elative-adv"/></E3Head>
-<lg xml:lang="myv"><l>грознасто</l>
+<lg xml:lang="myv"><l pos="Adv">грознасто</l>
 <st>грознасто</st>
 <PhnUBlock>
 <PhnU>
@@ -49966,7 +49990,7 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<lg xml:lang="mdf"><l>пумагань</l>
+<lg xml:lang="mdf"><l pos="A">пумагань</l>
 <st>пумагань</st>
 <PhnUBlock>
 <PhnU>
@@ -50124,7 +50148,7 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 </HWB>
 <MWUB>
 <E3Head><POS/></E3Head>
-<lg xml:lang="myv"><l>двоюродной брат</l>
+<lg xml:lang="myv"><l pos="N">двоюродной брат</l>
 <st>двоюродной брат</st>
 <PhnUBlock>
 <PhnU>
@@ -50168,7 +50192,7 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 </MWUB>
 <MWUB>
 <E3Head><POS/></E3Head>
-<lg xml:lang="myv"><l>двоюродной сазор</l>
+<lg xml:lang="myv"><l pos="N">двоюродной сазор</l>
 <st>двоюродной сазор</st>
 <PhnUBlock>
 <PhnU>
@@ -50708,7 +50732,7 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<lg xml:lang="mdf"><l>добрай</l>
+<lg xml:lang="mdf"><l pos="A">добрай</l>
 <st>добрай</st>
 <PhnUBlock>
 <PhnU>
@@ -52435,7 +52459,7 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 </HWB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos="elative-adv"/></E3Head>
-<lg xml:lang="myv"><l>жалобнясто</l>
+<lg xml:lang="myv"><l pos="Adv">жалобнясто</l>
 <st>жалобнясто</st>
 <PhnUBlock>
 <PhnU>
@@ -52585,7 +52609,7 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 </HWB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
-<lg xml:lang="myv"><l>жерьдянь пиряфт</l>
+<lg xml:lang="myv"><l pos="N">жерьдянь пиряфт</l>
 <st>жерьдянь пиряфт</st>
 <PhnUBlock>
 <PhnU>
@@ -52654,7 +52678,7 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<lg xml:lang="mdf"><l>шестәнь</l>
+<lg xml:lang="mdf"><l pos="A">шестәнь</l>
 <st>шестәнь</st>
 <PhnUBlock>
 <Chc>
@@ -52767,7 +52791,7 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<lg xml:lang="mdf"><l>шавлаку</l>
+<lg xml:lang="mdf"><l pos="A">шавлаку</l>
 <st>шавлаку</st>
 <PhnUBlock>
 <PhnU>
@@ -52858,7 +52882,7 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 <t>am Leben</t>
 </tg>
 </mg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd myvId="апак">apak</Wd>
 <Wd myvId="чачтозись">čačtoźiś</Wd>
@@ -52920,7 +52944,7 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 </sources>
 <xt xml:lang="deu">Ich werde von euch nicht hören, ob ihr am Leben seid.</xt>
 </xg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd mdfId="монь">moń</Wd>
 <Wd mdfId="улишть">uĺišt́</Wd>
@@ -53616,7 +53640,7 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 </InflB>
 </PhnUBlock>
 </lg>
-<lg xml:lang="mdf"><l>здаров</l>
+<lg xml:lang="mdf"><l pos="A">здаров</l>
 <st>здаров</st>
 <PhnUBlock>
 <PhnU>
@@ -53789,7 +53813,7 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 </HWB>
 <MWUB>
 <E3Head><POS pos="A:Pres20"/></E3Head>
-<lg xml:lang="myv"><l>здороват</l>
+<lg xml:lang="myv"><l pos="Interj">здороват</l>
 <st>здороват</st>
 <PhnUBlock>
 <PhnU>
@@ -53827,7 +53851,7 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 </MWUB>
 <MWUB>
 <E3Head><POS pos="A:Pres50"/></E3Head>
-<lg xml:lang="myv"><l>здоровтадо</l>
+<lg xml:lang="myv"><l pos="Interj">здоровтадо</l>
 <st>здоровтадо</st>
 <PhnUBlock>
 <PhnU>
@@ -54194,7 +54218,7 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<lg xml:lang="mdf"><l>сәлатой</l>
+<lg xml:lang="mdf"><l pos="A">сәлатой</l>
 <st>сәлатой</st>
 <PhnUBlock>
 <PhnU>
@@ -54491,7 +54515,7 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<lg xml:lang="mdf"><l>мәзярәнь</l>
+<lg xml:lang="mdf"><l pos="A">мәзярәнь</l>
 <st>мәзярәнь</st>
 <PhnUBlock>
 <PhnU>
@@ -54594,7 +54618,7 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 </HWB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
-<lg xml:lang="myv"><l>зярынь-зярынь</l>
+<lg xml:lang="myv"><l pos="A">зярынь-зярынь</l>
 <st>зярынь-зярынь</st>
 <PhnUBlock>
 <Chc>
@@ -55343,7 +55367,7 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 </HWB>
 <MWUB>
 <E3Head><POS/></E3Head>
-<lg xml:lang="myv"><l>седе икелень</l>
+<lg xml:lang="myv"><l pos="A">седе икелень</l>
 <st>седе икелень</st>
 <PhnUBlock>
 <PhnU>
@@ -55430,7 +55454,7 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<lg xml:lang="mdf"><l>илиин</l>
+<lg xml:lang="mdf"><l pos="A">илиин</l>
 <st>илиин</st>
 <PhnUBlock>
 <PhnU>
@@ -55453,8 +55477,8 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 </HWB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
-<lg xml:lang="myv"><l>илеинь кептерь</l>
-<st>илеинь кептерь</st>
+<lg xml:lang="myv"><l pos="N">илеень кептерь</l>
+<st>илеень кептерь</st>
 <PhnUBlock>
 <PhnU>
 <Wd myvId="илеинь">iĺejiń</Wd>
@@ -55465,7 +55489,7 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<lg xml:lang="mdf"><l>илиень кептерь</l>
+<lg xml:lang="mdf"><l pos="N">илиень кептерь</l>
 <st>илиень кептерь</st>
 <PhnUBlock>
 <PhnU>
@@ -55488,7 +55512,7 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 </MWUB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
-<lg xml:lang="myv"><l>илиинь кутец</l>
+<lg xml:lang="myv"><l pos="N">илиинь кутец</l>
 <st>илиинь кутец</st>
 <PhnUBlock>
 <PhnU>
@@ -55515,7 +55539,7 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l/><st/>
 </lg>
-<lg xml:lang="mdf"><l>илиень нерата</l>
+<lg xml:lang="mdf"><l pos="N">илиень нерата</l>
 <st>илиень нерата</st>
 <PhnUBlock>
 <PhnU>
@@ -55561,7 +55585,7 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<lg xml:lang="mdf"><l>илу</l>
+<lg xml:lang="mdf"><l pos="A">илу</l>
 <st>илу</st>
 <PhnUBlock>
 <PhnU>
@@ -55709,7 +55733,7 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 <t>gross</t>
 </tg>
 </mg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd myvId="тимболды">t́imboldi͔</Wd>
 <tk3 isa="comma"/>
@@ -55792,7 +55816,7 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 </sources>
 <xt xml:lang="deu">Es sind von jener Seite des grossen Wassers Vorfahren mit ihren Weibern gekommen.</xt>
 </xg>
-<xg>
+<xg genre="riddle">
 (Vgl.: <x>
 <Wd myvId="ине">ińe</Wd>
 <Wd myvId="вединь">v́ed́iń</Wd>
@@ -55898,7 +55922,7 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 <t>Kaiser</t>
 </tg>
 </mg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd myvId="пазынть">pazi͔ńt́</Wd>
 <Wd myvId="эйстэ">ejste͔</Wd>
@@ -55919,7 +55943,7 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 </sources>
 <xt xml:lang="deu">Geringer als Gott, grösser als der Kaiser. – Der Tod.</xt>
 </xg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd myvId="вядьга">v́äd́ga</Wd>
 <Wd myvId="яки">jaḱi</Wd>
@@ -56647,7 +56671,7 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 </GeoUB>
 )</dfQl1>
 </mg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd myvId="цёрань">ćorań</Wd>
 <Wd myvId="кенерешка">ḱeńeŕeška</Wd>
@@ -57315,7 +57339,7 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 </e>
   <e>
 <root_ref xml:lang="myv" hid="3" pos="Pron" lemma="э-"/>
-<root_ref xml:lang="mdf" hid="3" pos="" lemma="э-"/>
+<root_ref xml:lang="mdf" hid="3" pos="Pron" lemma="э-"/>
 <HWB>
 <E3Head><POS/><deriv isa="DVNoun-OMA"/></E3Head>
 <lg xml:lang="myv"><l pos="A">истямо</l>
@@ -57385,7 +57409,7 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 </GeoUB>
 </PhnUBlock>
 </lg>
-<lg xml:lang="mdf"><l>стама</l>
+<lg xml:lang="mdf"><l pos="A">стама</l>
 <st>стама</st>
 <PhnUBlock>
 <PhnU>
@@ -57927,7 +57951,7 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 <t>Schuppen u. dgl.]</t>
 </tg>
 </mg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd myvId="кудошка">kudoška</Wd>
 <tk3 isa="comma"/>
@@ -58596,7 +58620,7 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 <t>jeder</t>
 </tg>
 </mg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd myvId="кажной">kažnoj</Wd>
 <Wd myvId="иестэ">ijeste͔</Wd>
@@ -59280,7 +59304,7 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 <t>verkrüppelt</t>
 </tg>
 </mg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd myvId="верьга">v́eŕga</Wd>
 <Wd myvId="каладо">kalado</Wd>
@@ -61825,7 +61849,7 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 <t>ohne Rücken</t>
 </tg>
 </mg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd myvId="карястомо">kaŕastomo</Wd>
 <tk3 isa="comma"/>
@@ -61846,7 +61870,7 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 </sources>
 <xt xml:lang="deu">Ein Mensch ohne Rücken, ohne Gehirn, ohne Gelenke. – Der Bastschuh.</xt>
 </xg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd myvId="соньць">sońć</Wd>
 <Wd myvId="карястомо">kaŕastomo</Wd>
@@ -62331,7 +62355,7 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 <re>z.B. Rad des Karrens</re>
 </tg>
 </mg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd mdfId="фкя">fḱä</Wd>
 <Wd mdfId="кевəрь">ḱevəŕ</Wd>
@@ -63394,7 +63418,7 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 <t>Breitstirniger</t>
 </tg>
 </mg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd mdfId="кели">ḱeĺi</Wd>
 <Wd mdfId="коня">końä</Wd>
@@ -63498,7 +63522,7 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 </MWUB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos="bahuv"/></E3Head>
-<lg xml:lang="myv"><l>келей лопа</l>
+<lg xml:lang="myv"><l pos="N">келей лопа</l>
 <st>келей лопа</st>
 <PhnUBlock>
 <PhnU>
@@ -63857,7 +63881,7 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 </sources>
 <xt xml:lang="deu">Gott hüte (es) vor Kälte, vor Hagel!</xt>
 </xg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd myvId="ине">ińe</Wd>
 <Wd myvId="куко">kuko</Wd>
@@ -63879,7 +63903,7 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 </sources>
 <xt xml:lang="deu">Ein grosser Kuckuck kuckuckt, er schüttelt die Espenblätter herab. – Der Frost.</xt>
 </xg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd myvId="шкинень">šḱińeń</Wd>
 <Wd myvId="тейтерь">t́ejt́eŕ</Wd>
@@ -65988,7 +66012,7 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 </HWB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos="gen-attr"/><deriv isa="Dem"/></E3Head>
-<lg xml:lang="myv"><l>гигерень кече</l>
+<lg xml:lang="myv"><l pos="N">гигерень кече</l>
 <st>гигерень ке4че</st>
 <PhnUBlock>
 <PhnU>
@@ -66767,7 +66791,7 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 </HWB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
-<lg xml:lang="myv"><l>килеень кирькс</l>
+<lg xml:lang="myv"><l pos="N">килеень кирькс</l>
 <st>килеень кирькс</st>
 <PhnUBlock>
 <PhnU>
@@ -67497,7 +67521,7 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 <re>Geheimw.</re>
 </tg>
 </mg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd myvId="сееде">śejed́e</Wd>
 <Wd myvId="пенкат">ṕeŋkat</Wd>
@@ -67518,7 +67542,7 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 </sources>
 <xt xml:lang="deu">Dichte Stümpfchen, eine zickzackförmige Waldwiese. – Der Bienengarten.</xt>
 </xg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd myvId="кичкере">ḱičḱeŕe</Wd>
 <Wd myvId="мешче">ḿešče͔</Wd>
@@ -67697,7 +67721,7 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 </sources>
 <xt xml:lang="deu">Ein schiefes, krummes Spielzeug.</xt>
 </xg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd mdfId="кичкə̑р">ḱičkə̑r</Wd>
 <Hph edit="MK"/>
@@ -67719,7 +67743,7 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 </sources>
 <xt xml:lang="deu">Ein Schiefes, Krummes läuft, bleibt nirgends sitzen. – Der Regenbach.</xt>
 </xg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd mdfId="кичкə̑р">ḱičkə̑r</Wd>
 <Hph edit="MK"/>
@@ -67741,7 +67765,7 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 </sources>
 <xt xml:lang="deu">Schief und krumm sind seine Pfoten, seine Flügel reissen Rinde ab. – Der Schnee.</xt>
 </xg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd mdfId="кичкə̑ра">ḱičkə̑ra</Wd>
 <Hph/>
@@ -69715,7 +69739,7 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 </GeoUB>
 )</dfQl1>
 </mg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd myvId="тонган">toŋgan</Wd>
 <Wd myvId="и">i</Wd>
@@ -69736,7 +69760,7 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 </sources>
 <xt xml:lang="deu">Ich stecke hinein und ich ziehe heraus eine schiefe Bojarin. – Das Weberschiffchen.</xt>
 </xg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd edit="MK" mdfId="кəрьво·йсь">ḱəŕvo·jś</Wd>
 <Wd mdfId="касо·йть">kaso·jt́</Wd>
@@ -70454,7 +70478,7 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 </HWB>
 <MWUB>
 <E3Head><POS pos="N"/><deriv isa="prt-IJ"/></E3Head>
-<lg xml:lang="myv"><l>кранцыскый паця</l>
+<lg xml:lang="myv"><l pos="N">кранцыскый паця</l>
 <st>кранцыскый паця</st>
 <PhnUBlock>
 <PhnU>
@@ -71080,7 +71104,7 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 </sources>
 <xt xml:lang="deu">Sie urteilten mir, meine Freundinnen, eine schiefe (?), karge Stelle zu.</xt>
 </xg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd edit="MK" mdfId="кəрьво·йсь">ḱəŕvo·jś</Wd>
 <Wd mdfId="касо·йть">kaso·jt́</Wd>
@@ -71121,7 +71145,7 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 </sources>
 <xt xml:lang="deu">Meine Mutter ist einäugig [? blind].</xt>
 </xg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd mdfId="колмоге·мəнь">kolmə̑ǵe·məń</Wd>
 <Wd mdfId="чəсаво·й">čəsavo·j</Wd>
@@ -71336,7 +71360,7 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 </sources>
 <xt xml:lang="deu">Bist du blind, mein Kind, oder lahm?</xt>
 </xg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd mdfId="орта">orta</Wd>
 <Wd mdfId="ланга">laŋga</Wd>
@@ -71420,7 +71444,7 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 <t>kreisförmig</t>
 </tg>
 </mg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd myvId="кругловой">kruglovoj</Wd>
 <Wd myvId="улита">uĺita</Wd>
@@ -71438,7 +71462,7 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 </sources>
 <xt xml:lang="deu">Eine runde Ulita mit gekerbtem Äusseren. – Der Kuchen.</xt>
 </xg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd myvId="соньць">sońć</Wd>
 <Wd myvId="кругловой">kruglovoj</Wd>
@@ -71513,7 +71537,7 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 <t>kreisförmig</t>
 </tg>
 </mg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd myvId="соньць">sońć</Wd>
 <Wd myvId="вешкинка">v́ešḱiŋka</Wd>
@@ -72234,7 +72258,7 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 <t>lang</t>
 </tg>
 </mg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd myvId="икельцетне">iḱeĺćet́ńe</Wd>
 <Wd myvId="нурькинеть">nuŕḱińet́</Wd>
@@ -72363,7 +72387,7 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 </MWUB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos="A-syntax"/></E3Head>
-<lg xml:lang="myv"><l>кувака уло</l>
+<lg xml:lang="myv"><l pos="N">кувака уло</l>
 <st>кувака уло</st>
 <PhnUBlock>
 <PhnU>
@@ -72386,7 +72410,7 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 <t>langkinnig</t>
 </tg>
 </mg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd myvId="кувака">kuvaka</Wd>
 <Wd myvId="уло">ulo</Wd>
@@ -72436,7 +72460,7 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 <t>länglich</t>
 </tg>
 </mg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd myvId="соньць">sońć</Wd>
 <Wd myvId="вешкине">v́ešḱińe</Wd>
@@ -72654,7 +72678,7 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 <t>so gross wie ein Haus od. eine Stube</t>
 </tg>
 </mg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd myvId="кудошка">kudoška</Wd>
 <tk3 isa="comma"/>
@@ -73670,7 +73694,7 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 </HWB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
-<lg xml:lang="myv"><l>кшнань карь</l>
+<lg xml:lang="myv"><l pos="N">кшнань карь</l>
 <st>кшнань карь</st>
 <PhnUBlock>
 <PhnU>
@@ -73816,7 +73840,7 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 <t>eisern</t>
 </tg>
 </mg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd myvId="пижень">ṕiže͔ń</Wd>
 <Wd myvId="кардо">kardo</Wd>
@@ -74081,7 +74105,7 @@ Pfriemen erstechen!</t>
 </MWUB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
-<lg xml:lang="myv"><l>кшнынь кочкаря</l>
+<lg xml:lang="myv"><l pos="N">кшнынь кочкаря</l>
 <st>кшнынь кочкаря</st>
 <PhnUBlock>
 <PhnU>
@@ -74174,7 +74198,7 @@ Pfriemen erstechen!</t>
 </MWUB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
-<lg xml:lang="myv"><l>кшнинь нерь</l>
+<lg xml:lang="myv"><l pos="N">кшнинь нерь</l>
 <st>кшнинь нерь</st>
 <PhnUBlock>
 <PhnU>
@@ -76285,7 +76309,7 @@ Pfriemen erstechen!</t>
 </sources>
 <xt xml:lang="deu">Lass mich als warmen Regen herniederregnen.</xt>
 </xg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd myvId="верезэ">v́eŕeze͔</Wd>
 <Wd myvId="арась">araś</Wd>
@@ -76305,7 +76329,7 @@ Pfriemen erstechen!</t>
 </sources>
 <xt xml:lang="deu">Es hat kein Blut, aber jedoch ist es warm. – Der Ofen.</xt>
 </xg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd myvId="кудосто">kudosto</Wd>
 <Wd myvId="мезе">ḿeźe</Wd>
@@ -76630,7 +76654,7 @@ Pfriemen erstechen!</t>
 </HWB>
 <MWUB>
 <E3Head><POS/></E3Head>
-<lg xml:lang="myv"><l>лемев ям</l>
+<lg xml:lang="myv"><l pos="N">лемев ям</l>
 <st>лемев ям</st>
 <PhnUBlock>
 <PhnU>
@@ -76710,7 +76734,7 @@ Pfriemen erstechen!</t>
 </HWB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
-<lg xml:lang="myv"><l>леминь ям</l>
+<lg xml:lang="myv"><l pos="N">леминь ям</l>
 <st>леминь ям</st>
 <PhnUBlock>
 <PhnU>
@@ -76963,7 +76987,7 @@ Pfriemen erstechen!</t>
 <t>aus Lindenbast bestehend</t>
 </tg>
 </mg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd myvId="равинь">rav́iń</Wd>
 <Wd myvId="трокс">troks</Wd>
@@ -77026,7 +77050,7 @@ Pfriemen erstechen!</t>
 <t>faul</t>
 </tg>
 </mg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd myvId="соньць">sońć</Wd>
 <Wd myvId="вешкине">v́ešḱińe</Wd>
@@ -78170,7 +78194,7 @@ Pfriemen erstechen!</t>
 <t>ohne Knochen</t>
 </tg>
 </mg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd myvId="кото">koto</Wd>
 <Wd myvId="пильксэ">ṕiĺkse͔</Wd>
@@ -78304,7 +78328,7 @@ Pfriemen erstechen!</t>
 </HWB>
 <MWUB>
 <E3Head><POS/></E3Head>
-<lg xml:lang="myv"><l>лонон тарка</l>
+<lg xml:lang="myv"><l pos="N">лонон тарка</l>
 <st>лонон тарка</st>
 <PhnUBlock>
 <PhnU>
@@ -80128,7 +80152,7 @@ Pfriemen erstechen!</t>
 </HWB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
-<lg xml:lang="myv"><l>лёнынь коцт</l>
+<lg xml:lang="myv"><l pos="N">лёнынь коцт</l>
 <st>лёнынь коцт</st>
 <PhnUBlock>
 <PhnU>
@@ -80151,7 +80175,7 @@ Pfriemen erstechen!</t>
 <t pos="N">Leinwand</t>
 </tg>
 </mg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd myvId="чавимизь">čav́iḿiź</Wd>
 <tk3 isa="comma"/>
@@ -80853,7 +80877,7 @@ Pfriemen erstechen!</t>
 </sources>
 <xt xml:lang="deu">Seine Augen sehen schön aus (sind schön aussehend; P.).</xt>
 </xg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd mdfId="мази">maźi</Wd>
 <Wd mdfId="стерня">śt́əŕńä·</Wd>
@@ -80887,7 +80911,7 @@ Pfriemen erstechen!</t>
 </sources>
 <xt xml:lang="deu">Fürwahr, ich bin hübsch und schön.</xt>
 </xg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd mdfId="мазы">mazi͔</Wd>
 <Wd mdfId="пада">pada</Wd>
@@ -81223,7 +81247,7 @@ Pfriemen erstechen!</t>
 <Wd CyrId="ава">ava</Wd></FrnTxt> (gute Frau), <FrnTxt><Wd CyrId="веж">v́ež</Wd>
 <Wd CyrId="ава">ava</Wd></FrnTxt> (artige Frau)”.</t>
 </xg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd edit="MK" mdfId="седь">śed́</Wd>
 <tk3 edit="MK" isa="comma"/>
@@ -81823,7 +81847,7 @@ Pfriemen erstechen!</t>
 </sources>
 <xt xml:lang="deu">Wir wollen unsere schöne, liebe Schwester aufnehmen!</xt>
 </xg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd myvId="пижыне">ṕiži͔ńe</Wd>
 <tk3 isa="comma"/>
@@ -82360,7 +82384,7 @@ Pfriemen erstechen!</t>
 <t>klein</t>
 </tg>
 </mg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd myvId="милинкой">ḿiĺiŋkoj</Wd>
 <tk3 isa="comma"/>
@@ -83193,7 +83217,7 @@ Pfriemen erstechen!</t>
 </sources>
 <xt xml:lang="deu">Was für ein Menschengeruch ist (hier) wahrzunehmen?</xt>
 </xg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd myvId="мезень">ḿeźeń</Wd>
 <Wd myvId="роботамось">robotamoś</Wd>
@@ -83489,7 +83513,7 @@ Pfriemen erstechen!</t>
 </MWUB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
-<lg xml:lang="myv"><l>мезень кувалма</l>
+<lg xml:lang="myv"><l pos="N">мезень кувалма</l>
 <st>мезень кувалма</st>
 <PhnUBlock>
 <PhnU>
@@ -84930,7 +84954,7 @@ jds. (folgend)</t>
 <t>lieblich</t>
 </tg>
 </mg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd myvId="милинкой">ḿiĺiŋkoj</Wd>
 <tk3 isa="comma"/>
@@ -85751,7 +85775,7 @@ jds. (folgend)</t>
 </HWB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
-<lg xml:lang="myv"><l>мокшонь ава</l>
+<lg xml:lang="myv"><l pos="N">мокшонь ава</l>
 <st>мокшонь ава</st>
 <PhnUBlock>
 <PhnU>
@@ -85803,7 +85827,7 @@ jds. (folgend)</t>
 </MWUB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
-<lg xml:lang="myv"><l>мокшонь од цёра</l>
+<lg xml:lang="myv"><l pos="N">мокшонь од цёра</l>
 <st>мокшонь од цёра</st>
 <PhnUBlock>
 <PhnU>
@@ -86700,7 +86724,7 @@ P.: Eine metathetische F. aus <Et>
 <t edit="MK">Hanf-</t>
 </tg>
 </mg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd myvId="телазо">t́elazo</Wd>
 <Wd edit="MK" myvId="скотинань">skot́inań</Wd>
@@ -87298,7 +87322,7 @@ P.: Eine metathetische F. aus <Et>
 </tg>
 <TrlnCtn>
 <Calque xml:lang="deu">Faulzüngiger</Calque>
-<Cm><SubjectField>Schimpfw</SubjectField>; für einen Stotterer od. Lispler</Cm>
+<Cm><stylistic>Schimpfw</stylistic>; für einen Stotterer od. Lispler</Cm>
 </TrlnCtn>
 </mg>
 </MWUB>
@@ -90183,7 +90207,7 @@ P.: Eine metathetische F. aus <Et>
 <xg>
 <x>
 <Wd myvId="каштом">kaštom</Wd>
-<Wd myvId="икеленть">iḱeĺeńt́</Wd>
+<Wd myvId="икеленть">iḱeĺeńt́</Wd><!-- Determinative with postposition -->
 <Wd myvId="–">–</Wd>
 <Wd myvId="новобраннойтне">novobrannojt́ńe</Wd>
 <tk3 isa="comma"/>
@@ -91725,7 +91749,7 @@ P.: Eine metathetische F. aus <Et>
 </HWB>
 <MWUB>
 <E3Head><POS/></E3Head>
-<lg xml:lang="myv"><l>нулков сельме</l>
+<lg xml:lang="myv"><l pos="N">нулков сельме</l>
 <st>нулков сельме</st>
 <PhnUBlock>
 <PhnU>
@@ -92048,7 +92072,7 @@ P.: Eine metathetische F. aus <Et>
 <t>das kürzere Ende (von zweien)</t>
 </tg>
 </mg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd myvId="икельцетне">iḱeĺćet́ńe</Wd>
 <Wd myvId="нурькинеть">nuŕḱińet́</Wd>
@@ -92360,7 +92384,7 @@ P.: Eine metathetische F. aus <Et>
 <t>jung</t>
 </tg>
 </mg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd myvId="ташто">tašto</Wd>
 <Wd myvId="парь">paŕ</Wd>
@@ -92441,7 +92465,7 @@ P.: Eine metathetische F. aus <Et>
 </sources>
 <xt xml:lang="deu">Wo [Wann] werden wir deine junge Gestalt sehen?</xt>
 </xg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd myvId="вейке">v́ejḱe</Wd>
 <Wd myvId="сыре">si͔ŕe</Wd>
@@ -94744,7 +94768,7 @@ P.: Eine metathetische F. aus <Et>
 </GeoUB>
 )</dfQl1>
 </mg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd myvId="паксянь">pakśäń</Wd>
 <Wd myvId="келес">ḱeĺes</Wd>
@@ -94764,7 +94788,7 @@ P.: Eine metathetische F. aus <Et>
 </sources>
 <xt xml:lang="deu">Über das Feld hin klingt das Klagelied einer jungen Frau. – Die ungeschmierten Räder.</xt>
 </xg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd myvId="тона">tona</Wd>
 <Wd myvId="кудонь">kudoń</Wd>
@@ -95379,7 +95403,7 @@ P.: Eine metathetische F. aus <Et>
 <GeoU>P</GeoU>
 </GeoUB>
 )</mg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd myvId="коренезэ">koŕeńeze͔</Wd>
 <Wd myvId="понав">ponav</Wd>
@@ -95469,7 +95493,7 @@ P.: Eine metathetische F. aus <Et>
 <t>ohne Ärmel</t>
 </tg>
 </mg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd myvId="суповтомо">supovtomo</Wd>
 <tk3 isa="comma"/>
@@ -96703,7 +96727,7 @@ P.: Eine metathetische F. aus <Et>
 </sources>
 <xt xml:lang="deu">Wird beim Einfahren des Roggens der (letzte) Wagen nicht voll, wird das Getreide im nächsten Sommer nicht wachsen.</xt>
 </xg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd mdfId="фкя">fḱä</Wd>
 <Wd mdfId="куца">kuca</Wd>
@@ -97133,7 +97157,7 @@ P.: Eine metathetische F. aus <Et>
 </sources>
 <xt xml:lang="deu">Einen solchen [seinesgleichen] reichen Schwiegersohn wirst du nicht finden.</xt>
 </xg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd CyrId="фкя">fḱä</Wd>
 <Wd CyrId="покə̑ц">pokə̑c</Wd>
@@ -97720,7 +97744,7 @@ P.: Eine metathetische F. aus <Et>
 </GeoUB>
 )</dfQl1>
 </mg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd myvId="опкан">opkan</Wd>
 <Wd myvId="салмат">salmat</Wd>
@@ -97905,7 +97929,7 @@ P.: Eine metathetische F. aus <Et>
 <t>frei von Krankheit</t>
 </tg>
 </mg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd myvId="ормавтомо">ormavtomo</Wd>
 <Wd myvId="кувци">kuvći</Wd>
@@ -97984,7 +98008,7 @@ P.: Eine metathetische F. aus <Et>
 </HWB>
 <MWUB>
 <E3Head><POS/></E3Head>
-<lg xml:lang="myv"><l>ормаза тикше</l>
+<lg xml:lang="myv"><l pos="N">ормаза тикше</l>
 <st>ормаза тикше</st>
 <PhnUBlock>
 <PhnU>
@@ -99175,7 +99199,7 @@ des Hauses</t>
 <t>Ostern</t>
 </tg>
 <dfQsyn1>(eig.: der grosse Tag, russ. <cyr>великий день</cyr></dfQsyn1>)</mg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd mdfId="колмасятт">kolmaśatt</Wd>
 <Wd mdfId="нармонь">narmə̑ń</Wd>
@@ -99979,7 +100003,7 @@ des Hauses</t>
 </HWB>
 <MWUB>
 <E3Head><POS pos="Attr-Tra"/></E3Head>
-<lg xml:lang="myv"><l>паксякс пуло</l>
+<lg xml:lang="myv"><l pos="N">паксякс пуло</l>
 <st>паксякс пуло</st>
 <PhnUBlock>
 <PhnU>
@@ -100193,7 +100217,7 @@ des Hauses</t>
 </HWB>
 <MWUB>
 <E3Head><POS pos="Attr-Tra"/></E3Head>
-<lg xml:lang="myv"><l>панаркс-коцт</l>
+<lg xml:lang="myv"><l pos="N">панаркс-коцт</l>
 <st>панаркс-коцт</st>
 <PhnUBlock>
 <PhnU>
@@ -105470,7 +105494,7 @@ des Hauses</t>
 </HWB>
 <MWUB>
 <E3Head><POS/></E3Head>
-<lg xml:lang="myv"><l>петной столба</l>
+<lg xml:lang="myv"><l pos="N">петной столба</l>
 <st>петной столба</st>
 <PhnUBlock>
 <PhnU>
@@ -105948,7 +105972,7 @@ des Hauses</t>
 </PhnU>
 <sources>
 <book name="Chr" xml:lang="myv"/>
-</sources><SubjectField>in der Volksd</SubjectField> 
+</sources><stylistic>in der Volksd</stylistic> 
 <GeoUB xml:lang="myv">
 <GeoU>Šest</GeoU>
 </GeoUB>
@@ -107855,7 +107879,7 @@ des Hauses</t>
 <GeoU>Večk</GeoU>
 <GeoU>Jeg</GeoU>
 </GeoUB>
-<SubjectField>veralt</SubjectField>
+<temporal>veralt</temporal>
 </PhnUBlock>
 </lg>
 <lg xml:lang="mdf"><l pos="A">покаряв</l>
@@ -109330,7 +109354,7 @@ des Hauses</t>
 <Hph/>
 <Wd CyrId="бабинень">bab́ińeń</Wd>
 </x>
-<SubjectField>poet</SubjectField>
+<stylistic>poet</stylistic>
 <src1>
 <GeoUB xml:lang="myv">
 <GeoU>Atr</GeoU>
@@ -111288,7 +111312,7 @@ Eine kontam. F. aus russ. <Et>полоса́тый</Et> + Adj. auf ‑<Et>ный
 </HWB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
-<lg xml:lang="myv"><l>понань суре</l>
+<lg xml:lang="myv"><l pos="N">понань суре</l>
 <st>понань суре</st>
 <PhnUBlock>
 <PhnU>
@@ -111355,7 +111379,7 @@ Eine kontam. F. aus russ. <Et>полоса́тый</Et> + Adj. auf ‑<Et>ный
 </HWB>
 <MWUB>
 <E3Head><POS/></E3Head>
-<lg xml:lang="myv"><l>пондакш пря</l>
+<lg xml:lang="myv"><l pos="N">пондакш пря</l>
 <st>пондакш пря</st>
 <PhnUBlock>
 <PhnU>
@@ -112225,7 +112249,7 @@ Eine kontam. F. aus russ. <Et>полоса́тый</Et> + Adj. auf ‑<Et>ный
 </HWB>
 <MWUB>
 <E3Head><POS/></E3Head>
-<lg xml:lang="myv"><l>потяка-эйкакш</l>
+<lg xml:lang="myv"><l pos="N">потяка-эйкакш</l>
 <st>потяка-эйкакш</st>
 <PhnUBlock>
 <PhnU>
@@ -113704,7 +113728,7 @@ Eine kontam. F. aus russ. <Et>полоса́тый</Et> + Adj. auf ‑<Et>ный
 </HWB>
 <MWUB>
 <E3Head><POS/></E3Head>
-<lg xml:lang="myv"><l>приёмной кардас</l>
+<lg xml:lang="myv"><l pos="N">приёмной кардас</l>
 <st>приёмной кардас</st>
 <PhnUBlock>
 <PhnU>
@@ -113754,7 +113778,7 @@ Eine kontam. F. aus russ. <Et>полоса́тый</Et> + Adj. auf ‑<Et>ный
 </MWUB>
 <MWUB>
 <E3Head><POS/></E3Head>
-<lg xml:lang="myv"><l>приёмной кудо</l>
+<lg xml:lang="myv"><l pos="N">приёмной кудо</l>
 <st>приёмной кудо</st>
 <PhnUBlock>
 <PhnU>
@@ -115496,7 +115520,7 @@ Eine kontam. F. aus russ. <Et>полоса́тый</Et> + Adj. auf ‑<Et>ный
 </HWB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos="bahuv"/></E3Head>
-<lg xml:lang="myv"><l>пузан пеке</l>
+<lg xml:lang="myv"><l pos="N">пузан пеке</l>
 <st>пузан пеке</st>
 <PhnUBlock>
 <PhnU>
@@ -117368,7 +117392,7 @@ Eine kontam. F. aus russ. <Et>полоса́тый</Et> + Adj. auf ‑<Et>ный
 </sources>
 <xt xml:lang="deu">Aus verschiedenartigen Perlen sind meine Halsbänder mit den Kreuzchen.</xt>
 </xg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd mdfId="монь">moń</Wd>
 <Wd edit="MK" mdfId="ули">uĺi</Wd>
@@ -120197,7 +120221,7 @@ jedoch auch <Et>
 </HWB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
-<lg xml:lang="myv"><l>рисьмень каркс</l>
+<lg xml:lang="myv"><l pos="N">рисьмень каркс</l>
 <st>рисьмень каркс</st>
 <PhnUBlock>
 <PhnU>
@@ -121513,7 +121537,7 @@ Aus der russ. prädik. F. <Et>робка</Et>]
 </HWB>
 <MWUB>
 <E3Head><POS/></E3Head>
-<lg xml:lang="myv"><l>рядовой кече</l>
+<lg xml:lang="myv"><l pos="N">рядовой кече</l>
 <st>рядовой кече</st>
 <PhnUBlock>
 <PhnU>
@@ -121968,7 +121992,7 @@ Aus der russ. prädik. F. <Et>робка</Et>]
 </HWB>
 <MWUB>
 <E3Head><POS/><deriv isa="Dem"/></E3Head>
-<lg xml:lang="myv"><l>салов кал</l>
+<lg xml:lang="myv"><l pos="N">салов кал</l>
 <st>салов кал</st>
 <PhnUBlock>
 <PhnU>
@@ -122078,7 +122102,7 @@ Aus der russ. prädik. F. <Et>робка</Et>]
 </MWUB>
 <MWUB>
 <E3Head><POS/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l>салов веьдь</l>
+<lg edit="JMR" xml:lang="myv"><l pos="N">салов веьдь</l>
 <st>салов веьдь</st>
 </lg>
 <lg xml:lang="mdf"><l>салу ведь</l>
@@ -122141,7 +122165,7 @@ Aus der russ. prädik. F. <Et>робка</Et>]
 <t>ungesalzen</t>
 </tg>
 </mg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd myvId="верьга">v́eŕga</Wd>
 <Wd myvId="ливти">ĺiv́t́i</Wd>
@@ -122172,7 +122196,7 @@ Aus der russ. prädik. F. <Et>робка</Et>]
 </GeoUB>
 <xt xml:lang="deu">Sein Brei ist salzlos (wird von einem Menschen gesagt, auf dessen Worte man sich nicht verlassen kann).</xt>
 </xg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd myvId="салтуму">saltumu</Wd>
 <Wd myvId="кивгирь">ḱiv́ǵiŕ</Wd>
@@ -122223,7 +122247,7 @@ Aus der russ. prädik. F. <Et>робка</Et>]
 </HWB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
-<lg xml:lang="myv"><l>салтонь сывель</l>
+<lg xml:lang="myv"><l pos="N">салтонь сывель</l>
 <st>салтонь сывель</st>
 <PhnUBlock>
 <PhnU>
@@ -122339,7 +122363,7 @@ Aus der russ. prädik. F. <Et>робка</Et>]
 <GeoU>Sel</GeoU>
 </GeoUB>
 )</mg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd myvId="коренезэ">koŕeńeze͔</Wd>
 <Wd myvId="понав">ponav</Wd>
@@ -122588,7 +122612,7 @@ Aus der russ. prädik. F. <Et>робка</Et>]
 </HWB>
 <MWUB>
 <E3Head><POS/></E3Head>
-<lg xml:lang="myv"><l>сатанской прича</l>
+<lg xml:lang="myv"><l pos="N">сатанской прича</l>
 <st>сатанской прича</st>
 <PhnUBlock>
 <PhnU>
@@ -123341,7 +123365,7 @@ Adj.-Ableit. von russ. <Et>сего́дня</Et> ‘heute’]
 <t>grau</t>
 </tg>
 </mg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd myvId="седой">śedoj</Wd>
 <Wd myvId="атя">at́a</Wd>
@@ -123579,7 +123603,7 @@ Adj.-Ableit. von russ. <Et>сего́дня</Et> ‘heute’]
 <t>aus Ulmenholz</t>
 </tg>
 </mg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd myvId="соньць">sońć</Wd>
 <Wd myvId="тумонь">tumoń</Wd>
@@ -123604,7 +123628,7 @@ Adj.-Ableit. von russ. <Et>сего́дня</Et> ‘heute’]
 </HWB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l>селеень кеьрь</l>
+<lg edit="JMR" xml:lang="myv"><l pos="N">селеень кеьрь</l>
 <st>селеень кеьрь</st>
 </lg>
 <lg xml:lang="mdf"><l>сялиень кяр</l>
@@ -124385,7 +124409,7 @@ Adj.-Ableit. von russ. <Et>сего́дня</Et> ‘heute’]
 </MWUB>
 <MWUB>
 <E3Head><POS/></E3Head>
-<lg xml:lang="myv"><l>сембиинда покш</l>
+<lg xml:lang="myv"><l pos="N">сембиинда покш</l>
 <st>сембиинда покш</st>
 <PhnUBlock>
 <PhnU>
@@ -124672,7 +124696,7 @@ Adj.-Ableit. von russ. <Et>сего́дня</Et> ‘heute’]
 </GeoUB>
 )</dfQl1>
 </mg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd myvId="сенгере">śeŋǵeŕe</Wd>
 <tk3 isa="comma"/>
@@ -124932,7 +124956,7 @@ Adj.-Ableit. von russ. <Et>сего́дня</Et> ‘heute’]
 <t>grau</t>
 </tg>
 </mg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd myvId="колмо">kolmo</Wd>
 <Wd myvId="мацейть;">maćejt́;</Wd>
@@ -125774,7 +125798,7 @@ Adj.-Ableit. von russ. <Et>сего́дня</Et> ‘heute’]
 <t>schwarzgraues Ross</t>
 </tg>
 </mg>
-<xg>
+<xg genre="riddle">
 <x>
 <Chc>
 <Vrt>
@@ -125802,7 +125826,7 @@ Adj.-Ableit. von russ. <Et>сего́дня</Et> ‘heute’]
 </sources>
 <xt xml:lang="deu">Ein dreieckiger Speicher, in ihm ein weisses Ross. – Der Buchweizen.</xt>
 </xg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd myvId="орта">orta</Wd>
 <Hph edit="MK"/>
@@ -126591,7 +126615,7 @@ Adj.-Ableit. von russ. <Et>сего́дня</Et> ‘heute’]
 <t>der siebente</t>
 </tg>
 </mg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd myvId="кавто">kavto</Wd>
 <Wd edit="MK" myvId="ашчить">ašči͔t́</Wd>
@@ -127357,7 +127381,7 @@ Adj.-Ableit. von russ. <Et>сего́дня</Et> ‘heute’]
 <t>von dem Vieh herstammend</t>
 </tg>
 </mg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd myvId="телазо">t́elazo</Wd>
 <Wd edit="MK" myvId="скотинань">skot́inań</Wd>
@@ -127405,7 +127429,7 @@ Adj.-Ableit. von russ. <Et>сего́дня</Et> ‘heute’]
 </HWB>
 <MWUB>
 <E3Head><POS/></E3Head>
-<lg xml:lang="myv"><l>скотной кудо</l>
+<lg xml:lang="myv"><l pos="N">скотной кудо</l>
 <st>скотной кудо</st>
 <PhnUBlock>
 <PhnU>
@@ -129178,7 +129202,7 @@ Adj.-Ableit. von russ. <Et>сего́дня</Et> ‘heute’]
 </HWB>
 <MWUB>
 <E3Head><POS/></E3Head>
-<lg xml:lang="myv"><l>спускной парь</l>
+<lg xml:lang="myv"><l pos="N">спускной парь</l>
 <st>спускной парь</st>
 <PhnUBlock>
 <PhnU>
@@ -130510,7 +130534,7 @@ Adj.-Ableit. von russ. <Et>сего́дня</Et> ‘heute’]
 <t>von einem Aas</t>
 </tg>
 </mg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd myvId="ве">v́e</Wd>
 <Wd myvId="пезэ">ṕeze͔</Wd>
@@ -131155,7 +131179,7 @@ Adj.-Ableit. von russ. <Et>сего́дня</Et> ‘heute’]
 </HWB>
 <MWUB>
 <E3Head><POS/></E3Head>
-<lg xml:lang="myv"><l>срашной суд</l>
+<lg xml:lang="myv"><l pos="N">срашной суд</l>
 <st>срашной суд</st>
 <PhnUBlock>
 <PhnU>
@@ -131549,7 +131573,7 @@ Adj.-Ableit. von russ. <Et>сего́дня</Et> ‘heute’]
 </HWB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
-<lg xml:lang="myv"><l>суликань ал</l>
+<lg xml:lang="myv"><l pos="N">суликань ал</l>
 <st>суликань ал</st>
 <PhnUBlock>
 <PhnU>
@@ -132155,7 +132179,7 @@ Adj.-Ableit. von russ. <Et>сего́дня</Et> ‘heute’]
 </sources>
 <xt xml:lang="deu">O, ihr Leinwandmantel ist ohne Seitenstück.</xt>
 </xg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd myvId="суповтомо">supovtomo</Wd>
 <tk3 isa="comma"/>
@@ -132650,7 +132674,7 @@ Adj.-Ableit. von russ. <Et>сего́дня</Et> ‘heute’]
 <sources>
 <book name="Chr" xml:lang="myv"/>
 </sources>
-<SubjectField>folkl</SubjectField>
+<stylistic>folkl</stylistic>
 </PhnUBlock>
 <PhnUBlock>
 <PhnU>
@@ -134456,7 +134480,7 @@ Russ., aus der prädik. F. <Et>сыра &lt; сыро́й</Et>]
 </MWUB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
-<lg xml:lang="myv"><l>сырьнень толга</l>
+<lg xml:lang="myv"><l pos="N">сырьнень толга</l>
 <st>сырьнень толга</st>
 <PhnUBlock>
 <PhnU>
@@ -135257,7 +135281,7 @@ Russ., aus der prädik. F. <Et>сыра &lt; сыро́й</Et>]
 </GeoUB>
 )
 </mg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd myvId="сиясо">śijaso</Wd>
 <Wd myvId="почодозь">počodoź</Wd>
@@ -135277,7 +135301,7 @@ Russ., aus der prädik. F. <Et>сыра &lt; сыро́й</Et>]
 </sources>
 <xt xml:lang="deu">Ein blaues Feld, bestreut mit Silber. – Der Himmel mit Wolken.</xt>
 </xg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd myvId="вецэ">v́ece͔</Wd>
 <Wd myvId="сэнь">se͔ń</Wd>
@@ -135294,7 +135318,7 @@ Russ., aus der prädik. F. <Et>сыра &lt; сыро́й</Et>]
 </sources>
 <xt xml:lang="deu">Im Wasser blaue Mörserkeulen. – Die Fische.</xt>
 </xg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd myvId="удало">udalo</Wd>
 <Wd myvId="сянго">śaŋgo</Wd>
@@ -136170,7 +136194,7 @@ Russ., aus der prädik. F. <Et>сыра &lt; сыро́й</Et>]
 </sources>
 <xt xml:lang="deu">Auf einem hohen Hügel wächst eine dicke Eiche.</xt>
 </xg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd myvId="апак">apak</Wd>
 <Wd myvId="чувт">čuvt</Wd>
@@ -136224,7 +136248,7 @@ Russ., aus der prädik. F. <Et>сыра &lt; сыро́й</Et>]
 </HWB>
 <MWUB>
 <E3Head><POS/></E3Head>
-<lg xml:lang="myv"><l>сэьрей-чи</l>
+<lg xml:lang="myv"><l pos="N">сэьрей-чи</l>
 <st>сэьрей-чи</st>
 <PhnUBlock>
 <PhnU>
@@ -136250,7 +136274,7 @@ Russ., aus der prädik. F. <Et>сыра &lt; сыро́й</Et>]
 </MWUB>
 <MWUB>
 <E3Head><POS pos="N"/><deriv isa="prt-I"/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l>сэьрей кочкаря</l>
+<lg edit="JMR" xml:lang="myv"><l pos="N">сэьрей кочкаря</l>
 <st>сэьрей кочкаря</st>
 </lg>
 <lg xml:lang="mdf"><l>сери кочкяря</l>
@@ -136343,7 +136367,7 @@ Russ., aus der prädik. F. <Et>сыра &lt; сыро́й</Et>]
 </MWUB>
 <MWUB>
 <E3Head><POS pos="N"/><deriv isa="prt-I"/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l>сэьрей серька</l>
+<lg edit="JMR" xml:lang="myv"><l pos="N">сэьрей серька</l>
 <st>сэьрей серька</st>
 </lg>
 <lg xml:lang="mdf"><l>сери сярькя</l>
@@ -138541,7 +138565,7 @@ Russ., aus der prädik. F. <Et>сыра &lt; сыро́й</Et>]
 </MWUB>
 <MWUB>
 <E3Head><POS/></E3Head>
-<lg xml:lang="myv"><l>сюров-чуфто</l>
+<lg xml:lang="myv"><l pos="N">сюров-чуфто</l>
 <st>сюров-чуфто</st>
 <PhnUBlock>
 <PhnU>
@@ -139679,7 +139703,7 @@ Russ., aus der prädik. F. <Et>сыра &lt; сыро́й</Et>]
 </tg>
 </TrlnCtn>
 </mg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd myvId="модасто">modasto</Wd>
 <Wd myvId="сайсызь">sajsi͔ź</Wd>
@@ -139750,7 +139774,7 @@ Russ., aus der prädik. F. <Et>сыра &lt; сыро́й</Et>]
 <t>herbstlich</t>
 </tg>
 </mg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd myvId="пижыне">ṕiži͔ńe</Wd>
 <tk3 isa="comma"/>
@@ -139965,7 +139989,7 @@ Russ., aus der prädik. F. <Et>сыра &lt; сыро́й</Et>]
 </MWUB>
 <MWUB>
 <E3Head><POS/></E3Head>
-<lg xml:lang="myv"><l>сёрмав гуй</l>
+<lg xml:lang="myv"><l pos="N">сёрмав гуй</l>
 <st>сёрмав гуй</st>
 <PhnUBlock>
 <PhnU>
@@ -140146,7 +140170,7 @@ Russ., aus der prädik. F. <Et>сыра &lt; сыро́й</Et>]
 <GeoU>Mar</GeoU>
 </GeoUB>
 )</mg>
-<xg>
+<xg genre="riddle">
 <x>
 <Chc>
 <Vrt>
@@ -140199,7 +140223,7 @@ Russ., aus der prädik. F. <Et>сыра &lt; сыро́й</Et>]
 </HWB>
 <MWUB>
 <E3Head><POS/></E3Head>
-<lg xml:lang="myv"><l>тазов пря</l>
+<lg xml:lang="myv"><l pos="N">тазов пря</l>
 <st>тазов пря</st>
 <PhnUBlock>
 <PhnU>
@@ -140221,7 +140245,7 @@ Russ., aus der prädik. F. <Et>сыра &lt; сыро́й</Et>]
 <t>eine(r) mit krätzigem Kopf</t>
 </tg>
 </mg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd myvId="пандя">pańd́a</Wd>
 <Wd myvId="ланксо">laŋkso</Wd>
@@ -140917,7 +140941,7 @@ Russ., aus der prädik. F. <Et>сыра &lt; сыро́й</Et>]
 </sources>
 <xt xml:lang="deu">Man sagt, das Fleisch des Menschen sei schmackhaft.</xt>
 </xg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd myvId="вешка">v́eška</Wd>
 <Wd myvId="чакшке">čakšḱe</Wd>
@@ -140967,7 +140991,7 @@ Russ., aus der prädik. F. <Et>сыра &lt; сыро́й</Et>]
 </sources>
 <xt xml:lang="deu">Eine Tochter soll die sein, die milde Worte spricht.</xt>
 </xg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd mdfId="сембəденгя">śemb́əd́əŋǵä</Wd>
 <Wd mdfId="таньсти">tańśt́i</Wd>
@@ -141618,7 +141642,7 @@ Russ., aus der prädik. F. <Et>сыра &lt; сыро́й</Et>]
 <t>Tataren-</t>
 </tg>
 </mg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd myvId="аксяло">akśalo</Wd>
 <Wd myvId="татарынь">tatari͔ń</Wd>
@@ -141635,7 +141659,7 @@ Russ., aus der prädik. F. <Et>сыра &lt; сыро́й</Et>]
 </sources>
 <xt xml:lang="deu">Unter der Bank ist das Grab eines Tataren. – Der (grosse Holz-)Mörser.</xt>
 </xg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd myvId="пецька">ṕećka</Wd>
 <Hph edit="MK"/>
@@ -141931,7 +141955,7 @@ Russ., aus der prädik. F. <Et>сыра &lt; сыро́й</Et>]
 <Cm>z.B. von Kleidern, Gebäuden, Speisen</Cm>
 </tg>
 </mg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd myvId="ташто">tašto</Wd>
 <Wd myvId="парь">paŕ</Wd>
@@ -144562,7 +144586,7 @@ prädik. F. von <Et>тяжёлый</Et>]
 </MWUB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
-<lg xml:lang="myv"><l>топудань чиняс</l>
+<lg xml:lang="myv"><l pos="N">топудань чиняс</l>
 <st>топудань чиняс</st>
 <PhnUBlock>
 <PhnU>
@@ -145530,7 +145554,7 @@ prädik. F. von <Et>тяжёлый</Et>]
 <t>von der Grösse eines Schweins</t>
 </tg>
 </mg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd myvId="соньць">sońć</Wd>
 <Wd myvId="горбун">gorbun</Wd>
@@ -145944,7 +145968,7 @@ prädik. F. von <Et>тяжёлый</Et>]
 </sources>
 <xt xml:lang="deu">Von Eichenholz ist unser Querbalken.</xt>
 </xg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd myvId="соньць">sońć</Wd>
 <Wd myvId="тумонь">tumoń</Wd>
@@ -145989,7 +146013,7 @@ prädik. F. von <Et>тяжёлый</Et>]
 </sources>
 <xt xml:lang="deu">Der siebenköpfige Karjas hatte in der Mitte des Hofes sieben Scheiterhaufen aus feuchtem Eichenholz.</xt>
 </xg>
-<xg>
+<xg genre="riddle">
 <x>
 <i>
 <txt2>
@@ -146169,7 +146193,7 @@ prädik. F. von <Et>тяжёлый</Et>]
 </HWB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
-<lg xml:lang="myv"><l>тундонь чи</l>
+<lg xml:lang="myv"><l pos="N">тундонь чи</l>
 <st>тундонь чи</st>
 <PhnUBlock>
 <PhnU>
@@ -146249,7 +146273,7 @@ prädik. F. von <Et>тяжёлый</Et>]
 </MWUB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
-<lg xml:lang="myv"><l>тундонь тшыне</l>
+<lg xml:lang="myv"><l pos="N">тундонь тшыне</l>
 <st>тундонь тшыне</st>
 <PhnUBlock>
 <PhnU>
@@ -146293,7 +146317,7 @@ prädik. F. von <Et>тяжёлый</Et>]
 <t>im Frühling</t>
 </tg>
 </mg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd myvId="тундонь">tundoń</Wd>
 <Wd myvId="чине">či͔ńe</Wd>
@@ -147035,7 +147059,7 @@ prädik. F. von <Et>тяжёлый</Et>]
 </HWB>
 <MWUB>
 <E3Head><POS/></E3Head>
-<lg xml:lang="myv"><l>тырдим озяс</l>
+<lg xml:lang="myv"><l pos="N">тырдим озяс</l>
 <st>тырдим озяс</st>
 <PhnUBlock>
 <PhnU>
@@ -148178,7 +148202,7 @@ prädik. F. von <Et>тяжёлый</Et>]
 </sources>
 <xt xml:lang="deu">Ich zimmere eckenlose Häuser.</xt>
 </xg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd mdfId="кутт">kutt</Wd>
 <Wd mdfId="шапан">šapan</Wd>
@@ -148388,7 +148412,7 @@ prädik. F. von <Et>тяжёлый</Et>]
 </HWB>
 <MWUB>
 <E3Head><POS/></E3Head>
-<lg xml:lang="myv"><l>ужовой веьдь</l>
+<lg xml:lang="myv"><l pos="N">ужовой веьдь</l>
 <st>ужовой веьдь</st>
 <PhnUBlock>
 <PhnU>
@@ -151402,7 +151426,7 @@ Nach Utsch. schwört man folgenderweise: [am Tage:] <x>
 <PhnU>
 <Wd myvId="чаво">čavo</Wd>
 <InflB>
-<InflCtn><SubjectField>folkl</SubjectField> <Infl>
+<InflCtn><stylistic>folkl</stylistic> <Infl>
 <Wd myvId="чавонь">čavoń</Wd>
 </Infl></InflCtn>
 </InflB></PhnU>
@@ -152412,7 +152436,7 @@ Nach Utsch. schwört man folgenderweise: [am Tage:] <x>
 </sources>
 <xt xml:lang="deu">[Da] geht der Mann, die Schildwache, hin und her.</xt>
 </xg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd mdfId="колмоге·мəнь">kolmə̑ǵe·məń</Wd>
 <Wd mdfId="чəсаво·й">čəsavo·j</Wd>
@@ -152982,7 +153006,7 @@ Nach Utsch. schwört man folgenderweise: [am Tage:] <x>
 </HWB>
 <MWUB>
 <E3Head><POS/></E3Head>
-<lg xml:lang="myv"><l>ченэн тарка</l>
+<lg xml:lang="myv"><l pos="N">ченэн тарка</l>
 <st>ченэн тарка</st>
 <PhnUBlock>
 <PhnU>
@@ -153815,7 +153839,7 @@ Nach Utsch. schwört man folgenderweise: [am Tage:] <x>
 </MWUB>
 <MWUB>
 <E3Head><POS/></E3Head>
-<lg xml:lang="myv"><l>чиней палакс</l>
+<lg xml:lang="myv"><l pos="N">чиней палакс</l>
 <st>чиней палакс</st>
 <PhnUBlock>
 <PhnU>
@@ -155859,7 +155883,7 @@ Nach Utsch. schwört man folgenderweise: [am Tage:] <x>
 </HWB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
-<lg xml:lang="myv"><l>чокшнэнь зоря-тешче</l>
+<lg xml:lang="myv"><l pos="N">чокшнэнь зоря-тешче</l>
 <st>чокшнэнь зоря-тешче</st>
 <PhnUBlock>
 <PhnU>
@@ -156218,7 +156242,7 @@ Nach Utsch. schwört man folgenderweise: [am Tage:] <x>
 </HWB>
 <MWUB>
 <E3Head><POS/></E3Head>
-<lg xml:lang="myv"><l>чобда ава</l>
+<lg xml:lang="myv"><l pos="N">чобда ава</l>
 <st>чобда ава</st>
 <PhnUBlock>
 <PhnU>
@@ -156232,7 +156256,7 @@ Nach Utsch. schwört man folgenderweise: [am Tage:] <x>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l/><st/>
 </lg>
-<SubjectField>poet</SubjectField>
+<stylistic>poet</stylistic>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">шатенка</t>
@@ -156261,7 +156285,7 @@ Nach Utsch. schwört man folgenderweise: [am Tage:] <x>
 </MWUB>
 <MWUB>
 <E3Head><POS/></E3Head>
-<lg xml:lang="myv"><l>чопуда-чиняс</l>
+<lg xml:lang="myv"><l pos="N">чопуда-чиняс</l>
 <st>чопуда-чиняс</st>
 <PhnUBlock>
 <Chc>
@@ -156799,7 +156823,7 @@ Nach Utsch. schwört man folgenderweise: [am Tage:] <x>
 </HWB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
-<lg xml:lang="myv"><l>чуважонь цёра</l>
+<lg xml:lang="myv"><l pos="N">чуважонь цёра</l>
 <st>чуважонь цёра</st>
 <PhnUBlock>
 <PhnU>
@@ -156840,7 +156864,7 @@ Nach Utsch. schwört man folgenderweise: [am Tage:] <x>
 </MWUB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
-<lg xml:lang="myv"><l>чуважонь теьйтерь</l>
+<lg xml:lang="myv"><l pos="N">чуважонь теьйтерь</l>
 <st>чуважонь теьйтерь</st>
 <PhnUBlock>
 <PhnU>
@@ -156970,7 +156994,7 @@ Nach Utsch. schwört man folgenderweise: [am Tage:] <x>
 <t>hölzern</t>
 </tg>
 </mg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd myvId="прязо">ṕŕazo</Wd>
 <Wd myvId="кшнынь">kšni͔ń</Wd>
@@ -156992,7 +157016,7 @@ Nach Utsch. schwört man folgenderweise: [am Tage:] <x>
 </HWB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
-<lg xml:lang="myv"><l>чувтонь пильге</l>
+<lg xml:lang="myv"><l pos="N">чувтонь пильге</l>
 <st>чувтонь пильге</st>
 <PhnUBlock>
 <PhnU>
@@ -157037,7 +157061,7 @@ Nach Utsch. schwört man folgenderweise: [am Tage:] <x>
 </MWUB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
-<lg xml:lang="myv"><l>чувтонь вальма</l>
+<lg xml:lang="myv"><l pos="N">чувтонь вальма</l>
 <st>чувтонь вальма</st>
 <PhnUBlock>
 <PhnU>
@@ -157059,7 +157083,7 @@ Nach Utsch. schwört man folgenderweise: [am Tage:] <x>
 <t>hölzernes Lukenfenster</t>
 </tg>
 </mg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd myvId="лаз">laz</Wd>
 <Wd myvId="лаз">laz</Wd>
@@ -157652,7 +157676,7 @@ Nach Utsch. schwört man folgenderweise: [am Tage:] <x>
 <t>so gross wie eine Zwiebel</t>
 </tg>
 </mg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd myvId="соньць">sońć</Wd>
 <Wd myvId="горбун">gorbun</Wd>
@@ -157713,7 +157737,7 @@ Nach Utsch. schwört man folgenderweise: [am Tage:] <x>
 </HWB>
 <MWUB>
 <E3Head><POS/></E3Head>
-<lg xml:lang="myv"><l>шалевой паця</l>
+<lg xml:lang="myv"><l pos="N">шалевой паця</l>
 <st>шалевой паця</st>
 <PhnUBlock>
 <PhnU>
@@ -157999,7 +158023,7 @@ Nach Utsch. schwört man folgenderweise: [am Tage:] <x>
 </sources>
 <xt xml:lang="deu">(Und schon) sind auf seinem Kopfe graue Haare hervorgekommen.</xt>
 </xg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd edit="MK" mdfId="седь">śed́</Wd>
 <Hph/>
@@ -158018,7 +158042,7 @@ Nach Utsch. schwört man folgenderweise: [am Tage:] <x>
 </sources>
 <xt xml:lang="deu">Unter der Diele ist ein graues Huhn. – Der Kwas.</xt>
 </xg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd mdfId="латонь">latə̑ń</Wd>
 <Wd mdfId="фтала">ftala</Wd>
@@ -159349,7 +159373,7 @@ Nach Utsch. schwört man folgenderweise: [am Tage:] <x>
 <FrnTxt><Wd CyrId="калыш">kali͔š</Wd></FrnTxt>
 </See>)</t>
 </mg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd myvId="кизна">ḱizna</Wd>
 <Wd myvId="чубасо">čubaso</Wd>
@@ -159368,7 +159392,7 @@ Nach Utsch. schwört man folgenderweise: [am Tage:] <x>
 </sources>
 <xt xml:lang="deu">Im Sommer im Pelz, im Winter unbekleidet. – Der Baum.</xt>
 </xg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd myvId="соньць">sońć</Wd>
 <Wd myvId="штапо">štapo</Wd>
@@ -159538,7 +159562,7 @@ Nach Utsch. schwört man folgenderweise: [am Tage:] <x>
 </sources>
 <xt xml:lang="deu">Ich bin keine, die nackte Körper bekleidet.</xt>
 </xg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd mdfId="сембя">śemb́ä</Wd>
 <Wd mdfId="тялə̑нда">t́alə̑nda</Wd>
@@ -160177,7 +160201,7 @@ Nach Utsch. schwört man folgenderweise: [am Tage:] <x>
 <t>possierlich</t>
 </tg>
 </mg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd myvId="мастор">mastor</Wd>
 <Wd myvId="ланксо">laŋkso</Wd>
@@ -162097,7 +162121,7 @@ Nach Utsch. schwört man folgenderweise: [am Tage:] <x>
 </MWUB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
-<lg xml:lang="myv"><l>эрьжьань ава</l>
+<lg xml:lang="myv"><l pos="N">эрьжьань ава</l>
 <st>эрьжьань ава</st>
 <PhnUBlock>
 <Chc>
@@ -162275,7 +162299,7 @@ Nach Utsch. schwört man folgenderweise: [am Tage:] <x>
 </MWUB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
-<lg xml:lang="myv"><l>эрьзянь цёра</l>
+<lg xml:lang="myv"><l pos="N">эрьзянь цёра</l>
 <st>эрьзянь цёра</st>
 <PhnUBlock>
 <PhnU>
@@ -162341,7 +162365,7 @@ Nach Utsch. schwört man folgenderweise: [am Tage:] <x>
 </MWUB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
-<lg xml:lang="myv"><l>эрьзень кель</l>
+<lg xml:lang="myv"><l pos="N">эрьзень кель</l>
 <st>эрьзень кель</st>
 <PhnUBlock>
 <PhnU>
@@ -162479,7 +162503,7 @@ Nach Utsch. schwört man folgenderweise: [am Tage:] <x>
 </MWUB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos="gen-attr"/><deriv isa="Dem"/></E3Head>
-<lg xml:lang="myv"><l>эьрьзьань теьйтерь</l>
+<lg xml:lang="myv"><l pos="N">эьрьзьань теьйтерь</l>
 <st>эьрьзьань теьйтерь</st>
 <PhnUBlock>
 <PhnU>
@@ -163882,7 +163906,7 @@ Nach Utsch. schwört man folgenderweise: [am Tage:] <x>
 </HWB>
 <MWUB>
 <E3Head><POS pos="N"/><deriv isa="DVNoun-MKA"/></E3Head>
-<lg xml:lang="myv"><l>яумка-ёвкс</l>
+<lg xml:lang="myv"><l pos="N">яумка-ёвкс</l>
 <st>яумка-ёвкс</st>
 <PhnUBlock>
 <PhnU>
@@ -164101,7 +164125,7 @@ Nach Utsch. schwört man folgenderweise: [am Tage:] <x>
 </sources>
 <xt xml:lang="deu">Sie hat rote Stiefel an den Füssen.</xt>
 </xg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd myvId="вишкинка">v́išḱiŋka</Wd>
 <Wd myvId="вечкевекс">v́ečḱev́eks</Wd>
@@ -168333,7 +168357,7 @@ Nach Utsch. schwört man folgenderweise: [am Tage:] <x>
 <GeoUB xml:lang="mdf"/>
 <xt xml:lang="deu">Sie gingen in verschiedene Richtungen fort.</xt>
 </xg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd mdfId="кафта">kafta</Wd>
 <Wd mdfId="пратт">pratt</Wd>
@@ -174320,7 +174344,7 @@ Nach Utsch. schwört man folgenderweise: [am Tage:] <x>
 </GeoUB>
 )</dfQl1>
 </mg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd myvId="монь">moń</Wd>
 <Wd myvId="ули">uĺi</Wd>
@@ -175244,7 +175268,7 @@ Nach Utsch. schwört man folgenderweise: [am Tage:] <x>
 <GeoNeed/>
 <xt xml:lang="deu">[Es legt sich auf die Seite od. fällt schräg ab].</xt>
 </xg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd CyrId="чирим">či͔ŕim</Wd>
 <Wd CyrId="мери">ḿeŕi</Wd>
@@ -176008,7 +176032,7 @@ Nach Utsch. schwört man folgenderweise: [am Tage:] <x>
 <t>weich</t>
 </tg>
 </mg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd mdfId="сон">son</Wd>
 <Wd mdfId="тепəня">t́əṕəńä·</Wd>
@@ -176459,7 +176483,7 @@ Nach Utsch. schwört man folgenderweise: [am Tage:] <x>
 <t>einen dicken Hintern habend</t>
 </tg>
 </mg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd mdfId="игра">igra</Wd>
 <tk3 isa="comma"/>
@@ -176486,7 +176510,7 @@ Nach Utsch. schwört man folgenderweise: [am Tage:] <x>
 </sources>
 <xt xml:lang="deu">Ein Spielzeug, ein Spielzeug, ein Dickes, ein Kinder-Spielzeug. – Die Mutterbrust.</xt>
 </xg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd mdfId="тотмакяня">totmaḱäńä</Wd>
 <Wd mdfId="кулакə̑ня">kula·kə̑ńä</Wd>
@@ -176703,7 +176727,7 @@ Nach Utsch. schwört man folgenderweise: [am Tage:] <x>
 <t>irgendeine Pflanze</t>
 </tg>
 </mg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd mdfId="тотмак">totmak</Wd>
 <Wd mdfId="мокə̑р">mə̑kə̑r</Wd>
@@ -178243,7 +178267,7 @@ Nach Utsch. schwört man folgenderweise: [am Tage:] <x>
 <t>grünblau</t>
 </tg>
 </mg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd edit="MK" mdfId="сенгерня">śeŋǵeŕńä</Wd>
 <tk3 edit="MK" isa="comma"/>
@@ -178285,7 +178309,7 @@ Nach Utsch. schwört man folgenderweise: [am Tage:] <x>
 </GeoUB>
 <xt xml:lang="deu">Es ist grünblau und hat einen knochigen Kopf. – Die Traubenkirsche.</xt>
 </xg>
-<xg src="prnth">
+<xg src="prnth" genre="riddle">
 Vgl. <x>
 <Wd mdfId="сенерня">śeńəŕńä</Wd>
 <tk3 isa="comma"/>
@@ -179021,7 +179045,7 @@ Vgl. <x>
 <t>versinkend</t>
 </tg>
 </mg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd edit="MK" mdfId="иня">ińä</Wd>
 <tk3 edit="MK" isa="ws"/>
@@ -182231,7 +182255,7 @@ Vgl. <x>
 <t pos="N">Deutscher</t>
 </tg>
 </mg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd mdfId="похарямса">poᵪaŕamsa</Wd>
 <Wd mdfId="немəцть">ńeməćt́</Wd>
@@ -182249,7 +182273,7 @@ Vgl. <x>
 </sources>
 <xt xml:lang="deu">Im Keller wohnen Deutsche. – Die Bienen im Bienenstock.</xt>
 </xg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd mdfId="салдатокс">salda·tə̑ks</Wd>
 <Wd mdfId="якай">jakaj</Wd>
@@ -188724,7 +188748,7 @@ altruss. <Et>
 <t edit="MK">Grinser</t>
 </tg>
 </mg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd mdfId="низел">ńiźəl</Wd>
 <Wd mdfId="куркть">kurkt́</Wd>
@@ -188849,7 +188873,7 @@ altruss. <Et>
 </sources>
 <xt xml:lang="deu">Unter dem Tisch ist einer mit grinsendem Zahn.</xt>
 </xg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd mdfId="аксяла">akśala</Wd>
 <Wd mdfId="низел">ńiźəl</Wd>
@@ -189439,7 +189463,7 @@ altruss. <Et>
 <xt xml:lang="deu">Mürrisch siehst du nie.</xt>
 </xg>
 </MWUB>
-<MWUB>
+<CompositionalPhraseCtn>
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
 <lg xml:lang="myv"><l pos="V">нусманясто ашчемс</l>
 <st>нусманясто ашчемс</st>
@@ -189497,7 +189521,7 @@ altruss. <Et>
 </sources>
 <xt xml:lang="deu">Seine Fusssohlen sind behaart, selbst hat es ein unlustiges Aussehen.</xt>
 </xg>
-</MWUB>
+</CompositionalPhraseCtn>
 </e>
   <e>
 <root_ref xml:lang="myv" hid="1" pos="A" lemma="од"/>
@@ -189645,7 +189669,7 @@ altruss. <Et>
 <t>gelb</t>
 </tg>
 </mg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd myvId="тундонь">tundoń</Wd>
 <Hph edit="MK"/>
