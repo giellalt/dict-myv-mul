@@ -585,7 +585,7 @@
 </sources>
 <xt xml:lang="deu">Der Pope hörte sie und erkannte seine Frau an der Stimme.</xt>
 </xg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd mdfId="шнамс">šnams</Wd>
 <Wd mdfId="коря">koŕä</Wd>
@@ -3507,7 +3507,7 @@
 </sources>
 <xt xml:lang="deu">Der Ochs befindet sich vor dem Ofen.</xt>
 </xg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd myvId="удало">udalo</Wd>
 <Wd myvId="сянго">śaŋgo</Wd>
@@ -4266,7 +4266,7 @@
 <xg>
 <x>
 <Wd myvId="каштом">kaštom</Wd>
-<Wd myvId="икеленть">iḱeĺeńt́</Wd>
+<Wd myvId="икеленть" tag"+Po+SP+Loc+Def">iḱeĺeńt́</Wd>
 <Wd myvId="–">–</Wd>
 <Wd myvId="новобраннойтне">novobrannojt́ńe</Wd>
 </x>
@@ -7334,7 +7334,7 @@
 <t>über</t>
 </tg>
 </mg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd edit="MK" myvId="якстере">jakśt́eŕe</Wd>
 <Wd myvId="атякш">at́akš</Wd>
@@ -10825,7 +10825,7 @@ ChrE
 <Wd mdfId="утомста">utə̑msta</Wd>
 <Wd mdfId="кандыть?”">kandi͔t́?”</Wd>
 <Wd mdfId="–">–</Wd>
-<Wd mdfId="“фталдоста”">“ftaldə̑sta”</Wd>
+<Wd mdfId="“фталдоста”" tag="Adv+Abl+Der/MWN+Pron+SP+Ela+Indef">“ftaldə̑sta”</Wd>
 </x>
 <GeoUB xml:lang="mdf">
 <GeoU>P</GeoU>
@@ -11250,7 +11250,7 @@ ChrE
 <t>hinter (wo?)</t>
 </tg>
 </mg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd myvId="удало">udalo</Wd>
 <Wd myvId="сянго">śaŋgo</Wd>
@@ -11309,7 +11309,7 @@ ChrE
 </GeoUB>
 <xt xml:lang="deu">Hinter der Tür.</xt>
 </xg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd mdfId="латонь">latə̑ń</Wd>
 <Wd mdfId="фтала">ftala</Wd>
@@ -11753,7 +11753,7 @@ ChrE
 </sources>
 <xt xml:lang="deu">Du gehst, gehst, ziehe dich zurück!</xt>
 </xg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd myvId="ниле">ńiĺe</Wd>
 <Wd myvId="атинеть">at́ińet́</Wd>
@@ -14565,7 +14565,7 @@ Večk
 <t>Querleisten in der Stuhllehne</t>
 </tg>
 </mg>
-<xg>
+<xg genre="riddle">
 <x>
 <Wd myvId="равинь">rav́iń</Wd>
 <Wd myvId="трокс">troks</Wd>
