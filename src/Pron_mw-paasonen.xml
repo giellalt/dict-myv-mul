@@ -2197,10 +2197,10 @@
 </tg>
 </mg>
 </HWB>
-<Etg>
+<etymology>
 <EtSrcL xml:lang="rus"/>
 <Et>сам</Et>
-</Etg>
+</etymology>
 </e>
   <e>
 <root_ref xml:lang="myv" hid="2" pos="Pron" lemma="сам"/>
@@ -2272,10 +2272,10 @@
 <xt xml:lang="deu">In der anderen Ecke der Erde befindet sich eine Kirche, die sich selbst erbaut hat.</xt>
 </xg>
 </MWUB>
-<Etg>
+<etymology>
 <EtSrcL xml:lang="rus"/>
 <Et>сама́</Et>
-</Etg>
+</etymology>
 </e>
   <e>
 <root_ref xml:lang="myv" hid="2" pos="Num" lemma="сисем"/>
@@ -5098,20 +5098,20 @@
 <xt xml:lang="deu">Sie spricht mit jeder.</xt>
 </xg>
 </HWB>
-<Etg>
+<etymology>
+<etymonCtn>
 <EtSrcL xml:lang="tat"/>
 <Et>
 <Wd CyrId="ӓр">är</Wd></Et>, <Et>
 <Wd CyrId="эр">er</Wd></Et> (&lt; pers.)
-</Etg>
-
-<Etg>
+</etymonCtn>
+<etymonCtn>
 <EtType edit="MK" vl="vgl"/>
 <EtCtn>
 <Et edit="MK"><sup>1</sup><i><tk2>
 <Wd CyrId="эрьва">eŕva</Wd></tk2></i></Et>
 </EtCtn>
-</Etg>
+</etymonCtn></etymology>
 </e>
   <e>
 <root_ref xml:lang="myv" hid="1" pos="Stem" lemma="ко-"/>
@@ -28103,7 +28103,8 @@
 </mg>
 </SenseGroup>
 </MWUB>
-<Etg>
+<etymology>
+<etymonCtn>
 [<Et>
 <Wd CyrId="мее">ḿeje</Wd></Et> + <Et>
 <WdCtn>
@@ -28111,11 +28112,11 @@
 </WdCtn>
 <Hph/>
 <Wd CyrId="аро">aro</Wd></Et>
-</Etg>;
-<Etg>
+</etymonCtn>;
+<etymonCtn>
 vgl. <Et>
 <Wd CyrId="мезе">ḿeźe</Wd></Et>]
-</Etg>
+</etymonCtn></etymology>
 </e>
   <e>
 <root_ref xml:lang="myv" hid="1" pos="A" lemma="XX"/>
@@ -28538,9 +28539,9 @@ vgl. <Et>
 <xt xml:lang="deu">Darüber [Über alles] zieht sie ihre faltigen Stiefel an.</xt>
 </xg>
 </HWB>
-<Etg>
+<etymology>
 <EtSrcL xml:lang="rus"/>
 <Et>всяк</Et> [kurze Adj.-F. von <Et>всякий</Et>]
-</Etg>
+</etymology>
 </e>
 </r>

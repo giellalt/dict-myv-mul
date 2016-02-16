@@ -46,13 +46,15 @@
 <xt xml:lang="deu">Tschik, tschik (macht) ein Vogel, Schiffe sind seine Wörter. – Die Flinte.</xt>
 </xg>
 </HWB>
-<Etg>
+<etymology>
+<etymonCtn>
 <EtType edit="MK" vl="vgl"/>
 <EtSrcL edit="MK" vl="russ"/>
 <EtCtn>
 <Et edit="MK">чик</Et>
 </EtCtn>
-</Etg>
+</etymonCtn>
+</etymology>
 </e>
   <e>
 <root_ref xml:lang="myv" hid="2" pos="Interj" lemma="XX"/>
@@ -644,13 +646,15 @@
 </tg>
 </mg>
 </HWB>
-<Etg>
+<etymology>
+<etymonCtn>
 <EtType edit="MK" vl="vgl"/>
 <EtCtn>
 <Et edit="MK"><sup>1</sup><i><tk2>
 <Wd CyrId="утя">ut́a</Wd></tk2></i></Et>
 </EtCtn>
-</Etg>
+</etymonCtn>
+</etymology>
 </e>
   <e>
 <root_name xml:lang="myv" hid="2" pos="Interj" lemma="XX"/>
@@ -987,13 +991,15 @@
 <xt xml:lang="deu"/>
 </xg>
 </HWB>
-<Etg>
+<etymology>
+<etymonCtn>
 <EtType edit="MK" vl="vgl"/>
 <EtSrcL edit="MK" vl="russ"/>
 <EtCtn>
 <Et edit="MK">люли́</Et>
 </EtCtn>
-</Etg>
+</etymonCtn>
+</etymology>
 </e>
   <e>
 <root_name xml:lang="myv" hid="2" pos="Interj" lemma="машк"/>
@@ -1657,12 +1663,14 @@
 <xt xml:lang="deu">Nun, es fehlt ein Topf.</xt>
 </xg>
 </MWUB>
-<Etg>
+<etymology>
+<etymonCtn>
 <EtSrcL edit="MK" xml:lang="rus"/>
 <EtCtn>
 <Et edit="MK">на (нате)</Et>
 </EtCtn>
-</Etg>
+</etymonCtn>
+</etymology>
 </e>
   <e>
 <root_name xml:lang="myv" hid="2" pos="Interj" lemma="незнай"/>
@@ -1731,12 +1739,14 @@
 <xt xml:lang="deu">Man weiss nicht, ist er am Leben oder nicht.</xt>
 </xg>
 </HWB>
-<Etg>
+<etymology>
+<etymonCtn>
 <EtSrcL edit="MK" xml:lang="rus"/>
 <EtCtn>
 <Et edit="MK">незнай &lt; не знаю</Et>
 </EtCtn>
-</Etg>
+</etymonCtn>
+</etymology>
 </e>
   <e>
 <root_name xml:lang="myv" hid="2" pos="Interj" lemma="нето"/>
@@ -1792,22 +1802,19 @@
 <xt xml:lang="deu">Aber das wird kein Umzäunen des Hofes, das wird kein Decken der Schuppen, das wird kein Andrücken der Schuppen!</xt>
 </xg>
 </HWB>
-<Etg>
+<etymology>
+<etymonCtn>
 <EtSrcL edit="MK" xml:lang="rus"/>
-<EtCtn>
 <Et edit="MK">не то</Et>
-</EtCtn>[
-</Etg>;
-<Etg>
-<EtType vl="vgl"/>
-<EtCtn>
-<Et>
-<Wd CyrId="недо">ńedo</Wd></Et> 
+</etymonCtn>;
+<etymonCtn>
+<EtType edit="MK" vl="vgl"/>
+<Et edit="MK" CyrId="недо">ńedo</Et> 
 <GeoUB xml:lang="myv">
-<GeoU>Mar</GeoU>]
+<GeoU edit="MK">Mar</GeoU>
 </GeoUB>
-</EtCtn>
-</Etg>
+</etymonCtn>
+</etymology>
 </e>
   <e>
 <root_name xml:lang="myv" hid="2" pos="Interj" lemma="нечево"/>
@@ -1850,12 +1857,14 @@
 <xt xml:lang="deu">Dem Kaiser blieb nichts anderes übrig.</xt>
 </xg>
 </HWB>
-<Etg>
+<etymology>
+<etymonCtn>
 <EtSrcL edit="MK" xml:lang="rus"/>
 <EtCtn>
 <Et edit="MK">нечего</Et>
 </EtCtn>
-</Etg>
+</etymonCtn>
+</etymology>
 </e>
   <e>
 <root_name xml:lang="myv" hid="2" pos="Interj" lemma="ну"/>
@@ -2022,10 +2031,12 @@
 <xt xml:lang="deu">Nun also, er wird dein Eigentum angeben.</xt>
 </xg>
 </HWB>
-<Etg>
+<etymology>
+<etymonCtn>
 <EtSrcL xml:lang="rus"/>
 <Et>ну</Et>
-</Etg>
+</etymonCtn>
+</etymology>
 </e>
   <e>
 <root_name xml:lang="myv" hid="2" pos="Interj" lemma="нурт"/>
@@ -2092,14 +2103,16 @@
 <xt xml:lang="deu">[Quill, quill hervor]. Es leben ein Alter und eine Alte.</xt>
 </xg>
 </HWB>
-<Etg>
+<etymology>
+<etymonCtn>
 <EtType edit="MK" vl="vgl"/>
 <EtSrcL edit="MK" vl="mrdv"/>
 <EtCtn>
 <Et edit="MK">
 <Wd CyrId="нурьгемс">nuŕǵems</Wd></Et>
 </EtCtn>
-</Etg>
+</etymonCtn>
+</etymology>
 </e>
   <e>
 <root_name xml:lang="myv" hid="2" pos="Interj" lemma="нуш"/>
@@ -2239,10 +2252,12 @@
 <xt xml:lang="deu">Was für ein Wunder ist das, was für ein Wunder ist das?</xt>
 </xg>
 </HWB>
-<Etg>
+<etymology>
+<etymonCtn>
 <EtSrcL xml:lang="rus"/>
 <Et>ну же</Et>
-</Etg>
+</etymonCtn>
+</etymology>
 </e>
   <e>
 <root_name xml:lang="myv" hid="2" pos="Interj" lemma="онот"/>
@@ -2426,10 +2441,12 @@
 <xt xml:lang="deu">Sieh dort, wie gross mein Scheisshaufen ist!</xt>
 </xg>
 </HWB>
-<Etg>
+<etymology>
+<etymonCtn>
 <EtSrcL edit="MK" xml:lang="rus"/>[
 ? <Et>вон</Et>]
-</Etg>
+</etymonCtn>
+</etymology>
 </e>
   <e>
 <root_name xml:lang="myv" hid="2" pos="Interj" lemma="ох"/>
@@ -2654,10 +2671,12 @@
 <xt xml:lang="deu">Ach, Junge, ich habe gar keine Kraft.</xt>
 </xg>
 </HWB>
-<Etg>
+<etymology>
+<etymonCtn>
 <EtSrcL xml:lang="rus"/>
 <Et>ох</Et>
-</Etg>
+</etymonCtn>
+</etymology>
 </e>
   <e>
 <root_ref xml:lang="myv" hid="2" pos="Interj" lemma="ох"/>
@@ -2714,10 +2733,12 @@
 <xt xml:lang="deu">[O] Nischke-pas, du Ernährer, [o] Vere-pas, du Ernährer.</xt>
 </xg>
 </HWB>
-<Etg>
+<etymology>
+<etymonCtn>
 <EtSrcL xml:lang="rus"/>
 <Et>ох + а</Et>
-</Etg>
+</etymonCtn>
+</etymology>
 </e>
   <e>
 <root_ref xml:lang="myv" hid="2" pos="Interj" lemma="ох"/>
@@ -2833,10 +2854,12 @@
 <xt xml:lang="deu">O, Ivan, o, mein Kindchen!</xt>
 </xg>
 </HWB>
-<Etg>
+<etymology>
+<etymonCtn>
 <EtSrcL xml:lang="rus"/>
 <Et>ох + ай</Et>
-</Etg>
+</etymonCtn>
+</etymology>
 </e>
   <e>
 <root_name xml:lang="myv" hid="2" pos="Interj" lemma="паньдя"/>
@@ -3201,10 +3224,12 @@
 <xt xml:lang="deu">Ich danke.</xt>
 </xg>
 </CompositionalPhraseCtn>
-<Etg>
+<etymology>
+<etymonCtn>
 <EtSrcL xml:lang="rus"/>
 <Et>спаси́бо</Et>
-</Etg>
+</etymonCtn>
+</etymology>
 </e>
   <e>
 <root_name xml:lang="myv" hid="2" pos="Interj" lemma="пожалой"/>
@@ -3317,10 +3342,12 @@
 <xt xml:lang="deu">“Ich habe kein Brot, (aber)”, sagte er, “ich gebe dir doch Essen”.</xt>
 </xg>
 </HWB>
-<Etg>
+<etymology>
+<etymonCtn>
 <EtSrcL xml:lang="rus"/>
 [<Et>пожа́луй</Et>]
-</Etg>
+</etymonCtn>
+</etymology>
 </e>
   <e>
 <root_ref xml:lang="myv" hid="2" pos="Interj" lemma="пожалой"/>
@@ -3443,12 +3470,14 @@
 <xt xml:lang="deu">Verzeiht ihr, seid gut!</xt>
 </xg>
 </HWB>
-<Etg>
+<etymology>
+<etymonCtn>
 <EtSrcL edit="MK" xml:lang="rus"/>
 <EtCtn>
 <Et edit="MK">пожа́луйста</Et>
 </EtCtn>
-</Etg>
+</etymonCtn>
+</etymology>
 </e>
   <e>
 <root_ref xml:lang="myv" hid="2" pos="Pron" lemma="сам"/>
@@ -3677,10 +3706,12 @@
 <xt xml:lang="deu">Nicht hoch, nicht breit, ein Mensch, durchaus wohlgestaltet, ist die junge Frau.</xt>
 </xg>
 </MWUB>
-<Etg>
+<etymology>
+<etymonCtn>
 <EtSrcL xml:lang="rus"/>
 <Et>самый</Et>
-</Etg>
+</etymonCtn>
+</etymology>
 </e>
   <e>
 <root_name xml:lang="myv" hid="2" pos="Interj" lemma="тайдай"/>
@@ -3834,11 +3865,13 @@
 <xt xml:lang="deu">Du hättest “tiba tiba” rufen sollen.</xt>
 </xg>
 </HWB>
-<Etg>
+<etymology>
+<etymonCtn>
 <EtSrcL xml:lang="chv"/>
 <Et>
 <Wd CyrId="тӓбӓ">täbä</Wd></Et>
-</Etg>
+</etymonCtn>
+</etymology>
 </e>
   <e>
 <root_name xml:lang="myv" hid="2" pos="Interj" lemma="то"/>
@@ -4080,14 +4113,16 @@
 <xt xml:lang="deu">Und so werde ich sie von den Baschkiren loskaufen.</xt>
 </xg>
 </MWUB>
-<Etg>
+<etymology>
+<etymonCtn>
 <EtSrcL edit="MK" xml:lang="rus"/>
 <EtCtn>
 <Et edit="MK">то</Et>
 </EtCtn>[
 <Et>а то</Et>
 <Et>и то</Et>]
-</Etg>
+</etymonCtn>
+</etymology>
 </e>
   <e>
 <root_name xml:lang="myv" hid="2" pos="Interj" lemma="тпруга"/>
@@ -4435,10 +4470,12 @@
 <xt xml:lang="deu">Du bist fürwahr ein böser Geist, Schwiegertochter, du bist eine Übeltäterin.</xt>
 </xg>
 </HWB>
-<Etg>
+<etymology>
+<etymonCtn>
 Tat., tschuw. <Et>
 <Wd CyrId="тік">tik</Wd></Et>
-</Etg>
+</etymonCtn>
+</etymology>
 </e>
   <e>
 <root_name xml:lang="myv" hid="2" pos="Interj" lemma="тю"/>
@@ -5501,14 +5538,16 @@ Tat., tschuw. <Et>
 <xt xml:lang="deu">Reich, reich ist Dementej, grossbegütert ist Dementej!</xt>
 </xg>
 </HWB>
-<Etg>
+<etymology>
+<etymonCtn>
 <EtType edit="MK" vl="vgl"/>
 <EtSrcL edit="MK" vl="mrdv"/>
 <EtCtn>
 <Et edit="MK">
 <Wd CyrId="хайдым">ᵪajdi͔m</Wd></Et>
 </EtCtn>
-</Etg>
+</etymonCtn>
+</etymology>
 </e>
   <e>
 <root_name xml:lang="myv" hid="2" pos="Interj" lemma="хайдым"/>
@@ -5537,12 +5576,14 @@ Tat., tschuw. <Et>
 </tg>
 </mg>
 </HWB>
-<Etg>
+<etymology>
+<etymonCtn>
 <EtType vl="vgl"/>
 <EtSrcL xml:lang="mrdv"/>
 <Et>
 <Wd CyrId="хайдай">ᵪajdaj</Wd></Et>
-</Etg>
+</etymonCtn>
+</etymology>
 </e>
   <e>
 <root_name xml:lang="myv" hid="2" pos="Interj" lemma="хох"/>
@@ -5853,13 +5894,15 @@ Tat., tschuw. <Et>
 </tg>
 </mg>
 </MWUB>
-<Etg>
+<etymology>
+<etymonCtn>
 <EtSrcL xml:lang="tat"/>
 (Bl.) <Et>
 <Wd CyrId="чу">ču</Wd>
 <Hph/>
 <Wd CyrId="чу">ču</Wd></Et>
-</Etg>
+</etymonCtn>
+</etymology>
 </e>
   <e>
 <root_name xml:lang="myv" hid="2" pos="Interj" lemma="цюлю"/>
@@ -6153,17 +6196,21 @@ Tat., tschuw. <Et>
 <xt xml:lang="deu">Du trennst (mich), meine liebe Mutter, Mutter, von deinem Geschlecht.</xt>
 </xg>
 </HWB>
-<Etg>[
+<etymology>
+<etymonCtn>[
 ? &lt; <Et>
 <Wd CyrId="эй">ej</Wd></Et> &lt; <Et>
 <Wd CyrId="ней">ńej</Wd></Et>]
-</Etg>
+</etymonCtn>
+</etymology>
 
-<Etg>
+<etymology>
+<etymonCtn>
 <EtType vl="vgl"/>
 <Et><sup>3</sup><i><tk2>
 <Wd CyrId="эй">ej</Wd></tk2></i></Et>
-</Etg>
+</etymonCtn>
+</etymology>
 </e>
   <e>
 <root_name xml:lang="myv" hid="2" pos="Interj" lemma="эй"/>
@@ -6246,7 +6293,8 @@ Tat., tschuw. <Et>
 <xt xml:lang="deu">Segne mich ‒‒‒ zu dem, was ich jetzt vorhabe, zu dem, was ich gerade mit Gottes Hilfe beabsichtige!</xt>
 </xg>
 </HWB>
-<Etg>
+<etymology>
+<etymonCtn>
 <EtType vl="vgl"/>
 <EtSrcL xml:lang="mrdv"/>
 <Et>
@@ -6254,7 +6302,8 @@ Tat., tschuw. <Et>
 ;
 <Et><sup>2</sup><i><tk2>
 <Wd CyrId="э">e</Wd></tk2></i></Et>
-</Etg>
+</etymonCtn>
+</etymology>
 </e>
   <e>
 <root_name xml:lang="myv" hid="2" pos="Interj" lemma="элда"/>
@@ -6529,12 +6578,14 @@ Tat., tschuw. <Et>
 </tg>
 </mg>
 </MWUB>
-<Etg>
+<etymology>
+<etymonCtn>
 <EtSrcL xml:lang="tat"/>
 <Et>
 <Wd CyrId="я">jä</Wd></Et>, tschuw. <Et>
 <Wd CyrId="йɛ">jɛ</Wd></Et> &lt; arab. [Anr.-Partikel]
-</Etg>
+</etymonCtn>
+</etymology>
 </e>
   <e>
 <root_name xml:lang="myv" hid="2" pos="Pcle" lemma="я"/>
@@ -6624,12 +6675,14 @@ Tat., tschuw. <Et>
 <xt xml:lang="deu">Spät abends ist sie wach, frühmorgens steht sie auf.</xt>
 </xg>
 </HWB>
-<Etg>
+<etymology>
+<etymonCtn>
 <EtType edit="MK" vl="vgl"/>
 <EtCtn>
 <Et edit="MK"><sup>1</sup><i><tk2>
 <Wd CyrId="я">ja</Wd></tk2></i></Et>
 </EtCtn>
-</Etg>
+</etymonCtn>
+</etymology>
 </e>
 </r>

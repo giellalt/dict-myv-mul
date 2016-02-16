@@ -677,11 +677,11 @@
 <xt xml:lang="deu">Daran erkannte er, dass ‒‒‒.</xt>
 </xg>
 </MWUB>
-<Etg>
+<etymology>
 <EtSrcL xml:lang="tat"/>
 <Et>
 <Wd CyrId="кӱрӓ">kürä</Wd></Et>
-</Etg>
+</etymology>
 </e>
   <e>
 <root_ref xml:lang="myv" hid="1" pos="Po" lemma="коря"/>
@@ -2585,9 +2585,9 @@
 <xt xml:lang="deu">Erst dann wirst du zu mir zu Gaste kommen?</xt>
 </xg>
 </HWB>
-<Etg>[
+<etymology>[
 ?] Tschuw
-</Etg>
+</etymology>
 </e>
   <e>
 <root_ref xml:lang="myv" hid="1" pos="Stem" lemma="вель-"/>
@@ -4266,7 +4266,7 @@
 <xg>
 <x>
 <Wd myvId="каштом">kaštom</Wd>
-<Wd myvId="икеленть" tag"+Po+SP+Loc+Def">iḱeĺeńt́</Wd>
+<Wd myvId="икеленть" tag="+Po+SP+Loc+Def">iḱeĺeńt́</Wd>
 <Wd myvId="–">–</Wd>
 <Wd myvId="новобраннойтне">novobrannojt́ńe</Wd>
 </x>
@@ -5151,7 +5151,7 @@
 </tg>
 </mg>
 </MWUB>
-<Etg>
+<etymology>
 <EtType edit="MK" vl="vgl"/>
 <EtSrcL edit="MK" vl="mrdv"/>
 <EtCtn>
@@ -5159,7 +5159,7 @@
 <Wd CyrId="ыкса">i͔ksa</Wd></Et>
 </EtCtn>[: <Et>
 <Wd CyrId="инкса">iŋksa</Wd></Et>]
-</Etg>
+</etymology>
 </e>
   <e>
 <root_ref xml:lang="myv" hid="1" pos="Stem" lemma="икель-"/>
@@ -5890,13 +5890,13 @@
 ).</t>
 </xg>
 </HWB>
-<Etg>
+<etymology>
 <EtType vl="vgl"/>
 <EtSrcL xml:lang="chv"/>
 <Et>
 <Wd CyrId="ху̬ш">ᵪu̬š</Wd>
 <Hph/></Et>
-</Etg>
+</etymology>
 </e>
   <e>
 <root_ref xml:lang="myv" hid="1" pos="Stem" lemma="кува-"/>
@@ -9802,10 +9802,10 @@ ChrE
 <xt xml:lang="deu">In Christi Namen, meine Brüder, in Christi Namen, meine Betreuer!</xt>
 </xg>
 </MWUB>
-<Etg>
+<etymology>
 <EtSrcL xml:lang="rus"/>
 <Et>ради</Et>
-</Etg>
+</etymology>
 </e>
   <e>
 <root_ref xml:lang="myv" hid="1" pos="Stem" lemma="те-"/>
@@ -12546,7 +12546,7 @@ ChrE
 </TrlnCtn>
 </mg>
 </MWUB>
-<Etg>
+<etymology>
 <EtType vl="vgl"/>
 <EtSrcL xml:lang="mrdv"/>
 <Et>
@@ -12554,7 +12554,7 @@ ChrE
 <Hph/></Et>: <Et>
 <Wd CyrId="ингəль">iŋgəĺ</Wd>
 <Hph/></Et>
-</Etg>
+</etymology>
 </e>
   <e>
 <root_ref xml:lang="myv" hid="1" pos="Stem" lemma="эз-"/>

@@ -388,19 +388,19 @@
 <xt xml:lang="deu">Brichst du [im Traum] eine Roggenpirogge, wird dein Leben enger, entweder die Mutter oder der Vater wird sterben.</xt>
 </xg>
 </MWUB>
-<Etg>
+<etymology>
+<etymonCtn>
 <EtType edit="MK" vl="vgl"/>
 <EtSrcL edit="MK" vl="mrdv"/>
 <EtCtn>
 <Et edit="MK">
 <Wd CyrId="эли">eĺi</Wd></Et>
 </EtCtn>
-</Etg>
-
-<Etg>
+</etymonCtn>
+<etymonCtn>
 <EtSrcL xml:lang="rus"/>
 dial. <Et>али</Et>
-</Etg>
+</etymonCtn></etymology>
 </e>
   <e>
 <root_ref xml:lang="myv" hid="1" pos="V" lemma="аштемс"/>
@@ -861,11 +861,12 @@ dial. <Et>али</Et>
 <xt xml:lang="deu">Inmitten des Waldes [ist] eine grosse Wiese.</xt>
 </xg>
 </HWB>
-<Etg>
+<etymology>
+<etymonCtn>
 <EtSrcL xml:lang="rus"/>
 <Et>да</Et>
-</Etg>
-<Etg>
+</etymonCtn>
+<etymonCtn>
 <EtType vl="vgl"/>
 <EtSrcL xml:lang="mrdv"/>
 <Et>
@@ -873,7 +874,7 @@ dial. <Et>али</Et>
 ;
 <Et>
 <Wd CyrId="то">tə̑</Wd></Et>
-</Etg>
+</etymonCtn></etymology>
 </e>
   <e>
 <stem_name xml:lang="myv" hid="1" pos="CC" lemma="ды"/>
@@ -1075,11 +1076,11 @@ dial. <Et>али</Et>
 <xt xml:lang="deu">Sie geht und weint.</xt>
 </xg>
 </HWB>
-<Etg>
+<etymology>
 <EtSrcL xml:lang="rus"/>
 <Et>да</Et>
 <Et>ды</Et>
-</Etg>
+</etymology>
 </e>
   <e>
 <stem_name xml:lang="myv" hid="1" pos="CC" lemma="и"/>
@@ -1449,12 +1450,12 @@ dial. <Et>али</Et>
 </tg>
 </mg>
 </MWUB>
-<Etg>
+<etymology>
+<etymonCtn>
 <EtSrcL xml:lang="rus"/>
 <Et>или</Et>
-</Etg>
-
-<Etg>
+</etymonCtn>
+<etymonCtn>
 <EtType vl="vgl"/>
 <EtSrcL xml:lang="mrdv"/>
 <Et>
@@ -1462,7 +1463,7 @@ dial. <Et>али</Et>
 ;
 <Et>
 <Wd CyrId="эли">eĺi</Wd></Et>
-</Etg>
+</etymonCtn></etymology>
 </e>
   <e>
 <stem_name xml:lang="myv" hid="1" pos="CC" lemma="либи"/>
@@ -1616,10 +1617,10 @@ dial. <Et>али</Et>
 <xt xml:lang="deu">Entweder ertrinkt er im Wasser oder es bringen die Menschen ihn um!</xt>
 </xg>
 </MWUB>
-<Etg>
+<etymology>
 <EtSrcL xml:lang="rus"/>
 <Et>либо</Et>
-</Etg>
+</etymology>
 </e>
   <e>
 <stem_name xml:lang="myv" hid="1" pos="CC" lemma="эли"/>
@@ -2150,16 +2151,16 @@ dial. <Et>али</Et>
 <xt xml:lang="deu">Hat dich etwa die Stiefmutter gerügt, oder hat dich mein Vater geprügelt?</xt>
 </xg>
 </MWUB>
-<Etg>
+<etymology>
+<etymonCtn>
 (<EtType vl="vgl"/>
 <Et>
 <Wd CyrId="али">aĺi</Wd></Et>; <Et>
 <Wd CyrId="или">iĺi</Wd></Et>)
-</Etg>
-
-<Etg>
+</etymonCtn>
+<etymonCtn>
 <EtSrcL xml:lang="rus"/>
 <Et>или; ли</Et>
-</Etg>
+</etymonCtn></etymology>
 </e>
 </r>

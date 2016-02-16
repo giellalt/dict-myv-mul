@@ -32,10 +32,10 @@
 </GeoUB>
 </dfQsyn1>)</mg>
 </HWB>
-<Etg>
+<etymology>
 <EtSrcL edit="MK" vl="?ru"/>[
 (dial.) <Et>незля́</Et>]
-</Etg>
+</etymology>
 </e>
   <e>
 <root_name xml:lang="myv" hid="2" pos="Pcle" lemma="XX"/>
@@ -79,7 +79,7 @@
 <xt xml:lang="deu">Er wurde so (schwer) verletzt, sogar sein Kopf ging entzwei.</xt>
 </xg>
 </HWB>
-<Etg>
+<etymology>
 <EtType edit="MK" vl="vgl"/>
 <EtCtn>
 <Et edit="MK"><sup>1</sup><i><tk2>
@@ -88,7 +88,7 @@
 <Wd CyrId="налтай">nalta·j</Wd></Et>; <Et>
 <Wd CyrId="натай">nataj</Wd></Et>; <Et>
 <Wd CyrId="нолта">nə̑lta</Wd></Et>]
-</Etg>
+</etymology>
 </e>
   <e>
 <root_name xml:lang="myv" hid="2" pos="Pcle" lemma="XX"/>
@@ -158,7 +158,7 @@
 <xt xml:lang="deu">Die Honigwabe ist sogar <Note>mit Wachs</Note> abgedeckelt.</xt>
 </xg>
 </HWB>
-<Etg>
+<etymology>
 <EtType edit="MK" vl="vgl"/>
 <EtCtn>
 <Et edit="MK"><sup>1</sup><i><tk2>
@@ -166,7 +166,7 @@
 </EtCtn>[; <Et>
 <Wd CyrId="налтай">nalta·j</Wd></Et>; <Et>
 <Wd CyrId="нолнатай">nə̑lnata·j</Wd></Et>]
-</Etg>
+</etymology>
 </e>
   <e>
 <root_name xml:lang="myv" hid="2" pos="Pcle" lemma="XX"/>
@@ -254,10 +254,10 @@
 <xt xml:lang="deu">Vielleicht ist es am Feuer verbrannt worden. </xt>
 </xg>
 </HWB>
-<Etg>
+<etymology>
 <EtSrcL xml:lang="rus"/>
 <Et>чаять</Et>
-</Etg>
+</etymology>
 </e>
   <e>
 <root_name xml:lang="myv" hid="2" pos="Pcle" lemma="XX"/>
@@ -359,7 +359,8 @@
 <xt xml:lang="deu">Er schlug ihn sogar.</xt>
 </xg>
 </HWB>
-<Etg>
+<etymology>
+<etymonCtn>
 <EtType vl="vgl"/>
 <EtSrcL xml:lang="russ"/>
 <Et>нале, нален</Et>
@@ -368,9 +369,8 @@
 <Et>нальне</Et>
 <Et>нальни</Et>
 <Et>нально.</Et>
-</Etg>
-
-<Etg>
+</etymonCtn>
+<etymonCtn>
 <EtType edit="MK" vl="vgl"/>
 <EtSrcL edit="MK" vl="mrdv"/>
 <EtCtn>
@@ -380,7 +380,7 @@
 ;
 <Et>
 <Wd CyrId="нолнатай">nə̑lnata·j</Wd></Et>]
-</Etg>
+</etymonCtn></etymology>
 </e>
   <e>
 <root_name xml:lang="myv" hid="2" pos="Pcle" lemma="XX"/>
@@ -893,10 +893,10 @@
 <xt xml:lang="deu">Wohin hat sie dich dann jetzt gesandt?</xt>
 </xg>
 </MWUB>
-<Etg>
+<etymology>
 <EtSrcL xml:lang="rus"/>
 <Et>ино</Et>
-</Etg>
+</etymology>
 </e>
   <e>
 <root_name xml:lang="myv" hid="2" pos="Pcle" lemma="интай"/>
@@ -1200,10 +1200,10 @@
 <xt xml:lang="deu">Sučk (Der Kranke) atmet schnell und schwer.</xt>
 </xg>
 </MWUB>
-<Etg>
+<etymology>
 <EtSrcL xml:lang="rus"/>
 <Et>лишь</Et>
-</Etg>
+</etymology>
 </e>
   <e>
 <root_name xml:lang="myv" hid="2" pos="Pcle" lemma="мик"/>
@@ -1757,14 +1757,14 @@
 </GeoUB>
 </dfQsyn1>)</mg>
 </MWUB>
-<Etg>
+<etymology>
 <EtType edit="MK" vl="vgl"/>
 <EtSrcL edit="MK" vl="mrdv"/>
 <EtCtn>
 <Et edit="MK">
 <Wd CyrId="мянь">ḿäń</Wd></Et>
 </EtCtn>
-</Etg>
+</etymology>
 </e>
   <e>
 <root_name xml:lang="myv" hid="2" pos="Pcle" lemma="натой"/>
@@ -1924,12 +1924,12 @@
 <xt xml:lang="deu">(Dein Mann) ist fürwahr einer, der deine zwei Beine beherrschen kann.</xt>
 </xg>
 </HWB>
-<Etg>
+<etymology>
 <EtSrcL edit="MK" xml:lang="rus"/>
 <EtCtn>
 <Et edit="MK">не как</Et>
 </EtCtn>
-</Etg>
+</etymology>
 </e>
   <e>
 <root_name xml:lang="myv" hid="2" pos="Pcle" lemma="неушто"/>
@@ -1971,10 +1971,10 @@
 <xt xml:lang="deu">Ist es möglich, dass er mich schlachten wird?</xt>
 </xg>
 </HWB>
-<Etg>
+<etymology>
 <EtSrcL xml:lang="rus"/>
 <Et>неу́жто</Et>
-</Etg>
+</etymology>
 </e>
   <e>
 <root_name xml:lang="myv" hid="2" pos="Pcle" lemma="парязда"/>
@@ -2557,10 +2557,10 @@
 <xt xml:lang="deu">Du bist der reichste (Mann) unter dem Himmel.</xt>
 </xg>
 </MWUB>
-<Etg>
+<etymology>
 <EtSrcL xml:lang="rus"/>
 <Et>всех</Et>
-</Etg>
+</etymology>
 </e>
   <e>
 <root_name xml:lang="myv" hid="2" pos="Pcle" lemma="тожо"/>
@@ -2592,10 +2592,10 @@
 </tg>
 </mg>
 </HWB>
-<Etg>
+<etymology>
 <EtSrcL xml:lang="rus"/>
 <Et>тоже</Et>
-</Etg>
+</etymology>
 </e>
   <e>
 <root_name xml:lang="myv" hid="2" pos="Pcle" lemma="токадей"/>
@@ -2669,9 +2669,9 @@
 <xt xml:lang="deu">[Ach, es ist doch gut!].</xt>
 </xg>
 </HWB>
-<Etg>[
+<etymology>[
 ? Russ. <Et>ведь</Et>]
-</Etg>
+</etymology>
 </e>
   <e>
 <root_name xml:lang="myv" hid="2" pos="Pcle" lemma="эй"/>
@@ -3195,13 +3195,13 @@
 <xt xml:lang="deu">Der Tag fängt eben an, dunkel zu werden, die Nacht beginnt eben heranzunahen.</xt>
 </xg>
 </HWB>
-<Etg>
+<etymology>
 <EtType edit="MK" vl="vgl"/>
 <EtSrcL edit="MK" vl="russ"/>
 <EtCtn>
 <Et edit="MK">еле</Et>
 </EtCtn>
-</Etg>
+</etymology>
 </e>
   <e>
 <root_name xml:lang="myv" hid="2" pos="Pcle" lemma="ёк"/>
@@ -3232,9 +3232,9 @@
 (<dfQsyn1 rel="syn"><dfQsyn2><i><tk2>
 <Wd CyrId="арась">araś</Wd></tk2></i></dfQsyn2></dfQsyn1>)</mg>
 </HWB>
-<Etg>
+<etymology>
 Tat
-</Etg>
+</etymology>
 </e>
   <e>
 <root_ref xml:lang="myv" hid="1" pos="Pcle" lemma="буто"/>
@@ -3272,10 +3272,10 @@ Tat
 </tg>
 </mg>
 </HWB>
-<Etg>
+<etymology>
 <EtSrcL xml:lang="rus"/>
 <Et>будто</Et>
-</Etg>
+</etymology>
 </e>
   <e>
 <root_name xml:lang="myv" hid="1" pos="Pcle" lemma=""/>
@@ -3493,10 +3493,10 @@ Tat
 </tg>
 </mg>
 </MWUB>
-<Etg>
+<etymology>
 <EtSrcL xml:lang="rus"/>
 <Et>же</Et>
-</Etg>
+</etymology>
 </e>
   <e>
 <root_name xml:lang="myv" hid="1" pos="Pcle" lemma="-как"/>
@@ -3704,7 +3704,7 @@ Tat
 <xt xml:lang="deu">Wenn du sie senden willst, lasse sie sich nicht senden [möge sie sich nicht senden lassen]!</xt>
 </xg>
 </HWB>
-<Etg>
+<etymology>
 <EtType edit="MK" vl="vgl"/>
 <EtSrcL edit="MK" vl="mrdv"/>
 <EtCtn>
@@ -3712,7 +3712,7 @@ Tat
 <Wd CyrId="а">a</Wd></Et>
 </EtCtn>[: <Et>
 <Wd CyrId="аф">af</Wd></Et>]
-</Etg>
+</etymology>
 </e>
   <e>
 <root_name xml:lang="myv" hid="1" pos="Pcle" lemma="XX"/>
@@ -3869,14 +3869,14 @@ Tat
 <xt xml:lang="deu">Sie ging und schaute, auch da ist er nicht.</xt>
 </xg>
 </HWB>
-<Etg>
+<etymology>
 <EtType edit="MK" vl="vgl"/>
 <EtSrcL edit="MK" vl="mrdv"/>
 <EtCtn>
 <Et edit="MK">
 <Wd CyrId="аш">aš</Wd></Et>
 </EtCtn>
-</Etg>
+</etymology>
 </e>
   <e>
 <root_name xml:lang="myv" hid="1" pos="Pcle" lemma="XX"/>
@@ -5830,14 +5830,14 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 <xt xml:lang="deu">Ich säe und pflüge es ein, und nehme es in Gebrauch, (und dennoch taugt) davon nichts (zum Essen). – Der Hanfhahn.</xt>
 </xg>
 </MWUB>
-<Etg>
+<etymology>
 <EtType edit="MK" vl="vgl"/>
 <EtSrcL edit="MK" vl="mrdv"/>
 <EtCtn>
 <Et edit="MK">
 <Wd CyrId="аяш">ajaš</Wd></Et>
 </EtCtn>
-</Etg>
+</etymology>
 </e>
   <e>
 <root_name xml:lang="myv" hid="1" pos="Pcle" lemma="XX"/>
@@ -6188,7 +6188,7 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 <xt xml:lang="deu">Kommt er denn (wirklich)?</xt>
 </xg>
 </HWB>
-<Etg>
+<etymology>
 <EtType edit="MK" vl="vgl"/>
 <EtSrcL edit="MK" vl="mrdv"/>
 <EtCtn>
@@ -6210,7 +6210,7 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 ;
 <Et>
 <Wd CyrId="резяй">ŕəźä·j</Wd></Et>]
-</Etg>
+</etymology>
 </e>
   <e>
 <root_name xml:lang="myv" hid="1" pos="Pcle" lemma="XX"/>
@@ -6241,7 +6241,7 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 </tg>
 </mg>
 </HWB>
-<Etg>[
+<etymology>[
 <EtCtn>
 <EtType vl="vgl"/>
 <EtSrcL xml:lang="mrdv"/>
@@ -6311,7 +6311,7 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 <Et>
 <Wd CyrId="ресте·й">ŕəśt́e·j</Wd></Et>]
 </EtCtn>
-</Etg>
+</etymology>
 </e>
   <e>
 <root_name xml:lang="myv" hid="1" pos="Pcle" lemma="XX"/>
@@ -6667,7 +6667,7 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 <xt xml:lang="deu">“Wann wirst du abfahren?” – “Morgen werde ich abfahren.” – “Schon morgen?”.</xt>
 </xg>
 </MWUB>
-<Etg>
+<etymology>
 <EtSrcL xml:lang="tat"/>
 <Et>
 <WdCtn>
@@ -6680,7 +6680,7 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 </WdCtn>
 <Hph/>
 <Wd CyrId="ӱк">ük</Wd></Et>
-</Etg>
+</etymology>
 </e>
   <e>
 <root_name xml:lang="myv" hid="1" pos="Pcle" lemma="а"/>
@@ -10307,7 +10307,7 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 <xt xml:lang="deu">Ich werde kommen ‒‒‒ zu ihrem ungedeckten Schober!</xt>
 </xg>
 </MWUB>
-<Etg>
+<etymology>
 <EtType vl="vgl"/>
 <EtSrcL xml:lang="mrdv"/>
 <Et>
@@ -10315,7 +10315,7 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 ;
 <Et>
 <Wd CyrId="афака">afaka</Wd></Et>
-</Etg>
+</etymology>
 </e>
   <e>
 <root_name xml:lang="myv" hid="1" pos="Pcle" lemma="арашк"/>
@@ -10356,7 +10356,7 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 <xt xml:lang="deu">Ist er denn dort?</xt>
 </xg>
 </HWB>
-<Etg>
+<etymology>
 <EtType edit="MK" vl="vgl"/>
 <EtSrcL edit="MK" vl="mrdv"/>
 <EtCtn>
@@ -10378,7 +10378,7 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 ;
 <Et>
 <Wd CyrId="рази">raźi</Wd></Et>]
-</Etg>
+</etymology>
 </e>
   <e>
 <root_name xml:lang="myv" hid="1" pos="Pcle" lemma="ашта"/>
@@ -10930,10 +10930,10 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 <xt xml:lang="deu">Mir war im Traume, als ob Sonne und Mond sich mit einander vermischt hätten.</xt>
 </xg>
 </HWB>
-<Etg>
+<etymology>
 <EtSrcL xml:lang="rus"/>
 <Et>будто</Et>
-</Etg>
+</etymology>
 </e>
   <e>
 <root_ref xml:lang="myv" hid="1" pos="Pcle" lemma="буто"/>
@@ -10964,10 +10964,10 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 </tg>
 </mg>
 </HWB>
-<Etg>
+<etymology>
 <EtSrcL xml:lang="rus"/>
 <Et>будто бы</Et>
-</Etg>
+</etymology>
 </e>
   <e>
 <root_ref xml:lang="myv" hid="1" pos="Pcle" lemma="ведь"/>
@@ -11253,10 +11253,10 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 <xt xml:lang="deu">“Siehe”, sagte er, “(da) kommt ja dein Sohn”.</xt>
 </xg>
 </HWB>
-<Etg>
+<etymology>
 <EtSrcL xml:lang="rus"/>
 <Et>ведь</Et>
-</Etg>
+</etymology>
 </e>
   <e>
 <root_name xml:lang="myv" hid="1" pos="Pcle" lemma="дажой"/>
@@ -11309,12 +11309,12 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 <xt xml:lang="deu">Sie hatten gar nicht mehr Kraft zu harken [l.: zu schaufeln].</xt>
 </xg>
 </HWB>
-<Etg>
+<etymology>
 <EtSrcL edit="MK" xml:lang="rus"/>
 <EtCtn>
 <Et edit="MK">даже</Et>
 </EtCtn>
-</Etg>
+</etymology>
 </e>
   <e>
 <root_name xml:lang="myv" hid="1" pos="Pcle" lemma="до"/>
@@ -11469,10 +11469,10 @@ Volksd. gebraucht wird, <Cm>? = russ. <FrnTxt xml:lang="rus">да</FrnTxt></Cm>]
 <xt xml:lang="deu">Du hast wohl Gastgeschenke?</xt>
 </xg>
 </HWB>
-<Etg>
+<etymology>
 <EtSrcL xml:lang="rus"/>
 <Et>кабы́</Et>
-</Etg>
+</etymology>
 </e>
   <e>
 <root_name xml:lang="myv" hid="1" pos="Pcle" lemma="кара-"/>
@@ -11823,13 +11823,13 @@ Volksd. gebraucht wird, <Cm>? = russ. <FrnTxt xml:lang="rus">да</FrnTxt></Cm>]
 </tg>
 </mg>
 </CompositionalPhraseCtn>
-<Etg>
+<etymology>
 <EtSrcL xml:lang="tat"/>
 <Et>
 <Wd CyrId="кара">kara</Wd>
 <Hph/>
 <Wd CyrId="каршə̑">karšə̑</Wd></Et>
-</Etg>
+</etymology>
 </e>
   <e>
 <root_name xml:lang="myv" hid="1" pos="Pcle" lemma="кой"/>
@@ -12123,13 +12123,13 @@ Volksd. gebraucht wird, <Cm>? = russ. <FrnTxt xml:lang="rus">да</FrnTxt></Cm>]
 </GeoUB>
 </dfQsyn1>)</mg>
 </MWUB>
-<Etg>
+<etymology>
 <EtSrcL edit="MK" xml:lang="rus"/>
 <EtCtn>
 <Et edit="MK">кое-</Et>
 </EtCtn>[
 <Et>кой</Et>]
-</Etg>
+</etymology>
 </e>
   <e>
 <root_ref xml:lang="myv" hid="1" pos="Pcle" lemma="коть"/>
@@ -12174,12 +12174,12 @@ Volksd. gebraucht wird, <Cm>? = russ. <FrnTxt xml:lang="rus">да</FrnTxt></Cm>]
 <xt xml:lang="deu">Wir wollten von ihm fressen.</xt>
 </xg>
 </HWB>
-<Etg>
+<etymology>
 <EtSrcL edit="MK" xml:lang="rus"/>
 <EtCtn>
 <Et edit="MK">хоте́ли</Et>
 </EtCtn>[ (Pl. Prät. vom Verb <Et>хоте́ть</Et>)]
-</Etg>
+</etymology>
 </e>
   <e>
 <root_name xml:lang="myv" hid="1" pos="Pcle" lemma="коть"/>
@@ -12801,15 +12801,16 @@ Volksd. gebraucht wird, <Cm>? = russ. <FrnTxt xml:lang="rus">да</FrnTxt></Cm>]
 <xt xml:lang="deu">Wenn du mich tötest, verfluche ich dich. </xt>
 </xg>
 </MWUB>
-<Etg>
+<etymology>
+<etymonCtn>
 <EtSrcL xml:lang="rus"/>
 <Et>хоть</Et>
-</Etg>;
-<Etg>
+</etymonCtn>;
+<etymonCtn>
 <EtType vl="vgl"/>
 <Et>
 <Wd CyrId="кать">kat́</Wd></Et>
-</Etg>
+</etymonCtn></etymology>
 </e>
   <e>
 <root_name xml:lang="myv" hid="1" pos="Pcle" lemma="кош"/>
@@ -13200,12 +13201,12 @@ Volksd. gebraucht wird, <Cm>? = russ. <FrnTxt xml:lang="rus">да</FrnTxt></Cm>]
 <xt xml:lang="deu">Sie haben immer Not und Sorge gehabt.</xt>
 </xg>
 </MWUB>
-<Etg>
+<etymology>
 <EtSrcL edit="MK" xml:lang="rus"/>
 <EtCtn>
 <Et edit="MK">хош</Et>
 </EtCtn>
-</Etg>
+</etymology>
 </e>
   <e>
 <root_name xml:lang="myv" hid="1" pos="Pcle" lemma="ли"/>
@@ -13348,12 +13349,12 @@ Volksd. gebraucht wird, <Cm>? = russ. <FrnTxt xml:lang="rus">да</FrnTxt></Cm>]
 <xt xml:lang="deu">Sie fragt sie: “Wisst ihr es oder nicht?”.</xt>
 </xg>
 </HWB>
-<Etg>
+<etymology>
 <EtSrcL edit="MK" xml:lang="rus"/>
 <EtCtn>
 <Et edit="MK">ли</Et>
 </EtCtn>
-</Etg>
+</etymology>
 </e>
   <e>
 <root_name xml:lang="myv" hid="1" pos="Pcle" lemma="нады"/>
@@ -13401,12 +13402,12 @@ Volksd. gebraucht wird, <Cm>? = russ. <FrnTxt xml:lang="rus">да</FrnTxt></Cm>]
 <xt xml:lang="deu">Der Schafbock muss geschlachtet werden.</xt>
 </xg>
 </HWB>
-<Etg>
+<etymology>
 <EtSrcL edit="MK" xml:lang="rus"/>
 <EtCtn>
 <Et edit="MK">надо</Et>
 </EtCtn>
-</Etg>
+</etymology>
 </e>
   <e>
 <root_name xml:lang="myv" hid="1" pos="Pcle" lemma="не"/>
@@ -13493,12 +13494,12 @@ Volksd. gebraucht wird, <Cm>? = russ. <FrnTxt xml:lang="rus">да</FrnTxt></Cm>]
 <xt xml:lang="deu">Gott bewahre (einen) vor fremdem Lande!</xt>
 </xg>
 </HWB>
-<Etg>
+<etymology>
 <EtSrcL edit="MK" xml:lang="rus"/>
 <EtCtn>
 <Et edit="MK">не</Et>
 </EtCtn>
-</Etg>
+</etymology>
 </e>
   <e>
 <root_name xml:lang="myv" hid="1" pos="Pcle" lemma="не-"/>
@@ -13655,7 +13656,8 @@ Volksd. gebraucht wird, <Cm>? = russ. <FrnTxt xml:lang="rus">да</FrnTxt></Cm>]
 <xt xml:lang="deu">Geht er denn?</xt>
 </xg>
 </HWB>
-<Etg>
+<etymology>
+<etymonCtn>
 (<EtType vl="vgl"/>
 <Et><CapI>
 <i><tk2>
@@ -13667,12 +13669,11 @@ Volksd. gebraucht wird, <Cm>? = russ. <FrnTxt xml:lang="rus">да</FrnTxt></Cm>]
 <Wd CyrId="арази">araźi</Wd></Et>; <i><tk2>
 <Wd CyrId="арьзяй">aŕźä·j</Wd></tk2></i>; <i><tk2>
 <Wd CyrId="раздя">raźd́ä</Wd></tk2></i>)
-</Etg>
-
-<Etg>
+</etymonCtn>
+<etymonCtn>
 <EtSrcL xml:lang="rus"/>
 <Et>разве</Et>
-</Etg>
+</etymonCtn></etymology>
 </e>
   <e>
 <root_ref xml:lang="myv" hid="3" pos="Pron" lemma="се"/>
@@ -14804,12 +14805,12 @@ ChrM
 <xt xml:lang="deu">Du weisst doch, Mutter.</xt>
 </xg>
 </HWB>
-<Etg>
+<etymology>
 <EtSrcL edit="MK" vl="?ru"/>
 <EtCtn>
 <Et edit="MK">? всё-таки</Et>
 </EtCtn>
-</Etg>
+</etymology>
 </e>
   <e>
 <root_ref xml:lang="myv" hid="1" pos="Pcle" lemma="коть"/>
@@ -14877,12 +14878,12 @@ ChrM
 <xt xml:lang="deu">Sie wollen das Mädchen zufreien.</xt>
 </xg>
 </HWB>
-<Etg>
+<etymology>
 <EtSrcL edit="MK" xml:lang="rus"/>
 <EtCtn>
 <Et edit="MK">хотя́т</Et>
 </EtCtn>[ (3. Pl. vom Verb <Et>хоте́ть</Et>)]
-</Etg>
+</etymology>
 </e>
   <e>
 <root_name xml:lang="myv" hid="1" pos="Pcle" lemma="эень"/>
@@ -15411,9 +15412,9 @@ ChrM
 <xt xml:lang="deu">[Ich dachte, vermutete].</xt>
 </xg>
 </HWB>
-<Etg>[
+<etymology>[
 Aus der russ. dial. F. <Et>чаял</Et>
 <Et>чал</Et>]
-</Etg>
+</etymology>
 </e>
 </r>
