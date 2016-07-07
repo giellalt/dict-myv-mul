@@ -2215,7 +2215,7 @@
 <xg>
 <x>
 <Wd myvId="зяро">źaro</Wd>
-<Wd myvId="сёрманᴣо">śormanᴣo</Wd>
+<Wd myvId="сёрманзо">śormanᴣo</Wd>
 <tk3 isa="comma"/>
 <Chc>
 <Vrt>
@@ -2239,13 +2239,13 @@
 <xg>
 <x>
 <Wd myvId="зяро">źaro</Wd>
-<Wd myvId="сёрманᴣо">śormanᴣo</Wd>
+<Wd myvId="сёрманзо">śormanᴣo</Wd>
 <tk3 isa="comma"/>
 <Wd myvId="сняро">śńaro</Wd>
-<Wd myvId="казненᴣэ">kaźńenᴣe͔</Wd>
+<Wd myvId="казнензэ">kaźńenᴣe͔</Wd>
 <tk3 isa="comma"/>
 <Wd myvId="сняро">śńaro</Wd>
-<Wd myvId="ловманᴣо">lovmanᴣo</Wd>
+<Wd myvId="ловманзо">lovmanᴣo</Wd>
 </x>
 <GeoUB xml:lang="myv">
 <GeoU>Myv</GeoU>
@@ -4257,7 +4257,7 @@
 <GeoUB xml:lang="myv">
 <GeoU>Mar</GeoU>
 </GeoUB>
-<InflB>
+<mini_paradigm>
 <InflCtn>
 <InflTags tag="+Pl+Nom+Indef"/>
 <Infl>
@@ -4265,7 +4265,7 @@
 <Wd myvId="месть">ḿeśt́</Wd>
 </Infl>
 </InflCtn>
-</InflB>
+</mini_paradigm>
 </PhnUBlock>
 <PhnUBlock>
 <PhnU>

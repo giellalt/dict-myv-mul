@@ -8067,13 +8067,13 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 <GeoUB edit="MK" xml:lang="myv">
 <GeoU/>
 </GeoUB>
-<InflB>
+<mini_paradigm>
 <InflCtn>
 <Infl>
 <Wd tag="+Pl+Nom+Indef" myvId="и·рицтыть">i·ŕicti͔t́</Wd>
 </Infl>
 </InflCtn>
-</InflB>
+</mini_paradigm>
 </PhnUBlock>
 <PhnUBlock>
 <PhnU>
@@ -11633,14 +11633,14 @@ Volksd. gebraucht wird, <Cm>? = russ. <FrnTxt xml:lang="rus">да</FrnTxt></Cm>]
 <GeoU>Temn</GeoU>
 <GeoU>Atjur</GeoU>
 </GeoUB>
-<InflB>
+<mini_paradigm>
 <InflCtn>
 <Infl><Wd tag="+Pl+Nom+Indef" mdfId="карань">karań</Wd>
 <Hph/>
 <Wd mdfId="карш́экт">karš́ekt</Wd>
 </Infl>
 </InflCtn>
-</InflB>
+</mini_paradigm>
 </PhnUBlock>
 </lg>
 <mg>
@@ -11752,7 +11752,7 @@ Volksd. gebraucht wird, <Cm>? = russ. <FrnTxt xml:lang="rus">да</FrnTxt></Cm>]
 <Hph edit="MK"/>
 <Wd myvId="карчо">karčo</Wd>
 <Wd myvId="иванонь">ivanoń</Wd>
-<Wd myvId="кудонᴣо">kudonᴣo</Wd>
+<Wd myvId="кудонзо">kudonᴣo</Wd>
 </x>
 <GeoUB xml:lang="myv">
 <GeoU>Vez</GeoU>
@@ -13982,8 +13982,8 @@ ChrM
 <Wd myvId="неяви">ńejav́i</Wd>
 <tk3 isa="comma"/>
 <Wd myvId="атя">at́a</Wd>
-<Wd myvId="бабанᴣо">babanᴣo</Wd>
-<Wd myvId="пильгенᴣэ">ṕiĺǵenᴣe͔</Wd>
+<Wd myvId="бабанзо">babanᴣo</Wd>
+<Wd myvId="пильгензэ">ṕiĺǵenᴣe͔</Wd>
 <Wd myvId="синди">śińd́i</Wd>
 </x>
 <GeoUB xml:lang="myv">

@@ -622,7 +622,7 @@
 <Wd myvId="нумол">numol</Wd>
 <Hph/>
 <Wd myvId="патькань">pat́kań</Wd>
-<Wd myvId="ӓрьгенᴣэ">äŕǵenᴣe͔</Wd>
+<Wd myvId="ӓрьгензэ">äŕǵenᴣe͔</Wd>
 </x>
 <GeoUB xml:lang="myv">
 <GeoU>Gor</GeoU>
@@ -1416,7 +1416,7 @@
 <Wd myvId="чольдерь">čoĺd́eŕ</Wd>
 <Hph edit="MK"/>
 <Wd myvId="кальдерь">kaĺd́eŕ</Wd>
-<Wd myvId="цёконᴣо">ćokonᴣo</Wd>
+<Wd myvId="цёконзо">ćokonᴣo</Wd>
 </x>
 <GeoUB xml:lang="myv">
 <GeoU>Večk</GeoU>
@@ -3052,7 +3052,7 @@
 <Wd myvId="сяльмензэ">śäĺḿenze͔</Wd>
 </Vrt>
 <Vrt>
-<Wd myvId="сельведенᴣэ">śeĺv́ed́enᴣe͔</Wd>
+<Wd myvId="сельведензэ">śeĺv́ed́enᴣe͔</Wd>
 </Vrt>
 </Chc>
 </x>
@@ -3294,7 +3294,7 @@
 </mg>
 <xg>
 <x>
-<Wd myvId="сонᴣэ">sonᴣe͔</Wd>
+<Wd myvId="сонзэ">sonᴣe͔</Wd>
 <Wd myvId="пулк">pulk</Wd>
 <Wd myvId="мернесь">ḿeŕńeś</Wd>
 <Wd myvId="сэрезэ">se͔ŕeze͔</Wd>
@@ -3551,7 +3551,7 @@
 <xg>
 <x>
 <Wd myvId="рукшт">rukšt</Wd>
-<Wd myvId="кеденᴣэ">ḱed́enᴣe͔</Wd>
+<Wd myvId="кедензэ">ḱed́enᴣe͔</Wd>
 <Wd myvId="вачкодиньᴣ́э">vačkod́ińᴣ́e</Wd>
 </x>
 <GeoUB xml:lang="myv"/>
@@ -4023,13 +4023,13 @@
 <GeoUB xml:lang="mdf">
 <GeoU>Sučk</GeoU>
 </GeoUB>
-<InflB>
+<mini_paradigm>
 <InflCtn>
 <InflTags tag="+Pl+Nom+Indef"/>
 <Infl><Wd mdfId="нявакат">ńavakat</Wd>
 </Infl>
 </InflCtn>
-</InflB>
+</mini_paradigm>
 </PhnUBlock>
 </lg>
 <mg copiedFrom="preceding">
@@ -16175,14 +16175,14 @@ auch <Et>
 <Wd myvId="панжіньᴣ́э">panᴣ̌ińᴣ́e</Wd>
 <Wd myvId="савань">savań</Wd>
 <Wd myvId="терюша">t́eŕuša</Wd>
-<Wd myvId="ортанᴣо">ortanᴣo</Wd>
+<Wd myvId="ортанзо">ortanᴣo</Wd>
 <tk3 isa="comma"/>
 <Wd myvId="сон">son</Wd>
 <Wd myvId="лавск">lavsk</Wd>
 <Wd myvId="пекстызе">ṕeksti͔źe</Wd>
 <Wd myvId="савань">savań</Wd>
 <Wd myvId="терюша">t́eŕuša</Wd>
-<Wd myvId="кенкшенᴣэ">ḱeŋkšenᴣe͔</Wd>
+<Wd myvId="кенкшензэ">ḱeŋkšenᴣe͔</Wd>
 </x>
 <GeoUB xml:lang="myv">
 <GeoU>Vez</GeoU>
@@ -23219,7 +23219,7 @@ Imper. <Et>встреча́й</Et>]
 <x>
 <Wd myvId="цяр">ćar</Wd>
 <tk3 isa="ws"/>
-<Wd myvId="пильгенᴣэ">ṕiĺǵenᴣe͔</Wd>
+<Wd myvId="пильгензэ">ṕiĺǵenᴣe͔</Wd>
 <tk3 isa="ws"/>
 <Wd myvId="ёндол">jondol</Wd>
 <tk3 isa="ws"/>
@@ -24303,7 +24303,7 @@ Imper. <Et>встреча́й</Et>]
 <PhnUBlock>
 <PhnU>
 <Wd mdfId="эрьгя">eŕǵä</Wd>
-<InflB>
+<mini_paradigm>
 <InflCtn>
 <FrCm vl="wordStem"/>
 <Infl>
@@ -24311,7 +24311,7 @@ Imper. <Et>встреча́й</Et>]
 <Hph/>
 </Infl>
 </InflCtn>
-</InflB></PhnU>
+</mini_paradigm></PhnU>
 <GeoUB xml:lang="mdf">
 <GeoU>P</GeoU>
 <GeoU>Pš</GeoU>
@@ -24991,12 +24991,12 @@ Imper. <Et>встреча́й</Et>]
 </SenseGroup>
 <xg>
 <x>
-<Wd myvId="вецэ">v́ece͔</Wd>
+<Wd myvId="ведьсэ">v́ece͔</Wd>
 <Wd myvId="чары">čari͔</Wd>
 <Wd myvId="чиньчарамо">čińčaramo</Wd>
 <Wd myvId="митрей">ḿit́ŕej</Wd>
 <tk3 isa="comma"/>
-<Wd myvId="мельганᴣо">ḿeĺganᴣo</Wd>
+<Wd myvId="мельганзо">ḿeĺganᴣo</Wd>
 <Wd myvId="юр">jur</Wd>
 <Hph/>
 <Wd myvId="пулозо">pulozo</Wd>
@@ -26175,13 +26175,13 @@ Imper. <Et>встреча́й</Et>]
 <GeoUB xml:lang="mdf">
 <GeoU>P</GeoU>
 </GeoUB>
-<InflB>
+<mini_paradigm>
 <InflCtn>
 <InflTags tag="+SP+Gen+Indef"/>
 <Infl><Wd mdfId="лакштордомань">lakštə̑rdə̑ma·ń</Wd>
 </Infl>
 </InflCtn>
-</InflB>
+</mini_paradigm>
 </PhnUBlock>
 </lg>
 <SenseGroup>
@@ -26511,13 +26511,13 @@ Imper. <Et>встреча́й</Et>]
 <GeoUB xml:lang="mdf">
 <GeoU>Sel</GeoU>
 </GeoUB>
-<InflB>
+<mini_paradigm>
 <InflCtn>
 <InflTags tag="+SP+Gen+Indef"/>
 <Infl><Wd mdfId="касянь">kaśäń</Wd>
 </Infl>
 </InflCtn>
-</InflB>
+</mini_paradigm>
 </PhnUBlock>
 </lg>
 <mg>
@@ -26548,14 +26548,14 @@ Imper. <Et>встреча́й</Et>]
 <GeoUB xml:lang="mdf">
 <GeoU>P</GeoU>
 </GeoUB>
-<InflB>
+<mini_paradigm>
 <InflCtn>
 <InflTags tag="+SP+Gen+Indef"/>
 <Infl>
 <Wd mdfId="вяцянь">v́äćäń</Wd>
 </Infl>
 </InflCtn>
-</InflB>
+</mini_paradigm>
 </PhnUBlock>
 <PhnUBlock>
 <PhnU>
@@ -26793,7 +26793,7 @@ Imper. <Et>встреча́й</Et>]
 <GeoU>Sel</GeoU>
 <GeoU>Ur</GeoU>
 </GeoUB>
-<InflB>
+<mini_paradigm>
 <InflCtn>
 <Infl>
 <Wd tag="+Pl+Nom+Indef" mdfId="матанят">matańat</Wd>
@@ -26818,7 +26818,7 @@ Imper. <Et>встреча́й</Et>]
 <Infl>
 <Wd mdfId="матаняй">matańäj</Wd>
 </Infl></mrph2></InflCtn>
-</InflB>
+</mini_paradigm>
 </PhnUBlock>
 </lg>
 <DrvG><DrvT vl="diminutive"/><DrvStCtn><FrCm freeType="analogy" Modification="manus"/><DrvSt><Wd CyrId="мата">mata</Wd></DrvSt></DrvStCtn></DrvG>
@@ -27287,19 +27287,19 @@ Imper. <Et>встреча́й</Et>]
 <GeoUB xml:lang="mdf">
 <GeoU>P</GeoU>
 </GeoUB>
-<InflB>
+<mini_paradigm>
 <InflCtn>
 <InflTags tag="+SP+Gen+Indef"/>
 <Infl><Wd mdfId="писянь">ṕiśäń</Wd>
 </Infl>
 </InflCtn>
-</InflB>
+</mini_paradigm>
 </PhnUBlock>
 <PhnUBlock>
 <PhnU>
 <Wd mdfId="пə̑са">pə̑sa</Wd>
 </PhnU>
-<InflB>
+<mini_paradigm>
 <InflCtn>
 <InflTags tag="+Sg+Nom+Indef"/>
 <Infl>
@@ -27311,7 +27311,7 @@ Imper. <Et>встреча́й</Et>]
 <InflTags tag="+SP+Gen+Indef"/>
 <Wd mdfId="пə̑сань">pə̑sa·ń</Wd>
 </InflCtn>
-</InflB>
+</mini_paradigm>
 <GeoUB xml:lang="mdf">
 <GeoU>Sel</GeoU>
 </GeoUB>
@@ -27507,14 +27507,14 @@ Imper. <Et>встреча́й</Et>]
 <GeoUB xml:lang="mdf">
 <GeoU>P</GeoU>
 </GeoUB>
-<InflB>
+<mini_paradigm>
 <InflCtn>
 <InflTags tag="+SP+Gen+Indef"/>
 <Infl>
 <Wd mdfId="кутерень">kut́əŕəń</Wd>
 </Infl>
 </InflCtn>
-</InflB>
+</mini_paradigm>
 </PhnUBlock>
 </lg>
 <mg>
@@ -27544,14 +27544,14 @@ Imper. <Et>встреча́й</Et>]
 <GeoUB xml:lang="mdf">
 <GeoU>P</GeoU>
 </GeoUB>
-<InflB>
+<mini_paradigm>
 <InflCtn>
 <InflTags tag="+Pl+Nom+Indef"/>
 <Infl>
 <Wd mdfId="кутернят">kut́əŕńa·t</Wd>
 </Infl>
 </InflCtn>
-</InflB>
+</mini_paradigm>
 </PhnUBlock>
 </lg>
 <DerivationBlock>(zweifaches Dem.)</DerivationBlock>
@@ -27616,7 +27616,7 @@ Imper. <Et>встреча́й</Et>]
 <GeoUB xml:lang="mdf">
 <GeoU>P</GeoU>
 </GeoUB>
-<InflB>
+<mini_paradigm>
 <InflCtn>
 <InflTags tag="+SP+Gen+Indef"/>
 <Infl>
@@ -27629,7 +27629,7 @@ Imper. <Et>встреча́й</Et>]
 <Wd mdfId="кутюфт">kut́uft</Wd>
 </Infl>
 </InflCtn>
-</InflB>
+</mini_paradigm>
 </PhnUBlock>
 </lg>
 <mg>
@@ -28312,13 +28312,13 @@ Imper. <Et>встреча́й</Et>]
 <GeoUB xml:lang="myv">
 <GeoU>Kal</GeoU>
 </GeoUB>
-<InflB>
+<mini_paradigm>
 <InflCtn>
 <InflTags tag="+SP+Gen+Indef"/>
 <Infl><Wd myvId="ксайкань">ksajkań</Wd>
 </Infl>
 </InflCtn>
-</InflB>
+</mini_paradigm>
 </PhnUBlock>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l/><st/>
@@ -28431,7 +28431,7 @@ Imper. <Et>встреча́й</Et>]
 <GeoUB xml:lang="mdf">
 <GeoU>P</GeoU>
 </GeoUB>
-<InflB>
+<mini_paradigm>
 <InflCtn>
 <InflTags tag="+SP+Gen+Indef"/>
 <Infl><Wd mdfId="кутянь">kut́äń</Wd>
@@ -28443,7 +28443,7 @@ Imper. <Et>встреча́й</Et>]
 <Wd mdfId="кутят">kut́at</Wd>
 </Infl>
 </InflCtn>
-</InflB>
+</mini_paradigm>
 </PhnUBlock>
 <PhnUBlock>
 <PhnU>

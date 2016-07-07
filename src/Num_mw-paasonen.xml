@@ -758,14 +758,14 @@
 <GeoUB xml:lang="myv">
 <GeoU>Kal</GeoU>
 </GeoUB>
-<InflB>
+<mini_paradigm>
 <InflCtn>
 <InflTags tag="+Pl+Nom+Indef"/>
 <Infl><Wd myvId="сизьге·минь">śiźǵe·ḿiń</Wd>
 <Wd myvId="кархтат">karʿtat</Wd>
 </Infl>
 </InflCtn>
-</InflB>
+</mini_paradigm>
 </PhnUBlock>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="N"/><st/>
@@ -1947,13 +1947,13 @@
 <GeoUB xml:lang="mdf">
 <GeoU>P</GeoU>
 </GeoUB>
-<InflB>
+<mini_paradigm>
 <InflCtn>
 <InflTags tag="+Pl+Nom+Indef"/>
 <Infl><Wd mdfId="кафтасть">kaftaśt́</Wd>
 </Infl>
 </InflCtn>
-</InflB>
+</mini_paradigm>
 </PhnUBlock>
 <PhnUBlock>
 <PhnU>
@@ -1980,14 +1980,14 @@
 <GeoUB xml:lang="mdf">
 <GeoU>Sel</GeoU>
 </GeoUB>
-<InflB>
+<mini_paradigm>
 <InflCtn>
 <InflTags tag="+Pl+Nom+Indef"/>
 <Infl>
 <Wd mdfId="кафтасть">kafta·śt́</Wd>
 </Infl>
 </InflCtn>
-</InflB>
+</mini_paradigm>
 </PhnUBlock>
 </lg>
 <mg>
@@ -2096,14 +2096,14 @@
 <GeoUB xml:lang="mdf">
 <GeoU>P</GeoU>
 </GeoUB>
-<InflB>
+<mini_paradigm>
 <InflCtn>
 <InflTags tag="+Pl+Nom+Indef"/>
 <Infl>
 <Wd mdfId="кемəннят">ḱeməńńat</Wd>
 </Infl>
 </InflCtn>
-</InflB>
+</mini_paradigm>
 </PhnUBlock>
 </lg>
 <l_drv drvType="diminutive" CyrId="кемəнь">ḱeməń</l_drv>
@@ -11405,7 +11405,7 @@
 </mg>
 <xg>
 <x>
-<Wd myvId="колмунст">kolmunst</Wd>
+<Wd myvId="колмонст">kolmunst</Wd>
 <Wd myvId="кемть">ḱeḿt́</Wd>
 </x>
 <GeoUB xml:lang="myv">
@@ -11415,10 +11415,10 @@
 </xg>
 <xg>
 <x>
-<Wd myvId="сонᴣо">sonᴣo</Wd>
+<Wd myvId="сонзэ">sonᴣo</Wd>
 <Wd myvId="улить">uĺit́</Wd>
 <Wd myvId="колмонст">kolmonst</Wd>
-<Wd myvId="кеменᴣэ">ḱeḿenᴣe͔</Wd>
+<Wd myvId="кемензэ">ḱeḿenᴣe͔</Wd>
 </x>
 [
 <GeoUB xml:lang="myv">
@@ -13139,11 +13139,11 @@
 <PhnUBlock>
 <PhnU>
 <Wd mdfId="тёжəм">t́ožəm</Wd>
-<InflB rsc="arch"><cnjDevelop><CapI>
+<mini_paradigm rsc="arch"><cnjDevelop><CapI>
 <i><tk2>
 <Wd mdfId="тёжмəнь">t́ožməń</Wd></tk2></i></CapI> [? <CapI>
 <i><tk2>
-<Wd mdfId="тёжмӓнь">t́ožmäń</Wd></tk2></i></CapI>]</cnjDevelop></InflB></PhnU>
+<Wd mdfId="тёжмӓнь">t́ožmäń</Wd></tk2></i></CapI>]</cnjDevelop></mini_paradigm></PhnU>
 <GeoUB xml:lang="mdf">
 <GeoU>Kuld</GeoU>
 </GeoUB>

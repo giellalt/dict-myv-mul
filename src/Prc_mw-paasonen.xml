@@ -745,13 +745,13 @@
 <GeoUB xml:lang="mdf">
 <GeoU>Temn</GeoU>
 </GeoUB>
-<InflB>
+<mini_paradigm>
 <InflCtn>
 <Infl>
 <Wd tag="+Pl+Nom+Indef" mdfId="вафкст">vafkst</Wd>
 </Infl>
 </InflCtn>
-</InflB>
+</mini_paradigm>
 </PhnUBlock>
 </lg>
 <mg>
@@ -2901,7 +2901,7 @@
 <FrCm freeType="analogy" Modification="manus"/>
 <Wd mdfId="видеф">v́id́əf</Wd>
 </PhnU>
-<InflB src="arch">
+<mini_paradigm src="arch">
 <InflCtn>
 <InflTags tag="+Sg+Nom+Indef"/>
 <Infl>
@@ -2914,7 +2914,7 @@
 <Wd mdfId="видефэн">v́id́efen</Wd>
 </Infl>
 </InflCtn>
-</InflB>
+</mini_paradigm>
 <GeoUB xml:lang="mdf">
 <GeoU>P</GeoU>
 </GeoUB>
@@ -3984,7 +3984,7 @@
 <FrCm freeType="analogy" Modification="manus"/>
 <Wd mdfId="кочксеф">kočkśəf</Wd>
 </PhnU>
-<InflB src="arch">
+<mini_paradigm src="arch">
 <InflCtn>
 <InflTags tag="+Sg+Nom+Indef"/>
 <Infl>
@@ -4003,7 +4003,7 @@
 <Wd mdfId="коч́ксефтӓ">koč́kśeftä</Wd>
 </Infl>
 </InflCtn>
-</InflB>
+</mini_paradigm>
 <Chc>
 <Vrt>
 <PhnU>
@@ -6332,14 +6332,14 @@ Ger. <Et>лёжа</Et>]
 <GeoUB xml:lang="mdf">
 <GeoU>Sel</GeoU>
 </GeoUB>
-<InflB>
+<mini_paradigm>
 <InflCtn>
 <InflTags tag="+Pl+Nom+Indef"/>
 <Infl>
 <Wd mdfId="понафт">ponaft</Wd>
 </Infl>
 </InflCtn>
-</InflB>
+</mini_paradigm>
 </PhnUBlock>
 </lg>
 <mg>
@@ -7788,7 +7788,7 @@ Ger. <Et>лёжа</Et>]
 <PhnU>
 <Wd mdfId="силеди">śiĺəd́i</Wd>
 </PhnU>
-<InflB>
+<mini_paradigm>
 <InflCtn>
 <InflTags tag="+Sg+Nom+Indef"/>
 <Infl>
@@ -7807,7 +7807,7 @@ Ger. <Et>лёжа</Et>]
 <Wd mdfId="силедишт">śiĺed́išt</Wd>
 </Infl>
 </InflCtn>
-</InflB>
+</mini_paradigm>
 <GeoUB xml:lang="mdf">
 <GeoU>P</GeoU>
 </GeoUB>
@@ -8774,7 +8774,7 @@ Ger. <Et>лёжа</Et>]
 <GeoUB xml:lang="mdf">
 <GeoU>P</GeoU>
 </GeoUB>
-<InflB>
+<mini_paradigm>
 <InflCtn>
 <InflTags tag="+SP+Gen+Indef"/>
 <Infl>
@@ -8787,7 +8787,7 @@ Ger. <Et>лёжа</Et>]
 <Wd mdfId="эрявикста">eŕäv́iksta</Wd>
 </Infl>
 </InflCtn>
-</InflB>
+</mini_paradigm>
 </PhnUBlock>
 </lg>
 <mg>
@@ -9425,13 +9425,13 @@ Ger. <Et>лёжа</Et>]
 <GeoUB xml:lang="myv">
 <GeoU>Mar</GeoU>
 </GeoUB>
-<InflB>
+<mini_paradigm>
 <InflCtn>
 <Infl>
 <Wd tag="+SP+Gen+Indef" myvId="азарьцинь">azaŕćiń</Wd>
 </Infl>
 </InflCtn>
-</InflB>
+</mini_paradigm>
 </PhnUBlock>
 <PhnUBlock>
 <PhnU>
@@ -12839,7 +12839,7 @@ Ger. <Et>лёжа</Et>]
 <Wd myvId="колмо">kolmo</Wd>
 <Wd myvId="парть">paŕt́</Wd>
 <Wd myvId="вачказь">vačkaź</Wd>
-<Wd myvId="одюжадонᴣо">od́užadonᴣo</Wd>
+<Wd myvId="одюжадонзо">od́užadonᴣo</Wd>
 </x>
 <GeoUB xml:lang="myv">
 <GeoU>Bag</GeoU>
@@ -12928,14 +12928,14 @@ Ger. <Et>лёжа</Et>]
 <GeoUB xml:lang="mdf">
 <GeoU>P</GeoU>
 </GeoUB>
-<InflB>
+<mini_paradigm>
 <InflCtn>
 <InflTags tag="+SP+Gen+Indef"/>
 <Infl>
 <Wd mdfId="вятиэн">v́ät́ien</Wd>
 </Infl>
 </InflCtn>
-</InflB>
+</mini_paradigm>
 </PhnUBlock>
 </lg>
 <mg>
@@ -13974,14 +13974,14 @@ Ger. <Et>лёжа</Et>]
 <Vrt>
 <PhnU>
 <Wd myvId="горнипо·в">gorńipo·v</Wd>
-<InflB>
+<mini_paradigm>
 <InflCtn>
 <InflTags tag="+SP+Gen+Indef"/>
 <Infl>
 <Wd myvId="горнипо·вінь">gorńipo·viń</Wd>
 </Infl>
 </InflCtn>
-</InflB></PhnU>
+</mini_paradigm></PhnU>
 </Vrt>
 </Chc>
 <GeoUB xml:lang="myv">
@@ -14145,7 +14145,7 @@ Ger. <Et>лёжа</Et>]
 <xg>
 <x>
 <Wd myvId="кото">koto</Wd>
-<Wd myvId="горниповонᴣо">goŕńipovonᴣo</Wd>
+<Wd myvId="горниповонзо">goŕńipovonᴣo</Wd>
 </x>
 <GeoUB xml:lang="myv">
 <GeoU>Kozl</GeoU>
@@ -14876,7 +14876,7 @@ Ger. <Et>лёжа</Et>]
 </xg>
 <xg>
 <x>
-<Wd myvId="патянᴣо">pat́anᴣo</Wd>
+<Wd myvId="патянзо">pat́anᴣo</Wd>
 <Wd myvId="кецэ">ḱece͔</Wd>
 <Wd myvId="сон">son</Wd>
 <Wd myvId="ирець">iŕeć</Wd>
@@ -16089,7 +16089,7 @@ Ger. <Et>лёжа</Et>]
 <Wd myvId="карьцезь">kaŕćeź</Wd>
 <Hph/>
 <Wd myvId="кирнязь">ḱiŕńaź</Wd>
-<Wd myvId="пильгенᴣэ">ṕiĺǵenᴣe͔</Wd>
+<Wd myvId="пильгензэ">ṕiĺǵenᴣe͔</Wd>
 </x>
 <GeoUB xml:lang="myv">
 <GeoU>Večk</GeoU>
@@ -17362,7 +17362,7 @@ Ger. <Et>лёжа</Et>]
 <GeoUB xml:lang="myv">
 <GeoU>Mar</GeoU>
 </GeoUB>
-<InflB>
+<mini_paradigm>
 <InflCtn>
 <InflTags tag="+SP+Gen+Indef"/>
 <Infl>
@@ -17375,7 +17375,7 @@ Ger. <Et>лёжа</Et>]
 <Wd myvId="керяфт">ḱeŕaft</Wd>
 </Infl>
 </InflCtn>
-</InflB>
+</mini_paradigm>
 </PhnUBlock>
 <PhnUBlock>
 <PhnU>
@@ -17384,14 +17384,14 @@ Ger. <Et>лёжа</Et>]
 <GeoUB xml:lang="myv">
 <GeoU>Hl</GeoU>
 </GeoUB>
-<InflB>
+<mini_paradigm>
 <InflCtn>
 <InflTags tag="+SP+Gen+Indef"/>
 <Infl>
 <Wd myvId="керяфтунь">ḱeŕaftuń</Wd>
 </Infl>
 </InflCtn>
-</InflB>
+</mini_paradigm>
 </PhnUBlock>
 <PhnUBlock>
 <PhnU>
@@ -25697,7 +25697,7 @@ Ger. <Et>лёжа</Et>]
 <Wd myvId="аньцяк">a·ńćak</Wd>
 <Wd myvId="машт">mašt</Wd>
 <Wd myvId="бояронь">boja·roń</Wd>
-<Wd myvId="меле·нᴣэ">ḿeĺe·nᴣe͔</Wd>
+<Wd myvId="меле·нзэ">ḿeĺe·nᴣe͔</Wd>
 <Wd myvId="вите·ме">v́it́e·ḿe</Wd>
 </x>
 <GeoUB xml:lang="myv">
@@ -26422,14 +26422,14 @@ Ger. <Et>лёжа</Et>]
 <GeoUB xml:lang="myv">
 <GeoU>Kad</GeoU>
 </GeoUB>
-<InflB>
+<mini_paradigm>
 <InflCtn>
 <InflTags tag="+SP+Gen+Indef"/>
 <Infl>
 <Wd myvId="палкандань">palkanda·ń</Wd>
 </Infl>
 </InflCtn>
-</InflB>
+</mini_paradigm>
 </PhnUBlock>
 <PhnUBlock>
 <PhnU>
@@ -26438,14 +26438,14 @@ Ger. <Et>лёжа</Et>]
 <GeoUB xml:lang="myv">
 <GeoU>Kal</GeoU>
 </GeoUB>
-<InflB>
+<mini_paradigm>
 <InflCtn>
 <InflTags tag="+SP+Gen+Indef"/>
 <Infl>
 <Wd myvId="палкандань">palkandań</Wd>
 </Infl>
 </InflCtn>
-</InflB>
+</mini_paradigm>
 </PhnUBlock>
 <PhnUBlock>
 <PhnU>
@@ -26454,14 +26454,14 @@ Ger. <Et>лёжа</Et>]
 <GeoUB xml:lang="myv">
 <GeoU>Kažl</GeoU>
 </GeoUB>
-<InflB>
+<mini_paradigm>
 <InflCtn>
 <InflTags tag="+SP+Gen+Indef"/>
 <Infl>
 <Wd myvId="палкандᴉ͐нь">palka·ndᴉ͐ń</Wd>
 </Infl>
 </InflCtn>
-</InflB>
+</mini_paradigm>
 </PhnUBlock>
 </lg>
 <lg xml:lang="mdf"><l pos="N">палы гандәр</l>
@@ -27122,19 +27122,19 @@ Ger. <Et>лёжа</Et>]
 <Vrt>
 <PhnU>
 <Wd mdfId="паньчф">pańčf</Wd>
-<InflB>
+<mini_paradigm>
 <InflCtn>
 <InflTags tag="+SP+Gen+Indef"/>
 <Infl>
 <Wd mdfId="паньчфонь">pańčfə̑ń</Wd>
 </Infl>
 </InflCtn>
-</InflB></PhnU>
+</mini_paradigm></PhnU>
 </Vrt>
 <Vrt>
 <PhnU>
 <Wd mdfId="паньчф">pańčf</Wd>
-<InflB>
+<mini_paradigm>
 <InflCtn>
 <InflTags tag="+SP+Gen+Indef"/>
 <Infl>
@@ -27147,19 +27147,19 @@ Ger. <Et>лёжа</Et>]
 <Wd mdfId="паньчфта">pańčfta</Wd>
 </Infl>
 </InflCtn>
-</InflB></PhnU>
+</mini_paradigm></PhnU>
 </Vrt>
 <Vrt>
 <PhnU>
 <Wd mdfId="паньчф">pańčf́</Wd>
-<InflB>
+<mini_paradigm>
 <InflCtn>
 <InflTags tag="+SP+Abl+Indef"/>
 <Infl>
 <Wd mdfId="паньчфтӓ">pańčf́tä</Wd>
 </Infl>
 </InflCtn>
-</InflB></PhnU>
+</mini_paradigm></PhnU>
 </Vrt>
 <Vrt>
 <PhnU>
@@ -27176,14 +27176,14 @@ Ger. <Et>лёжа</Et>]
 <Vrt>
 <PhnU>
 <Wd mdfId="паньшф">pańšf</Wd>
-<InflB>
+<mini_paradigm>
 <InflCtn>
 <InflTags tag="+SP+Abl+Indef"/>
 <Infl>
 <Wd mdfId="паньшфта">pańšfta</Wd>
 </Infl>
 </InflCtn>
-</InflB></PhnU>
+</mini_paradigm></PhnU>
 </Vrt>
 <Vrt>
 <PhnU>
@@ -27447,7 +27447,7 @@ Ger. <Et>лёжа</Et>]
 <Wd myvId="бояр">bojar</Wd>
 <Hph edit="MK"/>
 <Wd myvId="авань">avań</Wd>
-<Wd myvId="плёсканᴣо">pĺoskanᴣo</Wd>
+<Wd myvId="плёсканзо">pĺoskanᴣo</Wd>
 </x>
 <GeoUB xml:lang="myv">
 <GeoU>Večk</GeoU>
@@ -31832,7 +31832,7 @@ Ger. <Et>лёжа</Et>]
 <xg>
 <x>
 <Wd CyrId="рацякадозь">raćakadoź</Wd>
-<Wd CyrId="тараткенᴣэ">taratḱenᴣe͔</Wd>
+<Wd CyrId="тараткензэ">taratḱenᴣe͔</Wd>
 </x>
 <GeoNeed/>
 <xt xml:lang="deu">Seine Zweige sind breitgewachsen.</xt>
@@ -32670,7 +32670,7 @@ Ger. <Et>лёжа</Et>]
 <GeoUB xml:lang="mdf">
 <GeoU/>
 </GeoUB>
-<InflB>
+<mini_paradigm>
 <InflCtn>
 <InflTags tag="+SP+Gen+Indef"/>
 <Infl><Wd mdfId="салмокс">salmə̑ks</Wd>
@@ -32678,7 +32678,7 @@ Ger. <Et>лёжа</Et>]
 <Wd mdfId="салаін">salain</Wd>
 </Infl>
 </InflCtn>
-</InflB>
+</mini_paradigm>
 </PhnUBlock>
 </lg>
 <mg>
@@ -35321,7 +35321,7 @@ folg.]
 <GeoU>P</GeoU>
 <GeoU>Aleks</GeoU>
 </GeoUB>
-<InflB>
+<mini_paradigm>
 <InflCtn>
 <InflTags tag="+SP+Gen+Indef"/>
 <GeoUB xml:lang="mdf">
@@ -35331,7 +35331,7 @@ folg.]
 <Wd mdfId="тапафон">tapafə̑n</Wd>
 </Infl>
 </InflCtn>
-</InflB>
+</mini_paradigm>
 </PhnUBlock>
 </lg>
 <mg>
@@ -37543,7 +37543,7 @@ folg.]
 <x>
 <Wd myvId="истя">iśt́a</Wd>
 <Wd myvId="нефтизе">ńeft́iźe</Wd>
-<Wd myvId="тетянᴣо">t́et́anᴣo</Wd>
+<Wd myvId="тетянзо">t́et́anᴣo</Wd>
 <Wd myvId="улинть">uĺińt́</Wd>
 </x>
 <GeoUB xml:lang="myv">
@@ -37814,14 +37814,14 @@ folg.]
 <GeoUB xml:lang="myv">
 <GeoU>Mar</GeoU>
 </GeoUB>
-<InflB>
+<mini_paradigm>
 <InflCtn>
 <InflTags tag="+SP+Gen+Indef"/>
 <Infl>
 <Wd myvId="урадыксынь">uradi͔ksi͔ń</Wd>
 </Infl>
 </InflCtn>
-</InflB>
+</mini_paradigm>
 </PhnUBlock>
 <PhnUBlock>
 <PhnU>
@@ -38693,13 +38693,13 @@ folg.]
 <GeoU>Večk</GeoU>
 <GeoU>Is</GeoU>
 </GeoUB>
-<InflB>
+<mini_paradigm>
 <InflCtn>
 <InflTags tag="+Pl+Nom+Indef"/>
 <Infl><Wd myvId="чарыть">čari͔t́</Wd>
 </Infl>
 </InflCtn>
-</InflB>
+</mini_paradigm>
 </PhnUBlock>
 </lg>
 <lg xml:lang="mdf"><l pos="Prc">шары</l>
@@ -38721,7 +38721,7 @@ folg.]
 <GeoU>Ur</GeoU>
 <GeoU edit="MK">Temn</GeoU>
 </GeoUB>
-<InflB>
+<mini_paradigm>
 <InflCtn>
 <InflTags tag="+SP+Gen+Indef"/>
 <GeoUB xml:lang="mdf">
@@ -38743,7 +38743,7 @@ folg.]
 <Wd mdfId="шарышт">šari͔št</Wd>
 </Infl>
 </InflCtn>
-</InflB>
+</mini_paradigm>
 </PhnUBlock>
 <PhnUBlock>
 <Chc>
@@ -40025,7 +40025,7 @@ folg.]
 </Vrt>
 <Vrt><PhnU>
 <Wd mdfId="шач́ф">šač́f</Wd>
-<InflB>
+<mini_paradigm>
 <InflCtn>
 <InflTags tag="+SP+Gen+Indef"/>
 <Infl>
@@ -40038,7 +40038,7 @@ folg.]
 <Wd mdfId="шач́фт">šač́ft</Wd>
 </Infl>
 </InflCtn>
-</InflB></PhnU>
+</mini_paradigm></PhnU>
 </Vrt>
 </Chc>
 <GeoUB xml:lang="mdf">
@@ -40870,14 +40870,14 @@ folg.]
 <GeoU>Kad</GeoU>
 </GeoUB>
 <l_drv drvType="diminutive"/>
-<InflB>
+<mini_paradigm>
 <InflCtn>
 <InflTags tag="+Pl+Nom+Indef"/>
 <Infl>
 <Wd myvId="кикски·ть">ḱiksḱi·t́</Wd>
 </Infl>
 </InflCtn>
-</InflB>
+</mini_paradigm>
 </PhnUBlock>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="N"/><st/>
@@ -41022,7 +41022,7 @@ folg.]
 <Wd myvId="чуки">čuḱi</Wd>
 <Wd myvId="петькельть">ṕet́ḱeĺt́</Wd>
 <Wd myvId="кареень">kaŕejeń</Wd>
-<Wd myvId="пильгенᴣэ">ṕiĺǵenᴣe͔</Wd>
+<Wd myvId="пильгензэ">ṕiĺǵenᴣe͔</Wd>
 </x>
 <GeoUB xml:lang="myv">
 <GeoU>Bel</GeoU>
@@ -41169,9 +41169,9 @@ folg.]
 <PhnU>
 <FrCm freeType="analogy" Modification="manus"/>
 <Wd myvId="шки">šḱi</Wd>
-<InflB rsc="arch"><cnjDevelop><CapI>
+<mini_paradigm rsc="arch"><cnjDevelop><CapI>
 <i><tk2>
-<Wd myvId="шкикай">šḱikaj</Wd></tk2></i></CapI> [Anr.]</cnjDevelop></InflB></PhnU>
+<Wd myvId="шкикай">šḱikaj</Wd></tk2></i></CapI> [Anr.]</cnjDevelop></mini_paradigm></PhnU>
 <GeoUB xml:lang="myv">
 <GeoU>Mar</GeoU>
 </GeoUB>
@@ -41195,7 +41195,7 @@ folg.]
 <GeoU>Sučk</GeoU>
 <GeoU>Bar</GeoU>
 </GeoUB>
-<InflB>
+<mini_paradigm>
 <InflCtn>
 <InflTags tag="+Pl+Nom+Indef"/>
 <GeoUB xml:lang="mdf">
@@ -41205,7 +41205,7 @@ folg.]
 <Wd mdfId="шкашт">škašt</Wd>
 </Infl>
 </InflCtn>
-</InflB>
+</mini_paradigm>
 </PhnUBlock>
 </lg>
 <mg>
@@ -41670,7 +41670,7 @@ folg.]
 <GeoU>Čemb</GeoU>
 <GeoU>Sučk</GeoU>
 </GeoUB>
-<InflB>
+<mini_paradigm>
 <InflCtn>
 <InflTags tag="+SP+Gen+Indef"/>
 <Infl>
@@ -41679,7 +41679,7 @@ folg.]
 <Wd mdfId="бавазонь">bavazə̑ń</Wd>
 </Infl>
 </InflCtn>
-</InflB>
+</mini_paradigm>
 </PhnUBlock>
 <PhnUBlock>
 <PhnU>
@@ -41690,7 +41690,7 @@ folg.]
 <GeoUB xml:lang="mdf">
 <GeoU>Ur</GeoU>
 </GeoUB>
-<InflB>
+<mini_paradigm>
 <InflCtn><DrvT vl="vocative"/>
 <GeoUB xml:lang="mdf">
 <GeoU/>
@@ -41701,7 +41701,7 @@ folg.]
 <Wd mdfId="баваскяй">bavasḱäj</Wd>
 </Infl>
 </InflCtn>
-</InflB>
+</mini_paradigm>
 </PhnUBlock>
 </lg>
 <DrvG>(<comment/><DrvStCtn><DrvSt><Wd CyrId="шкай">škaj</Wd></DrvSt></DrvStCtn><fnct>+</fnct><DrvStCtn><DrvSt><Wd CyrId="павас">pavas</Wd></DrvSt></DrvStCtn>)</DrvG>
@@ -42585,7 +42585,7 @@ folg.]
 <GeoU>Večk</GeoU>
 <GeoU>Jeg</GeoU>
 </GeoUB>
-<InflB>
+<mini_paradigm>
 <InflCtn>
 <InflTags tag="+SP+Gen+Indef"/>
 <GeoUB xml:lang="myv">
@@ -42595,7 +42595,7 @@ folg.]
 <Wd myvId="эриксынь">eŕiksi͔ń</Wd>
 </Infl>
 </InflCtn>
-</InflB>
+</mini_paradigm>
 </PhnUBlock>
 <PhnUBlock>
 <Chc>
@@ -42625,14 +42625,14 @@ folg.]
 <GeoU>P</GeoU>
 <GeoU>Kr</GeoU>
 </GeoUB>
-<InflB>
+<mini_paradigm>
 <InflCtn>
 <InflTags tag="+SP+Gen+Indef"/>
 <Infl>
 <Wd mdfId="эряйксон">eŕäjksə̑n</Wd>
 </Infl>
 </InflCtn>
-</InflB>
+</mini_paradigm>
 </PhnUBlock>
 </lg>
 <mg>
@@ -44892,7 +44892,7 @@ folg.]
 <Wd myvId="сизьгямень">śiźǵäḿeń</Wd>
 <Wd myvId="сисем">śiśem</Wd>
 <Wd myvId="ёколды">jokoldi͔</Wd>
-<Wd myvId="санонᴣо">sanonᴣo</Wd>
+<Wd myvId="санонзо">sanonᴣo</Wd>
 </x>
 <GeoUB xml:lang="myv">
 <GeoU>Sob</GeoU>
@@ -45141,13 +45141,13 @@ folg.]
 <GeoUB xml:lang="mdf">
 <GeoU>P</GeoU>
 </GeoUB>
-<InflB>
+<mini_paradigm>
 <InflCtn>
 <Infl>
 <Wd tag="+SP+Gen+Indef" mdfId="удалафон">uda·lafə̑n</Wd>
 </Infl>
 </InflCtn>
-</InflB>
+</mini_paradigm>
 </PhnUBlock>
 <PhnUBlock>
 <PhnU>
@@ -45468,7 +45468,7 @@ folg.]
 <GeoU>P</GeoU>
 <GeoU>Pš</GeoU>
 </GeoUB>
- <InflB>
+ <mini_paradigm>
 <InflCtn>
 <InflTags tag="+SP+Gen+Indef"/>
 <GeoUB xml:lang="mdf">
@@ -45478,7 +45478,7 @@ folg.]
 <Wd mdfId="олафонь">olafə̑ń</Wd>
 </Infl>
 </InflCtn>
-</InflB></PhnU>
+</mini_paradigm></PhnU>
 <l1>
 <GeoU>(Part.)</GeoU></l1>
 </PhnUBlock>
