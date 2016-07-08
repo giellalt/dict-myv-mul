@@ -4289,7 +4289,7 @@
 <l1>
 <FrCm freeType="Language" vl="= E"/>
 <GeoUB>
-<GeoU edit="MK">Kas</GeoU>
+<GeoU xml:lang="myv" edit="MK">Kas</GeoU>
 </GeoUB>
 </l1>
 <xt xml:lang="deu">[Alle bis zum letzten Mann sind sie mit ihren Pferden und allem Eigentum im Wasser untergegangen].</xt>
@@ -4306,7 +4306,7 @@
 </sources>) <l1>
 <FrCm freeType="Language" vl="= E"/>
 <GeoUB>
-<GeoU edit="MK">Kas</GeoU>
+<GeoU xml:lang="myv" edit="MK">Kas</GeoU>
 </GeoUB>
 </l1>
 <xt xml:lang="deu">[Sie sind alle bis zum letzten Mann ertrunken].</xt>
@@ -10039,7 +10039,7 @@
 <book name="Chr" xml:lang="myv"/>
 </sources>
 <GeoUB xml:lang="myv">
-<GeoU extension="common"/>
+<GeoU xml:lang="myv" extension="common"/>
 </GeoUB>
 </l_variants>
 </lg>
@@ -10053,7 +10053,7 @@
 <book name="Chr" xml:lang="mdf"/>
 </sources>
 <GeoUB xml:lang="mdf">
-<GeoU extension="common"/>
+<GeoU xml:lang="mdf" extension="common"/>
 </GeoUB>
 </l_variants>
 </lg>
@@ -11740,7 +11740,7 @@
 <book name="Chr" xml:lang="myv"/>
 </sources>
 <GeoUB xml:lang="myv">
-<GeoU extension="common"/>
+<GeoU xml:lang="myv" extension="common"/>
 </GeoUB>
 </l_variants>
 </lg>
@@ -11754,7 +11754,7 @@
 <book name="Chr" xml:lang="mdf"/>
 </sources>
 <GeoUB xml:lang="mdf">
-<GeoU extension="common"/>
+<GeoU xml:lang="mdf" extension="common"/>
 </GeoUB>
 </l_variants>
 </lg>
@@ -11791,7 +11791,7 @@
 <Wd myvId="котова">kotova</Wd>
 </PhnU>
 <GeoUB xml:lang="myv">
-<GeoU extension="common"/>
+<GeoU xml:lang="myv" extension="common"/>
 </GeoUB>
 </l_variants>
 <l_variants>
@@ -12214,7 +12214,7 @@
 <Wd myvId="кемкотово">ḱemkotovo</Wd>
 </PhnU>
 <GeoUB xml:lang="myv">
-<GeoU extension="common"/>
+<GeoU xml:lang="myv" extension="common"/>
 </GeoUB>
 </l_variants>
 </lg>
@@ -12225,7 +12225,7 @@
 <Wd mdfId="кемготува">ḱemgotuva</Wd>
 </PhnU>
 <GeoUB xml:lang="mdf">
-<GeoU extension="common"/>
+<GeoU xml:lang="mdf" extension="common"/>
 </GeoUB>
 </l_variants>
 </lg>
@@ -12270,7 +12270,7 @@
 <Wd mdfId="кодгемəнь">kodǵeməń</Wd>
 </PhnU>
 <GeoUB xml:lang="mdf">
-<GeoU extension="common"/>
+<GeoU xml:lang="mdf" extension="common"/>
 </GeoUB>
 </l_variants>
 </lg>
