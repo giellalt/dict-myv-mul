@@ -38,7 +38,7 @@
 <Wd edit="MK" mdfId="кати">kat́i</Wd>
 <tk3 edit="MK" isa="ws"/>
 <Wd edit="MK" mdfId="алязя">aĺäźä</Wd>
-<tk3 isa="comma"/>
+<Wd mdfId=",">,</Wd>
 <Wd mdfId="мон">mon</Wd>
 <Wd mdfId="аф">af</Wd>
 <Wd edit="MK" mdfId="ужӓльтьса">užä·ĺt́sa</Wd>
@@ -56,16 +56,16 @@
 <Wd mdfId="мон">mon</Wd>
 <Wd mdfId="онстон">onstə̑n</Wd>
 <Wd mdfId="пə̑та">pə̑ta·</Wd>
-<tk3 isa="comma"/>
+<Wd mdfId=",">,</Wd>
 <Wd mdfId="урькай">uŕkaj</Wd>
-<tk3 isa="comma"/>
+<Wd mdfId=",">,</Wd>
 <Wd mdfId="морясан">moŕasan</Wd>
-<tk3 isa="comma"/>
+<Wd mdfId=",">,</Wd>
 <Wd mdfId="кати">kat́i</Wd>
 <Wd mdfId="морясан">moŕasan</Wd>
-<tk3 isa="comma"/>
+<Wd mdfId=",">,</Wd>
 <Wd mdfId="урькай">uŕkaj</Wd>
-<tk3 isa="comma"/>
+<Wd mdfId=",">,</Wd>
 <Wd mdfId="окасан">okasan</Wd>
 </x>
 <GeoUB xml:lang="mdf">
@@ -111,7 +111,7 @@
 <x>
 <Wd mdfId="кати">kat́i</Wd>
 <Wd mdfId="ули">uĺi</Wd>
-<tk3 isa="comma"/>
+<Wd mdfId=",">,</Wd>
 <Wd mdfId="кати">kat́i</Wd>
 <Wd mdfId="аф">af</Wd>
 </x>
@@ -127,10 +127,10 @@
 <Wd mdfId="аф">af</Wd>
 <Wd mdfId="содамаснон">sodamasnə̑n</Wd>
 <Wd mdfId="квалма">kvalma</Wd>
-<tk3 isa="comma"/>
+<Wd mdfId=",">,</Wd>
 <Wd mdfId="кати">kat́i</Wd>
 <Wd mdfId="пачкəцть">pačkəćt́</Wd>
-<tk3 isa="comma"/>
+<Wd mdfId=",">,</Wd>
 <Wd mdfId="кати">kat́i</Wd>
 <Wd mdfId="аш">aš</Wd>
 </x>
@@ -149,7 +149,7 @@
 <txt2>
 <Wd mdfId="кати">kat́i</Wd>
 <Wd mdfId="ваймамс">vajmams</Wd>
-<tk3 isa="comma"/>
+<Wd mdfId=",">,</Wd>
 <Wd mdfId="кати">kat́i</Wd>
 <Wd mdfId="тумос">tumə̑s</Wd>
 <Wd mdfId="танга">taŋga</Wd>
@@ -174,7 +174,7 @@
 <l_variants>
 <PhnU>
 <Wd mdfId="кати">kat́i</Wd>
-<Hph/>
+<Wd mdfId="-">-</Wd>
 <Wd mdfId="кия">ḱijä</Wd>
 </PhnU>
 <GeoUB edit="MK" xml:lang="mdf">
@@ -184,7 +184,7 @@
 <l_variants>
 <PhnU>
 <Wd mdfId="кати">kat́i</Wd>
-<Hph/>
+<Wd mdfId="-">-</Wd>
 <Wd mdfId="киӓ">ḱiä</Wd>
 </PhnU>
 <GeoUB xml:lang="mdf">
@@ -206,7 +206,7 @@
 <Wd mdfId="марень">maŕəń</Wd>
 <Wd mdfId="салама">salama</Wd>
 <Wd mdfId="кати">kat́i</Wd>
-<Hph/>
+<Wd mdfId="-">-</Wd>
 <Wd mdfId="кия">ḱijä</Wd>
 </x>
 [
@@ -226,7 +226,7 @@
 <tk3 isa="quest"/>
 <Wd mdfId="–">–</Wd>
 <Wd mdfId="кати">kat́i</Wd>
-<Hph/>
+<Wd mdfId="-">-</Wd>
 <Wd mdfId="киӓ">ḱiä</Wd>
 </x>
 <GeoUB xml:lang="mdf">
@@ -244,7 +244,7 @@
 <l_variants>
 <PhnU>
 <Wd mdfId="кати">kat́i</Wd>
-<Hph/>
+<Wd mdfId="-">-</Wd>
 <Wd mdfId="кодама">kodama</Wd>
 </PhnU>
 <GeoUB xml:lang="mdf">
@@ -264,11 +264,11 @@
 <x>
 <Wd edit="MK" mdfId="меш">ḿeš</Wd>
 <Wd mdfId="пупатанза">pupatanza</Wd>
-<tk3 isa="comma"/>
+<Wd mdfId=",">,</Wd>
 <Wd mdfId="нужа">nuža·</Wd>
 <Wd mdfId="сай">saj</Wd>
 <Wd mdfId="кати">kat́i</Wd>
-<Hph edit="MK"/>
+<Wd mdfId="-" edit="MK">-</Wd>
 <Wd mdfId="кодама">kodama</Wd>
 </x>
 <GeoUB xml:lang="mdf">
@@ -289,7 +289,7 @@
 <l_variants>
 <PhnU>
 <Wd mdfId="кати">kat́i</Wd>
-<Hph/>
+<Wd mdfId="-">-</Wd>
 <Wd mdfId="кона">kona</Wd>
 </PhnU>
 <GeoUB xml:lang="mdf">
@@ -310,9 +310,9 @@
 <x>
 <Wd mdfId="аф">af</Wd>
 <Wd mdfId="содаса">sodasa</Wd>
-<tk3 isa="comma"/>
+<Wd mdfId=",">,</Wd>
 <Wd mdfId="кати">kat́i</Wd>
-<Hph/>
+<Wd mdfId="-">-</Wd>
 <Wd mdfId="конатс">konats</Wd>
 </x>
 <GeoUB xml:lang="mdf">
@@ -330,7 +330,7 @@
 <l_variants>
 <PhnU>
 <Wd mdfId="кати">kat́i</Wd>
-<Hph/>
+<Wd mdfId="-">-</Wd>
 <Wd mdfId="коза">koza</Wd>
 </PhnU>
 <GeoUB edit="MK" xml:lang="mdf">
@@ -360,7 +360,7 @@
 <l_variants>
 <PhnU>
 <Wd mdfId="кати">kat́i</Wd>
-<Hph/>
+<Wd mdfId="-">-</Wd>
 <Wd mdfId="мезя">ḿeźä</Wd>
 </PhnU>
 <GeoUB xml:lang="mdf">
@@ -416,7 +416,7 @@
 <Wd mdfId="естели">jeśt́əĺi</Wd>
 <Wd mdfId="мондедн">mońd́ədn</Wd>
 <Wd mdfId="од">od</Wd>
-<tk3 isa="comma"/>
+<Wd mdfId=",">,</Wd>
 <Wd mdfId="улеза">uĺəza</Wd>
 <Wd mdfId="радной">radno·j</Wd>
 <Wd mdfId="сестразя">śestraźä</Wd>
@@ -512,7 +512,7 @@
 <x>
 <Wd mdfId="аф">af</Wd>
 <Wd mdfId="шафттядязь">šaftt́äd́äź</Wd>
-<tk3 isa="comma"/>
+<Wd mdfId=",">,</Wd>
 <Wd mdfId="ə̑рьзяй">ə̑ŕźä·j</Wd>
 <Wd mdfId="макссак">makssak</Wd>
 <Wd mdfId="сяканяцень">śakańäćəń</Wd>
@@ -997,7 +997,7 @@ dschag. <Et>
 <x>
 <Wd myvId="буди">bud́i</Wd>
 <Wd myvId="теят">t́ejat</Wd>
-<tk3 isa="comma"/>
+<Wd myvId=",">,</Wd>
 <Wd myvId="тейть">t́ejt́</Wd>
 <Wd myvId="кудо">kudo</Wd>
 <tk3 isa="excl"/></x>
@@ -1021,7 +1021,7 @@ dschag. <Et>
 </Chc>
 <Wd myvId="а">a</Wd>
 <Wd myvId="вечкиван">v́ečḱivan</Wd>
-<tk3 isa="comma"/>
+<Wd myvId=",">,</Wd>
 <Wd myvId="ашо">ašo</Wd>
 <Wd myvId="пельнекс">ṕeĺńeks</Wd>
 <Wd myvId="теимак">t́ejimak</Wd>
@@ -1039,7 +1039,7 @@ dschag. <Et>
 <Wd myvId="будь">bud́</Wd>
 <Wd myvId="а">a</Wd>
 <Wd myvId="нолдасамак">noldasamak</Wd>
-<tk3 isa="comma"/>
+<Wd myvId=",">,</Wd>
 <Wd myvId="мон">mon</Wd>
 <Wd myvId="нупонеть">nupońet́</Wd>
 <Wd myvId="весе">v́eśe</Wd>
@@ -1059,7 +1059,7 @@ dschag. <Et>
 <Wd myvId="кучсак">kučsak</Wd>
 <Wd myvId="мазы">mazi͔</Wd>
 <Wd myvId="какат">kakat</Wd>
-<tk3 isa="comma"/>
+<Wd myvId=",">,</Wd>
 <Wd myvId="сестэ">śeste͔</Wd>
 <Wd myvId="молян">moĺan</Wd>
 <Wd myvId="шкерьгеняс">šḱeŕǵeńas</Wd>
@@ -1077,7 +1077,7 @@ dschag. <Et>
 <Wd myvId="буди">bud́i</Wd>
 <Wd myvId="саік">saik</Wd>
 <Wd myvId="кардаз">kardaz</Wd>
-<Hph/>
+<Wd myvId="-">-</Wd>
 <Wd myvId="поцо">poco</Wd>
 <Wd myvId="скотинань">skot́inań</Wd>
 <Wd myvId="кувалма">kuvalma</Wd>
@@ -1119,14 +1119,14 @@ dschag. <Et>
 <Vrt>
 <PhnU>
 <Wd mdfId="кə̑да">kə̑da</Wd>
-<Hph/>
+<Wd mdfId="-">-</Wd>
 <Wd mdfId="боди">bə̑d́i·</Wd>
 </PhnU>
 </Vrt>
 <Vrt>
 <PhnU>
 <Wd mdfId="кода">koda</Wd>
-<Hph/>
+<Wd mdfId="-">-</Wd>
 <Wd mdfId="бодя">bə̑d́ä</Wd>
 </PhnU>
 </Vrt>
@@ -1171,7 +1171,7 @@ dschag. <Et>
 <Vrt>
 <PhnU>
 <Wd myvId="мязя">ḿäźä</Wd>
-<Hph/>
+<Wd myvId="-">-</Wd>
 <Wd myvId="бəди">bəd́i</Wd>
 </PhnU>
 </Vrt>
@@ -1180,7 +1180,7 @@ dschag. <Et>
 [<i>
 <tk2>
 <Wd myvId="мязя">ḿäźä</Wd>
-<Hph/>
+<Wd myvId="-">-</Wd>
 <Wd myvId="биди">b́id́i</Wd>
 </tk2>
 </i>]</PhnU>
@@ -1318,11 +1318,11 @@ dschag. <Et>
 <Wd myvId="будимкс">bud́imks</Wd>
 <Wd myvId="учат">učat</Wd>
 <Wd myvId="эйсэнек">ejse͔ńeḱ</Wd>
-<tk3 isa="comma"/>
+<Wd myvId=",">,</Wd>
 <Wd myvId="листяя">ĺiśt́aja</Wd>
-<tk3 isa="comma"/>
+<Wd myvId=",">,</Wd>
 <Wd myvId="патей">pat́ej</Wd>
-<tk3 isa="comma"/>
+<Wd myvId=",">,</Wd>
 <Wd myvId="карчонок">karčonok</Wd>
 <tk3 isa="excl"/></x>
 <GeoUB xml:lang="myv">
@@ -1367,9 +1367,9 @@ dschag. <Et>
 <Wd myvId="ежда">ježda</Wd>
 <Wd myvId="а">a</Wd>
 <Wd myvId="эсить">e·śit́</Wd>
-<tk3 isa="comma"/>
+<Wd myvId=",">,</Wd>
 <Wd myvId="алинем">aĺi·ńem</Wd>
-<tk3 isa="comma"/>
+<Wd myvId=",">,</Wd>
 <Wd myvId="эзецтэ">eźe·cte͔</Wd>
 <Wd myvId="пульнекс">puĺńe·ks</Wd>
 <Wd myvId="пуваса">puva·sa</Wd>
@@ -1419,7 +1419,7 @@ dschag. <Et>
 <Wd edit="MK" myvId="ежли">ježĺi</Wd>
 <Wd myvId="ламо">lamo</Wd>
 <Wd myvId="содавлить">sodavĺit́</Wd>
-<tk3 isa="comma"/>
+<Wd myvId=",">,</Wd>
 <Wd myvId="то">to</Wd>
 <Wd myvId="а">a</Wd>
 <Wd myvId="ламо">lamo</Wd>
@@ -1474,7 +1474,7 @@ dschag. <Et>
 <Wd myvId="душой">dušoj</Wd>
 <Wd myvId="эй">ej</Wd>
 <Wd myvId="учат">učat</Wd>
-<tk3 isa="comma"/>
+<Wd myvId=",">,</Wd>
 <Wd myvId="сован">sovan</Wd>
 <Wd myvId="путонь">putoń</Wd>
 <Wd myvId="кудозыть">kudozi͔t́</Wd>
@@ -1596,7 +1596,7 @@ dschag. <Et>
 <Wd myvId="а">a</Wd>
 <Wd edit="MK" myvId="минек">ḿińeḱ</Wd>
 <Wd myvId="лелянок">ĺeĺanok</Wd>
-<tk3 isa="comma"/>
+<Wd myvId=",">,</Wd>
 <Wd myvId="как">kak</Wd>
 <Wd myvId="а">a</Wd>
 <Wd edit="MK" myvId="минек">ḿińeḱ</Wd>
@@ -1796,13 +1796,13 @@ dschag. <Et>
 <xg>
 <x>
 <Wd myvId="ну">nu</Wd>
-<tk3 isa="comma"/>
+<Wd myvId=",">,</Wd>
 <Wd myvId="ней">ńej</Wd>
-<tk3 isa="comma"/>
+<Wd myvId=",">,</Wd>
 <Wd myvId="коли">koĺi</Wd>
 <Wd myvId="кисканзо">ḱiskanzo</Wd>
 <Wd myvId="ёмасть">jomaśt́</Wd>
-<tk3 isa="comma"/>
+<Wd myvId=",">,</Wd>
 <Wd myvId="соньцинзэяк">sońćinze͔jak</Wd>
 <Wd myvId="кодаяк">kodajak</Wd>
 <Wd myvId="ёмавца">jomavca</Wd>
@@ -1823,7 +1823,7 @@ dschag. <Et>
 <Wd myvId="лоткат">lotkat</Wd>
 <Wd myvId="дᴉ͐">dᴉ͐</Wd>
 <Wd myvId="пишкадумда">ṕiška·dumda</Wd>
-<tk3 isa="comma"/>
+<Wd myvId=",">,</Wd>
 <Wd myvId="лаздан">lazdan</Wd>
 </x>
 <GeoUB xml:lang="myv">
@@ -1838,7 +1838,7 @@ dschag. <Et>
 <x>
 <Wd myvId="коли">koĺi</Wd>
 <Wd myvId="удат">udat</Wd>
-<tk3 isa="comma"/>
+<Wd myvId=",">,</Wd>
 <Wd myvId="озак">ozak</Wd>
 </x>
 <GeoUB xml:lang="myv">
@@ -1886,7 +1886,7 @@ dschag. <Et>
 <Wd mdfId="нумолхня">numə̑lʿńä</Wd>
 <Wd mdfId="курок">kurə̑k</Wd>
 <Wd mdfId="акшə̑лгодышть">akšə̑lgə̑di͔št́</Wd>
-<tk3 isa="comma"/>
+<Wd mdfId=",">,</Wd>
 <Wd mdfId="курок">kurə̑k</Wd>
 <Wd mdfId="лов">lov</Wd>
 <Wd mdfId="прай">praj</Wd>
@@ -1906,17 +1906,17 @@ dschag. <Et>
 <Wd mdfId="маткати">matkat́i</Wd>
 <Wd mdfId="кшить">kšit́</Wd>
 <Wd mdfId="сотништь">sotńišt́</Wd>
-<tk3 isa="comma"/>
+<Wd mdfId=",">,</Wd>
 <Wd mdfId="сямəльдя">śaməĺd́ä</Wd>
 <Wd mdfId="керсазь">ḱersaź</Wd>
-<tk3 isa="comma"/>
+<Wd mdfId=",">,</Wd>
 <Wd mdfId="кə̑ли">kə̑ĺi</Wd>
 <Wd mdfId="кунтф">kuntf</Wd>
 <Wd mdfId="прай">praj</Wd>
 <Note>
 <Wd mdfId="кши">kši</Wd>
 </Note>
-<tk3 isa="comma"/>
+<Wd mdfId=",">,</Wd>
 <Wd mdfId="аф">af</Wd>
 <Wd mdfId="парс">pars</Wd>
 </x>
@@ -1962,7 +1962,7 @@ dschag. <Et>
 <Wd myvId="моне">mońe</Wd>
 <Wd myvId="тозой">tozoj</Wd>
 <Wd myvId="молеме">moĺeḿe</Wd>
-<tk3 isa="comma"/>
+<Wd myvId=",">,</Wd>
 <Wd myvId="а">a</Wd>
 <Wd myvId="коли">koĺi</Wd>
 <Wd myvId="моне">mońe</Wd>
@@ -2015,7 +2015,7 @@ dschag. <Et>
 <Wd myvId="мон">mon</Wd>
 <Wd myvId="а">a</Wd>
 <Wd myvId="авардян">avaŕd́an</Wd>
-<tk3 isa="comma"/>
+<Wd myvId=",">,</Wd>
 <Wd myvId="коли">koĺi</Wd>
 <Wd myvId="мон">mon</Wd>
 <Wd myvId="а">a</Wd>
@@ -2063,7 +2063,7 @@ dschag. <Et>
 <l_variants>
 <PhnU>
 <Wd myvId="коли">koĺi</Wd>
-<Hph/>
+<Wd myvId="-">-</Wd>
 <Wd myvId="коли">koĺi</Wd>
 </PhnU>
 <GeoUB xml:lang="myv">
@@ -2073,7 +2073,7 @@ dschag. <Et>
 <l_variants>
 <PhnU>
 <Wd myvId="коля">koĺä</Wd>
-<Hph/>
+<Wd myvId="-">-</Wd>
 <Wd myvId="коля">koĺä</Wd>
 </PhnU>
 <GeoUB xml:lang="myv">
@@ -2247,7 +2247,7 @@ dschag. <Et>
 <xg>
 <x>
 <Wd mdfId="аднака">adna·ka</Wd>
-<tk3 isa="comma"/>
+<Wd mdfId=",">,</Wd>
 <Wd edit="MK" mdfId="тьсёрай">t́śoraj</Wd>
 <tk3 edit="MK" isa="comma"/>
 <tk3 edit="MK" isa="ws"/>
@@ -2351,7 +2351,7 @@ dschag. <Et>
 <Wd myvId="тон">ton</Wd>
 <Wd myvId="ёвтак">jovtak</Wd>
 <Wd myvId="тетететь">t́et́et́et́</Wd>
-<tk3 isa="comma"/>
+<Wd myvId=",">,</Wd>
 <Wd myvId="што">što</Wd>
 <Wd myvId="минь">ḿiń</Wd>
 <Wd myvId="идидизь">id́id́iź</Wd>
@@ -2370,7 +2370,7 @@ dschag. <Et>
 <Wd myvId="моснэ">mosne͔</Wd>
 <Wd myvId="и">i</Wd>
 <Wd myvId="ки">ḱi</Wd>
-<Hph/>
+<Wd myvId="-">-</Wd>
 <Wd myvId="нанкне">naŋkńe</Wd>
 <Wd myvId="што">što</Wd>
 <Wd myvId="виливильʿть">v́iĺiv́iĺʿt́</Wd>
@@ -2392,7 +2392,7 @@ dschag. <Et>
 <Wd mdfId="отсю">otśu</Wd>
 <Wd mdfId="азорсь">azə̑rś</Wd>
 <Wd mdfId="кулезя">kuĺəźä</Wd>
-<tk3 isa="comma"/>
+<Wd mdfId=",">,</Wd>
 <Wd mdfId="што">što</Wd>
 <Wd mdfId="пеки">ṕeḱi</Wd>
 </x>
@@ -2507,7 +2507,7 @@ dschag. <Et>
 <Wd myvId="сон">son</Wd>
 <Wd myvId="истят">iśt́at</Wd>
 <Wd myvId="ломать">lomat́</Wd>
-<tk3 isa="comma"/>
+<Wd myvId=",">,</Wd>
 <Wd myvId="штоба">štoba</Wd>
 <Wd edit="MK" myvId="тейтерензэ">t́ejt́eŕenze͔</Wd>
 <Wd myvId="идевлизь">id́ev́ĺiź</Wd>
@@ -2525,19 +2525,19 @@ dschag. <Et>
 <Wd myvId="а">a</Wd>
 <Wd myvId="ведь">v́ed́</Wd>
 <Wd myvId="мерть">ḿeŕt́</Wd>
-<tk3 isa="comma"/>
+<Wd myvId=",">,</Wd>
 <Wd myvId="а">a</Wd>
 <Wd myvId="сэдь">se͔d́</Wd>
 <Wd edit="MK" myvId="мерть">ḿeŕt́</Wd>
-<tk3 isa="comma"/>
+<Wd myvId=",">,</Wd>
 <Wd myvId="келей">ḱeĺej</Wd>
 <Wd myvId="вединь">v́ed́iń</Wd>
 <Wd myvId="уиця">ujića</Wd>
-<tk3 isa="comma"/>
+<Wd myvId=",">,</Wd>
 <Wd myvId="сэрей">se͔ŕej</Wd>
 <Wd myvId="илынь">ili͔ń</Wd>
 <Wd myvId="келиця">ḱeĺića</Wd>
-<tk3 isa="comma"/>
+<Wd myvId=",">,</Wd>
 <Wd myvId="вешник">v́ešńiḱ</Wd>
 <Wd myvId="штоба">štoba</Wd>
 <tk3 isa="excl"/></x>
@@ -2555,7 +2555,7 @@ dschag. <Et>
 <Wd myvId="ознотанук">oznotanuk</Wd>
 <Wd myvId="алашань">alašań</Wd>
 <Wd myvId="карц">karc</Wd>
-<tk3 isa="comma"/>
+<Wd myvId=",">,</Wd>
 <Wd myvId="штоба">štoba</Wd>
 <Wd myvId="миник">ḿińiḱ</Wd>
 <Wd myvId="алашанук">alašanuk</Wd>
@@ -2575,9 +2575,9 @@ dschag. <Et>
 <Wd myvId="эряви">eŕav́i</Wd>
 <Wd myvId="саемс">sajems</Wd>
 <Wd myvId="офто">ofto</Wd>
-<Hph/>
+<Wd myvId="-">-</Wd>
 <Wd myvId="марь">maŕ</Wd>
-<Hph/>
+<Wd myvId="-">-</Wd>
 <Wd myvId="нетькс">ńet́ks</Wd>
 <Wd myvId="штобу">štobu</Wd>
 <Wd myvId="улезэ">uĺeze͔</Wd>
@@ -2663,7 +2663,7 @@ dschag. <Et>
 <Wd myvId="ну">nu</Wd>
 <Wd myvId="ино">ino</Wd>
 <Wd myvId="совак">sovak</Wd>
-<tk3 isa="comma"/>
+<Wd myvId=",">,</Wd>
 <Wd myvId="штоли">štoĺi</Wd>
 <tk3 isa="excl"/></x>
 <GeoUB xml:lang="myv">
@@ -2679,7 +2679,7 @@ dschag. <Et>
 <Wd myvId="тесэ">t́ese͔</Wd>
 <Wd myvId="штоли">štoĺi</Wd>
 <Wd myvId="казан">kazan</Wd>
-<Hph edit="MK"/>
+<Wd myvId="-" edit="MK">-</Wd>
 <Wd myvId="ошонь">ošoń</Wd>
 <Wd myvId="палыкс">pali͔ks</Wd>
 <Wd myvId="салдацкой">saldackoj</Wd>
