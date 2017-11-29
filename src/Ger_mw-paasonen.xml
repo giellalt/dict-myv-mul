@@ -9,7 +9,7 @@
 <st>салазь</st>
 <l_variants>
 <PhnU>
-<Wd myvId="салазь">salaź</Wd>
+<w myvId="салазь">salaź</w>
 </PhnU>
 <GeoU xml:lang="myv">Bug</GeoU>
 </l_variants>
@@ -26,13 +26,13 @@
 </mg>
 <xg>
 <x>
-<Wd myvId="кармат">karmat</Wd>
-<Wd myvId="салазь">salaź</Wd>
-<Wd myvId="якамо">jakamo</Wd>
-<Wd myvId=",">,</Wd>
-<Wd myvId="сестэ">śeste͔</Wd>
-<Wd myvId="пине">ṕińe</Wd>
-<Wd myvId="тонавттан">tonavttan</Wd>
+<w myvId="кармат">karmat</w>
+<w myvId="салазь">salaź</w>
+<w myvId="якамо">jakamo</w>
+<w myvId=",">,</w>
+<w myvId="сестэ">śeste͔</w>
+<w myvId="пине">ṕińe</w>
+<w myvId="тонавттан">tonavttan</w>
 </x>
 <GeoU xml:lang="myv">Bug</GeoU>
 <sources>
@@ -53,13 +53,13 @@
 <st>содамәк</st>
 <l_variants>
 <PhnU>
-<Wd mdfId="содамок">sodamə̑k</Wd>
+<w mdfId="содамок">sodamə̑k</w>
 </PhnU>
 <GeoU xml:lang="mdf" edit="MK">Mam</GeoU>
 </l_variants>
 </lg>
 <DerivationBlock>[<i><tk2>
-<Wd CyrId="к">k</Wd></tk2></i>-Lat.]</DerivationBlock>
+<w CyrId="к">k</w></tk2></i>-Lat.]</DerivationBlock>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">зная</t>
@@ -70,8 +70,8 @@
 </mg>
 <xg>
 <x>
-<Wd CyrId="тяшкантс">t́aškants</Wd>
-<Wd CyrId="содамок">sodamə̑k</Wd>
+<w CyrId="тяшкантс">t́aškants</w>
+<w CyrId="содамок">sodamə̑k</w>
 </x>
 <GeoNeed/>
 <sources>
@@ -92,7 +92,7 @@
 <st>спорезь</st>
 <l_variants>
 <PhnU>
-<Wd mdfId="спорезь">spoŕeź</Wd>
+<w mdfId="спорезь">spoŕeź</w>
 </PhnU>
 <GeoU xml:lang="mdf">P</GeoU>
 </l_variants>
@@ -103,8 +103,8 @@
 :
 <xg>
 <x>
-<Wd mdfId="спорезь">spoŕeź</Wd>
-<Wd mdfId="артьсть">aŕt́śt́</Wd>
+<w mdfId="спорезь">spoŕeź</w>
+<w mdfId="артьсть">aŕt́śt́</w>
 </x>
 <GeoU xml:lang="mdf">P</GeoU>
 <xt xml:lang="deu">Sie fuhren um die Wette.</xt>
@@ -122,7 +122,7 @@
 <st>чошазь</st>
 <l_variants>
 <PhnU>
-<Wd mdfId="чошазь">čošaź</Wd>
+<w mdfId="чошазь">čošaź</w>
 </PhnU>
 </l_variants>
 </lg>
@@ -141,8 +141,8 @@
 <st>чошазь молемс</st>
 <l_variants>
 <PhnU>
-<Wd mdfId="чошазь">čošaź</Wd>
-<Wd mdfId="молемс">moĺəms</Wd>
+<w mdfId="чошазь">čošaź</w>
+<w mdfId="молемс">moĺəms</w>
 </PhnU>
 <GeoU xml:lang="mdf">Sel</GeoU>
 <GeoU xml:lang="mdf">Čemb</GeoU>
@@ -158,8 +158,8 @@
 </mg>
 <xg>
 <x>
-<Wd mdfId="чошазь">čošaź</Wd>
-<Wd mdfId="моли">moĺi</Wd>
+<w mdfId="чошазь">čošaź</w>
+<w mdfId="моли">moĺi</w>
 </x>
 <GeoU xml:lang="mdf">Sel</GeoU>
 <xt xml:lang="deu">Sie geht trippelnd.</xt>
@@ -177,7 +177,7 @@
 <st>ардәзня</st>
 <l_variants>
 <PhnU>
-<Wd mdfId="ардозня">ardə̑zńä</Wd>
+<w mdfId="ардозня">ardə̑zńä</w>
 </PhnU>
 <GeoU xml:lang="mdf">P</GeoU>
 </l_variants>
@@ -188,9 +188,9 @@
 :
 <xg>
 <x>
-<Wd mdfId="айдяк">ajd́ak</Wd>
-<Wd mdfId="алашат">alašat</Wd>
-<Wd mdfId="ардозня">ardə̑zńä</Wd>
+<w mdfId="айдяк">ajd́ak</w>
+<w mdfId="алашат">alašat</w>
+<w mdfId="ардозня">ardə̑zńä</w>
 </x>
 <GeoU xml:lang="mdf">P</GeoU>
 <xt xml:lang="deu">Bring das (? dein) Pferd auf Trab! (liebkosend).</xt>
@@ -208,7 +208,7 @@
 <st>ванәмәк</st>
 <l_variants>
 <PhnU>
-<Wd mdfId="ваномок">vanə̑mə̑k</Wd>
+<w mdfId="ваномок">vanə̑mə̑k</w>
 </PhnU>
 <GeoU xml:lang="mdf">P</GeoU>
 <GeoU xml:lang="mdf">Čemb</GeoU>
@@ -221,40 +221,40 @@
 :
 <xg>
 <x>
-<Wd mdfId="мон">mon</Wd>
-<Wd mdfId="сонь">soń</Wd>
-<Wd mdfId="лангозонза">laŋgə̑zə̑nza</Wd>
-<Wd mdfId="ваномок">vanə̑mə̑k</Wd>
-<Wd mdfId="молян">moĺan</Wd>
-<Wd mdfId="тов">tov</Wd>
+<w mdfId="мон">mon</w>
+<w mdfId="сонь">soń</w>
+<w mdfId="лангозонза">laŋgə̑zə̑nza</w>
+<w mdfId="ваномок">vanə̑mə̑k</w>
+<w mdfId="молян">moĺan</w>
+<w mdfId="тов">tov</w>
 </x>
 <GeoU xml:lang="mdf">P</GeoU>
 <xt xml:lang="deu">Čemb Seinem Beispiele folgend (eig.: Auf ihn schauend) gehe ich dort.</xt>
 </xg>
 <xg>
 <x>
-<Wd mdfId="пинесь">ṕińəś</Wd>
-<Wd mdfId="увай">uva·j</Wd>
-<Wd mdfId=",">,</Wd>
-<Wd mdfId="върьгас">vəŕga·s</Wd>
-<Wd mdfId="няи">ńäji</Wd>
-<Wd mdfId=",">,</Wd>
-<Wd mdfId="омбоцесь">ombə̑ćəś</Wd>
-<Wd mdfId="увай">uva·j</Wd>
-<Wd mdfId=",">,</Wd>
-<Wd mdfId="сянь">śäń</Wd>
-<Wd mdfId="ланкс">laŋks</Wd>
-<Wd mdfId="ваномок">vanə̑mə̑k</Wd>
+<w mdfId="пинесь">ṕińəś</w>
+<w mdfId="увай">uva·j</w>
+<w mdfId=",">,</w>
+<w mdfId="върьгас">vəŕga·s</w>
+<w mdfId="няи">ńäji</w>
+<w mdfId=",">,</w>
+<w mdfId="омбоцесь">ombə̑ćəś</w>
+<w mdfId="увай">uva·j</w>
+<w mdfId=",">,</w>
+<w mdfId="сянь">śäń</w>
+<w mdfId="ланкс">laŋks</w>
+<w mdfId="ваномок">vanə̑mə̑k</w>
 </x>
 <GeoU xml:lang="mdf">P</GeoU>
 <xt xml:lang="deu"><stylistic>folkl</stylistic> Der [eine] Hund bellt, wenn er einen Wolf sieht, der andere (aber) bellt seinem Beispiel folgend.</xt>
 </xg>
 <xg>
 <x>
-<Wd mdfId="сонь">soń</Wd>
-<Wd mdfId="лангозонза">laŋgə̑zə̑nza</Wd>
-<Wd mdfId="ваномок">vanə̑mə̑k</Wd>
-<Wd mdfId="тиінди">t́iińd́i</Wd>
+<w mdfId="сонь">soń</w>
+<w mdfId="лангозонза">laŋgə̑zə̑nza</w>
+<w mdfId="ваномок">vanə̑mə̑k</w>
+<w mdfId="тиінди">t́iińd́i</w>
 </x>
 <GeoU xml:lang="mdf">P</GeoU>
 <xt xml:lang="deu">Er ahmt ihm nach.</xt>
@@ -272,7 +272,7 @@
 <st>каязь</st>
 <l_variants>
 <PhnU>
-<Wd mdfId="каязь">kajäź</Wd>
+<w mdfId="каязь">kajäź</w>
 </PhnU>
 </l_variants>
 </lg>
@@ -291,8 +291,8 @@
 <st>каязь ардәмс</st>
 <l_variants>
 <PhnU>
-<Wd mdfId="каязь">kajäź</Wd>
-<Wd mdfId="ардомс">ardə̑ms</Wd>
+<w mdfId="каязь">kajäź</w>
+<w mdfId="ардомс">ardə̑ms</w>
 </PhnU>
 <GeoU xml:lang="mdf">Sel</GeoU>
 </l_variants>
@@ -319,7 +319,7 @@
 <st>кяшәзь-</st>
 <l_variants>
 <PhnU>
-<Wd mdfId="кяшəзь">ḱäšəź</Wd>
+<w mdfId="кяшəзь">ḱäšəź</w>
 <Hph/>
 </PhnU>
 <GeoU xml:lang="mdf">Pš</GeoU>
@@ -342,19 +342,19 @@
 <st>кяшәзь-вешәзь налксемс</st>
 <l_variants>
 <PhnU>
-<Wd mdfId="кяшəзь">ḱäšəź</Wd>
-<Wd mdfId="-">-</Wd>
-<Wd mdfId="вешəзь">v́ešəź</Wd>
-<Wd mdfId="налхксемс">nalʿkśəms</Wd>
+<w mdfId="кяшəзь">ḱäšəź</w>
+<w mdfId="-">-</w>
+<w mdfId="вешəзь">v́ešəź</w>
+<w mdfId="налхксемс">nalʿkśəms</w>
 </PhnU>
 <GeoU xml:lang="mdf">Pš</GeoU>
 </l_variants>
 <l_variants>
 <PhnU>
-<Wd mdfId="кяшəзь">ḱäšəź</Wd>
-<Wd mdfId="-">-</Wd>
-<Wd mdfId="вяшəзь">v́äšəź</Wd>
-<Wd mdfId="налхксемс">nalʿkśəms</Wd>
+<w mdfId="кяшəзь">ḱäšəź</w>
+<w mdfId="-">-</w>
+<w mdfId="вяшəзь">v́äšəź</w>
+<w mdfId="налхксемс">nalʿkśəms</w>
 </PhnU>
 <GeoU xml:lang="mdf">Čemb</GeoU>
 </l_variants>
@@ -387,13 +387,13 @@
 <st>кштизь</st>
 <l_variants>
 <PhnU>
-<Wd mdfId="кштизь">kšt́iź</Wd>
+<w mdfId="кштизь">kšt́iź</w>
 </PhnU>
 <GeoU xml:lang="mdf">Bajm</GeoU>
 </l_variants>
 <l_variants>
 <PhnU>
-<Wd mdfId="кштезня">kšt́əźńä</Wd>
+<w mdfId="кштезня">kšt́əźńä</w>
 </PhnU>
 <GeoU xml:lang="mdf">Sel</GeoU>
 </l_variants>
@@ -408,26 +408,26 @@
 </mg>
 <xg>
 <x>
-<Wd mdfId="кштизь">kšt́iź</Wd>
-<Wd mdfId="якаст">jakast</Wd>
-<Wd mdfId="пилькня">ṕiĺḱńä</Wd>
-<Wd mdfId=",">,</Wd>
-<Wd mdfId="моразь">moraź</Wd>
-<Wd mdfId="аштшəза">aštšəza</Wd>
-<Wd mdfId="куркться">kurkt́śä</Wd>
+<w mdfId="кштизь">kšt́iź</w>
+<w mdfId="якаст">jakast</w>
+<w mdfId="пилькня">ṕiĺḱńä</w>
+<w mdfId=",">,</w>
+<w mdfId="моразь">moraź</w>
+<w mdfId="аштшəза">aštšəza</w>
+<w mdfId="куркться">kurkt́śä</w>
 </x>
 <GeoU xml:lang="mdf">Bajm</GeoU>
 <xt xml:lang="deu">Mögen deine Beine tanzen (wörtl.: tanzend gehen), möge dein Mund singen (wörtl.: singend sein)!</xt>
 </xg>
 <xg>
 <x>
-<Wd mdfId="ой">oj</Wd>
-<Wd mdfId="куду">kudu</Wd>
-<Wd mdfId="сон">son</Wd>
-<Wd mdfId="сась">saś</Wd>
-<Wd mdfId="кштезня">kšt́əźńä</Wd>
-<Wd mdfId="-" edit="MK">-</Wd>
-<Wd mdfId="моразня">moraźńä</Wd>
+<w mdfId="ой">oj</w>
+<w mdfId="куду">kudu</w>
+<w mdfId="сон">son</w>
+<w mdfId="сась">saś</w>
+<w mdfId="кштезня">kšt́əźńä</w>
+<w mdfId="-" edit="MK">-</w>
+<w mdfId="моразня">moraźńä</w>
 </x>
 <GeoU xml:lang="mdf">Sel</GeoU>
 <sources>
@@ -448,7 +448,7 @@
 <st>лиезь</st>
 <l_variants>
 <PhnU>
-<Wd mdfId="лиезь">ĺijəź</Wd>
+<w mdfId="лиезь">ĺijəź</w>
 </PhnU>
 <GeoU xml:lang="mdf">P</GeoU>
 </l_variants>
@@ -459,8 +459,8 @@
 :
 <xg>
 <x>
-<Wd mdfId="лиезь">ĺijəź</Wd>
-<Wd mdfId="тусь">tuś</Wd>
+<w mdfId="лиезь">ĺijəź</w>
+<w mdfId="тусь">tuś</w>
 </x>
 <GeoU xml:lang="mdf">P</GeoU>
 <xt xml:lang="deu">Er flog auf (davon).</xt>
@@ -478,7 +478,7 @@
 <st>макстәзь</st>
 <l_variants>
 <PhnU>
-<Wd mdfId="макстозь">makstə̑ź</Wd>
+<w mdfId="макстозь">makstə̑ź</w>
 </PhnU>
 <GeoU xml:lang="mdf">Pš</GeoU>
 <GeoU xml:lang="mdf">Kr</GeoU>
@@ -491,29 +491,29 @@
 :
 <xg>
 <x>
-<Wd mdfId="макстозь">makstə̑ź</Wd>
-<Wd mdfId="максты">maksti͔</Wd>
-<Wd mdfId="нармонть">narmə̑ńt́</Wd>
-<Wd mdfId="вайгяльняц">vajǵäĺńac</Wd>
+<w mdfId="макстозь">makstə̑ź</w>
+<w mdfId="максты">maksti͔</w>
+<w mdfId="нармонть">narmə̑ńt́</w>
+<w mdfId="вайгяльняц">vajǵäĺńac</w>
 </x>
 <GeoU xml:lang="mdf">Pš</GeoU>
 <x>
-<Wd mdfId="макстозня">makstə̑źńä</Wd>
-<Wd mdfId="максты">maksti͔</Wd>
-<Wd mdfId="нармонть">narmə̑ńt́</Wd>
-<Wd mdfId="вайгяльняц">vajǵäĺńac</Wd>
+<w mdfId="макстозня">makstə̑źńä</w>
+<w mdfId="максты">maksti͔</w>
+<w mdfId="нармонть">narmə̑ńt́</w>
+<w mdfId="вайгяльняц">vajǵäĺńac</w>
 </x>
 <GeoU xml:lang="mdf">Kr</GeoU>
 <xt xml:lang="deu">Laut erschallt der Gesang des Vogels.</xt>
 </xg>
 <xg>
 <x>
-<Wd mdfId="менельс">ḿeńəĺs</Wd>
-<Wd mdfId="куци">kući</Wd>
-<Wd mdfId="макстозь">makstə̑ź</Wd>
-<Wd mdfId="максты">maksti͔</Wd>
-<Wd mdfId="яхӓрь">jäᵪäŕ</Wd>
-<Wd mdfId="вайгяльняц">vajǵäĺńac</Wd>
+<w mdfId="менельс">ḿeńəĺs</w>
+<w mdfId="куци">kući</w>
+<w mdfId="макстозь">makstə̑ź</w>
+<w mdfId="максты">maksti͔</w>
+<w mdfId="яхӓрь">jäᵪäŕ</w>
+<w mdfId="вайгяльняц">vajǵäĺńac</w>
 </x>
 <GeoU xml:lang="mdf">Bold</GeoU>
 <xt xml:lang="deu">[Bis zum Himmel hinauf steigt, schallend erschallt sein (? des Vogels) hellklingendes Gezwitscher].</xt>
@@ -531,7 +531,7 @@
 <st>потазь</st>
 <l_variants>
 <PhnU>
-<Wd mdfId="потазь">potaź</Wd>
+<w mdfId="потазь">potaź</w>
 </PhnU>
 <GeoU xml:lang="mdf">P</GeoU>
 </l_variants>
@@ -558,7 +558,7 @@
 <st>таргавәзь</st>
 <l_variants>
 <PhnU>
-<Wd mdfId="таргавəзь">targav́əź</Wd>
+<w mdfId="таргавəзь">targav́əź</w>
 </PhnU>
 <GeoU xml:lang="mdf">Sel</GeoU>
 </l_variants>
@@ -575,8 +575,8 @@
 </mg>
 <xg>
 <x>
-<Wd mdfId="таргавəзь">targav́əź</Wd>
-<Wd mdfId="работай">rabo·taj</Wd>
+<w mdfId="таргавəзь">targav́əź</w>
+<w mdfId="работай">rabo·taj</w>
 </x>
 <GeoU xml:lang="mdf">Sel</GeoU>
 <xt xml:lang="deu">Er arbeitet langsam.</xt>
@@ -595,7 +595,7 @@
 <l_variants>
 <PhnU>
 <FrCm freeType="analogy" Modification="manus"/>
-<Wd mdfId="увазь">uva·ź</Wd>
+<w mdfId="увазь">uva·ź</w>
 </PhnU>
 <GeoU xml:lang="mdf">Kr</GeoU>
 </l_variants>
@@ -610,19 +610,19 @@
 </mg>
 <xg>
 <x>
-<Wd CyrId="и">i</Wd>
-<Wd CyrId="увась">uva·ś</Wd>
-<Wd CyrId="авіакай">aviakaj</Wd>
+<w CyrId="и">i</w>
+<w CyrId="увась">uva·ś</w>
+<w CyrId="авіакай">aviakaj</w>
 </x>
 (<sources>
 <book name="IV" pg="430"/>
 </sources>)
  [? &lt; <CapI>
 <i><tk2>
-<Wd CyrId="и">i</Wd>
-<Wd CyrId="увазь">uva·ź</Wd>
-<Wd CyrId="аф">af</Wd>
-<Wd CyrId="якай">jakaj</Wd></tk2></i></CapI>
+<w CyrId="и">i</w>
+<w CyrId="увазь">uva·ź</w>
+<w CyrId="аф">af</w>
+<w CyrId="якай">jakaj</w></tk2></i></CapI>
 <xt xml:lang="deu">‘Und geht nicht bellend’].</xt>
 </xg>
 </HWB>
@@ -638,7 +638,7 @@
 <st>цикәрдәзь</st>
 <l_variants>
 <PhnU>
-<Wd mdfId="цикə̑рдозь">ćikə̑rdə̑ź</Wd>
+<w mdfId="цикə̑рдозь">ćikə̑rdə̑ź</w>
 </PhnU>
 <GeoU xml:lang="mdf"/>
 </l_variants>
@@ -653,10 +653,10 @@
 </mg>
 <xg>
 <x>
-<Wd mdfId="сязьганць">śäźganć</Wd>
-<Wd mdfId="цикə̑рдозь">ćikə̑rdə̑ź</Wd>
-<Wd mdfId="пизонц">ṕizə̑nc</Wd>
-<Wd mdfId="няфцы">ńäfci͔</Wd>
+<w mdfId="сязьганць">śäźganć</w>
+<w mdfId="цикə̑рдозь">ćikə̑rdə̑ź</w>
+<w mdfId="пизонц">ṕizə̑nc</w>
+<w mdfId="няфцы">ńäfci͔</w>
 </x>
 <GeoU xml:lang="mdf"/>
 <sources>
@@ -675,7 +675,7 @@
 <st>ардозь</st>
 <l_variants>
 <PhnU>
-<Wd myvId="ардозь">ardoź</Wd>
+<w myvId="ардозь">ardoź</w>
 </PhnU>
 <GeoU xml:lang="myv">Mar</GeoU>
 </l_variants>
@@ -684,7 +684,7 @@
 <st>ардәзь</st>
 <l_variants>
 <PhnU>
-<Wd mdfId="ардозь">ardə̑ź</Wd>
+<w mdfId="ардозь">ardə̑ź</w>
 </PhnU>
 <GeoU xml:lang="mdf">P</GeoU>
 <GeoU xml:lang="mdf">Sučk</GeoU>
@@ -705,8 +705,8 @@
 <st>ардәзь айдямс</st>
 <l_variants>
 <PhnU>
-<Wd mdfId="ардозь">ardə̑ź</Wd>
-<Wd mdfId="айдямс">ajd́ams</Wd>
+<w mdfId="ардозь">ardə̑ź</w>
+<w mdfId="айдямс">ajd́ams</w>
 </PhnU>
 <GeoU xml:lang="mdf">P</GeoU>
 </l_variants>
@@ -721,9 +721,9 @@
 </mg>
 <xg>
 <x>
-<Wd mdfId="айдяк">ajd́ak</Wd>
-<Wd mdfId="алашат">alašat</Wd>
-<Wd mdfId="ардозь">ardə̑ź</Wd>
+<w mdfId="айдяк">ajd́ak</w>
+<w mdfId="алашат">alašat</w>
+<w mdfId="ардозь">ardə̑ź</w>
 </x>
 <GeoU xml:lang="mdf">P</GeoU>
 <xt xml:lang="deu">Bring das (? dein) Pferd auf Trab!</xt>
@@ -735,8 +735,8 @@
 <st>ардозь туемс</st>
 <l_variants>
 <PhnU>
-<Wd myvId="ардозь">ardoź</Wd>
-<Wd myvId="туемс">tujems</Wd>
+<w myvId="ардозь">ardoź</w>
+<w myvId="туемс">tujems</w>
 </PhnU>
 <GeoUB xml:lang="myv">
 <GeoU xml:lang="myv" extension="common"/>
@@ -747,8 +747,8 @@
 <st>ардәзь туемс</st>
 <l_variants>
 <PhnU>
-<Wd mdfId="ардозь">ardə̑ź</Wd>
-<Wd mdfId="туемс">tujəms</Wd>
+<w mdfId="ардозь">ardə̑ź</w>
+<w mdfId="туемс">tujəms</w>
 </PhnU>
 <GeoUB xml:lang="mdf">
 <GeoU xml:lang="mdf" extension="common"/>
@@ -768,14 +768,14 @@
 </mg>
 <xg>
 <x>
-<Wd myvId="верьгеске">v́eŕǵesḱe</Wd>
-<Wd myvId="кода">koda</Wd>
-<Wd myvId="мени">ḿeńi</Wd>
-<Wd myvId="кецтэст">ḱecte͔st</Wd>
-<Wd myvId=",">,</Wd>
-<Wd myvId="кода">koda</Wd>
-<Wd myvId="туи">tuji</Wd>
-<Wd myvId="ардозь">ardoź</Wd>
+<w myvId="верьгеске">v́eŕǵesḱe</w>
+<w myvId="кода">koda</w>
+<w myvId="мени">ḿeńi</w>
+<w myvId="кецтэст">ḱecte͔st</w>
+<w myvId=",">,</w>
+<w myvId="кода">koda</w>
+<w myvId="туи">tuji</w>
+<w myvId="ардозь">ardoź</w>
 <tk3 isa="excl"/></x>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
@@ -785,11 +785,11 @@
 </xg>
 <xg>
 <x>
-<Wd mdfId="лопаня">lopańä</Wd>
-<Wd mdfId="прай">praj</Wd>
-<Wd mdfId=",">,</Wd>
-<Wd mdfId="ардозь">ardə̑ź</Wd>
-<Wd mdfId="туи">tuji</Wd>
+<w mdfId="лопаня">lopańä</w>
+<w mdfId="прай">praj</w>
+<w mdfId=",">,</w>
+<w mdfId="ардозь">ardə̑ź</w>
+<w mdfId="туи">tuji</w>
 </x>
 <GeoU xml:lang="mdf">Sučk</GeoU>
 <sources>
@@ -808,7 +808,7 @@
 <st>важодезь</st>
 <l_variants>
 <PhnU>
-<Wd myvId="важᴉдьᴉзь">važᴉd́ᴉź</Wd>
+<w myvId="важᴉдьᴉзь">važᴉd́ᴉź</w>
 </PhnU>
 <GeoU xml:lang="myv">Kažl</GeoU>
 </l_variants>
@@ -819,14 +819,14 @@
 <Chc>
 <Vrt>
 <PhnU>
-<Wd mdfId="важядезь">važjäd́əź</Wd>
+<w mdfId="важядезь">važjäd́əź</w>
 </PhnU>
 </Vrt>
 <Vrt>
 <PhnU>
 (<FrCm freeType="questionRelation" Modification="manus"/><i>
 <tk2>
-<Wd mdfId="важӓдезь">važ́äd́əź</Wd>
+<w mdfId="важӓдезь">važ́äd́əź</w>
 </tk2>
 </i>)</PhnU>
 </Vrt>
@@ -835,13 +835,13 @@
 </l_variants>
 <l_variants>
 <PhnU>
-<Wd edit="MK" mdfId="важядезь">važjäd́əź</Wd>
+<w edit="MK" mdfId="важядезь">važjäd́əź</w>
 </PhnU>
 <GeoU xml:lang="mdf">Mam</GeoU>
 </l_variants>
 <l_variants>
 <PhnU>
-<Wd mdfId="вяжедезь">v́äžed́eź</Wd>
+<w mdfId="вяжедезь">v́äžed́eź</w>
 </PhnU>
 <GeoU xml:lang="mdf">Kiš</GeoU>
 </l_variants>
@@ -852,13 +852,13 @@
 :
 <xg>
 <x>
-<Wd myvId="кяньᴉрь">ḱäńᴉŕ</Wd>
-<Wd myvId="-" edit="MK">-</Wd>
-<Wd myvId="пакарь">pakaŕ</Wd>
-<Wd myvId="наŋс">naŋs</Wd>
-<Wd myvId="важᴉ͐дьᴉзь">važᴉ͐d́ᴉź</Wd>
-<Wd myvId="комада">komada</Wd>
-<Wd myvId="мадинь">mad́iń</Wd>
+<w myvId="кяньᴉрь">ḱäńᴉŕ</w>
+<w myvId="-" edit="MK">-</w>
+<w myvId="пакарь">pakaŕ</w>
+<w myvId="наŋс">naŋs</w>
+<w myvId="важᴉ͐дьᴉзь">važᴉ͐d́ᴉź</w>
+<w myvId="комада">komada</w>
+<w myvId="мадинь">mad́iń</w>
 </x>
 <GeoU xml:lang="myv">Kažl</GeoU>
 <sources>
@@ -868,14 +868,14 @@
 </xg>
 <xg>
 <x>
-<Wd edit="MK" mdfId="пильгəнь">ṕiĺgəń</Wd>
+<w edit="MK" mdfId="пильгəнь">ṕiĺgəń</w>
 <tk3 edit="MK" isa="ws"/>
-<Wd edit="MK" mdfId="путəзь">putəź</Wd>
+<w edit="MK" mdfId="путəзь">putəź</w>
 <tk3 edit="MK" isa="comma"/>
 <tk3 edit="MK" isa="ws"/>
-<Wd edit="MK" mdfId="кядь">ḱäd́</Wd>
+<w edit="MK" mdfId="кядь">ḱäd́</w>
 <tk3 edit="MK" isa="ws"/>
-<Wd edit="MK" mdfId="важядезь">važjäd́əź</Wd>
+<w edit="MK" mdfId="важядезь">važjäd́əź</w>
 </x>
 <GeoU xml:lang="mdf">Kr</GeoU>
 <sources>
@@ -885,23 +885,23 @@
 </xg>
 <xg>
 <x>
-<Wd mdfId="вай">vaj</Wd>
-<Wd mdfId=",">,</Wd>
-<Wd mdfId="валомня">valomńä</Wd>
-<Wd mdfId=",">,</Wd>
-<Wd mdfId="ə̑рьвянязя">ə̑ŕv́äńäźä</Wd>
-<Wd mdfId=",">,</Wd>
-<Wd mdfId="вай">vaj</Wd>
-<Wd mdfId=",">,</Wd>
-<Wd mdfId="валомня">valomńä</Wd>
-<Wd mdfId=",">,</Wd>
-<Wd mdfId="пильгонь">ṕiĺgə̑ń</Wd>
-<Wd mdfId="путозь">putə̑ź</Wd>
-<Wd mdfId=",">,</Wd>
-<Wd mdfId="ə̑рьвянязя">ə̑ŕv́äńäźä</Wd>
-<Wd mdfId=",">,</Wd>
-<Wd mdfId="кядь">ḱäd́</Wd>
-<Wd mdfId="вяжедезь">v́äžed́eź</Wd>
+<w mdfId="вай">vaj</w>
+<w mdfId=",">,</w>
+<w mdfId="валомня">valomńä</w>
+<w mdfId=",">,</w>
+<w mdfId="ə̑рьвянязя">ə̑ŕv́äńäźä</w>
+<w mdfId=",">,</w>
+<w mdfId="вай">vaj</w>
+<w mdfId=",">,</w>
+<w mdfId="валомня">valomńä</w>
+<w mdfId=",">,</w>
+<w mdfId="пильгонь">ṕiĺgə̑ń</w>
+<w mdfId="путозь">putə̑ź</w>
+<w mdfId=",">,</w>
+<w mdfId="ə̑рьвянязя">ə̑ŕv́äńäźä</w>
+<w mdfId=",">,</w>
+<w mdfId="кядь">ḱäd́</w>
+<w mdfId="вяжедезь">v́äžed́eź</w>
 <tk3 isa="excl"/></x>
 <GeoU xml:lang="mdf">Kiš</GeoU>
 <sources>
@@ -920,7 +920,7 @@
 <st>ванстазь</st>
 <l_variants>
 <PhnU>
-<Wd myvId="ванстазь">vanstaź</Wd>
+<w myvId="ванстазь">vanstaź</w>
 </PhnU>
 <GeoU xml:lang="myv">Večk</GeoU>
 <GeoU xml:lang="myv">Is</GeoU>
@@ -948,7 +948,7 @@
 <st>лисезь</st>
 <l_variants>
 <PhnU>
-<Wd myvId="лисезь">ĺiśeź</Wd>
+<w myvId="лисезь">ĺiśeź</w>
 </PhnU>
 <GeoU xml:lang="myv">Večk</GeoU>
 </l_variants>
@@ -957,7 +957,7 @@
 <st>лисезь</st>
 <l_variants>
 <PhnU>
-<Wd mdfId="лисезь">ĺiśəź</Wd>
+<w mdfId="лисезь">ĺiśəź</w>
 </PhnU>
 <GeoU xml:lang="mdf">P</GeoU>
 </l_variants>
@@ -977,10 +977,10 @@
 </mg>
 <xg>
 <x>
-<Wd myvId="сон">son</Wd>
-<Wd myvId="лисезь">ĺiśeź</Wd>
-<Wd myvId="урьванзо">uŕvanᴣo</Wd>
-<Wd myvId="саизе">sajiźe</Wd>
+<w myvId="сон">son</w>
+<w myvId="лисезь">ĺiśeź</w>
+<w myvId="урьванзо">uŕvanᴣo</w>
+<w myvId="саизе">sajiźe</w>
 </x>
 [
 <GeoU xml:lang="myv">Večk]</GeoU>
@@ -988,9 +988,9 @@
 </xg>
 <xg>
 <x>
-<Wd mdfId="сон">son</Wd>
-<Wd mdfId="лисезь">ĺiśəź</Wd>
-<Wd mdfId="лисьсь">ĺiśś</Wd>
+<w mdfId="сон">son</w>
+<w mdfId="лисезь">ĺiśəź</w>
+<w mdfId="лисьсь">ĺiśś</w>
 </x>
 [
 <GeoUB xml:lang="mdf">
@@ -1009,8 +1009,8 @@
 <st>лисезь стирь</st>
 <l_variants>
 <PhnU>
-<Wd mdfId="лисезь">ĺiśəź</Wd>
-<Wd mdfId="стирь">śt́iŕ</Wd>
+<w mdfId="лисезь">ĺiśəź</w>
+<w mdfId="стирь">śt́iŕ</w>
 </PhnU>
 <GeoU xml:lang="mdf">P</GeoU>
 </l_variants>
@@ -1034,7 +1034,7 @@
 <st>марнозь</st>
 <l_variants>
 <PhnU>
-<Wd myvId="марнозь">marnoź</Wd>
+<w myvId="марнозь">marnoź</w>
 </PhnU>
 </l_variants>
 </lg>
@@ -1053,9 +1053,9 @@
 <st>кувсезь-марнозь</st>
 <l_variants>
 <PhnU>
-<Wd myvId="кувсезь">kuvśeź</Wd>
-<Wd myvId="-">-</Wd>
-<Wd myvId="марнозь">marnoź</Wd>
+<w myvId="кувсезь">kuvśeź</w>
+<w myvId="-">-</w>
+<w myvId="марнозь">marnoź</w>
 </PhnU>
 <GeoU xml:lang="myv">Bug</GeoU>
 <GeoU xml:lang="myv">Vez</GeoU>
@@ -1073,11 +1073,11 @@
 </mg>
 <xg>
 <x>
-<Wd myvId="кувсезь">kuvśeź</Wd>
-<Wd myvId="-" edit="MK">-</Wd>
-<Wd myvId="марнозь">marnoź</Wd>
-<Wd myvId="сон">son</Wd>
-<Wd myvId="яки">jaḱi</Wd>
+<w myvId="кувсезь">kuvśeź</w>
+<w myvId="-" edit="MK">-</w>
+<w myvId="марнозь">marnoź</w>
+<w myvId="сон">son</w>
+<w myvId="яки">jaḱi</w>
 </x>
 <GeoU xml:lang="myv" edit="MK">Bug</GeoU>
 <sources>
@@ -1087,12 +1087,12 @@
 </xg>
 <xg>
 <x>
-<Wd myvId="офто">ofto</Wd>
-<Wd myvId="кувсезь">kuvśeź</Wd>
-<Wd myvId="-" edit="MK">-</Wd>
-<Wd myvId="марнозь">marnoź</Wd>
-<Wd myvId="тусь">tuś</Wd>
-<Wd myvId="виренте">v́iŕeńt́e</Wd>
+<w myvId="офто">ofto</w>
+<w myvId="кувсезь">kuvśeź</w>
+<w myvId="-" edit="MK">-</w>
+<w myvId="марнозь">marnoź</w>
+<w myvId="тусь">tuś</w>
+<w myvId="виренте">v́iŕeńt́e</w>
 </x>
 <GeoU xml:lang="myv">Vez</GeoU>
 <sources>
@@ -1111,7 +1111,7 @@
 <st>понгонозь</st>
 <l_variants>
 <PhnU>
-<Wd myvId="понгонᴉ͐зь">poŋgo·nᴉ͐ź</Wd>
+<w myvId="понгонᴉ͐зь">poŋgo·nᴉ͐ź</w>
 </PhnU>
 </l_variants>
 </lg>
@@ -1130,8 +1130,8 @@
 <st>понгонозь кортамс</st>
 <l_variants>
 <PhnU>
-<Wd myvId="понгонᴉ͐зь">poŋgo·nᴉ͐ź</Wd>
-<Wd myvId="корхтамс">korʿtams</Wd>
+<w myvId="понгонᴉ͐зь">poŋgo·nᴉ͐ź</w>
+<w myvId="корхтамс">korʿtams</w>
 </PhnU>
 <GeoU xml:lang="myv">Ba</GeoU>
 </l_variants>
@@ -1157,7 +1157,7 @@
 <st>радувазь</st>
 <l_variants>
 <PhnU>
-<Wd myvId="радувазь">raduvaź</Wd>
+<w myvId="радувазь">raduvaź</w>
 </PhnU>
 <GeoU xml:lang="myv">Večk</GeoU>
 <prnth>(Verbal-N.)</prnth>
@@ -1177,14 +1177,14 @@
 </mg>
 <xg>
 <x>
-<Wd myvId="мезень">ḿeźeń</Wd>
-<Wd myvId="сецэ">śece͔</Wd>
-<Wd myvId="мон">mon</Wd>
-<Wd myvId="аштян">ašt́an</Wd>
-<Wd myvId=",">,</Wd>
-<Wd myvId="мень">ḿeń</Wd>
-<Wd myvId="радувазь">raduvaź</Wd>
-<Wd myvId="саімим">saiḿim</Wd>
+<w myvId="мезень">ḿeźeń</w>
+<w myvId="сецэ">śece͔</w>
+<w myvId="мон">mon</w>
+<w myvId="аштян">ašt́an</w>
+<w myvId=",">,</w>
+<w myvId="мень">ḿeń</w>
+<w myvId="радувазь">raduvaź</w>
+<w myvId="саімим">saiḿim</w>
 <tk3 isa="quest"/></x>
 <GeoU xml:lang="myv">Večk</GeoU>
 <sources>
@@ -1203,20 +1203,20 @@
 <st>роконьдязь</st>
 <l_variants>
 <PhnU>
-<Wd myvId="рокондязь">roko·ńd́äź</Wd>
+<w myvId="рокондязь">roko·ńd́äź</w>
 </PhnU>
 <GeoU xml:lang="myv">Ba</GeoU>
 </l_variants>
 <l_variants>
 <PhnU>
-<Wd myvId="рокандизь">rokańd́iź</Wd>
+<w myvId="рокандизь">rokańd́iź</w>
 </PhnU>
 <GeoU xml:lang="myv">Kad</GeoU>
 <GeoU xml:lang="myv">Kal</GeoU>
 </l_variants>
 <l_variants>
 <PhnU>
-<Wd myvId="рокандезь">rokańd́eź</Wd>
+<w myvId="рокандезь">rokańd́eź</w>
 </PhnU>
 <GeoU xml:lang="myv">Večk</GeoU>
 </l_variants>
@@ -1233,32 +1233,32 @@
 </mg>
 <xg>
 <x>
-<Wd myvId="сон">son</Wd>
-<Wd myvId="рокондязь">roko·ńd́äź</Wd>
-<Wd myvId="авардя">ava·ŕd́ä</Wd>
+<w myvId="сон">son</w>
+<w myvId="рокондязь">roko·ńd́äź</w>
+<w myvId="авардя">ava·ŕd́ä</w>
 </x>
 <GeoU xml:lang="myv">Ba</GeoU>
 <x>
-<Wd myvId="рокандизь">rokańd́iź</Wd>
-<Wd myvId="аварде">avaŕd́e</Wd>
+<w myvId="рокандизь">rokańd́iź</w>
+<w myvId="аварде">avaŕd́e</w>
 </x>
 <GeoU xml:lang="myv">Kad</GeoU>
  [<CapI>
 <i><tk2>
-<Wd myvId="рокандезь">rokańd́eź</Wd>
-<Wd myvId="аварди">avaŕd́i</Wd></tk2></i></CapI>] 
+<w myvId="рокандезь">rokańd́eź</w>
+<w myvId="аварди">avaŕd́i</w></tk2></i></CapI>] 
 <GeoU xml:lang="myv">Večk</GeoU>
 <x>
-<Wd myvId="рокандизь">rokańd́iź</Wd>
-<Wd myvId="аварде">ava·ŕd́e</Wd>
+<w myvId="рокандизь">rokańd́iź</w>
+<w myvId="аварде">ava·ŕd́e</w>
 </x>
 <GeoU xml:lang="myv">Kal</GeoU>
 <xt xml:lang="deu">Er weint laut und schluchzend.</xt>
 </xg>
 <xg>
 <x>
-<Wd myvId="рокандизь">rokańd́iź</Wd>
-<Wd myvId="пейде">ṕejd́e</Wd>
+<w myvId="рокандизь">rokańd́iź</w>
+<w myvId="пейде">ṕejd́e</w>
 </x>
 <GeoU xml:lang="myv">Kad</GeoU>
 <GeoU xml:lang="myv">Kal</GeoU>
@@ -1270,7 +1270,7 @@
 <EtSrcL edit="MK" vl="mrdv"/>
 <EtCtn>
 <Et edit="MK">
-<Wd CyrId="рокамс">rokams</Wd></Et>
+<w CyrId="рокамс">rokams</w></Et>
 </EtCtn>
 </etymology>
 </e>
@@ -1283,7 +1283,7 @@
 <st>содамга</st>
 <l_variants>
 <PhnU>
-<Wd myvId="содамга">sodamga</Wd>
+<w myvId="содамга">sodamga</w>
 </PhnU>
 <GeoU xml:lang="myv">Večk</GeoU>
 </l_variants>
@@ -1292,7 +1292,7 @@
 <st>содамга</st>
 <l_variants>
 <PhnU>
-<Wd mdfId="содамга">sodamga</Wd>
+<w mdfId="содамга">sodamga</w>
 </PhnU>
 <GeoU xml:lang="mdf">P</GeoU>
 </l_variants>
@@ -1327,8 +1327,8 @@
 <st>монь содамган</st>
 <l_variants>
 <PhnU>
-<Wd mdfId="монь">moń</Wd>
-<Wd mdfId="содамган">sodamgan</Wd>
+<w mdfId="монь">moń</w>
+<w mdfId="содамган">sodamgan</w>
 </PhnU>
 <GeoU xml:lang="mdf">P</GeoU>
 </l_variants>
@@ -1352,11 +1352,11 @@
 <PhnU>
 <Chc>
 <Vrt>
-<Wd mdfId="содамгат">sodamgat</Wd>
+<w mdfId="содамгат">sodamgat</w>
 </Vrt>
 <Vrt>
-<Wd edit="MK" mdfId="тонь">toń</Wd>
-<Wd mdfId="содамгат">sodamgat</Wd>
+<w edit="MK" mdfId="тонь">toń</w>
+<w mdfId="содамгат">sodamgat</w>
 </Vrt>
 </Chc>
 </PhnU>
@@ -1382,11 +1382,11 @@
 <PhnU>
 <Chc>
 <Vrt>
-<Wd mdfId="содамганза">sodamganza</Wd>
+<w mdfId="содамганза">sodamganza</w>
 </Vrt>
 <Vrt>
-<Wd edit="MK" mdfId="сонь">soń</Wd>
-<Wd mdfId="содамганза">sodamganza</Wd>
+<w edit="MK" mdfId="сонь">soń</w>
+<w mdfId="содамганза">sodamganza</w>
 </Vrt>
 </Chc></PhnU>
 <GeoU xml:lang="mdf">P</GeoU>
@@ -1411,11 +1411,11 @@
 <PhnU>
 <Chc>
 <Vrt>
-<Wd mdfId="содамганок">sodamganə̑k</Wd>
+<w mdfId="содамганок">sodamganə̑k</w>
 </Vrt>
 <Vrt>
-<Wd edit="MK" mdfId="минь">ḿiń</Wd>
-<Wd mdfId="содамганок">sodamganə̑k</Wd>
+<w edit="MK" mdfId="минь">ḿiń</w>
+<w mdfId="содамганок">sodamganə̑k</w>
 </Vrt>
 </Chc></PhnU>
 <GeoU xml:lang="mdf">P</GeoU>
@@ -1440,11 +1440,11 @@
 <PhnU>
 <Chc>
 <Vrt>
-<Wd mdfId="содамганонтт">sodamganə̑ntt</Wd>
+<w mdfId="содамганонтт">sodamganə̑ntt</w>
 </Vrt>
 <Vrt>
-<Wd edit="MK" mdfId="тинь">t́iń</Wd>
-<Wd mdfId="содамганонтт">sodamganə̑ntt</Wd>
+<w edit="MK" mdfId="тинь">t́iń</w>
+<w mdfId="содамганонтт">sodamganə̑ntt</w>
 </Vrt>
 </Chc></PhnU>
 <GeoU xml:lang="mdf">P</GeoU>
@@ -1467,8 +1467,8 @@
 <st>аф содамга</st>
 <l_variants>
 <PhnU>
-<Wd mdfId="аф">af</Wd>
-<Wd mdfId="содамга">sodamga</Wd>
+<w mdfId="аф">af</w>
+<w mdfId="содамга">sodamga</w>
 </PhnU>
 <GeoU xml:lang="mdf">P</GeoU>
 </l_variants>
@@ -1495,7 +1495,7 @@
 <st>сыредезь</st>
 <l_variants>
 <PhnU>
-<Wd myvId="сыредезь">si͔ŕed́eź</Wd>
+<w myvId="сыредезь">si͔ŕed́eź</w>
 </PhnU>
 <GeoU xml:lang="myv">Mar</GeoU>
 </l_variants>
@@ -1508,17 +1508,17 @@
 :
 <xg>
 <x>
-<Wd CyrId="сыредезь">si͔ŕed́eź</Wd>
+<w CyrId="сыредезь">si͔ŕed́eź</w>
 <Hph/>
-<Wd CyrId="маштозь">maštoź</Wd>
-<Wd CyrId="кулось">kuloś</Wd>
+<w CyrId="маштозь">maštoź</w>
+<w CyrId="кулось">kuloś</w>
 </x>
 <t xml:lang="deu">Er starb an Altersschwäche (<See>
 <Function>vgl.</Function>
-<FrnTxt><Wd CyrId="сыредень">si͔ŕed́eń</Wd>
+<FrnTxt><w CyrId="сыредень">si͔ŕed́eń</w>
 <Hph/>
-<Wd CyrId="маштонь">maštoń</Wd>
-<Wd CyrId="пелев">ṕeĺev</Wd></FrnTxt>
+<w CyrId="маштонь">maštoń</w>
+<w CyrId="пелев">ṕeĺev</w></FrnTxt>
 </See> in hohem Alter).</t>
 </xg>
 </HWB>
@@ -1532,7 +1532,7 @@
 <st>цюразь</st>
 <l_variants>
 <PhnU>
-<Wd myvId="цюразь">ćuraź</Wd>
+<w myvId="цюразь">ćuraź</w>
 </PhnU>
 <GeoU xml:lang="myv">StŠant</GeoU>
 </l_variants>
@@ -1545,12 +1545,12 @@
 :
 <xg>
 <x>
-<Wd myvId="а">a</Wd>
-<Wd myvId="цюразь">ćuraź</Wd>
-<Wd myvId="цюравост">ćuravost</Wd>
-<Wd myvId="а">a</Wd>
-<Wd myvId="суфтазь">suftaź</Wd>
-<Wd myvId="суфтавост">suftavost</Wd>
+<w myvId="а">a</w>
+<w myvId="цюразь">ćuraź</w>
+<w myvId="цюравост">ćuravost</w>
+<w myvId="а">a</w>
+<w myvId="суфтазь">suftaź</w>
+<w myvId="суфтавост">suftavost</w>
 </x>
 <GeoU xml:lang="myv">StŠant</GeoU>
 <sources>
@@ -1569,7 +1569,7 @@
 <st>чожолдозь</st>
 <l_variants>
 <PhnU>
-<Wd myvId="чожолдозь">čožoldoź</Wd>
+<w myvId="чожолдозь">čožoldoź</w>
 </PhnU>
 <GeoU xml:lang="myv">Večk</GeoU>
 </l_variants>
@@ -1582,9 +1582,9 @@
 :
 <xg>
 <x>
-<Wd myvId="сон">son</Wd>
-<Wd myvId="чожолдозь">čožoldoź</Wd>
-<Wd myvId="кишти">ḱišt́i</Wd>
+<w myvId="сон">son</w>
+<w myvId="чожолдозь">čožoldoź</w>
+<w myvId="кишти">ḱišt́i</w>
 </x>
 <GeoU xml:lang="myv">Večk</GeoU>
 <xt xml:lang="deu">Sie tanzt trippelnd (mit trippelnden Schritten).</xt>
@@ -1600,7 +1600,7 @@
 <st>шчупазь</st>
 <l_variants>
 <PhnU>
-<Wd myvId="шчупазь">ščupaź</Wd>
+<w myvId="шчупазь">ščupaź</w>
 </PhnU>
 </l_variants>
 </lg>
@@ -1619,8 +1619,8 @@
 <st>шчупазь молемс</st>
 <l_variants>
 <PhnU>
-<Wd myvId="шчупазь">ščupaź</Wd>
-<Wd myvId="молемс">moĺems</Wd>
+<w myvId="шчупазь">ščupaź</w>
+<w myvId="молемс">moĺems</w>
 </PhnU>
 <GeoU xml:lang="myv">Mar</GeoU>
 </l_variants>
@@ -1646,19 +1646,19 @@
 <st>юргозь</st>
 <l_variants>
 <PhnU>
-<Wd myvId="юргозь">jurgoź</Wd>
+<w myvId="юргозь">jurgoź</w>
 </PhnU>
 <GeoU xml:lang="myv">Mar</GeoU>
 </l_variants>
 <l_variants>
 <PhnU>
-<Wd myvId="юргузь">jurgu·ź</Wd>
+<w myvId="юргузь">jurgu·ź</w>
 </PhnU>
 <GeoU xml:lang="myv">Ba</GeoU>
 </l_variants>
 <l_variants>
 <PhnU>
-<Wd myvId="юргузь">jurguź</Wd>
+<w myvId="юргузь">jurguź</w>
 </PhnU>
 <GeoU xml:lang="myv">Kal</GeoU>
 </l_variants>
@@ -1667,7 +1667,7 @@
 <st>юргәзь</st>
 <l_variants>
 <PhnU>
-<Wd mdfId="юргозь">jurgə̑ź</Wd>
+<w mdfId="юргозь">jurgə̑ź</w>
 </PhnU>
 <GeoU xml:lang="mdf">Sučk</GeoU>
 </l_variants>
@@ -1685,8 +1685,8 @@
 <st>юргузь молемс</st>
 <l_variants>
 <PhnU>
-<Wd myvId="юргузь">jurguź</Wd>
-<Wd myvId="молемс">moĺems</Wd>
+<w myvId="юргузь">jurguź</w>
+<w myvId="молемс">moĺems</w>
 </PhnU>
 <GeoU xml:lang="myv">Kal</GeoU>
 </l_variants>
@@ -1708,25 +1708,25 @@
 <st>юргозь-вешкезь</st>
 <l_variants>
 <PhnU>
-<Wd myvId="юргозь">jurgoź</Wd>
-<Wd myvId="-">-</Wd>
-<Wd myvId="вешкезь">v́ešḱeź</Wd>
+<w myvId="юргозь">jurgoź</w>
+<w myvId="-">-</w>
+<w myvId="вешкезь">v́ešḱeź</w>
 </PhnU>
 <GeoU xml:lang="myv">Mar</GeoU>
 </l_variants>
 <l_variants>
 <PhnU>
-<Wd myvId="юргузь">jurgu·ź</Wd>
-<Wd myvId="-">-</Wd>
-<Wd myvId="вечкезь">v́ečḱe·ź</Wd>
+<w myvId="юргузь">jurgu·ź</w>
+<w myvId="-">-</w>
+<w myvId="вечкезь">v́ečḱe·ź</w>
 </PhnU>
 <GeoU xml:lang="myv">Ba</GeoU>
 </l_variants>
 <l_variants>
 <PhnU>
-<Wd myvId="юргазь">jurgaź</Wd>
-<Wd myvId="-">-</Wd>
-<Wd myvId="вешкезь">v́ešḱeź</Wd>
+<w myvId="юргазь">jurgaź</w>
+<w myvId="-">-</w>
+<w myvId="вешкезь">v́ešḱeź</w>
 </PhnU>
 <GeoU xml:lang="myv">Bugur</GeoU>
 </l_variants>
@@ -1735,9 +1735,9 @@
 <st>юргәзь-вяшкәзь</st>
 <l_variants>
 <PhnU>
-<Wd mdfId="юргозь">jurgə̑ź</Wd>
-<Wd mdfId="-">-</Wd>
-<Wd mdfId="вяшкəзь">v́äškəź</Wd>
+<w mdfId="юргозь">jurgə̑ź</w>
+<w mdfId="-">-</w>
+<w mdfId="вяшкəзь">v́äškəź</w>
 </PhnU>
 <GeoU xml:lang="mdf">Sučk</GeoU>
 </l_variants>
@@ -1754,48 +1754,48 @@
 </mg>
 <xg>
 <x>
-<Wd myvId="юргозь">jurgoź</Wd>
-<Wd myvId="-">-</Wd>
-<Wd myvId="вешкезь">v́ešḱeź</Wd>
-<Wd myvId="листь">ĺiśt́</Wd>
-<Wd myvId="кудонть">kudońt́</Wd>
-<Wd myvId="эйстэ">ejste͔</Wd>
+<w myvId="юргозь">jurgoź</w>
+<w myvId="-">-</w>
+<w myvId="вешкезь">v́ešḱeź</w>
+<w myvId="листь">ĺiśt́</w>
+<w myvId="кудонть">kudońt́</w>
+<w myvId="эйстэ">ejste͔</w>
 </x>
 <GeoU xml:lang="myv">Mar</GeoU>
 <x>
-<Wd myvId="юргузь">jurgu·ź</Wd>
-<Wd myvId="-">-</Wd>
-<Wd myvId="вечкезь">v́ečḱe·ź</Wd>
-<Wd myvId="листь">ĺiśt́</Wd>
-<Wd myvId="кудунть">kudu·ńt́</Wd>
-<Wd myvId="эста">ästa</Wd>
+<w myvId="юргузь">jurgu·ź</w>
+<w myvId="-">-</w>
+<w myvId="вечкезь">v́ečḱe·ź</w>
+<w myvId="листь">ĺiśt́</w>
+<w myvId="кудунть">kudu·ńt́</w>
+<w myvId="эста">ästa</w>
 </x>
 <GeoU xml:lang="myv">Ba</GeoU>
 <x>
-<Wd mdfId="ворть">voŕt́</Wd>
-<Wd mdfId="куцта">kucta</Wd>
-<Wd mdfId="юргозь">jurgə̑ź</Wd>
-<Wd mdfId="-">-</Wd>
-<Wd mdfId="вяшкəзь">v́äškəź</Wd>
+<w mdfId="ворть">voŕt́</w>
+<w mdfId="куцта">kucta</w>
+<w mdfId="юргозь">jurgə̑ź</w>
+<w mdfId="-">-</w>
+<w mdfId="вяшкəзь">v́äškəź</w>
 </x>
 <GeoU xml:lang="mdf">Sučk</GeoU>
 <xt xml:lang="deu">Mach, dass du eiligst vom Hause fortkommst! Geh zum Teufel!</xt>
 </xg>
 <xg>
 <x>
-<Wd myvId="варма">varma</Wd>
-<Wd myvId="-">-</Wd>
-<Wd myvId="ава">ava</Wd>
-<Wd myvId="варма">varma</Wd>
-<Wd myvId="мельга">ḿeĺga</Wd>
-<Wd myvId="туекшнэсь">tujekšne͔ś</Wd>
-<Wd myvId=",">,</Wd>
-<Wd myvId="юргазь">jurgaź</Wd>
-<Wd myvId="-" edit="MK">-</Wd>
-<Wd myvId="вешкезь">v́ešḱeź</Wd>
-<Wd myvId="мастор">mastor</Wd>
-<Wd myvId="ланга">laŋga</Wd>
-<Wd myvId="пувамо">puvamo</Wd>
+<w myvId="варма">varma</w>
+<w myvId="-">-</w>
+<w myvId="ава">ava</w>
+<w myvId="варма">varma</w>
+<w myvId="мельга">ḿeĺga</w>
+<w myvId="туекшнэсь">tujekšne͔ś</w>
+<w myvId=",">,</w>
+<w myvId="юргазь">jurgaź</w>
+<w myvId="-" edit="MK">-</w>
+<w myvId="вешкезь">v́ešḱeź</w>
+<w myvId="мастор">mastor</w>
+<w myvId="ланга">laŋga</w>
+<w myvId="пувамо">puvamo</w>
 </x>
 <GeoU xml:lang="myv">Bugur</GeoU>
 <sources>
@@ -1814,14 +1814,14 @@
 <st>ютазь</st>
 <l_variants>
 <PhnU>
-<Wd myvId="ютазь">jutaź</Wd>
+<w myvId="ютазь">jutaź</w>
 </PhnU>
 <GeoU xml:lang="myv">Mar</GeoU>
 <GeoU xml:lang="myv">Jeg</GeoU>
 </l_variants>
 <l_variants>
 <PhnU>
-<Wd myvId="итазь">itaź</Wd>
+<w myvId="итазь">itaź</w>
 </PhnU>
 <GeoU xml:lang="myv">Kal</GeoU>
 </l_variants>
@@ -1830,7 +1830,7 @@
 <st>ётазь</st>
 <l_variants>
 <PhnU>
-<Wd mdfId="ётазь">jotaź</Wd>
+<w mdfId="ётазь">jotaź</w>
 </PhnU>
 <GeoU xml:lang="mdf">Kr</GeoU>
 </l_variants>
@@ -1841,11 +1841,11 @@
 :
 <xg>
 <x>
-<Wd mdfId="колма">kolma</Wd>
-<Wd mdfId="ши">ši</Wd>
-<Wd mdfId="ётазь">jotaź</Wd>
-<Wd mdfId="вестькя">v́eśt́ḱä</Wd>
-<Wd mdfId="анцамазь">ancamaź</Wd>
+<w mdfId="колма">kolma</w>
+<w mdfId="ши">ši</w>
+<w mdfId="ётазь">jotaź</w>
+<w mdfId="вестькя">v́eśt́ḱä</w>
+<w mdfId="анцамазь">ancamaź</w>
 </x>
 <GeoU xml:lang="mdf">Kr</GeoU>
 <xt xml:lang="deu">[In drei Tagen speiste er (od. speisten sie) uns nur einmal].</xt>
@@ -1857,9 +1857,9 @@
 <st>аламо порань ютазь</st>
 <l_variants>
 <PhnU>
-<Wd myvId="аламо">alamo</Wd>
-<Wd myvId="порань">porań</Wd>
-<Wd myvId="ютазь">jutaź</Wd>
+<w myvId="аламо">alamo</w>
+<w myvId="порань">porań</w>
+<w myvId="ютазь">jutaź</w>
 </PhnU>
 <GeoU xml:lang="myv">Mar</GeoU>
 </l_variants>
@@ -1875,8 +1875,8 @@
 </tg>
 <dfQsyn1>(<See>
 <Function>vgl.</Function>
-<FrnTxt><Wd CyrId="се">śe</Wd></FrnTxt>
-</See>: <FrnTxt><Wd CyrId="зняро">źńaro</Wd></FrnTxt></dfQsyn1>)</mg>
+<FrnTxt><w CyrId="се">śe</w></FrnTxt>
+</See>: <FrnTxt><w CyrId="зняро">źńaro</w></FrnTxt></dfQsyn1>)</mg>
 </MWUB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
@@ -1884,15 +1884,15 @@
 <st>чинь ютазь</st>
 <l_variants>
 <PhnU>
-<Wd myvId="чинь">či͔ń</Wd>
-<Wd myvId="ютазь">jutaź</Wd>
+<w myvId="чинь">či͔ń</w>
+<w myvId="ютазь">jutaź</w>
 </PhnU>
 <GeoU xml:lang="myv">Jeg</GeoU>
 </l_variants>
 <l_variants>
 <PhnU>
-<Wd myvId="чинь">čiń</Wd>
-<Wd myvId="итазь">itaź</Wd>
+<w myvId="чинь">čiń</w>
+<w myvId="итазь">itaź</w>
 </PhnU>
 <GeoU xml:lang="myv">Kal</GeoU>
 </l_variants>
@@ -1915,8 +1915,8 @@
 <st>иень ютазь</st>
 <l_variants>
 <PhnU>
-<Wd myvId="иень">ijeń</Wd>
-<Wd myvId="ютазь">jutaź</Wd>
+<w myvId="иень">ijeń</w>
+<w myvId="ютазь">jutaź</w>
 </PhnU>
 <GeoU xml:lang="myv">Mar</GeoU>
 </l_variants>
@@ -1938,8 +1938,8 @@
 <st>недлянь ютазь</st>
 <l_variants>
 <PhnU>
-<Wd myvId="недлянь">ńed́ĺań</Wd>
-<Wd myvId="ютазь">jutaź</Wd>
+<w myvId="недлянь">ńed́ĺań</w>
+<w myvId="ютазь">jutaź</w>
 </PhnU>
 <GeoU xml:lang="myv">Mar</GeoU>
 </l_variants>
