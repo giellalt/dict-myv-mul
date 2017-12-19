@@ -104,6 +104,7 @@
 <w myvId="тенть">t́eńt́</w>
 <w myvId="ёфтан">joftan</w>
 <w myvId="?">?</w>
+</x>
 <GeoU xml:lang="myv">Šokša</GeoU>
 <sources>
 <book name="VII" pg="460"/>
@@ -498,7 +499,7 @@ dial. <Et>али</Et>
 <GeoU xml:lang="mdf">Sel</GeoU>
 </l_variants>
 </lg>
-<DrvG>(<comment/><DrvStCtn><DrvSt><w CyrId="ашкя">ašḱä</w></DrvSt></DrvStCtn><fnct>+</fnct><DrvStCtn><DrvSt><w CyrId="ни">ńi</w></DrvSt></DrvStCtn>)</DrvG>
+<compg drv="X:X»CC" type="Der">(<comment/><DrvStCtn><DrvSt><w CyrId="ашкя">ašḱä</w></DrvSt></DrvStCtn><fnct>+</fnct><DrvStCtn><DrvSt><w CyrId="ни">ńi</w></DrvSt></DrvStCtn>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">вперёд!</t>
@@ -660,7 +661,7 @@ dial. <Et>али</Et>
 <w myvId="кортак">kortak</w>
 <w myvId="а">a</w>
 <w myvId="ламо">lamo</w>
-<tk3 isa="excl"/></x>
+<w myvId="!">!</w></x>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
 <book name="2" pg="75"/>
@@ -725,7 +726,7 @@ dial. <Et>али</Et>
 <w myvId="да">da</w>
 <w myvId="варксийсь">varkśijś</w>
 <w myvId="кварк">kvark</w>
-<tk3 isa="excl"/>
+<w myvId="!">!</w>
 <w myvId="меризь">ḿeŕiź</w>
 <w myvId="кокстаць">kokstać</w>
 <w myvId="ки">ḱi</w>
@@ -745,7 +746,7 @@ dial. <Et>али</Et>
 <w myvId="вицазо">v́icazo</w>
 <w myvId="да">da</w>
 <w myvId="пецазо">ṕecazo</w>
-<tk3 isa="excl"/></x>
+<w myvId="!">!</w></x>
 <GeoU xml:lang="myv">Jeg</GeoU>
 <sources>
 <book name="1" pg="88"/>
@@ -876,7 +877,7 @@ dial. <Et>али</Et>
 <w myvId="а">a</w>
 <w myvId="ламо">lamo</w>
 <w myvId="кортак">kortak</w>
-<tk3 isa="excl"/></x>
+<w myvId="!">!</w></x>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
 <book name="2" pg="75"/>
@@ -1256,6 +1257,7 @@ dial. <Et>али</Et>
 <w myvId="алкснынь">alksni͔ń</w>
 <w myvId="сазить">saźit́</w>
 <w myvId="?">?</w>
+</x>
 <GeoU xml:lang="myv">Kal</GeoU>
 <sources>
 <book name="2" pg="147"/>
@@ -1267,6 +1269,7 @@ dial. <Et>али</Et>
 <w myvId="алкст">alkst</w>
 <w myvId="сайсак">sajsak</w>
 <w myvId="?">?</w>
+</x>
 <GeoU xml:lang="myv">Kažl</GeoU>
 <sources>
 <book name="2" pg="148"/>
@@ -1427,7 +1430,7 @@ dial. <Et>али</Et>
 <w myvId=",">,</w>
 <w myvId="сон">son</w>
 <w myvId="валцы">valci͔</w>
-<tk3 isa="excl"/></x>
+<w myvId="!">!</w></x>
 <GeoU xml:lang="myv">Naz</GeoU>
 <sources>
 <book name="VII" pg="180"/>
@@ -1443,7 +1446,7 @@ dial. <Et>али</Et>
 <w myvId="эль">eĺ</w>
 <w myvId="ломать">lomat́</w>
 <w myvId="чавсызь">čavsi͔ź</w>
-<tk3 isa="excl"/></x>
+<w myvId="!">!</w></x>
 <GeoU xml:lang="myv">Naz</GeoU>
 <sources>
 <book name="VII" pg="180"/>
@@ -1591,6 +1594,7 @@ dial. <Et>али</Et>
 <w myvId="эли">eĺi</w>
 <w myvId="ормаскадыть">ormaskadi͔t́</w>
 <w myvId="?">?</w>
+</x>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
 <book name="2" pg="95"/>
@@ -1602,6 +1606,7 @@ dial. <Et>али</Et>
 <w myvId="эли">eĺi</w>
 <w myvId="глухойгадыть">gluᵪojgadi͔t́</w>
 <w myvId="?">?</w>
+</x>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
 <book name="2" pg="83"/>
@@ -1666,6 +1671,7 @@ dial. <Et>али</Et>
 <w myvId="арась">araś</w>
 <w myvId="горенем">goŕeńeḿ</w>
 <w myvId="?">?</w>
+</x>
 <GeoU xml:lang="myv">Ba</GeoU>
 <sources>
 <book name="VII" pg="406"/>
@@ -1721,6 +1727,7 @@ dial. <Et>али</Et>
 <w mdfId="коса">kosa</w>
 <w edit="MK" mdfId="эряй">eŕäj</w>
 <w mdfId="?">?</w>
+</x>
 <GeoU xml:lang="mdf" edit="MK">Mam</GeoU>
 <sources>
 <book name="IV" pg="854"/>
@@ -1859,6 +1866,7 @@ dial. <Et>али</Et>
 <w myvId="эль">eĺ</w>
 <w myvId="аштят">ašt́at</w>
 <w myvId="?">?</w>
+</x>
 <GeoU xml:lang="myv">Vez</GeoU>
 <sources>
 <book name="I" pg="385"/>
@@ -1899,6 +1907,7 @@ dial. <Et>али</Et>
 <w myvId="эли">eĺi</w>
 <w myvId="золотань">zolotań</w>
 <w myvId="?">?</w>
+</x>
 <GeoU xml:lang="myv">Škud</GeoU>
 <sources>
 <book name="VII" pg="244"/>
@@ -1916,6 +1925,7 @@ dial. <Et>али</Et>
 <w mdfId="алязя">aĺäźä</w>
 <w mdfId="пиксоньзя">ṕiksə̑ńźä</w>
 <w mdfId="?">?</w>
+</x>
 <GeoU xml:lang="mdf">Pičep</GeoU>
 <sources>
 <book name="VIII" pg="284"/>

@@ -16,7 +16,7 @@
 <GeoU xml:lang="mdf">P</GeoU>
 </l_variants>
 </lg>
-<DrvG>(<Cx vl="illative"/>)</DrvG>
+<compg drv="X:X»Qnt" type="Der">(<Cx vl="illative"/>)</compg>
 <mg>
 <Syntax function="Adv"/>
 <tg xml:lang="rus">
@@ -293,7 +293,7 @@
 <GeoU xml:lang="mdf">Sp</GeoU>
 </l_variants>
 </lg>
-<DrvG><DrvT vl="diminutive"/><DrvStCtn><FrCm freeType="analogy" Modification="manus"/><DrvSt><w CyrId="цютькя">ćut́ḱä</w></DrvSt></DrvStCtn></DrvG>
+<compg drv="X:X»Qnt" type="Der"><DrvT vl="diminutive"/><DrvStCtn><FrCm freeType="analogy" Modification="manus"/><DrvSt><w CyrId="цютькя">ćut́ḱä</w></DrvSt></DrvStCtn></compg>
 <mg>
 <tg xml:lang="rus">
 <t>немножечко</t>
@@ -474,7 +474,7 @@
 <GeoU xml:lang="mdf">Pš</GeoU>
 </l_variants>
 </lg>
-<DrvG>(<Cx vl="illative"/>)</DrvG>
+<compg drv="X:X»Qnt" type="Der">(<Cx vl="illative"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">короткое время</t>
@@ -1624,10 +1624,10 @@
 <GeoU xml:lang="mdf">MdJurtk</GeoU>
 </l_variants>
 </lg>
-<DrvG><NxCtn>
+<compg drv="X:X»Qnt" type="Der"><NxCtn>
 <FrCm edit="MK" freeType="questionRelation" Modification="MK"/>
 <Nx vl="plural"/>
-</NxCtn></DrvG>
+</NxCtn></compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">четвёртая пара</t>
@@ -1648,7 +1648,7 @@
 <l_variants>
 <PhnU>
 <w myvId="ниликст">ńiĺikst</w>
-</PhnU><DrvG>(<Nx vl="plural"/>)</DrvG>
+</PhnU><compg drv="X:X»Qnt" type="Der">(<Nx vl="plural"/>)</compg>
 <GeoU xml:lang="myv">Šokša</GeoU>
 </l_variants>
 </lg>
@@ -1965,7 +1965,7 @@
 <w myvId=",">,</w>
 <w myvId="снярос">śńaros</w>
 <w myvId="раштаст">raštast</w>
-<tk3 isa="excl"/></x>
+<w myvId="!">!</w></x>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
 <book name="2" pg="18"/>
@@ -2027,7 +2027,7 @@
 <w myvId="эрьва">eŕva</w>
 <w edit="MK" myvId="кашасынть">kašasi͔ńt́</w>
 <w myvId="ямкскить">jamksḱit́</w>
-<tk3 isa="excl"/></x>
+<w myvId="!">!</w></x>
 <GeoU xml:lang="myv">Petr</GeoU>
 <sources>
 <book name="VIII" pg="80"/>
@@ -2102,7 +2102,7 @@
 <tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="улеза">uĺeza</w>
 <w mdfId="пара">para</w>
-<tk3 isa="excl"/>
+<w mdfId="!">!</w>
 <w edit="MK" mdfId="мезяра">ḿeźa·ra</w>
 <tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="кандыться">kandi͔t́śä</w>
@@ -2114,7 +2114,7 @@
 <tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="улеза">uĺeza</w>
 <w mdfId="пара">para</w>
-<tk3 isa="excl"/></x>
+<w mdfId="!">!</w></x>
 <GeoU xml:lang="mdf" edit="MK">P</GeoU>
 <sources>
 <book name="IV" pg="773"/>
@@ -2134,7 +2134,7 @@
 <w mdfId="-" edit="MK">-</w>
 <w mdfId="ши">ši</w>
 <w mdfId="улеза">uĺəza</w>
-<tk3 isa="excl"/></x>
+<w mdfId="!">!</w></x>
 <GeoU xml:lang="mdf">Katm</GeoU>
 <sources>
 <book name="IV" pg="746"/>
@@ -2152,7 +2152,7 @@
 <w mdfId="пара">para</w>
 <w mdfId="максода">maksə̑da</w>
 <w mdfId="тейнза">t́ejnza</w>
-<tk3 isa="excl"/></x>
+<w mdfId="!">!</w></x>
 <GeoU xml:lang="mdf">Temn</GeoU>
 <sources>
 <book name="VIII" pg="374"/>
@@ -2277,9 +2277,9 @@
 <GeoU xml:lang="mdf">Sel</GeoU>
 </l_variants>
 </lg>
-<DrvG><CxCtn>
+<compg drv="X:X»Qnt" type="Der"><CxCtn>
 <Cx edit="MK" vl="ablative"/>
-</CxCtn></DrvG>
+</CxCtn></compg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -2376,7 +2376,7 @@
 <w myvId=",">,</w>
 <w myvId="сеста">śe·sta</w>
 <w myvId="пурнавуст">purna·vust</w>
-<tk3 isa="excl"/></x>
+<w myvId="!">!</w></x>
 <GeoU xml:lang="myv">Andr</GeoU>
 <sources>
 <book name="VII" pg="400"/>
@@ -2472,9 +2472,9 @@
 <GeoU xml:lang="mdf">MdJurtk</GeoU>
 </l_variants>
 </lg>
-<DrvG><CxCtn>
+<compg drv="X:X»Qnt" type="Der"><CxCtn>
 <Cx edit="MK" vl="translative"/>
-</CxCtn></DrvG>
+</CxCtn></compg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -2600,9 +2600,9 @@
 <GeoU xml:lang="mdf">MdJurtk</GeoU>
 </l_variants>
 </lg>
-<DrvG><CxCtn>
+<compg drv="X:X»Qnt" type="Der"><CxCtn>
 <Cx edit="MK" vl="illative"/>
-</CxCtn></DrvG>
+</CxCtn></compg>
 <SenseGroup>
 <Syntax function="Adv"/>
 <mg>
@@ -2652,7 +2652,7 @@
 <w mdfId=",">,</w>
 <w mdfId="прастшай">praśtša·j</w>
 <w edit="MK" mdfId="сенярс">śeńa·rs</w>
-<tk3 isa="excl"/></x>
+<w mdfId="!">!</w></x>
 <GeoU xml:lang="mdf" edit="MK">P</GeoU>
 <sources>
 <book name="IV" pg="856"/>
@@ -2727,7 +2727,7 @@
 <w myvId="-" edit="MK">-</w>
 <w myvId="чакссынть">čakssi͔nt́</w>
 <w myvId="ямкскитне">jamksḱit́ńe</w>
-<tk3 isa="excl"/></x>
+<w myvId="!">!</w></x>
 <GeoU xml:lang="myv">Petr</GeoU>
 <sources>
 <book name="VIII" pg="104"/>
@@ -3815,7 +3815,7 @@
 <GeoU xml:lang="myv">Mar</GeoU>
 <mini_paradigm>
 <InflCtn>
-<InflTags tag="+Pl+Nom+Indef"/>
+<InflTags msd="+Pl+Nom+Indef"/>
 <Infl>
 <w myvId="эрьва">eŕva</w>
 <w myvId="месть">ḿeśt́</w>

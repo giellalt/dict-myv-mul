@@ -405,11 +405,11 @@
 <w myvId=",">,</w>
 <w myvId="козяв">koźav</w>
 <w edit="MK" myvId="дементей">d́eḿeńt́ej</w>
-<tk3 isa="excl"/>
+<w myvId="!">!</w>
 <w myvId="хайдым">ᵪajdi͔m</w>
 <w myvId="хайдай">ᵪajdaj</w>
 <w myvId="ду">du</w>
-<tk3 isa="excl"/></x>
+<w myvId="!">!</w></x>
 <GeoU xml:lang="myv">Jeg</GeoU>
 <sources>
 <book name="1" pg="106"/>
@@ -525,7 +525,7 @@
 <w myvId="ино">ino</w>
 <w myvId=",">,</w>
 <w myvId="тетей">t́et́ej</w>
-<tk3 isa="excl"/></x>
+<w myvId="!">!</w></x>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
 <book name="2" pg="81"/>
@@ -549,7 +549,7 @@
 <w myvId="но">no</w>
 <w myvId="адя">ad́a</w>
 <w myvId="ино">ino</w>
-<tk3 isa="excl"/></x>
+<w myvId="!">!</w></x>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
 <book name="2" pg="104"/>
@@ -564,7 +564,7 @@
 <w myvId=",">,</w>
 <w myvId="аздо">aźdo</w>
 <w myvId="идинк">id́iŋḱ</w>
-<tk3 isa="excl"/></x>
+<w myvId="!">!</w></x>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
 <book name="2" pg="88"/>
@@ -618,7 +618,7 @@
 <w myvId="нолдымак">noldi͔mak</w>
 <w myvId="утомо">utomo</w>
 <w myvId="алов">alov</w>
-<tk3 isa="excl"/></x>
+<w myvId="!">!</w></x>
 <GeoU xml:lang="myv">NSurk</GeoU>
 <sources>
 <book name="III" pg="311"/>
@@ -675,6 +675,7 @@
 <w mdfId="тевсь">t́e·v́ś</w>
 <w mdfId="тиема">t́ijəma</w>
 <w mdfId="?">?</w>
+</x>
 <GeoU xml:lang="mdf">P</GeoU>
 <xt xml:lang="deu">Wie wäre denn die Arbeit zu machen?</xt>
 </xg>
@@ -742,6 +743,7 @@
 <w mdfId="кода">koda·</w>
 <w mdfId="əна">əna</w>
 <w mdfId="?">?</w>
+</x>
 <GeoU xml:lang="mdf">Sučk</GeoU>
 <sources>
 <book name="IV" pg="842"/>
@@ -1357,7 +1359,7 @@
 <w myvId="-" edit="MK">-</w>
 <w myvId="инязурт">ińazurt</w>
 <w myvId="туимс">tujims</w>
-<tk3 isa="excl"/></x>
+<w myvId="!">!</w></x>
 <x>
 <w myvId="тестэ">t́este͔</w>
 <w myvId="ля">ĺa</w>
@@ -1370,7 +1372,7 @@
 <w myvId="-" edit="MK">-</w>
 <w myvId="инязурт">ińazurt</w>
 <w myvId="туимс">tujims</w>
-<tk3 isa="excl"/></x>
+<w myvId="!">!</w></x>
 <GeoU xml:lang="myv">Kal</GeoU>
 <sources>
 <book name="2" pg="136"/>
@@ -1396,7 +1398,7 @@
 <w myvId="од">od</w>
 <w edit="MK" myvId="сюрус">śurus</w>
 <w myvId="сатуст">satust</w>
-<tk3 isa="excl"/></x>
+<w myvId="!">!</w></x>
 <GeoU xml:lang="myv">Šokša</GeoU>
 <sources>
 <book name="VII" pg="448"/>
@@ -1757,6 +1759,7 @@
 <w myvId="неушто">ńeušto</w>
 <w myvId="печксамам">ṕečksamam</w>
 <w myvId="?">?</w>
+</x>
 <GeoU xml:lang="myv">VVr</GeoU>
 <sources>
 <book name="III" pg="277"/>
@@ -2267,7 +2270,7 @@
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="Pcle"/><st/>
 </lg>
-<DrvG>(<Cx vl="ablative"/>)</DrvG>
+<compg drv="X:X»Pcle" type="Der">(<Cx vl="ablative"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">самый</t>
@@ -2391,7 +2394,7 @@
 <w myvId="эть">et́</w>
 <w myvId="кодамо">kodamo</w>
 <w myvId="ён">jon</w>
-<tk3 isa="excl"/></x>
+<w myvId="!">!</w></x>
 <GeoU xml:lang="myv"/>
 <xt xml:lang="deu">[Ach, es ist doch gut!].</xt>
 </xg>
@@ -3547,7 +3550,7 @@ Tat
 ;
 <xg>
 <InflCtn>
-<InflTags tag="+Ind+Prs+ScSg3"/></InflCtn>
+<InflTags msd="+Ind+Prs+ScSg3"/></InflCtn>
 <x>
 <w CyrId="аш">aš</w>
 </x>
@@ -3629,7 +3632,7 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 <wCtn>
 <w>aš̀əń
 <Px vl="10"/></w>
-</WdCtn>
+</wCtn>
 <w CyrId="ванӑ">vană</w>
 </x>
 <GeoNeed/>
@@ -3641,7 +3644,7 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 <wCtn>
 <w>aš̀əń
 <Px vl="10"/></w>
-</WdCtn>
+</wCtn>
 <w CyrId="ванок">vanə̑k</w>
 </x>
 <GeoNeed/>
@@ -3653,7 +3656,7 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 <wCtn>
 <w>aš̀əń
 <Px vl="10"/></w>
-</WdCtn>
+</wCtn>
 <w CyrId="нильɛ̆">ńiĺɛ̆</w>
 </x>
 <GeoNeed/>
@@ -3665,7 +3668,7 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 <wCtn>
 <w>aš̀əń
 <Px vl="10"/></w>
-</WdCtn>
+</wCtn>
 <w CyrId="нильхть">ńiĺʿt́</w>
 </x>
 <GeoNeed/>
@@ -3677,7 +3680,7 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 <wCtn>
 <w>aš̀ət́
 <Px vl="20"/></w>
-</WdCtn>
+</wCtn>
 <Chc>
 <Vrt>
 <w CyrId="пала">pala</w>
@@ -3696,7 +3699,7 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 <wCtn>
 <w>aš̀ət́
 <Px vl="20"/></w>
-</WdCtn>
+</wCtn>
 <w CyrId="ванӑ">vană</w>
 </x>
 <GeoNeed/>
@@ -3708,7 +3711,7 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 <wCtn>
 <w>aš̀ət́
 <Px vl="20"/></w>
-</WdCtn>
+</wCtn>
 <w CyrId="ванок">vanə̑k</w>
 </x>
 <GeoNeed/>
@@ -3720,7 +3723,7 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 <wCtn>
 <w>aš̀ət́
 <Px vl="20"/></w>
-</WdCtn>
+</wCtn>
 <w CyrId="нильɛ̆">ńiĺɛ̆</w>
 </x>
 <GeoNeed/>
@@ -3732,7 +3735,7 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 <wCtn>
 <w>aš̀ət́
 <Px vl="20"/></w>
-</WdCtn>
+</wCtn>
 <w CyrId="нильхть">ńiĺʿt́</w>
 </x>
 <GeoNeed/>
@@ -3744,7 +3747,7 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 <wCtn>
 <w>aš̀əź
 <Px vl="30"/></w>
-</WdCtn>
+</wCtn>
 <Chc>
 <Vrt>
 <w CyrId="пала">pala</w>
@@ -3763,7 +3766,7 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 <wCtn>
 <w>aš̀əź
 <Px vl="30"/></w>
-</WdCtn>
+</wCtn>
 <w CyrId="ванӑ">vană</w>
 </x>
 <GeoNeed/>
@@ -3775,7 +3778,7 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 <wCtn>
 <w>aš̀əź
 <Px vl="30"/></w>
-</WdCtn>
+</wCtn>
 <w CyrId="ванок">vanə̑k</w>
 </x>
 <GeoNeed/>
@@ -3787,7 +3790,7 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 <wCtn>
 <w>aš̀əź
 <Px vl="30"/></w>
-</WdCtn>
+</wCtn>
 <w CyrId="нильɛ̆">ńiĺɛ̆</w>
 </x>
 <GeoNeed/>
@@ -3799,7 +3802,7 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 <wCtn>
 <w>aš̀əź
 <Px vl="30"/></w>
-</WdCtn>
+</wCtn>
 <w CyrId="нильхть">ńiĺʿt́</w>
 </x>
 <GeoNeed/>
@@ -3811,7 +3814,7 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 <wCtn>
 <w>aš̀əḿɛ̆
 <Px vl="40"/></w>
-</WdCtn>
+</wCtn>
 <Chc>
 <Vrt>
 <w CyrId="пала">pala</w>
@@ -3830,7 +3833,7 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 <wCtn>
 <w>aš̀əḿɛ̆
 <Px vl="40"/></w>
-</WdCtn>
+</wCtn>
 <w CyrId="ванӑ">vană</w>
 </x>
 <GeoNeed/>
@@ -3842,7 +3845,7 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 <wCtn>
 <w>aš̀əḿɛ̆
 <Px vl="40"/></w>
-</WdCtn>
+</wCtn>
 <w CyrId="ванок">vanə̑k</w>
 </x>
 <GeoNeed/>
@@ -3854,7 +3857,7 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 <wCtn>
 <w>aš̀əḿɛ̆
 <Px vl="40"/></w>
-</WdCtn>
+</wCtn>
 <w CyrId="нильɛ̆">ńiĺɛ̆</w>
 </x>
 <GeoNeed/>
@@ -3866,7 +3869,7 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 <wCtn>
 <w>aš̀əḿɛ̆
 <Px vl="40"/></w>
-</WdCtn>
+</wCtn>
 <w CyrId="нильхть">ńiĺʿt́</w>
 </x>
 <GeoNeed/>
@@ -3878,7 +3881,7 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 <wCtn>
 <w>aš̀əd́ɛ̆
 <Px vl="50"/></w>
-</WdCtn>
+</wCtn>
 <Chc>
 <Vrt>
 <w CyrId="пала">pala</w>
@@ -3897,7 +3900,7 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 <wCtn>
 <w>aš̀əd́ɛ̆
 <Px vl="50"/></w>
-</WdCtn>
+</wCtn>
 <w CyrId="ванӑ">vană</w>
 </x>
 <GeoNeed/>
@@ -3909,7 +3912,7 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 <wCtn>
 <w>aš̀əd́ɛ̆
 <Px vl="50"/></w>
-</WdCtn>
+</wCtn>
 <w CyrId="ванок">vanə̑k</w>
 </x>
 <GeoNeed/>
@@ -3921,7 +3924,7 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 <wCtn>
 <w>aš̀əd́ɛ̆
 <Px vl="50"/></w>
-</WdCtn>
+</wCtn>
 <w CyrId="нильɛ̆">ńiĺɛ̆</w>
 </x>
 <GeoNeed/>
@@ -3933,7 +3936,7 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 <wCtn>
 <w>aš̀əd́ɛ̆
 <Px vl="50"/></w>
-</WdCtn>
+</wCtn>
 <w CyrId="нильхть">ńiĺʿt́</w>
 </x>
 <GeoNeed/>
@@ -3945,7 +3948,7 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 <wCtn>
 <w>aš̀əśt́
 <Px vl="60"/></w>
-</WdCtn>
+</wCtn>
 <Chc>
 <Vrt>
 <w CyrId="пала">pala</w>
@@ -3964,7 +3967,7 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 <wCtn>
 <w>aš̀əśt́
 <Px vl="60"/></w>
-</WdCtn>
+</wCtn>
 <w CyrId="ванӑ">vană</w>
 </x>
 <GeoNeed/>
@@ -3976,7 +3979,7 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 <wCtn>
 <w>aš̀əśt́
 <Px vl="60"/></w>
-</WdCtn>
+</wCtn>
 <w CyrId="ванок">vanə̑k</w>
 </x>
 (<lit>Chr</lit>)
@@ -3987,7 +3990,7 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 <wCtn>
 <w>aš̀əśt́
 <Px vl="60"/></w>
-</WdCtn>
+</wCtn>
 <Chc>
 <Vrt>
 <w CyrId="нильɛ̆">ńiĺɛ̆</w>
@@ -4005,7 +4008,7 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 <wCtn>
 <w>ašə̑ń
 <Px vl="10"/></w>
-</WdCtn>
+</wCtn>
 <Chc>
 <Vrt>
 <w CyrId="ёра">jora</w>
@@ -4026,7 +4029,7 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 <wCtn>
 <w>aš̀ə̑majt́
 <Px vl="21"/></w>
-</WdCtn>
+</wCtn>
 <Chc>
 <Vrt>
 <w CyrId="пала">pala</w>
@@ -4045,7 +4048,7 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 <wCtn>
 <w>aš̀ə̑mań
 <Px vl="31"/></w>
-</WdCtn>
+</wCtn>
 <Chc>
 <Vrt>
 <w CyrId="пала">pala</w>
@@ -4064,7 +4067,7 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 <wCtn>
 <w>aš̀ə̑maśt́
 <Px vl="51"/></w>
-</WdCtn>
+</wCtn>
 <Chc>
 <Vrt>
 <w CyrId="пала">pala</w>
@@ -4083,7 +4086,7 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 <wCtn>
 <w>aš̀ə̑maź
 <Px vl="61"/></w>
-</WdCtn>
+</wCtn>
 <Chc>
 <Vrt>
 <w CyrId="пала">pala</w>
@@ -4102,7 +4105,7 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 <wCtn>
 <w>aš̀iᵪ́t́əń
 <Px vl="12"/></w>
-</WdCtn>
+</wCtn>
 <Chc>
 <Vrt>
 <w CyrId="пала">pala</w>
@@ -4121,7 +4124,7 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 <wCtn>
 <w>aš̀iš́t́əń
 <Px vl="12"/></w>
-</WdCtn>
+</wCtn>
 <Chc>
 <Vrt>
 <w CyrId="пала">pala</w>
@@ -4140,7 +4143,7 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 <wCtn>
 <w>aš̀əńźɛ̆
 <Px vl="32"/></w>
-</WdCtn>
+</wCtn>
 <Chc>
 <Vrt>
 <w CyrId="пала">pala</w>
@@ -4160,7 +4163,7 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 <w>aš̀əd́ɛź
 <Px vl="42"/>
 <Px vl="62"/></w>
-</WdCtn>
+</wCtn>
 <Chc>
 <Vrt>
 <w CyrId="пала">pala</w>
@@ -4179,7 +4182,7 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 <wCtn>
 <w>aš̀ińɛ̆
 <Px vl="13"/></w>
-</WdCtn>
+</wCtn>
 <Chc>
 <Vrt>
 <w CyrId="пала">pala</w>
@@ -4198,7 +4201,7 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 <wCtn>
 <w>aš̀ijɛ̆
 <Px vl="13"/></w>
-</WdCtn>
+</wCtn>
 <Chc>
 <Vrt>
 <w CyrId="пала">pala</w>
@@ -4217,7 +4220,7 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 <wCtn>
 <w>aš̀it́
 <Px vl="23"/></w>
-</WdCtn>
+</wCtn>
 <Chc>
 <Vrt>
 <w CyrId="пала">pala</w>
@@ -4236,7 +4239,7 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 <wCtn>
 <w>aš̀əźɛ̆
 <Px vl="33"/></w>
-</WdCtn>
+</wCtn>
 <Chc>
 <Vrt>
 <w CyrId="пала">pala</w>
@@ -4255,7 +4258,7 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 <wCtn>
 <w>aš̀əśḱ
 <Px vl="43"/></w>
-</WdCtn>
+</wCtn>
 <Chc>
 <Vrt>
 <w CyrId="пала">pala</w>
@@ -4274,7 +4277,7 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 <wCtn>
 <w>aš̀əśt́
 <Px vl="53"/></w>
-</WdCtn>
+</wCtn>
 <Chc>
 <Vrt>
 <w CyrId="пала">pala</w>
@@ -4293,7 +4296,7 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 <wCtn>
 <w>aš̀əź
 <Px vl="63"/></w>
-</WdCtn>
+</wCtn>
 <Chc>
 <Vrt>
 <w CyrId="пала">pala</w>
@@ -4313,7 +4316,7 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 <w>aš̀ə̑maśt́
 <Px vl="24"/>
 <Px vl="54"/></w>
-</WdCtn>
+</wCtn>
 <Chc>
 <Vrt>
 <w CyrId="пала">pala</w>
@@ -4333,7 +4336,7 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 <w>aš̀ə̑maź
 <Px vl="34"/>
 <Px vl="64"/></w>
-</WdCtn>
+</wCtn>
 <Chc>
 <Vrt>
 <w CyrId="пала">pala</w>
@@ -4355,7 +4358,7 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 <Px vl="35"/>
 <Px vl="45"/>
 <Px vl="65"/></w>
-</WdCtn>
+</wCtn>
 <Chc>
 <Vrt>
 <w CyrId="пала">pala</w>
@@ -4374,7 +4377,7 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 <wCtn>
 <w>aš̀ińɛ̆
 <Px vl="16"/></w>
-</WdCtn>
+</wCtn>
 <Chc>
 <Vrt>
 <w CyrId="пала">pala</w>
@@ -4393,7 +4396,7 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 <wCtn>
 <w>aš̀it́
 <Px vl="26"/></w>
-</WdCtn>
+</wCtn>
 <Chc>
 <Vrt>
 <w CyrId="пала">pala</w>
@@ -4412,7 +4415,7 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 <wCtn>
 <w>aš̀əźəń
 <Px vl="36"/></w>
-</WdCtn>
+</wCtn>
 <Chc>
 <Vrt>
 <w CyrId="пала">pala</w>
@@ -4431,7 +4434,7 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 <wCtn>
 <w>aš̀ińɛ̆
 <Px vl="46"/></w>
-</WdCtn>
+</wCtn>
 <Chc>
 <Vrt>
 <w CyrId="пала">pala</w>
@@ -4450,7 +4453,7 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 <wCtn>
 <w>aš̀ijəńt́̄
 <Px vl="56"/></w>
-</WdCtn>
+</wCtn>
 <Chc>
 <Vrt>
 <w CyrId="пала">pala</w>
@@ -4469,7 +4472,7 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 <wCtn>
 <w>aš̀əź
 <Px vl="66"/></w>
-</WdCtn>
+</wCtn>
 <Chc>
 <Vrt>
 <w CyrId="пала">pala</w>
@@ -6145,12 +6148,12 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 <Et>
 <wCtn>
 <w CyrId=""/>
-</WdCtn>
+</wCtn>
 <Hph/>
 <w CyrId="ук">uk</w></Et>, <Et>
 <wCtn>
 <w CyrId=""/>
-</WdCtn>
+</wCtn>
 <Hph/>
 <w CyrId="ӱк">ük</w></Et>
 </etymology>
@@ -6429,7 +6432,9 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 <w myvId="пувтасак">puftasak</w>
 <w edit="MK" myvId="мирдеть">ḿiŕd́it́</w>
 <w myvId="пенерьва">ṕeńeŕva</w>
-<w myvId="?">?</w><GeoU xml:lang="myv">Hl</GeoU>
+<w myvId="?">?</w>
+</x>
+<GeoU xml:lang="myv">Hl</GeoU>
 <sources>
 <book name="1" pg="82"/>
 </sources>
@@ -6444,7 +6449,8 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 <w myvId="мон">mon</w>
 <w myvId="а">a</w>
 <w myvId="авардян">avaŕd́an</w>
-<w myvId="?">?</w><GeoU xml:lang="myv">Jeg</GeoU>
+<w myvId="?">?</w>
+</x><GeoU xml:lang="myv">Jeg</GeoU>
 <sources>
 <book name="1" pg="102"/>
 </sources>
@@ -6679,7 +6685,7 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 <w mdfId="мэзьвок">meźvə̑k</w>
 <w mdfId="аф">af</w>
 <w mdfId="тият">t́ija·t</w>
-<tk3 isa="excl"/>
+<w mdfId="!">!</w>
 </x>
 <x>
 <w mdfId="тонга">toŋga</w>
@@ -6687,7 +6693,7 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 <w mdfId="мэзевок">meźəvə̑k</w>
 <w mdfId="аф">af</w>
 <w mdfId="тият">t́ija·t</w>
-<tk3 isa="excl"/>
+<w mdfId="!">!</w>
 </x>
 <GeoU xml:lang="mdf">Pš</GeoU>
 <sources>
@@ -6832,7 +6838,7 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 <w myvId="тон">ton</w>
 <w myvId="ля">ĺa</w>
 <w myvId="дрожак">drožak</w>
-<tk3 isa="excl"/></x>
+<w myvId="!">!</w></x>
 <GeoU xml:lang="myv">Kal</GeoU>
 <sources>
 <book name="2" pg="136"/>
@@ -7083,7 +7089,7 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 <w mdfId=",">,</w>
 <w mdfId="аф">af</w>
 <w mdfId="шватаненди">švatańəńd́i</w>
-<tk3 isa="excl"/></x>
+<w mdfId="!">!</w></x>
 <GeoU xml:lang="mdf">P</GeoU>
 <xt xml:lang="deu">[Macht Böses weder den (? meinen) Menschen noch den (? meinen) Tieren!].</xt>
 </xg>
@@ -7409,7 +7415,7 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 <mini_paradigm>
 <InflCtn>
 <Infl>
-<w tag="+Pl+Nom+Indef" myvId="ирицтыть">i·ŕicti͔t́</w>
+<w msd="+Pl+Nom+Indef" myvId="ирицтыть">i·ŕicti͔t́</w>
 </Infl>
 </InflCtn>
 </mini_paradigm>
@@ -8447,7 +8453,7 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l/><st/>
 </lg>
-<DrvG>(<DrvT vl="diminutive"/><Cx vl="illative"/>)</DrvG>
+<compg drv="X:X»Pcle" type="Der">(<DrvT vl="diminutive"/><Cx vl="illative"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">недолго</t>
@@ -8515,7 +8521,7 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 <w myvId="а">a</w>
 <w myvId="ламо">lamo</w>
 <w myvId="кортак">kortak</w>
-<tk3 isa="excl"/></x>
+<w myvId="!">!</w></x>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
 <book name="2" pg="75"/>
@@ -8617,6 +8623,7 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 <w myvId="васттанок">vasttanok</w>
 <w myvId="ней">ńej</w>
 <w myvId="?">?</w>
+</x>
 <GeoU xml:lang="myv">Sob</GeoU>
 <sources>
 <book name="VII" pg="254"/>
@@ -9454,7 +9461,7 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 <w myvId="апак">apak</w>
 <w myvId="вельтя">v́eĺt́a</w>
 <w myvId="латонень">latońeń</w>
-<tk3 isa="excl"/></x>
+<w myvId="!">!</w></x>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
 <book name="1" pg="148"/>
@@ -9503,6 +9510,7 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 <w myvId="тосо">toso</w>
 <w myvId="сон">son</w>
 <w myvId="?">?</w>
+</x>
 <GeoU xml:lang="myv">Atr</GeoU>
 <xt xml:lang="deu">Ist er denn dort?</xt>
 </xg>
@@ -9671,6 +9679,7 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 <w myvId="миненек">ḿińeńeḱ</w>
 <w myvId="лисемс">ĺiśems</w>
 <w myvId="?">?</w>
+</x>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
 <book name="2" pg="105"/>
@@ -9689,7 +9698,7 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 <w myvId="покш">pokš</w>
 <w myvId="ки">ḱi</w>
 <w myvId="лангс">laŋks</w>
-<tk3 isa="excl"/></x>
+<w myvId="!">!</w></x>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
 <book name="2" pg="93"/>
@@ -10498,6 +10507,7 @@ Volksd. gebraucht wird, <Cm>? = russ. <FrnTxt xml:lang="rus">да</FrnTxt></Cm>]
 <w mdfId="улийхть">uĺijᵪ́t́</w>
 <w mdfId="гостенетьсня">gośt́eńet́śńä</w>
 <w mdfId="?">?</w>
+</x>
 <GeoU xml:lang="mdf">Atjur</GeoU>
 <xt xml:lang="deu">Du hast wohl Gastgeschenke?</xt>
 </xg>
@@ -10644,7 +10654,7 @@ Volksd. gebraucht wird, <Cm>? = russ. <FrnTxt xml:lang="rus">да</FrnTxt></Cm>]
 <GeoU xml:lang="mdf">Atjur</GeoU>
 <mini_paradigm>
 <InflCtn>
-<Infl><w tag="+Pl+Nom+Indef" mdfId="карань">karań</w>
+<Infl><w msd="+Pl+Nom+Indef" mdfId="карань">karań</w>
 <w mdfId="-">-</w>
 <w mdfId="каршэкт">karš́ekt</w>
 </Infl>
@@ -11333,6 +11343,7 @@ Volksd. gebraucht wird, <Cm>? = russ. <FrnTxt xml:lang="rus">да</FrnTxt></Cm>]
 <w myvId="коть">kot́</w>
 <w myvId="чумбрат">čumbrat</w>
 <w myvId="?">?</w>
+</x>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
 <book name="2" pg="121"/>
@@ -11363,7 +11374,7 @@ Volksd. gebraucht wird, <Cm>? = russ. <FrnTxt xml:lang="rus">да</FrnTxt></Cm>]
 <w myvId="сынст">si͔nst</w>
 <w myvId="сэнь">se͔ń</w>
 <w myvId="качамнест">kačamńest</w>
-<tk3 isa="excl"/></x>
+<w myvId="!">!</w></x>
 <GeoU xml:lang="myv">Škud</GeoU>
 <sources>
 <book name="VII" pg="246"/>
@@ -11571,7 +11582,7 @@ Volksd. gebraucht wird, <Cm>? = russ. <FrnTxt xml:lang="rus">да</FrnTxt></Cm>]
 <w myvId="коть">kot́</w>
 <w myvId="кода">koda</w>
 <w myvId="ракак">rakak</w>
-<tk3 isa="excl"/></x>
+<w myvId="!">!</w></x>
 <GeoU xml:lang="myv">VVr</GeoU>
 <xt xml:lang="deu">[Lache nun, wie immer du willst!].</xt>
 </xg>
@@ -11674,7 +11685,7 @@ Volksd. gebraucht wird, <Cm>? = russ. <FrnTxt xml:lang="rus">да</FrnTxt></Cm>]
 <GeoU xml:lang="mdf">Pal</GeoU>
 </l_variants>
 </lg>
-<DrvG>[<comment/><DrvStCtn><DrvSt><w CyrId="куть">kut́</w></DrvSt></DrvStCtn><fnct>+</fnct><DrvStCtn><DrvSt><w CyrId="и">i</w></DrvSt></DrvStCtn>]</DrvG>
+<compg drv="X:X»Pcle" type="Der">[<comment/><DrvStCtn><DrvSt><w CyrId="куть">kut́</w></DrvSt></DrvStCtn><fnct>+</fnct><DrvStCtn><DrvSt><w CyrId="и">i</w></DrvSt></DrvStCtn>]</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">хотя</t>
@@ -11858,7 +11869,7 @@ Volksd. gebraucht wird, <Cm>? = russ. <FrnTxt xml:lang="rus">да</FrnTxt></Cm>]
 <GeoU xml:lang="mdf">P</GeoU>
 </l_variants>
 </lg>
-<DrvG>[<comment/><DrvStCtn><DrvSt><w CyrId="хуш">ᵪuš</w></DrvSt></DrvStCtn><fnct>+</fnct><DrvStCtn><DrvSt><w CyrId="и">i</w></DrvSt></DrvStCtn>]</DrvG>
+<compg drv="X:X»Pcle" type="Der">[<comment/><DrvStCtn><DrvSt><w CyrId="хуш">ᵪuš</w></DrvSt></DrvStCtn><fnct>+</fnct><DrvStCtn><DrvSt><w CyrId="и">i</w></DrvSt></DrvStCtn>]</compg>
 <mg>
 <tg xml:lang="rus">
 <t>хотя</t>
@@ -12150,6 +12161,7 @@ Volksd. gebraucht wird, <Cm>? = russ. <FrnTxt xml:lang="rus">да</FrnTxt></Cm>]
 <w myvId="ли">ĺi</w>
 <w myvId="ярмак">jarmak</w>
 <w myvId="?">?</w>
+</x>
 <GeoU xml:lang="myv">NSurk</GeoU>
 <sources>
 <book name="III" pg="330"/>
@@ -12181,6 +12193,7 @@ Volksd. gebraucht wird, <Cm>? = russ. <FrnTxt xml:lang="rus">да</FrnTxt></Cm>]
 <w mdfId="содасасть">sodasaśt́</w>
 <w edit="MK" mdfId="əли">əĺi</w>
 <w mdfId="?">?</w>
+</x>
 <GeoU xml:lang="mdf">Sel</GeoU>
 <sources>
 <book name="IV" pg="827"/>
@@ -12313,7 +12326,7 @@ Volksd. gebraucht wird, <Cm>? = russ. <FrnTxt xml:lang="rus">да</FrnTxt></Cm>]
 <w myvId="начку">načku</w>
 <w myvId="тумунь">tumuń</w>
 <w myvId="костирхнынь">kośt́irʿni͔ń</w>
-<tk3 isa="excl"/></x>
+<w myvId="!">!</w></x>
 <GeoU xml:lang="myv">Kal</GeoU>
 <sources>
 <book name="2" pg="137"/>
@@ -12476,6 +12489,7 @@ Volksd. gebraucht wird, <Cm>? = russ. <FrnTxt xml:lang="rus">да</FrnTxt></Cm>]
 <w mdfId="разе">raźə</w>
 <w mdfId="моли">moĺi</w>
 <w mdfId="?">?</w>
+</x>
 <GeoU xml:lang="mdf">P</GeoU>
 <xt xml:lang="deu">Geht er denn?</xt>
 </xg>
@@ -12543,7 +12557,7 @@ Volksd. gebraucht wird, <Cm>? = russ. <FrnTxt xml:lang="rus">да</FrnTxt></Cm>]
 <GeoU xml:lang="mdf">P</GeoU>
 </l_variants>
 </lg>
-<DrvG>(<Cx vl="ablative"/>)</DrvG>
+<compg drv="X:X»Pcle" type="Der">(<Cx vl="ablative"/>)</compg>
 <SenseGroup>
 <mg>
 <TrlnCtn>
@@ -12652,7 +12666,7 @@ Volksd. gebraucht wird, <Cm>? = russ. <FrnTxt xml:lang="rus">да</FrnTxt></Cm>]
 <w myvId="-" edit="MK">-</w>
 <w myvId="тикше">t́ikše͔</w>
 <w myvId="улезэ">uĺeze͔</w>
-<tk3 isa="excl"/></x>
+<w myvId="!">!</w></x>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
 <book name="1" pg="208"/>
@@ -12718,7 +12732,7 @@ Volksd. gebraucht wird, <Cm>? = russ. <FrnTxt xml:lang="rus">да</FrnTxt></Cm>]
 <w myvId=",">,</w>
 <w myvId="се">śe</w>
 <w myvId="сэвима">se͔v́ima</w>
-<tk3 isa="excl"/></x>
+<w myvId="!">!</w></x>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
 <book name="2" pg="101"/>
@@ -13001,6 +13015,7 @@ ChrM
 <w mdfId=",">,</w>
 <w mdfId="ёжə̑нятнень">jožə̑ńät́ńeń</w>
 <w mdfId="?">?</w>
+</x>
 <GeoU xml:lang="mdf">Temn</GeoU>
 <sources>
 <book name="VIII" pg="348"/>
@@ -13241,7 +13256,7 @@ ChrM
 <w myvId="седе">śed́e</w>
 <w myvId="пек">ṕeḱ</w>
 <w myvId="вант">vant</w>
-<tk3 isa="excl"/></x>
+<w myvId="!">!</w></x>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
 <book name="2" pg="74"/>
@@ -13638,7 +13653,7 @@ ChrM
 <w myvId="вадринесь">vadŕińeś</w>
 <w myvId="тонеть">tońet́</w>
 <w myvId="улезэ">uĺeze͔</w>
-<tk3 isa="excl"/></x>
+<w myvId="!">!</w></x>
 <GeoU xml:lang="myv">Kočk</GeoU>
 <sources>
 <book name="VII" pg="62"/>
@@ -13913,6 +13928,7 @@ ChrM
 <w myvId="ды">di͔</w>
 <w myvId="киштиван">ḱišt́ivan</w>
 <w myvId="?">?</w>
+</x>
 <GeoU xml:lang="myv">NSurk</GeoU>
 <sources>
 <book name="III" pg="331"/>
@@ -13981,6 +13997,7 @@ ChrM
 <w mdfId="мон">mon</w>
 <w mdfId="сокə̑ран">sokə̑ran</w>
 <w mdfId="?">?</w>
+</x>
 <GeoU xml:lang="mdf">P</GeoU>
 <xt xml:lang="deu">Pš Bin ich denn blind?</xt>
 </xg>

@@ -15,7 +15,7 @@
 <mini_paradigm>
 <InflCtn>
 <Infl>
-<w tag="+SP+Gen+Indef" myvId="алцень">alćeń</w>
+<w msd="+SP+Gen+Indef" myvId="алцень">alćeń</w>
 </Infl>
 </InflCtn>
 </mini_paradigm>
@@ -209,7 +209,7 @@
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l/><st/>
 </lg>
-<DrvG>(<Cx vl="ablative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="ablative"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">в девятый раз</t>
@@ -375,8 +375,10 @@
 <x>
 <w myvId="зяроцесат">źaroćesat</w>
 <w myvId="?">?</w>
+</x>
 <GeoU xml:lang="myv">Mar</GeoU>
-<xt xml:lang="deu">Večk In welchem (Im wievielten) Lebensjahre bist du?</xt>
+<GeoU xml:lang="myv">Večk</GeoU>
+<xt xml:lang="deu">In welchem (Im wievielten) Lebensjahre bist du?</xt>
 </xg>
 <xg>
 <x>
@@ -384,6 +386,7 @@
 <w mdfId="тонь">toń</w>
 <w mdfId="сёраця">śoraćä</w>
 <w mdfId="?">?</w>
+</x>
 <GeoU xml:lang="mdf">P</GeoU>
 <xt xml:lang="deu">Im wievielten Lebensjahre ist dein Sohn?</xt>
 </xg>
@@ -1614,7 +1617,7 @@
 <GeoU xml:lang="mdf"/>
 </l_variants>
 </lg>
-<DrvG>(<Cx vl="ablative"/>)</DrvG>
+<compg drv="X:X»Det" type="Der">(<Cx vl="ablative"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">в четвёртый раз</t>
@@ -1704,7 +1707,7 @@
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l/><st/>
 </lg>
-<DrvG>[<comment/><DrvStCtn><DrvSt><w CyrId="то">to</w></DrvSt></DrvStCtn><fnct>+</fnct><DrvStCtn><DrvSt><w CyrId="ва!">va!</w></DrvSt></DrvStCtn><fnct>+</fnct><DrvStCtn><DrvSt><w CyrId="то">to</w></DrvSt></DrvStCtn>]</DrvG>
+<compg drv="X:X»Det" type="Der">[<comment/><DrvStCtn><DrvSt><w CyrId="то">to</w></DrvSt></DrvStCtn><fnct>+</fnct><DrvStCtn><DrvSt><w CyrId="ва!">va!</w></DrvSt></DrvStCtn><fnct>+</fnct><DrvStCtn><DrvSt><w CyrId="то">to</w></DrvSt></DrvStCtn>]</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">тот</t>
@@ -1984,7 +1987,7 @@
 <w myvId="киса">ḱisa</w>
 <w myvId="повоттядызь">povot́t́adi͔ź</w>
 <w myvId="кельда">ḱeĺda</w>
-<tk3 isa="excl"/></x>
+<w myvId="!">!</w></x>
 <GeoU xml:lang="myv">Petr</GeoU>
 <sources>
 <book name="VIII" pg="174"/>
@@ -2276,7 +2279,7 @@
 <mini_paradigm>
 <InflCtn>
 <Infl>
-<w tag="+Pl+Nom+Indef" mdfId="уталсеть">uta·lśet́</w>
+<w msd="+Pl+Nom+Indef" mdfId="уталсеть">uta·lśet́</w>
 </Infl>
 </InflCtn>
 </mini_paradigm>
@@ -2757,9 +2760,9 @@
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="Num"/><st/>
 </lg>
-<DrvG><NxCtn>
+<compg drv="X:X»Det" type="Der"><NxCtn>
 <Nx edit="MK" vl="plural"/>
-</NxCtn></DrvG>
+</NxCtn></compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">? в другой раз</t>

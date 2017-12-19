@@ -776,7 +776,7 @@
 <w myvId="кода">koda</w>
 <w myvId="туи">tuji</w>
 <w myvId="ардозь">ardoź</w>
-<tk3 isa="excl"/></x>
+<w myvId="!">!</w></x>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
 <book name="2" pg="116"/>
@@ -902,7 +902,8 @@
 <w mdfId=",">,</w>
 <w mdfId="кядь">ḱäd́</w>
 <w mdfId="вяжедезь">v́äžed́eź</w>
-<tk3 isa="excl"/></x>
+<w mdfId="!">!</w>
+</x>
 <GeoU xml:lang="mdf">Kiš</GeoU>
 <sources>
 <book name="VIII" pg="414"/>
@@ -1186,6 +1187,7 @@
 <w myvId="радовазь">raduvaź</w>
 <w myvId="саимим">saiḿim</w>
 <w myvId="?">?</w>
+</x>
 <GeoU xml:lang="myv">Večk</GeoU>
 <sources>
 <book name="II" pg="178"/>

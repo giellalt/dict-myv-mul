@@ -736,7 +736,7 @@
 <GeoU xml:lang="mdf">Sel</GeoU>
 </l_variants>
 </lg>
-<DrvG>[(<isa>? Part</isa>)</DrvG>
+<compg drv="X:X»VGen" type="Der">[(<isa>? Part</isa>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t>? обнажённый</t>
@@ -1157,7 +1157,7 @@
 <w mdfId="прят">pŕat</w>
 <vrs1 status="od">pŕäńat
 </vrs1>
-</WdCtn>
+</wCtn>
 </PhnU>
 <GeoU xml:lang="mdf">P</GeoU>
 <GeoU xml:lang="mdf">Pš</GeoU>
@@ -1698,6 +1698,7 @@
 <w myvId="-" edit="MK">-</w>
 <w myvId="салот">salot</w>
 <w myvId="?">?</w>
+</x>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
 <book name="1" pg="174"/>
@@ -2197,7 +2198,7 @@
 <wCtn>
 <w>
 <Hph/>ń</w>
-</WdCtn></tk2></i>]</DerivationBlock>
+</wCtn></tk2></i>]</DerivationBlock>
 <mg copiedFrom="preceding">
 <tg xml:lang="rus">
 <t edit="MK">сельский (ночной) сторож</t>
@@ -3541,7 +3542,7 @@
 <w myvId="копачань">kopačań</w>
 <w myvId="прянь">ṕŕäń</w>
 <w myvId="совамдо">sovamdo</w>
-<tk3 isa="excl"/></x>
+<w myvId="!">!</w></x>
 <GeoU xml:lang="myv">Gor</GeoU>
 <sources>
 <book name="VII" pg="110"/>
@@ -4096,11 +4097,11 @@
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="VGen"/><st/>
 </lg>
-<DrvG>(<isa>Part</isa>
+<compg drv="X:X»VGen" type="Der">(<isa>Part</isa>
 <stem><FrCm freeType="analogy" Modification="manus"/><i><tk2>
 <w CyrId="лукштямс">lukšt́ams</w></tk2></i></stem>
 <stem><FrCm freeType="analogy" Modification="manus"/><i><tk2>
-<w CyrId="люкштямс">ĺukšt́ams</w></tk2></i></stem>)</DrvG>
+<w CyrId="люкштямс">ĺukšt́ams</w></tk2></i></stem>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">качающийся</t>
@@ -4337,7 +4338,7 @@
 <w myvId="люкштядень">ĺukšt́ad́eń</w>
 <w myvId="коморт">komort</w>
 <w myvId="шачозо">šačozo</w>
-<tk3 isa="excl"/></x>
+<w myvId="!">!</w></x>
 <GeoU xml:lang="myv">Bag</GeoU>
 <sources>
 <book name="VI" pg="108"/>
@@ -4466,7 +4467,7 @@
 <w myvId=",">,</w>
 <w myvId="люкшчадинь">ĺukščad́iń</w>
 <w myvId="лавське">lavśḱe</w>
-<tk3 isa="excl"/></x>
+<w myvId="!">!</w></x>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
 <book name="1" pg="4"/>
@@ -4963,7 +4964,7 @@
 <w myvId="авань">avań</w>
 <w myvId="матрань">matrań</w>
 <w myvId="теланзо">t́elanzo</w>
-<tk3 isa="excl"/></x>
+<w myvId="!">!</w></x>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
 <book name="1" pg="202"/>
@@ -5621,7 +5622,7 @@
 <w mdfId="нолдань">noldań</w>
 <w mdfId="нярьхть">ńäŕʿt́</w>
 </PhnU>
-<DrvG>(<Nx vl="plural"/>)</DrvG>
+<compg drv="X:X»VGen" type="Der">(<Nx vl="plural"/>)</compg>
 <GeoU xml:lang="mdf">Pičep</GeoU>
 </l_variants>
 </lg>
@@ -5955,7 +5956,7 @@
 <w myvId="витик">v́it́iḱ</w>
 <w myvId="нучкань">nučkań</w>
 <w myvId="седейнеть">śed́ejńet́</w>
-<tk3 isa="excl"/></x>
+<w myvId="!">!</w></x>
 <GeoU xml:lang="myv">Vez</GeoU>
 <sources>
 <book name="III" pg="35"/>
@@ -6151,6 +6152,7 @@
 <w myvId="-" edit="MK">-</w>
 <w myvId="салот">salot</w>
 <w myvId="?">?</w>
+</x>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
 <book name="1" pg="174"/>
@@ -6581,6 +6583,7 @@
 <w myvId="прят">pŕat</w>
 <w myvId="аштитятк">ašt́it́atk</w>
 <w myvId="?">?</w>
+</x>
 <GeoU xml:lang="myv">VVr</GeoU>
 <sources>
 <book name="II" pg="405"/>
@@ -6670,6 +6673,7 @@
 <w myvId="сэрем">se͔ŕem</w>
 <w myvId="варштамо">varštamo</w>
 <w myvId="?">?</w>
+</x>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
 <book name="1" pg="156"/>
@@ -6826,7 +6830,7 @@
 <w myvId="пой">poj</w>
 <w myvId="-" edit="MK">-</w>
 <w myvId="чувтокс">čuvtoks</w>
-<tk3 isa="excl"/></x>
+<w myvId="!">!</w></x>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
 <book name="1" pg="182"/>
@@ -7164,7 +7168,7 @@
 <w myvId="паз">paz</w>
 <w myvId="-" edit="MK">-</w>
 <w myvId="аванть">avańt́</w>
-<tk3 isa="excl"/></x>
+<w myvId="!">!</w></x>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
 <book name="1" pg="186"/>
@@ -7503,6 +7507,7 @@
 <w myvId="содонь">sodoń</w>
 <w myvId="сукатнень">sukat́ńeń</w>
 <w myvId="?">?</w>
+</x>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
 <book name="1" pg="192"/>
@@ -8644,6 +8649,7 @@ Fällen wie <i><tk2>
 <w edit="MK" myvId="месть">ḿeśt́</w>
 <w myvId="тейни">t́ejńi</w>
 <w myvId="?">?</w>
+</x>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
 <book name="1" pg="14"/>
@@ -9218,7 +9224,7 @@ Fällen wie <i><tk2>
 <w myvId="четянь">če͔t́äń</w>
 <w myvId="ойминк">ojḿiŋḱ</w>
 <w myvId="ляцтинк">ĺäćt́iŋḱ</w>
-<tk3 isa="excl"/></x>
+<w myvId="!">!</w></x>
 <GeoU xml:lang="myv">Hl</GeoU>
 <sources>
 <book name="2" pg="22"/>
@@ -9602,9 +9608,10 @@ Fällen wie <i><tk2>
 <x>
 <w myvId="шкининь">šḱińiń</w>
 <w myvId="аванок">avanok</w>
-<w edit="MK" myvId="месть">ḿeśt́</w>
+<w edit="MK" myvId="мезть">ḿeśt́</w>
 <w myvId="тейни">t́ejńi</w>
 <w myvId="?">?</w>
+</x>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
 <book name="1" pg="14"/>
@@ -9613,7 +9620,7 @@ Fällen wie <i><tk2>
 </xg>
 <xg>
 <x>
-<w myvId="шкининь">šḱińiń</w>
+<w myvId="шкинень">šḱińiń</w>
 <w myvId="авазо">avazo</w>
 <w myvId="чавизе">čav́iźe</w>
 </x>
@@ -9626,9 +9633,9 @@ Fällen wie <i><tk2>
 <xg>
 <x>
 <w myvId="азёка">aźoka</w>
-<w myvId="шкининь">šḱińiń</w>
+<w myvId="шкинень">šḱińiń</w>
 <w myvId="аванень">avańeń</w>
-<tk3 isa="excl"/></x>
+<w myvId="!">!</w></x>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
 <book name="1" pg="56"/>
@@ -9638,8 +9645,8 @@ Fällen wie <i><tk2>
 <xg>
 <x>
 <w myvId="авардян">avaŕd́an</w>
-<w myvId="шкининь">šḱińiń</w>
-<w myvId="авадум">avadum</w>
+<w myvId="шкинень">šḱińiń</w>
+<w myvId="авадон">avadum</w>
 </x>
 <GeoU xml:lang="myv">Hl</GeoU>
 <sources>
@@ -9651,8 +9658,8 @@ Fällen wie <i><tk2>
 <x>
 <w myvId="арась">ara·ś</w>
 <w myvId="монь">moń</w>
-<w myvId="шкининь">šḱińi·ń</w>
-<w myvId="тятиньᴉм">t́ät́i·ńᴉm</w>
+<w myvId="шкинень">šḱińi·ń</w>
+<w myvId="тятинем">t́ät́i·ńᴉm</w>
 </x>
 <GeoU xml:lang="myv">Gol</GeoU>
 <sources>
@@ -9695,7 +9702,7 @@ Fällen wie <i><tk2>
 <GeoU xml:lang="mdf">Bar</GeoU>
 </l_variants>
 </lg>
-<DrvG>[<DrvStCtn><DrvSt><w CyrId="шки">šḱi</w></DrvSt></DrvStCtn>,<DrvStCtn><DrvSt><w CyrId="шкай">škaj</w></DrvSt></DrvStCtn><fnct>+</fnct>
+<compg drv="X:X»VGen" type="Der">[<DrvStCtn><DrvSt><w CyrId="шки">šḱi</w></DrvSt></DrvStCtn>,<DrvStCtn><DrvSt><w CyrId="шкай">škaj</w></DrvSt></DrvStCtn><fnct>+</fnct>
 <stem><i>
 <tk2>
 <Hph/>
@@ -9707,10 +9714,10 @@ Fällen wie <i><tk2>
 <wCtn>
 <w>
 <Hph/>ń</w>
-</WdCtn></tk2></i></CapI> von Verbind. wie <CapI>
+</wCtn></tk2></i></CapI> von Verbind. wie <CapI>
 <i><tk2>
 <w CyrId="шки(нь)">šḱi(ń)</w>
-<w CyrId="ава">ava</w></tk2></i></CapI>)]</Cm></DrvG>
+<w CyrId="ава">ava</w></tk2></i></CapI>)]</Cm></compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">родившая</t>
@@ -9748,7 +9755,7 @@ Fällen wie <i><tk2>
 <x>
 <w mdfId="шкаень">škajeń</w>
 <w mdfId="дядянцто">d́äd́anctə̑</w>
-<w mdfId="васю">vaśu</w>
+<w mdfId="Васю">vaśu</w>
 <w mdfId="пенендай">ṕeńendaj</w>
 </x>
 <GeoU xml:lang="mdf">Bar</GeoU>
@@ -9844,8 +9851,8 @@ Fällen wie <i><tk2>
 <x>
 <w myvId="монь">moń</w>
 <w myvId="арась">ara·ś</w>
-<w myvId="ишкинь">išḱiń</w>
-<w myvId="авиŋгим">a·v́iŋ́ǵiḿ</w>
+<w myvId="шкинь">išḱiń</w>
+<w myvId="авинем">a·v́iŋ́ǵiḿ</w>
 </x>
 <GeoU xml:lang="myv">Šir</GeoU>
 <sources>
@@ -9856,7 +9863,7 @@ Fällen wie <i><tk2>
 <xg>
 <x>
 <w myvId="мон">mon</w>
-<w myvId="ауль">au·ĺ</w>
+<w myvId="аволь">au·ĺ</w>
 <w myvId="простой">prosto·j</w>
 <w myvId="тятькань">t́ät́ka·ń</w>
 <w myvId="шкинь">šḱiń</w>
@@ -9884,8 +9891,8 @@ Fällen wie <i><tk2>
 <w myvId="-">-</w>
 <w myvId="тринь">tŕiń</w>
 <w myvId="авасто">avasto</w>
-<w myvId="анё">ańo</w>
-<w myvId="скамнензэ">skamńenᴣe͔</w>
+<w myvId="Анё">ańo</w>
+<w myvId="ськамнензэ">skamńenᴣe͔</w>
 </x>
 <GeoU xml:lang="myv">Večk</GeoU>
 <xt xml:lang="deu">Anjo ist ihrer lieben Mutter einziges (Kind).</xt>
@@ -9955,7 +9962,7 @@ Fällen wie <i><tk2>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="VGen"/><st/>
 </lg>
-<DrvG><DrvTCtn><DrvT edit="MK" vl="Verbal-Adj"/></DrvTCtn>[<DrvStCtn><DrvSt><w CyrId="ёмавтомс">jomavtoms</w></DrvSt></DrvStCtn>]</DrvG>
+<compg drv="X:X»VGen" type="Der"><DrvTCtn><DrvT edit="MK" vl="Verbal-Adj"/></DrvTCtn>[<DrvStCtn><DrvSt><w CyrId="ёмавтомс">jomavtoms</w></DrvSt></DrvStCtn>]</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">потерянный</t>

@@ -17,7 +17,7 @@
 <GeoU xml:lang="mdf" edit="MK">Mam</GeoU>
 </l_variants>
 </lg>
-<DrvG>(<comment/><DrvStCtn><DrvSt><w CyrId="кать">kat́</w></DrvSt></DrvStCtn><fnct>+</fnct><DrvStCtn><DrvSt><w CyrId="и">i</w></DrvSt></DrvStCtn>)</DrvG>
+<compg drv="X:X»CS" type="Der">(<comment/><DrvStCtn><DrvSt><w CyrId="кать">kat́</w></DrvSt></DrvStCtn><fnct>+</fnct><DrvStCtn><DrvSt><w CyrId="и">i</w></DrvSt></DrvStCtn>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">хотя и</t>
@@ -307,9 +307,9 @@
 <GeoU xml:lang="mdf" edit="MK">P</GeoU>
 </l_variants>
 </lg>
-<DrvG><CxCtn>
+<compg drv="X:X»CS" type="Der"><CxCtn>
 <Cx edit="MK" vl="illative"/>
-</CxCtn></DrvG>
+</CxCtn></compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">куда-нибудь</t>
@@ -767,13 +767,13 @@
 <GeoU xml:lang="mdf">Pš</GeoU>
 <mini_paradigm>
 <InflCtn>
-<InflTags tag="+SP+Gen+Indef"/>
+<InflTags msd="+SP+Gen+Indef"/>
 <Infl><w mdfId="ёт">jot</w>
 <w mdfId="мелян">ḿeĺän</w>
 </Infl>
 </InflCtn>,
 <InflCtn>
-<InflTags tag="+SP+Abl+Indef"/>
+<InflTags msd="+SP+Abl+Indef"/>
 <Infl>
 <w mdfId="меляда">ḿeĺada</w>
 </Infl>
@@ -911,7 +911,7 @@ dschag. <Et>
 <w myvId=",">,</w>
 <w myvId="тейть">t́ejt́</w>
 <w myvId="кудо">kudo</w>
-<tk3 isa="excl"/></x>
+<w myvId="!">!</w></x>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
 <book name="2" pg="115"/>
@@ -1184,10 +1184,10 @@ dschag. <Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="CS"/><st/>
 </lg>
-<DrvG><CxCtn>
+<compg drv="X:X»CS" type="Der"><CxCtn>
 <FrCm edit="MK" freeType="questionRelation" Modification="MK"/>
 <Cx vl="translative"/>
-</CxCtn></DrvG>
+</CxCtn></compg>
 <mg copiedFrom="preceding">
 <tg xml:lang="rus">
 <t edit="MK">если</t>
@@ -1209,7 +1209,7 @@ dschag. <Et>
 <w myvId="патей">pat́ej</w>
 <w myvId=",">,</w>
 <w myvId="карчонок">karčonok</w>
-<tk3 isa="excl"/></x>
+<w myvId="!">!</w></x>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
 <book name="1" pg="114"/>
@@ -1816,6 +1816,7 @@ dschag. <Et>
 <w myvId="минек">ḿińek</w>
 <w myvId="тетямок">t́et́amok</w>
 <w myvId="?">?</w>
+</x>
 <GeoU xml:lang="myv">SŠant</GeoU>
 <sources>
 <book name="II" pg="100"/>
@@ -1834,6 +1835,7 @@ dschag. <Et>
 <w myvId="а">a</w>
 <w myvId="чумурдан">čumurdan</w>
 <w myvId="?">?</w>
+</x>
 <GeoU xml:lang="myv">Hl</GeoU>
 <sources>
 <book name="1" pg="80"/>
@@ -1984,6 +1986,7 @@ dschag. <Et>
 <w myvId="а">a</w>
 <w myvId="сат">sat</w>
 <w myvId="?">?</w>
+</x>
 <GeoU xml:lang="myv">VVr</GeoU>
 <xt xml:lang="deu">Wie lange wirst du nicht kommen?</xt>
 </xg>
@@ -2297,7 +2300,7 @@ dschag. <Et>
 <w myvId=",">,</w>
 <w myvId="вешник">v́ešńiḱ</w>
 <w myvId="штоба">štoba</w>
-<tk3 isa="excl"/></x>
+<w myvId="!">!</w></x>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
 <book name="2" pg="3"/>
@@ -2408,11 +2411,11 @@ dschag. <Et>
 <xg>
 <x>
 <w myvId="ну">nu</w>
-<w myvId="ино">ino</w>
+<w myvId="эно">ino</w>
 <w myvId="совак">sovak</w>
 <w myvId=",">,</w>
 <w myvId="штоли">štoĺi</w>
-<tk3 isa="excl"/></x>
+<w myvId="!">!</w></x>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
 <book name="2" pg="116"/>

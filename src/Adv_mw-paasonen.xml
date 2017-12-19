@@ -1348,6 +1348,7 @@ Tat., tschuw
 <w myvId="-" edit="MK">-</w>
 <w myvId="масторысь">mastori͔ś</w>
 <w myvId="?">?</w>
+</x>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
 <book name="1" pg="36"/>
@@ -1377,6 +1378,7 @@ Tat., tschuw
 <w myvId="сука">suka</w>
 <w myvId="палага">palaga</w>
 <w myvId="?">?</w>
+</x>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
 <book name="1" pg="18"/>
@@ -1392,7 +1394,7 @@ Tat., tschuw
 <w myvId=",">,</w>
 <w myvId="пек">ṕeḱ</w>
 <w myvId="ламова">lamova</w>
-<tk3 isa="excl"/></x>
+<w myvId="!">!</w></x>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
 <book name="1" pg="18"/>
@@ -1420,7 +1422,7 @@ Tat., tschuw
 <w myvId="пек">ṕeḱ</w>
 <w myvId="иля">iĺa</w>
 <w myvId="моле">moĺe</w>
-<tk3 isa="excl"/></x>
+<w myvId="!">!</w></x>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
 <book name="2" pg="122"/>
@@ -1530,6 +1532,7 @@ Tat., tschuw
 <w myvId="сире">śiŕä</w>
 <w myvId="дракинась">draḱinaś</w>
 <w myvId="?">?</w>
+</x>
 <GeoU xml:lang="myv">Kažl</GeoU>
 <sources>
 <book name="1" pg="82"/>
@@ -1558,6 +1561,7 @@ Tat., tschuw
 <w myvId="пек">ṕeḱ</w>
 <w myvId="паро">paro·</w>
 <w myvId="?">?</w>
+</x>
 <GeoU xml:lang="myv">Jeg</GeoU>
 <sources>
 <book name="1" pg="92"/>
@@ -1644,7 +1648,7 @@ Tat., tschuw
 <w myvId="седе">śed́e</w>
 <w myvId="пек">ṕeḱ</w>
 <w myvId="вант">vant</w>
-<tk3 isa="excl"/></x>
+<w myvId="!">!</w></x>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
 <book name="2" pg="74"/>
@@ -2607,7 +2611,7 @@ Tat., tschuw
 <w mdfId="ранаяза">ranajaza</w>
 <w mdfId=",">,</w>
 <w mdfId="варяяза">vaŕäjaza</w>
-<tk3 isa="excl"/></x>
+<w mdfId="!">!</w></x>
 <GeoU xml:lang="mdf">Temn</GeoU>
 <sources>
 <book name="VIII" pg="418"/>
@@ -2693,7 +2697,7 @@ Tat., tschuw
 <GeoU xml:lang="mdf">P</GeoU>
 </l_variants>
 </lg>
-<DrvG>(<Cx vl="inessive"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="inessive"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">вместо</t>
@@ -3102,7 +3106,7 @@ Tat., tschuw
 <GeoU xml:lang="mdf">Sel</GeoU>
 </l_variants>
 </lg>
-<DrvG>[<isa questRel="manus">“Exlokativ”</isa>]</DrvG>
+<compg drv="X:X»Adv" type="Der">[<isa questRel="manus">“Exlokativ”</isa>]</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">летом</t>
@@ -3278,7 +3282,7 @@ Tat., tschuw
 <GeoU xml:lang="mdf">Temn</GeoU>
 </l_variants>
 </lg>
-<DrvG>(<Cx vl="inessive"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="inessive"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">вместе</t>
@@ -3342,7 +3346,7 @@ Tat., tschuw
 <GeoU xml:lang="mdf" edit="MK">Sel</GeoU>
 </l_variants>
 </lg>
-<DrvG>(<Cx vl="illative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="illative"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">вместе</t>
@@ -3749,7 +3753,7 @@ Tat., tschuw
 <GeoU xml:lang="mdf">P</GeoU>
 </l_variants>
 </lg>
-<DrvG>(<Cx vl="elative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="elative"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">из</t>
@@ -3873,7 +3877,7 @@ Tat., tschuw
 <GeoU xml:lang="mdf">P</GeoU>
 </l_variants>
 </lg>
-<DrvG>(<Cx vl="inessive"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="inessive"/>)</compg>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -3939,7 +3943,7 @@ Tat., tschuw
 <GeoU xml:lang="mdf">Sel</GeoU>
 <mini_paradigm>
 <InflCtn>
-<Infl><w tag="+Pl+Nom+Indef" mdfId="топə̑цтат">topə̑ctat</w>
+<Infl><w msd="+Pl+Nom+Indef" mdfId="топə̑цтат">topə̑ctat</w>
 </Infl>
 </InflCtn>
 </mini_paradigm>
@@ -4031,7 +4035,7 @@ Tat., tschuw
 <w mdfId="сембя">śeḿb́ä</w>
 <w mdfId="уледа">uĺeda</w>
 <w mdfId="топə̑цтат">topə̑ctat</w>
-<tk3 isa="excl"/></x>
+<w mdfId="!">!</w></x>
 <GeoU xml:lang="mdf">Temn</GeoU>
 <sources>
 <book name="VIII" pg="428"/>
@@ -4045,7 +4049,7 @@ Tat., tschuw
 <w mdfId=",">,</w>
 <w mdfId="тонга">toŋga</w>
 <w mdfId="топə̑цтат">topə̑ctat</w>
-<tk3 isa="excl"/></x>
+<w mdfId="!">!</w></x>
 <GeoU xml:lang="mdf">Pičep</GeoU>
 <sources>
 <book name="VIII" pg="264"/>
@@ -4152,7 +4156,7 @@ Tat., tschuw
 <GeoU xml:lang="mdf" edit="MK">Mam</GeoU>
 </l_variants>
 </lg>
-<DrvG>(<Cx vl="inessive"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="inessive"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">‑уго́льный</t>
@@ -4353,7 +4357,7 @@ Tat., tschuw
 </PhnU>
 </l_variants>
 </lg>
-<DrvG>(<Cx vl="illative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="illative"/>)</compg>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -4564,7 +4568,7 @@ Tat., tschuw
 <GeoU xml:lang="mdf">Sel</GeoU>
 </l_variants>
 </lg>
-<DrvG>[<comment/><DrvStCtn><DrvSt><w CyrId="мезень">ḿeźəń</w></DrvSt></DrvStCtn><fnct>+</fnct><DrvStCtn><DrvSt><w CyrId="инкса">iŋksa</w></DrvSt></DrvStCtn>]</DrvG>
+<compg drv="X:X»Adv" type="Der">[<comment/><DrvStCtn><DrvSt><w CyrId="мезень">ḿeźəń</w></DrvSt></DrvStCtn><fnct>+</fnct><DrvStCtn><DrvSt><w CyrId="инкса">iŋksa</w></DrvSt></DrvStCtn>]</compg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -5040,7 +5044,7 @@ Tat., tschuw
 <GeoU xml:lang="mdf">Cjatn</GeoU>
 </l_variants>
 </lg>
-<DrvG>[<comment/><DrvStCtn><DrvSt><w CyrId="тя">t́ä</w></DrvSt></DrvStCtn><fnct>+</fnct><DrvStCtn><DrvSt><w CyrId="илямба">iĺamba</w></DrvSt></DrvStCtn>]</DrvG>
+<compg drv="X:X»Adv" type="Der">[<comment/><DrvStCtn><DrvSt><w CyrId="тя">t́ä</w></DrvSt></DrvStCtn><fnct>+</fnct><DrvStCtn><DrvSt><w CyrId="илямба">iĺamba</w></DrvSt></DrvStCtn>]</compg>
 <SenseGroup>
 <Syntax function="Adv"/>
 <mg>
@@ -5198,7 +5202,7 @@ Tat., tschuw
 <GeoU xml:lang="mdf">Mam</GeoU>
 </l_variants>
 </lg>
-<DrvG>(<Cx vl="prolative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="prolative"/>)</compg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -5364,6 +5368,7 @@ Tat., tschuw
 <w mdfId="якат">jakat</w>
 <w mdfId="тяшкаваста">t́aškavasta</w>
 <w mdfId="?">?</w>
+</x>
 <GeoU xml:lang="mdf">P</GeoU>
 <sources>
 <book name="IV" pg="854"/>
@@ -5397,7 +5402,7 @@ Tat., tschuw
 <GeoU xml:lang="mdf">Patroka</GeoU>
 </l_variants>
 </lg>
-<DrvG>(<Cx vl="illative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="illative"/>)</compg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -5654,7 +5659,7 @@ Tat., tschuw
 <Hph/>
 <wCtn>
 <w CyrId=""/>
-</WdCtn></FrnTxt>)</t>
+</wCtn></FrnTxt>)</t>
 </mg>
 </SenseGroup>
 <xg>
@@ -5853,7 +5858,7 @@ Tat., tschuw
 <w mdfId="эста">esta</w>
 <w mdfId="няшть">ńäšt́</w>
 <w mdfId="пара">para</w>
-<tk3 isa="excl"/></x>
+<w mdfId="!">!</w></x>
 <GeoU xml:lang="mdf">P</GeoU>
 <xt xml:lang="deu">Erst wenn Haare in meiner Handfläche wachsen, erst dann mögest du Glück sehen!</xt>
 </xg>
@@ -6182,7 +6187,7 @@ Tat., tschuw
 <GeoU xml:lang="mdf" edit="MK">= Alk</GeoU>
 </l_variants>
 </lg>
-<DrvG>(<Cx vl="elative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="elative"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">со стороны</t>
@@ -6206,7 +6211,7 @@ Tat., tschuw
 <GeoU xml:lang="mdf">Katm</GeoU>
 </l_variants>
 </lg>
-<DrvG>(<Cx vl="allative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="allative"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">в сторону</t>
@@ -6269,7 +6274,7 @@ Tat., tschuw
 <GeoU xml:lang="mdf">Alk</GeoU>
 </l_variants>
 </lg>
-<DrvG>(<Cx vl="lative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="lative"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">в сторону</t>
@@ -6354,7 +6359,7 @@ Tat., tschuw
 <GeoU xml:lang="mdf"/>
 </l_variants>
 </lg>
-<DrvG>(<Cx vl="prolative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="prolative"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">в стороне</t>
@@ -6490,7 +6495,7 @@ Tat., tschuw
 <GeoU xml:lang="mdf" edit="MK">Mam</GeoU>
 </l_variants>
 </lg>
-<DrvG>(<Cx vl="prolative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="prolative"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">сразу</t>
@@ -6599,7 +6604,7 @@ Tat., tschuw
 <GeoU xml:lang="mdf">P</GeoU>
 </l_variants>
 </lg>
-<DrvG>(<Cx vl="prolative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="prolative"/>)</compg>
 <mg copiedFrom="preceding">
 <tg xml:lang="rus">
 <t edit="MK">на четыре части</t>
@@ -6663,7 +6668,7 @@ Tat., tschuw
 <GeoU xml:lang="mdf"/>
 </l_variants>
 </lg>
-<DrvG>(<Cx vl="prolative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="prolative"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">на десять частей</t>
@@ -6830,7 +6835,7 @@ Tat., tschuw
 <GeoU xml:lang="mdf">Pš</GeoU>
 </l_variants>
 </lg>
-<DrvG><prnth>(<Cx vl="allative"/>.; <isa>Adv</isa>., <isa>Postp</isa>.)</prnth></DrvG>
+<compg drv="X:X»Adv" type="Der"><prnth>(<Cx vl="allative"/>.; <isa>Adv</isa>., <isa>Postp</isa>.)</prnth></compg>
 <mg>
 <Syntax function="Adv"/>
 <Syntax function="Postp"/>
@@ -6859,7 +6864,7 @@ Tat., tschuw
 <x>
 <w mdfId="сак">sak</w>
 <w mdfId="малати">malat́i</w>
-<tk3 isa="excl"/></x>
+<w mdfId="!">!</w></x>
 <GeoU xml:lang="mdf">P</GeoU>
 <xt xml:lang="deu">[Komm nahe heran!].</xt>
 </xg>
@@ -7008,6 +7013,7 @@ Tat., tschuw
 <w mdfId="мяля">ḿäĺä</w>
 <w mdfId="киӓ">ḱiä</w>
 <w mdfId="?">?</w>
+</x>
 <GeoU xml:lang="mdf">P</GeoU>
 <xt xml:lang="deu">Wer denn noch?</xt>
 </xg>
@@ -7021,6 +7027,7 @@ Tat., tschuw
 <w mdfId="моля">mə̑ĺä</w>
 <w mdfId="коса">kosa</w>
 <w mdfId="?">?</w>
+</x>
 <GeoU xml:lang="mdf">Bar</GeoU>
 <sources>
 <book name="VIII" pg="298"/>
@@ -7054,7 +7061,7 @@ Tat., tschuw
 <GeoU xml:lang="mdf">P</GeoU>
 </l_variants>
 </lg>
-<DrvG>[<comment/><DrvStCtn><DrvSt><w CyrId="мəля">məĺä</w></DrvSt></DrvStCtn><fnct>+</fnct><DrvStCtn><DrvSt><w CyrId="ни">ńi</w></DrvSt></DrvStCtn>]</DrvG>
+<compg drv="X:X»Adv" type="Der">[<comment/><DrvStCtn><DrvSt><w CyrId="мəля">məĺä</w></DrvSt></DrvStCtn><fnct>+</fnct><DrvStCtn><DrvSt><w CyrId="ни">ńi</w></DrvSt></DrvStCtn>]</compg>
 <DerivationBlock>(unbetont)</DerivationBlock>
 <mg>
 <tg xml:lang="rus">
@@ -7310,7 +7317,7 @@ Tat., tschuw
 <GeoU xml:lang="mdf">Cjatn</GeoU>
 </l_variants>
 </lg>
-<DrvG>[<comment/><DrvStCtn><DrvSt><w CyrId="тя">t́ä</w></DrvSt></DrvStCtn><fnct>+</fnct><DrvStCtn><DrvSt><w CyrId="илямба">iĺamba</w></DrvSt></DrvStCtn>]</DrvG>
+<compg drv="X:X»Adv" type="Der">[<comment/><DrvStCtn><DrvSt><w CyrId="тя">t́ä</w></DrvSt></DrvStCtn><fnct>+</fnct><DrvStCtn><DrvSt><w CyrId="илямба">iĺamba</w></DrvSt></DrvStCtn>]</compg>
 <mg>
 <Syntax function="Adv"/>
 <tg xml:lang="rus">
@@ -7368,13 +7375,13 @@ Tat., tschuw
 <GeoU xml:lang="mdf">P</GeoU>
 <mini_paradigm>
 <InflCtn>
-<InflTags tag="+SP+Gen+Indef"/>
+<InflTags msd="+SP+Gen+Indef"/>
 <Infl>
 <w mdfId="иляден">iĺä·d́en</w>
 </Infl>
 </InflCtn>,
 <InflCtn>
-<InflTags tag="+Pl+Nom+Indef"/>
+<InflTags msd="+Pl+Nom+Indef"/>
 <Infl>
 <w mdfId="илятт">iĺätt</w>
 </Infl>
@@ -7468,7 +7475,7 @@ Tat., tschuw
 <GeoU xml:lang="mdf">Sel</GeoU>
 </l_variants>
 </lg>
-<DrvG>(<Cx vl="locative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="locative"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">каждый вечер</t>
@@ -7491,7 +7498,7 @@ Tat., tschuw
 <GeoU xml:lang="mdf">P</GeoU>
 </l_variants>
 </lg>
-<DrvG>(<Cx vl="illative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="illative"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">до вечера</t>
@@ -7530,7 +7537,7 @@ Tat., tschuw
 <GeoU xml:lang="mdf">P</GeoU>
 </l_variants>
 </lg>
-<DrvG>(<Cx vl="allative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="allative"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">пополудни</t>
@@ -8078,7 +8085,7 @@ Tat., tschuw
 <GeoU xml:lang="mdf">Pičep</GeoU>
 </l_variants>
 </lg>
-<DrvG>(<Cx vl="elative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="elative"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">недожаренный</t>
@@ -8125,7 +8132,7 @@ Tat., tschuw
 <GeoU xml:lang="mdf">Sel</GeoU>
 </l_variants>
 </lg>
-<DrvG>(<Cx vl="prolative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="prolative"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">наполовину</t>
@@ -8172,7 +8179,7 @@ Tat., tschuw
 <GeoU xml:lang="mdf">P</GeoU>
 </l_variants>
 </lg>
-<DrvG>(<Cx vl="prolative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="prolative"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">далеко</t>
@@ -8208,7 +8215,7 @@ Tat., tschuw
 <GeoU xml:lang="mdf">P</GeoU>
 </l_variants>
 </lg>
-<DrvG>(<Cx vl="inessive"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="inessive"/>)</compg>
 <mg>
 <Syntax function="Postp. mit Gen"/>
 <tg xml:lang="rus">
@@ -8355,7 +8362,7 @@ Tat., tschuw
 <GeoU xml:lang="mdf">Atjur</GeoU>
 <mini_paradigm>
 <InflCtn>
-<InflTags tag="+Pl+Nom+Indef"/>
+<InflTags msd="+Pl+Nom+Indef"/>
 <Infl><w mdfId="карань">karań</w>
 <w mdfId="-">-</w>
 <w mdfId="каршэкть">karš́ekt́</w>
@@ -8509,7 +8516,7 @@ Tat., tschuw
 <GeoU xml:lang="mdf">Sel</GeoU>
 </l_variants>
 </lg>
-<DrvG>(<Cx vl="illative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="illative"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">некоторое время</t>
@@ -8726,9 +8733,9 @@ Türk.; s. TLM, Nr.193]
 <GeoU xml:lang="mdf">Ur</GeoU>
 </l_variants>
 </lg>
-<DrvG><CxCtn>
+<compg drv="X:X»Adv" type="Der"><CxCtn>
 <Cx edit="MK" vl="elative"/>
-</CxCtn></DrvG>
+</CxCtn></compg>
 <mg>
 <tg xml:lang="rus">
 <t>постоянно</t>
@@ -8757,9 +8764,9 @@ Türk.; s. TLM, Nr.193]
 <GeoU xml:lang="mdf">Bar</GeoU>
 </l_variants>
 </lg>
-<DrvG><CxCtn>
+<compg drv="X:X»Adv" type="Der"><CxCtn>
 <Cx edit="MK" vl="prolative"/>
-</CxCtn></DrvG>
+</CxCtn></compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">совсем</t>
@@ -8800,7 +8807,7 @@ Türk.; s. TLM, Nr.193]
 <wCtn>
 <w mdfId="улхконя">ulʿkə̑ńä·</w>
 <vrs1 status="neben">ulʿka</vrs1>
-</WdCtn>
+</wCtn>
 </PhnU>
 <GeoU xml:lang="mdf">P</GeoU>
 </l_variants>
@@ -8834,7 +8841,7 @@ Türk.; s. TLM, Nr.193]
 <GeoU xml:lang="mdf">Ur</GeoU>
 </l_variants>
 </lg>
-<DrvG>(<Cx vl="elative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="elative"/>)</compg>
 <mg copiedFrom="preceding">
 <tg xml:lang="rus">
 <t>едва</t>
@@ -9653,7 +9660,7 @@ vgl. auch <Et>
 <x>
 <w mdfId="ажалак">ažalak</w>
 <w mdfId="якак">jakak</w>
-<tk3 isa="excl"/></x>
+<w mdfId="!">!</w></x>
 <GeoU xml:lang="mdf">P</GeoU>
 <xt xml:lang="deu">Gehe vorsichtig!</xt>
 </xg>
@@ -11540,7 +11547,7 @@ vgl. auch <Et>
 <GeoU xml:lang="mdf">P</GeoU>
 <mini_paradigm>
 <FrCm freeType="questionRelation" Modification="MK">
-<InflTags tag="+SP+Gen+Indef"/>
+<InflTags msd="+SP+Gen+Indef"/>
 </FrCm>
 <InflCtn>
 <Infl>
@@ -11738,7 +11745,7 @@ vgl. auch <Et>
 <GeoU xml:lang="mdf">P</GeoU>
 </l_variants>
 </lg>
-<DrvG>(<Cx vl="illative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="illative"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">в плен</t>
@@ -12114,7 +12121,7 @@ vgl. auch <Et>
 <GeoU xml:lang="mdf">Jurtk</GeoU>
 </l_variants>
 </lg>
-<DrvG>(<Cx vl="locative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="locative"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">в подполье</t>
@@ -12218,7 +12225,7 @@ vgl. auch <Et>
 <GeoU xml:lang="mdf">Jurtk</GeoU>
 </l_variants>
 </lg>
-<DrvG>(<Cx vl="ablative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="ablative"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">из подполья</t>
@@ -12333,7 +12340,7 @@ vgl. auch <Et>
 <GeoU xml:lang="mdf">Jurtk</GeoU>
 </l_variants>
 </lg>
-<DrvG>(<Cx vl="lative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="lative"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">в подполье</t>
@@ -12378,7 +12385,7 @@ vgl. auch <Et>
 <w myvId="эрьзя">eŕźa</w>
 <w myvId=",">,</w>
 <w myvId="аксялов">akśalov</w>
-<tk3 isa="excl"/></x>
+<w myvId="!">!</w></x>
 <GeoU xml:lang="myv">Samod</GeoU>
 <sources>
 <book name="VII" pg="328"/>
@@ -12426,7 +12433,7 @@ vgl. auch <Et>
 </GeoUB>
 </l_variants>
 </lg>
-<DrvG>(<Cx vl="prolative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="prolative"/>)</compg>
 <mg>
 <Syntax function="Adv"/>
 <tg xml:lang="rus">
@@ -12586,7 +12593,7 @@ vgl. auch <Et>
 <w mdfId="макст">makst</w>
 <w mdfId="тееня">t́ejəńä</w>
 <w mdfId="павас">pavas</w>
-<tk3 isa="excl"/>
+<w mdfId="!">!</w>
 <w mdfId="алгань">algań</w>
 <w mdfId="шары">šari͔</w>
 <w mdfId="ков">kov</w>
@@ -12596,7 +12603,7 @@ vgl. auch <Et>
 <w mdfId="макст">makst</w>
 <w mdfId="тееня">t́ejəńä</w>
 <w mdfId="павас">pavas</w>
-<tk3 isa="excl"/></x>
+<w mdfId="!">!</w></x>
 <GeoU xml:lang="mdf">Vert</GeoU>
 <xt xml:lang="deu">[Hoch (? über mir) kreisender Sonnen-Gott, gib mir Glück! Weiter unten (? über mir) kreisender Mond-Gott, gib mir Glück!].</xt>
 </xg>
@@ -12717,7 +12724,7 @@ vgl. auch <Et>
 <w myvId="цяпур">ćapur</w>
 <w myvId="тикше">t́ikše͔</w>
 <w myvId="улезэ">uĺeze͔</w>
-<tk3 isa="excl"/></x>
+<w myvId="!">!</w></x>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
 <book name="1" pg="208"/>
@@ -12985,7 +12992,7 @@ vgl. auch <Et>
 <w mdfId="од">od</w>
 <w mdfId="-">-</w>
 <w mdfId="сёрась">śoraś</w>
-<tk3 isa="excl"/></x>
+<w mdfId="!">!</w></x>
 <GeoU xml:lang="mdf">Kr</GeoU>
 <sources>
 <book name="IV" pg="268"/>
@@ -13077,7 +13084,7 @@ vgl. auch <Et>
 </GeoUB>
 </l_variants>
 </lg>
-<DrvG>(<Cx vl="ablative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="ablative"/>)</compg>
 <mg>
 <Syntax function="Adv"/>
 <tg xml:lang="rus">
@@ -13281,7 +13288,7 @@ vgl. auch <Et>
 <mini_paradigm>
 <InflCtn>
 <Infl>
-<w tag="+SP+Gen+Indef" mdfId="куроннь">kurə̑ńń</w>
+<w msd="+SP+Gen+Indef" mdfId="куроннь">kurə̑ńń</w>
 </Infl>
 </InflCtn>
 </mini_paradigm>
@@ -13537,7 +13544,7 @@ vgl. auch <Et>
 </GeoUB>
 </l_variants>
 </lg>
-<DrvG>(<Cx vl="locative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="locative"/>)</compg>
 <mg>
 <Syntax function="Adv"/>
 <tg xml:lang="rus">
@@ -13790,7 +13797,7 @@ vgl. auch <Et>
 <w myvId="кильдян">ḱiĺd́an</w>
 <w myvId="алот">alot</w>
 <w myvId="яшчик">jašči͔ḱ</w>
-<tk3 isa="excl"/></x>
+<w myvId="!">!</w></x>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
 <book name="1" pg="236"/>
@@ -14082,7 +14089,7 @@ vgl. auch <Et>
 </Chc>
 <w myvId="ортатнень">ortat́ńeń</w>
 <w myvId="пекснинк">ṕeksńiŋḱ</w>
-<tk3 isa="excl"/></x>
+<w myvId="!">!</w></x>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
 <book name="1" pg="134"/>
@@ -14489,7 +14496,7 @@ vgl. auch <Et>
 <GeoU xml:lang="mdf">Sučk</GeoU>
 </l_variants>
 </lg>
-<DrvG>(<Cx vl="locative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="locative"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">под мышкой</t>
@@ -14588,7 +14595,7 @@ vgl. auch <Et>
 <GeoU xml:lang="mdf">P</GeoU>
 </l_variants>
 </lg>
-<DrvG>[(<Cx vl="locative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">[(<Cx vl="locative"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t>под навесом</t>
@@ -14738,7 +14745,7 @@ vgl. auch <Et>
 </GeoUB>
 </l_variants>
 </lg>
-<DrvG>(<Cx vl="lative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="lative"/>)</compg>
 <mg>
 <Syntax function="Adv"/>
 <tg xml:lang="rus">
@@ -15114,13 +15121,13 @@ vgl. auch <Et>
 <mini_paradigm>
 <InflCtn>
 <Infl>
-<w tag="+SP+Gen+Indef" mdfId="алу">alu</w>
+<w msd="+SP+Gen+Indef" mdfId="алу">alu</w>
 <w mdfId="перякə̑н">ṕeŕakə̑n</w>
 </Infl>
 </InflCtn>,
 <InflCtn>
 <Infl>
-<w tag="+Pl+Nom+Indef" mdfId="алу">alu</w>
+<w msd="+Pl+Nom+Indef" mdfId="алу">alu</w>
 <w mdfId="перякт">ṕeŕakt</w>
 </Infl>
 </InflCtn>
@@ -15217,7 +15224,7 @@ vgl. auch <Et>
 <w CyrId="ваноза">vanə̑za</w>
 <w CyrId="шкай">škaj</w>
 <w CyrId="ваноза">vanə̑za</w>
-<tk3 isa="excl"/>
+<w mdfId="!">!</w>
 <tk3 isa="triDash"/>
 <w edit="MK" CyrId="ся">śä</w>
 <tk3 edit="MK" isa="ws"/>
@@ -16088,6 +16095,7 @@ vgl. auch <Et>
 <w myvId="тякам">t́akam</w>
 <w myvId="мельзэть">ḿeĺze͔t́</w>
 <w myvId="?">?</w>
+</x>
 <GeoU xml:lang="myv">Večk</GeoU>
 <xt xml:lang="deu">Gefällt dir mein Kind oder nicht?</xt>
 </xg>
@@ -16321,7 +16329,7 @@ vgl. auch <Et>
 <GeoU xml:lang="mdf">Temn</GeoU>
 <mini_paradigm>
 <InflCtn>
-<InflTags tag="+Pl+Nom+Indef"/>
+<InflTags msd="+Pl+Nom+Indef"/>
 <Infl><w mdfId="байтякт">bajt́akt</w>
 </Infl>
 </InflCtn>
@@ -16572,9 +16580,9 @@ vgl. auch <Et>
 <GeoU xml:lang="mdf" edit="MK">Mam</GeoU>
 </l_variants>
 </lg>
-<DrvG><CxCtn>
+<compg drv="X:X»Adv" type="Der"><CxCtn>
 <Cx edit="MK" vl="elative"/>
-</CxCtn>[; <pos1>Adv</pos1>]</DrvG>
+</CxCtn>[; <pos1>Adv</pos1>]</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">бедно</t>
@@ -17408,7 +17416,7 @@ Aus russ. Instr.-F. <Et>боком &lt; бок</Et>]
 <GeoU xml:lang="mdf"/>
 </l_variants>
 </lg>
-<DrvG>(<Cx vl="prolative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="prolative"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">публично</t>
@@ -18003,7 +18011,7 @@ Aus russ. Instr.-F. <Et>боком &lt; бок</Et>]
 <GeoU xml:lang="mdf">P</GeoU>
 </l_variants>
 </lg>
-<DrvG>(<Cx vl="allative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="allative"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">до завтрашнего дня</t>
@@ -18053,7 +18061,7 @@ Aus russ. Instr.-F. <Et>боком &lt; бок</Et>]
 <GeoU xml:lang="mdf">P</GeoU>
 </l_variants>
 </lg>
-<DrvG>(<Cx vl="illative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="illative"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">до завтрашнего дня</t>
@@ -18346,7 +18354,7 @@ Aus russ. Instr.-F. <Et>боком &lt; бок</Et>]
 <GeoU xml:lang="mdf">Sel</GeoU>
 </l_variants>
 </lg>
-<DrvG>(<Cx vl="lative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="lative"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">далеко</t>
@@ -18828,7 +18836,7 @@ Aus russ. Instr.-F. <Et>боком &lt; бок</Et>]
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l/><st/>
 </lg>
-<DrvG>(<Cx vl="prolative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="prolative"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t>вдали</t>
@@ -18917,7 +18925,7 @@ Aus russ. Instr.-F. <Et>боком &lt; бок</Et>]
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l/><st/>
 </lg>
-<DrvG>(<Cx vl="ablative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="ablative"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">издалека</t>
@@ -19376,7 +19384,7 @@ Aus russ. Instr.-F. <Et>боком &lt; бок</Et>]
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l/><st/>
 </lg>
-<DrvG>(<Cx vl="lative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="lative"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">вдаль</t>
@@ -19492,7 +19500,7 @@ Aus russ. Instr.-F. <Et>боком &lt; бок</Et>]
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l/><st/>
 </lg>
-<DrvG>(<Cx vl="lative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="lative"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">целиком</t>
@@ -19529,7 +19537,7 @@ Aus russ. Instr.-F. <Et>боком &lt; бок</Et>]
 <GeoU xml:lang="mdf">P</GeoU>
 </l_variants>
 </lg>
-<DrvG>(<Cx vl="prolative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="prolative"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">в девять частей</t>
@@ -19562,7 +19570,7 @@ Aus russ. Instr.-F. <Et>боком &lt; бок</Et>]
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l/><st/>
 </lg>
-<DrvG>(<Cx vl="inessive"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="inessive"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">девяти‑</t>
@@ -19641,7 +19649,7 @@ Aus russ. Instr.-F. <Et>боком &lt; бок</Et>]
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l/><st/>
 </lg>
-<DrvG>(<Cx vl="illative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="illative"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">вместе</t>
@@ -19952,7 +19960,7 @@ Aus russ. Instr.-F. <Et>боком &lt; бок</Et>]
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l/><st/>
 </lg>
-<DrvG>(<Cx vl="inessive"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="inessive"/>)</compg>
 <mg>
 <Syntax function="Adv"/>
 <tg xml:lang="rus">
@@ -19990,7 +19998,7 @@ Aus russ. Instr.-F. <Et>боком &lt; бок</Et>]
 <w myvId="вейцэ">v́ejce͔</w>
 <w myvId="кудо">kudo</w>
 <w edit="MK" myvId="тейтянк">t́ejt́aŋk</w>
-<tk3 isa="excl"/></x>
+<w myvId="!">!</w></x>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
 <book name="2" pg="115"/>
@@ -20040,7 +20048,7 @@ Aus russ. Instr.-F. <Et>боком &lt; бок</Et>]
 <w myvId="дай">daj</w>
 <w myvId="вехца">v́eᵪca</w>
 <w myvId="эряма">äŕama</w>
-<tk3 isa="excl"/></x>
+<w myvId="!">!</w></x>
 <GeoU xml:lang="myv">Kažl</GeoU>
 <sources>
 <book name="2" pg="151"/>
@@ -20248,7 +20256,7 @@ Aus russ. Instr.-F. <Et>боком &lt; бок</Et>]
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l/><st/>
 </lg>
-<DrvG>(<Cx vl="locative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="locative"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">снаружи</t>
@@ -20276,7 +20284,7 @@ Aus russ. Instr.-F. <Et>боком &lt; бок</Et>]
 <GeoU xml:lang="mdf">Kr</GeoU>
 </l_variants>
 </lg>
-<DrvG>(<Cx vl="prolative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="prolative"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">на пять частей</t>
@@ -20312,7 +20320,7 @@ Aus russ. Instr.-F. <Et>боком &lt; бок</Et>]
 <GeoU xml:lang="mdf" edit="MK">P</GeoU>
 </l_variants>
 </lg>
-<DrvG>(<Cx vl="ablative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="ablative"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">в пятый раз</t>
@@ -21173,7 +21181,7 @@ Aus russ. Instr.-F. <Et>боком &lt; бок</Et>]
 <GeoU xml:lang="mdf">P</GeoU>
 </l_variants>
 </lg>
-<DrvG>(<Cx vl="lative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="lative"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">наружу</t>
@@ -21291,7 +21299,7 @@ Aus russ. Instr.-F. <Et>боком &lt; бок</Et>]
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l/><st/>
 </lg>
-<DrvG>(<Cx vl="ablative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="ablative"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">снаружи</t>
@@ -21318,7 +21326,7 @@ Aus russ. Instr.-F. <Et>боком &lt; бок</Et>]
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l/><st/>
 </lg>
-<DrvG>(<Cx vl="elative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="elative"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">снаружи</t>
@@ -21345,7 +21353,7 @@ Aus russ. Instr.-F. <Et>боком &lt; бок</Et>]
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l/><st/>
 </lg>
-<DrvG>(<Cx vl="inessive"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="inessive"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">снаружи</t>
@@ -21600,7 +21608,7 @@ Aus russ. Instr.-F. <Et>боком &lt; бок</Et>]
 <GeoU xml:lang="mdf">Sel</GeoU>
 </l_variants>
 </lg>
-<DrvG>(<Cx vl="ablative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="ablative"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">издали</t>
@@ -21679,7 +21687,7 @@ Aus russ. Instr.-F. <Et>боком &lt; бок</Et>]
 <GeoU xml:lang="mdf">Sel</GeoU>
 </l_variants>
 </lg>
-<DrvG>(<Cx vl="lative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="lative"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">вдаль</t>
@@ -21847,7 +21855,7 @@ Aus russ. Instr.-F. <Et>боком &lt; бок</Et>]
 <GeoU xml:lang="mdf">MdJurtk</GeoU>
 </l_variants>
 </lg>
-<DrvG>(<Cx vl="locative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="locative"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">далеко</t>
@@ -22135,7 +22143,7 @@ Aus russ. Instr.-F. <Et>боком &lt; бок</Et>]
 <w myvId="пекить">ṕeḱit́</w>
 <w myvId="доста">dosta</w>
 <w myvId="пейдифтан">ṕejd́if́tan</w>
-<tk3 isa="excl"/></x>
+<w myvId="!">!</w></x>
 <GeoU xml:lang="myv">Kal</GeoU>
 <sources>
 <book name="2" pg="145"/>
@@ -22789,7 +22797,7 @@ Instr.-F. <Et>душо́й</Et>]
 <GeoU xml:lang="mdf">Jurtk</GeoU>
 </l_variants>
 </lg>
-<DrvG>(<Cx vl="ablative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="ablative"/>)</compg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -23660,7 +23668,7 @@ Instr.-F. <Et>душо́й</Et>]
 <GeoU xml:lang="mdf">Jurtk</GeoU>
 </l_variants>
 </lg>
-<DrvG>(<Cx vl="illative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="illative"/>)</compg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -23751,7 +23759,7 @@ Instr.-F. <Et>душо́й</Et>]
 <w mdfId=",">,</w>
 <w mdfId="мəзярс">məźa·rs</w>
 <w mdfId="пси">ṕśi</w>
-<tk3 isa="excl"/></x>
+<w mdfId="!">!</w></x>
 <GeoU xml:lang="mdf">P</GeoU>
 <xt xml:lang="deu">Schmiede das Eisen, solange es heiss ist!</xt>
 </xg>
@@ -23824,7 +23832,7 @@ Instr.-F. <Et>душо́й</Et>]
 <GeoU xml:lang="myv">Mar</GeoU>
 <mini_paradigm>
 <InflCtn>
-<InflTags tag="+SP+Gen+Indef"/>
+<InflTags msd="+SP+Gen+Indef"/>
 <Infl><w myvId="ирецтэнь">iŕecte͔ń</w>
 </Infl>
 </InflCtn>
@@ -23859,7 +23867,7 @@ Instr.-F. <Et>душо́й</Et>]
 <GeoU xml:lang="mdf">Sel</GeoU>
 <mini_paradigm>
 <InflCtn>
-<InflTags tag="+Pl+Nom+Indef"/>
+<InflTags msd="+Pl+Nom+Indef"/>
 <Infl>
 <w mdfId="ирецтат">iŕecta·t</w>
 </Infl>
@@ -23913,6 +23921,7 @@ Instr.-F. <Et>душо́й</Et>]
 <w myvId="иретстэсь">iŕetste͔ś</w>
 <w myvId="кие">ḱije</w>
 <w myvId="?">?</w>
+</x>
 <GeoU xml:lang="myv">Mar</GeoU>
 <xt xml:lang="deu">Wer ist dieser Betrunkene?</xt>
 </xg>
@@ -24298,7 +24307,7 @@ Instr.-F. <Et>душо́й</Et>]
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l/><st/>
 </lg>
-<DrvG>[<comment/><DrvStCtn><DrvSt><w CyrId="се">śe</w></DrvSt></DrvStCtn><fnct>+</fnct><DrvStCtn><DrvSt><w CyrId="стя">śt́a</w></DrvSt></DrvStCtn>]</DrvG>
+<compg drv="X:X»Adv" type="Der">[<comment/><DrvStCtn><DrvSt><w CyrId="се">śe</w></DrvSt></DrvStCtn><fnct>+</fnct><DrvStCtn><DrvSt><w CyrId="стя">śt́a</w></DrvSt></DrvStCtn>]</compg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -24543,6 +24552,7 @@ Instr.-F. <Et>душо́й</Et>]
 <w myvId=",">,</w>
 <w myvId="ардат">ardat</w>
 <w myvId="?">?</w>
+</x>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
 <book name="2" pg="101"/>
@@ -24898,13 +24908,13 @@ Instr.-F. <Et>душо́й</Et>]
 <w myvId="пиче">ṕiče͔</w>
 <w myvId="вирь">v́iŕ</w>
 <w myvId="ланга">laŋga</w>
-<tk3 isa="excl"/>
+<w myvId="!">!</w>
 <w myvId="стякак">śt́akak</w>
 <w edit="MK" myvId="вармине">varḿińe</w>
 <w myvId=",">,</w>
 <w myvId="пиченень">ṕiče͔ńeń</w>
 <w myvId="тошна">tošna</w>
-<tk3 isa="excl"/></x>
+<w myvId="!">!</w></x>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
 <book name="1" pg="16"/>
@@ -24951,7 +24961,7 @@ Instr.-F. <Et>душо́й</Et>]
 <GeoU xml:lang="mdf">P</GeoU>
 <mini_paradigm>
 <InflCtn>
-<Infl><w tag="+Pl+Nom+Indef" mdfId="стакшит">stakšit</w>
+<Infl><w msd="+Pl+Nom+Indef" mdfId="стакшит">stakšit</w>
 </Infl>
 </InflCtn>
 </mini_paradigm>
@@ -25413,7 +25423,7 @@ Instr.-F. <Et>душо́й</Et>]
 <GeoU xml:lang="mdf">P</GeoU>
 </l_variants>
 </lg>
-<DrvG>(<Cx vl="lative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="lative"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">надвое</t>
@@ -25509,7 +25519,7 @@ Instr.-F. <Et>душо́й</Et>]
 <GeoU xml:lang="mdf">Sel</GeoU>
 </l_variants>
 </lg>
-<DrvG>(<Cx vl="prolative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="prolative"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">по двум местам</t>
@@ -26287,7 +26297,7 @@ Instr.-F. <Et>душо́й</Et>]
 <GeoU xml:lang="mdf">Temn</GeoU>
 <mini_paradigm>
 <InflCtn>
-<InflTags tag="+Pl+Nom+Indef"/>
+<InflTags msd="+Pl+Nom+Indef"/>
 <GeoU xml:lang="mdf">Temn</GeoU>
 <Infl>
 <w mdfId="каршə̑т">karšə̑t</w>
@@ -26410,7 +26420,7 @@ Instr.-F. <Et>душо́й</Et>]
 <Hph/>
 <wCtn>
 <w CyrId=""/>
-</WdCtn></FrnTxt>, deine <FrnTxt><w CyrId="карч">karč</w></FrnTxt>-Krankheit [weg].</t>
+</wCtn></FrnTxt>, deine <FrnTxt><w CyrId="карч">karč</w></FrnTxt>-Krankheit [weg].</t>
 </xg>
 <xg>
 <x>
@@ -26645,7 +26655,7 @@ Instr.-F. <Et>душо́й</Et>]
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="Adv"/><st/>
 </lg>
-<DrvG>(<Cx vl="elative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="elative"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">с противоположной стороны</t>
@@ -26689,7 +26699,7 @@ Instr.-F. <Et>душо́й</Et>]
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="Adv"/><st/>
 </lg>
-<DrvG>(<Cx vl="ablative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="ablative"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">с противоположной стороны</t>
@@ -26717,7 +26727,7 @@ Instr.-F. <Et>душо́й</Et>]
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="Adv"/><st/>
 </lg>
-<DrvG>(<Cx vl="ablative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="ablative"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">с противоположной стороны</t>
@@ -27184,7 +27194,7 @@ Instr.-F. <Et>душо́й</Et>]
 <GeoU xml:lang="mdf"/>
 </l_variants>
 </lg>
-<DrvG>(<Cx vl="ablative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="ablative"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">от руки</t>
@@ -27419,7 +27429,7 @@ Instr.-F. <Et>душо́й</Et>]
 <w mdfId="кельхца">ḱeĺʿca</w>
 <mini_paradigm>
 <InflCtn>
-<Infl><w tag="+Pl+Nom+Indef" mdfId="кельхцат">ḱeĺʿcat</w>
+<Infl><w msd="+Pl+Nom+Indef" mdfId="кельхцат">ḱeĺʿcat</w>
 </Infl>
 </InflCtn>
 </mini_paradigm></PhnU>
@@ -27428,7 +27438,7 @@ Instr.-F. <Et>душо́й</Et>]
 <GeoU xml:lang="mdf">P</GeoU>
 </l_variants>
 </lg>
-<DrvG>(<Cx vl="inessive"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="inessive"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">настежь</t>
@@ -27893,7 +27903,7 @@ Instr.-F. <Et>душо́й</Et>]
 <GeoU xml:lang="mdf">Jurtk</GeoU>
 <mini_paradigm>
 <InflCtn>
-<InflTags tag="+Pl+Nom+Indef"/>
+<InflTags msd="+Pl+Nom+Indef"/>
 <Infl>
 <w mdfId="кепəт">ḱepət</w>
 </Infl>
@@ -27951,11 +27961,11 @@ Instr.-F. <Et>душо́й</Et>]
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="Adv"/><st/>
 </lg>
-<DrvG>[<Cm>&lt;</Cm><source><CapI>
+<compg drv="X:X»Adv" type="Der">[<Cm>&lt;</Cm><source><CapI>
 <i><tk2>
 <w CyrId="кепи">ḱeṕi</w></tk2></i></CapI> + <CapI>
 <i><tk2>
-<w CyrId="пилькть">ṕiĺkt́</w></tk2></i></CapI>]</source></DrvG>
+<w CyrId="пилькть">ṕiĺkt́</w></tk2></i></CapI>]</source></compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">босиком</t>
@@ -28014,7 +28024,7 @@ Instr.-F. <Et>душо́й</Et>]
 <w myvId="кепсть">ḱeṕśt́</w>
 <w myvId=",">,</w>
 <w myvId="кепсть">ḱeṕśt́</w>
-<tk3 isa="excl"/></x>
+<w myvId="!">!</w></x>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
 <book name="1" pg="226"/>
@@ -28065,7 +28075,7 @@ Instr.-F. <Et>душо́й</Et>]
 <w myvId="мерест">ḿeŕest</w>
 <w myvId="тынк">ti͔ŋk</w>
 <w myvId="сэриненк">se͔ŕińeŋk</w>
-<tk3 isa="excl"/></x>
+<w myvId="!">!</w></x>
 <GeoU xml:lang="myv">Večk</GeoU>
 <sources>
 <book name="II" pg="180"/>
@@ -28125,7 +28135,7 @@ Instr.-F. <Et>душо́й</Et>]
 <w myvId="кепшт">ḱepšt</w>
 <w myvId="-" edit="MK">-</w>
 <w myvId="кепшт">ḱepšt</w>
-<tk3 isa="excl"/></x>
+<w myvId="!">!</w></x>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
 <book name="1" pg="228"/>
@@ -28143,7 +28153,7 @@ Instr.-F. <Et>душо́й</Et>]
 <w mdfId="тишəсь">t́išəś</w>
 <w mdfId="алу">alu</w>
 <w mdfId="липшт">ĺipšt</w>
-<tk3 isa="excl"/></x>
+<w mdfId="!">!</w></x>
 <GeoU xml:lang="mdf">Šad</GeoU>
 <xt xml:lang="deu">Möge das ausgesäte Getreide aufkeimen und wachsen, möge das aufkeimende Gras darunter ersticken! (Saatgebet).</xt>
 </xg>
@@ -28164,7 +28174,7 @@ Instr.-F. <Et>душо́й</Et>]
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l/><st/>
 </lg>
-<DrvG>(<Cx vl="lative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="lative"/>)</compg>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -28237,9 +28247,9 @@ Instr.-F. <Et>душо́й</Et>]
 <GeoU xml:lang="mdf"/>
 </l_variants>
 </lg>
-<DrvG><CxCtn>
+<compg drv="X:X»Adv" type="Der"><CxCtn>
 <Cx edit="MK" vl="locative"/>
-</CxCtn></DrvG>
+</CxCtn></compg>
 <mg>
 <tg xml:lang="rus">
 <t>летом</t>
@@ -28451,9 +28461,9 @@ Instr.-F. <Et>душо́й</Et>]
 <GeoU xml:lang="mdf"/>
 </l_variants>
 </lg>
-<DrvG><CxCtn>
+<compg drv="X:X»Adv" type="Der"><CxCtn>
 <Cx edit="MK" vl="comitative"/>
-</CxCtn></DrvG>
+</CxCtn></compg>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -28831,9 +28841,9 @@ Instr.-F. <Et>душо́й</Et>]
 <GeoU xml:lang="mdf">Mam</GeoU>
 </l_variants>
 </lg>
-<DrvG><CxCtn>
+<compg drv="X:X»Adv" type="Der"><CxCtn>
 <Cx edit="MK" vl="lative"/>
-</CxCtn></DrvG>
+</CxCtn></compg>
 <mg>
 <tg xml:lang="rus">
 <t>куда?</t>
@@ -28850,6 +28860,7 @@ Instr.-F. <Et>душо́й</Et>]
 <w myvId="-" edit="MK">-</w>
 <w myvId="калдургаць">kaldurgać</w>
 <w myvId="?">?</w>
+</x>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
 <book name="1" pg="232"/>
@@ -28877,6 +28888,7 @@ Instr.-F. <Et>душо́й</Et>]
 <w myvId="ков">kov</w>
 <w myvId="якить">jaḱit́</w>
 <w myvId="?">?</w>
+</x>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
 <book name="1" pg="6"/>
@@ -28891,6 +28903,7 @@ Instr.-F. <Et>душо́й</Et>]
 <w myvId="од">od</w>
 <w myvId="леленть">ĺeĺeńt́</w>
 <w myvId="?">?</w>
+</x>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
 <book name="1" pg="222"/>
@@ -28939,6 +28952,7 @@ Instr.-F. <Et>душо́й</Et>]
 <w myvId="истя">iśt́a</w>
 <w myvId="соргить">sorǵit́</w>
 <w myvId="?">?</w>
+</x>
 <GeoU xml:lang="myv">Kal</GeoU>
 <sources>
 <book name="2" pg="128"/>
@@ -29053,6 +29067,7 @@ Instr.-F. <Et>душо́й</Et>]
 <w mdfId="ко">ko</w>
 <w mdfId="молят">moĺat</w>
 <w mdfId="?">?</w>
+</x>
 <GeoU xml:lang="mdf"/>
 <sources>
 <book name="IV" pg="667"/>
@@ -29211,14 +29226,14 @@ Instr.-F. <Et>душо́й</Et>]
 <GeoU xml:lang="mdf">P</GeoU>
 <GeoU xml:lang="mdf">Pš</GeoU>
 </l_variants>
-</lg><DrvG>[<re>wohl aus</re>
+</lg><compg drv="X:X»Adv" type="Der">[<re>wohl aus</re>
 <MultiWordUnit>
 <w CyrId="коу̯">kou̯</w>
 <Hph/>
 <w CyrId="коу̯">kou̯</w>
 </MultiWordUnit>
 <re>od.</re>
-<w CyrId="коданга">kodaŋga</w>]</DrvG>
+<w CyrId="коданга">kodaŋga</w>]</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">постепенно</t>
@@ -29550,7 +29565,7 @@ Instr.-F. <Et>душо́й</Et>]
 <GeoU xml:lang="mdf">Sel</GeoU>
 </l_variants>
 </lg>
-<DrvG>(<comment/><DrvStCtn><DrvSt><w CyrId="ков">kov</w></DrvSt></DrvStCtn><fnct>+</fnct><DrvStCtn><DrvSt><w CyrId="ина">ina</w></DrvSt></DrvStCtn>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<comment/><DrvStCtn><DrvSt><w CyrId="ков">kov</w></DrvSt></DrvStCtn><fnct>+</fnct><DrvStCtn><DrvSt><w CyrId="ина">ina</w></DrvSt></DrvStCtn>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">куда же?</t>
@@ -29654,6 +29669,7 @@ Instr.-F. <Et>душо́й</Et>]
 <w myvId="касы">kasi͔</w>
 <w myvId="прявинет">pŕäv́ińet</w>
 <w myvId="?">?</w>
+</x>
 <GeoU xml:lang="myv">StDemk</GeoU>
 <sources>
 <book name="VII" pg="150"/>
@@ -29681,6 +29697,7 @@ Instr.-F. <Et>душо́й</Et>]
 <w mdfId="моннь">mońń</w>
 <w mdfId="васюзень">vaśuźeń</w>
 <w mdfId="?">?</w>
+</x>
 <GeoU xml:lang="mdf">Bar</GeoU>
 <sources>
 <book name="VIII" pg="286"/>
@@ -29704,6 +29721,7 @@ Instr.-F. <Et>душо́й</Et>]
 </Chc>
 <w mdfId="кодийса">kod́ijsa</w>
 <w mdfId="?">?</w>
+</x>
 <GeoU xml:lang="mdf">Temn</GeoU>
 <sources>
 <book name="VIII" pg="324"/>
@@ -29718,6 +29736,7 @@ Instr.-F. <Et>душо́й</Et>]
 <w mdfId="рабанц">rabanc</w>
 <w mdfId="кодиить">kod́ijit́</w>
 <w mdfId="?">?</w>
+</x>
 <GeoU xml:lang="mdf">Temn</GeoU>
 <sources>
 <book name="VIII" pg="342"/>
@@ -29775,7 +29794,7 @@ Instr.-F. <Et>душо́й</Et>]
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="Adv"/><st/>
 </lg>
-<DrvG>(<Cx vl="lative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="lative"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">куда?</t>
@@ -29832,7 +29851,7 @@ Instr.-F. <Et>душо́й</Et>]
 <GeoU xml:lang="mdf">Sel</GeoU>
 </l_variants>
 </lg>
-<DrvG>(<Cx vl="ablative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="ablative"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t> откуда?</t>
@@ -29855,6 +29874,7 @@ Instr.-F. <Et>душо́й</Et>]
 <w mdfId="шкайсь">škajś</w>
 <w mdfId="кандоньзя">kandə̑ńźä</w>
 <w mdfId="?">?</w>
+</x>
 <GeoU xml:lang="mdf">Sel</GeoU>
 <xt xml:lang="deu">[Woher hat dich Gott geführt?].</xt>
 </xg>
@@ -30037,6 +30057,7 @@ Instr.-F. <Et>душо́й</Et>]
 <w mdfId="колə̑день">kolə̑d́eń</w>
 <w mdfId="кудатня">kudat́ńä</w>
 <w mdfId="?">?</w>
+</x>
 <GeoU xml:lang="mdf">Temn</GeoU>
 <sources>
 <book name="VIII" pg="404"/>
@@ -30201,23 +30222,27 @@ Instr.-F. <Et>душо́й</Et>]
 <w myvId="тонть">tońt́</w>
 <w myvId="леметь">ĺeḿet́</w>
 <w myvId="?">?</w>
+</x>
 <GeoUB xml:lang="myv"/>
 <x>
 <w myvId="леметь">ĺeḿet́</w>
 <w myvId="кода">koda</w>
 <w myvId="?">?</w>
+</x>
 <GeoU xml:lang="myv">Mar</GeoU>
 <x>
 <w myvId="тонть">tońt́</w>
 <w myvId="лямᴉ͐т">ĺämᴉ͐t</w>
 <w myvId="кода">koda</w>
 <w myvId="?">?</w>
+</x>
 <GeoU xml:lang="myv">Kažl</GeoU>
 <x>
 <w mdfId="кода">koda</w>
 <w mdfId="тонь">toń</w>
 <w mdfId="лемця">ĺeḿćä</w>
 <w mdfId="?">?</w>
+</x>
 <GeoUB xml:lang="mdf"/>
 <xt xml:lang="deu">Wie ist dein Name?</xt>
 </xg>
@@ -30296,6 +30321,7 @@ Instr.-F. <Et>душо́й</Et>]
 <w myvId="тяни">t́äńi</w>
 <w myvId="тянза">t́änza</w>
 <w myvId="?">?</w>
+</x>
 <GeoU xml:lang="myv">Kažl</GeoU>
 <sources>
 <book name="2" pg="150"/>
@@ -30310,6 +30336,7 @@ Instr.-F. <Et>душо́й</Et>]
 <w myvId="тетинь">t́et́iń</w>
 <w myvId="сэтть">se͔t́t́</w>
 <w myvId="?">?</w>
+</x>
 <GeoU xml:lang="myv">Kal</GeoU>
 <sources>
 <book name="2" pg="135"/>
@@ -30326,6 +30353,7 @@ Instr.-F. <Et>душо́й</Et>]
 <w myvId="а">a</w>
 <w myvId="авардян">avaŕd́an</w>
 <w myvId="?">?</w>
+</x>
 <GeoU xml:lang="myv">Jeg</GeoU>
 <sources>
 <book name="1" pg="102"/>
@@ -30342,7 +30370,7 @@ Instr.-F. <Et>душо́й</Et>]
 <w mdfId="аф">af</w>
 <w mdfId="авардян">avaŕd́an</w>
 <tk3 isa="quest"/>
-<tk3 isa="excl"/></x>
+<w mdfId="!">!</w></x>
 <GeoU xml:lang="mdf">Sel</GeoU>
 <xt xml:lang="deu">Was weinst du? – Wie sollte ich nicht weinen?!</xt>
 </xg>
@@ -30504,6 +30532,7 @@ Instr.-F. <Et>душо́й</Et>]
 <w myvId=",">,</w>
 <w myvId="чийнимат">či͔jńimat</w>
 <w myvId="?">?</w>
+</x>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
 <book name="1" pg="22"/>
@@ -30613,6 +30642,7 @@ Instr.-F. <Et>душо́й</Et>]
 <w myvId="миненек">ḿińeńeḱ</w>
 <w myvId="лисемс">ĺiśems</w>
 <w myvId="?">?</w>
+</x>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
 <book name="2" pg="105"/>
@@ -30915,6 +30945,7 @@ Instr.-F. <Et>душо́й</Et>]
 </Chc>
 <w mdfId="шчакай">ščakaj</w>
 <w mdfId="?">?</w>
+</x>
 <GeoU xml:lang="mdf">Sel</GeoU>
 <sources>
 <book name="IV" pg="814"/>
@@ -30938,6 +30969,7 @@ Instr.-F. <Et>душо́й</Et>]
 <w mdfId="кода">koda·</w>
 <w mdfId="əна">əna</w>
 <w mdfId="?">?</w>
+</x>
 <GeoU xml:lang="mdf">Sučk</GeoU>
 <sources>
 <book name="IV" pg="842"/>
@@ -31190,7 +31222,7 @@ Instr.-F. <Et>душо́й</Et>]
 <w myvId="тон">ton</w>
 <w myvId="ля">ĺa</w>
 <w myvId="дрожак">drožak</w>
-<tk3 isa="excl"/>
+<w myvId="!">!</w>
 <w myvId="кодак">kodak</w>
 <w myvId="дрожакстуват">drožakstuvat</w>
 <w myvId=",">,</w>
@@ -31235,7 +31267,7 @@ Instr.-F. <Et>душо́й</Et>]
 <w myvId="кодак">kodak</w>
 <w myvId="плохаста">ploᵪasta</w>
 <w myvId="стат">stat</w>
-<tk3 isa="excl"/></x>
+<w myvId="!">!</w></x>
 <GeoU xml:lang="myv">Kal</GeoU>
 (<sources>
 <book name="2" pg="128"/>
@@ -31309,7 +31341,7 @@ Instr.-F. <Et>душо́й</Et>]
 <w mdfId="станя">stańä</w>
 <w mdfId="и">i</w>
 <w mdfId="сюдуфт">śuduft</w>
-<tk3 isa="excl"/></x>
+<w mdfId="!">!</w></x>
 <GeoU xml:lang="mdf">P</GeoU>
 <xt xml:lang="deu">[Wenn ich dich verfluche, so sollst du verflucht sein!].</xt>
 </xg>
@@ -31383,7 +31415,7 @@ Instr.-F. <Et>душо́й</Et>]
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l/><st/>
 </lg>
-<DrvG>(<Cx vl="lative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="lative"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">в трёх направлениях</t>
@@ -31502,7 +31534,7 @@ Instr.-F. <Et>душо́й</Et>]
 <GeoU xml:lang="mdf">Čemb</GeoU>
 </l_variants>
 </lg>
-<DrvG>(<Cx vl="ablative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="ablative"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t>в третий раз</t>
@@ -31554,7 +31586,7 @@ Instr.-F. <Et>душо́й</Et>]
 <GeoU xml:lang="mdf">P</GeoU>
 </l_variants>
 </lg>
-<DrvG>(<Cx vl="prolative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="prolative"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t>на три</t>
@@ -32527,6 +32559,7 @@ Instr.-F. <Et>душо́й</Et>]
 <w myvId="ви">v́i</w>
 <w myvId="ашчи">ašči͔</w>
 <w myvId="?">?</w>
+</x>
 <GeoU xml:lang="myv">Jeg</GeoU>
 <sources>
 <book name="1" pg="96"/>
@@ -32658,7 +32691,7 @@ Aus russ. Instr.-F. <Et>крестом</Et>]
 <w myvId=",">,</w>
 <w myvId="кувать">kuvat́</w>
 <w myvId="удовинь">udov́iń</w>
-<tk3 isa="excl"/></x>
+<w myvId="!">!</w></x>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
 <book name="2" pg="123"/>
@@ -32707,7 +32740,7 @@ Aus russ. Instr.-F. <Et>крестом</Et>]
 </Chc>
 <w mdfId="кувать">kuvat́</w>
 <w mdfId="удонь">udə̑ń</w>
-<tk3 isa="excl"/></x>
+<w mdfId="!">!</w></x>
 <GeoU xml:lang="mdf">Sel</GeoU>
 <sources>
 <book name="IV" pg="821"/>
@@ -32753,7 +32786,7 @@ Aus russ. Instr.-F. <Et>крестом</Et>]
 <w CyrId="кувать">kuvat́</w></tk2></i> + Ill. <i><tk2>
 <wCtn>
 <w CyrId=""/>
-</WdCtn>
+</wCtn>
 <Hph/>
 <w CyrId="с">s</w></tk2></i>]</DerivationBlock>
 <mg>
@@ -33638,7 +33671,7 @@ Aus russ. Instr.-F. <Et>крестом</Et>]
 <mini_paradigm>
 <InflCtn>
 <Infl>
-<w tag="+Pl+Nom+Indef" myvId="ласть">laśt́</w>
+<w msd="+Pl+Nom+Indef" myvId="ласть">laśt́</w>
 </Infl>
 </InflCtn>
 </mini_paradigm>
@@ -34022,7 +34055,7 @@ Aus russ. Instr.-F. <Et>крестом</Et>]
 <mini_paradigm>
 <InflCtn>
 <Infl>
-<w tag="+SP+Gen+Indef" mdfId="манань">manań</w>
+<w msd="+SP+Gen+Indef" mdfId="манань">manań</w>
 </Infl>
 </InflCtn>
 </mini_paradigm>
@@ -34262,7 +34295,7 @@ Aus russ. Instr.-F. <Et>крестом</Et>]
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l/><st/>
 </lg>
-<DrvG>(<Cx vl="lative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="lative"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">против солнца</t>
@@ -34310,7 +34343,7 @@ Aus russ. Instr.-F. <Et>крестом</Et>]
 <GeoU xml:lang="mdf">Kul</GeoU>
 </l_variants>
 </lg>
-<DrvG>(<Cx vl="ablative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="ablative"/>)</compg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -34355,6 +34388,7 @@ Aus russ. Instr.-F. <Et>крестом</Et>]
 <w myvId="мезде">ḿeźd́e</w>
 <w myvId="ярцат">jarcat</w>
 <w myvId="?">?</w>
+</x>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
 <book name="2" pg="101"/>
@@ -34377,7 +34411,7 @@ Aus russ. Instr.-F. <Et>крестом</Et>]
 <w myvId="иля">iĺa</w>
 <w myvId="ёвтне">jovtńe</w>
 <w myvId="ятонень">jatońeń</w>
-<tk3 isa="excl"/></x>
+<w myvId="!">!</w></x>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
 <book name="1" pg="194"/>
@@ -34393,7 +34427,7 @@ Aus russ. Instr.-F. <Et>крестом</Et>]
 <w myvId="се">śe</w>
 <w myvId="тенть">t́eńt́</w>
 <w myvId="улезэ">uĺeze͔</w>
-<tk3 isa="excl"/></x>
+<w myvId="!">!</w></x>
 <GeoU xml:lang="myv">NPyrma</GeoU>
 <sources>
 <book name="VII" pg="74"/>
@@ -34411,6 +34445,7 @@ Aus russ. Instr.-F. <Et>крестом</Et>]
 <w myvId=",">,</w>
 <w myvId="веслам">v́eslam</w>
 <w myvId="?">?</w>
+</x>
 <GeoU xml:lang="myv">NPyrma</GeoU>
 <sources>
 <book name="VII" pg="74"/>
@@ -34684,7 +34719,7 @@ Aus russ. Instr.-F. <Et>крестом</Et>]
 <GeoU xml:lang="mdf">Pimb</GeoU>
 </l_variants>
 </lg>
-<DrvG>(<Cx vl="allative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="allative"/>)</compg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -34722,6 +34757,7 @@ Aus russ. Instr.-F. <Et>крестом</Et>]
 <w myvId="вешка">v́eška</w>
 <w edit="MK" myvId="полынеть">poli͔ńet́</w>
 <w myvId="?">?</w>
+</x>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
 <book name="1" pg="6"/>
@@ -34776,7 +34812,7 @@ Aus russ. Instr.-F. <Et>крестом</Et>]
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l/><st/>
 </lg>
-<DrvG>(<Cx vl="prolative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="prolative"/>)</compg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -34804,6 +34840,7 @@ Aus russ. Instr.-F. <Et>крестом</Et>]
 <w myvId="сука">suka</w>
 <w myvId="палага">palaga</w>
 <w myvId="?">?</w>
+</x>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
 <book name="1" pg="18"/>
@@ -34816,6 +34853,7 @@ Aus russ. Instr.-F. <Et>крестом</Et>]
 <w myvId="сюпав">śupav</w>
 <w edit="MK" myvId="дементей">d́eḿeńt́ej</w>
 <w myvId="?">?</w>
+</x>
 <GeoU xml:lang="myv">Jeg</GeoU>
 <sources>
 <book name="1" pg="106"/>
@@ -34862,10 +34900,10 @@ Aus russ. Instr.-F. <Et>крестом</Et>]
 <GeoU xml:lang="mdf">Jurtk</GeoU>
 </l_variants>
 </lg>
-<DrvG>[<re>wohl aus Lat.-F.</re><DrvStCtn><DrvSt><wCtn><w>mejeŋ
-<dcr><FrCm freeType="analogy" Modification="manus"/></dcr></w></WdCtn></DrvSt></DrvStCtn><tg xml:lang="deu">
+<compg drv="X:X»Adv" type="Der">[<re>wohl aus Lat.-F.</re><DrvStCtn><DrvSt><wCtn><w>mejeŋ
+<dcr><FrCm freeType="analogy" Modification="manus"/></dcr></w></wCtn></DrvSt></DrvStCtn><tg xml:lang="deu">
 <t>kontrahiert]</t>
-</tg></DrvG>
+</tg></compg>
 <mg>
 <Syntax function="Adv"/>
 <tg xml:lang="rus">
@@ -35211,7 +35249,7 @@ Aus russ. Instr.-F. <Et>крестом</Et>]
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l/><st/>
 </lg>
-<DrvG>(<Cx vl="ablative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="ablative"/>)</compg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -35279,6 +35317,7 @@ Aus russ. Instr.-F. <Et>крестом</Et>]
 <w myvId=",">,</w>
 <w myvId="одолел">odoĺel</w>
 <w myvId="?">?</w>
+</x>
 <GeoU xml:lang="myv">VVr</GeoU>
 <sources>
 <book name="II" pg="372"/>
@@ -35869,14 +35908,14 @@ Aus russ. Instr.-F. <Et>крестом</Et>]
 <GeoU xml:lang="mdf">Pš</GeoU>
 <mini_paradigm>
 <InflCtn>
-<InflTags tag="+SP+Gen+Indef"/>
+<InflTags msd="+SP+Gen+Indef"/>
 <Infl><w mdfId="ёт">jot</w>
 <w mdfId="мелян">ḿeĺän</w>
 </Infl>
 </InflCtn>,
 <InflCtn>
 <Infl>
-<w tag="+SP+Abl+Indef" mdfId="меляда">ḿeĺada</w>
+<w msd="+SP+Abl+Indef" mdfId="меляда">ḿeĺada</w>
 </Infl>
 </InflCtn>
 </mini_paradigm>
@@ -36266,7 +36305,7 @@ Aus russ. Instr.-F. <Et>крестом</Et>]
 <GeoU xml:lang="mdf">P</GeoU>
 </l_variants>
 </lg>
-<DrvG>(<Cx vl="allative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="allative"/>)</compg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -36286,7 +36325,7 @@ Aus russ. Instr.-F. <Et>крестом</Et>]
 <w myvId="мейне">ḿejńe·</w>
 <w myvId="туінк">tui·ŋḱ</w>
 <w myvId="ваксозынь">vakso·zi͔ń</w>
-<tk3 isa="excl"/></x>
+<w myvId="!">!</w></x>
 <GeoU xml:lang="myv">VVr</GeoU>
 <sources>
 <book name="II" pg="399"/>
@@ -36443,6 +36482,7 @@ Aus russ. Instr.-F. <Et>крестом</Et>]
 <w myvId="мейс">ḿejs</w>
 <w edit="MK" myvId="сыть">si͔t́</w>
 <w myvId="?">?</w>
+</x>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
 <book name="2" pg="81"/>
@@ -36455,6 +36495,7 @@ Aus russ. Instr.-F. <Et>крестом</Et>]
 <w myvId="попонть">popońt́</w>
 <w myvId="чавинк">čav́iŋḱ</w>
 <w myvId="?">?</w>
+</x>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
 <book name="2" pg="95"/>
@@ -36470,6 +36511,7 @@ Aus russ. Instr.-F. <Et>крестом</Et>]
 <w myvId=",">,</w>
 <w myvId="авардят">avaŕd́at</w>
 <w myvId="?">?</w>
+</x>
 <GeoU xml:lang="myv">Hl</GeoU>
 <sources>
 <book name="1" pg="80"/>
@@ -36484,6 +36526,7 @@ Aus russ. Instr.-F. <Et>крестом</Et>]
 <w myvId="тон">ton</w>
 <w myvId="авардят">avaŕd́at</w>
 <w myvId="?">?</w>
+</x>
 <GeoU xml:lang="myv">Bag</GeoU>
 <sources>
 <book name="I" pg="1"/>
@@ -36495,6 +36538,7 @@ Aus russ. Instr.-F. <Et>крестом</Et>]
 <w myvId="мейс">ḿejs</w>
 <w myvId="якат">jakat</w>
 <w myvId="?">?</w>
+</x>
 <GeoU xml:lang="myv">SŠant</GeoU>
 <xt xml:lang="deu">Warum streifst du umher?</xt>
 </xg>
@@ -36522,6 +36566,7 @@ Aus russ. Instr.-F. <Et>крестом</Et>]
 <w myvId=",">,</w>
 <w myvId="кольгиндят">koĺǵi·ńd́at</w>
 <w myvId="?">?</w>
+</x>
 <GeoU xml:lang="myv">Jeg</GeoU>
 <sources>
 <book name="1" pg="102"/>
@@ -36538,6 +36583,7 @@ Aus russ. Instr.-F. <Et>крестом</Et>]
 <w mdfId=",">,</w>
 <w mdfId="тяшкава">t́aškava</w>
 <w mdfId="?">?</w>
+</x>
 <GeoU xml:lang="mdf">P</GeoU>
 <sources>
 <book name="IV" pg="408"/>
@@ -36554,6 +36600,7 @@ Aus russ. Instr.-F. <Et>крестом</Et>]
 <w mdfId="рана">rana</w>
 <w mdfId="мацамак">macamak</w>
 <w mdfId="?">?</w>
+</x>
 <GeoU xml:lang="mdf">Pš</GeoU>
 <sources>
 <book name="IV" pg="401"/>
@@ -36595,6 +36642,7 @@ Aus russ. Instr.-F. <Et>крестом</Et>]
 <w mdfId="мазыста">mazi͔sta</w>
 <w mdfId="касфтомайть">kasftə̑majt́</w>
 <w mdfId="?">?</w>
+</x>
 <GeoU xml:lang="mdf">Sandr</GeoU>
 <sources>
 <book name="IV" pg="225"/>
@@ -36643,6 +36691,7 @@ Aus russ. Instr.-F. <Et>крестом</Et>]
 <w mdfId="шапам">šapam</w>
 <w mdfId="винанень">v́ina·ńəń</w>
 <w mdfId="?">?</w>
+</x>
 <GeoU xml:lang="mdf" edit="MK">P</GeoU>
 <sources>
 <book name="IV" pg="216"/>
@@ -36719,6 +36768,7 @@ Aus russ. Instr.-F. <Et>крестом</Et>]
 <w mdfId="монь">moń</w>
 <w mdfId="сёранязень">śorańäźəń</w>
 <w mdfId="?">?</w>
+</x>
 <GeoU xml:lang="mdf">Saz</GeoU>
 <sources>
 <book name="IV" pg="58"/>
@@ -36828,9 +36878,9 @@ Aus russ. Instr.-F. <Et>крестом</Et>]
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l/><st/>
 </lg>
-<DrvG>[<re>&lt;</re><source>*<CapI>
+<compg drv="X:X»Adv" type="Der">[<re>&lt;</re><source>*<CapI>
 <i><tk2>
-<w myvId="мезьстэ">ḿezsta</w></tk2></i></CapI>]</source></DrvG><DrvG>(<Cx vl="elative"/>)</DrvG>
+<w myvId="мезьстэ">ḿezsta</w></tk2></i></CapI>]</source></compg><compg drv="X:X»Adv" type="Der">(<Cx vl="elative"/>)</compg>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -36946,7 +36996,7 @@ Aus russ. Instr.-F. <Et>крестом</Et>]
 <GeoU xml:lang="mdf"/>
 </l_variants>
 </lg>
-<DrvG>(<Cx vl="inessive"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="inessive"/>)</compg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -36967,6 +37017,7 @@ Aus russ. Instr.-F. <Et>крестом</Et>]
 <tk3 edit="MK" isa="ws"/>
 <w edit="MK" myvId="семиянок">śeḿijanok</w>
 <w myvId="?">?</w>
+</x>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
 <book name="1" pg="36"/>
@@ -37174,7 +37225,7 @@ Aus russ. Instr.-F. <Et>крестом</Et>]
 <x>
 <w myvId="мекев">ḿeḱev</w>
 <w myvId="орштык">oršti͔ḱ</w>
-<tk3 isa="excl"/></x>
+<w myvId="!">!</w></x>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
 <book name="2" pg="122"/>
@@ -37201,7 +37252,7 @@ Aus russ. Instr.-F. <Et>крестом</Et>]
 <w myvId=",">,</w>
 <w myvId="мекев">ḿeḱev</w>
 <w myvId="потак">potak</w>
-<tk3 isa="excl"/></x>
+<w myvId="!">!</w></x>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
 <book name="2" pg="122"/>
@@ -37785,6 +37836,7 @@ Aus russ. Instr.-F. <Et>крестом</Et>]
 <w myvId="тон">ton</w>
 <w myvId="кадовить">kadov́it́</w>
 <w myvId="?">?</w>
+</x>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
 <book name="2" pg="122"/>
@@ -37803,6 +37855,7 @@ Aus russ. Instr.-F. <Et>крестом</Et>]
 <w myvId="а">a</w>
 <w myvId="морат">morat</w>
 <w myvId="?">?</w>
+</x>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
 <book name="1" pg="44"/>
@@ -37818,6 +37871,7 @@ Aus russ. Instr.-F. <Et>крестом</Et>]
 <w myvId="а">a</w>
 <w myvId="ярцат">jarcat</w>
 <w myvId="?">?</w>
+</x>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
 <book name="1" pg="66"/>
@@ -37833,6 +37887,7 @@ Aus russ. Instr.-F. <Et>крестом</Et>]
 <w myvId=",">,</w>
 <w myvId="пенерьва">ṕeńeŕva</w>
 <w myvId="?">?</w>
+</x>
 <GeoU xml:lang="myv">Hl</GeoU>
 <sources>
 <book name="1" pg="82"/>
@@ -37845,6 +37900,7 @@ Aus russ. Instr.-F. <Et>крестом</Et>]
 <w myvId="а">a</w>
 <w myvId="кортат">kortat</w>
 <w myvId="?">?</w>
+</x>
 <GeoUB xml:lang="myv"/>
 <xt xml:lang="deu">Warum sprichst du nicht(s)?</xt>
 </xg>
@@ -37887,6 +37943,7 @@ Aus russ. Instr.-F. <Et>крестом</Et>]
 <w myvId=",">,</w>
 <w myvId="сюмурдят">śumuŕd́at</w>
 <w myvId="?">?</w>
+</x>
 <GeoU xml:lang="myv">Kozl</GeoU>
 <sources>
 <book name="I" pg="4"/>
@@ -38053,7 +38110,7 @@ Aus russ. Instr.-F. <Et>крестом</Et>]
 <w myvId="молине">moĺińe</w>
 <w myvId="мельть">ḿeĺt́</w>
 <w myvId="моледе">moĺed́e</w>
-<tk3 isa="excl"/></x>
+<w myvId="!">!</w></x>
 <GeoU xml:lang="myv">Vez</GeoU>
 <sources>
 <book name="III" pg="6"/>
@@ -38357,13 +38414,13 @@ Aus russ. Instr.-F. <Et>крестом</Et>]
 <GeoU xml:lang="mdf">P</GeoU>
 <mini_paradigm>
 <InflCtn>
-<InflTags tag="+SP+Gen+Indef"/>
+<InflTags msd="+SP+Gen+Indef"/>
 <Infl><w mdfId="мелян">ḿeĺän</w>
 </Infl>
 </InflCtn>,
 <InflCtn>
 <Infl>
-<w tag="+SP+Abl+Indef" mdfId="меляда">ḿeĺada</w>
+<w msd="+SP+Abl+Indef" mdfId="меляда">ḿeĺada</w>
 </Infl>
 </InflCtn>
 </mini_paradigm>
@@ -38500,7 +38557,7 @@ Aus russ. Instr.-F. <Et>крестом</Et>]
 <GeoU xml:lang="mdf">Pičep</GeoU>
 </l_variants>
 </lg>
-<DrvG>(<Cx vl="allative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="allative"/>)</compg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -38571,7 +38628,7 @@ Aus russ. Instr.-F. <Et>крестом</Et>]
 <w mdfId="дядяй">d́äd́äj</w>
 <w mdfId=",">,</w>
 <w mdfId="пидесайть">ṕid́esajt́</w>
-<tk3 isa="excl"/></x>
+<w mdfId="!">!</w></x>
 <GeoU xml:lang="mdf">Pičep</GeoU>
 <sources>
 <book name="VIII" pg="270"/>
@@ -40241,6 +40298,7 @@ Aus russ. Instr.-F. <Et>крестом</Et>]
 <w myvId="ней">ńej</w>
 <w myvId="кудов">kudov</w>
 <w myvId="?">?</w>
+</x>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
 <book name="1" pg="6"/>
@@ -40349,6 +40407,7 @@ Aus russ. Instr.-F. <Et>крестом</Et>]
 <w myvId="ков">kov</w>
 <w myvId="якить">jaḱit́</w>
 <w myvId="?">?</w>
+</x>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
 <book name="1" pg="6"/>
@@ -40895,7 +40954,7 @@ Aus russ. Instr.-F. <Et>крестом</Et>]
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l/><st/>
 </lg>
-<DrvG>(<Cx vl="lative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="lative"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">на четыре части</t>
@@ -41186,7 +41245,7 @@ Aus russ. Instr.-F. <Et>крестом</Et>]
 <w mdfId=",">,</w>
 <w mdfId="пикск">ṕiksk</w>
 <w mdfId="сонь">soń</w>
-<tk3 isa="excl"/></x>
+<w mdfId="!">!</w></x>
 <GeoU xml:lang="mdf">MdJurtk</GeoU>
 <xt xml:lang="deu">Nimm deinen Gürtelriemen, lege ihn zweifach und prügle ihn!</xt>
 </xg>
@@ -41428,7 +41487,7 @@ Aus russ. Instr.-F. <Et>крестом</Et>]
 <w myvId="ойсе">ojśe</w>
 <w myvId="ля">ĺa</w>
 <w myvId="сакшнук">sakšnuk</w>
-<tk3 isa="excl"/></x>
+<w myvId="!">!</w></x>
 <GeoU xml:lang="myv">Šokša</GeoU>
 <sources>
 <book name="VII" pg="464"/>
@@ -41567,7 +41626,7 @@ Aus russ. Instr.-F. <Et>крестом</Et>]
 <GeoU xml:lang="mdf">Kr</GeoU>
 <mini_paradigm>
 <InflCtn>
-<InflTags tag="+Pl+Nom+Indef"/>
+<InflTags msd="+Pl+Nom+Indef"/>
 <Infl>
 <w mdfId="озадот">ozadə̑t</w>
 </Infl>
@@ -41890,7 +41949,7 @@ ChrE
 <w myvId="тон">ton</w>
 <w myvId="озакая">ozakaja</w>
 <w myvId="озадо">ozado</w>
-<tk3 isa="excl"/></x>
+<w myvId="!">!</w></x>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
 <book name="1" pg="116"/>
@@ -42014,7 +42073,7 @@ ChrE
 <GeoU xml:lang="mdf">P</GeoU>
 </l_variants>
 </lg>
-<DrvG>(<Cx vl="inessive"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="inessive"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">свободный</t>
@@ -42228,7 +42287,7 @@ ChrE
 <GeoU xml:lang="mdf">MdJurtk</GeoU>
 </l_variants>
 </lg>
-<DrvG>(<Cx vl="ablative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="ablative"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">в последний раз</t>
@@ -42286,7 +42345,7 @@ ChrE
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l/><st/>
 </lg>
-<DrvG>(<Cx vl="ablative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="ablative"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">(в) последний разок</t>
@@ -42921,7 +42980,7 @@ Instr.-F. <Et>охо́той</Et>
 <w myvId="паряк">paŕak</w>
 <w myvId="пизим">ṕiźiḿ</w>
 <w myvId="уле">uĺe</w>
-<tk3 isa="excl"/></x>
+<w myvId="!">!</w></x>
 <GeoU xml:lang="myv">Petr</GeoU>
 <sources>
 <book name="VIII" pg="104"/>
@@ -43697,7 +43756,7 @@ Instr.-F. <Et>охо́той</Et>
 <GeoU xml:lang="mdf">P</GeoU>
 <mini_paradigm>
 <InflCtn>
-<InflTags tag="+SP+Gen+Indef"/>
+<InflTags msd="+SP+Gen+Indef"/>
 <Infl>
 <w mdfId="пачк">pač́k</w>
 <w mdfId="потямань">pot́amań</w>
@@ -44803,7 +44862,7 @@ Instr.-F. <Et>охо́той</Et>
 <GeoU xml:lang="mdf">Kars</GeoU>
 </l_variants>
 </lg>
-<DrvG>(<Cx vl="illative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="illative"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">на полпути</t>
@@ -45068,7 +45127,7 @@ Instr.-F. <Et>охо́той</Et>
 <mini_paradigm>
 <InflCtn>
 <Infl>
-<w tag="+SP+Gen+Indef" mdfId="пяля">ṕäĺä</w>
+<w msd="+SP+Gen+Indef" mdfId="пяля">ṕäĺä</w>
 <w mdfId="-">-</w>
 <w mdfId="ваймəнь">vajməń</w>
 </Infl>
@@ -45104,7 +45163,7 @@ Instr.-F. <Et>охо́той</Et>
 <mini_paradigm>
 <InflCtn>
 <Infl>
-<w tag="+SP+Gen+Indef" mdfId="пяль">ṕäĺ</w>
+<w msd="+SP+Gen+Indef" mdfId="пяль">ṕäĺ</w>
 <w mdfId="-">-</w>
 <w mdfId="олгəнь">olgəń</w>
 </Infl>
@@ -45490,7 +45549,7 @@ Instr.-F. <Et>охо́той</Et>
 <w myvId="-" edit="MK">-</w>
 <wCtn>
 <w>v́eńed́e<DrvT vl="diminutive"/></w>
-</WdCtn>
+</wCtn>
 <w myvId="савань">savań</w>
 <w myvId="терюша">t́eŕuša</w>
 <w myvId="сон">son</w>
@@ -46008,7 +46067,7 @@ Instr.-F. <Et>охо́той</Et>
 <w mdfId=",">,</w>
 <w edit="MK" mdfId="пялес">ṕäĺəs</w>
 <w mdfId="сука">suka</w>
-<tk3 isa="excl"/></x>
+<w mdfId="!">!</w></x>
 <GeoU xml:lang="mdf">Temn</GeoU>
 <sources>
 <book name="VIII" pg="414"/>
@@ -46025,7 +46084,7 @@ Instr.-F. <Et>охо́той</Et>
 <w mdfId="сукаль">sukaĺ</w>
 <w mdfId="ягорнь">jagorń</w>
 <w mdfId="лисась">ĺisaś</w>
-<tk3 isa="excl"/></x>
+<w mdfId="!">!</w></x>
 <GeoU xml:lang="mdf">Temn</GeoU>
 <sources>
 <book name="VIII" pg="318"/>
@@ -46296,7 +46355,7 @@ Instr.-F. <Et>охо́той</Et>
 <GeoU xml:lang="mdf">Sel</GeoU>
 </l_variants>
 </lg>
-<DrvG>(<Cx vl="prolative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="prolative"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">вокруг</t>
@@ -46516,7 +46575,7 @@ Instr.-F. <Et>охо́той</Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="Adv"/><st/>
 </lg>
-<DrvG>(<Cx vl="illative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="illative"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">вокруг</t>
@@ -46554,7 +46613,7 @@ Instr.-F. <Et>охо́той</Et>
 <GeoU xml:lang="mdf">P</GeoU>
 </l_variants>
 </lg>
-<DrvG>(<Cx vl="elative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="elative"/>)</compg>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -46622,7 +46681,7 @@ Instr.-F. <Et>охо́той</Et>
 <GeoU xml:lang="mdf">Kiš</GeoU>
 </l_variants>
 </lg>
-<DrvG>(<Cx vl="inessive"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="inessive"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">вокруг</t>
@@ -46713,7 +46772,7 @@ Instr.-F. <Et>охо́той</Et>
 <GeoU xml:lang="mdf">Sučk</GeoU>
 </l_variants>
 </lg>
-<DrvG>(<Cx vl="illative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="illative"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">до конца</t>
@@ -47346,7 +47405,7 @@ Instr.-F. <Et>охо́той</Et>
 <GeoU xml:lang="mdf" edit="MK">Mam</GeoU>
 </l_variants>
 </lg>
-<DrvG>(<Cx vl="inessive"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="inessive"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t>брюхатая</t>
@@ -47760,7 +47819,7 @@ Aus dem russ. Ger. <Et>погодя́].</Et>
 <w myvId=",">,</w>
 <w myvId="кунчказонзо">kunčkazonzo</w>
 <w myvId="гьривинник">ǵŕiv́ińńiḱ</w>
-<tk3 isa="excl"/></x>
+<w myvId="!">!</w></x>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
 <book name="1" pg="136"/>
@@ -47984,7 +48043,7 @@ Aus dem russ. Ger. <Et>погодя́].</Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="Adv"/><st/>
 </lg>
-<DrvG>(<Cx vl="illative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="illative"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">допоздна</t>
@@ -48458,10 +48517,10 @@ Aus dem russ. Ger. <Et>погодя́].</Et>
 </GeoUB>
 </l_variants>
 </lg>
-<DrvG><CxCtn>
+<compg drv="X:X»Adv" type="Der"><CxCtn>
 <FrCm edit="MK" freeType="questionRelation" Modification="MK"/>
 <Cx vl="illative"/>
-</CxCtn></DrvG>
+</CxCtn></compg>
 <mg>
 <tg xml:lang="rus">
 <t>постоянно</t>
@@ -49149,7 +49208,7 @@ Aus dem russ. Ger. <Et>погодя́].</Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l/><st/>
 </lg>
-<DrvG>(<Cx vl="inessive"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="inessive"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">‑ветвистый</t>
@@ -49198,7 +49257,7 @@ Aus dem russ. Ger. <Et>погодя́].</Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l/><st/>
 </lg>
-<DrvG>(<Cx vl="inessive"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="inessive"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">(с числительными) ‑рогий</t>
@@ -49387,14 +49446,14 @@ Aus dem russ. Ger. <Et>погодя́].</Et>
 <GeoU xml:lang="mdf">P</GeoU>
 <mini_paradigm>
 <InflCtn>
-<InflTags tag="+SP+Gen+Indef"/>
+<InflTags msd="+SP+Gen+Indef"/>
 <FrCm suggests="JMR"><Cx vl="inessive+genitive"/></FrCm>
 <Infl>
 <w mdfId="рӓцə̑н">räcə̑n</w>
 </Infl>
 </InflCtn>,
 <InflCtn>
-<InflTags tag="+SP+Abl+Indef"/>
+<InflTags msd="+SP+Abl+Indef"/>
 <FrCm suggests="JMR"><Cx vl="elative"/></FrCm>
 <Infl>
 <w mdfId="рӓцтӓ">räctä</w>
@@ -49409,7 +49468,7 @@ Aus dem russ. Ger. <Et>погодя́].</Et>
 <GeoU xml:lang="mdf">Alk</GeoU>
 </l_variants>
 </lg>
-<DrvG>(<Cx vl="illative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="illative"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t>по порядку</t>
@@ -49480,7 +49539,7 @@ Aus dem russ. Ger. <Et>погодя́].</Et>
 <w mdfId="ярхтсада">jarʿtsada</w>
 <w mdfId="-">-</w>
 <w mdfId="симəдя">śiməd́ä</w>
-<tk3 isa="excl"/></x>
+<w mdfId="!">!</w></x>
 <GeoU xml:lang="mdf">Alk</GeoU>
 <xt xml:lang="deu">Esst und trinkt alle!</xt>
 </xg>
@@ -49591,7 +49650,7 @@ Aus dem russ. Ger. <Et>погодя́].</Et>
 <GeoU xml:lang="mdf">P</GeoU>
 </l_variants>
 </lg>
-<DrvG>(<Cx vl="inessive"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="inessive"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">рядом</t>
@@ -49813,7 +49872,7 @@ Aus dem russ. Ger. <Et>погодя́].</Et>
 <w myvId="кортан">kortan</w>
 <w myvId="мартот">martot</w>
 <w myvId="салава">salava</w>
-<tk3 isa="excl"/></x>
+<w myvId="!">!</w></x>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
 <book name="2" pg="95"/>
@@ -50161,7 +50220,7 @@ Aus dem russ. Ger. <Et>погодя́].</Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="Adv"/><st/>
 </lg>
-<DrvG>(<l_drv drvType="diminutive" CyrId="састо">sasto</l_drv><l_drv drvType="diminutive" CyrId="састӑ">sastă</l_drv>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<l_drv drvType="diminutive" CyrId="састо">sasto</l_drv><l_drv drvType="diminutive" CyrId="састӑ">sastă</l_drv>)</compg>
 <mg>
 <Syntax function="Adv"/>
 <tg xml:lang="rus">
@@ -50336,7 +50395,7 @@ Aus dem russ. Ger. <Et>погодя́].</Et>
 <GeoU xml:lang="mdf">P</GeoU>
 </l_variants>
 </lg>
-<DrvG>(<Cx vl="illative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="illative"/>)</compg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -50408,7 +50467,7 @@ Aus dem russ. Ger. <Et>погодя́].</Et>
 </Vrt>
 </Chc>
 <w myvId="ускик">usḱiḱ</w>
-<tk3 isa="excl"/></x>
+<w myvId="!">!</w></x>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
 <book name="1" pg="74"/>
@@ -50482,7 +50541,7 @@ Aus dem russ. Ger. <Et>погодя́].</Et>
 <w myvId="сезэнь">śeze͔</w>
 <w myvId="-" edit="MK">-</w>
 <w myvId="сезэнь">śeze͔</w>
-<tk3 isa="excl"/></x>
+<w myvId="!">!</w></x>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
 <book name="2" pg="108"/>
@@ -50559,7 +50618,7 @@ Aus dem russ. Ger. <Et>погодя́].</Et>
 <w mdfId="сясы">śasi͔</w>
 <w mdfId="мон">mon</w>
 <w edit="MK" mdfId="пексомань">ṕeksə̑mań</w>
-<tk3 isa="excl"/></x>
+<w mdfId="!">!</w></x>
 <GeoU xml:lang="mdf">P</GeoU>
 <sources>
 <book name="IV" pg="850"/>
@@ -50625,11 +50684,11 @@ Aus dem russ. Ger. <Et>погодя́].</Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l/><st/>
 </lg>
-<DrvG><CxCtn>
+<compg drv="X:X»Adv" type="Der"><CxCtn>
 <Cx edit="MK" vl="illative"/>
 </CxCtn>[
 <fnct>+</fnct>
-<Cx vl="lative"/>]</DrvG>
+<Cx vl="lative"/>]</compg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -50810,9 +50869,9 @@ Aus dem russ. Ger. <Et>погодя́].</Et>
 <GeoU xml:lang="mdf">MdJurtk</GeoU>
 </l_variants>
 </lg>
-<DrvG><CxCtn>
+<compg drv="X:X»Adv" type="Der"><CxCtn>
 <Cx edit="MK" vl="lative"/>
-</CxCtn></DrvG>
+</CxCtn></compg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -50869,7 +50928,7 @@ Aus dem russ. Ger. <Et>погодя́].</Et>
 <w mdfId="~">~</w>
 <w mdfId="сак">sak</w>
 <w mdfId="се">śe</w>
-<tk3 isa="excl"/></x>
+<w mdfId="!">!</w></x>
 <GeoU xml:lang="mdf">P</GeoU>
 <xt xml:lang="deu">Komm hierher!</xt>
 </xg>
@@ -50961,7 +51020,7 @@ Aus dem russ. Ger. <Et>погодя́].</Et>
 <w mdfId=",">,</w>
 <w mdfId="то">to</w>
 <w mdfId="каф">kaf</w>
-<tk3 isa="excl"/></x>
+<w mdfId="!">!</w></x>
 <GeoU xml:lang="mdf" edit="MK">Mam</GeoU>
 <sources>
 <book name="IV" pg="862"/>
@@ -51040,9 +51099,9 @@ Aus dem russ. Ger. <Et>погодя́].</Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l/><st/>
 </lg>
-<DrvG><CxCtn>
+<compg drv="X:X»Adv" type="Der"><CxCtn>
 <Cx edit="MK" vl="translative"/>
-</CxCtn></DrvG>
+</CxCtn></compg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -51224,21 +51283,17 @@ Aus dem russ. Ger. <Et>погодя́].</Et>
 <w myvId="эзик">eźiḱ</w>
 <w myvId="тейть">t́ejt́</w>
 <w myvId="?">?</w>
-[
-<GeoUB xml:lang="myv">
-<GeoUCtn>
-<GeoU edit="manus" freeType="questionRelation" xml:lang="myv">NSurk]</GeoU>
-</GeoUCtn>
-</GeoUB>
+</x>
+<GeoU edit="manus:MK" freeType="questionRelation" xml:lang="myv">NSurk</GeoU>
 <xt xml:lang="deu">Wie hast du es bisher (= noch) nicht getan?</xt>
 </xg>
 <xg>
 <x>
-<w myvId="моньцесь">mońćeś</w>
+<w myvId="монсесь">mońćeś</w>
 <w myvId="семс">śems</w>
 <w myvId="и">i</w>
 <w myvId="завтрок">zavtrok</w>
-<w myvId="кенерьцтясь">ḱeńeŕćt́aś</w>
+<w myvId="кенерстясь">ḱeńeŕćt́aś</w>
 </x>
 <GeoU xml:lang="myv" edit="MK">NSurk</GeoU>
 <sources>
@@ -51488,7 +51543,7 @@ Eine unrichtig gebildete Instr.-F. vom russ. Subst. <Et>сердце]</Et>
 <w myvId=",">,</w>
 <w myvId="сеск">śesk</w>
 <w myvId="виік">v́iiḱ</w>
-<tk3 isa="excl"/></x>
+<w myvId="!">!</w></x>
 <GeoU xml:lang="myv">MKly</GeoU>
 <sources>
 <book name="VII" pg="20"/>
@@ -51735,7 +51790,7 @@ Eine unrichtig gebildete Instr.-F. vom russ. Subst. <Et>сердце]</Et>
 <GeoU xml:lang="mdf">Gor</GeoU>
 </l_variants>
 </lg>
-<DrvG>(<Cx vl="elative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="elative"/>)</compg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -51829,7 +51884,7 @@ Eine unrichtig gebildete Instr.-F. vom russ. Subst. <Et>сердце]</Et>
 <w myvId=",">,</w>
 <w myvId="сестэ">śeste͔</w>
 <w myvId="пицевезэ">ṕićev́eze͔</w>
-<tk3 isa="excl"/></x>
+<w myvId="!">!</w></x>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
 <book name="2" pg="7"/>
@@ -52020,7 +52075,7 @@ Eine unrichtig gebildete Instr.-F. vom russ. Subst. <Et>сердце]</Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l/><st/>
 </lg>
-<DrvG>(<Cx vl="inessive"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="inessive"/>)</compg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -52258,7 +52313,7 @@ Eine unrichtig gebildete Instr.-F. vom russ. Subst. <Et>сердце]</Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="Adv"/><st/>
 </lg>
-<DrvG>(<Cx vl="lative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="lative"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">на семь частей</t>
@@ -52398,7 +52453,7 @@ Eine unrichtig gebildete Instr.-F. vom russ. Subst. <Et>сердце]</Et>
 <GeoU xml:lang="mdf">Bar</GeoU>
 </l_variants>
 </lg>
-<DrvG>(<Cx vl="prolative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="prolative"/>)</compg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -52914,7 +52969,7 @@ Eine unrichtig gebildete Instr.-F. vom russ. Subst. <Et>сердце]</Et>
 <w myvId="лоткавсак">lotkavsak</w>
 <w myvId="айгором">ajgorom</w>
 <w myvId="сразу">srazu</w>
-<tk3 isa="excl"/></x>
+<w myvId="!">!</w></x>
 <GeoU xml:lang="myv">VVr</GeoU>
 <sources>
 <book name="III" pg="276"/>
@@ -54058,7 +54113,7 @@ Eine unrichtig gebildete Instr.-F. vom russ. Subst. <Et>сердце]</Et>
 <w myvId="сырк">si͔rk</w>
 <w edit="MK" myvId="мерезэ">ḿeŕeze͔</w>
 <w myvId="телынеть">t́eli͔ńet́</w>
-<tk3 isa="excl"/></x>
+<w myvId="!">!</w></x>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
 <book name="1" pg="202"/>
@@ -54250,7 +54305,7 @@ Eine unrichtig gebildete Instr.-F. vom russ. Subst. <Et>сердце]</Et>
 <w mdfId="серцек">śerćek</w>
 <mini_paradigm>
 <InflCtn>
-<Infl><w tag="+Pl+Nom+Indef" mdfId="серцект">śerćekt</w>
+<Infl><w msd="+Pl+Nom+Indef" mdfId="серцект">śerćekt</w>
 </Infl>
 </InflCtn>
 </mini_paradigm></PhnU>
@@ -54364,7 +54419,7 @@ Eine unrichtig gebildete Instr.-F. vom russ. Subst. <Et>сердце]</Et>
 <GeoU xml:lang="mdf">Sel</GeoU>
 </l_variants>
 </lg>
-<DrvG>(<Cx vl="inessive"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="inessive"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">‑рогий</t>
@@ -55123,7 +55178,7 @@ Eine unrichtig gebildete Instr.-F. vom russ. Subst. <Et>сердце]</Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="Adv"/><st/>
 </lg>
-<DrvG>(<Cx vl="elative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="elative"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">издали</t>
@@ -55202,7 +55257,7 @@ Eine unrichtig gebildete Instr.-F. vom russ. Subst. <Et>сердце]</Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l/><st/>
 </lg>
-<DrvG>(<Cx vl="lative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="lative"/>)</compg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -55266,7 +55321,7 @@ Eine unrichtig gebildete Instr.-F. vom russ. Subst. <Et>сердце]</Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l/><st/>
 </lg>
-<DrvG>(<Cx vl="ablative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="ablative"/>)</compg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -55323,7 +55378,7 @@ Eine unrichtig gebildete Instr.-F. vom russ. Subst. <Et>сердце]</Et>
 <GeoU xml:lang="mdf">Sel</GeoU>
 </l_variants>
 </lg>
-<DrvG>(<Cx vl="ablative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="ablative"/>)</compg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -55358,7 +55413,7 @@ Eine unrichtig gebildete Instr.-F. vom russ. Subst. <Et>сердце]</Et>
 <x>
 <w myvId="кулат">kulat</w>
 <w myvId="теда">t́eda</w>
-<tk3 isa="excl"/></x>
+<w myvId="!">!</w></x>
 <GeoU xml:lang="myv">Petr</GeoU>
 <sources>
 <book name="VIII" pg="254"/>
@@ -55532,12 +55587,12 @@ Eine unrichtig gebildete Instr.-F. vom russ. Subst. <Et>сердце]</Et>
 <mini_paradigm>
 <InflCtn>
 <Infl>
-<w tag="+SP+Gen+Indef" mdfId="тядден">t́add́en</w>
+<w msd="+SP+Gen+Indef" mdfId="тядден">t́add́en</w>
 </Infl>
 </InflCtn>,
 <InflCtn>
 <Infl>
-<w tag="+SP+Abl+Indef" mdfId="тяддедя">t́add́ed́ä</w>
+<w msd="+SP+Abl+Indef" mdfId="тяддедя">t́add́ed́ä</w>
 </Infl>
 </InflCtn>
 </mini_paradigm>
@@ -55772,6 +55827,7 @@ Eine unrichtig gebildete Instr.-F. vom russ. Subst. <Et>сердце]</Et>
 <w mdfId="тон">ton</w>
 <w mdfId="улят">uĺa·t</w>
 <w mdfId="?">?</w>
+</x>
 <GeoU xml:lang="mdf" edit="MK">P</GeoU>
 <sources>
 <book name="IV" pg="856"/>
@@ -55804,7 +55860,7 @@ Eine unrichtig gebildete Instr.-F. vom russ. Subst. <Et>сердце]</Et>
 <GeoU xml:lang="mdf">Sel</GeoU>
 </l_variants>
 </lg>
-<DrvG>(<Cx vl="illative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="illative"/>)</compg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -55827,7 +55883,7 @@ Eine unrichtig gebildete Instr.-F. vom russ. Subst. <Et>сердце]</Et>
 <w myvId="нешке">ńešḱe</w>
 <w myvId="-" edit="MK">-</w>
 <w myvId="пире">ṕiŕe</w>
-<tk3 isa="excl"/></x>
+<w myvId="!">!</w></x>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
 <book name="2" pg="93"/>
@@ -55845,6 +55901,7 @@ Eine unrichtig gebildete Instr.-F. vom russ. Subst. <Et>сердце]</Et>
 <w myvId="тон">ton</w>
 <w myvId="тезэ">t́eze͔</w>
 <w myvId="?">?</w>
+</x>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
 <book name="2" pg="92"/>
@@ -55858,6 +55915,7 @@ Eine unrichtig gebildete Instr.-F. vom russ. Subst. <Et>сердце]</Et>
 <w myvId="путызе">puti͔źe</w>
 <w edit="MK" myvId="винанть">v́inańt́</w>
 <w myvId="?">?</w>
+</x>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
 <book name="2" pg="94"/>
@@ -55985,7 +56043,7 @@ Eine unrichtig gebildete Instr.-F. vom russ. Subst. <Et>сердце]</Et>
 <w myvId="нешке">ńešḱe</w>
 <w myvId="-" edit="MK">-</w>
 <w myvId="пире">ṕiŕe</w>
-<tk3 isa="excl"/></x>
+<w myvId="!">!</w></x>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
 <book name="2" pg="93"/>
@@ -56040,7 +56098,7 @@ Eine unrichtig gebildete Instr.-F. vom russ. Subst. <Et>сердце]</Et>
 </sources>
 </l_variants>
 </lg>
-<DrvG>(<Cx vl="lative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="lative"/>)</compg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -56102,7 +56160,7 @@ Eine unrichtig gebildete Instr.-F. vom russ. Subst. <Et>сердце]</Et>
 <w myvId="атятак">at́atak</w>
 <w myvId="туик">tujiḱ</w>
 <w myvId="тей">t́ej</w>
-<tk3 isa="excl"/></x>
+<w myvId="!">!</w></x>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
 <book name="2" pg="92"/>
@@ -56499,7 +56557,7 @@ Eine unrichtig gebildete Instr.-F. vom russ. Subst. <Et>сердце]</Et>
 <w myvId="дай">daj</w>
 <w myvId="прякат">ṕŕakat</w>
 <w myvId="пандяма">pańd́ama</w>
-<tk3 isa="excl"/></x>
+<w myvId="!">!</w></x>
 <GeoU xml:lang="myv">Kal</GeoU>
 <sources>
 <book name="2" pg="147"/>
@@ -56586,7 +56644,7 @@ Eine unrichtig gebildete Instr.-F. vom russ. Subst. <Et>сердце]</Et>
 <w mdfId=",">,</w>
 <w mdfId="монга">moŋga</w>
 <w mdfId="мораса">morasa</w>
-<tk3 isa="excl"/></x>
+<w mdfId="!">!</w></x>
 <GeoU xml:lang="mdf">Pičep</GeoU>
 <sources>
 <book name="VIII" pg="268"/>
@@ -57010,7 +57068,7 @@ Eine unrichtig gebildete Instr.-F. vom russ. Subst. <Et>сердце]</Et>
 </sources>
 </l_variants>
 </lg>
-<DrvG>(<Cx vl="elative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="elative"/>)</compg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -57051,6 +57109,7 @@ Eine unrichtig gebildete Instr.-F. vom russ. Subst. <Et>сердце]</Et>
 <w myvId="миненек">ḿińeńeḱ</w>
 <w myvId="лисемс">ĺiśems</w>
 <w myvId="?">?</w>
+</x>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
 <book name="2" pg="105"/>
@@ -57293,7 +57352,7 @@ Eine unrichtig gebildete Instr.-F. vom russ. Subst. <Et>сердце]</Et>
 <GeoU xml:lang="mdf">Sel</GeoU>
 </l_variants>
 </lg>
-<DrvG>(<Cx vl="inessive"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="inessive"/>)</compg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -57348,6 +57407,7 @@ Eine unrichtig gebildete Instr.-F. vom russ. Subst. <Et>сердце]</Et>
 <w myvId="пиватес">ṕivat́es</w>
 <w myvId="симе">śiḿe</w>
 <w myvId="?">?</w>
+</x>
 <GeoU xml:lang="myv">Kal</GeoU>
 <sources>
 <book name="2" pg="129"/>
@@ -57842,7 +57902,7 @@ Eine unrichtig gebildete Instr.-F. vom russ. Subst. <Et>сердце]</Et>
 <w mdfId=",">,</w>
 <w mdfId="тятшемс">t́ätšems</w>
 <w mdfId="сашə̑нды">sašə̑ndi͔</w>
-<tk3 isa="excl"/></x>
+<w mdfId="!">!</w></x>
 <GeoU xml:lang="mdf">P</GeoU>
 <xt xml:lang="deu">Er versprach, bald zu kommen, bis heute tut er kommen (= Er ist nicht gekommen und wird auch nicht kommen) (iron.).</xt>
 </xg>
@@ -58261,7 +58321,7 @@ Eine unrichtig gebildete Instr.-F. vom russ. Subst. <Et>сердце]</Et>
 <GeoU xml:lang="mdf">Bar</GeoU>
 </l_variants>
 </lg>
-<DrvG>(<Cx vl="inessive"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="inessive"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">с одним</t>
@@ -58317,9 +58377,9 @@ Eine unrichtig gebildete Instr.-F. vom russ. Subst. <Et>сердце]</Et>
 <GeoU xml:lang="mdf">Pläj</GeoU>
 </l_variants>
 </lg>
-<DrvG><CxCtn>
+<compg drv="X:X»Adv" type="Der"><CxCtn>
 <Cx edit="MK" vl="lative"/>
-</CxCtn></DrvG>
+</CxCtn></compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">в каждый отдельно</t>
@@ -58786,7 +58846,7 @@ Eine unrichtig gebildete Instr.-F. vom russ. Subst. <Et>сердце]</Et>
 </sources>
 </l_variants>
 </lg>
-<DrvG>(<Cx vl="prolative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="prolative"/>)</compg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -58832,6 +58892,7 @@ Eine unrichtig gebildete Instr.-F. vom russ. Subst. <Et>сердце]</Et>
 <w myvId="тия">t́ija</w>
 <w myvId="якат">jakat</w>
 <w myvId="?">?</w>
+</x>
 <GeoU xml:lang="myv">Atr</GeoU>
 <xt xml:lang="deu">Was streifst du hier?</xt>
 </xg>
@@ -59107,7 +59168,7 @@ Eine unrichtig gebildete Instr.-F. vom russ. Subst. <Et>сердце]</Et>
 <GeoU xml:lang="mdf">MdJurtk</GeoU>
 </l_variants>
 </lg>
-<DrvG>(<Cx vl="lative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="lative"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t>туда</t>
@@ -59258,7 +59319,7 @@ Eine unrichtig gebildete Instr.-F. vom russ. Subst. <Et>сердце]</Et>
 <w mdfId=",">,</w>
 <w mdfId="то">to</w>
 <w mdfId="каф">kaf</w>
-<tk3 isa="excl"/></x>
+<w mdfId="!">!</w></x>
 <GeoU xml:lang="mdf" edit="MK">Mam</GeoU>
 <sources>
 <book name="IV" pg="862"/>
@@ -59306,7 +59367,7 @@ Eine unrichtig gebildete Instr.-F. vom russ. Subst. <Et>сердце]</Et>
 <GeoU xml:lang="mdf">Sučk</GeoU>
 </l_variants>
 </lg>
-<DrvG>(<Cx vl="prolative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="prolative"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">по той стороне</t>
@@ -59384,7 +59445,7 @@ Eine unrichtig gebildete Instr.-F. vom russ. Subst. <Et>сердце]</Et>
 <GeoU xml:lang="mdf">Sel</GeoU>
 </l_variants>
 </lg>
-<DrvG>(<Cx vl="ablative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="ablative"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">с той стороны</t>
@@ -59569,7 +59630,7 @@ Eine unrichtig gebildete Instr.-F. vom russ. Subst. <Et>сердце]</Et>
 <GeoU xml:lang="mdf">MdJurtk</GeoU>
 </l_variants>
 </lg>
-<DrvG>(<Cx vl="locative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="locative"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">на той стороне</t>
@@ -59754,7 +59815,7 @@ Eine unrichtig gebildete Instr.-F. vom russ. Subst. <Et>сердце]</Et>
 <GeoU xml:lang="mdf">MdJurtk</GeoU>
 </l_variants>
 </lg>
-<DrvG>(<Cx vl="lative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="lative"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">в ту сторону</t>
@@ -59919,7 +59980,7 @@ Eine unrichtig gebildete Instr.-F. vom russ. Subst. <Et>сердце]</Et>
 <GeoU xml:lang="mdf">P</GeoU>
 </l_variants>
 </lg>
-<DrvG>(<Cx vl="illative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="illative"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">туда</t>
@@ -60368,7 +60429,7 @@ Eine unrichtig gebildete Instr.-F. vom russ. Subst. <Et>сердце]</Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l/><st/>
 </lg>
-<DrvG>(<Cx vl="locative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="locative"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">под шестком</t>
@@ -60417,7 +60478,7 @@ Eine unrichtig gebildete Instr.-F. vom russ. Subst. <Et>сердце]</Et>
 </sources>
 </l_variants>
 </lg>
-<DrvG>(<Cx vl="lative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="lative"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">под шесток</t>
@@ -60540,7 +60601,7 @@ Eine unrichtig gebildete Instr.-F. vom russ. Subst. <Et>сердце]</Et>
 <GeoU xml:lang="mdf">P</GeoU>
 </l_variants>
 </lg>
-<DrvG>(<Cx vl="inessive"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="inessive"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">на шестке</t>
@@ -60633,7 +60694,7 @@ Eine unrichtig gebildete Instr.-F. vom russ. Subst. <Et>сердце]</Et>
 <GeoU xml:lang="mdf">Sel</GeoU>
 </l_variants>
 </lg>
-<DrvG>(<Cx vl="illative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="illative"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t>на шесток</t>
@@ -60671,7 +60732,7 @@ Eine unrichtig gebildete Instr.-F. vom russ. Subst. <Et>сердце]</Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l/><st/>
 </lg>
-<DrvG>(<Cx vl="prolative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="prolative"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">по шестку</t>
@@ -60749,7 +60810,7 @@ Eine unrichtig gebildete Instr.-F. vom russ. Subst. <Et>сердце]</Et>
 <GeoU xml:lang="mdf">Pš</GeoU>
 </l_variants>
 </lg>
-<DrvG>(<Cx vl="locative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="locative"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">на той стороне</t>
@@ -60952,7 +61013,7 @@ Eine unrichtig gebildete Instr.-F. vom russ. Subst. <Et>сердце]</Et>
 </sources>
 </l_variants>
 </lg>
-<DrvG>(<Cx vl="lative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="lative"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">на ту сторону</t>
@@ -61079,7 +61140,7 @@ Eine unrichtig gebildete Instr.-F. vom russ. Subst. <Et>сердце]</Et>
 <w myvId=",">,</w>
 <w myvId="чопода">čopo·da</w>
 <w myvId="вяц">v́äc</w>
-<tk3 isa="excl"/></x>
+<w myvId="!">!</w></x>
 <GeoU xml:lang="myv">Ba</GeoU>
 <sources>
 <book name="VII" pg="388"/>
@@ -61134,7 +61195,7 @@ Eine unrichtig gebildete Instr.-F. vom russ. Subst. <Et>сердце]</Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l/><st/>
 </lg>
-<DrvG>(<Cx vl="prolative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="prolative"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">по той стороне</t>
@@ -61192,7 +61253,7 @@ Eine unrichtig gebildete Instr.-F. vom russ. Subst. <Et>сердце]</Et>
 <GeoU xml:lang="mdf">Sučk</GeoU>
 </l_variants>
 </lg>
-<DrvG>(<Cx vl="ablative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="ablative"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">с той стороны</t>
@@ -61334,7 +61395,7 @@ Eine unrichtig gebildete Instr.-F. vom russ. Subst. <Et>сердце]</Et>
 <w myvId=",">,</w>
 <w myvId="аштик">a·št́iḱ</w>
 <w myvId="тоск">tosk</w>
-<tk3 isa="excl"/></x>
+<w myvId="!">!</w></x>
 <GeoU xml:lang="myv">Ba</GeoU>
 <sources>
 <book name="VII" pg="388"/>
@@ -61532,7 +61593,7 @@ Eine unrichtig gebildete Instr.-F. vom russ. Subst. <Et>сердце]</Et>
 <GeoU xml:lang="mdf">Sel</GeoU>
 </l_variants>
 </lg>
-<DrvG>(<Cx vl="inessive"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="inessive"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">там</t>
@@ -61563,6 +61624,7 @@ Eine unrichtig gebildete Instr.-F. vom russ. Subst. <Et>сердце]</Et>
 <w myvId="тосо">toso</w>
 <w myvId="стуки">stuḱi</w>
 <w myvId="?">?</w>
+</x>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
 <book name="2" pg="115"/>
@@ -61807,7 +61869,7 @@ Eine unrichtig gebildete Instr.-F. vom russ. Subst. <Et>сердце]</Et>
 <w myvId="ды">di͔</w>
 <w myvId="давай">davaj</w>
 <w myvId="чавомо">čavomo</w>
-<tk3 isa="excl"/></x>
+<w myvId="!">!</w></x>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
 <book name="2" pg="95"/>
@@ -62028,7 +62090,7 @@ Eine unrichtig gebildete Instr.-F. vom russ. Subst. <Et>сердце]</Et>
 <w myvId=",">,</w>
 <w myvId="курва">kurva</w>
 <w myvId="уляша">uĺaša</w>
-<tk3 isa="excl"/></x>
+<w myvId="!">!</w></x>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
 <book name="1" pg="38"/>
@@ -62047,7 +62109,7 @@ Eine unrichtig gebildete Instr.-F. vom russ. Subst. <Et>сердце]</Et>
 <w myvId=",">,</w>
 <w myvId="дурак">durak</w>
 <w myvId="андямо">ańd́amo</w>
-<tk3 isa="excl"/></x>
+<w myvId="!">!</w></x>
 <GeoU xml:lang="myv">MKly</GeoU>
 <sources>
 <book name="VII" pg="6"/>
@@ -62066,7 +62128,7 @@ Eine unrichtig gebildete Instr.-F. vom russ. Subst. <Et>сердце]</Et>
 <w myvId=",">,</w>
 <w myvId="те">t́e</w>
 <w myvId="службасть">službaśt́</w>
-<tk3 isa="excl"/></x>
+<w myvId="!">!</w></x>
 <GeoU xml:lang="myv">MKly</GeoU>
 <sources>
 <book name="VII" pg="42"/>
@@ -62185,7 +62247,7 @@ Eine unrichtig gebildete Instr.-F. vom russ. Subst. <Et>сердце]</Et>
 <w myvId="превтемат">pŕevt́emat</w>
 <w myvId=",">,</w>
 <w myvId="тюгаля">t́ugaĺa</w>
-<tk3 isa="excl"/></x>
+<w myvId="!">!</w></x>
 <GeoU xml:lang="myv">Sulli</GeoU>
 <sources>
 <book name="VII" pg="90"/>
@@ -62312,7 +62374,7 @@ Eine unrichtig gebildete Instr.-F. vom russ. Subst. <Et>сердце]</Et>
 </sources>
 </l_variants>
 </lg>
-<DrvG>(<Cx vl="prolative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="prolative"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">там</t>
@@ -63002,7 +63064,7 @@ Instr.-F. <Et>угово́ром].</Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l/><st/>
 </lg>
-<DrvG>(<Cx vl="inessive"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="inessive"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">находящийся в углу</t>
@@ -63291,7 +63353,7 @@ Instr.-F. <Et>угово́ром].</Et>
 <w>uĺʿk<Chc><Vrt/><Vrt>ă</Vrt>
 </Chc><vrs1 edit="MK" status="l">ulʿk<Chc><Vrt/><Vrt>ă</Vrt>
 </Chc></vrs1></w>
-</WdCtn>
+</wCtn>
 <w mdfId="-">-</w>
 <w mdfId="кигɛ">ḱiǵɛ·</w>
 </PhnU>
@@ -63786,7 +63848,7 @@ Instr.-F. <Et>угово́ром].</Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="Adv"/><st/>
 </lg>
-<DrvG>(<Cx vl="inessive"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="inessive"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">подраж. волочению, шарканию (волоча, шаркая)</t>
@@ -63918,7 +63980,7 @@ Instr.-F. <Et>угово́ром].</Et>
 <w myvId=",">,</w>
 <w myvId="иля">iĺa</w>
 <w myvId="кевкснеяк">ḱevkśńejak</w>
-<tk3 isa="excl"/></x>
+<w myvId="!">!</w></x>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
 <book name="2" pg="101"/>
@@ -63986,7 +64048,7 @@ Instr.-F. <Et>угово́ром].</Et>
 <w myvId=",">,</w>
 <w myvId="уш">uš</w>
 <w myvId="аварди">avaŕd́i</w>
-<tk3 isa="excl"/></x>
+<w myvId="!">!</w></x>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
 <book name="2" pg="88"/>
@@ -64001,7 +64063,7 @@ Instr.-F. <Et>угово́ром].</Et>
 <w myvId=",">,</w>
 <w myvId="сынь">si͔ń</w>
 <w myvId="дивить">d́iv́it́</w>
-<tk3 isa="excl"/></x>
+<w myvId="!">!</w></x>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
 <book name="2" pg="107"/>
@@ -64104,9 +64166,9 @@ Instr.-F. <Et>угово́ром].</Et>
 <GeoU xml:lang="mdf">Sel</GeoU>
 </l_variants>
 </lg>
-<DrvG><CxCtn>
+<compg drv="X:X»Adv" type="Der"><CxCtn>
 <Cx edit="MK" vl="lative"/>
-</CxCtn></DrvG>
+</CxCtn></compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">наружу</t>
@@ -64189,7 +64251,7 @@ Instr.-F. <Et>угово́ром].</Et>
 <GeoU xml:lang="mdf"/>
 </l_variants>
 </lg>
-<DrvG>(<Cx vl="prolative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="prolative"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">(двигаясь) снаружи</t>
@@ -64218,7 +64280,7 @@ Instr.-F. <Et>угово́ром].</Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l/><st/>
 </lg>
-<DrvG>(<Cx vl="illative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="illative"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">наружу</t>
@@ -64286,7 +64348,7 @@ Instr.-F. <Et>угово́ром].</Et>
 <GeoU xml:lang="mdf"/>
 </l_variants>
 </lg>
-<DrvG>(<Cx vl="inessive"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="inessive"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">снаружи</t>
@@ -64364,7 +64426,7 @@ Instr.-F. <Et>угово́ром].</Et>
 <GeoU xml:lang="mdf"/>
 </l_variants>
 </lg>
-<DrvG>(<Cx vl="elative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="elative"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">извне</t>
@@ -65573,7 +65635,7 @@ jedoch <Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="Adv"/><st/>
 </lg>
-<DrvG>(<Cx vl="lative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="lative"/>)</compg>
 <mg>
 <Syntax function="Adv"/>
 <tg xml:lang="rus">
@@ -65678,6 +65740,7 @@ jedoch <Et>
 <w myvId="ней">ńej</w>
 <w myvId="сизить">śiźit́</w>
 <w myvId="?">?</w>
+</x>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
 <book name="2" pg="122"/>
@@ -65710,6 +65773,7 @@ jedoch <Et>
 <w myvId=",">,</w>
 <w myvId="неедезь">ńejed́eź</w>
 <w myvId="?">?</w>
+</x>
 <GeoU xml:lang="myv">Ba</GeoU>
 <sources>
 <book name="VII" pg="416"/>
@@ -66120,7 +66184,7 @@ jedoch <Et>
 <GeoU xml:lang="mdf">Sel</GeoU>
 </l_variants>
 </lg>
-<DrvG>(<Cx vl="comitative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="comitative"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">днём и ночью</t>
@@ -66216,7 +66280,7 @@ jedoch <Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l/><st/>
 </lg>
-<DrvG>[<re>? </re><DrvStCtn><DrvSt><w CyrId="чи">či</w></DrvSt></DrvStCtn><fnct>+</fnct><DrvStCtn><DrvSt><w CyrId="сельмть">śeĺmt́</w></DrvSt></DrvStCtn>]</DrvG>
+<compg drv="X:X»Adv" type="Der">[<re>? </re><DrvStCtn><DrvSt><w CyrId="чи">či</w></DrvSt></DrvStCtn><fnct>+</fnct><DrvStCtn><DrvSt><w CyrId="сельмть">śeĺmt́</w></DrvSt></DrvStCtn>]</compg>
 <mg>
 <tg xml:lang="rus">
 <t>днём</t>
@@ -66479,17 +66543,17 @@ jedoch <Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l/><st/>
 </lg>
-<DrvG><FrCm edit="MK" freeType="questionRelation" Modification="MK"/>
+<compg drv="X:X»Adv" type="Der"><FrCm edit="MK" freeType="questionRelation" Modification="MK"/>
 <FrCm freeType="RelationToPreviousSibling" status="&lt;"/>
 <source>
 <wCtn>
 <FrCm freeType="analogy" Modification="manus"/>
 <w CyrId="чопокс">čopoks</w>
-</WdCtn>
+</wCtn>
 <Function vl="+"/>
 <Affix>śt́
 </Affix>
-</source></DrvG>
+</source></compg>
 <mg>
 <Syntax function="Adv"/>
 <tg xml:lang="rus">
@@ -67150,7 +67214,7 @@ jedoch <Et>
 <w myvId="иляка">iĺaka</w>
 <w myvId="шага">šaga</w>
 <w myvId="шипкасто">ši͔pkasto</w>
-<tk3 isa="excl"/></x>
+<w myvId="!">!</w></x>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
 <book name="1" pg="140"/>
@@ -67200,9 +67264,9 @@ jedoch <Et>
 <GeoU xml:lang="mdf">Temn</GeoU>
 </l_variants>
 </lg>
-<DrvG><CxCtn>
+<compg drv="X:X»Adv" type="Der"><CxCtn>
 <Cx edit="MK" vl="inessive"/>
-</CxCtn>[<pos>Adj</pos>]</DrvG>
+</CxCtn>[<pos>Adj</pos>]</compg>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -67752,7 +67816,7 @@ bedeutet “etwas länger vorher” als die übrigen F.)</Cm></dfLQl1>
 <GeoU xml:lang="mdf">Jurtk</GeoU>
 </l_variants>
 </lg>
-<DrvG>(<Cx vl="elative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="elative"/>)</compg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -68757,13 +68821,13 @@ bedeutet “etwas länger vorher” als die übrigen F.)</Cm></dfLQl1>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l/><st/>
 </lg>
-<DrvG>[<CxCtn>
+<compg drv="X:X»Adv" type="Der">[<CxCtn>
 <Cx edit="MK" vl="elative"/>
 </CxCtn>
 <fnct>+</fnct>
 <CxCtn>
 <Cx edit="MK" vl="ablative"/>
-</CxCtn>]</DrvG>
+</CxCtn>]</compg>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -69167,6 +69231,7 @@ bedeutet “etwas länger vorher” als die übrigen F.)</Cm></dfLQl1>
 <w myvId="пельтятк">ṕeĺt́atk</w>
 <w myvId="эстэдинь">este͔d́iń</w>
 <w myvId="?">?</w>
+</x>
 <GeoU xml:lang="myv">VVr</GeoU>
 <sources>
 <book name="III" pg="278"/>
@@ -69320,7 +69385,7 @@ bedeutet “etwas länger vorher” als die übrigen F.)</Cm></dfLQl1>
 <GeoU xml:lang="mdf">Sel</GeoU>
 </l_variants>
 </lg>
-<DrvG>(<Cx vl="inessive"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="inessive"/>)</compg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -70452,7 +70517,7 @@ bedeutet “etwas länger vorher” als die übrigen F.)</Cm></dfLQl1>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l/><st/>
 </lg>
-<DrvG>(<Cx vl="illative"/>)</DrvG>
+<compg drv="X:X»Adv" type="Der">(<Cx vl="illative"/>)</compg>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -70733,7 +70798,7 @@ bedeutet “etwas länger vorher” als die übrigen F.)</Cm></dfLQl1>
 <w myvId="юмась">jumaś</w>
 <w myvId="эсь">äś</w>
 <w myvId="пирям">ṕiŕam</w>
-<tk3 isa="excl"/></x>
+<w myvId="!">!</w></x>
 <GeoU xml:lang="myv">Škud</GeoU>
 <sources>
 <book name="VII" pg="242"/>
@@ -71158,7 +71223,7 @@ bedeutet “etwas länger vorher” als die übrigen F.)</Cm></dfLQl1>
 <GeoU xml:lang="mdf">Sel</GeoU>
 <mini_paradigm>
 <InflCtn>
-<InflTags tag="+SP+Gen+Indef"/>
+<InflTags msd="+SP+Gen+Indef"/>
 <Infl><w mdfId="манамбань">manambań</w>
 </Infl>
 </InflCtn>
@@ -71273,7 +71338,7 @@ bedeutet “etwas länger vorher” als die übrigen F.)</Cm></dfLQl1>
 <GeoU xml:lang="mdf">P</GeoU>
 </l_variants>
 </lg>
-<DrvG><DrvTCtn><DrvT edit="MK" vl="diminutive"/></DrvTCtn>[<DrvStCtn><DrvSt><w CyrId="манамбань">manambań</w></DrvSt></DrvStCtn>]</DrvG>
+<compg drv="X:X»Adv" type="Der"><DrvTCtn><DrvT edit="MK" vl="diminutive"/></DrvTCtn>[<DrvStCtn><DrvSt><w CyrId="манамбань">manambań</w></DrvSt></DrvStCtn>]</compg>
 <mg copiedFrom="preceding">
 <Syntax function="Adj"/>
 <tg xml:lang="rus">
@@ -71282,34 +71347,6 @@ bedeutet “etwas länger vorher” als die übrigen F.)</Cm></dfLQl1>
 <tg xml:lang="deu">
 <t>vorvorjährig</t>
 <t>vorletztjährig</t>
-</tg>
-</mg>
-</HWB>
-</e>
-  <e>
-<root_ref xml:lang="myv" hid="1" pos="Adv" lemma="меля"/>
-<root_ref xml:lang="mdf" hid="1" pos="Adv" lemma="меля"/>
-<HWB>
-<E3Head><POS/><deriv isa="dim-NE"/></E3Head>
-<lg edit="JMR" xml:lang="myv"><l pos="A"/><st/>
-</lg>
-<lg xml:lang="mdf"><l pos="A">меляньнэ</l>
-<st>меляньнэ</st>
-<l_variants>
-<PhnU>
-<w mdfId="меляннӓ">ḿeĺäńnä</w>
-</PhnU>
-<GeoU xml:lang="mdf">P</GeoU>
-</l_variants>
-</lg>
-<DrvG><DrvTCtn>
-<FrCm edit="MK" freeType="questionRelation" Modification="MK"/><DrvT vl="diminutive"/></DrvTCtn>[<DrvStCtn><DrvSt><w CyrId="мелянь">ḿeĺäń</w></DrvSt></DrvStCtn>]</DrvG>
-<mg>
-<tg xml:lang="rus">
-<t edit="MK">прошлогодний</t>
-</tg>
-<tg xml:lang="deu">
-<t edit="MK">vorjährig</t>
 </tg>
 </mg>
 </HWB>
@@ -71460,7 +71497,7 @@ bedeutet “etwas länger vorher” als die übrigen F.)</Cm></dfLQl1>
 <w mdfId=",">,</w>
 <w mdfId="сяда">śada</w>
 <w mdfId="курок">kurə̑k</w>
-<tk3 isa="excl"/></x>
+<w mdfId="!">!</w></x>
 <GeoU xml:lang="mdf">Temn</GeoU>
 <sources>
 <book name="VIII" pg="408"/>
