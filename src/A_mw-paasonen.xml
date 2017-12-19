@@ -902,7 +902,7 @@
 <w myvId="бояр">bojar</w>
 <w myvId="ават">avat</w>
 <w myvId="оинем">ojińem</w>
-<tk3 isa="quest"/></x>
+<w myvId="?">?</w>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
 <book name="1" pg="168"/>
@@ -8869,7 +8869,7 @@
 <w mdfId="мезямат">ḿeźamat</w>
 <w mdfId="тон">ton</w>
 <w mdfId="корхтат">korʿtat</w>
-<tk3 isa="quest"/></x>
+<w mdfId="?">?</w>
 <GeoU xml:lang="mdf">P</GeoU>
 <xt xml:lang="deu">Was für Sachen erzählst du?</xt>
 </xg>
@@ -8892,7 +8892,7 @@
 <x>
 <w mdfId="надобятня">nado·b́jät́ńä</w>
 <w edit="MK" mdfId="мезямот">ḿeźamə̑t</w>
-<tk3 isa="quest"/></x>
+<w mdfId="?">?</w>
 <GeoU xml:lang="mdf"/>
 <sources>
 <book name="IV" pg="440"/>
@@ -8921,7 +8921,7 @@
 <w mdfId="надюнь">nad́uń</w>
 <w mdfId=",">,</w>
 <w mdfId="прялə̑нза">pŕalə̑nza</w>
-<tk3 isa="quest"/></x>
+<w mdfId="?">?</w>
 <GeoU xml:lang="mdf">Temn</GeoU>
 <sources>
 <book name="VIII" pg="314"/>
@@ -9154,7 +9154,7 @@
 <w mdfId="маресь">maŕeś</w>
 <w mdfId=",">,</w>
 <w mdfId="сяшкава">śaškava</w>
-<tk3 isa="quest"/></x>
+<w mdfId="?">?</w>
 <GeoU xml:lang="mdf">Vert</GeoU>
 <sources>
 <book name="VIII" pg="450"/>
@@ -10565,7 +10565,7 @@ auch <Et>
 <w mdfId="тон">ton</w>
 <w mdfId="тятьши">t́ät́ši</w>
 <w mdfId="молят">moĺat</w>
-<tk3 isa="quest"/></x>
+<w mdfId="?">?</w>
 <GeoU xml:lang="mdf">P</GeoU>
 <xt xml:lang="deu">Wie weit wirst du heute gehen? Eine wie grosse Strecke wirst du heute zurücklegen?</xt>
 </xg>
@@ -19657,7 +19657,7 @@ Bez. Krasnoslobodsk, Gouv. Pensa</t>
 <w mdfId="лазфти">lazft́i</w>
 <w mdfId="суронц">surə̑nc</w>
 <w mdfId="тонгозя">toŋgə̑źä</w>
-<tk3 isa="quest"/></x>
+<w mdfId="?">?</w>
 <GeoU xml:lang="mdf"/>
 <sources>
 <book name="IV" pg="697"/>
@@ -22171,7 +22171,7 @@ Radl. <Et>
 <w edit="MK" mdfId="кудря">kud́ŕä·</w>
 <tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="пря">pŕä</w>
-<Hph edit="MK"/>
+<w mdfId="-" edit="MK">-</w>
 <w edit="MK" mdfId="понась">ponaś</w>
 <w mdfId=",">,</w>
 <w mdfId="фаляк">faĺak</w>
@@ -22418,7 +22418,7 @@ Radl. <Et>
 <w mdfId="ламос">lamə̑s</w>
 <w mdfId=",">,</w>
 <w mdfId="пяля">ṕäĺä</w>
-<Hph edit="MK"/>
+<w mdfId="-" edit="MK">-</w>
 <w edit="MK" mdfId="ве">v́e</w>
 <w mdfId="малас">malas</w>
 <w mdfId=",">,</w>
@@ -23887,7 +23887,7 @@ jedenfalls <Et>
 <w mdfId="ташчо̇шть">taščȯšt́</w>
 <w mdfId="-" edit="MK">-</w>
 <w mdfId="кашчо̇шть">kaščȯšt́</w>
-<tk3 isa="quest"/></x>
+<w mdfId="?">?</w>
 <GeoU xml:lang="mdf">Katm</GeoU>
 <sources>
 <book name="IV" pg="416"/>
@@ -24930,7 +24930,7 @@ jedenfalls <Et>
 <xg>
 <x>
 <w mdfId="розь">roź</w>
-<Hph edit="MK"/>
+<w mdfId="-" edit="MK">-</w>
 <Chc>
 <Vrt>
 <w mdfId="шонгарям">šoŋgaŕam</w>
@@ -27592,7 +27592,7 @@ jedenfalls <Et>
 <w myvId="-">-</w>
 <w myvId="пазонь">pazoń</w>
 <w myvId="менельзэ">ḿeńeĺze͔</w>
-<tk3 isa="quest"/></x>
+<w myvId="?">?</w>
 <GeoU xml:lang="myv">Ta</GeoU>
 <sources>
 <book name="V" pg="38"/>
@@ -28242,7 +28242,7 @@ jedenfalls <Et>
 </Vrt>
 </Chc>
 <w myvId="ульнить">uĺńit́</w>
-<tk3 isa="quest"/></x>
+<w myvId="?">?</w>
 <GeoU xml:lang="myv">Ba</GeoU>
 <sources>
 <book name="VII" pg="416"/>
@@ -33175,7 +33175,7 @@ tat. (Bl.) misch. <Et>
 <w myvId="вадря">vad́ŕa</w>
 <w myvId="сука">suka</w>
 <w myvId="палага">palaga</w>
-<tk3 isa="quest"/></x>
+<w myvId="?">?</w>
 <GeoU xml:lang="myv">Mar</GeoU>
 <xt xml:lang="deu">In welcher Hinsicht ist die Hündin Pelagia ausgezeichnet?</xt>
 </xg>
@@ -33338,7 +33338,7 @@ tat. (Bl.) misch. <Et>
 <xg>
 <x>
 <w edit="MK" myvId="кудряв">kud́ŕav</w>
-<Hph edit="MK"/>
+<w myvId="-" edit="MK">-</w>
 <w edit="MK" myvId="вадряв">vad́ŕav</w>
 <w myvId="улезэ">uĺeze͔</w>
 </x>
@@ -36077,7 +36077,7 @@ jedoch
 <tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="кельмя">ḱeĺḿä</w>
 <w mdfId="ланкт">laŋkt</w>
-<tk3 isa="quest"/></x>
+<w mdfId="?">?</w>
 <GeoU xml:lang="mdf" edit="MK">Mam</GeoU>
 <sources>
 <book name="IV" pg="855"/>
@@ -37643,7 +37643,7 @@ jedoch
 <w mdfId="веринят">v́eŕińat</w>
 <w mdfId="тонь">toń</w>
 <w mdfId="стенанятня">st́enańät́ńä</w>
-<tk3 isa="quest"/></x>
+<w mdfId="?">?</w>
 <GeoU xml:lang="mdf">Temn</GeoU>
 <sources>
 <book name="VIII" pg="340"/>
@@ -39160,7 +39160,7 @@ jedoch
 <w myvId="вишка">v́iška</w>
 <w myvId="вельне">v́eĺńe</w>
 <w myvId="вачкатоць">vačkatoć</w>
-<tk3 isa="quest"/></x>
+<w myvId="?">?</w>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
 <book name="1" pg="70"/>
@@ -39362,7 +39362,7 @@ jedoch
 <w myvId="а">a</w>
 <w myvId="вишкинесь">v́išḱińeś</w>
 <w myvId="косо">koso</w>
-<tk3 isa="quest"/></x>
+<w myvId="?">?</w>
 <GeoU xml:lang="myv">NSurk</GeoU>
 <sources>
 <book name="III" pg="258"/>
@@ -39817,7 +39817,7 @@ jedoch
 <w myvId="-" edit="MK">-</w>
 <w myvId="прят">ṕŕat</w>
 <w myvId="верийть">v́eŕijt́</w>
-<tk3 isa="quest"/></x>
+<w myvId="?">?</w>
 <GeoU xml:lang="myv">Hl</GeoU>
 <sources>
 <book name="1" pg="82"/>
@@ -39847,9 +39847,9 @@ jedoch
 <w mdfId="мес">ḿes</w>
 <w edit="MK" mdfId="верийхть">v́eŕijᵪ́t́</w>
 <w mdfId="каря">kaŕä</w>
-<Hph edit="MK"/>
+<w mdfId="-" edit="MK">-</w>
 <w edit="MK" mdfId="прянятня">pŕäńät́ńä</w>
-<tk3 isa="quest"/></x>
+<w mdfId="?">?</w>
 <GeoU xml:lang="mdf">Bar</GeoU>
 <sources>
 <book name="VIII" pg="288"/>
@@ -41325,7 +41325,7 @@ jedoch
 <xg>
 <x>
 <w mdfId="дарю">daŕu</w>
-<Hph edit="MK"/>
+<w mdfId="-" edit="MK">-</w>
 <w edit="MK" mdfId="сестранятс">śestrańats</w>
 <w mdfId="виденнь">v́id́əńń</w>
 <w mdfId="азынятс">azi͔ńats</w>
@@ -49198,7 +49198,7 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 <w myvId="здороват">zdorovat</w>
 <w myvId=",">,</w>
 <w myvId="дочинем">doči͔ńem</w>
-<tk3 isa="quest"/></x>
+<w myvId="?">?</w>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
 <book name="2" pg="81"/>
@@ -49236,7 +49236,7 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 <w myvId="ават">avat</w>
 <w myvId=",">,</w>
 <w myvId="ялгинем">jalǵińem</w>
-<tk3 isa="quest"/></x>
+<w myvId="?">?</w>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
 <book name="1" pg="168"/>
@@ -49523,7 +49523,7 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 <w myvId=",">,</w>
 <w myvId="эли">eĺi</w>
 <w myvId="золотань">zolotań</w>
-<tk3 isa="quest"/></x>
+<w myvId="?">?</w>
 <GeoU xml:lang="myv">Škud</GeoU>
 <sources>
 <book name="VII" pg="244"/>
@@ -49873,7 +49873,7 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 <x>
 <w myvId="зяронеть">źarońet́</w>
 <w myvId="эрят">eŕat</w>
-<tk3 isa="quest"/></x>
+<w myvId="?">?</w>
 <GeoU xml:lang="myv">Mar</GeoU>
 <xt xml:lang="deu">Wieviel Leute gibt es in eurem Hause [“Mit wie vielen der Deinen lebst du”]?</xt>
 </xg>
@@ -49888,7 +49888,7 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 <x>
 <w myvId="зяроненк">źarońeŋḱ</w>
 <w myvId="роботыде">roboti͔d́e</w>
-<tk3 isa="quest"/></x>
+<w myvId="?">?</w>
 <GeoU xml:lang="myv"/>
 <x>
 <w mdfId="мəзяронянтть">məźa·rə̑ńäńt́t́</w>
@@ -49904,7 +49904,7 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 <GeoU xml:lang="myv">Kažl</GeoU>
 <x>
 <w mdfId="мəзяронзат">məźa·rə̑nzat</w>
-<tk3 isa="quest"/></x>
+<w mdfId="?">?</w>
 <GeoU xml:lang="mdf">P</GeoU>
 <xt xml:lang="deu">Wieviel Einwohner (Leute) gibt es in eurem Hause?</xt>
 </xg>
@@ -53899,7 +53899,7 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 <w myvId="мейсь">ḿejś</w>
 <w myvId="турвинеть">turv́ińet́</w>
 <w myvId="казямот">kaźamot</w>
-<tk3 isa="quest"/></x>
+<w myvId="?">?</w>
 <GeoU xml:lang="myv">Večk</GeoU>
 <sources>
 <book name="V" pg="454"/>
@@ -55355,7 +55355,7 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 <w CyrId="якстере">jakśt́eŕe</w>
 <w CyrId="атякш">at́akš</w>
 <w CyrId="кишти">ḱišt́i</w>
-<Hph edit="MK"/>
+<w myvId="-" edit="MK">-</w>
 <w CyrId="моры">mori͔</w>
 <w CyrId="прявтомо">pŕavtomo</w>
 <tk3 isa="comma"/>
@@ -57606,7 +57606,7 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 <w myvId="эрильть">eŕiĺt́</w>
 <w myvId="парьсте">paŕśt́e</w>
 <w myvId="минденек">ḿińd́eńek</w>
-<tk3 isa="quest"/></x>
+<w myvId="?">?</w>
 <GeoU xml:lang="myv">Ta</GeoU>
 <sources>
 <book name="V" pg="36"/>
@@ -58457,7 +58457,7 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 <tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="кельмя">ḱeĺḿä</w>
 <w mdfId="ланкт">laŋkt</w>
-<tk3 isa="quest"/></x>
+<w mdfId="?">?</w>
 <GeoU xml:lang="mdf">Pš</GeoU>
 <sources>
 <book name="IV" pg="855"/>
@@ -61263,7 +61263,7 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 <w myvId="ней">ńej</w>
 <w myvId="мон">mon</w>
 <w myvId="кискавтомо">ḱiskavtomo</w>
-<tk3 isa="quest"/></x>
+<w myvId="?">?</w>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
 <book name="2" pg="121"/>
@@ -61607,7 +61607,7 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 <w myvId="мейсь">ḿejś</w>
 <w myvId="пильгинеть">ṕiĺǵińet́</w>
 <w myvId="кичкереть">ḱičḱeŕet́</w>
-<tk3 isa="quest"/></x>
+<w myvId="?">?</w>
 <GeoU xml:lang="myv">NBajt</GeoU>
 <sources>
 <book name="V" pg="384"/>
@@ -62627,7 +62627,7 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 <w edit="MK" myvId="мезьга">ḿeźga</w>
 <w myvId="козяв">koźav</w>
 <w edit="MK" myvId="дементей">d́eḿeńt́ej</w>
-<tk3 isa="quest"/></x>
+<w myvId="?">?</w>
 <GeoU xml:lang="myv">Jeg</GeoU>
 <sources>
 <book name="1" pg="106"/>
@@ -66476,7 +66476,7 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 <w myvId="тяка">t́aka</w>
 <tk3 isa="comma"/>
 <w edit="MK" myvId="кудряв">kud́ŕav</w>
-<Hph edit="MK"/>
+<w myvId="-" edit="MK">-</w>
 <w edit="MK" myvId="вадряв">vad́ŕav</w>
 <w myvId="улезэ">uĺeze͔</w>
 </x>
@@ -69953,7 +69953,7 @@ Pfriemen erstechen!</t>
 <xg>
 <x>
 <w edit="MK" mdfId="лемфтем">ĺemft́əm</w>
-<Hph edit="MK"/>
+<w mdfId="-" edit="MK">-</w>
 <w edit="MK" mdfId="пельфтемнязя">ṕeĺft́əmńä·źä</w>
 </x>
 <GeoU xml:lang="mdf"/>
@@ -73443,7 +73443,7 @@ Pfriemen erstechen!</t>
 <w myvId="кодамо">kodamo</w>
 <w myvId="мазэйнть">maze͔jńt́</w>
 <w myvId="кочкинек">kočḱińeḱ</w>
-<tk3 isa="quest"/></x>
+<w myvId="?">?</w>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
 <book name="1" pg="118"/>
@@ -73954,7 +73954,7 @@ Pfriemen erstechen!</t>
 <tk3 edit="MK" isa="comma"/>
 <tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="седь">śed́</w>
-<Hph edit="MK"/>
+<w mdfId="-" edit="MK">-</w>
 <w edit="MK" mdfId="[ава">[a·va</w>
 <w mdfId=",">,</w>
 <w mdfId="ведь">v́ed́</w>
@@ -75562,7 +75562,7 @@ Pfriemen erstechen!</t>
 <w myvId="Эрьмей">eŕḿej</w>
 <w myvId="Эремей">eŕeḿej</w>
 <w myvId="куляви">kuĺav́i</w>
-<tk3 isa="quest"/></x>
+<w myvId="?">?</w>
 <GeoU xml:lang="myv">Kozl</GeoU>
 <sources>
 <book name="I" pg="403"/>
@@ -75604,7 +75604,7 @@ Pfriemen erstechen!</t>
 <w myvId="паро">paro</w>
 <w myvId="од">od</w>
 <w myvId="седелькинась">śed́eĺḱinaś</w>
-<tk3 isa="quest"/></x>
+<w myvId="?">?</w>
 <GeoU xml:lang="myv">NSurk</GeoU>
 <sources>
 <book name="I" pg="37"/>
@@ -75688,7 +75688,7 @@ Pfriemen erstechen!</t>
 <w edit="MK" myvId="мезинь">ḿeźiń</w>
 <w myvId="робота">robota</w>
 <w myvId="роботыть">roboti͔t́</w>
-<tk3 isa="quest"/></x>
+<w myvId="?">?</w>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
 <book name="1"/>
@@ -75749,7 +75749,7 @@ Pfriemen erstechen!</t>
 <w myvId="катя">kat́a</w>
 <w myvId=",">,</w>
 <w myvId="качады">kačadi͔</w>
-<tk3 isa="quest"/></x>
+<w myvId="?">?</w>
 <GeoU xml:lang="myv">Gor</GeoU>
 <sources>
 <book name="VII" pg="218"/>
@@ -75761,7 +75761,7 @@ Pfriemen erstechen!</t>
 <w myvId="мезень">ḿeźeń</w>
 <w myvId="пас">pas</w>
 <w myvId="кандыньзеть">kandi͔ńźet́</w>
-<tk3 isa="quest"/></x>
+<w myvId="?">?</w>
 <GeoU xml:lang="myv">SŠant</GeoU>
 <xt xml:lang="deu">Was für ein Gott hat dich (hierher) geführt?</xt>
 </xg>
@@ -75772,7 +75772,7 @@ Pfriemen erstechen!</t>
 <w edit="MK" myvId="мезень">ḿeźeń</w>
 <w myvId="ви">v́i</w>
 <w myvId="ашчи">ašči͔</w>
-<tk3 isa="quest"/></x>
+<w myvId="?">?</w>
 <GeoU xml:lang="myv">Jeg</GeoU>
 <sources>
 <book name="1" pg="96"/>
@@ -75784,7 +75784,7 @@ Pfriemen erstechen!</t>
 <w mdfId="мезень">ḿeźəń</w>
 <w mdfId="валда">valda</w>
 <w mdfId="няендеві">ńäjəńd́əvi</w>
-<tk3 isa="quest"/></x>
+<w mdfId="?">?</w>
 <GeoU xml:lang="mdf">Lemd</GeoU>
 <sources>
 <book name="IV" pg="172"/>
@@ -75909,7 +75909,7 @@ Pfriemen erstechen!</t>
 <w myvId="авай">avaj</w>
 <w myvId=",">,</w>
 <w myvId="авардят">avaŕd́at</w>
-<tk3 isa="quest"/></x>
+<w myvId="?">?</w>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
 <book name="1" pg="12"/>
@@ -75924,7 +75924,7 @@ Pfriemen erstechen!</t>
 <w myvId="дедай">d́edaj</w>
 <w myvId=",">,</w>
 <w myvId="тюртядо">t́uŕt́ado</w>
-<tk3 isa="quest"/></x>
+<w myvId="?">?</w>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
 <book name="2" pg="105"/>
@@ -75939,7 +75939,7 @@ Pfriemen erstechen!</t>
 <w myvId="дочам">dočam</w>
 <w myvId=",">,</w>
 <w myvId="авардят">avaŕd́at</w>
-<tk3 isa="quest"/></x>
+<w myvId="?">?</w>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
 <book name="2" pg="87"/>
@@ -75966,7 +75966,7 @@ Pfriemen erstechen!</t>
 <w myvId="тетякай">t́et́akaj</w>
 <w myvId=",">,</w>
 <w myvId="тиримек">t́iŕiḿek</w>
-<tk3 isa="quest"/></x>
+<w myvId="?">?</w>
 <GeoU xml:lang="myv">NPyrma</GeoU>
 <sources>
 <book name="VII" pg="74"/>
@@ -76009,7 +76009,7 @@ Pfriemen erstechen!</t>
 <w myvId="рузонь">ruzoń</w>
 <w myvId="ви">v́i</w>
 <w myvId="ашчи">ašči͔</w>
-<tk3 isa="quest"/></x>
+<w myvId="?">?</w>
 <GeoU xml:lang="myv">Jeg</GeoU>
 <sources>
 <book name="1" pg="96"/>
@@ -76023,7 +76023,7 @@ Pfriemen erstechen!</t>
 <w myvId="велесь">v́eĺe·ś</w>
 <w myvId="пек">ṕeḱ</w>
 <w myvId="паро">paro·</w>
-<tk3 isa="quest"/></x>
+<w myvId="?">?</w>
 <GeoU xml:lang="myv">Jeg</GeoU>
 <sources>
 <book name="1" pg="92"/>
@@ -76123,7 +76123,7 @@ Pfriemen erstechen!</t>
 <w myvId="мезень">ḿeiń</w>
 <w myvId="удозь">udoź</w>
 <w myvId="муинзеть">muińd́et́</w>
-<tk3 isa="quest"/></x>
+<w myvId="?">?</w>
 <GeoU xml:lang="myv">VVr</GeoU>
 <sources>
 <book name="II" pg="350"/>
@@ -76139,7 +76139,7 @@ Pfriemen erstechen!</t>
 <w myvId="тон">ton</w>
 <w myvId="качамне">kačamńe</w>
 <w myvId="нолдыть">noldi͔t́</w>
-<tk3 isa="quest"/></x>
+<w myvId="?">?</w>
 <GeoU xml:lang="myv">Gor</GeoU>
 <sources>
 <book name="VII" pg="218"/>
@@ -76155,7 +76155,7 @@ Pfriemen erstechen!</t>
 <w mdfId="сюцень">śućeń</w>
 <w mdfId="од">od</w>
 <w mdfId="ə̑рьвянят">ə̑ŕv́äńat</w>
-<tk3 isa="quest"/></x>
+<w mdfId="?">?</w>
 <GeoU xml:lang="mdf">Temn</GeoU>
 <sources>
 <book name="VIII" pg="414"/>
@@ -76602,7 +76602,7 @@ Pfriemen erstechen!</t>
 <w myvId="мень">ḿeń</w>
 <w myvId="радувазь">raduvaź</w>
 <w myvId="саімим">saiḿim</w>
-<tk3 isa="quest"/></x>
+<w myvId="?">?</w>
 <GeoU xml:lang="myv">Večk</GeoU>
 <sources>
 <book name="II" pg="178"/>
@@ -76687,7 +76687,7 @@ Pfriemen erstechen!</t>
 <w myvId=",">,</w>
 <w myvId="сыре">si͔ŕe</w>
 <w myvId="матюша">mat́uša</w>
-<tk3 isa="quest"/></x>
+<w myvId="?">?</w>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
 <book name="1" pg="32"/>
@@ -78718,7 +78718,7 @@ Aus der russ. prädik. F. <Et>мудрёна</Et>]
 <w myvId=",">,</w>
 <w myvId="ков">kov</w>
 <w myvId="молят">moĺat</w>
-<tk3 isa="quest"/></x>
+<w myvId="?">?</w>
 <GeoU xml:lang="myv">NBajt</GeoU>
 <sources>
 <book name="VI" pg="216"/>
@@ -82309,7 +82309,7 @@ P.: Eine metathetische F. aus <Et>
 <w mdfId="куданекя">kudańeḱä</w>
 <w mdfId=",">,</w>
 <w mdfId="сорхксетяда">sə̑rʿkśet́ada</w>
-<tk3 isa="quest"/></x>
+<w mdfId="?">?</w>
 <GeoU xml:lang="mdf">Temn</GeoU>
 <sources>
 <book name="VIII" pg="408"/>
@@ -84294,7 +84294,7 @@ P.: Eine metathetische F. aus <Et>
 <w myvId="аля">aĺa</w>
 <w myvId="пря">pŕa</w>
 <w myvId="чави">čav́i</w>
-<tk3 isa="quest"/></x>
+<w myvId="?">?</w>
 <GeoU xml:lang="myv">Večk</GeoU>
 <sources>
 <book name="I" pg="365"/>
@@ -86232,7 +86232,7 @@ P.: Eine metathetische F. aus <Et>
 <w myvId=",">,</w>
 <w myvId="вешка">v́eška</w>
 <w edit="MK" myvId="полынеть">poli͔ńet́</w>
-<tk3 isa="quest"/></x>
+<w myvId="?">?</w>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
 <book name="1" pg="6"/>
@@ -89251,7 +89251,7 @@ P.: Eine metathetische F. aus <Et>
 <w myvId="овто">ovto</w>
 <w myvId="мон">mon</w>
 <w myvId="поланть">polańt́</w>
-<tk3 isa="quest"/></x>
+<w myvId="?">?</w>
 <GeoU xml:lang="myv">StMokl</GeoU>
 <sources>
 <book name="V" pg="216"/>
@@ -89711,7 +89711,7 @@ des Hauses</t>
 <w mdfId="ки">ḱi</w>
 <w mdfId="тяса">t́asa</w>
 <w mdfId="отьсюwсь">ot́śuwś</w>
-<tk3 isa="quest"/></x>
+<w mdfId="?">?</w>
 <GeoU xml:lang="mdf">P</GeoU>
 <xt xml:lang="deu">Wer ist hier der Hausälteste? (kann ein Fremder beim Betreten des Hauses fragen).</xt>
 </xg>
@@ -91758,7 +91758,7 @@ des Hauses</t>
 <w myvId="велесь">v́eĺe·ś</w>
 <w myvId="пек">ṕeḱ</w>
 <w myvId="паро">paro·</w>
-<tk3 isa="quest"/></x>
+<w myvId="?">?</w>
 <GeoU xml:lang="myv">Jeg</GeoU>
 <sources>
 <book name="1" pg="92"/>
@@ -91830,7 +91830,7 @@ des Hauses</t>
 <w myvId="ёрасынек">jorasi͔ńeḱ</w>
 <w myvId="те">t́e</w>
 <w myvId="паронть">parońt́</w>
-<tk3 isa="quest"/></x>
+<w myvId="?">?</w>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
 <book name="1" pg="122"/>
@@ -91874,7 +91874,7 @@ des Hauses</t>
 <w myvId="тон">ton</w>
 <w myvId="теят">t́ejat</w>
 <w myvId="мондень">mońd́eń</w>
-<tk3 isa="quest"/></x>
+<w myvId="?">?</w>
 <GeoU xml:lang="myv">Kal</GeoU>
 <sources>
 <book name="2" pg="134"/>
@@ -92391,7 +92391,7 @@ des Hauses</t>
 <w myvId="паров">parov</w>
 <w myvId="тон">ton</w>
 <w myvId="молят">moĺat</w>
-<tk3 isa="quest"/></x>
+<w myvId="?">?</w>
 <GeoU xml:lang="myv">Mar</GeoU>
 <xt xml:lang="deu">Wo zum Teufel gehst du hin?</xt>
 </xg>
@@ -97132,7 +97132,7 @@ des Hauses</t>
 <w edit="MK" mdfId="плисовай">pĺisə̑vaj</w>
 <tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="вазнятьсень">vaźńät́śəń</w>
-<tk3 isa="quest"/></x>
+<w mdfId="?">?</w>
 <GeoU xml:lang="mdf" edit="MK">Mam</GeoU>
 <sources>
 <book name="IV" pg="400"/>
@@ -98998,7 +98998,7 @@ des Hauses</t>
 <w myvId="тон">ton</w>
 <w myvId="мезе">ḿeźe</w>
 <w myvId="сазят">saźat</w>
-<tk3 isa="quest"/></x>
+<w myvId="?">?</w>
 <GeoU xml:lang="myv">Kal</GeoU>
 <sources>
 <book name="2" pg="147"/>
@@ -99155,7 +99155,7 @@ des Hauses</t>
 <w myvId="покшчатне">pokščat́ńe</w>
 <w myvId="-" edit="MK">-</w>
 <w myvId="бабатне">babat́ńe</w>
-<tk3 isa="quest"/></x>
+<w myvId="?">?</w>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
 <book name="1" pg="168"/>
@@ -101261,7 +101261,7 @@ Eine kontam. F. aus russ. <Et>полоса́тый</Et> + Adj. auf ‑<Et>ный
 <w myvId="пирьгиме">ṕiŕǵiḿe</w>
 </Vrt>
 </Chc>
-<Hph edit="MK"/>
+<w myvId="-" edit="MK">-</w>
 <w edit="MK" myvId="инязурти">ińazurt́i</w>
 <w myvId="стяк">śt́ak</w>
 <w myvId="мольсь">moĺś</w>
@@ -101750,7 +101750,7 @@ Eine kontam. F. aus russ. <Et>полоса́тый</Et> + Adj. auf ‑<Et>ный
 <w myvId="тонь">toń</w>
 <w myvId="чачинеть">čačińet́</w>
 <w myvId="потмора">potmora</w>
-<tk3 isa="quest"/></x>
+<w myvId="?">?</w>
 <GeoU xml:lang="myv" edit="MK">Bug</GeoU>
 <sources>
 <book name="V" pg="276"/>
@@ -103151,7 +103151,7 @@ Eine kontam. F. aus russ. <Et>полоса́тый</Et> + Adj. auf ‑<Et>ный
 <w CyrId="паряк">paŕak</w>
 <w CyrId="прась">praś</w>
 <w CyrId="кенкш">ḱeŋkš</w>
-<Hph edit="MK"/>
+<w myvId="-" edit="MK">-</w>
 <w CyrId="порог">porog</w>
 <w CyrId="алов">alov</w>
 <tk3 isa="comma"/>
@@ -106934,7 +106934,7 @@ Eine kontam. F. aus russ. <Et>полоса́тый</Et> + Adj. auf ‑<Et>ный
 <x>
 <w myvId="ранной">rannoj</w>
 <w myvId="розь">roź</w>
-<Hph edit="MK"/>
+<w myvId="-" edit="MK">-</w>
 <Chc>
 <Vrt>
 <w myvId="булт">bult</w>
@@ -115514,7 +115514,7 @@ Adj.-Ableit. von russ. <Et>сего́дня</Et> ‘heute’]
 <w myvId="авась">avaś</w>
 <w myvId="те">t́e</w>
 <w edit="MK" myvId="грехэнть">gŕeᵪ́eńt́</w>
-<Hph edit="MK"/>
+<w myvId="-" edit="MK">-</w>
 <w edit="MK" myvId="пежетенть">ṕežet́eńt́</w>
 <w myvId="идисэ">id́ise͔</w>
 <w myvId="истя">iśt́a</w>
@@ -116102,7 +116102,7 @@ Adj.-Ableit. von russ. <Et>сего́дня</Et> ‘heute’]
 <w mdfId=",">,</w>
 <w mdfId="слаткай">slatkaj</w>
 <w mdfId="вотканень">votkańəń</w>
-<tk3 isa="quest"/></x>
+<w mdfId="?">?</w>
 <GeoU xml:lang="mdf">Vod</GeoU>
 <sources>
 <book name="IV" pg="208"/>
@@ -117708,7 +117708,7 @@ Adj.-Ableit. von russ. <Et>сего́дня</Et> ‘heute’]
 <w mdfId="саян">sajan</w>
 <w mdfId=",">,</w>
 <w edit="MK" mdfId="алянязя">aĺäńäźä</w>
-<Hph edit="MK"/>
+<w mdfId="-" edit="MK">-</w>
 <w edit="MK" mdfId="тряйнязя">t́ŕäjńäźä</w>
 <tk3 edit="MK" isa="comma"/>
 <tk3 edit="MK" isa="ws"/>
@@ -119247,7 +119247,7 @@ Adj.-Ableit. von russ. <Et>сего́дня</Et> ‘heute’]
 <w myvId="стройна">strojna</w>
 <w myvId="сиря">śiŕä</w>
 <w myvId="дракинась">draḱinaś</w>
-<tk3 isa="quest"/></x>
+<w myvId="?">?</w>
 <GeoU xml:lang="myv">Kažl</GeoU>
 <sources>
 <book name="1" pg="82"/>
@@ -120831,7 +120831,7 @@ Russ., aus der prädik. F. <Et>сыра &lt; сыро́й</Et>]
 <w myvId="стройна">strojna</w>
 <w myvId="сиря">śiŕä</w>
 <w myvId="дракинась">draḱinaś</w>
-<tk3 isa="quest"/></x>
+<w myvId="?">?</w>
 <GeoU xml:lang="myv">Kažl</GeoU>
 <sources>
 <book name="1" pg="82"/>
@@ -121468,7 +121468,7 @@ Russ., aus der prädik. F. <Et>сыра &lt; сыро́й</Et>]
 <w CyrId="пше·нста">pše·nsta</w>
 <w mdfId=",">,</w>
 <w CyrId="иван">iva·n</w>
-<Hph edit="MK"/>
+<w mdfId="-" edit="MK">-</w>
 <w edit="MK" CyrId="атя">at́ä</w>
 <tk3 edit="MK" isa="ws"/>
 <w edit="MK" CyrId="торгавазя">torgavaźä</w>
@@ -121957,7 +121957,7 @@ Russ., aus der prädik. F. <Et>сыра &lt; сыро́й</Et>]
 <w myvId=",">,</w>
 <w myvId="ков">kov</w>
 <w myvId="якить">jaḱit́</w>
-<tk3 isa="quest"/></x>
+<w myvId="?">?</w>
 <GeoU xml:lang="myv">Kočk</GeoU>
 <sources>
 <book name="VII" pg="68"/>
@@ -122061,7 +122061,7 @@ Russ., aus der prädik. F. <Et>сыра &lt; сыро́й</Et>]
 <xg>
 <x>
 <w edit="MK" mdfId="сернянь">śeŕńäń</w>
-<Hph edit="MK"/>
+<w mdfId="-" edit="MK">-</w>
 <w edit="MK" mdfId="сиянь">śijä·ń</w>
 <w mdfId="лазксонза">lazksə̑nza</w>
 </x>
@@ -126239,7 +126239,7 @@ Russ., aus der prädik. F. <Et>сыра &lt; сыро́й</Et>]
 <w myvId="ламо">lamo</w>
 <w myvId="кал">kal</w>
 <w myvId="а">a</w>
-<Hph edit="MK"/>
+<w myvId="-" edit="MK">-</w>
 <w edit="MK" myvId="й">j</w>
 <w myvId="-" edit="MK">-</w>
 <w myvId="анан">anan</w>
@@ -133218,7 +133218,7 @@ auch
 <tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="моли">moĺi</w>
 <w mdfId="сура">sura</w>
-<Hph edit="MK"/>
+<w mdfId="-" edit="MK">-</w>
 <w edit="MK" mdfId="ведь">v́ed́</w>
 <tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="шири">šiŕi</w>
@@ -138096,7 +138096,7 @@ Nach Utsch. schwört man folgenderweise: [am Tage:] <x>
 <w edit="MK" mdfId="тяни">t́äńi</w>
 <w mdfId="аяш">ajaš</w>
 <w edit="MK" mdfId="алянязя">aĺäńäźä</w>
-<Hph edit="MK"/>
+<w mdfId="-" edit="MK">-</w>
 <w edit="MK" mdfId="тряйнязя">t́ŕäjńäźä</w>
 <w mdfId="шаннай">šannaj</w>
 <w mdfId="ортань">ortań</w>
@@ -143477,7 +143477,7 @@ Nach Utsch. schwört man folgenderweise: [am Tage:] <x>
 <w myvId=",">,</w>
 <w myvId="эли">eĺi</w>
 <w myvId="шолковойть">šolkovojt́</w>
-<tk3 isa="quest"/></x>
+<w myvId="?">?</w>
 <GeoU xml:lang="myv">Škud</GeoU>
 <sources>
 <book name="VII"/>
@@ -143684,7 +143684,7 @@ Nach Utsch. schwört man folgenderweise: [am Tage:] <x>
 <w myvId="какасо">kakaso</w>
 <w myvId="шождя">šožd́a</w>
 <w myvId="лемнесэ">ĺemńese͔</w>
-<tk3 isa="quest"/></x>
+<w myvId="?">?</w>
 <GeoU xml:lang="myv">NSurk</GeoU>
 <sources>
 <book name="I" pg="39"/>
@@ -143947,7 +143947,7 @@ Nach Utsch. schwört man folgenderweise: [am Tage:] <x>
 <w myvId=",">,</w>
 <w myvId="эли">eĺi</w>
 <w myvId="шолковойть">šolkovojt́</w>
-<tk3 isa="quest"/></x>
+<w myvId="?">?</w>
 <GeoU xml:lang="myv">Škud</GeoU>
 <sources>
 <book name="VII" pg="244"/>
@@ -145182,7 +145182,7 @@ Nach Utsch. schwört man folgenderweise: [am Tage:] <x>
 <w myvId="тоньць">tońć</w>
 <w myvId="коть">kot́</w>
 <w myvId="чумбрат">čumbrat</w>
-<tk3 isa="quest"/></x>
+<w myvId="?">?</w>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
 <book name="2" pg="121"/>
@@ -150346,7 +150346,7 @@ Nach Utsch. schwört man folgenderweise: [am Tage:] <x>
 <w mdfId="пяк">ṕäk</w>
 <w mdfId="яснат">jasnat</w>
 <w mdfId="валняннтя">valńäńńt́ä</w>
-<tk3 isa="quest"/></x>
+<w mdfId="?">?</w>
 <GeoU xml:lang="mdf">Temn</GeoU>
 <sources>
 <book name="VIII" pg="404"/>
@@ -150746,7 +150746,7 @@ Nach Utsch. schwört man folgenderweise: [am Tage:] <x>
 <w myvId="ёжоват">jožovat</w>
 <w myvId="-" edit="MK">-</w>
 <w myvId="важоват">važovat</w>
-<tk3 isa="quest"/></x>
+<w myvId="?">?</w>
 <GeoU xml:lang="myv">Bug</GeoU>
 <sources>
 <book name="V" pg="504"/>
@@ -150783,7 +150783,7 @@ Nach Utsch. schwört man folgenderweise: [am Tage:] <x>
 <w myvId="самка">samka</w>
 <w myvId=",">,</w>
 <w myvId="важоват">važovat</w>
-<tk3 isa="quest"/></x>
+<w myvId="?">?</w>
 <GeoU xml:lang="myv">Večk</GeoU>
 <sources>
 <book name="II" pg="235"/>
@@ -153353,7 +153353,7 @@ Nach Utsch. schwört man folgenderweise: [am Tage:] <x>
 <w mdfId="вачəднь">vačədń</w>
 <w mdfId="седихть">śed́iᵪ́t́</w>
 <w mdfId="симат">śima·t</w>
-<tk3 isa="quest"/></x>
+<w mdfId="?">?</w>
 <GeoU xml:lang="mdf">Sel</GeoU>
 <xt xml:lang="deu">Warum trinkst du auf nüchternen Magen?</xt>
 </xg>
@@ -153521,7 +153521,7 @@ Nach Utsch. schwört man folgenderweise: [am Tage:] <x>
 <tk3 isa="fullstop"/>
 <tk3 isa="dash"/>
 <w myvId="кенкш">ḱeŋkš</w>
-<Hph edit="MK"/>
+<w myvId="-" edit="MK">-</w>
 <w edit="MK" myvId="петлятне">ṕet́ĺät́ńe</w>
 </x>
 <GeoU xml:lang="myv">Mar</GeoU>
@@ -159907,7 +159907,7 @@ Nach Utsch. schwört man folgenderweise: [am Tage:] <x>
 <w edit="MK" CyrId="улеза">uĺeza</w>
 <tk3 edit="MK" isa="ws"/>
 <w edit="MK" CyrId="сернятс">śeŕńats</w>
-<Hph edit="MK"/>
+<w mdfId="-" edit="MK">-</w>
 <w CyrId="ронгонятс">roŋgə̑ńats</w>
 </x>
 <GeoNeed/>
@@ -159976,9 +159976,9 @@ Nach Utsch. schwört man folgenderweise: [am Tage:] <x>
 <tk3 edit="MK" isa="comma"/>
 <tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="идь">id́</w>
-<Hph edit="MK"/>
+<w mdfId="-" edit="MK">-</w>
 <w edit="MK" mdfId="налхксем">nalʿkśem</w>
-<Hph edit="MK"/>
+<w mdfId="-" edit="MK">-</w>
 <w edit="MK" mdfId="пяльня">ṕäĺńä</w>
 <tk3 edit="MK" isa="fullstop"/>
 <tk3 edit="MK" isa="ws"/>
@@ -164885,9 +164885,9 @@ Vgl. <x>
 <w CyrId="кудонь">kudə̑ń</w>
 <w CyrId="путомста">putə̑msta</w>
 <w CyrId="эзем">eźəm</w>
-<Hph edit="MK"/>
+<w mdfId="-" edit="MK">-</w>
 <w CyrId="пря">pŕä</w>
-<Hph edit="MK"/>
+<w mdfId="-" edit="MK">-</w>
 <w CyrId="уголти">ugə̑lt́i</w>
 <w CyrId="ярмакт">jarmakt</w>
 <w CyrId="путништь">putńišt́</w>
@@ -169162,7 +169162,7 @@ Vgl. <x>
 <w myvId="ялгань">jalgań</w>
 <w myvId="лажамо">lažamo</w>
 <w myvId="валынем">vali͔ńem</w>
-<tk3 isa="quest"/></x>
+<w myvId="?">?</w>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
 <book name="1" pg="210"/>
@@ -170058,7 +170058,7 @@ Vgl. <x>
 <x>
 <w CyrId="тонь">toń</w>
 <w CyrId="мазыкс">mazi͔ks</w>
-<Hph edit="MK"/>
+<w myvId="-" edit="MK">-</w>
 <w CyrId="чись">čiś</w>
 <w CyrId="лома">loma</w>
 <w CyrId="ютксто">jutksto</w>
@@ -170716,7 +170716,7 @@ altruss. <Et>
 <w myvId=",">,</w>
 <w myvId="паркной">parknoj</w>
 <w myvId="милынгим">ḿili͔ŋǵiḿ</w>
-<tk3 isa="quest"/></x>
+<w myvId="?">?</w>
 <GeoU xml:lang="myv">Kal</GeoU>
 <sources>
 <book name="2" pg="128"/>
@@ -172705,7 +172705,7 @@ altruss. <Et>
 <w myvId="чи">či͔</w>
 <w myvId=",">,</w>
 <w myvId="авардят">avaŕd́at</w>
-<tk3 isa="quest"/></x>
+<w myvId="?">?</w>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
 <book name="2" pg="122"/>
@@ -173283,7 +173283,7 @@ altruss. <Et>
 <w myvId="сяеде">śäjed́e</w>
 <w myvId="пяткань">ṕätkań</w>
 <w myvId="нуіцят">nuićat</w>
-<tk3 isa="quest"/></x>
+<w myvId="?">?</w>
 <GeoU xml:lang="myv">StZach</GeoU>
 <sources>
 <book name="VII" pg="160"/>
@@ -174002,7 +174002,7 @@ altruss. <Et>
 <w myvId="мякс">ḿäks</w>
 <w myvId="сельминет">śeĺḿińet</w>
 <w myvId="полгарнят">polgaŕńat</w>
-<tk3 isa="quest"/></x>
+<w myvId="?">?</w>
 <GeoU xml:lang="myv">Sob</GeoU>
 <sources>
 <book name="VII" pg="120"/>
