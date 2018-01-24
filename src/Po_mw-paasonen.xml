@@ -2122,7 +2122,7 @@
 <w mdfId="аф">af</w>
 <w mdfId="няйса">ńäjsa</w>
 <tk3 isa="fullstop"/>
-<tk3 isa="dash"/>
+<w mdfId="–">–</w>
 <w mdfId="калмаф">kalmaf</w>
 <w mdfId="ломаньць">lomańć</w>
 </x>
@@ -2382,7 +2382,7 @@
 <w myvId="прянзо">ṕŕanzo</w>
 <w myvId="ланксо">laŋkso</w>
 <tk3 isa="quest"/>
-<tk3 isa="dash"/>
+<w myvId="–">–</w>
 <w myvId="тараканысь">tarakani͔ś</w>
 </x>
 <GeoU xml:lang="myv">Mar</GeoU>
@@ -2936,7 +2936,7 @@
 <w mdfId="аля">aĺä</w>
 <w mdfId="ашчи">ašči</w>
 <tk3 isa="fullstop"/>
-<tk3 isa="dash"/>
+<w mdfId="–">–</w>
 <w mdfId="яши">jäši</w>
 <w mdfId="-">-</w>
 <w mdfId="рашксь">raškś</w>
@@ -11448,9 +11448,9 @@ ChrM
 <w mdfId=",">,</w>
 <w mdfId="эздонза">ezdə̑nza</w>
 <w mdfId="народ">naro·d</w>
-<w mdfId="симі">śimi</w>
+<w mdfId="сими">śimi</w>
 <tk3 isa="fullstop"/>
-<tk3 isa="dash"/>
+<w mdfId="–">–</w>
 <w mdfId="поцькясь">poćḱäś</w>
 </x>
 <GeoU xml:lang="mdf"/>
