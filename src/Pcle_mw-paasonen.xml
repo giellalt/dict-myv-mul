@@ -592,8 +592,8 @@
 <x>
 <w myvId="и">i</w>
 <w myvId="оргатизь">orgat́i·ź</w>
-<tk3 isa="colon"/>
-<w myvId="совадо">sova·do</w>
+<w myvId=":">:</w>
+<w myvIId="совадо">sova·do</w>
 <w myvId="ино">ino</w>
 </x>
 <GeoU xml:lang="myv">VVr</GeoU>
@@ -1005,7 +1005,6 @@
 <w mdfId="леш">ĺeš</w>
 <w mdfId="кеднясь">ḱed́ńäś</w>
 <w edit="MK" mdfId="керевсь">ḱeŕəvś</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="кə̑ргазень">kə̑rgaźəń</w>
 <w mdfId="эзда">ezda</w>
 </x>
@@ -1694,7 +1693,7 @@
 <xg>
 <x>
 <w edit="MK" CyrId="тядяй">t́äd́äj</w>
-<tk3 isa="comma"/>
+<w mdfId=",">,</w>
 <w CyrId="орта">orta</w>
 <w CyrId="лангса">laŋksa</w>
 <w edit="MK" CyrId="никак">ńikak</w>
@@ -1709,11 +1708,9 @@
 <xg>
 <x>
 <w edit="MK" CyrId="никак">ńikak</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" CyrId="ули">uĺi</w>
 <w CyrId="кафта">kafta</w>
 <w edit="MK" CyrId="пильгəнь">ṕiĺgəń</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" CyrId="кəрдишканя">kəŕd́iška·ńä</w>
 </x>
 <GeoNeed/>
@@ -1908,7 +1905,7 @@
 <w myvId="мезе">ḿeźe</w>
 <w myvId="сех">śeᵪ</w>
 <w myvId="куя">kuja</w>
-<tk3 isa="quest"/>
+<w myvId="?">?</w>
 <w myvId="–">–</w>
 <w myvId="масторысь">mastori͔ś</w>
 </x>
@@ -1944,7 +1941,7 @@
 <w myvId="лангсо">laŋkso</w>
 <w myvId="сех">śeᵪ</w>
 <w myvId="ламо">lamo</w>
-<tk3 isa="quest"/>
+<w myvId="?">?</w>
 <w myvId="–">–</w>
 <w myvId="тештть">t́ešč</w>
 </x>
@@ -2022,7 +2019,7 @@
 <w myvId="роботась">robotaś</w>
 <w myvId="сех">śeᵪ</w>
 <w myvId="шождыне">čoždi͔ńe</w>
-<tk3 isa="quest"/>
+<w myvId="?">?</w>
 <w myvId="–">–</w>
 <w myvId="лексемась">ĺeḱśimaś</w>
 </x>
@@ -2816,13 +2813,9 @@
 <xg>
 <x>
 <w edit="MK" mdfId="синь">śiń</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="ванихть">vańiᵪ́t́</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="эля">eĺä·</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="мезь">ḿeź</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="няіхть">ńäiᵪt́</w>
 </x>
 <GeoU xml:lang="mdf" edit="MK">Mam</GeoU>
@@ -3317,7 +3310,7 @@ Tat
 <x>
 <w mdfId="молят">moĺat</w>
 <w mdfId="тов">tov</w>
-<tk3 isa="quest"/>
+<w mdfId="?">?</w>
 <w mdfId="–">–</w>
 <w mdfId="аяф">ajaf</w>
 </x>
@@ -4531,8 +4524,8 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 <w mdfId="эстиенза">eśt́ijənza</w>
 <w mdfId="пароц">parə̑c</w>
 <w mdfId="аш">aš</w>
-<tk3 isa="fullstop"/>
-<w mdfId="–">–</w>
+<w mdfId=".">.</w>
+<w mdfIId="–">–</w>
 <w mdfId="каймəсь">kajməś</w>
 </x>
 <GeoU xml:lang="mdf" edit="MK">P</GeoU>
@@ -4627,11 +4620,8 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 <x>
 <w mdfId="аш">aš</w>
 <w edit="MK" mdfId="пильгезононтт">ṕiĺǵezə̑nə̑ntt</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="карьсемс">kaŕśems</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="тинь">t́iń</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="карненття">kaŕńeńt́t́ä</w>
 </x>
 <GeoU xml:lang="mdf" edit="MK">Mam</GeoU>
@@ -4684,7 +4674,6 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 <x>
 <w mdfId="ашə̑ль">ašə̑ĺ</w>
 <w edit="MK" mdfId="пильгень">ṕiĺǵeń</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="карьсинязя">kaŕśińäźä</w>
 </x>
 <GeoU xml:lang="mdf" edit="MK">Mam</GeoU>
@@ -4711,9 +4700,7 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 <xg>
 <x>
 <w edit="MK" mdfId="ашельхть">ašeĺʿt́</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="пильксот">ṕiĺksə̑t</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="пракстанятня">prakstańät́ńä</w>
 </x>
 <GeoU xml:lang="mdf" edit="MK">Mam</GeoU>
@@ -4738,7 +4725,6 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 <x>
 <w mdfId="ашəть">ašət́</w>
 <w edit="MK" mdfId="мярьгəндя">ḿäŕǵəńd́ä</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="миколань">ḿiko·lań</w>
 <w mdfId="шиня">šińä·</w>
 <w mdfId="самняда">samńada</w>
@@ -4834,11 +4820,8 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 <xg>
 <x>
 <w edit="MK" mdfId="тя">t́ä</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="вайгельнять">vajǵeĺńät́</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="ашиня">ašińä</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="ушə̑ткшня">ušə̑tkšńä</w>
 </x>
 <GeoU xml:lang="mdf" edit="MK">Mam</GeoU>
@@ -5012,8 +4995,8 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 <w edit="MK" mdfId="мярьгəмс">ḿäŕǵəms</w>
 <w mdfId="аш">aš</w>
 <w mdfId="кинди">ḱińd́i</w>
-<tk3 isa="fullstop"/>
-<w mdfId="–">–</w>
+<w mdfId=".">.</w>
+<w mdfIId="–">–</w>
 <w mdfId="шватась">švataś</w>
 </x>
 <GeoU xml:lang="mdf"/>
@@ -5026,9 +5009,7 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 <x>
 <w mdfId="аш">aš</w>
 <w edit="MK" mdfId="кинь">ḱiń</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="кятста">ḱätsta</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="кизефтемс">ḱiźeft́ems</w>
 <w mdfId=",">,</w>
 <w mdfId="кодам">kodam</w>
@@ -5334,9 +5315,7 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 <w mdfId="аш">aš</w>
 <w edit="MK" mdfId="мезевок">ḿeźevə̑k</w>
 <tk3 edit="MK" isa="fullstop"/>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="–">–</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="пазяйсь">paźäjś</w>
 </x>
 <GeoU xml:lang="mdf"/>
@@ -6557,7 +6536,6 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 <xg>
 <x>
 <w edit="MK" myvId="ат">at</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" myvId="кундасамизь">kunda·saḿiź</w>
 </x><GeoU xml:lang="myv">Kažl</GeoU>
 <sources>
@@ -6856,7 +6834,7 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 </Vrt>
 </Chc>
 <w edit="MK" myvId="инязурсь">ińazurś</w>
-<tk3 isa="comma"/>
+<w myvId=",">,</w>
 <Chc>
 <Vrt>
 <w myvId="кост">kost</w>
@@ -7650,7 +7628,7 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 <x>
 <w myvId="давай">dava·j</w>
 <w myvId="миняник">ḿińä·ńiḱ</w>
-<tk3 isa="triDash"/>
+<w myvId="---">---</w>
 <w myvId="а">a</w>
 <w myvId="-">-</w>
 <w myvId="ютама">juta·ma</w>
@@ -9084,7 +9062,7 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 <w myvId="ков">kov</w>
 <w myvId="кона">kona</w>
 <w myvId="ков">kov</w>
-<tk3 isa="comma"/>
+<w myvId=",">,</w>
 <w edit="MK" myvId="сорацть">soraćt́</w>
 </x>
 <GeoU xml:lang="myv">Kažl</GeoU>
@@ -9457,7 +9435,7 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 <xg>
 <x>
 <w myvId="молян">moĺan</w>
-<tk3 isa="triDash"/>
+<w myvId="---">---</w>
 <w myvId="апак">apak</w>
 <w myvId="вельтя">v́eĺt́a</w>
 <w myvId="латонень">latońeń</w>
@@ -10262,7 +10240,7 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 <xg>
 <x>
 <w myvId="эйдиньгим">ejd́ińǵim</w>
-<tk3 isa="comma"/>
+<w myvId=",">,</w>
 <w edit="MK" myvId="месть">ḿeśt́</w>
 <w myvId="тене">t́eńe</w>
 <w myvId="мон">mon</w>
@@ -10283,12 +10261,10 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 <xg>
 <x>
 <w edit="MK" mdfId="веть">v́et́</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="первай">ṕervaj</w>
 <w mdfId="монга">moŋga</w>
 <w mdfId="аф">af</w>
 <w edit="MK" mdfId="пяк">ṕäk</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="ӓвəдень">ävəd́əń</w>
 <w mdfId=",">,</w>
 <w mdfId="коста">kosta</w>
@@ -11333,7 +11309,7 @@ Volksd. gebraucht wird, <Cm>? = russ. <FrnTxt xml:lang="rus">да</FrnTxt></Cm>]
 <w edit="MK" myvId="мезеяк">ḿeźejak</w>
 <w myvId="кундыде">kundi͔d́e</w>
 <w myvId="коть">kot́</w>
-<tk3 isa="quest"/>
+<w myvId="?">?</w>
 <w myvId="–">–</w>
 <w myvId="эзинек">eźińeḱ</w>
 <w myvId=",">,</w>
@@ -13489,7 +13465,6 @@ ChrM
 <w mdfId="кудняса">kudńa·sa</w>
 <w mdfId="сядонга">śadə̑ŋga</w>
 <w edit="MK" mdfId="тьсебярь">t́śeb́äŕ</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="стирь">śt́iŕ</w>
 </x>
 <GeoU xml:lang="mdf" edit="MK">P</GeoU>

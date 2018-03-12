@@ -215,11 +215,8 @@
 <x>
 <w mdfId="и">i</w>
 <w edit="MK" mdfId="сӓвəзень">sävəźəń</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="ня">ńä</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="колмитьськя">kolḿi·t́śḱä</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="стирьхнень">śt́iŕʿńəń</w>
 <w mdfId="мархтонза">marʿtə̑nza</w>
 </x>
@@ -1976,7 +1973,7 @@
 <x>
 <w myvId="зяро">źaro</w>
 <w myvId="сёрманзо">śormanᴣo</w>
-<tk3 isa="comma"/>
+<w myvId=",">,</w>
 <Chc>
 <Vrt>
 <w myvId="зняро">źńaro</w>
@@ -2092,26 +2089,20 @@
 <xg>
 <x>
 <w edit="MK" mdfId="мезяра">ḿeźa·ra</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="ярхтсайться">jarʿtsajt́śä</w>
 <Hph edit="MK"/>
 <w edit="MK" mdfId="симиться">śiḿit́śä</w>
-<tk3 edit="MK" isa="comma"/>
-<tk3 edit="MK" isa="ws"/>
+<w edit="MK" mdfId=",">,</w>
 <w edit="MK" mdfId="сеняр">śeńa·r</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="улеза">uĺeza</w>
 <w mdfId="пара">para</w>
 <w mdfId="!">!</w>
 <w edit="MK" mdfId="мезяра">ḿeźa·ra</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="кандыться">kandi͔t́śä</w>
 <Hph edit="MK"/>
 <w edit="MK" mdfId="вятиться">v́ät́it́śä</w>
-<tk3 edit="MK" isa="comma"/>
-<tk3 edit="MK" isa="ws"/>
+<w edit="MK" mdfId=",">,</w>
 <w edit="MK" mdfId="сеняра">śeńa·ra</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="улеза">uĺeza</w>
 <w mdfId="пара">para</w>
 <w mdfId="!">!</w></x>
@@ -2386,7 +2377,6 @@
 <xg>
 <x>
 <w edit="MK" mdfId="мезярда">ḿeźa·rda</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="узерь">uźeŕ</w>
 <Hph edit="MK"/>
 <w edit="MK" mdfId="кятшксь">ḱätšḱś</w>
@@ -3206,9 +3196,7 @@
 <x>
 <w mdfId="яр">jär</w>
 <w edit="MK" mdfId="шиня">šińä·</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="антьсяк">ańt́śa·k</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="аварькшни">avaŕkšńi</w>
 </x>
 <GeoU xml:lang="mdf" edit="MK">Mam</GeoU>

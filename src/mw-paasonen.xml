@@ -28,7 +28,6 @@
 <w mdfId="тшик">tšik</w>
 <w edit="MK" mdfId="нармоння">narmə̑ńńä</w>
 <w mdfId="," edit="MK">,</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="карабэлнят">kara·belńat</w>
 <w mdfId="валнянза">valńanza</w>
 <w mdfId=".">.</w>
@@ -155,10 +154,8 @@
 <w mdfId=",">,</w>
 <w edit="MK" mdfId="старики">staŕiḱi</w>
 <w mdfId="," edit="MK">,</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="мужіки">mužiḱi</w>
 <w mdfId="," edit="MK">,</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="тясть">t́äśt́</w>
 <w mdfId="муворгофта">muvə̑rgə̑fta</w>
 <w edit="MK" mdfId="алянянтс">aĺäńants</w>
@@ -220,9 +217,7 @@
 <xg>
 <x>
 <w edit="MK" mdfId="ули">uĺi</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="антьсяк">ańt́śak</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="фкя">fḱä</w>
 <w mdfId=",">,</w>
 <w mdfId="аф">af</w>
@@ -234,9 +229,7 @@
 <w mdfId=",">,</w>
 <w mdfId="ə̑док">ə̑də̑k</w>
 <w edit="MK" mdfId="сянь">śäń</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="варсишня">varśišńä</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="пакарентска">pakaŕentska</w>
 <w mdfId="аф">af</w>
 <w mdfId="кантсазь">kantsaź</w>
@@ -305,7 +298,6 @@
 <xg genre="riddle">
 <x>
 <w edit="MK" mdfId="виреста">v́iŕesta</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="кярса">ḱärsa</w>
 <w mdfId=",">,</w>
 <w mdfId="кутса">kutsa</w>
@@ -440,7 +432,6 @@
 <w mdfId=",">,</w>
 <w edit="MK" mdfId="эднязя">ed́ńä·źä</w>
 <w mdfId="," edit="MK">,</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="лефкскязя">ĺefksḱäźä</w>
 </x>
 <GeoU xml:lang="mdf" edit="MK">Mam</GeoU>
@@ -1143,7 +1134,6 @@
 <x>
 <w mdfId="на">na</w>
 <w edit="MK" mdfId="тет">t́et</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="казняня">kaźńäńä</w>
 <w mdfId="казян">kaźan</w>
 </x>
@@ -1161,7 +1151,6 @@
 <w mdfId="молаткать">molatkat́</w>
 <w mdfId=",">,</w>
 <w edit="MK" mdfId="таргаіть">targait́</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="сельмəнзон">śeĺmənzə̑n</w>
 </x>
 <GeoU xml:lang="mdf" edit="MK">Mam</GeoU>
@@ -1896,7 +1885,7 @@
 <w myvId="нурьк">nuŕḱ</w>
 </Vrt>
 </Chc>
-<tk3 isa="exclamation"/>
+<w myvId="!">!</w>
 <w myvId="эрить">eŕi·t́</w>
 <w myvId="бабат">baba·t</w>
 <w myvId="да">da</w>
@@ -2764,7 +2753,7 @@
 <xg>
 <x>
 <w myvId="пасиба">paśiba</w>
-<tk3 isa="comma"/>
+<w myvId=",">,</w>
 <w edit="MK" myvId="тетяй">t́et́ej</w>
 <w myvId=",">,</w>
 <w myvId="паро">paro</w>
@@ -3015,7 +3004,6 @@
 <w mdfId=",">,</w>
 <w edit="MK" mdfId="мярьгсь">ḿäŕkś</w>
 <w mdfId="," edit="MK">,</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="кшəнязя">kšəńä·źä</w>
 <w mdfId=",">,</w>
 <w mdfId="пожалый">poža·li͔j</w>
@@ -5650,7 +5638,7 @@ Tat., tschuw. <Et>
 <xg>
 <x>
 <w myvId="басловимак">baslov́imak</w>
-<tk3 isa="triDash"/>
+<w myvId="---">---</w>
 <w myvId="козой">kozoj</w>
 <w myvId="превинень">pŕev́ińeń</w>
 <w myvId="ней">ńej</w>

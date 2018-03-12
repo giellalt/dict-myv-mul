@@ -345,7 +345,7 @@
 <w myvId="адякая">ad́akaja</w>
 <w myvId=",">,</w>
 <w myvId="полай">polaj</w>
-<tk3 isa="comma"/>
+<w myvId=",">,</w>
 <w edit="MK" myvId="ашчеме">ašče͔ḿe</w>
 <w myvId=",">,</w>
 <w myvId="вечкай">v́ečkaj</w>
@@ -760,9 +760,7 @@
 <x>
 <w edit="MK" CyrId="лепа">ĺepa·</w>
 <tk3 edit="MK" isa="comma"/>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" CyrId="лепа">ĺepa·</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" CyrId="лепанязя">ĺepa·ńäźä</w>
 </x>
 <GeoNeed/>
@@ -1614,9 +1612,7 @@
 <xg>
 <x>
 <w edit="MK" CyrId="талили">taĺiĺi</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" CyrId="кришань">kŕišań</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" CyrId="марьканясь">maŕkańäś</w>
 </x>
 <GeoNeed/>
@@ -1726,7 +1722,6 @@
 <xg>
 <x>
 <w edit="MK" mdfId="миклайнянь">ḿikla·jńäń</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="андрейсь">ańd́ŕe·jś</w>
 <w mdfId="шавомс">šavə̑ms</w>
 <w mdfId="шукшсамань">šukšsa·mań</w>
@@ -1864,20 +1859,14 @@
 <w mdfId=",">,</w>
 <w edit="MK" CyrId="азомасть">azə̑maśt́</w>
 <tk3 edit="MK" isa="comma"/>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" CyrId="азомасть">azə̑maśt́</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" CyrId="васянь">vaśäń</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" CyrId="стирти">śt́iŕt́i</w>
 <tk3 edit="MK" isa="comma"/>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" CyrId="натакти">natakt́i</w>
 <tk3 edit="MK" isa="comma"/>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" CyrId="натаняти">natańät́i</w>
 <tk3 edit="MK" isa="comma"/>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" CyrId="сукати">suka·t́i</w>
 </x>
 <GeoNeed/>
@@ -1947,14 +1936,11 @@
 <xg>
 <x>
 <w edit="MK" mdfId="талили">taĺiĺi</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="сидоронь">śidə̑rə̑ń</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="аксянясь">akśäńäś</w>
 <w mdfId=",">,</w>
 <w mdfId="картса">kartsa</w>
 <w edit="MK" mdfId="каряй">kaŕäj</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="лішмəняс">lišməńäs</w>
 </x>
 <GeoU xml:lang="mdf"/>
@@ -2052,12 +2038,9 @@
 <xg>
 <x>
 <w edit="MK" mdfId="талили">taĺiĺi</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="митянь">ḿit́äń</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="алдунясь">alduńäś</w>
 <tk3 edit="MK" isa="fullstop"/>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="перень">ṕeŕeń</w>
 <w mdfId="ала">ala</w>
 <Chc>
@@ -2697,12 +2680,9 @@
 <w edit="MK" CyrId="сетьсянь">śet́śä·ń</w>
 <w CyrId="катса">katsa</w>
 <w edit="MK" CyrId="матерь">mat́əŕ</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" CyrId="аказти">akaźt́i</w>
 <tk3 edit="MK" isa="comma"/>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" CyrId="отьсязень">ot́śäźəń</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" CyrId="стирентсты">śt́iŕəntsti͔</w>
 </x>
 <GeoNeed/>
@@ -2718,7 +2698,6 @@
 <w CyrId="штшась">štšaś</w>
 <w mdfId="-" edit="MK">-</w>
 <w edit="MK" CyrId="карясь">kaŕäś</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" CyrId="матерь">mat́əŕ</w>
 <w CyrId="наряжась">naŕažaś</w>
 </x>
@@ -3040,7 +3019,6 @@
 <x>
 <w mdfId="омба">omba</w>
 <w edit="MK" mdfId="ширесонза">šiŕəsə̑nza</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="симарясь">śimaŕäś</w>
 <w mdfId="паватс">pavats</w>
 </x>
@@ -3077,12 +3055,9 @@
 <xg>
 <x>
 <w edit="MK" mdfId="малавскаень">mala·vskajəń</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="лə̑фнахть">lə̑fna·ᵪ́t́</w>
-<tk3 edit="MK" isa="comma"/>
-<tk3 edit="MK" isa="ws"/>
+<w edit="MK" mdfId=",">,</w>
 <w edit="MK" mdfId="лə̑фнахть">lə̑fna·ᵪ́t́</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="кяр">ḱär</w>
 <w mdfId="-" edit="MK">-</w>
 <w mdfId="патьсясна">pat́śasna</w>
@@ -3657,7 +3632,6 @@
 <xg>
 <x>
 <w edit="MK" CyrId="игажень">iga·žeń</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" CyrId="степанть">śt́epa·ńt́</w>
 <w CyrId="мон">mon</w>
 <w CyrId="штшан">štšan</w>
@@ -4212,7 +4186,6 @@
 <w mdfId="сюдуф">śuduf</w>
 <w mdfId="сюдуф">śuduf</w>
 <w edit="MK" mdfId="мих́эень">ḿiᵪ́e·jəń</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="фананясь">fanańäś</w>
 </x>
 <GeoU xml:lang="mdf" edit="MK">P</GeoU>
@@ -4224,7 +4197,6 @@
 <xg>
 <x>
 <w edit="MK" mdfId="артём">aŕt́om</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="фананясь">fanańäś</w>
 <w mdfId="паньᴣ̌і">pańᴣ̌i</w>
 <w mdfId="калатьсяннь">kalat́śäńń</w>
@@ -4300,9 +4272,7 @@
 <xg>
 <x>
 <w edit="MK" myvId="талили">taĺiĺi</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" myvId="петрушкань">ṕetruškań</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" myvId="агунясь">aguńäś</w>
 <w myvId="шама">šama</w>
 <w myvId="ширса">širsa</w>
@@ -4348,7 +4318,6 @@
 <w myvId="мархта">marʿta</w>
 <w myvId="мон">mon</w>
 <w edit="MK" myvId="прасковіӓнь">prasko·viäń</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" myvId="няэлень">ńäeĺeń</w>
 </x>
 <GeoNeed/>
@@ -4407,8 +4376,8 @@
 <w mdfId=",">,</w>
 <w mdfId="ётксост">jotksə̑st</w>
 <w mdfId="кулина">kuĺi·na</w>
-<tk3 isa="fullstop"/>
-<w mdfId="–">–</w>
+<w mdfId=".">.</w>
+<w mdfIId="–">–</w>
 <w mdfId="ажятня">ažjät́ńä</w>
 <w mdfId=",">,</w>
 <w mdfId="кляшчӓтня">kĺäščät́ńä</w>
@@ -4592,7 +4561,7 @@
 <w mdfId="коса">kosa</w>
 <w mdfId="кулькань">kuĺka·ń</w>
 <w mdfId="пизəнянзон">ṕizəńanzə̑n</w>
-<tk3 isa="quest"/>
+<w mdfId="?">?</w>
 <w mdfId="козя">koźä</w>
 <w mdfId="алёкшəть">aĺokšət́</w>
 <w mdfId="куд">kud</w>
@@ -4674,11 +4643,8 @@
 <Hph/>
 <w edit="MK" CyrId="паться">pat́śä</w>
 <tk3 edit="MK" isa="comma"/>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" CyrId="сеться">śet́śä·</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" CyrId="андре·ень">ańd́ŕe·jeń</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" CyrId="андре·йнясь">ańd́ŕe·jńäś</w>
 </x>
 <GeoNeed/>
@@ -4917,7 +4883,6 @@
 <w mdfId=",">,</w>
 <w CyrId="тойнь">tojń</w>
 <w edit="MK" CyrId="тьсёраться">t́śorat́śä</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" CyrId="василькаться">vaśiĺkat́śä</w>
 <w mdfId="?">?</w>
 </x>
@@ -5882,19 +5847,13 @@
 <w mdfId=",">,</w>
 <w edit="MK" CyrId="азомасть">azə̑maśt́</w>
 <tk3 edit="MK" isa="comma"/>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" CyrId="азомасть">azə̑maśt́</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" CyrId="васянь">vaśäń</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" CyrId="стирти">śt́iŕt́i</w>
 <tk3 edit="MK" isa="comma"/>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" CyrId="натакти">natakt́i</w>
 <tk3 edit="MK" isa="comma"/>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" CyrId="натаняти">natańät́i</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" CyrId="сукати">suka·t́i</w>
 </x>
 <GeoNeed/>
@@ -6108,10 +6067,8 @@
 <xg>
 <x>
 <w edit="MK" CyrId="листь">ĺiśt́</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" CyrId="алёнаняй">aĺonańäj</w>
 <tk3 edit="MK" isa="comma"/>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" CyrId="листь">ĺiśt́</w>
 <w CyrId="и">i</w>
 <w edit="MK" CyrId="сестраняй">śestrańäj</w>
@@ -6259,16 +6216,12 @@
 <xg>
 <x>
 <w edit="MK" mdfId="стирень">śt́iŕeń</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="кятса">ḱätsa</w>
 <w mdfId="акша">akša</w>
 <w edit="MK" mdfId="рутьсянясь">rut́śä·ńäś</w>
-<tk3 edit="MK" isa="comma"/>
-<tk3 edit="MK" isa="ws"/>
+<w edit="MK" mdfId=",">,</w>
 <w edit="MK" mdfId="сеться">śet́śä</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="ванянь">vańäń</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="петорнясь">ṕetə̑rńäś</w>
 </x>
 <GeoU xml:lang="mdf"/>
@@ -6281,16 +6234,11 @@
 <x>
 <w mdfId="шə̑ров">šə̑ro·v</w>
 <w edit="MK" mdfId="песа">ṕesa</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="ляпəнь">ĺäpəń</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="мокəрьсь">mokəŕś</w>
-<tk3 edit="MK" isa="comma"/>
-<tk3 edit="MK" isa="ws"/>
+<w edit="MK" mdfId=",">,</w>
 <w edit="MK" mdfId="сеться">śet́śä·</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="кандаень">kandajeń</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="пёторнясь">ṕotə̑rńäś</w>
 </x>
 <GeoU xml:lang="mdf"/>
@@ -6413,9 +6361,7 @@
 <xg>
 <x>
 <w edit="MK" CyrId="талили">taĺiĺi</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" CyrId="петрушкань">ṕetruškań</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" CyrId="агунясь">aguńäś</w>
 </x>
 <GeoNeed/>
@@ -6964,7 +6910,6 @@
 <x>
 <w mdfId="омба">omba</w>
 <w edit="MK" mdfId="ширесонза">šiŕesə̑nza</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="симарясь">śimaŕäś</w>
 <w mdfId="паватс">pavats</w>
 </x>
@@ -7016,7 +6961,6 @@
 <x>
 <w mdfId="салака">salaka</w>
 <w edit="MK" mdfId="сидон">śidon</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="алятсень">aĺätśeń</w>
 <w mdfId="ярмак">jarmak</w>
 <w edit="MK" mdfId="ардьзянянтс">aŕd́źäńants</w>
@@ -7428,9 +7372,7 @@
 <w mdfId="озонды">ozə̑ndi͔</w>
 <tk3 isa="colon"/>
 <w edit="MK" mdfId="мани">mańi</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="киза">ḱiza</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="улеза">uĺeza</w>
 </x>
 <GeoU xml:lang="mdf" edit="MK">Mam</GeoU>
@@ -7443,7 +7385,6 @@
 <x>
 <w mdfId="улювонь">uĺu·və̑ń</w>
 <w edit="MK" mdfId="пилькс">ṕiĺks</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="штшафтозень">štšaftə̑źeń</w>
 </x>
 <GeoU xml:lang="mdf" edit="MK">Mam</GeoU>
@@ -7503,7 +7444,6 @@
 <w CyrId="улюша">uĺuša</w>
 <w mdfId=",">,</w>
 <w edit="MK" CyrId="сяфття">śäft́t́ä</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" CyrId="тушаняй">tuša·ńäj</w>
 </x>
 <GeoNeed/>
@@ -7541,9 +7481,7 @@
 <w CyrId="валы">vali͔</w>
 <w mdfId=",">,</w>
 <w edit="MK" CyrId="сеться">śet́śä·</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" CyrId="тергань">t́ergań</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" CyrId="фёдорнясь">f́odorńäś</w>
 </x>
 <GeoNeed/>
@@ -7812,12 +7750,9 @@
 <x>
 <w CyrId="сука">suka·</w>
 <w edit="MK" CyrId="кə̑рмаень">kə̑rma·jeń</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" CyrId="феданясь">f́edańäś</w>
 <tk3 edit="MK" isa="comma"/>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" CyrId="феданясь">f́edańäś</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" CyrId="паяр">pajar</w>
 <w mdfId="-" edit="MK">-</w>
 <w edit="MK" CyrId="аванясь">avańäś</w>
@@ -8210,7 +8145,6 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <xg>
 <x>
 <w edit="MK" mdfId="удалакшнесь">uda·lakšńeś</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="пиксаень">ṕiksa·jeń</w>
 <w mdfId="тарюсь">taŕuś</w>
 <w mdfId="шатшеманяда">šatšemańada</w>
@@ -8310,7 +8244,6 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <w mdfId="сука">suka·</w>
 <w mdfId="сука">suka·</w>
 <w edit="MK" mdfId="козяэнь">koźäeń</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="костять">kośt́ät́</w>
 <w mdfId="акша">akša</w>
 <w mdfId="тарюнятс">taŕuńats</w>
@@ -8646,7 +8579,6 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <xg>
 <x>
 <w edit="MK" CyrId="матьфеень">mat́f́ejəń</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" CyrId="полянясь">poĺäńäś</w>
 </x>
 <GeoNeed/>
@@ -9726,7 +9658,6 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <w mdfId=",">,</w>
 <w mdfId="тряпа">tŕapa</w>
 <w edit="MK" mdfId="кис">ḱis</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="моли">moĺi</w>
 </x>
 <GeoU xml:lang="mdf">Mam</GeoU>
@@ -9966,9 +9897,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <w mdfId="тшеборка">tšebə̑rka·</w>
 <w edit="MK" mdfId="лемэтс">ĺemets</w>
 <tk3 edit="MK" isa="fullstop"/>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="–">–</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="палетьськясь">paĺe·t́śḱäś</w>
 </x>
 <GeoU xml:lang="mdf"/>
@@ -10009,7 +9938,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <w mdfId="тиесонь">t́ijesə̑ń</w>
 <w mdfId="сон">son</w>
 <w mdfId="работасонь">rabotasə̑ń</w>
-<tk3 isa="quest"/>
+<w mdfId="?">?</w>
 <w mdfId="парь">paŕ</w>
 <w mdfId="-" edit="MK">-</w>
 <w mdfId="бекя">b́eḱä</w>
@@ -10387,8 +10316,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <w edit="MK" mdfId="максим">makśi·m</w>
 <w mdfId="-" edit="MK">-</w>
 <w edit="MK" mdfId="əрясь">əŕäś</w>
-<tk3 edit="MK" isa="comma"/>
-<tk3 edit="MK" isa="ws"/>
+<w edit="MK" mdfId=",">,</w>
 <w edit="MK" mdfId="максимться">makśi·mt́śä</w>
 <w mdfId="коса">kosa</w>
 <w mdfId="?">?</w>
@@ -10407,7 +10335,6 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <w mdfId="-" edit="MK">-</w>
 <w edit="MK" mdfId="əрять">əŕät́</w>
 <tk3 edit="MK" isa="colon"/>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="“максимться">“makśi·mt́śä</w>
 <w mdfId="кутса?”">kutsa?”</w>
 </x>
@@ -10526,9 +10453,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <xg>
 <x>
 <w edit="MK" mdfId="велезень">v́eĺəźəń</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="лемəтс">ĺeməts</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="серь">śəŕ</w>
 <w mdfId="малавсь">mala·vś</w>
 </x>
@@ -10723,10 +10648,8 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <w mdfId="морхтась">morʿtaś</w>
 <Hph/>
 <w edit="MK" mdfId="атя">at́ä</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="вешə̑нтсы">v́ešə̑ntsi͔</w>
-<tk3 edit="MK" isa="comma"/>
-<tk3 edit="MK" isa="ws"/>
+<w edit="MK" mdfId=",">,</w>
 <w edit="MK" mdfId="лякшав">ĺäkšav</w>
 <w mdfId="-" edit="MK">-</w>
 <w edit="MK" mdfId="атя">at́ä</w>
@@ -10754,7 +10677,6 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <w mdfId="сюру">śuru</w>
 <Hph/>
 <w edit="MK" mdfId="атя">at́ä</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="вешə̑нтсы">v́ešə̑ntsi͔</w>
 <w mdfId=",">,</w>
 <w mdfId="мортась">mortaś</w>
@@ -12575,7 +12497,6 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <w mdfId=",">,</w>
 <w edit="MK" CyrId="эднязя">ed́ńä·źä</w>
 <tk3 edit="MK" isa="comma"/>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" CyrId="наси·лка">naśi·lka</w>
 </x>
 <GeoNeed/>
@@ -12799,7 +12720,6 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <w CyrId="мархта">marʿta</w>
 <w CyrId="мон">mon</w>
 <w edit="MK" CyrId="праско·виӓнь">prasko·v́iäń</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" CyrId="няэлень">ńäeĺeń</w>
 </x>
 <GeoNeed/>
@@ -12886,10 +12806,8 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <xg>
 <x>
 <w edit="MK" CyrId="степан">st́epa·n</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" CyrId="каро·ткайсь">karo·tkajś</w>
 <tk3 edit="MK" isa="comma"/>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" CyrId="тядяй">t́äd́äj</w>
 <w mdfId=",">,</w>
 <w CyrId="шавфтсамань">šavftsamań</w>
@@ -12989,9 +12907,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <xg>
 <x>
 <w edit="MK" CyrId="масторонь">mastə̑rə̑ń</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" CyrId="кстыня">ksti͔ńä·</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" CyrId="якувəрясь">jakuvəŕäś</w>
 </x>
 <GeoNeed/>
@@ -13343,7 +13259,6 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <x>
 <w CyrId="сюдуфть">śuduft́</w>
 <w edit="MK" CyrId="игарять">igaŕät́</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" CyrId="вася">vaśä</w>
 <w CyrId="мархта">marʿta</w>
 <Chc>
@@ -14928,16 +14843,11 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <w CyrId="шə̑ро·в">šə̑ro·v</w>
 <w mdfId="-" edit="MK">-</w>
 <w edit="MK" CyrId="песа">ṕesa</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" CyrId="ляпəнь">ĺäpəń</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" CyrId="мокəрьсь">mokəŕś</w>
 <tk3 edit="MK" isa="comma"/>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" CyrId="сеться">śet́śä·</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" CyrId="кандаень">kandajəń</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" CyrId="пётернясь">ṕot́ərńäś</w>
 </x>
 <GeoNeed/>
@@ -15955,7 +15865,6 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <w mdfId=",">,</w>
 <w mdfId="сюдуф">śuduf</w>
 <w edit="MK" mdfId="крилань">kŕilań</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="тарюнясь">taŕuńäś</w>
 </x>
 <GeoU xml:lang="mdf" edit="MK">Mam</GeoU>
@@ -16188,7 +16097,6 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <x>
 <w mdfId="сука">suka·</w>
 <w edit="MK" mdfId="кə̑рмаень">kə̑rma·jeń</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="феданясь">f́edańäś</w>
 </x>
 <GeoU xml:lang="mdf">Mam</GeoU>
@@ -17271,15 +17179,11 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <xg>
 <x>
 <w edit="MK" mdfId="нилӓ">ńilä</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="яжахть">jažaᵪ́t́</w>
-<tk3 edit="MK" isa="comma"/>
-<tk3 edit="MK" isa="ws"/>
+<w edit="MK" mdfId=",">,</w>
 <w edit="MK" mdfId="ниля">ńiĺä</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="тшуфахть">tšufa·ᵪ́t́</w>
-<tk3 edit="MK" isa="comma"/>
-<tk3 edit="MK" isa="ws"/>
+<w edit="MK" mdfId=",">,</w>
 <w edit="MK" mdfId="акулина">akuĺi·na</w>
 <w mdfId="юводы">juvə̑di͔</w>
 </x>
@@ -17908,7 +17812,6 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <xg>
 <x>
 <w edit="MK" mdfId="миклайнянь">ḿikla·jńäń</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="андрейсь">ańd́ŕe·jś</w>
 <w mdfId="шавомс">šavə̑ms</w>
 <w mdfId="шукшсамань">šukšsa·mań</w>
@@ -18920,7 +18823,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <w myvId="маны">mani͔</w>
 <w myvId="бердуж">b́erduž</w>
 <w myvId="иваннэ">ivanne͔</w>
-<tk3 isa="triDash"/>
+<w myvId="---">---</w>
 <w myvId="се">śe</w>
 <w myvId="теть">t́et́</w>
 <w myvId="пине">ṕińe</w>
@@ -18962,7 +18865,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <x>
 <w myvId="помени">poḿeńi</w>
 <w myvId="хосподи">ᵪospod́i</w>
-<tk3 isa="triDash"/>
+<w myvId="---">---</w>
 <w myvId="васень">vaśeń</w>
 <w myvId="калмонь">kalmoń</w>
 <w myvId="ушодыцянть">ušodi͔ćańt́</w>
@@ -19206,7 +19109,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <w myvId="думаіть">duma·it́</w>
 <w myvId="-" edit="MK">-</w>
 <w myvId="гадаіть">gada·it́</w>
-<tk3 isa="quest"/>
+<w myvId="?">?</w>
 <w myvId="ало">alo·</w>
 <w myvId="-">-</w>
 <w myvId="пелей">ṕe·ĺej</w>
@@ -19516,9 +19419,9 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 </mg>
 <xg>
 <x>
-<w CyrId="федянь">f́ed́ań</w>
-<w CyrId="ванёнь">vańoń</w>
-<w CyrId="вечкия">v́ečḱija</w>
+<w myvId="федянь">f́ed́ań</w>
+<w myvId="ванёнь">vańoń</w>
+<w myvId="вечкия">v́ečḱija</w>
 </x>
 <GeoNeed/>
 <sources>
@@ -19528,9 +19431,9 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 </xg>
 <xg>
 <x>
-<w CyrId="ох">oᵪ</w>
+<w myvId="ох">oᵪ</w>
 <w CyrId="полай">polaj</w>
-<tk3 isa="comma"/>
+<w myvId=",">,</w>
 <w CyrId="полай">polaj</w>
 <w CyrId="а">a</w>
 <w CyrId="ванё">vańo</w>
@@ -19768,7 +19671,6 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <w mdfId="сазан">sazan</w>
 <w mdfId="-" edit="MK">-</w>
 <w edit="MK" mdfId="ультьсяста">uĺt́śasta</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="кузьмяннь">kuźḿä·ńń</w>
 <w mdfId="васильти">vaśi·ĺt́i</w>
 </x>
@@ -20735,9 +20637,9 @@ Dem. zu <Et>Васи́лий</Et>]
 <xg>
 <x>
 <w CyrId="тон">ton</w>
-<tk3 isa="comma"/>
+<w myvId=",">,</w>
 <w CyrId="поланякай">polańakaj</w>
-<tk3 isa="comma"/>
+<w myvId=",">,</w>
 <w CyrId="висиля">v́iśiĺa</w>
 </x>
 <GeoNeed/>
@@ -21080,7 +20982,7 @@ Dem. zu <Et>Васи́лий</Et>]
 <x>
 <w mdfId="арда">aŕda</w>
 <w mdfId="молхтяма">molʿt́ama</w>
-<tk3 isa="triDash"/>
+<w mdfId="---">---</w>
 <w mdfId="дирьгань">d́iŕgań</w>
 <w mdfId="орта">orta</w>
 <w mdfId="ланкс">laŋks</w>
@@ -21544,7 +21446,7 @@ Dem. zu <Et>Васи́лий</Et>]
 <w myvId="уездэнь">ujezde͔ń</w>
 <w myvId="дуброфкаса">dubrofkasa</w>
 <tk3 isa="fullstop"/>
-<tk3 isa="triDash"/>
+<w myvId="---">---</w>
 <w myvId="се">śe</w>
 <w edit="MK" myvId="чинть">čińt́</w>
 <w myvId="дуброфкат">dubrofkat</w>
@@ -21591,7 +21493,7 @@ Dem. zu <Et>Васи́лий</Et>]
 <w myvId="минь">ḿiń</w>
 <w myvId="лёность">ĺonośt́</w>
 <w edit="MK" myvId="видинек">v́id́ińek</w>
-<tk3 isa="triDash"/>
+<w myvId="---">---</w>
 <w myvId="дунька">duńka</w>
 <w myvId="-" edit="MK">-</w>
 <w myvId="дунька">duńka</w>
@@ -21652,7 +21554,7 @@ Dem. zu <Et>Васи́лий</Et>]
 <w myvId="пиже">ṕiže</w>
 <w myvId="какай">kakaj</w>
 <w myvId="дюгаля">d́uga·ĺa</w>
-<tk3 isa="triDash"/>
+<w myvId="---">---</w>
 <w myvId="эряват">eŕavat</w>
 <w myvId=",">,</w>
 <w myvId="какай">kakaj</w>
@@ -22187,7 +22089,6 @@ Dem. zu <Et>Васи́лий</Et>]
 <x>
 <w mdfId="покай">pokaj</w>
 <w edit="MK" mdfId="кямя">ḱäḿä</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="иванярясь">iva·ńäŕäś</w>
 </x>
 <GeoU xml:lang="mdf" edit="MK">P</GeoU>
@@ -23132,15 +23033,15 @@ Dem. zu <Et>Илю́ша</Et>)]
 <x>
 <w CyrId="вай">vaj</w>
 <w CyrId="иматовонь">imatovoń</w>
-<tk3 isa="comma"/>
+<w myvId=",">,</w>
 <w CyrId="брацы">braci͔</w>
-<tk3 isa="comma"/>
+<w myvId=",">,</w>
 <w CyrId="колкасо">kolkaso</w>
-<tk3 isa="comma"/>
+<w myvId=",">,</w>
 <w CyrId="сесынень">śesi͔ńeń</w>
-<tk3 isa="comma"/>
+<w myvId=",">,</w>
 <w CyrId="брацы">braci͔</w>
-<tk3 isa="comma"/>
+<w myvId=",">,</w>
 <w CyrId="кукут">kukut</w>
 <w CyrId="кукурдыть">kukurdi͔t́</w>
 </x>
@@ -23325,9 +23226,7 @@ Dem. zu <Et>Илю́ша</Et>)]
 <w mdfId="инзаронь">inza·rə̑ń</w>
 <w mdfId="паярсь">pajarś</w>
 <w edit="MK" mdfId="госпə̑дин">gospə̑d́in</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="палковнексь">palko·vńekś</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="эрьват">eŕva·t</w>
 <w mdfId="ванонды">vanə̑ndi͔</w>
 </x>
@@ -23459,9 +23358,9 @@ Dem. zu <Et>Илю́ша</Et>)]
 <xg>
 <x>
 <w CyrId="кучсынек">kučsi͔ńek</w>
-<tk3 isa="comma"/>
+<w myvId=",">,</w>
 <w CyrId="полай">polaj</w>
-<tk3 isa="comma"/>
+<w myvId=",">,</w>
 <w CyrId="ирикев">iŕiḱev</w>
 <w CyrId="якстерь">jakśt́eŕ</w>
 <w CyrId="иньзеень">ińźejeń</w>
@@ -24297,7 +24196,7 @@ Dem. zu <Et>Илю́ша</Et>)]
 <w myvId="тонеяк">tońejak</w>
 <w myvId=",">,</w>
 <w myvId="кандратий">kandrat́ij</w>
-<tk3 isa="comma"/>
+<w myvId=",">,</w>
 <w edit="MK" myvId="кевкснемсан">ḱevkśńemsan</w>
 </x>
 <GeoU xml:lang="myv">NSurk</GeoU>
@@ -24314,7 +24213,7 @@ Dem. zu <Et>Илю́ша</Et>)]
 <w myvId="тонеть">tońet́</w>
 <w myvId=",">,</w>
 <w myvId="кандрашка">kandraška</w>
-<tk3 isa="comma"/>
+<w myvId=",">,</w>
 <Chc>
 <Vrt>
 <w myvId="мон">mon</w>
@@ -24709,7 +24608,7 @@ Dem. zu <Et>Илю́ша</Et>)]
 <w myvId="колмо">kolmo</w>
 <w myvId="лелень">ĺeĺeń</w>
 <w myvId="сазор">sazor</w>
-<tk3 isa="comma"/>
+<w myvId=",">,</w>
 <Chc>
 <Vrt>
 <w myvId="колм">kolm</w>
@@ -25040,7 +24939,7 @@ Dem. zu <Et>Илю́ша</Et>)]
 <w myvId="козынь">kozi͔ń</w>
 <w myvId="молят">moĺat</w>
 <w myvId="ашчеме">aščeḿe</w>
-<tk3 isa="quest"/>
+<w myvId="?">?</w>
 <w myvId="‒‒‒">‒‒‒</w>
 <w myvId="вечкилеев">v́ečḱiĺejev</w>
 <w myvId=",">,</w>
@@ -25305,8 +25204,8 @@ Eine Wachskerze wurde angezündet u. eine Frau sprach folg. Gebet: <i>
 <w mdfId=",">,</w>
 <w CyrId="солтан">soltan</w>
 <w CyrId="к">ḱ</w>
-<tk3 isa="fullstop"/>
-<w mdfId=",">,</w>
+<w mdfId=".">.</w>
+<w mdfIId=",">,</w>
 <w CyrId="к">ḱ</w>
 <tk3 isa="fullstop"/>
 <w CyrId="азор">azə̑r</w>
@@ -26652,8 +26551,8 @@ Eine Wachskerze wurde angezündet u. eine Frau sprach folg. Gebet: <i>
 <w myvId="эста">ästa</w>
 <w myvId="руст">rust</w>
 <w myvId="мереть">ḿeŕet́</w>
-<tk3 isa="colon"/>
-<w myvId="заморскᴉ͐й">zamorskᴉ͐j</w>
+<w myvId=":">:</w>
+<w myvIId="заморскᴉ͐й">zamorskᴉ͐j</w>
 <w myvId="кот">kot</w>
 </x>
 <GeoU xml:lang="myv">Ba</GeoU>
@@ -26819,7 +26718,7 @@ Eine Wachskerze wurde angezündet u. eine Frau sprach folg. Gebet: <i>
 <w CyrId="тусь">tuś</w>
 <w CyrId="лия">ĺija</w>
 <w CyrId="велев">v́eĺej</w>
-<tk3 isa="comma"/>
+<w myvId=",">,</w>
 <w CyrId="лия">ĺija</w>
 <w CyrId="велев">v́eĺej</w>
 <w CyrId="Кочкумазов">kočkumazov</w>
@@ -27227,7 +27126,6 @@ Eine Wachskerze wurde angezündet u. eine Frau sprach folg. Gebet: <i>
 <w mdfId=".">.</w>
 <w mdfId="сазан">sazan</w>
 <w edit="MK" mdfId="ультьсяста">uĺt́śasta</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="кузьмяннь">kuźḿä·ńń</w>
 <w mdfId="васильти">vaśi·ĺt́i</w>
 </x>
@@ -27523,7 +27421,6 @@ Eine Wachskerze wurde angezündet u. eine Frau sprach folg. Gebet: <i>
 <w myvId="кутяма">kut́a·ma</w>
 <w myvId="-" edit="MK">-</w>
 <w edit="MK" myvId="велес">v́eĺe·s</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" myvId="молекшнэсь">moĺe·kšne͔ś</w>
 </x>
 <GeoU xml:lang="myv">Jeg</GeoU>
@@ -27564,9 +27461,7 @@ Eine Wachskerze wurde angezündet u. eine Frau sprach folg. Gebet: <i>
 <w myvId="молят">moĺat</w>
 <w edit="MK" myvId="костямо">kośt́amo</w>
 <tk3 edit="MK" isa="quest"/>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" myvId="кшуманьчастень">kšumańčaśt́eń</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" myvId="велестень">v́eĺeśt́eń</w>
 </x>
 <GeoU xml:lang="myv">MKly</GeoU>
@@ -27656,8 +27551,8 @@ Eine Wachskerze wurde angezündet u. eine Frau sprach folg. Gebet: <i>
 <x>
 <w myvId="цёразо">ćorazo</w>
 <w myvId="мери">ḿeŕi</w>
-<tk3 isa="colon"/>
-<w myvId="эрьзянь">eŕźań</w>
+<w myvId=":">:</w>
+<w myvIId="эрьзянь">eŕźań</w>
 <w myvId="кямельтя">ḱäḿeĺt́ä</w>
 </x>
 <GeoU xml:lang="myv">Naumk</GeoU>
@@ -29313,13 +29208,12 @@ Eine Wachskerze wurde angezündet u. eine Frau sprach folg. Gebet: <i>
 <xg>
 <x>
 <w edit="MK" myvId="стяка">śt́aka</w>
-<tk3 edit="MK" isa="comma"/>
-<tk3 edit="MK" isa="ws"/>
+<w edit="MK" myvId=",">,</w>
 <w edit="MK" myvId="стяка">śt́aka</w>
 <w myvId=",">,</w>
 <w myvId="марюш">maŕuš</w>
 <w myvId="полай">polaj</w>
-<tk3 isa="comma"/>
+<w myvId=",">,</w>
 <w edit="MK" myvId="стякая">śt́akaja</w>
 </x>
 <GeoU xml:lang="myv">StZach</GeoU>
@@ -31194,12 +31088,10 @@ Eine Wachskerze wurde angezündet u. eine Frau sprach folg. Gebet: <i>
 <x>
 <w mdfId="лутше">lutše</w>
 <w edit="MK" mdfId="максомасть">maksə̑maśt́</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="тядякай">t́äd́akaj</w>
 <w mdfId="-" edit="MK">-</w>
 <w mdfId="авай">avaj</w>
 <w edit="MK" mdfId="шиндянь">šińd́äń</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="мишати">ḿišat́i</w>
 </x>
 <GeoU xml:lang="mdf" edit="MK">Mam</GeoU>
@@ -31212,7 +31104,6 @@ Eine Wachskerze wurde angezündet u. eine Frau sprach folg. Gebet: <i>
 <x>
 <w mdfId="эста">esta</w>
 <w edit="MK" mdfId="стясь">śt́äś</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="мишань">ḿišań</w>
 <w mdfId="матрёнась">mat́ŕonaś</w>
 </x>
@@ -31339,18 +31230,14 @@ Eine Wachskerze wurde angezündet u. eine Frau sprach folg. Gebet: <i>
 <w edit="MK" mdfId="перьф">ṕeŕf</w>
 <w mdfId="-" edit="MK">-</w>
 <w edit="MK" mdfId="сёкə̑ня">śokə̑ńä</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="мишкань">ḿiškań</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="эрьватс">eŕva·ts</w>
 </x>
 <x>
 <w edit="MK" mdfId="переф">ṕeŕef</w>
 <w mdfId="-" edit="MK">-</w>
 <w edit="MK" mdfId="сёкə̑ня">śokə̑ńä</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="мишкань">ḿiškań</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="эрьватс">eŕva·ts</w>
 </x>
 <GeoU xml:lang="mdf" edit="MK">Mam</GeoU>
@@ -31760,7 +31647,7 @@ Eine Wachskerze wurde angezündet u. eine Frau sprach folg. Gebet: <i>
 <w myvId="арасель">araśeĺ</w>
 <w myvId="мазы">mazi͔</w>
 <w myvId="натушась">natušaś</w>
-<tk3 isa="comma"/>
+<w myvId=",">,</w>
 <w edit="MK" myvId="аньцяк">ańćak</w>
 <w myvId="эзь">eź</w>
 <w myvId="ульне">uĺńe</w>
@@ -31856,7 +31743,7 @@ Eine Wachskerze wurde angezündet u. eine Frau sprach folg. Gebet: <i>
 <w myvId="арасель">araśeĺ</w>
 <w myvId="мазы">mazi͔</w>
 <w myvId="натушась">natušaś</w>
-<tk3 isa="comma"/>
+<w myvId=",">,</w>
 <w edit="MK" myvId="аньцяк">ańćak</w>
 <w myvId="эзь">eź</w>
 <w myvId="ульне">uĺńe</w>
@@ -32447,7 +32334,6 @@ Eine Wachskerze wurde angezündet u. eine Frau sprach folg. Gebet: <i>
 <w mdfId="!">!</w>
 <w mdfId="‒‒‒">‒‒‒</w>
 <w edit="MK" mdfId="ся">śä</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="васянь">vaśäń</w>
 <w mdfId="аксяда">akśada</w>
 </x>
@@ -33001,7 +32887,7 @@ Eine Wachskerze wurde angezündet u. eine Frau sprach folg. Gebet: <i>
 <x>
 <w CyrId="мон">mon</w>
 <w CyrId="костятан">kośt́atan</w>
-<tk3 isa="comma"/>
+<w myvId=",">,</w>
 <w CyrId="мон">mon</w>
 <w CyrId="маштатан">maštatan</w>
 <w CyrId="оляень">oĺajeń</w>
@@ -35237,7 +35123,7 @@ Adjekt. Gen. aus dem russ. Adj. <Et>Петро́в</Et>]
 <w myvId="васолдо">vasoldo</w>
 <w myvId=",">,</w>
 <w myvId="авкай">avkaj</w>
-<tk3 isa="comma"/>
+<w myvId=",">,</w>
 <w edit="MK" myvId="питерьстэ">ṕit́eŕste͔</w>
 </x>
 <GeoU xml:lang="myv">Ščuk</GeoU>
@@ -35253,8 +35139,8 @@ Adjekt. Gen. aus dem russ. Adj. <Et>Петро́в</Et>]
 <w mdfId=",">,</w>
 <w mdfId="питерденгя">ṕit́əŕd́əŋǵä</w>
 <w mdfId="ичкəзя">ičḱəźä</w>
-<tk3 isa="fullstop"/>
-<w mdfId="–">–</w>
+<w mdfId=".">.</w>
+<w mdfIId="–">–</w>
 <w mdfId="шись">šiś</w>
 </x>
 <GeoU xml:lang="mdf"/>
@@ -35632,7 +35518,6 @@ Adjekt. Gen. aus dem russ. Adj. <Et>Петро́в</Et>]
 <w mdfId="вярс">v́ärs</w>
 <w mdfId="-" edit="MK">-</w>
 <w edit="MK" mdfId="сивəльс">śivəĺs</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="кундаманя">kunda·mańä</w>
 </x>
 <GeoU xml:lang="mdf" edit="MK">Pš</GeoU>
@@ -36870,7 +36755,7 @@ Adjekt. Gen. aus dem russ. Adj. <Et>Петро́в</Et>]
 <w edit="MK" CyrId="коть">kot́</w>
 <w CyrId="карькскендэ">kaŕksḱende͔</w>
 <w CyrId="мазынеть">mazi͔ńet́</w>
-<tk3 isa="comma"/>
+<w myvId=",">,</w>
 <w CyrId="ненгак">ńeŋgak</w>
 <w CyrId="а">a</w>
 <w CyrId="соньць">sońć</w>
@@ -37035,7 +36920,7 @@ Adjekt. Gen. aus dem russ. Adj. <Et>Петро́в</Et>]
 <w myvId="адяка">ad́aka</w>
 <w myvId=",">,</w>
 <w myvId="матя">mat́a</w>
-<tk3 isa="comma"/>
+<w myvId=",">,</w>
 <w edit="MK" myvId="минек">ḿińeḱ</w>
 <w myvId="расьсеев">raśśejev</w>
 <w myvId="!">!</w></x>
@@ -38427,7 +38312,6 @@ fam. F. <Et>Сема́ша (Семён)</Et>]
 <xg>
 <x>
 <w edit="MK" mdfId="сидоронь">śidə̑rə̑ń</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="аксянясь">akśäńäś</w>
 </x>
 <GeoU xml:lang="mdf" edit="MK">Kr</GeoU>
@@ -38597,11 +38481,11 @@ fam. F. <Et>Сема́ша (Семён)</Et>]
 <xg>
 <x>
 <w CyrId="вай">vaj</w>
-<tk3 isa="comma"/>
+<w myvId=",">,</w>
 <w CyrId="полай">polaj</w>
-<tk3 isa="comma"/>
+<w myvId=",">,</w>
 <w CyrId="полай">polaj</w>
-<tk3 isa="comma"/>
+<w myvId=",">,</w>
 <w CyrId="а">a</w>
 <w CyrId="силё">śiĺo</w>
 </x>
@@ -38944,7 +38828,7 @@ fam. F. <Et>Сема́ша (Семён)</Et>]
 <w CyrId="сьпирё">śṕiŕo</w>
 <w myvId="-" edit="MK">-</w>
 <w CyrId="низэ">ńize͔</w>
-<tk3 isa="comma"/>
+<w myvId=",">,</w>
 <w CyrId="уряш">uŕaš</w>
 </x>
 <GeoNeed/>
@@ -39016,7 +38900,6 @@ fam. F. <Et>Сема́ша (Семён)</Et>]
 <xg>
 <x>
 <w edit="MK" mdfId="кезганя">ḱezgańä</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="паля">paĺä</w>
 <w mdfId="сёмань">śomań</w>
 <w edit="MK" mdfId="эрьватс">eŕva·ts</w>
@@ -39668,7 +39551,7 @@ Dem. zu <Et>Сёма</Et>]
 <w myvId="малай">mala·j</w>
 <w myvId=",">,</w>
 <w myvId="малай">mala·j</w>
-<tk3 isa="comma"/>
+<w myvId=",">,</w>
 <w edit="MK" myvId="трофимень">trof́iḿeń</w>
 <w myvId="малай">mala·j</w>
 </x>
@@ -39754,7 +39637,7 @@ Dem. zu <Et>Сёма</Et>]
 <w myvId="косо">koso</w>
 <w myvId="письмар">ṕiśmar</w>
 <w edit="MK" myvId="мелявты">ḿeĺavti͔</w>
-<tk3 isa="quest"/>
+<w myvId="?">?</w>
 <w myvId="трошань">trošań</w>
 <w myvId="кудо">kudo</w>
 <w myvId="-" edit="MK">-</w>
@@ -40550,7 +40433,6 @@ Dem. zu <Et>Сёма</Et>]
 <x>
 <w mdfId="сюдуф">śuduf</w>
 <w edit="MK" mdfId="федосиӓть">f́edo·śiät́</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="юкстазя">juksta·źä</w>
 </x>
 <GeoU xml:lang="mdf" edit="MK">Mam</GeoU>
@@ -41345,7 +41227,7 @@ Kurzf. zu <Et>Фёдор</Et>)]
 <w myvId="эрюма">eŕuma</w>
 <w myvId=",">,</w>
 <w myvId="аштят">ašt́at</w>
-<tk3 isa="quest"/>
+<w myvId="?">?</w>
 <w myvId="диринень">d́iŕińeń</w>
 <w myvId="тетят">t́et́at</w>
 <w myvId=",">,</w>
@@ -43745,7 +43627,7 @@ Kurzf. zu <Et>Фёдор</Et>)]
 <w myvId="покш">pokš</w>
 <w myvId="пряка">pŕaka</w>
 <w myvId="панинек">pańińeḱ</w>
-<tk3 isa="triDash"/>
+<w myvId="---">---</w>
 <w myvId="не">ńe</w>
 <w myvId="дёминкань">d́oḿiŋkań</w>
 <w myvId="тейтерне">t́ejt́eŕńe</w>
@@ -43825,7 +43707,7 @@ Kurzf. zu <Et>Фёдор</Et>)]
 <w myvId="ней">ńej</w>
 <w myvId="кукинесь">kuḱińeś</w>
 <w myvId="кукорды">kukordi͔</w>
-<tk3 isa="quest"/>
+<w myvId="?">?</w>
 <w myvId="иванынькань">ivani͔ńkań</w>
 <w myvId=",">,</w>
 <w myvId="ялгай">jalgaj</w>
@@ -45416,7 +45298,7 @@ Kurzf. zu <Et>Фёдор</Et>)]
 <w myvId="-" edit="MK">-</w>
 <w CyrId="пазнэ">pazne͔</w>
 <w CyrId="сюкунинь">śukuńiń</w>
-<tk3 isa="comma"/>
+<w myvId=",">,</w>
 <w CyrId="маня">mańa</w>
 <w myvId="-" edit="MK">-</w>
 <w CyrId="бабане">babańe</w>
@@ -45486,9 +45368,9 @@ Kurzf. zu <Et>Фёдор</Et>)]
 <t xml:lang="deu">hat drei Frauen: <FrnTxt><w CyrId="олёна">oĺona</w></FrnTxt>, <FrnTxt><w CyrId="тикшама">t́ikšama</w></FrnTxt>, <FrnTxt><w CyrId="люкшама">ĺukšama</w></FrnTxt>; – zwei Söhne: <FrnTxt><w CyrId="маресь">maŕeś</w></FrnTxt>, <FrnTxt><w CyrId="эклеметь">eḱĺeḿet́</w></FrnTxt>; – drei Töchter: <CapI>
 <i><tk2>
 <w CyrId="винтай">v́intaj</w>
-<tk3 isa="comma"/>
+<w myvId=",">,</w>
 <w CyrId="лёмай">ĺomaj</w>
-<tk3 isa="comma"/>
+<w myvId=",">,</w>
 <w CyrId="тикшама">t́ikšama</w></tk2></i></CapI>.</t>
 </xg>
 </HWB>
@@ -45765,7 +45647,6 @@ Kurzf. zu <Et>Фёдор</Et>)]
 <w mdfId="тяст">t́ast</w>
 <w mdfId="расая">rasajä</w>
 <w edit="MK" mdfId="матрян">mat́ŕän</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="пильгəнза">ṕiĺgənza</w>
 </x>
 <GeoU xml:lang="mdf" edit="MK">Mam</GeoU>
@@ -45906,7 +45787,6 @@ Kurzf. zu <Et>Фёдор</Et>)]
 <x>
 <w mdfId="матрёна">mat́ŕona</w>
 <w edit="MK" mdfId="кельги">ḱeĺǵi</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="нешкəнь">ńeškəń</w>
 <w mdfId="ваномантс">vanə̑mants</w>
 <w mdfId=",">,</w>
@@ -46176,9 +46056,7 @@ Kurzf. zu <Et>Фёдор</Et>)]
 <w edit="MK" mdfId="авэзетс">aveźəts</w>
 <w mdfId="и">i</w>
 <w edit="MK" mdfId="мольсь">moĺś</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="матянь">mat́äń</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="стяфтама">śt́aftama</w>
 </x>
 <GeoU xml:lang="mdf" edit="MK">Mam</GeoU>
@@ -46649,11 +46527,11 @@ Kurzf. zu <Et>Фёдор</Et>)]
 <w CyrId="велинесь">v́eĺińeś</w>
 <w CyrId="паро">paro</w>
 <w CyrId="моклауж">moklauž</w>
-<tk3 isa="comma"/>
+<w myvId=",">,</w>
 <w CyrId="велинесь">v́eĺińeś</w>
 <w CyrId="доброй">dobroj</w>
 <w CyrId="моклауж">moklauž</w>
-<tk3 isa="comma"/>
+<w myvId=",">,</w>
 <w CyrId="моклаушсонть">moklaušsońt́</w>
 <w CyrId="велесэнть">v́eĺese͔ńt́</w>
 <w CyrId="эри">eŕi</w>
@@ -47947,7 +47825,7 @@ auch russ. <Et>Моке́й</Et>]
 <w CyrId="вай">vaj</w>
 <w CyrId="сютараньгак">śutarańgak</w>
 <w CyrId="неізе">ńeiźe</w>
-<tk3 isa="comma"/>
+<w myvId=",">,</w>
 <w CyrId="сон">son</w>
 <w CyrId="медяк">ḿed́ak</w>
 <w CyrId="оку">oku</w>
@@ -48028,7 +47906,7 @@ auch russ. <Et>Моке́й</Et>]
 <w CyrId="од">od</w>
 <w CyrId="тейтерне">t́ejt́eŕńe</w>
 <w CyrId="пекиясь">ṕeḱijaś</w>
-<tk3 isa="comma"/>
+<w myvId=",">,</w>
 <w CyrId="олькань">oĺkań</w>
 <w CyrId="кияль">ḱijaĺ</w>
 <w CyrId="лангиясь">laŋǵijaś</w>
@@ -48045,7 +47923,7 @@ auch russ. <Et>Моке́й</Et>]
 <w CyrId="чары">čari͔</w>
 <w CyrId="чиньчарамо">čińčaramo</w>
 <w CyrId="илька">iĺka</w>
-<tk3 isa="comma"/>
+<w myvId=",">,</w>
 <w CyrId="козяйказо">koźajkazo</w>
 <w CyrId="ватракш">vatrakš</w>
 <w CyrId="сука">suka</w>
@@ -48135,7 +48013,7 @@ auch russ. <Et>Моке́й</Et>]
 <w myvId="-" edit="MK">-</w>
 <w CyrId="деряй">d́eŕaj</w>
 <w CyrId="ониськань">ońiśkań</w>
-<tk3 isa="comma"/>
+<w myvId=",">,</w>
 <w CyrId="сестэ">śeste͔</w>
 <w CyrId="бояр">bojar</w>
 <w CyrId="тон">ton</w>
@@ -48202,18 +48080,18 @@ auch russ. <Et>Моке́й</Et>]
 <x>
 <w CyrId="тон">ton</w>
 <w CyrId="оста">osta</w>
-<tk3 isa="comma"/>
+<w myvId=",">,</w>
 <w CyrId="оста">osta</w>
-<tk3 isa="comma"/>
+<w myvId=",">,</w>
 <w CyrId="вай">vaj</w>
 <w CyrId="сюпав">śupav</w>
 <w CyrId="эрьᴣ́а">eŕᴣ́a</w>
-<tk3 isa="comma"/>
+<w myvId=",">,</w>
 <w CyrId="тон">ton</w>
 <w CyrId="минденекак">ḿińd́eńekak</w>
-<tk3 isa="comma"/>
+<w myvId=",">,</w>
 <w CyrId="оста">osta</w>
-<tk3 isa="comma"/>
+<w myvId=",">,</w>
 <w CyrId="сюпават">śupavat</w>
 </x>
 <GeoNeed/>
@@ -48363,7 +48241,7 @@ auch russ. <Et>Моке́й</Et>]
 <w myvId="аваза">avaza</w>
 <w myvId="сазьсь">saźś</w>
 <w myvId="кяв">ḱäv́</w>
-<tk3 isa="comma"/>
+<w myvId=",">,</w>
 <w edit="MK" myvId="сюлмизя">śulḿiźä</w>
 <w myvId="стирингить">śt́iŕiŋǵit́</w>
 <w myvId="коргас">korgas</w>
@@ -48549,7 +48427,6 @@ auch russ. <Et>Моке́й</Et>]
 <w myvId="уш">uš</w>
 <w myvId="шачумнядо">šačumńado</w>
 <w edit="MK" myvId="петруня">ṕetruńa</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" myvId="вейкіне">v́ejkińe</w>
 </x>
 <GeoU xml:lang="myv">Jeg</GeoU>
@@ -51208,7 +51085,7 @@ auch russ. <Et>Моке́й</Et>]
 <w myvId=",">,</w>
 <w myvId="мон">mon</w>
 <w myvId="молян">moĺan</w>
-<tk3 isa="comma"/>
+<w myvId=",">,</w>
 <w edit="MK" myvId="туркинка">turḱinka</w>
 <w myvId="-" edit="MK">-</w>
 <w myvId="роц">roc</w>
@@ -51999,7 +51876,7 @@ auch russ. <Et>Моке́й</Et>]
 <w CyrId="ульнесь">uĺńeś</w>
 <w CyrId="урадеень">urad́ejeń</w>
 <w CyrId="истямо">iśt́amo</w>
-<tk3 isa="comma"/>
+<w myvId=",">,</w>
 <w CyrId="сеяк">śejak</w>
 <w CyrId="ульнесь">uĺńeś</w>
 <w CyrId="куло">kulo</w>
@@ -52606,7 +52483,7 @@ auch russ. <Et>Моке́й</Et>]
 <w myvId="косо">koso</w>
 <w myvId="чинеме">čińeḿe</w>
 <w myvId="зьвересь">źv́eŕeś</w>
-<tk3 isa="quest"/>
+<w myvId="?">?</w>
 <w myvId="сон">son</w>
 <w myvId="черемчанонь">čeŕemčanoń</w>
 <w myvId="пиже">ṕiže</w>
@@ -52721,7 +52598,6 @@ auch russ. <Et>Моке́й</Et>]
 <w edit="MK" mdfId="пиня">ṕińä</w>
 <w mdfId="корбон">korbə̑n</w>
 <w edit="MK" mdfId="шендянь">šeńd́ä·ń</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="мишанясь">ḿišańäś</w>
 </x>
 <GeoU xml:lang="mdf" edit="MK">Mam</GeoU>
@@ -52734,12 +52610,10 @@ auch russ. <Et>Моке́й</Et>]
 <x>
 <w mdfId="лутше">lutše</w>
 <w edit="MK" mdfId="максомасть">maksə̑maśt́</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="тядякай">t́äd́akaj</w>
 <w mdfId="-" edit="MK">-</w>
 <w mdfId="авай">avaj</w>
 <w edit="MK" mdfId="шиндянь">šińd́äń</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="мишати">ḿišat́i</w>
 </x>
 <GeoU xml:lang="mdf" edit="MK">Mam</GeoU>
@@ -53099,7 +52973,7 @@ auch russ. <Et>Моке́й</Et>]
 <w myvId="козэй">koze͔·j</w>
 <w myvId="молят">moĺa·t</w>
 <w myvId="аштимя">ašt́i·ḿä</w>
-<tk3 isa="quest"/>
+<w myvId="?">?</w>
 <w myvId="пара">para</w>
 <w myvId="вяльᴉс">v́ä·ĺᴉs</w>
 <w myvId="шатькинас">šat́ḱi·nas</w>
@@ -53359,7 +53233,6 @@ auch russ. <Et>Моке́й</Et>]
 <x>
 <w myvId="катюша">kat́uša</w>
 <w edit="MK" myvId="арьцесь">aŕćeś</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" myvId="гостямо">gośt́amo</w>
 <w myvId="шӓткинав">šätḱinav</w>
 <w myvId="дома">doma</w>

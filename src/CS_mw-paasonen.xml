@@ -31,10 +31,8 @@
 <w edit="MK" mdfId="ся">śä</w>
 <w mdfId="монь">moń</w>
 <w edit="MK" mdfId="алязя">aĺäźä</w>
-<tk3 edit="MK" isa="comma"/>
-<tk3 edit="MK" isa="ws"/>
+<w edit="MK" mdfId=",">,</w>
 <w edit="MK" mdfId="кати">kat́i</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="алязя">aĺäźä</w>
 <w mdfId=",">,</w>
 <w mdfId="мон">mon</w>
@@ -204,7 +202,7 @@
 <w mdfId="киӓ">ḱiä</w>
 <w mdfId="тонь">toń</w>
 <w mdfId="вачкəдньзя">vačkəd́ńźä</w>
-<tk3 isa="quest"/>
+<w mdfId="?">?</w>
 <w mdfId="–">–</w>
 <w mdfId="кати">kat́i</w>
 <w mdfId="-">-</w>
@@ -457,8 +455,8 @@
 <w mdfId="минь">ḿiń</w>
 <w mdfId="лофтса">loftsa</w>
 <w mdfId="аш">aš</w>
-<tk3 isa="fullstop"/>
-<w mdfId="–">–</w>
+<w mdfId=".">.</w>
+<w mdfIId="–">–</w>
 <w mdfId="арьзяй">aŕźäj</w>
 <w mdfId="максат">maksat</w>
 <w mdfId="ведь">v́ed́</w>
@@ -540,8 +538,8 @@
 <x>
 <w mdfId="алашась">alaša·ś</w>
 <w mdfId="кортай">korta·j</w>
-<tk3 isa="colon"/>
-<w mdfId="мон">mo·n</w>
+<w mdfId=":">:</w>
+<w mdfIId="мон">mo·n</w>
 <w mdfId="лутши">lu·tši</w>
 <w mdfId="сисем">śiśə·m</w>
 <w mdfId="аля">aĺä·</w>
@@ -695,7 +693,6 @@
 <x>
 <w mdfId="мон">mon</w>
 <w edit="MK" mdfId="колмогемəнь">kolmə̑ǵeməń</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="киза">ḱiza</w>
 <w mdfId="ёта">jota</w>
 <w mdfId="служсян">služśa·n</w>
@@ -1147,11 +1144,11 @@ dschag. <Et>
 <w myvId="улят">uĺat</w>
 <w myvId="ней">ńej</w>
 <w myvId="полакс">polaks</w>
-<tk3 isa="triDash"/>
+<w myvId="---">---</w>
 <w myvId="азёка">aźoka</w>
 <w myvId="тиринь">t́iŕiń</w>
 <w myvId="тетенень">t́et́eńeń</w>
-<tk3 isa="triDash"/>
+<w myvId="---">---</w>
 <w myvId="те">t́e</w>
 <w myvId="черь">če͔ŕ</w>
 <w myvId="пулыненть">puli͔ńeńt́</w>
@@ -2041,10 +2038,8 @@ dschag. <Et>
 <w mdfId="аднака">adna·ka</w>
 <w mdfId=",">,</w>
 <w edit="MK" mdfId="тьсёрай">t́śoraj</w>
-<tk3 edit="MK" isa="comma"/>
-<tk3 edit="MK" isa="ws"/>
+<w edit="MK" mdfId=",">,</w>
 <w edit="MK" mdfId="ули">uĺi</w>
-<tk3 edit="MK" isa="ws"/>
 <w edit="MK" mdfId="вийняться">v́ijńät́śä</w>
 </x>
 <GeoU xml:lang="mdf">Sel</GeoU>
