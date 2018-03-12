@@ -443,13 +443,13 @@
 </mg>
 <xg>
 <x>
-<w CyrId="кодак">kodak</w>
-<w CyrId="каимизь">kajiḿiź</w>
-<w CyrId="веденте">v́ed́eńt́e</w>
+<w myvId="кодак">kodak</w>
+<w myvId="каимизь">kajiḿiź</w>
+<w myvId="веденте">v́ed́eńt́e</w>
 <w myvId=",">,</w>
-<w CyrId="кулесь">kuĺeś</w>
-<w CyrId="тусь">tuś</w>
-<w CyrId="бур">bur</w>
+<w myvId="кулесь">kuĺeś</w>
+<w myvId="тусь">tuś</w>
+<w myvId="бур">bur</w>
 <Hph edit="MK"/>
 <w CyrId="бур">bur</w>
 <Hph edit="MK"/>
@@ -3743,13 +3743,13 @@
 </mg>
 <xg>
 <x>
-<w CyrId="стяка">śt́aka</w>
+<w mdfId="стяка">śt́aka</w>
 <w mdfId=",">,</w>
-<w CyrId="стяка">śt́aka</w>
+<w mdfId="стяка">śt́aka</w>
 <w mdfId=",">,</w>
-<w CyrId="ари·нушка">aŕi·nuška</w>
+<w mdfId="ари·нушка">aŕi·nuška</w>
 <w mdfId=",">,</w>
-<w CyrId="стявайка">śt́ava·jka</w>
+<w mdfId="стявайка">śt́ava·jka</w>
 </x>
 <GeoNeed/>
 <sources>
@@ -4929,15 +4929,15 @@
 </mg>
 <xg>
 <x>
-<w CyrId="ва">va</w>
-<w edit="MK" CyrId="маладе·тсь">malad́e·tś</w>
-<w edit="MK" CyrId="рабо·тнексь">rabo·t́ńekś</w>
+<w mdfId="ва">va</w>
+<w edit="MK" mdfId="маладе·тсь">malad́e·tś</w>
+<w edit="MK" mdfId="рабо·тнексь">rabo·t́ńekś</w>
 <w mdfId=",">,</w>
-<w CyrId="ар">ar</w>
+<w mdfId="ар">ar</w>
 <w mdfId=",">,</w>
-<w CyrId="тага">taga</w>
-<w CyrId="анттӓ">anttä</w>
-<w edit="MK" CyrId="тянтьстиняста">t́ańt́śt́ińasta</w>
+<w mdfId="тага">taga</w>
+<w mdfId="анттӓ">anttä</w>
+<w edit="MK" mdfId="тянтьстиняста">t́ańt́śt́ińasta</w>
 </x>
 <GeoNeed/>
 <sources>
@@ -6963,11 +6963,11 @@ mordw. <Et>
 </mg>
 <xg>
 <x>
-<w edit="MK" CyrId="сяфття">śäft́t́ä</w>
-<w CyrId="улюша">uĺuša</w>
+<w edit="MK" mdfId="сяфття">śäft́t́ä</w>
+<w mdfId="улюша">uĺuša</w>
 <w mdfId=",">,</w>
-<w edit="MK" CyrId="сяфття">śäft́t́ä</w>
-<w edit="MK" CyrId="тушаняй">tuša·ńäj</w>
+<w edit="MK" mdfId="сяфття">śäft́t́ä</w>
+<w edit="MK" mdfId="тушаняй">tuša·ńäj</w>
 </x>
 <GeoNeed/>
 <sources>
@@ -7759,11 +7759,11 @@ nach:)</t>
 <x>
 <w CyrId="нул">nul</w>
 <Hph/>
-<w CyrId="вал">val</w>
-<w CyrId="одирьвань">od́iŕvań</w>
-<w CyrId="цёконзо">ćokonzo</w>
+<w myvId="вал">val</w>
+<w myvId="одирьвань">od́iŕvań</w>
+<w myvId="цёконзо">ćokonzo</w>
 <w myvId=",">,</w>
-<w CyrId="лый">li͔j</w>
+<w myvId="лый">li͔j</w>
 <Hph/>
 <w CyrId="лай">laj</w>
 <w CyrId="одирьвань">od́iŕvań</w>
@@ -9203,15 +9203,15 @@ nach:)</t>
 </SenseGroup>
 <xg>
 <x>
-<w CyrId="видень">v́id́əń</w>
-<w CyrId="сёрось">śorə̑ś</w>
-<w CyrId="вяри">v́äŕi</w>
-<w CyrId="кепшт">ḱepšt</w>
+<w mdfId="видень">v́id́əń</w>
+<w mdfId="сёрось">śorə̑ś</w>
+<w mdfId="вяри">v́äŕi</w>
+<w mdfId="кепшт">ḱepšt</w>
 <w mdfId=",">,</w>
-<w CyrId="лиси">ĺiśi</w>
-<w CyrId="тишəсь">t́išəś</w>
-<w CyrId="алу">alu</w>
-<w CyrId="липшт">ĺipšt</w>
+<w mdfId="лиси">ĺiśi</w>
+<w mdfId="тишəсь">t́išəś</w>
+<w mdfId="алу">alu</w>
+<w mdfId="липшт">ĺipšt</w>
 </x>
 <GeoNeed/>
 <xt xml:lang="deu">[Möge das ausgesäte Getreide sich aufheben, möge das aufkeimende Gras sich legen (d.h.: üppig wachsen)!].</xt>
@@ -11002,7 +11002,7 @@ nach:)</t>
 <x>
 <w CyrId="ая">aja</w>
 <tk3 isa="ws"/>
-<w CyrId="индиндё">ińd́ińd́o</w>
+<w myvId="индиндё">ińd́ińd́o</w>
 <w myvId=",">,</w>
 <tk3 isa="ws"/>
 <w CyrId="ая">aja</w>
@@ -16207,11 +16207,11 @@ auch <Et>
 <x>
 <w CyrId="нул">nul</w>
 <Hph/>
-<w CyrId="вал">val</w>
-<w CyrId="одирьвань">od́iŕvań</w>
-<w CyrId="цёконзо">ćokonzo</w>
+<w myvId="вал">val</w>
+<w myvId="одирьвань">od́iŕvań</w>
+<w myvId="цёконзо">ćokonzo</w>
 <w myvId=",">,</w>
-<w CyrId="лый">li͔j</w>
+<w myvId="лый">li͔j</w>
 <Hph/>
 <w CyrId="лай">laj</w>
 <w CyrId="одирьвань">od́iŕvań</w>
@@ -17046,11 +17046,11 @@ auch <Et>
 <x>
 <w CyrId="нул">nul</w>
 <Hph/>
-<w CyrId="вал">val</w>
-<w CyrId="одирьвань">od́iŕvań</w>
-<w CyrId="цёконзо">ćokonzo</w>
+<w myvId="вал">val</w>
+<w myvId="одирьвань">od́iŕvań</w>
+<w myvId="цёконзо">ćokonzo</w>
 <w myvId=",">,</w>
-<w CyrId="лый">li͔j</w>
+<w myvId="лый">li͔j</w>
 <Hph/>
 <w CyrId="лай">laj</w>
 <w CyrId="одирьвань">od́iŕvań</w>
@@ -18710,10 +18710,10 @@ Imper. <Et>встреча́й</Et>]
 </tg>
 <t xml:lang="deu">sei(d) gegrüsst! (
 <GeoU xml:lang="mdf">P</GeoU>
-: ein mordw. Gruss, der entboten wird, wenn man jdm. auf dem Wege begegnet, auch, wenn man ins Haus eines anderen eintritt: <FrnTxt><w CyrId="сюк">śuk</w>
+: ein mordw. Gruss, der entboten wird, wenn man jdm. auf dem Wege begegnet, auch, wenn man ins Haus eines anderen eintritt: <FrnTxt><w mdfId="сюк">śuk</w>
 <w mdfId=",">,</w>
-<w CyrId="шумбрат">šumbrat</w>
-<w CyrId="эрятада">eŕatada</w></FrnTxt> [? Einen Gruss euch, seid ihr gesund]; auch der Neumond, <FrnTxt><w CyrId="од">od</w>
+<w mdfId="шумбрат">šumbrat</w>
+<w mdfId="эрятада">eŕatada</w></FrnTxt> [? Einen Gruss euch, seid ihr gesund]; auch der Neumond, <FrnTxt><w CyrId="од">od</w>
 <w CyrId="ков">kov</w></FrnTxt>, wird mit dem Wort <FrnTxt><w CyrId="сюк">śuk</w></FrnTxt> begrüsst)</t>
 </mg>
 <xg>

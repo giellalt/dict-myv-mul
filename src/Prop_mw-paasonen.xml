@@ -902,14 +902,14 @@
 </mg>
 <xg>
 <x>
-<w CyrId="вай">vaj</w>
-<w CyrId="вата">vata</w>
-<w CyrId="яван">javan</w>
+<w mdfId="вай">vaj</w>
+<w mdfId="вата">vata</w>
+<w mdfId="яван">javan</w>
 <w mdfId="-" edit="MK">-</w>
-<w CyrId="калян">kaĺan</w>
-<w CyrId="пяльненязень">ṕäĺńəńäźəń</w>
+<w mdfId="калян">kaĺan</w>
+<w mdfId="пяльненязень">ṕäĺńəńäźəń</w>
 <w mdfId=",">,</w>
-<w CyrId="мотюнязень">mot́uńäźəń</w>
+<w mdfId="мотюнязень">mot́uńäźəń</w>
 </x>
 <GeoNeed/>
 <sources>
@@ -919,14 +919,14 @@
 </xg>
 <xg>
 <x>
-<w CyrId="кинди">ḱińd́i</w>
-<w CyrId="кадоть">kadə̑t́</w>
+<w mdfId="кинди">ḱińd́i</w>
+<w mdfId="кадоть">kadə̑t́</w>
 <w mdfId=",">,</w>
-<w CyrId="мотюняй">mot́uńäj</w>
+<w mdfId="мотюняй">mot́uńäj</w>
 <w mdfId=",">,</w>
-<w CyrId="шкаень">škajəń</w>
-<w CyrId="сюдуфть">śuduft́</w>
-<w CyrId="васянӓцень">vaśänäćəń</w>
+<w mdfId="шкаень">škajəń</w>
+<w mdfId="сюдуфть">śuduft́</w>
+<w mdfId="васянӓцень">vaśänäćəń</w>
 </x>
 <GeoNeed/>
 <sources>
@@ -1073,13 +1073,13 @@
 </mg>
 <xg>
 <x>
-<w CyrId="вата">vata</w>
-<w CyrId="яван">javan</w>
+<w mdfId="вата">vata</w>
+<w mdfId="яван">javan</w>
 <w mdfId="-" edit="MK">-</w>
-<w CyrId="калян">kaĺan</w>
-<w CyrId="сазорнязень">sazə̑rńäźəń</w>
+<w mdfId="калян">kaĺan</w>
+<w mdfId="сазорнязень">sazə̑rńäźəń</w>
 <w mdfId=",">,</w>
-<w CyrId="матьɯнязень">mat́ɯńäźəń</w>
+<w mdfId="матьɯнязень">mat́ɯńäźəń</w>
 </x>
 <GeoNeed/>
 <sources>
@@ -1089,13 +1089,13 @@
 </xg>
 <xg>
 <x>
-<w CyrId="коста">kosta</w>
-<w CyrId="сяфтя">śäft́ä</w>
+<w mdfId="коста">kosta</w>
+<w mdfId="сяфтя">śäft́ä</w>
 <w mdfId=",">,</w>
-<w CyrId="матюняй">mat́uńäj</w>
+<w mdfId="матюняй">mat́uńäj</w>
 <w mdfId=",">,</w>
-<w CyrId="мон">mon</w>
-<w CyrId="вештя">v́ešt́ä</w>
+<w mdfId="мон">mon</w>
+<w mdfId="вештя">v́ešt́ä</w>
 </x>
 <GeoNeed/>
 <sources>
@@ -1353,12 +1353,12 @@
 </mg>
 <xg>
 <x>
-<w CyrId="вай">vaj</w>
-<w CyrId="сюдуф">śuduf</w>
+<w mdfId="вай">vaj</w>
+<w mdfId="сюдуф">śuduf</w>
 <w mdfId=",">,</w>
-<w CyrId="сюдуф">śuduf</w>
-<w CyrId="игань">igań</w>
-<w CyrId="стёпанясь">śt́opańäś</w>
+<w mdfId="сюдуф">śuduf</w>
+<w mdfId="игань">igań</w>
+<w mdfId="стёпанясь">śt́opańäś</w>
 </x>
 <GeoNeed/>
 <sources>
@@ -1855,9 +1855,9 @@
 </mg>
 <xg>
 <x>
-<w CyrId="ард">ard</w>
+<w mdfId="ард">ard</w>
 <w mdfId=",">,</w>
-<w edit="MK" CyrId="азомасть">azə̑maśt́</w>
+<w edit="MK" mdfId="азомасть">azə̑maśt́</w>
 <tk3 edit="MK" isa="comma"/>
 <w edit="MK" CyrId="азомасть">azə̑maśt́</w>
 <w edit="MK" CyrId="васянь">vaśäń</w>
@@ -1973,14 +1973,14 @@
 </mg>
 <xg>
 <x>
-<w CyrId="вай">vaj</w>
-<w CyrId="сукась">suka·ś</w>
+<w mdfId="вай">vaj</w>
+<w mdfId="сукась">suka·ś</w>
 <w mdfId=",">,</w>
-<w CyrId="сукась">suka·ś</w>
-<w CyrId="сон">son</w>
-<w CyrId="сисем">śiśəm</w>
-<w CyrId="пулə̑нь">pulə̑ń</w>
-<w edit="MK" CyrId="аксьɯнясь">akśɯńäś</w>
+<w mdfId="сукась">suka·ś</w>
+<w mdfId="сон">son</w>
+<w mdfId="сисем">śiśəm</w>
+<w mdfId="пулə̑нь">pulə̑ń</w>
+<w edit="MK" mdfId="аксьɯнясь">akśɯńäś</w>
 </x>
 <GeoNeed/>
 <sources>
@@ -2693,13 +2693,13 @@
 </xg>
 <xg>
 <x>
-<w CyrId="вай">vaj</w>
-<w CyrId="и">i</w>
-<w CyrId="штшась">štšaś</w>
+<w mdfId="вай">vaj</w>
+<w mdfId="и">i</w>
+<w mdfId="штшась">štšaś</w>
 <w mdfId="-" edit="MK">-</w>
-<w edit="MK" CyrId="карясь">kaŕäś</w>
-<w edit="MK" CyrId="матерь">mat́əŕ</w>
-<w CyrId="наряжась">naŕažaś</w>
+<w edit="MK" mdfId="карясь">kaŕäś</w>
+<w edit="MK" mdfId="матерь">mat́əŕ</w>
+<w mdfId="наряжась">naŕažaś</w>
 </x>
 <GeoNeed/>
 <sources>
@@ -3206,13 +3206,13 @@
 </mg>
 <xg>
 <x>
-<w CyrId="вай">vaj</w>
+<w mdfId="вай">vaj</w>
 <w mdfId=",">,</w>
-<w CyrId="пинесь">ṕińəś</w>
+<w mdfId="пинесь">ṕińəś</w>
 <w mdfId=",">,</w>
-<w CyrId="пинесь">ṕińəś</w>
-<w CyrId="тараень">tarajəń</w>
-<w CyrId="сарайсь">sarajś</w>
+<w mdfId="пинесь">ṕińəś</w>
+<w mdfId="тараень">tarajəń</w>
+<w mdfId="сарайсь">sarajś</w>
 </x>
 <GeoNeed/>
 <sources>
@@ -3454,11 +3454,11 @@
 </mg>
 <xg>
 <x>
-<w CyrId="слободань">slobodań</w>
-<w CyrId="пало·тьсь">palo·t́ś</w>
-<w edit="MK" CyrId="степан">st́epa·n</w>
+<w mdfId="слободань">slobodań</w>
+<w mdfId="пало·тьсь">palo·t́ś</w>
+<w edit="MK" mdfId="степан">st́epa·n</w>
 <w mdfId="-" edit="MK">-</w>
-<w edit="MK" CyrId="ӓрясь">äŕäś</w>
+<w edit="MK" mdfId="ӓрясь">äŕäś</w>
 </x>
 <GeoNeed/>
 <sources>
@@ -3631,12 +3631,12 @@
 </mg>
 <xg>
 <x>
-<w edit="MK" CyrId="игажень">iga·žeń</w>
-<w edit="MK" CyrId="степанть">śt́epa·ńt́</w>
-<w CyrId="мон">mon</w>
-<w CyrId="штшан">štšan</w>
+<w edit="MK" mdfId="игажень">iga·žeń</w>
+<w edit="MK" mdfId="степанть">śt́epa·ńt́</w>
+<w mdfId="мон">mon</w>
+<w mdfId="штшан">štšan</w>
 <w mdfId="-" edit="MK">-</w>
-<w CyrId="карян">kaŕan</w>
+<w mdfId="карян">kaŕan</w>
 </x>
 <GeoNeed/>
 <sources>
@@ -3888,20 +3888,20 @@
 </mg>
 <xg>
 <x>
-<w CyrId="эсонза">esə̑nza</w>
-<w edit="MK" CyrId="эрях́ть">eŕäᵪ́t́</w>
-<w CyrId="кафта">kafta</w>
-<w CyrId="атернят">at́əŕńat</w>
+<w mdfId="эсонза">esə̑nza</w>
+<w edit="MK" mdfId="эрях́ть">eŕäᵪ́t́</w>
+<w mdfId="кафта">kafta</w>
+<w mdfId="атернят">at́əŕńat</w>
 <w mdfId=",">,</w>
-<w CyrId="эсонза">esə̑nza</w>
-<w edit="MK" CyrId="эрях́ть">eŕäᵪ́t́</w>
-<w CyrId="кафта">kafta</w>
-<w CyrId="матернят">mat́əŕńat</w>
+<w mdfId="эсонза">esə̑nza</w>
+<w edit="MK" mdfId="эрях́ть">eŕäᵪ́t́</w>
+<w mdfId="кафта">kafta</w>
+<w mdfId="матернят">mat́əŕńat</w>
 <w mdfId=",">,</w>
-<w CyrId="эсонза">esə̑nza</w>
-<w edit="MK" CyrId="эрях́ть">eŕäᵪ́t́</w>
-<w CyrId="акша">akša</w>
-<w CyrId="скатернят">skat́əŕńat</w>
+<w mdfId="эсонза">esə̑nza</w>
+<w edit="MK" mdfId="эрях́ть">eŕäᵪ́t́</w>
+<w mdfId="акша">akša</w>
+<w mdfId="скатернят">skat́əŕńat</w>
 </x>
 <GeoNeed/>
 <sources>
@@ -4873,17 +4873,17 @@
 </mg>
 <xg>
 <x>
-<w CyrId="ков">kov</w>
-<w CyrId="тусь">tuś</w>
+<w mdfId="ков">kov</w>
+<w mdfId="тусь">tuś</w>
 <w mdfId=",">,</w>
-<w CyrId="ати">at́i</w>
+<w mdfId="ати">at́i</w>
 <w mdfId=",">,</w>
-<w CyrId="тойнь">tojń</w>
-<w edit="MK" CyrId="тьсёраться">t́śorat́śä</w>
+<w mdfId="тойнь">tojń</w>
+<w edit="MK" mdfId="тьсёраться">t́śorat́śä</w>
 <w mdfId=",">,</w>
-<w CyrId="тойнь">tojń</w>
-<w edit="MK" CyrId="тьсёраться">t́śorat́śä</w>
-<w edit="MK" CyrId="василькаться">vaśiĺkat́śä</w>
+<w mdfId="тойнь">tojń</w>
+<w edit="MK" mdfId="тьсёраться">t́śorat́śä</w>
+<w edit="MK" mdfId="василькаться">vaśiĺkat́śä</w>
 <w mdfId="?">?</w>
 </x>
 <GeoNeed/>
@@ -5373,13 +5373,13 @@
 </mg>
 <xg>
 <x>
-<w CyrId="фкя">fḱä</w>
-<w CyrId="стирь">śt́iŕ</w>
+<w mdfId="фкя">fḱä</w>
+<w mdfId="стирь">śt́iŕ</w>
 <w mdfId="-" edit="MK">-</w>
-<w CyrId="идюняц">id́uńac</w>
+<w mdfId="идюняц">id́uńac</w>
 <w mdfId=",">,</w>
-<w CyrId="сиря">śiŕä</w>
-<w CyrId="кирдюняц">ḱiŕd́uńac</w>
+<w mdfId="сиря">śiŕä</w>
+<w mdfId="кирдюняц">ḱiŕd́uńac</w>
 </x>
 <GeoNeed/>
 <sources>
@@ -5580,14 +5580,14 @@
 </mg>
 <xg>
 <x>
-<w CyrId="вай">vaj</w>
-<w CyrId="марьша">maŕša</w>
+<w mdfId="вай">vaj</w>
+<w mdfId="марьша">maŕša</w>
 <w mdfId=",">,</w>
-<w CyrId="марьша">maŕša</w>
+<w mdfId="марьша">maŕša</w>
 <w mdfId=",">,</w>
-<w CyrId="пяк">ṕäḱ</w>
-<w CyrId="мазы">mazi͔</w>
-<w CyrId="марьша">maŕša</w>
+<w mdfId="пяк">ṕäḱ</w>
+<w mdfId="мазы">mazi͔</w>
+<w mdfId="марьша">maŕša</w>
 </x>
 <GeoNeed/>
 <sources>
@@ -5843,9 +5843,9 @@
 </mg>
 <xg>
 <x>
-<w CyrId="ард">ard</w>
+<w mdfId="ард">ard</w>
 <w mdfId=",">,</w>
-<w edit="MK" CyrId="азомасть">azə̑maśt́</w>
+<w edit="MK" mdfId="азомасть">azə̑maśt́</w>
 <tk3 edit="MK" isa="comma"/>
 <w edit="MK" CyrId="азомасть">azə̑maśt́</w>
 <w edit="MK" CyrId="васянь">vaśäń</w>
@@ -6004,12 +6004,12 @@
 </mg>
 <xg>
 <x>
-<w CyrId="сиря">śiŕä</w>
-<w CyrId="нумолə̑нь">numə̑lə̑ń</w>
-<w CyrId="аксюта">akśuta</w>
+<w mdfId="сиря">śiŕä</w>
+<w mdfId="нумолə̑нь">numə̑lə̑ń</w>
+<w mdfId="аксюта">akśuta</w>
 <w mdfId="-" edit="MK">-</w>
-<w edit="MK" CyrId="сукась">suka·ś</w>
-<w CyrId="кургонясь">kurgə̑ńäś</w>
+<w edit="MK" mdfId="сукась">suka·ś</w>
+<w mdfId="кургонясь">kurgə̑ńäś</w>
 </x>
 <GeoNeed/>
 <sources>
@@ -6069,9 +6069,9 @@
 <w edit="MK" CyrId="листь">ĺiśt́</w>
 <w edit="MK" CyrId="алёнаняй">aĺonańäj</w>
 <tk3 edit="MK" isa="comma"/>
-<w edit="MK" CyrId="листь">ĺiśt́</w>
-<w CyrId="и">i</w>
-<w edit="MK" CyrId="сестраняй">śestrańäj</w>
+<w edit="MK" mdfId="листь">ĺiśt́</w>
+<w mdfId="и">i</w>
+<w edit="MK" mdfId="сестраняй">śestrańäj</w>
 <w mdfId="!">!</w></x>
 <GeoNeed/>
 <sources>
@@ -6145,19 +6145,19 @@
 </mg>
 <xg>
 <x>
-<w CyrId="стяка">śt́aka</w>
+<w mdfId="стяка">śt́aka</w>
 <w mdfId=",">,</w>
-<w CyrId="стяка">śt́aka</w>
+<w mdfId="стяка">śt́aka</w>
 <w mdfId=",">,</w>
-<w CyrId="ари·нушка">aŕi·nuška</w>
+<w mdfId="ари·нушка">aŕi·nuška</w>
 <w mdfId=",">,</w>
-<w CyrId="стявайка">śt́ava·jka</w>
-<w CyrId="начка">načka</w>
-<w CyrId="сёронь">śorə̑ń</w>
+<w mdfId="стявайка">śt́ava·jka</w>
+<w mdfId="начка">načka</w>
+<w mdfId="сёронь">śorə̑ń</w>
 <w mdfId=",">,</w>
-<w CyrId="ари·нушкай">aŕi·nuškaj</w>
+<w mdfId="ари·нушкай">aŕi·nuškaj</w>
 <w mdfId=",">,</w>
-<w edit="MK" CyrId="стяфнемя">śt́afńəḿä</w>
+<w edit="MK" mdfId="стяфнемя">śt́afńəḿä</w>
 </x>
 <GeoNeed/>
 <sources>
@@ -6345,12 +6345,12 @@
 <w CyrId="фёдоронь">f́odə̑rə̑ń</w>
 </Vrt>
 </Chc>
-<w CyrId="пятру·шкась">ṕätru·škaś</w>
-<w CyrId="вай">vaj</w>
-<w CyrId="пола">pola</w>
+<w mdfId="пятру·шкась">ṕätru·škaś</w>
+<w mdfId="вай">vaj</w>
+<w mdfId="пола">pola</w>
 <w mdfId="-" edit="MK">-</w>
-<w CyrId="сукать">suka·t́</w>
-<w CyrId="няезя">ńäjəźä</w>
+<w mdfId="сукать">suka·t́</w>
+<w mdfId="няезя">ńäjəźä</w>
 </x>
 <GeoNeed/>
 <sources>
@@ -7440,11 +7440,11 @@
 </mg>
 <xg>
 <x>
-<w edit="MK" CyrId="сяфття">śäft́t́ä</w>
-<w CyrId="улюша">uĺuša</w>
+<w edit="MK" mdfId="сяфття">śäft́t́ä</w>
+<w mdfId="улюша">uĺuša</w>
 <w mdfId=",">,</w>
-<w edit="MK" CyrId="сяфття">śäft́t́ä</w>
-<w edit="MK" CyrId="тушаняй">tuša·ńäj</w>
+<w edit="MK" mdfId="сяфття">śäft́t́ä</w>
+<w edit="MK" mdfId="тушаняй">tuša·ńäj</w>
 </x>
 <GeoNeed/>
 <sources>
@@ -7476,13 +7476,13 @@
 </mg>
 <xg>
 <x>
-<w CyrId="корхтамстонза">korʿtamstə̑nza</w>
-<w CyrId="капстат">kapstat</w>
-<w CyrId="валы">vali͔</w>
+<w mdfId="корхтамстонза">korʿtamstə̑nza</w>
+<w mdfId="капстат">kapstat</w>
+<w mdfId="валы">vali͔</w>
 <w mdfId=",">,</w>
-<w edit="MK" CyrId="сеться">śet́śä·</w>
-<w edit="MK" CyrId="тергань">t́ergań</w>
-<w edit="MK" CyrId="фёдорнясь">f́odorńäś</w>
+<w edit="MK" mdfId="сеться">śet́śä·</w>
+<w edit="MK" mdfId="тергань">t́ergań</w>
+<w edit="MK" mdfId="фёдорнясь">f́odorńäś</w>
 </x>
 <GeoNeed/>
 <sources>
@@ -7752,10 +7752,10 @@
 <w edit="MK" CyrId="кə̑рмаень">kə̑rma·jeń</w>
 <w edit="MK" CyrId="феданясь">f́edańäś</w>
 <tk3 edit="MK" isa="comma"/>
-<w edit="MK" CyrId="феданясь">f́edańäś</w>
-<w edit="MK" CyrId="паяр">pajar</w>
+<w edit="MK" mdfId="феданясь">f́edańäś</w>
+<w edit="MK" mdfId="паяр">pajar</w>
 <w mdfId="-" edit="MK">-</w>
-<w edit="MK" CyrId="аванясь">avańäś</w>
+<w edit="MK" mdfId="аванясь">avańäś</w>
 </x>
 <GeoNeed/>
 <sources>
@@ -7982,15 +7982,15 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 </mg>
 <xg>
 <x>
-<w CyrId="фкя">fḱä</w>
-<w CyrId="недяляста">ńed́äĺasta</w>
-<w CyrId="дарьшɯть">daŕšɯt́</w>
-<w CyrId="ладязя">lad́äźä</w>
+<w mdfId="фкя">fḱä</w>
+<w mdfId="недяляста">ńed́äĺasta</w>
+<w mdfId="дарьшɯть">daŕšɯt́</w>
+<w mdfId="ладязя">lad́äźä</w>
 <w mdfId=",">,</w>
-<w CyrId="омботьсеть">ombə̑t́śət́</w>
-<w CyrId="эзда">ezda</w>
-<w CyrId="дарьшɯть">daŕšɯt́</w>
-<w CyrId="максозя">maksə̑źä</w>
+<w mdfId="омботьсеть">ombə̑t́śət́</w>
+<w mdfId="эзда">ezda</w>
+<w mdfId="дарьшɯть">daŕšɯt́</w>
+<w mdfId="максозя">maksə̑źä</w>
 </x>
 <GeoNeed/>
 <sources>
@@ -9436,12 +9436,12 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 </mg>
 <xg>
 <x>
-<w CyrId="сьɯре">śɯŕə</w>
+<w mdfId="сьɯре">śɯŕə</w>
 <w mdfId="-" edit="MK">-</w>
-<w CyrId="ляйть">ĺä·jt́</w>
-<w edit="MK" CyrId="берякс">b́eŕaks</w>
-<w CyrId="озась">ozaś</w>
-<w CyrId="озада">ozada</w>
+<w mdfId="ляйть">ĺä·jt́</w>
+<w edit="MK" mdfId="берякс">b́eŕaks</w>
+<w mdfId="озась">ozaś</w>
+<w mdfId="озада">ozada</w>
 </x>
 <GeoNeed/>
 <sources>
@@ -11139,13 +11139,13 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 </mg>
 <xg>
 <x>
-<w CyrId="то">tə̑</w>
-<w CyrId="мольсь">moĺś</w>
+<w mdfId="то">tə̑</w>
+<w mdfId="мольсь">moĺś</w>
 <w mdfId=",">,</w>
-<w CyrId="мольсь">moĺś</w>
+<w mdfId="мольсь">moĺś</w>
 <w mdfId=",">,</w>
-<w CyrId="мусь">muś</w>
-<w CyrId="пандо">pandə̑</w>
+<w mdfId="мусь">muś</w>
+<w mdfId="пандо">pandə̑</w>
 <Hph/>
 <w CyrId="ваны">vani͔</w>
 <w CyrId="пантю·жə̑нь">pańt́u·žə̑ń</w>
@@ -11451,12 +11451,12 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 </mg>
 <xg>
 <x>
-<w CyrId="вай">vaj</w>
-<w CyrId="сукась">suka·ś</w>
+<w mdfId="вай">vaj</w>
+<w mdfId="сукась">suka·ś</w>
 <w mdfId=",">,</w>
-<w CyrId="сукась">suka·ś</w>
-<w CyrId="полажəнь">polažəń</w>
-<w CyrId="полянясь">poĺäńäś</w>
+<w mdfId="сукась">suka·ś</w>
+<w mdfId="полажəнь">polažəń</w>
+<w mdfId="полянясь">poĺäńäś</w>
 </x>
 <GeoNeed/>
 <sources>
@@ -11741,16 +11741,16 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 </mg>
 <xg>
 <x>
-<w CyrId="вай">vaj</w>
-<w CyrId="сюдуф">śuduf</w>
+<w mdfId="вай">vaj</w>
+<w mdfId="сюдуф">śuduf</w>
 <w mdfId=",">,</w>
-<w CyrId="сюдуф">śuduf</w>
-<w edit="MK" CyrId="рязяфонь">ŕäźafə̑ń</w>
-<w CyrId="софась">sofaś</w>
+<w mdfId="сюдуф">śuduf</w>
+<w edit="MK" mdfId="рязяфонь">ŕäźafə̑ń</w>
+<w mdfId="софась">sofaś</w>
 <w mdfId=",">,</w>
-<w CyrId="патшк">patšk</w>
-<w CyrId="лазонь">lazə̑ń</w>
-<w CyrId="тоскась">toskaś</w>
+<w mdfId="патшк">patšk</w>
+<w mdfId="лазонь">lazə̑ń</w>
+<w mdfId="тоскась">toskaś</w>
 </x>
 <GeoNeed/>
 <sources>
@@ -11838,16 +11838,16 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 </mg>
 <xg>
 <x>
-<w CyrId="омба">omba</w>
-<w CyrId="ширесонза">šiŕəsə̑nza</w>
-<w CyrId="иванонь">iva·nə̑ń</w>
-<w CyrId="таразсь">tara·zś</w>
+<w mdfId="омба">omba</w>
+<w mdfId="ширесонза">šiŕəsə̑nza</w>
+<w mdfId="иванонь">iva·nə̑ń</w>
+<w mdfId="таразсь">tara·zś</w>
 <w mdfId=",">,</w>
-<w CyrId="иванонь">iva·nə̑ń</w>
-<w CyrId="таразсь">tara·zś</w>
-<w edit="MK" CyrId="кярф">ḱärf</w>
-<w CyrId="пула">pula</w>
-<w CyrId="саразсь">sarazś</w>
+<w mdfId="иванонь">iva·nə̑ń</w>
+<w mdfId="таразсь">tara·zś</w>
+<w edit="MK" mdfId="кярф">ḱärf</w>
+<w mdfId="пула">pula</w>
+<w mdfId="саразсь">sarazś</w>
 </x>
 <GeoNeed/>
 <sources>
@@ -12493,9 +12493,9 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 </mg>
 <xg>
 <x>
-<w CyrId="куду">kudu</w>
+<w mdfId="куду">kudu</w>
 <w mdfId=",">,</w>
-<w edit="MK" CyrId="эднязя">ed́ńä·źä</w>
+<w edit="MK" mdfId="эднязя">ed́ńä·źä</w>
 <tk3 edit="MK" isa="comma"/>
 <w edit="MK" CyrId="наси·лка">naśi·lka</w>
 </x>
@@ -12808,9 +12808,9 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <w edit="MK" CyrId="степан">st́epa·n</w>
 <w edit="MK" CyrId="каро·ткайсь">karo·tkajś</w>
 <tk3 edit="MK" isa="comma"/>
-<w edit="MK" CyrId="тядяй">t́äd́äj</w>
+<w edit="MK" mdfId="тядяй">t́äd́äj</w>
 <w mdfId=",">,</w>
-<w CyrId="шавфтсамань">šavftsamań</w>
+<w mdfId="шавфтсамань">šavftsamań</w>
 </x>
 <GeoNeed/>
 <sources>
@@ -14840,11 +14840,11 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 </mg>
 <xg>
 <x>
-<w CyrId="шə̑ро·в">šə̑ro·v</w>
+<w mdfId="шə̑ро·в">šə̑ro·v</w>
 <w mdfId="-" edit="MK">-</w>
-<w edit="MK" CyrId="песа">ṕesa</w>
-<w edit="MK" CyrId="ляпəнь">ĺäpəń</w>
-<w edit="MK" CyrId="мокəрьсь">mokəŕś</w>
+<w edit="MK" mdfId="песа">ṕesa</w>
+<w edit="MK" mdfId="ляпəнь">ĺäpəń</w>
+<w edit="MK" mdfId="мокəрьсь">mokəŕś</w>
 <tk3 edit="MK" isa="comma"/>
 <w edit="MK" CyrId="сеться">śet́śä·</w>
 <w edit="MK" CyrId="кандаень">kandajəń</w>
@@ -15108,14 +15108,14 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 </xg>
 <xg>
 <x>
-<w CyrId="адя">ad́ä</w>
-<w CyrId="сявсаськ">śävsaśk</w>
-<w CyrId="карьхчувонгя">kaŕʿčuvə̑ŋǵä</w>
+<w mdfId="адя">ad́ä</w>
+<w mdfId="сявсаськ">śävsaśk</w>
+<w mdfId="карьхчувонгя">kaŕʿčuvə̑ŋǵä</w>
 <w mdfId=",">,</w>
-<w CyrId="карьхчуть">kaŕʿčut́</w>
-<w CyrId="сявсаськ">śävsaśk</w>
-<w CyrId="эсь">eś</w>
-<w CyrId="кудозонок">kudə̑zə̑nə̑k</w>
+<w mdfId="карьхчуть">kaŕʿčut́</w>
+<w mdfId="сявсаськ">śävsaśk</w>
+<w mdfId="эсь">eś</w>
+<w mdfId="кудозонок">kudə̑zə̑nə̑k</w>
 </x>
 <GeoNeed/>
 <sources>
@@ -19270,14 +19270,14 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 </mg>
 <xg>
 <x>
-<w CyrId="вадё">vad́o</w>
+<w myvId="вадё">vad́o</w>
 <w myvId="-" edit="MK">-</w>
-<w CyrId="бабане">babańe</w>
-<w CyrId="те">t́e</w>
-<w CyrId="уля">uĺa</w>
+<w myvId="бабане">babańe</w>
+<w myvId="те">t́e</w>
+<w myvId="уля">uĺa</w>
 <w myvId="-" edit="MK">-</w>
-<w CyrId="баба">baba</w>
-<w CyrId="молекшнэсь">moĺekšne͔ś</w>
+<w myvId="баба">baba</w>
+<w myvId="молекшнэсь">moĺekšne͔ś</w>
 </x>
 <GeoNeed/>
 <sources>
@@ -19432,11 +19432,11 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <xg>
 <x>
 <w myvId="ох">oᵪ</w>
-<w CyrId="полай">polaj</w>
+<w myvId="полай">polaj</w>
 <w myvId=",">,</w>
-<w CyrId="полай">polaj</w>
-<w CyrId="а">a</w>
-<w CyrId="ванё">vańo</w>
+<w myvId="полай">polaj</w>
+<w myvId="а">a</w>
+<w myvId="ванё">vańo</w>
 </x>
 <GeoNeed/>
 <sources>
@@ -20636,11 +20636,11 @@ Dem. zu <Et>Васи́лий</Et>]
 </mg>
 <xg>
 <x>
-<w CyrId="тон">ton</w>
+<w myvId="тон">ton</w>
 <w myvId=",">,</w>
-<w CyrId="поланякай">polańakaj</w>
+<w myvId="поланякай">polańakaj</w>
 <w myvId=",">,</w>
-<w CyrId="висиля">v́iśiĺa</w>
+<w myvId="висиля">v́iśiĺa</w>
 </x>
 <GeoNeed/>
 <sources>
@@ -23031,19 +23031,19 @@ Dem. zu <Et>Илю́ша</Et>)]
 </mg>
 <xg>
 <x>
-<w CyrId="вай">vaj</w>
-<w CyrId="иматовонь">imatovoń</w>
+<w myvId="вай">vaj</w>
+<w myvId="иматовонь">imatovoń</w>
 <w myvId=",">,</w>
-<w CyrId="брацы">braci͔</w>
+<w myvId="брацы">braci͔</w>
 <w myvId=",">,</w>
-<w CyrId="колкасо">kolkaso</w>
+<w myvId="колкасо">kolkaso</w>
 <w myvId=",">,</w>
-<w CyrId="сесынень">śesi͔ńeń</w>
+<w myvId="сесынень">śesi͔ńeń</w>
 <w myvId=",">,</w>
-<w CyrId="брацы">braci͔</w>
+<w myvId="брацы">braci͔</w>
 <w myvId=",">,</w>
-<w CyrId="кукут">kukut</w>
-<w CyrId="кукурдыть">kukurdi͔t́</w>
+<w myvId="кукут">kukut</w>
+<w myvId="кукурдыть">kukurdi͔t́</w>
 </x>
 <GeoNeed/>
 <sources>
@@ -23357,14 +23357,14 @@ Dem. zu <Et>Илю́ша</Et>)]
 </mg>
 <xg>
 <x>
-<w CyrId="кучсынек">kučsi͔ńek</w>
+<w myvId="кучсынек">kučsi͔ńek</w>
 <w myvId=",">,</w>
-<w CyrId="полай">polaj</w>
+<w myvId="полай">polaj</w>
 <w myvId=",">,</w>
-<w CyrId="ирикев">iŕiḱev</w>
-<w CyrId="якстерь">jakśt́eŕ</w>
-<w CyrId="иньзеень">ińźejeń</w>
-<w CyrId="кочкамо">kočkamo</w>
+<w myvId="ирикев">iŕiḱev</w>
+<w myvId="якстерь">jakśt́eŕ</w>
+<w myvId="иньзеень">ińźejeń</w>
+<w myvId="кочкамо">kočkamo</w>
 </x>
 <GeoNeed/>
 <sources>
@@ -25138,50 +25138,50 @@ Dem. zu <Et>Илю́ша</Et>)]
 <x>
 Man wandte sich mit folg. Gebet an Keremet: <i>
 <txt2>
-<w CyrId="тряк">t́ŕak</w>
+<w mdfId="тряк">t́ŕak</w>
 <w mdfId=",">,</w>
-<w CyrId="шкай">škaj</w>
+<w mdfId="шкай">škaj</w>
 <Hph/>
-<w CyrId="корьмəлетьсь">koŕməĺet́ś</w>
+<w mdfId="корьмəлетьсь">koŕməĺet́ś</w>
 <w mdfId=",">,</w>
-<w CyrId="солхтай">solʿtaj</w>
+<w mdfId="солхтай">solʿtaj</w>
 <Hph/>
-<w CyrId="атя">at́ä</w>
-<w CyrId="кярямедь">ḱäŕäḿed́</w>
+<w mdfId="атя">at́ä</w>
+<w mdfId="кярямедь">ḱäŕäḿed́</w>
 <w mdfId=",">,</w>
-<w CyrId="кярямедень">ḱäŕäḿed́əń</w>
-<w CyrId="пар">par</w>
+<w mdfId="кярямедень">ḱäŕäḿed́əń</w>
+<w mdfId="пар">par</w>
 <Hph/>
-<w CyrId="ши">ši</w>
+<w mdfId="ши">ši</w>
 <w mdfId=",">,</w>
-<w CyrId="инзара">inzara</w>
+<w mdfId="инзара">inzara</w>
 <Hph/>
-<w CyrId="пря">ṕŕä</w>
-<w CyrId="кярямедь">ḱäŕäḿed́</w>
+<w mdfId="пря">ṕŕä</w>
+<w mdfId="кярямедь">ḱäŕäḿed́</w>
 <w mdfId=",">,</w>
-<w CyrId="макст">makst</w>
-<w CyrId="шумбра">šumbra</w>
-<w CyrId="пар">par</w>
+<w mdfId="макст">makst</w>
+<w mdfId="шумбра">šumbra</w>
+<w mdfId="пар">par</w>
 <Hph/>
-<w CyrId="ши">ši</w>
+<w mdfId="ши">ši</w>
 <w mdfId=",">,</w>
-<w CyrId="коволə̑нь">kovə̑lə̑ń</w>
+<w mdfId="коволə̑нь">kovə̑lə̑ń</w>
 <Hph/>
-<w CyrId="коволə̑нь">kovə̑lə̑ń</w>
-<w CyrId="пизем">ṕiźəḿ</w>
+<w mdfId="коволə̑нь">kovə̑lə̑ń</w>
+<w mdfId="пизем">ṕiźəḿ</w>
 <w mdfId=",">,</w>
-<w CyrId="коволə̑нь">kovə̑lə̑ń</w>
+<w mdfId="коволə̑нь">kovə̑lə̑ń</w>
 <Hph/>
-<w CyrId="коволə̑нь">kovə̑lə̑ń</w>
-<w CyrId="мани">mańi</w>
+<w mdfId="коволə̑нь">kovə̑lə̑ń</w>
+<w mdfId="мани">mańi</w>
 <w mdfId=",">,</w>
-<w CyrId="калдазс">kaldazs</w>
-<w CyrId="шватаня">švatańä</w>
-<w CyrId="раштоза">raštə̑za</w>
+<w mdfId="калдазс">kaldazs</w>
+<w mdfId="шватаня">švatańä</w>
+<w mdfId="раштоза">raštə̑za</w>
 <w mdfId=",">,</w>
-<w CyrId="кутс">kuts</w>
-<w CyrId="семия">śeḿijä</w>
-<w CyrId="раштоза">raštə̑za</w>
+<w mdfId="кутс">kuts</w>
+<w mdfId="семия">śeḿijä</w>
+<w mdfId="раштоза">raštə̑za</w>
 <w mdfId="!">!</w></txt2></i> Nährender Himmelsgott, Ernährer, alter Sultan <i>
 <txt2>
 <w CyrId="к">ḱ</w>
@@ -25200,53 +25200,53 @@ Man wandte sich mit folg. Gebet an Keremet: <i>
 <x>
 Eine Wachskerze wurde angezündet u. eine Frau sprach folg. Gebet: <i>
 <txt2>
-<w CyrId="керьɛмɛть">ḱeŕɛḿɛt́</w>
+<w mdfId="керьɛмɛть">ḱeŕɛḿɛt́</w>
 <w mdfId=",">,</w>
-<w CyrId="солтан">soltan</w>
-<w CyrId="к">ḱ</w>
+<w mdfId="солтан">soltan</w>
+<w mdfId="к">ḱ</w>
 <w mdfId=".">.</w>
 <w mdfIId=",">,</w>
 <w CyrId="к">ḱ</w>
 <tk3 isa="fullstop"/>
 <w CyrId="азор">azə̑r</w>
 <Hph/>
-<w CyrId="ава">ava</w>
+<w mdfId="ава">ava</w>
 <w mdfId="!">!</w>
-<w CyrId="озонттама">ozə̑nttama</w>
-<w CyrId="теть">t́et́</w>
+<w mdfId="озонттама">ozə̑nttama</w>
+<w mdfId="теть">t́et́</w>
 <w mdfId=",">,</w>
-<w CyrId="шатшəза">šatšəza</w>
-<w CyrId="сёра">śora</w>
+<w mdfId="шатшəза">šatšəza</w>
+<w mdfId="сёра">śora</w>
 <w mdfId=",">,</w>
-<w CyrId="раштаст">raštast</w>
-<w CyrId="жіватат">živatat</w>
+<w mdfId="раштаст">raštast</w>
+<w mdfId="жіватат">živatat</w>
 <w mdfId=",">,</w>
-<w CyrId="утшат">utšat</w>
+<w mdfId="утшат">utšat</w>
 <w mdfId=",">,</w>
-<w CyrId="тракст">trakst</w>
+<w mdfId="тракст">trakst</w>
 <w mdfId=",">,</w>
-<w CyrId="алашат">alašat</w>
+<w mdfId="алашат">alašat</w>
 <w mdfId="!">!</w>
-<w CyrId="к">ḱ</w>
+<w mdfId="к">ḱ</w>
 <tk3 isa="fullstop"/>
 <w CyrId="азор">azə̑r</w>
 <Hph/>
-<w CyrId="ава">ava</w>
+<w mdfId="ава">ava</w>
 <w mdfId="!">!</w>
-<w CyrId="минь">ḿiń</w>
-<w CyrId="озондыкс">ozə̑ndi͔ks</w>
+<w mdfId="минь">ḿiń</w>
+<w mdfId="озондыкс">ozə̑ndi͔ks</w>
 <w mdfId=",">,</w>
-<w CyrId="а">a</w>
-<w CyrId="тон">ton</w>
-<w CyrId="трьɛйкс">t́ŕɛjks</w>
+<w mdfId="а">a</w>
+<w mdfId="тон">ton</w>
+<w mdfId="трьɛйкс">t́ŕɛjks</w>
 <Hph/>
-<w CyrId="ваныкс">vani͔ks</w>
+<w mdfId="ваныкс">vani͔ks</w>
 <w mdfId="!">!</w>
-<w CyrId="ванк">vank</w>
-<w CyrId="кутса">kutsa</w>
-<w CyrId="семйɛть">śemjɛt́</w>
+<w mdfId="ванк">vank</w>
+<w mdfId="кутса">kutsa</w>
+<w mdfId="семйɛть">śemjɛt́</w>
 <w mdfId="!">!</w>
-<w CyrId="к">ḱ</w>
+<w mdfId="к">ḱ</w>
 <tk3 isa="fullstop"/></txt2></i>, Sultan <i>
 <txt2>
 <w CyrId="к">ḱ</w>
@@ -26713,15 +26713,15 @@ Eine Wachskerze wurde angezündet u. eine Frau sprach folg. Gebet: <i>
 </mg>
 <xg>
 <x>
-<w CyrId="мейле">ḿejĺe</w>
-<w CyrId="сон">son</w>
-<w CyrId="тусь">tuś</w>
-<w CyrId="лия">ĺija</w>
-<w CyrId="велев">v́eĺej</w>
+<w myvId="мейле">ḿejĺe</w>
+<w myvId="сон">son</w>
+<w myvId="тусь">tuś</w>
+<w myvId="лия">ĺija</w>
+<w myvId="велев">v́eĺej</w>
 <w myvId=",">,</w>
-<w CyrId="лия">ĺija</w>
-<w CyrId="велев">v́eĺej</w>
-<w CyrId="Кочкумазов">kočkumazov</w>
+<w myvId="лия">ĺija</w>
+<w myvId="велев">v́eĺej</w>
+<w myvId="Кочкумазов">kočkumazov</w>
 </x>
 <GeoNeed/>
 <sources>
@@ -32885,14 +32885,14 @@ Eine Wachskerze wurde angezündet u. eine Frau sprach folg. Gebet: <i>
 </mg>
 <xg>
 <x>
-<w CyrId="мон">mon</w>
-<w CyrId="костятан">kośt́atan</w>
+<w myvId="мон">mon</w>
+<w myvId="костятан">kośt́atan</w>
 <w myvId=",">,</w>
-<w CyrId="мон">mon</w>
-<w CyrId="маштатан">maštatan</w>
-<w CyrId="оляень">oĺajeń</w>
-<w CyrId="ашо">ašo</w>
-<w CyrId="теластонзо">t́elastonᴣo</w>
+<w myvId="мон">mon</w>
+<w myvId="маштатан">maštatan</w>
+<w myvId="оляень">oĺajeń</w>
+<w myvId="ашо">ašo</w>
+<w myvId="теластонзо">t́elastonᴣo</w>
 </x>
 <GeoNeed/>
 <sources>
@@ -36033,10 +36033,10 @@ Adjekt. Gen. aus dem russ. Adj. <Et>Петро́в</Et>]
 </mg>
 <xg>
 <x>
-<w CyrId="муизь">mujiź</w>
-<w CyrId="рав">rav</w>
+<w myvId="муизь">mujiź</w>
+<w myvId="рав">rav</w>
 <w myvId="-" edit="MK">-</w>
-<w edit="MK" CyrId="берёксто">b́eŕoksto</w>
+<w edit="MK" myvId="берёксто">b́eŕoksto</w>
 </x>
 <GeoNeed/>
 <sources>
@@ -36752,15 +36752,15 @@ Adjekt. Gen. aus dem russ. Adj. <Et>Петро́в</Et>]
 </mg>
 <xg>
 <x>
-<w edit="MK" CyrId="коть">kot́</w>
-<w CyrId="карькскендэ">kaŕksḱende͔</w>
-<w CyrId="мазынеть">mazi͔ńet́</w>
+<w edit="MK" myvId="коть">kot́</w>
+<w myvId="карькскендэ">kaŕksḱende͔</w>
+<w myvId="мазынеть">mazi͔ńet́</w>
 <w myvId=",">,</w>
-<w CyrId="ненгак">ńeŋgak</w>
-<w CyrId="а">a</w>
-<w CyrId="соньць">sońć</w>
-<w CyrId="понынде">poni͔ńd́e</w>
-<w CyrId="‒‒‒">‒‒‒</w>
+<w myvId="ненгак">ńeŋgak</w>
+<w myvId="а">a</w>
+<w myvId="соньць">sońć</w>
+<w myvId="понынде">poni͔ńd́e</w>
+<w myvId="‒‒‒">‒‒‒</w>
 <w CyrId="рамко">ramko</w>
 <w CyrId="понынде">poni͔ńd́e</w>
 </x>
@@ -37357,7 +37357,7 @@ Adjekt. Gen. aus dem russ. Adj. <Et>Петро́в</Et>]
 <w myvId="алькай">aĺkaj</w>
 <w myvId=",">,</w>
 <w myvId="алякай">aĺakaj</w>
-<tk3 isa="quest"/></txt2></i></x>
+<w myvId="?">?</w></txt2></i></x>
 <GeoU xml:lang="myv">MKly</GeoU>
 <sources>
 <book name="VII" pg="14"/>
@@ -38480,14 +38480,14 @@ fam. F. <Et>Сема́ша (Семён)</Et>]
 </mg>
 <xg>
 <x>
-<w CyrId="вай">vaj</w>
+<w myvId="вай">vaj</w>
 <w myvId=",">,</w>
-<w CyrId="полай">polaj</w>
+<w myvId="полай">polaj</w>
 <w myvId=",">,</w>
-<w CyrId="полай">polaj</w>
+<w myvId="полай">polaj</w>
 <w myvId=",">,</w>
-<w CyrId="а">a</w>
-<w CyrId="силё">śiĺo</w>
+<w myvId="а">a</w>
+<w myvId="силё">śiĺo</w>
 </x>
 <GeoNeed/>
 <sources>
@@ -38825,11 +38825,11 @@ fam. F. <Et>Сема́ша (Семён)</Et>]
 </mg>
 <xg>
 <x>
-<w CyrId="сьпирё">śṕiŕo</w>
+<w myvId="сьпирё">śṕiŕo</w>
 <w myvId="-" edit="MK">-</w>
-<w CyrId="низэ">ńize͔</w>
+<w myvId="низэ">ńize͔</w>
 <w myvId=",">,</w>
-<w CyrId="уряш">uŕaš</w>
+<w myvId="уряш">uŕaš</w>
 </x>
 <GeoNeed/>
 <sources>
@@ -40289,11 +40289,11 @@ Dem. zu <Et>Сёма</Et>]
 </mg>
 <xg>
 <x>
-<w CyrId="вася">vaśä</w>
-<w CyrId="аварди">avaŕd́i</w>
-<w CyrId="уцад">uca·d</w>
+<w mdfId="вася">vaśä</w>
+<w mdfId="аварди">avaŕd́i</w>
+<w mdfId="уцад">uca·d</w>
 <w mdfId="-" edit="MK">-</w>
-<w CyrId="велеса">v́eĺəsa</w>
+<w mdfId="велеса">v́eĺəsa</w>
 </x>
 <GeoNeed/>
 <sources>
@@ -45293,16 +45293,16 @@ Kurzf. zu <Et>Фёдор</Et>)]
 </mg>
 <xg>
 <x>
-<w CyrId="мон">mon</w>
-<w CyrId="мастор">mastor</w>
+<w myvId="мон">mon</w>
+<w myvId="мастор">mastor</w>
 <w myvId="-" edit="MK">-</w>
-<w CyrId="пазнэ">pazne͔</w>
-<w CyrId="сюкунинь">śukuńiń</w>
+<w myvId="пазнэ">pazne͔</w>
+<w myvId="сюкунинь">śukuńiń</w>
 <w myvId=",">,</w>
-<w CyrId="маня">mańa</w>
+<w myvId="маня">mańa</w>
 <w myvId="-" edit="MK">-</w>
-<w CyrId="бабане">babańe</w>
-<w CyrId="энялдынь">eńaldi͔ń</w>
+<w myvId="бабане">babańe</w>
+<w myvId="энялдынь">eńaldi͔ń</w>
 </x>
 <GeoNeed/>
 <sources>
@@ -45312,11 +45312,11 @@ Kurzf. zu <Et>Фёдор</Et>)]
 </xg>
 <xg>
 <x>
-<w CyrId="сон">son</w>
-<w CyrId="маня">mańa</w>
+<w myvId="сон">son</w>
+<w myvId="маня">mańa</w>
 <w myvId="-" edit="MK">-</w>
-<w CyrId="баба">baba</w>
-<w CyrId="пурнызе">purni͔źe</w>
+<w myvId="баба">baba</w>
+<w myvId="пурнызе">purni͔źe</w>
 </x>
 <GeoNeed/>
 <sources>
@@ -45367,11 +45367,11 @@ Kurzf. zu <Et>Фёдор</Et>)]
 </x>
 <t xml:lang="deu">hat drei Frauen: <FrnTxt><w CyrId="олёна">oĺona</w></FrnTxt>, <FrnTxt><w CyrId="тикшама">t́ikšama</w></FrnTxt>, <FrnTxt><w CyrId="люкшама">ĺukšama</w></FrnTxt>; – zwei Söhne: <FrnTxt><w CyrId="маресь">maŕeś</w></FrnTxt>, <FrnTxt><w CyrId="эклеметь">eḱĺeḿet́</w></FrnTxt>; – drei Töchter: <CapI>
 <i><tk2>
-<w CyrId="винтай">v́intaj</w>
+<w myvId="винтай">v́intaj</w>
 <w myvId=",">,</w>
-<w CyrId="лёмай">ĺomaj</w>
+<w myvId="лёмай">ĺomaj</w>
 <w myvId=",">,</w>
-<w CyrId="тикшама">t́ikšama</w></tk2></i></CapI>.</t>
+<w myvId="тикшама">t́ikšama</w></tk2></i></CapI>.</t>
 </xg>
 </HWB>
 </e>
@@ -46366,13 +46366,13 @@ Kurzf. zu <Et>Фёдор</Et>)]
 </mg>
 <xg>
 <x>
-<w edit="MK" CyrId="мих́э·й">ḿiᵪ́e·j</w>
+<w edit="MK" mdfId="мих́э·й">ḿiᵪ́e·j</w>
 <w mdfId="-" edit="MK">-</w>
-<w edit="MK" CyrId="əрясь">əŕäś</w>
-<w CyrId="кшти">kšt́i</w>
-<w CyrId="сонь">soń</w>
-<w CyrId="ингəленза">iŋǵəĺənza</w>
-<w CyrId="кермаса">ḱermasa</w>
+<w edit="MK" mdfId="əрясь">əŕäś</w>
+<w mdfId="кшти">kšt́i</w>
+<w mdfId="сонь">soń</w>
+<w mdfId="ингəленза">iŋǵəĺənza</w>
+<w mdfId="кермаса">ḱermasa</w>
 </x>
 <GeoNeed/>
 <sources>
@@ -46524,19 +46524,19 @@ Kurzf. zu <Et>Фёдор</Et>)]
 </mg>
 <xg>
 <x>
-<w CyrId="велинесь">v́eĺińeś</w>
-<w CyrId="паро">paro</w>
-<w CyrId="моклауж">moklauž</w>
+<w myvId="велинесь">v́eĺińeś</w>
+<w myvId="паро">paro</w>
+<w myvId="моклауж">moklauž</w>
 <w myvId=",">,</w>
-<w CyrId="велинесь">v́eĺińeś</w>
-<w CyrId="доброй">dobroj</w>
-<w CyrId="моклауж">moklauž</w>
+<w myvId="велинесь">v́eĺińeś</w>
+<w myvId="доброй">dobroj</w>
+<w myvId="моклауж">moklauž</w>
 <w myvId=",">,</w>
-<w CyrId="моклаушсонть">moklaušsońt́</w>
-<w CyrId="велесэнть">v́eĺese͔ńt́</w>
-<w CyrId="эри">eŕi</w>
-<w CyrId="видяй">v́id́aj</w>
-<w CyrId="атине">at́ińe</w>
+<w myvId="моклаушсонть">moklaušsońt́</w>
+<w myvId="велесэнть">v́eĺese͔ńt́</w>
+<w myvId="эри">eŕi</w>
+<w myvId="видяй">v́id́aj</w>
+<w myvId="атине">at́ińe</w>
 </x>
 <GeoNeed/>
 <sources>
@@ -47822,14 +47822,14 @@ auch russ. <Et>Моке́й</Et>]
 </mg>
 <xg>
 <x>
-<w CyrId="вай">vaj</w>
-<w CyrId="сютараньгак">śutarańgak</w>
-<w CyrId="неізе">ńeiźe</w>
+<w myvId="вай">vaj</w>
+<w myvId="сютараньгак">śutarańgak</w>
+<w myvId="неізе">ńeiźe</w>
 <w myvId=",">,</w>
-<w CyrId="сон">son</w>
-<w CyrId="медяк">ḿed́ak</w>
-<w CyrId="оку">oku</w>
-<w CyrId="редизе">ŕed́iźe</w>
+<w myvId="сон">son</w>
+<w myvId="медяк">ḿed́ak</w>
+<w myvId="оку">oku</w>
+<w myvId="редизе">ŕed́iźe</w>
 </x>
 <GeoNeed/>
 <sources>
@@ -47903,13 +47903,13 @@ auch russ. <Et>Моке́й</Et>]
 </mg>
 <xg>
 <x>
-<w CyrId="од">od</w>
-<w CyrId="тейтерне">t́ejt́eŕńe</w>
-<w CyrId="пекиясь">ṕeḱijaś</w>
+<w myvId="од">od</w>
+<w myvId="тейтерне">t́ejt́eŕńe</w>
+<w myvId="пекиясь">ṕeḱijaś</w>
 <w myvId=",">,</w>
-<w CyrId="олькань">oĺkań</w>
-<w CyrId="кияль">ḱijaĺ</w>
-<w CyrId="лангиясь">laŋǵijaś</w>
+<w myvId="олькань">oĺkań</w>
+<w myvId="кияль">ḱijaĺ</w>
+<w myvId="лангиясь">laŋǵijaś</w>
 </x>
 <GeoNeed/>
 <sources>
@@ -47919,15 +47919,15 @@ auch russ. <Et>Моке́й</Et>]
 </xg>
 <xg>
 <x>
-<w CyrId="вецэ">v́ece͔</w>
-<w CyrId="чары">čari͔</w>
-<w CyrId="чиньчарамо">čińčaramo</w>
-<w CyrId="илька">iĺka</w>
+<w myvId="вецэ">v́ece͔</w>
+<w myvId="чары">čari͔</w>
+<w myvId="чиньчарамо">čińčaramo</w>
+<w myvId="илька">iĺka</w>
 <w myvId=",">,</w>
-<w CyrId="козяйказо">koźajkazo</w>
-<w CyrId="ватракш">vatrakš</w>
-<w CyrId="сука">suka</w>
-<w CyrId="олька">oĺka</w>
+<w myvId="козяйказо">koźajkazo</w>
+<w myvId="ватракш">vatrakš</w>
+<w myvId="сука">suka</w>
+<w myvId="олька">oĺka</w>
 </x>
 <GeoNeed/>
 <sources>
@@ -48009,15 +48009,15 @@ auch russ. <Et>Моке́й</Et>]
 </mg>
 <xg>
 <x>
-<w CyrId="сайсак">sajsak</w>
+<w myvId="сайсак">sajsak</w>
 <w myvId="-" edit="MK">-</w>
-<w CyrId="деряй">d́eŕaj</w>
-<w CyrId="ониськань">ońiśkań</w>
+<w myvId="деряй">d́eŕaj</w>
+<w myvId="ониськань">ońiśkań</w>
 <w myvId=",">,</w>
-<w CyrId="сестэ">śeste͔</w>
-<w CyrId="бояр">bojar</w>
-<w CyrId="тон">ton</w>
-<w CyrId="улят">uĺat</w>
+<w myvId="сестэ">śeste͔</w>
+<w myvId="бояр">bojar</w>
+<w myvId="тон">ton</w>
+<w myvId="улят">uĺat</w>
 </x>
 <GeoNeed/>
 <sources>
@@ -48078,21 +48078,21 @@ auch russ. <Et>Моке́й</Et>]
 </mg>
 <xg>
 <x>
-<w CyrId="тон">ton</w>
-<w CyrId="оста">osta</w>
+<w myvId="тон">ton</w>
+<w myvId="оста">osta</w>
 <w myvId=",">,</w>
-<w CyrId="оста">osta</w>
+<w myvId="оста">osta</w>
 <w myvId=",">,</w>
-<w CyrId="вай">vaj</w>
-<w CyrId="сюпав">śupav</w>
-<w CyrId="эрьᴣ́а">eŕᴣ́a</w>
+<w myvId="вай">vaj</w>
+<w myvId="сюпав">śupav</w>
+<w myvId="эрьᴣ́а">eŕᴣ́a</w>
 <w myvId=",">,</w>
-<w CyrId="тон">ton</w>
-<w CyrId="минденекак">ḿińd́eńekak</w>
+<w myvId="тон">ton</w>
+<w myvId="минденекак">ḿińd́eńekak</w>
 <w myvId=",">,</w>
-<w CyrId="оста">osta</w>
+<w myvId="оста">osta</w>
 <w myvId=",">,</w>
-<w CyrId="сюпават">śupavat</w>
+<w myvId="сюпават">śupavat</w>
 </x>
 <GeoNeed/>
 <sources>
@@ -49310,10 +49310,10 @@ auch russ. <Et>Моке́й</Et>]
 </mg>
 <xg>
 <x>
-<w CyrId="андя">ańd́a</w>
+<w myvId="андя">ańd́a</w>
 <w myvId="-" edit="MK">-</w>
-<w CyrId="атянь">at́ań</w>
-<w CyrId="самила">saḿila</w>
+<w myvId="атянь">at́ań</w>
+<w myvId="самила">saḿila</w>
 </x>
 <GeoNeed/>
 <sources>
@@ -50176,12 +50176,12 @@ auch russ. <Et>Моке́й</Et>]
 </mg>
 <xg>
 <x>
-<w CyrId="сьмирянь">śḿiŕań</w>
-<w CyrId="малё">maĺo</w>
-<w CyrId="медь">ḿed́</w>
+<w myvId="сьмирянь">śḿiŕań</w>
+<w myvId="малё">maĺo</w>
+<w myvId="медь">ḿed́</w>
 <w myvId="-" edit="MK">-</w>
-<w CyrId="арводо">arvodo</w>
-<w CyrId="симдимим">śimd́iḿim</w>
+<w myvId="арводо">arvodo</w>
+<w myvId="симдимим">śimd́iḿim</w>
 </x>
 <GeoNeed/>
 <sources>
@@ -51872,16 +51872,16 @@ auch russ. <Et>Моке́й</Et>]
 </mg>
 <xg>
 <x>
-<w CyrId="аньцяк">ańćak</w>
-<w CyrId="ульнесь">uĺńeś</w>
-<w CyrId="урадеень">urad́ejeń</w>
-<w CyrId="истямо">iśt́amo</w>
+<w myvId="аньцяк">ańćak</w>
+<w myvId="ульнесь">uĺńeś</w>
+<w myvId="урадеень">urad́ejeń</w>
+<w myvId="истямо">iśt́amo</w>
 <w myvId=",">,</w>
-<w CyrId="сеяк">śejak</w>
-<w CyrId="ульнесь">uĺńeś</w>
-<w CyrId="куло">kulo</w>
-<w CyrId="каткань">katkań</w>
-<w CyrId="кондямо">końd́amo</w>
+<w myvId="сеяк">śejak</w>
+<w myvId="ульнесь">uĺńeś</w>
+<w myvId="куло">kulo</w>
+<w myvId="каткань">katkań</w>
+<w myvId="кондямо">końd́amo</w>
 </x>
 <GeoNeed/>
 <sources>

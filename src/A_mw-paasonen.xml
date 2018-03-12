@@ -19,7 +19,7 @@
 </l_variants>
 </lg>
 <compg drv="X:X»A" type="Der"><DrvTCtn>
-<FrCm edit="MK" freeType="questionRelation" Modification="MK"/><DrvT vl="diminutive"/></DrvTCtn>[<DrvStCtn><DrvSt><w CyrId="мелямбань">ḿeĺambań</w></DrvSt></DrvStCtn>]</compg>
+<FrCm edit="MK" freeType="questionRelation" Modification="MK"/><DrvT vl="diminutive"/></DrvTCtn>[<DrvStCtn><DrvSt><w mdfId="мелямбань">ḿeĺambań</w></DrvSt></DrvStCtn>]</compg>
 .
 </HWB>
 </e>
@@ -45,7 +45,7 @@
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
-<l_drv drvType="diminutive" CyrId="тужо">tužo</l_drv>
+<l_drv drvType="diminutive" myvId="тужо">tužo</l_drv>
 <mg copiedFrom="preceding">
 <tg xml:lang="rus">
 <t pos="A" edit="MK">ленивый</t>
@@ -130,7 +130,7 @@
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
-<l_drv drvType="diminutive" CyrId="чова">čova</l_drv>
+<l_drv drvType="diminutive" myvId="чова">čova</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t pos="A" edit="MK">тоненький</t>
@@ -668,7 +668,7 @@
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
-<compg drv="X:X»A" type="Der"><DrvT vl="diminutive"/><DrvStCtn><FrCm freeType="analogy" Modification="manus"/><DrvSt><w CyrId="човиньге">čov́ińǵe</w></DrvSt></DrvStCtn></compg>
+<compg drv="X:X»A" type="Der"><DrvT vl="diminutive"/><DrvStCtn><FrCm freeType="analogy" Modification="manus"/><DrvSt><w myvId="човиньге">čov́ińǵe</w></DrvSt></DrvStCtn></compg>
 <mg>
 <tg xml:lang="rus">
 <t pos="A" edit="MK">очень тонкий</t>
@@ -739,7 +739,7 @@
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
-<compg drv="X:X»A" type="Der">(<l_drv drvType="diminutive" CyrId="чожда">čožda</l_drv><Cm>usw</Cm>)</compg>
+<compg drv="X:X»A" type="Der">(<l_drv drvType="diminutive" myvId="чожда">čožda</l_drv><Cm>usw</Cm>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t pos="A" edit="MK">лёгонький</t>
@@ -944,7 +944,7 @@
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
-<l_drv drvType="diminutive" CyrId="чуморкс">čumorks</l_drv>
+<l_drv drvType="diminutive" myvId="чуморкс">čumorks</l_drv>
 <mg copiedFrom="preceding">
 <tg xml:lang="rus">
 <t pos="A" edit="MK">болезненный</t>
@@ -1050,9 +1050,9 @@
 </lg>
 <compg drv="X:X»A" type="Der"><DrvT vl="diminutive"/><DrvSt><CapI>
 <i><tk2>
-<w CyrId="якстере">jakst́eŕe</w></tk2></i></CapI>, <CapI>
+<w myvId="якстере">jakst́eŕe</w></tk2></i></CapI>, <CapI>
 <i><tk2>
-<w CyrId="якстерь">jakśt́əŕ</w></tk2></i></CapI></DrvSt></compg>
+<w mdfId="якстерь">jakśt́əŕ</w></tk2></i></CapI></DrvSt></compg>
 <mg copiedFrom="preceding">
 <tg xml:lang="rus">
 <t>красноватый</t>
@@ -1751,7 +1751,7 @@
 <etymonCtn>
 (<EtType vl="vgl"/>
 <Et>
-<w CyrId="сюп̀ав">śup̀av</w></Et> 
+<w myvId="сюп̀ав">śup̀av</w></Et> 
 <GeoU xml:lang="myv"/>
 )
 </etymonCtn>
@@ -2936,10 +2936,10 @@
 <tg xml:lang="deu">
 <t>fähig</t>
 </tg>
-<Cm><FrnTxt><w CyrId="сембəнди">śemb́əńd́i</w></FrnTxt> <cyr>на всё</cyr> / zu allem</Cm>
+<Cm><FrnTxt><w mdfId="сембəнди">śemb́əńd́i</w></FrnTxt> <cyr>на всё</cyr> / zu allem</Cm>
 </TrlnCtn>
 (<dfQsyn1 rel="syn"><dfQsyn2><i><tk2>
-<w CyrId="исолə̑ку">isə̑lə̑ku</w></tk2></i></dfQsyn2>
+<w mdfId="исолə̑ку">isə̑lə̑ku</w></tk2></i></dfQsyn2>
 <GeoU xml:lang="mdf">Sučk</GeoU>
 </dfQsyn1>)</mg>
 </HWB>
@@ -3100,7 +3100,7 @@
 <tg xml:lang="deu">
 <t>strohig</t>
 </tg>
-<Cm>z.B. <FrnTxt><w CyrId="семанезя">śema·ńeźä</w></FrnTxt> mein Kaftanrock</Cm>
+<Cm>z.B. <FrnTxt><w mdfId="семанезя">śema·ńeźä</w></FrnTxt> mein Kaftanrock</Cm>
 </TrlnCtn>
 </mg>
 </HWB>
@@ -3121,7 +3121,7 @@
 </l_variants>
 </lg>
 <DerivationBlock>( aus <i><tk2>
-<w CyrId="лажӑ">lažă</w></tk2></i>)</DerivationBlock>
+<w mdfId="лажӑ">lažă</w></tk2></i>)</DerivationBlock>
 <mg>
 <Syntax function="Adj"/>
 <t xml:lang="rus"/>
@@ -3320,7 +3320,7 @@
 </l_variants>
 </lg>
 <mg>
-<t xml:lang="rus">(= <FrnTxt><w CyrId="усолу">usə̑lu</w></FrnTxt> 
+<t xml:lang="rus">(= <FrnTxt><w mdfId="усолу">usə̑lu</w></FrnTxt> 
 <GeoU xml:lang="mdf">P</GeoU>
 )</t>
 </mg>
@@ -3332,7 +3332,7 @@
 <tg xml:lang="deu">
 <t>fähig</t>
 </tg>
-<Cm><FrnTxt><w CyrId="семьбəнди">śeḿb́əńd́i</w></FrnTxt> zu allem</Cm>
+<Cm><FrnTxt><w mdfId="семьбəнди">śeḿb́əńd́i</w></FrnTxt> zu allem</Cm>
 </TrlnCtn>
 </mg>
 </HWB>
@@ -4059,8 +4059,8 @@
 </tg>
 <dfQsyn1>(<See>
 <Function>Gegens.:</Function>
-<FrnTxt><w CyrId="коськя">kośḱä</w>
-<w CyrId="таст">tast</w></FrnTxt>
+<FrnTxt><w mdfId="коськя">kośḱä</w>
+<w mdfId="таст">tast</w></FrnTxt>
 </See></dfQsyn1>)</mg>
 <xg>
 <x>
@@ -4518,14 +4518,14 @@
 <tg xml:lang="rus">
 <t pos="A" edit="MK">страдающий от болезни рта</t>
 </tg>
-<t xml:lang="deu">die <FrnTxt><w CyrId="каштась">kašta·ś</w></FrnTxt>-Krankheit habend, an der <FrnTxt><w CyrId="каштась">kašta·ś</w></FrnTxt>-Krankheit leidend</t>
+<t xml:lang="deu">die <FrnTxt><w mdfId="каштась">kašta·ś</w></FrnTxt>-Krankheit habend, an der <FrnTxt><w mdfId="каштась">kašta·ś</w></FrnTxt>-Krankheit leidend</t>
 </mg>
 <xg>
 <x>
-<w CyrId="сон">son</w>
-<w CyrId="каштазю">kašta·źu</w>
+<w mdfId="сон">son</w>
+<w mdfId="каштазю">kašta·źu</w>
 </x>
-<t xml:lang="deu">Er leidet an der <FrnTxt><w CyrId="каштась">kašta·ś</w></FrnTxt>-Krankheit.</t>
+<t xml:lang="deu">Er leidet an der <FrnTxt><w mdfId="каштась">kašta·ś</w></FrnTxt>-Krankheit.</t>
 </xg>
 </HWB>
 </e>
@@ -4851,7 +4851,7 @@
 <re>Baum</re>
 </tg>
 (<dfQsyn1 rel="syn"><dfQsyn2><i><tk2>
-<w CyrId="копə̑кшу">kopə̑kšu</w></tk2></i></dfQsyn2>
+<w mdfId="копə̑кшу">kopə̑kšu</w></tk2></i></dfQsyn2>
 <GeoU xml:lang="mdf">Ur</GeoU>
 </dfQsyn1>)</mg>
 </HWB>
@@ -5034,8 +5034,8 @@
 :
 <xg>
 <x>
-<w CyrId="котьсядокшкат">kot́śadə̑kškat</w>
-<w CyrId="калгонясна">kalgə̑ńasna</w>
+<w mdfId="котьсядокшкат">kot́śadə̑kškat</w>
+<w mdfId="калгонясна">kalgə̑ńasna</w>
 </x>
 <GeoNeed/>
 <sources>
@@ -5143,7 +5143,7 @@
 </l_variants>
 </lg>
 <DerivationBlock>(? Instr.-F., nach russ. Vorbild aus <i><tk2>
-<w CyrId="лав">lav</w></tk2></i> gebildet)</DerivationBlock>
+<w mdfId="лав">lav</w></tk2></i> gebildet)</DerivationBlock>
 <mg>
 <tg xml:lang="rus">
 <t pos="A" edit="MK">? покрытый перхотью</t>
@@ -5162,11 +5162,11 @@
 <t pos="A" edit="MK">[?] kleiig</t>
 </tg>
 (<dfQsyn1 rel="syn"><dfQsyn2><i><tk2>
-<w CyrId="лаву">lavu</w></tk2></i></dfQsyn2>
+<w mdfId="лаву">lavu</w></tk2></i></dfQsyn2>
 <GeoU xml:lang="mdf">P</GeoU>
 </dfQsyn1>,
 <dfQsyn1 rel="syn"><dfQsyn2><i><tk2>
-<w CyrId="лавоŋ">lavoŋ</w></tk2></i></dfQsyn2>
+<w myvId="лавоŋ">lavoŋ</w></tk2></i></dfQsyn2>
 <GeoU xml:lang="myv">Atr</GeoU>
 </dfQsyn1>)</mg>
 </HWB>
@@ -5219,10 +5219,10 @@
 <t>ein Festhemd</t>
 </tg>
 (<dfQsyn1 rel="syn"><dfQsyn2><i><tk2>
-<w CyrId="ланк">laŋk</w>
-<w CyrId="каям">kajam</w></tk2></i></dfQsyn2>
+<w mdfId="ланк">laŋk</w>
+<w mdfId="каям">kajam</w></tk2></i></dfQsyn2>
 <dfQsyn2><i><tk2>
-<w CyrId="ланкаям">laŋkajam</w></tk2></i></dfQsyn2>
+<w mdfId="ланкаям">laŋkajam</w></tk2></i></dfQsyn2>
 <GeoU xml:lang="mdf">Sel</GeoU>
 </dfQsyn1>)</mg>
 </MWUB>
@@ -5320,7 +5320,7 @@
 <t pos="A" edit="MK">беременная</t>
 <Cm edit="MK">о животных</Cm>
 </tg>
-<t xml:lang="deu">trächtig (von Tieren). [Eine anal. Bild. zu <FrnTxt><w CyrId="вярозу">v́ärə̑zu</w></FrnTxt> trächtig (von Schafen u. Ziegen) &lt; <FrnTxt><w CyrId="вярос">v́ärə̑s</w></FrnTxt> Lamm]</t>
+<t xml:lang="deu">trächtig (von Tieren). [Eine anal. Bild. zu <FrnTxt><w mdfId="вярозу">v́ärə̑zu</w></FrnTxt> trächtig (von Schafen u. Ziegen) &lt; <FrnTxt><w mdfId="вярос">v́ärə̑s</w></FrnTxt> Lamm]</t>
 </mg>
 </HWB>
 </e>
@@ -5434,7 +5434,7 @@
 <tg xml:lang="rus">
 <t pos="A" edit="MK">покрытый полусгнившими листьями</t>
 </tg>
-<t xml:lang="deu">mit halbvermoderten Blättern bedeckt (<FrnTxt><w CyrId="виресь">v́iŕəś</w></FrnTxt> der Wald)</t>
+<t xml:lang="deu">mit halbvermoderten Blättern bedeckt (<FrnTxt><w mdfId="виресь">v́iŕəś</w></FrnTxt> der Wald)</t>
 </mg>
 </HWB>
 </e>
@@ -5607,10 +5607,10 @@
 </lg>
 <DerivationBlock>[El. + adjekt. <i><tk2>
 <wCtn>
-<w CyrId=""/>
+<w mdfId=""/>
 </wCtn>
 <Hph/>
-<w CyrId="нь">ń</w></tk2></i>]</DerivationBlock>
+<w mdfId="нь">ń</w></tk2></i>]</DerivationBlock>
 <mg>
 <tg xml:lang="rus">
 <t pos="A" edit="MK">небесный</t>
@@ -5859,11 +5859,11 @@
 </mg>
 <xg>
 <x>
-<w edit="MK" CyrId="кишти·энди">ḱišt́i·eńd́i</w>
-<w CyrId="афо·тна">afo·tna</w>
+<w edit="MK" mdfId="кишти·энди">ḱišt́i·eńd́i</w>
+<w mdfId="афо·тна">afo·tna</w>
 <w mdfId=",">,</w>
-<w edit="MK" CyrId="ватьшкаенди">vat́škajeńd́i</w>
-<w CyrId="нало·жна">nalo·žna</w>
+<w edit="MK" mdfId="ватьшкаенди">vat́škajeńd́i</w>
+<w mdfId="нало·жна">nalo·žna</w>
 </x>
 <GeoNeed/>
 <sources>
@@ -5951,8 +5951,8 @@
 </mg>
 <xg>
 <x>
-<w CyrId="недикашкальʿть">ńed́ikaškaĺʿt́</w>
-<w CyrId="потянзон">pot́anzə̑n</w>
+<w mdfId="недикашкальʿть">ńed́ikaškaĺʿt́</w>
+<w mdfId="потянзон">pot́anzə̑n</w>
 </x>
 <GeoNeed/>
 <sources>
@@ -6150,7 +6150,7 @@
 <re>z.B. Weg, nicht aber Eis</re>
 </tg>
 (<dfQsyn1 rel="syn"><dfQsyn2><i><tk2>
-<w CyrId="нолажа">nolaža</w></tk2></i></dfQsyn2>
+<w mdfId="нолажа">nolaža</w></tk2></i></dfQsyn2>
 <GeoU xml:lang="mdf">Sučk</GeoU>
 <GeoU xml:lang="mdf">MdJurtk</GeoU>
 </dfQsyn1>)</mg>
@@ -6797,8 +6797,8 @@
 <t pos="A" edit="MK">kränkendes Wort</t>
 </tg>
 (<dfQsyn1 rel="syn"><dfQsyn2><i><tk2>
-<w CyrId="кельмя">ḱeĺḿä</w>
-<w CyrId="вал">val</w></tk2></i></dfQsyn2>
+<w mdfId="кельмя">ḱeĺḿä</w>
+<w mdfId="вал">val</w></tk2></i></dfQsyn2>
 <GeoU xml:lang="mdf">Pš</GeoU>
 </dfQsyn1>)</mg>
 </MWUB>
@@ -6830,12 +6830,12 @@
 </lg>
 <compg drv="X:X»A" type="Der">(<Cx vl="ablative"/>)</compg>
 <drv1>[<re>ellipt., wohl aus </re>
-<CompositionalPhrase><FrCm freeType="analogy" Modification="manus"/><w CyrId="пряда">ṕŕada</w>
+<CompositionalPhrase><FrCm freeType="analogy" Modification="manus"/><w mdfId="пряда">ṕŕada</w>
 <Chc>
 <Vrt>
-<w CyrId="пяшкся">ṕäškśä</w></Vrt>
+<w mdfId="пяшкся">ṕäškśä</w></Vrt>
 <Vrt>
-<w CyrId="вяри">v́äŕi</w>
+<w mdfId="вяри">v́äŕi</w>
 </Vrt>
 </Chc></CompositionalPhrase>]</drv1>
 <mg>
@@ -7197,8 +7197,8 @@
 </mg>
 <xg>
 <x>
-<w edit="MK" CyrId="стаме·днаень">staḿe·dnajəń</w>
-<w CyrId="кукланя">kukla·ńä</w>
+<w edit="MK" mdfId="стаме·днаень">staḿe·dnajəń</w>
+<w mdfId="кукланя">kukla·ńä</w>
 </x>
 <GeoNeed/>
 <sources>
@@ -7234,8 +7234,8 @@
 </mg>
 <xg>
 <x>
-<w CyrId="супо·нашкат">supo·naškat</w>
-<w edit="MK" CyrId="сорнятня">sə̑rńä·t́ńä</w>
+<w mdfId="супо·нашкат">supo·naškat</w>
+<w edit="MK" mdfId="сорнятня">sə̑rńä·t́ńä</w>
 </x>
 <GeoNeed/>
 <sources>
@@ -7376,7 +7376,7 @@
 <t pos="A" edit="MK">viel Hirse habend</t>
 </tg>
 (<dfQsyn1 rel="syn"><dfQsyn2><i><tk2>
-<w CyrId="просав">prosav</w></tk2></i></dfQsyn2>
+<w mdfId="просав">prosav</w></tk2></i></dfQsyn2>
 <GeoU xml:lang="myv">Mar</GeoU>
 </dfQsyn1>)(
 <GeoU xml:lang="mdf"/>
@@ -7721,9 +7721,9 @@
 </mg>
 <xg>
 <x>
-<w CyrId="аяш">ajaš</w>
-<w edit="MK" CyrId="тяштень">t́äšt́eń</w>
-<w edit="MK" CyrId="шуфтонязя">šuftə̑ńä·źä</w>
+<w mdfId="аяш">ajaš</w>
+<w edit="MK" mdfId="тяштень">t́äšt́eń</w>
+<w edit="MK" mdfId="шуфтонязя">šuftə̑ńä·źä</w>
 </x>
 <GeoNeed/>
 <sources>
@@ -8337,8 +8337,8 @@
 :
 <xg>
 <x>
-<w CyrId="разнай">raznaj</w>
-<w CyrId="ширдень">šiŕd́əń</w>
+<w mdfId="разнай">raznaj</w>
+<w mdfId="ширдень">šiŕd́əń</w>
 </x>
 <lit2>Chr<sup>47</sup>M</lit2>
 <xt xml:lang="deu">[Aus verschiedenen Gegenden].</xt>
@@ -8381,10 +8381,10 @@
 </mg>
 <xg>
 <x>
-<w CyrId="арда">aŕda</w>
-<w CyrId="понатама">ponatama</w>
-<w CyrId="шə̑варонь">šə̑va·rə̑ń</w>
-<w edit="MK" CyrId="пикс">ṕiks</w>
+<w mdfId="арда">aŕda</w>
+<w mdfId="понатама">ponatama</w>
+<w mdfId="шə̑варонь">šə̑va·rə̑ń</w>
+<w edit="MK" mdfId="пикс">ṕiks</w>
 </x>
 <GeoNeed/>
 <sources>
@@ -9025,7 +9025,7 @@
 <tg xml:lang="deu">
 <t>von so weit her, aus solch einer Entfernung, eine so lange Strecke, so weit hin</t>
 </tg>
-<dfQsyn1>(vgl. <sup>1</sup><FrnTxt><w CyrId="те">t́e</w></FrnTxt>: <FrnTxt><w CyrId="тяшкаваста">t́aškavasta</w></FrnTxt></dfQsyn1>)(
+<dfQsyn1>(vgl. <sup>1</sup><FrnTxt><w mdfId="те">t́e</w></FrnTxt>: <FrnTxt><w mdfId="тяшкаваста">t́aškavasta</w></FrnTxt></dfQsyn1>)(
 <GeoU xml:lang="mdf">P</GeoU>
 )</mg>
 </SenseGroup>
@@ -9240,9 +9240,9 @@
 <etymonCtn>
 <EtType edit="MK" vl="vgl"/>[
 auch <Et>
-<w CyrId="тя">t́a</w>
-<w CyrId="шка">ška</w></Et> u. <Et>
-<w CyrId="тяшкада">t́aškada</w></Et> oben]
+<w mdfId="тя">t́a</w>
+<w mdfId="шка">ška</w></Et> u. <Et>
+<w mdfId="тяшкада">t́aškada</w></Et> oben]
 </etymonCtn>
 </etymology>
 </e>
@@ -9317,12 +9317,12 @@ auch <Et>
 </SenseGroup>
 <xg>
 <x>
-<w CyrId="тона">tona</w>
-<w CyrId="масторсь">mastə̑rś</w>
-<w CyrId="тяфтамка">t́aftamka</w>
+<w mdfId="тона">tona</w>
+<w mdfId="масторсь">mastə̑rś</w>
+<w mdfId="тяфтамка">t́aftamka</w>
 <w mdfId=",">,</w>
-<w CyrId="кодама">kodama</w>
-<w edit="MK" CyrId="минь">ḿiń</w>
+<w mdfId="кодама">kodama</w>
+<w edit="MK" mdfId="минь">ḿiń</w>
 </x>
 <GeoNeed/>
 <sources>
@@ -9349,9 +9349,9 @@ auch <Et>
 </l_variants>
 </lg>
 <DerivationBlock>[&lt; <i><tk2>
-<w CyrId="стам">stam</w></tk2></i>(<i><tk2>
-<w CyrId="а">a</w></tk2></i>) + <i><tk2>
-<w CyrId="ка">ka</w></tk2></i> (Verstärkungspartikel)]</DerivationBlock>
+<w mdfId="стам">stam</w></tk2></i>(<i><tk2>
+<w mdfId="а">a</w></tk2></i>) + <i><tk2>
+<w mdfId="ка">ka</w></tk2></i> (Verstärkungspartikel)]</DerivationBlock>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -9403,7 +9403,7 @@ auch <Et>
 </tg>
 <tg xml:lang="deu">
 <t edit="MK">? irgendeine Stickerei</t>
-<re>in der <FrnTxt><w CyrId="янзəр">jänᴣər</w></FrnTxt>-Stickerei am Hemdschoss</re>
+<re>in der <FrnTxt><w mdfId="янзəр">jänᴣər</w></FrnTxt>-Stickerei am Hemdschoss</re>
 </tg>(
 <GeoU xml:lang="mdf">Alk</GeoU>
 )</mg>
@@ -9441,7 +9441,7 @@ auch <Et>
 </l_variants>
 </lg>
 <DerivationBlock>(&lt; <stem><FrCm freeType="analogy" Modification="manus"/><i><tk2>
-<w CyrId="ифти">if́t́i</w></tk2></i></stem>)</DerivationBlock>
+<w mdfId="ифти">if́t́i</w></tk2></i></stem>)</DerivationBlock>
 <mg>
 <tg xml:lang="rus">
 <t pos="A" edit="MK">гладкий</t>
@@ -9482,7 +9482,7 @@ auch <Et>
 <GeoU xml:lang="mdf">P</GeoU>
 </l_variants>
 </lg>
-<l_drv drvType="diminutive" CyrId="фти">ft́i</l_drv>
+<l_drv drvType="diminutive" mdfId="фти">ft́i</l_drv>
 <mg copiedFrom="preceding">
 <tg xml:lang="rus">
 <t pos="A" edit="MK">гладкий</t>
@@ -9592,7 +9592,7 @@ auch <Et>
 <tg xml:lang="deu">
 <t>dreifach</t>
 </tg>
-<Cm>z.B. <FrnTxt><w CyrId="понаф">ponaf</w></FrnTxt> gedreht</Cm>
+<Cm>z.B. <FrnTxt><w mdfId="понаф">ponaf</w></FrnTxt> gedreht</Cm>
 </TrlnCtn>
 </mg>
 </HWB>
@@ -9614,7 +9614,7 @@ auch <Et>
 </l_variants>
 </lg>
 <DerivationBlock>[? Dem. zu <i><tk2>
-<w CyrId="колмонза">kolmə̑nza</w></tk2></i>]</DerivationBlock>
+<w mdfId="колмонза">kolmə̑nza</w></tk2></i>]</DerivationBlock>
 <mg>
 <tg xml:lang="rus">
 <t pos="A" edit="MK">тройной</t>
@@ -9775,7 +9775,7 @@ auch <Et>
 </l_variants>
 </lg>
 <DerivationBlock>[? &lt; <stem><FrCm freeType="analogy" Modification="manus"/><i><tk2>
-<w CyrId="карьгəдевəк">kaŕgəd́əvək</w></tk2></i></stem>, aus refl. St., entspricht 
+<w mdfId="карьгəдевəк">kaŕgəd́əvək</w></tk2></i></stem>, aus refl. St., entspricht 
 <GeoU xml:lang="myv"/>
  <stem><FrCm freeType="analogy" Modification="manus"/><i><tk2>
 <w CyrId="каргодевть">kargod́evt́</w></tk2></i></stem>]</DerivationBlock>
@@ -10011,10 +10011,10 @@ auch <Et>
 </lg>
 <DerivationBlock>[Abl. + (Gen.-Adj.) <i><tk2>
 <wCtn>
-<w CyrId=""/>
+<w mdfId=""/>
 </wCtn>
 <Hph/>
-<w CyrId="нь">ń</w></tk2></i>]</DerivationBlock>
+<w mdfId="нь">ń</w></tk2></i>]</DerivationBlock>
 <mg>
 <tg xml:lang="rus">
 <t>[последним</t>
@@ -10129,10 +10129,10 @@ auch <Et>
 <w mdfId="мария">maŕijä</w>
 </x>
 <GeoU xml:lang="mdf">Ur</GeoU>
-<t xml:lang="deu">[Morgenröte Darija, Abendröte Maria (zu ihnen wird im Dorfopferfest (<FrnTxt><w CyrId="велень">v́eĺəń</w>
-<w CyrId="оскс">osks</w></FrnTxt> od. <FrnTxt><w CyrId="вель">v́eĺ</w>
+<t xml:lang="deu">[Morgenröte Darija, Abendröte Maria (zu ihnen wird im Dorfopferfest (<FrnTxt><w mdfId="велень">v́eĺəń</w>
+<w mdfId="оскс">osks</w></FrnTxt> od. <FrnTxt><w mdfId="вель">v́eĺ</w>
 <Hph/>
-<w CyrId="оскс">osks</w></FrnTxt>) des Dorfes Urjum gebetet)].</t>
+<w mdfId="оскс">osks</w></FrnTxt>) des Dorfes Urjum gebetet)].</t>
 </xg>
 </MWUB>
 <MWUB>
@@ -10447,10 +10447,10 @@ auch <Et>
 <GeoU xml:lang="mdf">Jurtk</GeoU>
 </l_variants>
 </lg>
-<compg drv="X:X»A" type="Der">[<comment/><DrvStCtn><DrvSt><w CyrId="кодама">kodama</w></DrvSt></DrvStCtn><fnct>+</fnct>
+<compg drv="X:X»A" type="Der">[<comment/><DrvStCtn><DrvSt><w mdfId="кодама">kodama</w></DrvSt></DrvStCtn><fnct>+</fnct>
 <stem><i>
 <Hph/>
-<w CyrId="шка">ška</w></i></stem>]</compg>
+<w mdfId="шка">ška</w></i></stem>]</compg>
 <mg>
 <tg xml:lang="rus">
 <t pos="A" edit="MK">какой величины?</t>
@@ -10597,7 +10597,7 @@ auch <Et>
 <w mdfId="тон">ton</w>
 <w mdfId="тӓтши">tätši</w>
 <w mdfId="патьшкедят">pat́šḱed́at</w>
-<tk3 isa="quest"/></txt2></i>
+<w mdfId="?">?</w></txt2></i>
 </x>
 <GeoU xml:lang="mdf">P</GeoU>
 <xt xml:lang="deu">Wohin wirst du heute gelangen?</xt>
@@ -11023,8 +11023,8 @@ auch <Et>
 </l_variants>
 </lg>
 <DerivationBlock>[Gen. <i><tk2>
-<w CyrId="манамбацень">manambaćəń</w></tk2></i>, best. Nom. <i><tk2>
-<w CyrId="манамбацесь">manambaćəś</w></tk2></i>)</DerivationBlock>
+<w mdfId="манамбацень">manambaćəń</w></tk2></i>, best. Nom. <i><tk2>
+<w mdfId="манамбацесь">manambaćəś</w></tk2></i>)</DerivationBlock>
 <mg>
 <tg xml:lang="rus">
 <t pos="A" edit="MK">позапрошлогодний</t>
@@ -11432,7 +11432,7 @@ auch <Et>
 <t>geliebt</t>
 </tg>
 (<dfQsyn1 rel="syn"><dfQsyn2><i><tk2>
-<w CyrId="кельгома">ḱeĺgə̑ma</w></tk2></i></dfQsyn2>
+<w mdfId="кельгома">ḱeĺgə̑ma</w></tk2></i></dfQsyn2>
 <GeoU xml:lang="mdf">Sp</GeoU>
 </dfQsyn1>)</mg>
 ;
@@ -11981,7 +11981,7 @@ auch <Et>
 <GeoU xml:lang="mdf">P</GeoU>
 </l_variants>
 </lg>
-<compg drv="X:X»A" type="Der"><DrvTCtn><DrvT edit="MK" vl="diminutive"/></DrvTCtn>[<DrvStCtn><DrvSt><w CyrId="штада">štada</w></DrvSt></DrvStCtn>]</compg>
+<compg drv="X:X»A" type="Der"><DrvTCtn><DrvT edit="MK" vl="diminutive"/></DrvTCtn>[<DrvStCtn><DrvSt><w mdfId="штада">štada</w></DrvSt></DrvStCtn>]</compg>
 .
 </HWB>
 </e>
@@ -12154,7 +12154,7 @@ auch <Et>
 <t pos="A" edit="MK">без слитых избыточных вод</t>
 <t pos="A" edit="MK">без примесей</t>
 </tg>
-<t xml:lang="deu">ohne abgegossene übermässige Flüssigkeit (s. <FrnTxt><w CyrId="нанкс">naŋks</w></FrnTxt>)</t>
+<t xml:lang="deu">ohne abgegossene übermässige Flüssigkeit (s. <FrnTxt><w mdfId="нанкс">naŋks</w></FrnTxt>)</t>
 <tg xml:lang="deu">
 <t>ohne Zusatz</t>
 </tg>
@@ -12229,7 +12229,7 @@ auch <Et>
 <tg xml:lang="rus">
 <t pos="A" edit="MK">широкий, просторный и отвислый (вещь)</t>
 </tg>
-<t xml:lang="deu">weit, gross u. herabhängend (ein Kleidungsstück, z.B. <FrnTxt><w CyrId="сумань">sumań</w></FrnTxt> langer Rock, Kaftanrock)</t>(
+<t xml:lang="deu">weit, gross u. herabhängend (ein Kleidungsstück, z.B. <FrnTxt><w mdfId="сумань">sumań</w></FrnTxt> langer Rock, Kaftanrock)</t>(
 <GeoU xml:lang="mdf"/>
 )</mg>
 </HWB>
@@ -12499,7 +12499,7 @@ auch <Et>
 <GeoU xml:lang="mdf">P</GeoU>
 </l_variants>
 </lg>
-<l_drv drvType="diminutive" CyrId="срана">srana</l_drv>
+<l_drv drvType="diminutive" mdfId="срана">srana</l_drv>
 <mg copiedFrom="preceding">
 <tg xml:lang="rus">
 <t pos="A" edit="MK">рыхлый</t>
@@ -12554,8 +12554,8 @@ auch <Et>
 <tg xml:lang="rus">
 <t pos="A" edit="MK">ворота с вертикальными досками</t>
 </tg>
-<t xml:lang="deu">Pforte aus senkrecht angeordneten Brettern. [Wohl eine unvollständige Analogiebild. nach dem Muster <FrnTxt><w CyrId="мадозень">madə̑źəń</w>
-<w CyrId="орта">orta</w></FrnTxt>; s. <FrnTxt><w CyrId="мадемс">mad́ems</w></FrnTxt>]</t>
+<t xml:lang="deu">Pforte aus senkrecht angeordneten Brettern. [Wohl eine unvollständige Analogiebild. nach dem Muster <FrnTxt><w mdfId="мадозень">madə̑źəń</w>
+<w mdfId="орта">orta</w></FrnTxt>; s. <FrnTxt><w mdfId="мадемс">mad́ems</w></FrnTxt>]</t>
 </mg>
 </MWUB>
 </e>
@@ -12601,7 +12601,7 @@ auch <Et>
 </l_variants>
 </lg>
 <DerivationBlock>[? Dem. zu <stem><FrCm freeType="analogy" Modification="manus"/><i><tk2>
-<w CyrId="тока">toka</w></tk2></i></stem>]</DerivationBlock>
+<w mdfId="тока">toka</w></tk2></i></stem>]</DerivationBlock>
 <mg>
 <tg xml:lang="rus">
 <t pos="A" edit="MK">касающийся</t>
@@ -12805,7 +12805,7 @@ auch <Et>
 <GeoU xml:lang="mdf">P</GeoU>
 </l_variants>
 </lg>
-<l_drv drvType="diminutive" CyrId="сетен">śet́en</l_drv>
+<l_drv drvType="diminutive" mdfId="сетен">śet́en</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -13149,7 +13149,7 @@ auch <Et>
 <GeoU xml:lang="mdf"/>
 </l_variants>
 </lg>
-<l_drv drvType="diminutive" CyrId="сенем">śeńəm</l_drv>
+<l_drv drvType="diminutive" mdfId="сенем">śeńəm</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t pos="A" edit="MK">синий</t>
@@ -13231,7 +13231,7 @@ auch <Et>
 <GeoU xml:lang="mdf">P</GeoU>
 </l_variants>
 </lg>
-<l_drv drvType="diminutive" CyrId="сенер">śeńər</l_drv>
+<l_drv drvType="diminutive" mdfId="сенер">śeńər</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t pos="A" edit="MK">синеватый</t>
@@ -13568,9 +13568,9 @@ auch <Et>
 <t>Glotzauge</t>
 </tg>
 (<dfQsyn1 rel="syn"><dfQsyn2><i><tk2>
-<w CyrId="полда">polda</w>
+<w mdfId="полда">polda</w>
 <Hph/>
-<w CyrId="сельмӓ">śeĺmä</w></tk2></i></dfQsyn2>
+<w mdfId="сельмӓ">śeĺmä</w></tk2></i></dfQsyn2>
 <GeoU xml:lang="mdf">Čemb</GeoU>
 </dfQsyn1>)</mg>
 </HWB>
@@ -13610,7 +13610,7 @@ auch <Et>
 </l_variants>
 </lg>
 <DerivationBlock>[wohl aus <stem><FrCm freeType="analogy" Modification="manus"/><i><tk2>
-<w CyrId="полгокш">polgə̑kš</w></tk2></i></stem>]</DerivationBlock>
+<w mdfId="полгокш">polgə̑kš</w></tk2></i></stem>]</DerivationBlock>
 <mg>
 <tg xml:lang="rus">
 <t pos="A" edit="MK">выпученный</t>
@@ -13708,7 +13708,7 @@ auch <Et>
 <GeoU xml:lang="mdf">P</GeoU>
 </l_variants>
 </lg>
-<l_drv drvType="diminutive" CyrId="парӑ">pară</l_drv>
+<l_drv drvType="diminutive" mdfId="парӑ">pară</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t pos="A" edit="MK">? дов. хороший</t>
@@ -14066,7 +14066,7 @@ auch <Et>
 </lg>
 <DerivationBlock><isa edit="MK" rel="quest:MK">Part</isa><stem edit="MK"><sup>2</sup><i>
 <tk2>
-<w CyrId="арамс">arams</w>
+<w mdfId="арамс">arams</w>
 </tk2>
 </i></stem></DerivationBlock>
 <mg>
@@ -14394,9 +14394,9 @@ auch <Et>
 </Chc>
 </x>
 <GeoU xml:lang="mdf">P</GeoU>
-<t xml:lang="deu">Dieses Haus ist etwas höher (auf einem höheren Fundament od. auf einer höher gelegenen Stelle; man kann aber nicht sagen <FrnTxt><w CyrId="те">t́e</w>
-<w CyrId="шуфць">šufć</w>
-<w CyrId="вярьгак">v́äŕgak</w></FrnTxt> [Dieser Baum ist höher]).</t>
+<t xml:lang="deu">Dieses Haus ist etwas höher (auf einem höheren Fundament od. auf einer höher gelegenen Stelle; man kann aber nicht sagen <FrnTxt><w mdfId="те">t́e</w>
+<w mdfId="шуфць">šufć</w>
+<w mdfId="вярьгак">v́äŕgak</w></FrnTxt> [Dieser Baum ist höher]).</t>
 </xg>
 <xg>
 <x>
@@ -14587,7 +14587,7 @@ auch <Et>
 </tg>
 <t xml:lang="deu">mühsam (
 <GeoU xml:lang="mdf">P</GeoU>
-: [von Gewicht] weniger schwer als <FrnTxt><w CyrId="стака">staka</w></FrnTxt>)</t>
+: [von Gewicht] weniger schwer als <FrnTxt><w mdfId="стака">staka</w></FrnTxt>)</t>
 </mg>,
 <mg>
 <dfLQl1>(
@@ -14618,7 +14618,7 @@ auch <Et>
 <GeoU xml:lang="mdf">P</GeoU>
 </l_variants>
 </lg>
-<compg drv="X:X»A" type="Der"><DrvTCtn><DrvT edit="MK" vl="Part"/></DrvTCtn>[<DrvStCtn><FrCm freeType="analogy" Modification="manus"/><DrvSt><w CyrId="лукавондамс">luka·və̑ndams</w></DrvSt></DrvStCtn>]</compg>
+<compg drv="X:X»A" type="Der"><DrvTCtn><DrvT edit="MK" vl="Part"/></DrvTCtn>[<DrvStCtn><FrCm freeType="analogy" Modification="manus"/><DrvSt><w mdfId="лукавондамс">luka·və̑ndams</w></DrvSt></DrvStCtn>]</compg>
 <mg>
 <tg xml:lang="rus">
 <t pos="A" edit="MK">коварный</t>
@@ -14651,7 +14651,7 @@ auch <Et>
 <GeoU xml:lang="mdf">P</GeoU>
 </l_variants>
 </lg>
-<l_drv drvType="diminutive" CyrId="шонгар(а)">šoŋgar(a)</l_drv>
+<l_drv drvType="diminutive" mdfId="шонгар(а)">šoŋgar(a)</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t pos="A" edit="MK">жидкий</t>
@@ -14680,7 +14680,7 @@ auch <Et>
 <GeoU xml:lang="mdf">P</GeoU>
 </l_variants>
 </lg>
-<l_drv drvType="diminutive" CyrId="такə̑р">takə̑r</l_drv>
+<l_drv drvType="diminutive" mdfId="такə̑р">takə̑r</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -14703,7 +14703,7 @@ auch <Et>
 <GeoU xml:lang="mdf">P</GeoU>
 </l_variants>
 </lg>
-<l_drv drvType="diminutive" CyrId="топас">topas</l_drv>
+<l_drv drvType="diminutive" mdfId="топас">topas</l_drv>
 <mg copiedFrom="preceding">
 <tg xml:lang="rus">
 <t pos="A" edit="MK">короткий и толстый</t>
@@ -14731,7 +14731,7 @@ auch <Et>
 <re>z.B. Messer, Pflug, Pfriem</re>
 </tg>
 (<dfQsyn1 rel="syn"><dfQsyn2><i><tk2>
-<w CyrId="топана">topana</w></tk2></i></dfQsyn2>
+<w mdfId="топана">topana</w></tk2></i></dfQsyn2>
 <GeoU xml:lang="mdf">Čemb</GeoU>
 </dfQsyn1>)
 <dfQl1>(
@@ -14752,7 +14752,7 @@ auch <Et>
 <t>unbeholfen</t>
 </tg>
 (<dfQsyn1 rel="syn"><dfQsyn2><i><tk2>
-<w CyrId="тупаза">tupaza</w></tk2></i></dfQsyn2>
+<w myvId="тупаза">tupaza</w></tk2></i></dfQsyn2>
 <GeoU xml:lang="myv">Mar</GeoU>
 <GeoU xml:lang="myv">Večk</GeoU>
 </dfQsyn1>)
@@ -14787,7 +14787,7 @@ auch <Et>
 <t>mit stumpfer Spitze (Messer, Pflug, Pfriem)</t>
 </tg>
 (<dfQsyn1 rel="syn"><dfQsyn2><i><tk2>
-<w CyrId="топаза">topaza</w></tk2></i></dfQsyn2>
+<w mdfId="топаза">topaza</w></tk2></i></dfQsyn2>
 <GeoU xml:lang="mdf">Sel</GeoU>
 <GeoU xml:lang="mdf">Sučk</GeoU>
 <GeoU xml:lang="mdf">MdJurtk</GeoU>
@@ -14959,7 +14959,7 @@ auch <Et>
 <GeoU xml:lang="mdf">Jurtk</GeoU>
 </l_variants>
 </lg>
-<l_drv drvType="diminutive" CyrId="акшӑ">akšă</l_drv>
+<l_drv drvType="diminutive" mdfId="акшӑ">akšă</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t pos="A" edit="MK">белый</t>
@@ -15110,7 +15110,7 @@ auch <Et>
 <GeoU xml:lang="mdf">P</GeoU>
 </l_variants>
 </lg>
-<l_drv drvType="diminutive" CyrId="вачəдӑ">vačədă</l_drv>
+<l_drv drvType="diminutive" mdfId="вачəдӑ">vačədă</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t pos="A" edit="MK">голодный</t>
@@ -15260,9 +15260,9 @@ auch <Et>
 <GeoU xml:lang="mdf">Čemb</GeoU>
 : Anr.), (
 <GeoU xml:lang="mdf">P</GeoU>
- auch:) (im Zauberspruch) als Anr. für <FrnTxt><w CyrId="коник">końik</w>
+ auch:) (im Zauberspruch) als Anr. für <FrnTxt><w mdfId="коник">końik</w>
 <Hph/>
-<w CyrId="ланга">laŋga</w></FrnTxt> [Türbank]</t>
+<w mdfId="ланга">laŋga</w></FrnTxt> [Türbank]</t>
 </mg>
 <xg>
 <x>
@@ -15767,7 +15767,7 @@ auch <Et>
 <GeoU xml:lang="mdf">P</GeoU>
 </l_variants>
 </lg>
-<l_drv drvType="diminutive" CyrId="равᴣ̌а">ravᴣ̌a</l_drv>
+<l_drv drvType="diminutive" mdfId="равᴣ̌а">ravᴣ̌a</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t pos="A" edit="MK">чёрный</t>
@@ -22656,18 +22656,18 @@ Radl. <Et>
 <xg>
 <x>
 <w CyrId="кельган">ḱeĺgan</w>
-<w CyrId="‒‒‒">‒‒‒</w>
-<w CyrId="мокшəннь">mokšəńń</w>
-<w CyrId="од">od</w>
-<w edit="MK" CyrId="тьсёра">t́śora</w>
-<w CyrId="махнатай">maᵪna·taj</w>
-<w CyrId="пряня">pŕäńä</w>
+<w mdfId="‒‒‒">‒‒‒</w>
+<w mdfId="мокшəннь">mokšəńń</w>
+<w mdfId="од">od</w>
+<w edit="MK" mdfId="тьсёра">t́śora</w>
+<w mdfId="махнатай">maᵪna·taj</w>
+<w mdfId="пряня">pŕäńä</w>
 <w mdfId=",">,</w>
-<w CyrId="махнатай">maᵪna·taj</w>
-<w CyrId="пряня">pŕäńä</w>
+<w mdfId="махнатай">maᵪna·taj</w>
+<w mdfId="пряня">pŕäńä</w>
 <w mdfId=",">,</w>
-<w CyrId="катмора">katmə̑ra</w>
-<w CyrId="кудряня">kud́ŕä·ńä</w>
+<w mdfId="катмора">katmə̑ra</w>
+<w mdfId="кудряня">kud́ŕä·ńä</w>
 </x>
 <GeoNeed/>
 <sources>
@@ -47849,7 +47849,7 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 <w myvId="жалубна">žalubna</w>
 <w myvId="те">t́e</w>
 <w myvId="тицась">t́icaś</w>
-<tk3 isa="quest"/></txt2></i></x>
+<w myvId="?">?</w></txt2></i></x>
 <GeoU xml:lang="myv">SŠant</GeoU>
 <sources>
 <book name="II" pg="27"/>
@@ -55225,23 +55225,23 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 </mg>
 <xg>
 <x>
-<w CyrId="томбам">tombam</w>
-<w CyrId="ланксо">laŋkso</w>
-<w CyrId="якстере">jakśt́eŕe</w>
-<w CyrId="атякш">at́akš</w>
-<w CyrId="кишти">ḱišt́i</w>
+<w myvId="томбам">tombam</w>
+<w myvId="ланксо">laŋkso</w>
+<w myvId="якстере">jakśt́eŕe</w>
+<w myvId="атякш">at́akš</w>
+<w myvId="кишти">ḱišt́i</w>
 <w myvId="-" edit="MK">-</w>
-<w CyrId="моры">mori͔</w>
-<w CyrId="прявтомо">pŕavtomo</w>
+<w myvId="моры">mori͔</w>
+<w myvId="прявтомо">pŕavtomo</w>
 <w myvId=",">,</w>
-<w CyrId="пуловтомо">pulovtomo</w>
+<w myvId="пуловтомо">pulovtomo</w>
 <w myvId=",">,</w>
-<w CyrId="толгавтомо">tolgavtomo</w>
+<w myvId="толгавтомо">tolgavtomo</w>
 <w myvId=",">,</w>
-<w CyrId="почковтомо">počkovtomo</w>
-<w edit="MK" CyrId="пейтеме">ṕejt́eḿe</w>
+<w myvId="почковтомо">počkovtomo</w>
+<w edit="MK" myvId="пейтеме">ṕejt́eḿe</w>
 <w myvId=",">,</w>
-<w CyrId="камуртомо">kamurtomo</w>
+<w myvId="камуртомо">kamurtomo</w>
 </x>
 <GeoNeed/>
 <sources>
@@ -73323,9 +73323,9 @@ Pfriemen erstechen!</t>
 </xg>
 <xg>
 <x>
-<w CyrId="мазиян">maźijan</w>
+<w mdfId="мазиян">maźijan</w>
 <w mdfId=",">,</w>
-<w CyrId="мазият">maźijat</w>
+<w mdfId="мазият">maźijat</w>
 </x>
 <t xml:lang="deu">usw. 
 <GeoU xml:lang="mdf">P</GeoU>
@@ -75422,7 +75422,7 @@ Pfriemen erstechen!</t>
 <txt2>
 <w myvId="тееме">t́ejeḿe</w>
 <w myvId="карматанок">karmatanok</w>
-<tk3 isa="quest"/></txt2></i></x>
+<w myvId="?">?</w></txt2></i></x>
 <GeoU xml:lang="myv">Mar</GeoU>
 <sources>
 <book name="2" pg="121"/>
@@ -82295,7 +82295,7 @@ P.: Eine metathetische F. aus <Et>
 <sources>
 <book name="III" pg="81"/>
 </sources>
-<t xml:lang="deu">Sie blasen die Tages-<FrnTxt><w CyrId="прича">pŕiča</w></FrnTxt> fort, die Nacht-<FrnTxt><w CyrId="прича">pŕiča</w>
+<t xml:lang="deu">Sie blasen die Tages-<FrnTxt><w myvId="прича">pŕiča</w></FrnTxt> fort, die Nacht-<FrnTxt><w myvId="прича">pŕiča</w>
 <tk3 isa="fullstop"/></FrnTxt></t>
 </xg>
 <xg>
@@ -82304,7 +82304,7 @@ P.: Eine metathetische F. aus <Et>
 <w myvId="эсᴉ͐нза">äsᴉ͐nza</w>
 </x>
 <GeoU xml:lang="myv">Ba</GeoU>
-<t xml:lang="deu">In ihm steckt die <FrnTxt><w CyrId="ночной">nočnoj</w></FrnTxt>-Krankheit.</t>
+<t xml:lang="deu">In ihm steckt die <FrnTxt><w myvId="ночной">nočnoj</w></FrnTxt>-Krankheit.</t>
 </xg>
 </HWB>
 <etymology>
@@ -82719,7 +82719,7 @@ P.: Eine metathetische F. aus <Et>
 <tg xml:lang="deu">
 <t>elend</t>
 </tg>
-<t xml:lang="deu">klapprig (sehr schlecht, z.B. <FrnTxt><w CyrId="алаша">alaša</w></FrnTxt> Pferd)</t>
+<t xml:lang="deu">klapprig (sehr schlecht, z.B. <FrnTxt><w myvId="алаша">alaša</w></FrnTxt> Pferd)</t>
 </mg>
 </HWB>
 <etymology>
@@ -82727,9 +82727,9 @@ P.: Eine metathetische F. aus <Et>
 <EtType edit="MK" vl="vgl"/>
 <EtCtn>
 <Et edit="MK"><sup>1</sup><i><tk2>
-<w CyrId="нужа">nuža</w></tk2></i></Et>
+<w myvId="нужа">nuža</w></tk2></i></Et>
 </EtCtn>[: <Et>
-<w CyrId="нужань">nužań</w></Et>]
+<w myvId="нужань">nužań</w></Et>]
 </etymonCtn>
 </etymology>
 </e>
@@ -82806,9 +82806,9 @@ P.: Eine metathetische F. aus <Et>
 <EtType edit="MK" vl="vgl"/>
 <EtCtn>
 <Et edit="MK"><sup>1</sup><i><tk2>
-<w CyrId="нужа">nuža</w></tk2></i></Et>
+<w myvId="нужа">nuža</w></tk2></i></Et>
 </EtCtn>[: <Et>
-<w CyrId="нужань">nužań</w></Et>]
+<w myvId="нужань">nužań</w></Et>]
 </etymonCtn>
 </etymology>
 </e>
@@ -82946,11 +82946,11 @@ P.: Eine metathetische F. aus <Et>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
 <DerivationBlock>(&lt; <stem><FrCm freeType="analogy" Modification="manus"/><i><tk2>
-<w CyrId="нуво">nuvo</w>
+<w myvId="нуво">nuvo</w>
 <Hph/>
-<w CyrId="зя">źa</w></tk2></i></stem> [+ <i><tk2>
+<w myvId="зя">źa</w></tk2></i></stem> [+ <i><tk2>
 <Hph/>
-<w CyrId="кс">ks</w></tk2></i>])</DerivationBlock>
+<w myvId="кс">ks</w></tk2></i>])</DerivationBlock>
 <mg>
 <tg xml:lang="rus">
 <t pos="A" edit="MK">ленивый</t>
@@ -83001,7 +83001,7 @@ P.: Eine metathetische F. aus <Et>
 <EtSrcL edit="MK" vl="mrdv"/>
 <EtCtn>
 <Et edit="MK">
-<w CyrId="нувамс">nuvams</w></Et>
+<w myvId="нувамс">nuvams</w></Et>
 </EtCtn>
 </etymonCtn>
 </etymology>
@@ -83107,7 +83107,7 @@ P.: Eine metathetische F. aus <Et>
 <t>zerrissen</t>
 <t>zerfetzt</t>
 </tg>
-<Cm>z.B. <FrnTxt><w CyrId="панар">panar</w></FrnTxt> Hemd</Cm>
+<Cm>z.B. <FrnTxt><w myvId="панар">panar</w></FrnTxt> Hemd</Cm>
 </TrlnCtn>
 </mg>
 </HWB>
@@ -83516,7 +83516,7 @@ P.: Eine metathetische F. aus <Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
-<compg drv="X:X»A" type="Der">(<l_drv drvType="diminutive" CyrId="нурька">nuŕka</l_drv><Cm>usw</Cm>)</compg>
+<compg drv="X:X»A" type="Der">(<l_drv drvType="diminutive" myvId="нурька">nuŕka</l_drv><Cm>usw</Cm>)</compg>
 <mg copiedFrom="preceding">
 <tg xml:lang="rus">
 <t pos="A" edit="MK">более короткий конец (из двух)</t>
@@ -83653,9 +83653,9 @@ P.: Eine metathetische F. aus <Et>
 </lg>
 <compg drv="X:X»A" type="Der">(<DrvT vl="diminutive"/>
 <stem><FrCm freeType="analogy" Modification="manus"/><i><tk2>
-<w CyrId="нюрьхкине">ńuŕʿḱińe</w></tk2></i></stem>
+<w myvId="нюрьхкине">ńuŕʿḱińe</w></tk2></i></stem>
 <stem><FrCm freeType="analogy" Modification="manus"/><i><tk2>
-<w CyrId="нирьхтине">ńiŕʿt́ińe</w></tk2></i></stem>)</compg>
+<w myvId="нирьхтине">ńiŕʿt́ińe</w></tk2></i></stem>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t pos="A" edit="MK">коротенький</t>
@@ -83692,8 +83692,8 @@ P.: Eine metathetische F. aus <Et>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
 <DerivationBlock>(Part. zu <stem><FrCm freeType="analogy" Modification="manus"/><i><tk2>
-<w CyrId="обложамкс">obložamks</w></tk2></i></stem> ~ ? <i><tk2>
-<w CyrId="овложамкс">ovložamks</w></tk2></i>)</DerivationBlock>
+<w myvId="обложамкс">obložamks</w></tk2></i></stem> ~ ? <i><tk2>
+<w myvId="овложамкс">ovložamks</w></tk2></i>)</DerivationBlock>
 <mg>
 <tg xml:lang="rus">
 <t pos="A" edit="MK">покрытый</t>
@@ -84002,8 +84002,8 @@ P.: Eine metathetische F. aus <Et>
 <tg xml:lang="deu">
 <t>junger Mann</t>
 </tg>
-<t xml:lang="deu">Jüngling (<cl id="pair">als Par.-Wort zu <FrnTxt><w CyrId="од">od</w>
-<w CyrId="зёра">źora</w></FrnTxt></cl>)</t>
+<t xml:lang="deu">Jüngling (<cl id="pair">als Par.-Wort zu <FrnTxt><w myvId="од">od</w>
+<w myvId="цёра">źora</w></FrnTxt></cl>)</t>
 <dfQl1>(
 <GeoU xml:lang="myv"/>
 )</dfQl1>
@@ -84140,8 +84140,8 @@ P.: Eine metathetische F. aus <Et>
 <t>? Klette</t>
 </tg>
 (<dfQsyn1 rel="syn"><dfQsyn2><i><tk2>
-<w CyrId="ашо">ašo</w>
-<w CyrId="лопа">lopa</w></tk2></i></dfQsyn2></dfQsyn1>)</mg>
+<w myvId="ашо">ašo</w>
+<w myvId="лопа">lopa</w></tk2></i></dfQsyn2></dfQsyn1>)</mg>
 </MWUB>
 <MWUB>
 <E3Head><POS/></E3Head>
@@ -84445,8 +84445,8 @@ P.: Eine metathetische F. aus <Et>
 <GeoU xml:lang="myv">Ba</GeoU>
 : nur im Alter von 16-20 Jahren; 
 <GeoU xml:lang="mdf">P</GeoU>
-: <cyr>холостой</cyr> / lediger, junger Mann; nicht von einem Soldaten, der nach seiner Entlassung nicht <FrnTxt><w CyrId="од">od</w>
-<w CyrId="ᴣ́ора">ᴣ́ora</w></FrnTxt>, sondern <FrnTxt><w CyrId="салдат">salda·t</w></FrnTxt> heisst)</t>
+: <cyr>холостой</cyr> / lediger, junger Mann; nicht von einem Soldaten, der nach seiner Entlassung nicht <FrnTxt><w mdfId="од">od</w>
+<w mdfId="цёра">ᴣ́ora</w></FrnTxt>, sondern <FrnTxt><w mdfId="салдат">salda·t</w></FrnTxt> heisst)</t>
 </mg>
 <xg>
 <x>
@@ -85805,8 +85805,8 @@ P.: Eine metathetische F. aus <Et>
 <tg xml:lang="deu">
 <t>[?] Frau des älteren Bruders des Vaters</t>
 </tg>
-(<dfQsyn1 rel="syn"><FrnTxt><w CyrId="од">od</w>
-<w CyrId="баба">baba</w></FrnTxt> [<FrnTxt><w CyrId="бабай">babaj</w></FrnTxt>] 
+(<dfQsyn1 rel="syn"><FrnTxt><w myvId="од">od</w>
+<w myvId="баба">baba</w></FrnTxt> [<FrnTxt><w myvId="бабай">babaj</w></FrnTxt>] 
 <GeoU xml:lang="myv">Atr</GeoU>
 <GeoU xml:lang="myv">Ba</GeoU>
 </dfQsyn1>)
@@ -85898,7 +85898,7 @@ P.: Eine metathetische F. aus <Et>
 </tg>
 <t xml:lang="deu">junge Frau (
 <GeoU xml:lang="myv">Večk</GeoU>
-: die, die jünger sind als ihr Mann, sagen <FrnTxt><w CyrId="уряш">uŕaš</w></FrnTxt> zu ihr; 
+: die, die jünger sind als ihr Mann, sagen <FrnTxt><w myvId="уряш">uŕaš</w></FrnTxt> zu ihr; 
 <GeoU xml:lang="myv">Kad</GeoU>
 : die Familienmitglieder, die älter sind als ihr Mann, ausgenommen Schwiegervater u. Schwiegermutter, nennen sie so; die Fremden nennen u. reden sie so an)</t>
 <dfQl1>(<sources>
@@ -86108,7 +86108,7 @@ P.: Eine metathetische F. aus <Et>
 <GeoU xml:lang="mdf">Ur</GeoU>
 </l_variants>
 </lg>
-<l_drv drvType="diminutive" CyrId="одəрьвя">odəŕv́ä</l_drv>
+<l_drv drvType="diminutive" mdfId="одəрьвя">odəŕv́ä</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t>молодушка</t>
@@ -86269,7 +86269,7 @@ P.: Eine metathetische F. aus <Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
-<l_drv drvType="diminutive" CyrId="од">od</l_drv>
+<l_drv drvType="diminutive" myvId="од">od</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t pos="A" edit="MK">молоденький</t>
@@ -86351,10 +86351,10 @@ P.: Eine metathetische F. aus <Et>
 <tg xml:lang="rus">
 <t pos="A" edit="MK">молодой</t>
 </tg>
-<t xml:lang="deu">jung (= <FrnTxt><w CyrId="од">od</w></FrnTxt>) [kaum richtig; lieber wohl nur ein bedeutungsloses Füllwort</t>
+<t xml:lang="deu">jung (= <FrnTxt><w myvId="од">od</w></FrnTxt>) [kaum richtig; lieber wohl nur ein bedeutungsloses Füllwort</t>
 <dfQsyn1><See>
 <Function>vgl.</Function>
-<FrnTxt><w CyrId="адонь">adoń</w></FrnTxt>
+<FrnTxt><w myvId="адонь">adoń</w></FrnTxt>
 </See>]</dfQsyn1>
 </mg>
 <xg>
@@ -86758,7 +86758,7 @@ P.: Eine metathetische F. aus <Et>
 <tg xml:lang="rus">
 <t>[ряд жёлтых бусин на поясе</t>
 </tg>
-<t xml:lang="deu">Reihe aus gelben Glasperlen am Gürtel (<FrnTxt><w CyrId="каркс">karks</w></FrnTxt>)]</t>
+<t xml:lang="deu">Reihe aus gelben Glasperlen am Gürtel (<FrnTxt><w myvId="каркс">karks</w></FrnTxt>)]</t>
 </mg>
 </MWUB>
 <MWUB>
@@ -86852,8 +86852,8 @@ P.: Eine metathetische F. aus <Et>
 <t>Pirol</t>
 </tg>
 (<dfQsyn1 rel="syn"><dfQsyn2><i><tk2>
-<w CyrId="ожо">ožo</w>
-<w CyrId="пуло">pulo</w></tk2></i></dfQsyn2>
+<w myvId="ожо">ožo</w>
+<w myvId="пуло">pulo</w></tk2></i></dfQsyn2>
 <GeoU xml:lang="myv">Večk usw.</GeoU>
 </dfQsyn1>)</mg>
 </MWUB>
@@ -87182,7 +87182,7 @@ P.: Eine metathetische F. aus <Et>
 <tg xml:lang="rus">
 <t pos="A" edit="MK">огромный</t>
 </tg>
-<t xml:lang="deu">mächtig gross (“nicht so gross wie <FrnTxt><w CyrId="озорной">ozornoj</w></FrnTxt>”)</t>
+<t xml:lang="deu">mächtig gross (“nicht so gross wie <FrnTxt><w myvId="озорной">ozornoj</w></FrnTxt>”)</t>
 </mg>
 <xg>
 <x>
@@ -88091,12 +88091,12 @@ P.: Eine metathetische F. aus <Et>
 </xg>
 <xg genre="riddle">
 <x>
-<w CyrId="фкя">fḱä</w>
-<w CyrId="покə̑ц">pokə̑c</w>
-<w CyrId="наряжаф">naŕažaf</w>
+<w mdfId="фкя">fḱä</w>
+<w mdfId="покə̑ц">pokə̑c</w>
+<w mdfId="наряжаф">naŕažaf</w>
 <w mdfId=",">,</w>
-<w CyrId="омбоцесь">ombə̑ćəś</w>
-<w CyrId="моряжаф">moŕažaf</w>
+<w mdfId="омбоцесь">ombə̑ćəś</w>
+<w mdfId="моряжаф">moŕažaf</w>
 <tk3 isa="fullstop"/>
 <w CyrId="–">–</w>
 <w CyrId="кизось">ḱizə̑ś</w>
@@ -88232,7 +88232,7 @@ P.: Eine metathetische F. aus <Et>
 <tg xml:lang="deu">
 <t>anderthalb</t>
 </tg>
-<Cm>z.B. <FrnTxt><w CyrId="валкс">valks</w></FrnTxt> Rubel</Cm>
+<Cm>z.B. <FrnTxt><w myvId="валкс">valks</w></FrnTxt> Rubel</Cm>
 </TrlnCtn>
 </mg>
 </MWUB>
@@ -89093,7 +89093,7 @@ P.: Eine metathetische F. aus <Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l/><st/>
 </lg>
-<l_drv drvType="diminutive" CyrId="остатка">ostatka</l_drv>
+<l_drv drvType="diminutive" myvId="остатка">ostatka</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t pos="A" edit="MK">остальной</t>
@@ -90115,7 +90115,7 @@ des Hauses</t>
 <tg xml:lang="rus">
 <t pos="A" edit="MK">наружная часть двойной двери курной избы</t>
 </tg>
-<t xml:lang="deu">die äussere der Doppeltür der Rauchstube (s. <FrnTxt><w CyrId="кенкш">ḱeŋkš</w></FrnTxt>)</t>
+<t xml:lang="deu">die äussere der Doppeltür der Rauchstube (s. <FrnTxt><w mdfId="кенкш">ḱeŋkš</w></FrnTxt>)</t>
 </mg>
 </MWUB>
 <MWUB>
@@ -90140,8 +90140,8 @@ des Hauses</t>
 <t>“grosser Brautwerber”</t>
 </tg>
 (<dfQsyn1 rel="syn"><dfQsyn2><i><tk2>
-<w CyrId="покш">pokš</w>
-<w CyrId="куда">kuda</w></tk2></i></dfQsyn2>
+<w myvId="покш">pokš</w>
+<w myvId="куда">kuda</w></tk2></i></dfQsyn2>
 <GeoU xml:lang="myv">VVr</GeoU>
 <GeoU xml:lang="myv">Večk</GeoU>
 </dfQsyn1>)</mg>
@@ -90399,8 +90399,8 @@ des Hauses</t>
 <tg xml:lang="deu">
 <t>geschickt</t>
 </tg>
-<t xml:lang="deu">gewandt (<FrnTxt><w CyrId="се">śe</w>
-<w CyrId="тевинтень">t́ev́ińt́eń</w></FrnTxt> in dieser Arbeit, <FrnTxt><w CyrId="кишчемеде">ḱiščeḿed́e</w></FrnTxt> im Tanzen, <FrnTxt><w CyrId="сёрмадомодо">śormadomodo</w></FrnTxt> im Schreiben od. im Sticken)</t>
+<t xml:lang="deu">gewandt (<FrnTxt><w myvId="се">śe</w>
+<w myvId="тевинтень">t́ev́ińt́eń</w></FrnTxt> in dieser Arbeit, <FrnTxt><w myvId="кишчемеде">ḱiščeḿed́e</w></FrnTxt> im Tanzen, <FrnTxt><w myvId="сёрмадомодо">śormadomodo</w></FrnTxt> im Schreiben od. im Sticken)</t>
 </mg>
 </HWB>
 </e>
@@ -90445,7 +90445,7 @@ des Hauses</t>
 </l_variants>
 </lg>
 <DerivationBlock>(Karit. zu <i><tk2>
-<w CyrId="паз">paz</w></tk2></i>, <i><tk2>
+<w myvId="паз">paz</w></tk2></i>, <i><tk2>
 <w CyrId="павас">pavas</w></tk2></i>, vielleicht auch mit <i><tk2>
 <w CyrId="пай">paj</w></tk2></i> verbunden)</DerivationBlock>
 <mg>
@@ -90658,9 +90658,9 @@ des Hauses</t>
 </TrlnCtn>
 <dfQsyn1>(<See>
 <Function>vgl.</Function>
-<FrnTxt><w CyrId="пакся">pakśa</w>
+<FrnTxt><w myvId="пакся">pakśa</w>
 <Hph/>
-<w CyrId="пулокс">puloks</w></FrnTxt>
+<w myvId="пулокс">puloks</w></FrnTxt>
 </See></dfQsyn1>)</mg>
 </MWUB>
 </e>
@@ -90715,7 +90715,7 @@ des Hauses</t>
 </lg>
 <compg drv="X:X»A" type="Der">[<Cm>&lt;</Cm><source><CapI>
 <i><tk2>
-<w CyrId="палт">palt</w></tk2></i></CapI> + <CapI>
+<w myvId="палт">palt</w></tk2></i></CapI> + <CapI>
 <i><tk2>
 <wCtn>
 <w>
@@ -92416,10 +92416,10 @@ des Hauses</t>
 </mg>
 <xg>
 <x>
-<w CyrId="ванок">vanok</w>
-<w CyrId="а">a</w>
-<w CyrId="паро">paro</w>
-<w CyrId="пильгеде">ṕiĺǵed́e</w>
+<w myvId="ванок">vanok</w>
+<w myvId="а">a</w>
+<w myvId="паро">paro</w>
+<w myvId="пильгеде">ṕiĺǵed́e</w>
 </x>
 <GeoNeed/>
 <sources>
@@ -92777,7 +92777,7 @@ des Hauses</t>
 <sources>
 <book name="VIII" pg="56"/>
 </sources>
-<t xml:lang="deu">Der Schwiegervater sagt zu ihm: “<FrnTxt><w CyrId="ашава">ašava</w></FrnTxt> (weisse Frau), <FrnTxt><w CyrId="мазава">mazava</w></FrnTxt> (schöne Frau), <FrnTxt><w CyrId="парава">parava</w></FrnTxt> (gute Frau), <FrnTxt><w CyrId="вежава">v́ežava</w></FrnTxt> (artige Frau)”.</t>
+<t xml:lang="deu">Der Schwiegervater sagt zu ihm: “<FrnTxt><w myvId="ашава">ašava</w></FrnTxt> (weisse Frau), <FrnTxt><w myvId="мазава">mazava</w></FrnTxt> (schöne Frau), <FrnTxt><w myvId="парава">parava</w></FrnTxt> (gute Frau), <FrnTxt><w myvId="вежава">v́ežava</w></FrnTxt> (artige Frau)”.</t>
 </xg>
 </MWUB>
 <MWUB>
@@ -92897,7 +92897,7 @@ des Hauses</t>
 <GeoU xml:lang="myv">Ba</GeoU>
 : verheirateter) Bruder des Mannes (
 <GeoU xml:lang="myv">Mar</GeoU>
-: Anr.); (Ben. <FrnTxt><w CyrId="альне">aĺńe</w></FrnTxt>); (
+: Anr.); (Ben. <FrnTxt><w myvId="альне">aĺńe</w></FrnTxt>); (
 <GeoU xml:lang="myv">Večk</GeoU> 
 <GeoU xml:lang="myv">Ba</GeoU>
 : Ben. u. Anr.</Cm>
@@ -93044,7 +93044,7 @@ des Hauses</t>
 <tg xml:lang="rus">
 <t pos="A" edit="MK">праздничный пояс для девушек и молодух</t>
 </tg>
-<t xml:lang="deu">Festgürtel, der von Mädchen u. jungen Frauen anstatt <FrnTxt><w CyrId="пулакш">pulakš</w></FrnTxt> (Hinterschürze) getragen wird</t>
+<t xml:lang="deu">Festgürtel, der von Mädchen u. jungen Frauen anstatt <FrnTxt><w myvId="пулакш">pulakš</w></FrnTxt> (Hinterschürze) getragen wird</t>
 </mg>
 </MWUB>
 <MWUB>
@@ -93225,8 +93225,8 @@ des Hauses</t>
 </tg>
 <dfQsyn1>(<See>
 <Function>vgl.</Function>
-<FrnTxt><w CyrId="паро">paro</w>
-<w CyrId="велькс">v́eĺks</w></FrnTxt>
+<FrnTxt><w myvId="паро">paro</w>
+<w myvId="велькс">v́eĺks</w></FrnTxt>
 </See></dfQsyn1>)</mg>
 </MWUB>
 <MWUB>
@@ -94756,9 +94756,9 @@ des Hauses</t>
 </tg>
 <dfQsyn1>(<See>
 <Function>vgl.</Function>
-<FrnTxt><w CyrId="пель">ṕeĺ</w>
+<FrnTxt><w myvId="пель">ṕeĺ</w>
 <Hph/>
-<w CyrId="кель">ḱeĺ</w></FrnTxt>
+<w myvId="кель">ḱeĺ</w></FrnTxt>
 </See> id.</dfQsyn1>)
 <dfQl1>(
 <GeoU xml:lang="myv">Kad</GeoU>
@@ -95997,10 +95997,10 @@ des Hauses</t>
 <GeoU xml:lang="mdf">Levši</GeoU>
 </l_variants>
 </lg>
-<DerivationBlock>(zu <DrvStCtn><DrvSt><w CyrId="пешксе">ṕeškśe</w></DrvSt></DrvStCtn><re>[? mit adjekt.</re>
+<DerivationBlock>(zu <DrvStCtn><DrvSt><w myvId="пешксе">ṕeškśe</w></DrvSt></DrvStCtn><re>[? mit adjekt.</re>
 <stem><i><tk2>
 <Hph/>
-<w CyrId="нь">ń</w></tk2></i>]</stem>)</DerivationBlock>
+<w myvId="нь">ń</w></tk2></i>]</stem>)</DerivationBlock>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -96509,7 +96509,7 @@ des Hauses</t>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l/><st/>
 </lg>
-<l_drv drvType="diminutive" CyrId="питней">ṕit́ńej</l_drv>
+<l_drv drvType="diminutive" myvId="питней">ṕit́ńej</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -98432,9 +98432,9 @@ des Hauses</t>
 <t pos="A" edit="MK">Haupt des Friedhofes</t>
 </tg>
 (<dfQsyn1 rel="syn"><dfQsyn2><i><tk2>
-<w CyrId="калмазырь">kalmazi͔ŕ</w>
+<w myvId="калмазырь">kalmazi͔ŕ</w>
 <Hph/>
-<w CyrId="покш">pokš</w></tk2></i></dfQsyn2>
+<w myvId="покш">pokš</w></tk2></i></dfQsyn2>
 <GeoU xml:lang="myv">Gor</GeoU>
 </dfQsyn1>)</mg>
 </MWUB>
@@ -98496,8 +98496,8 @@ des Hauses</t>
 <mini_paradigm>
 <InflCtn><DrvT vl="vocative"/>
 <Infl>
-<w CyrId="покш">pokš</w>
-<w CyrId="аляй">aĺaj</w>
+<w myvId="покш">pokš</w>
+<w myvId="аляй">aĺaj</w>
 </Infl>
 </InflCtn>
 </mini_paradigm>
@@ -98523,8 +98523,8 @@ des Hauses</t>
 <tg xml:lang="rus">
 <t pos="A" edit="MK">верхняя рубашка невесты</t>
 </tg>
-<t xml:lang="deu">das obere Hemd der Braut (das untere Hemd heisst <FrnTxt><w CyrId="алга">alga</w>
-<w CyrId="панар">panar</w></FrnTxt>, über beiden Hemden ist <FrnTxt><w CyrId="руця">ruća</w></FrnTxt> Hemdgewand)</t>
+<t xml:lang="deu">das obere Hemd der Braut (das untere Hemd heisst <FrnTxt><w myvId="алга">alga</w>
+<w myvId="панар">panar</w></FrnTxt>, über beiden Hemden ist <FrnTxt><w myvId="руця">ruća</w></FrnTxt> Hemdgewand)</t>
 <dfQl1>(
 <GeoU xml:lang="myv">Mar</GeoU>
 )</dfQl1>
@@ -98661,9 +98661,9 @@ des Hauses</t>
 </l_variants>
 </lg>
 <DerivationBlock>(<i><tk2>
-<w CyrId="покш">pokš</w></tk2></i> + <i><tk2>
-<w CyrId="атя">at́a</w></tk2></i>, <i><tk2>
-<w CyrId="атя">at́ä</w></tk2></i>)</DerivationBlock>
+<w myvId="покш">pokš</w></tk2></i> + <i><tk2>
+<w myvId="атя">at́a</w></tk2></i>, <i><tk2>
+<w myvId="атя">at́ä</w></tk2></i>)</DerivationBlock>
 <mg>
 <tg xml:lang="rus">
 <t pos="A" edit="MK">дед</t>
@@ -99024,11 +99024,11 @@ des Hauses</t>
 </mg>
 <xg>
 <x>
-<w CyrId="да">da</w>
-<w CyrId="покш">pokš</w>
-<w CyrId="покштинень">pokšt́ińeń</w>
+<w myvId="да">da</w>
+<w myvId="покш">pokš</w>
+<w myvId="покштинень">pokšt́ińeń</w>
 <Hph/>
-<w CyrId="бабинень">bab́ińeń</w>
+<w myvId="бабинень">bab́ińeń</w>
 </x>
 <stylistic>poet</stylistic>
 <src1>
@@ -99133,12 +99133,12 @@ des Hauses</t>
 <t pos="A" edit="MK">“большой сват”</t>
 <t pos="A" edit="MK">старший поезжанин</t>
 </tg>
-<t xml:lang="deu">“Gross-Brautwerber”, der mit dem Vater des Bräutigams die erste Brautfahrt (<FrnTxt><w CyrId="ладямо">lad́amo</w></FrnTxt>) macht u. schon früher privat die Meinung der Braut u. ihrer Eltern erkundet (
+<t xml:lang="deu">“Gross-Brautwerber”, der mit dem Vater des Bräutigams die erste Brautfahrt (<FrnTxt><w myvId="ладямо">lad́amo</w></FrnTxt>) macht u. schon früher privat die Meinung der Braut u. ihrer Eltern erkundet (
 <GeoU xml:lang="myv">Ba</GeoU>
-: aus <FrnTxt><w CyrId="п">p</w>
+: aus <FrnTxt><w myvId="п">p</w>
 <tk3 isa="fullstop"/>
-<w CyrId="куда">kuda</w></FrnTxt> wird dann auf der Hochzeit <FrnTxt><w CyrId="ики·льга">iḱi·ĺga</w>
-<w CyrId="яки·ця">jaḱi·ća</w></FrnTxt> [Festmarschall] od. <FrnTxt><w CyrId="ури·див">uŕi·d́iv́</w></FrnTxt> [Brautdiener])</t>
+<w myvId="куда">kuda</w></FrnTxt> wird dann auf der Hochzeit <FrnTxt><w myvId="ики·льга">iḱi·ĺga</w>
+<w myvId="яки·ця">jaḱi·ća</w></FrnTxt> [Festmarschall] od. <FrnTxt><w myvId="ури·див">uŕi·d́iv́</w></FrnTxt> [Brautdiener])</t>
 </mg>
 ;
 <mg>
@@ -99670,7 +99670,7 @@ des Hauses</t>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
-<l_drv drvType="diminutive" CyrId="покшке">pokšḱe</l_drv>
+<l_drv drvType="diminutive" myvId="покшке">pokšḱe</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -99879,7 +99879,7 @@ des Hauses</t>
 <sources>
 <book name="III" pg="144"/>
 </sources>
-<t xml:lang="deu">Sie ‒‒‒ fettet (mit Öl) ein die aus grünen Augen gekommene <FrnTxt><w CyrId="осуд">osud</w></FrnTxt>-Krankheit, ‒‒‒ die Eckzahn-<FrnTxt><w CyrId="осуд">osud</w></FrnTxt>.</t>
+<t xml:lang="deu">Sie ‒‒‒ fettet (mit Öl) ein die aus grünen Augen gekommene <FrnTxt><w myvId="осуд">osud</w></FrnTxt>-Krankheit, ‒‒‒ die Eckzahn-<FrnTxt><w myvId="осуд">osud</w></FrnTxt>.</t>
 </xg>
 </MWUB>
 </e>
@@ -100035,7 +100035,7 @@ des Hauses</t>
 <sources>
 <book name="III" pg="80"/>
 </sources>
-<t xml:lang="deu">Er schlägt ‒‒‒ die aus dem Acker gekommene <FrnTxt><w CyrId="прича">pŕiča</w></FrnTxt>[‑Krankheit] heraus. </t>
+<t xml:lang="deu">Er schlägt ‒‒‒ die aus dem Acker gekommene <FrnTxt><w myvId="прича">pŕiča</w></FrnTxt>[‑Krankheit] heraus. </t>
 </xg>
 </HWB>
 <etymology>
@@ -100709,7 +100709,7 @@ Eine kontam. F. aus russ. <Et>полоса́тый</Et> + Adj. auf ‑<Et>ный
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l/><st/>
 </lg>
-<l_drv drvType="diminutive" CyrId="понав">ponav</l_drv>
+<l_drv drvType="diminutive" myvId="понав">ponav</l_drv>
 <mg copiedFrom="MK:preceding">
 <tg xml:lang="rus">
 <t>пушистое дерево</t>
@@ -102917,15 +102917,15 @@ Eine kontam. F. aus russ. <Et>полоса́тый</Et> + Adj. auf ‑<Et>ный
 </mg>
 <xg>
 <x>
-<w CyrId="паряк">paŕak</w>
-<w CyrId="прась">praś</w>
-<w CyrId="кенкш">ḱeŋkš</w>
+<w myvId="паряк">paŕak</w>
+<w myvId="прась">praś</w>
+<w myvId="кенкш">ḱeŋkš</w>
 <w myvId="-" edit="MK">-</w>
-<w CyrId="порог">porog</w>
-<w CyrId="алов">alov</w>
+<w myvId="порог">porog</w>
+<w myvId="алов">alov</w>
 <w myvId=",">,</w>
-<w CyrId="причинной">pŕičinnoj</w>
-<w CyrId="таркас">tarkas</w>
+<w myvId="причинной">pŕičinnoj</w>
+<w myvId="таркас">tarkas</w>
 </x>
 <GeoNeed/>
 <sources>
@@ -104173,7 +104173,7 @@ Eine kontam. F. aus russ. <Et>полоса́тый</Et> + Adj. auf ‑<Et>ный
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
-<l_drv drvType="diminutive" CyrId="писи">ṕiśi</l_drv>
+<l_drv drvType="diminutive" myvId="писи">ṕiśi</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -104718,7 +104718,7 @@ Eine kontam. F. aus russ. <Et>полоса́тый</Et> + Adj. auf ‑<Et>ный
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l/><st/>
 </lg>
-<l_drv drvType="diminutive" CyrId="пузаня">puzańa</l_drv>
+<l_drv drvType="diminutive" myvId="пузаня">puzańa</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t pos="A" edit="MK">толстенький</t>
@@ -106545,7 +106545,7 @@ Eine kontam. F. aus russ. <Et>полоса́тый</Et> + Adj. auf ‑<Et>ный
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l/><st/>
 </lg>
-<l_drv drvType="diminutive" CyrId="райской">rajskoj</l_drv>
+<l_drv drvType="diminutive" myvId="райской">rajskoj</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t pos="A" edit="MK">райский</t>
@@ -106863,7 +106863,7 @@ Eine kontam. F. aus russ. <Et>полоса́тый</Et> + Adj. auf ‑<Et>ный
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
-<l_drv drvType="diminutive" CyrId="раужо">raužo</l_drv>
+<l_drv drvType="diminutive" myvId="раужо">raužo</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t>черненький</t>
@@ -107810,13 +107810,13 @@ Eine kontam. F. aus russ. <Et>полоса́тый</Et> + Adj. auf ‑<Et>ный
 </mg>
 <xg>
 <x>
-<w CyrId="пелян">ṕeĺan</w>
-<w CyrId="‒‒‒">‒‒‒</w>
-<w CyrId="сокинь">soḱiń</w>
-<w CyrId="алядо">aĺado</w>
+<w myvId="пелян">ṕeĺan</w>
+<w myvId="‒‒‒">‒‒‒</w>
+<w myvId="сокинь">soḱiń</w>
+<w myvId="алядо">aĺado</w>
 <w myvId=",">,</w>
-<w CyrId="раву·жо">ravu·žo</w>
-<w CyrId="палядо">paĺa·do</w>
+<w myvId="раву·жо">ravu·žo</w>
+<w myvId="палядо">paĺa·do</w>
 </x>
 <GeoNeed/>
 <sources>
@@ -109206,7 +109206,7 @@ jedoch auch <Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l/><st/>
 </lg>
-<l_drv drvType="diminutive" CyrId="родной">rodnoj</l_drv>
+<l_drv drvType="diminutive" myvId="родной">rodnoj</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t pos="A" edit="MK">родственничек</t>
@@ -110091,8 +110091,8 @@ Aus der russ. prädik. F. <Et>робка</Et>]
 <t>eine von Mann zu Mann gehende Trinkkelle, die zu Ostern u. an anderen kirchlichen Feiertagen gebraucht wird (in einem Zauberspruch)</t>
 </tg>
 (<dfQsyn1 rel="syn"><dfQsyn2><i><tk2>
-<w CyrId="рядовой">ŕadovoj</w>
-<w CyrId="плошка">ploška</w></tk2></i></dfQsyn2></dfQsyn1>)</mg>
+<w myvId="рядовой">ŕadovoj</w>
+<w myvId="плошка">ploška</w></tk2></i></dfQsyn2></dfQsyn1>)</mg>
 </MWUB>
 <etymology>
 <etymonCtn>
@@ -111004,7 +111004,7 @@ Aus der russ. prädik. F. <Et>робка</Et>]
 <tg xml:lang="rus">
 <t pos="A" edit="MK">болезнь от сатаны</t>
 </tg>
-<t xml:lang="deu">die vom Satan gekommene <FrnTxt><w CyrId="прича">pŕiča</w></FrnTxt>[‑Krankheit]</t>
+<t xml:lang="deu">die vom Satan gekommene <FrnTxt><w myvId="прича">pŕiča</w></FrnTxt>[‑Krankheit]</t>
 </mg>
 </MWUB>
 <etymology>
@@ -111768,7 +111768,7 @@ Adj.-Ableit. von russ. <Et>сего́дня</Et> ‘heute’]
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l/><st/>
 </lg>
-<l_drv drvType="diminutive" CyrId="сееде">śejed́e</l_drv>
+<l_drv drvType="diminutive" myvId="сееде">śejed́e</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t pos="A" edit="MK">густой</t>
@@ -112223,9 +112223,9 @@ Adj.-Ableit. von russ. <Et>сего́дня</Et> ‘heute’]
 <dfLQl1>(
 <GeoU xml:lang="mdf">Sel</GeoU>
 <re>:)</re></dfLQl1>
-<t xml:lang="rus"><FrnTxt><w CyrId="ков">kov</w>
-<w CyrId="–">–</w>
-<w CyrId="сембя">śemb́ä</w></FrnTxt> [чем (дольше) – тем]</t>
+<t xml:lang="rus"><FrnTxt><w myvId="ков">kov</w>
+<w myvId="–">–</w>
+<w myvId="сембя">śemb́ä</w></FrnTxt> [чем (дольше) – тем]</t>
 <tg xml:lang="deu">
 <t>je (länger) – desto</t>
 </tg>
@@ -113426,7 +113426,7 @@ Adj.-Ableit. von russ. <Et>сего́дня</Et> ‘heute’]
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l/><st/>
 </lg>
-<compg drv="X:X»A" type="Der">[<comment/><DrvStCtn><DrvSt><w CyrId="се">śe</w></DrvSt></DrvStCtn><fnct>+</fnct><DrvStCtn><DrvSt><w CyrId="стяма">śt́ama</w></DrvSt></DrvStCtn>]</compg>
+<compg drv="X:X»A" type="Der">[<comment/><DrvStCtn><DrvSt><w myvId="се">śe</w></DrvSt></DrvStCtn><fnct>+</fnct><DrvStCtn><DrvSt><w myvId="стяма">śt́ama</w></DrvSt></DrvStCtn>]</compg>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -113472,9 +113472,9 @@ Adj.-Ableit. von russ. <Et>сего́дня</Et> ‘heute’]
 <lg edit="JMR" xml:lang="mdf"><l/><st/>
 </lg>
 <DerivationBlock>[eine Art Dem. zur Iness.-F. <i><tk2>
-<w CyrId="сесэ">śese͔</w></tk2></i> + Adj.-Suff. <i><tk2>
+<w myvId="сесэ">śese͔</w></tk2></i> + Adj.-Suff. <i><tk2>
 <Hph/>
-<w CyrId="нь">ń</w></tk2></i>]</DerivationBlock>
+<w myvId="нь">ń</w></tk2></i>]</DerivationBlock>
 <SenseGroup>
 <mg>
 <tg xml:lang="rus">
@@ -113487,12 +113487,12 @@ Adj.-Ableit. von russ. <Et>сего́дня</Et> ‘heute’]
 </SenseGroup>
 <xg>
 <x>
-<w CyrId="сесынень">śesi͔ńeń</w>
+<w myvId="сесынень">śesi͔ńeń</w>
 <w myvId=",">,</w>
-<w CyrId="брацы">braci͔</w>
+<w myvId="брацы">braci͔</w>
 <w myvId=",">,</w>
-<w CyrId="цёковт">ćokovt</w>
-<w CyrId="цёкурдыть">ćokurdi͔t́</w>
+<w myvId="цёковт">ćokovt</w>
+<w myvId="цёкурдыть">ćokurdi͔t́</w>
 </x>
 <GeoNeed/>
 <sources>
@@ -114724,7 +114724,7 @@ Adj.-Ableit. von russ. <Et>сего́дня</Et> ‘heute’]
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
-<l_drv drvType="diminutive" CyrId="ситной">śitnoj</l_drv>
+<l_drv drvType="diminutive" myvId="ситной">śitnoj</l_drv>
 <mg copiedFrom="preceding">
 <tg xml:lang="rus">
 <t pos="A" edit="MK">ситный хлеб</t>
@@ -115136,7 +115136,7 @@ Adj.-Ableit. von russ. <Et>сего́дня</Et> ‘heute’]
 <sources>
 <book name="VII" pg="360"/>
 </sources>
-<t xml:lang="deu">Für die schnellen Boten der <FrnTxt><w CyrId="Sавт">Savt</w></FrnTxt> ‒‒‒ seht hier, Geschenke auch für euch!</t>
+<t xml:lang="deu">Für die schnellen Boten der <FrnTxt><w myvId="Sавт">Savt</w></FrnTxt> ‒‒‒ seht hier, Geschenke auch für euch!</t>
 </xg>
 <xg>
 <x>
@@ -115425,7 +115425,7 @@ Adj.-Ableit. von russ. <Et>сего́дня</Et> ‘heute’]
 <t>bedürftig</t>
 <t>arm</t>
 </tg>
-<t xml:lang="deu">notleidend (<cl id="pair">gew. Par.-Wort zu <FrnTxt><w CyrId="бедной">b́ednoj</w></FrnTxt></cl>)</t>
+<t xml:lang="deu">notleidend (<cl id="pair">gew. Par.-Wort zu <FrnTxt><w myvId="бедной">b́ednoj</w></FrnTxt></cl>)</t>
 </mg>
 <xg>
 <x>
@@ -116432,7 +116432,7 @@ Adj.-Ableit. von russ. <Et>сего́дня</Et> ‘heute’]
 </tg>
 <TrlnCtn>
 <Calque xml:lang="deu">blinder Maulwurf</Calque>
-<Cm>grösser als “<FrnTxt><w CyrId="карбаш">karbaš</w></FrnTxt>” [Hamster], wühlt weit unter der Erde herum</Cm>
+<Cm>grösser als “<FrnTxt><w myvId="карбаш">karbaš</w></FrnTxt>” [Hamster], wühlt weit unter der Erde herum</Cm>
 </TrlnCtn>
 </mg>
 </MWUB>
@@ -116989,7 +116989,7 @@ Adj.-Ableit. von russ. <Et>сего́дня</Et> ‘heute’]
 <t>kräftig</t>
 <t>gut gehalten</t>
 </tg>
-<Cm>z.B. <FrnTxt><w CyrId="алаша">alaša</w></FrnTxt> Pferd</Cm>
+<Cm>z.B. <FrnTxt><w myvId="алаша">alaša</w></FrnTxt> Pferd</Cm>
 </TrlnCtn>
 </mg>
 </HWB>
@@ -117039,7 +117039,7 @@ Adj.-Ableit. von russ. <Et>сего́дня</Et> ‘heute’]
 <lg edit="JMR" xml:lang="mdf"><l/><st/>
 </lg>
 <mg>
-<dfQsyn1>[= <FrnTxt><w CyrId="спуск">spusk</w></FrnTxt>]</dfQsyn1>
+<dfQsyn1>[= <FrnTxt><w myvId="спуск">spusk</w></FrnTxt>]</dfQsyn1>
 </mg>
 </MWUB>
 <etymology>
@@ -117318,7 +117318,7 @@ Adj.-Ableit. von russ. <Et>сего́дня</Et> ‘heute’]
 <sources>
 <book name="III" pg="91"/>
 </sources>
-<t xml:lang="deu">Von der von Übelgesinnten, von der von Neidischen gekommenen <FrnTxt><w CyrId="осуд">osud</w></FrnTxt>-Krankheit.</t>
+<t xml:lang="deu">Von der von Übelgesinnten, von der von Neidischen gekommenen <FrnTxt><w myvId="осуд">osud</w></FrnTxt>-Krankheit.</t>
 </xg>
 </HWB>
 <MWUB>
@@ -117547,7 +117547,7 @@ Adj.-Ableit. von russ. <Et>сего́дня</Et> ‘heute’]
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
-<l_drv drvType="diminutive" CyrId="стака">staka</l_drv>
+<l_drv drvType="diminutive" myvId="стака">staka</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t pos="A" edit="MK">тяжёленький</t>
@@ -117671,7 +117671,7 @@ Adj.-Ableit. von russ. <Et>сего́дня</Et> ‘heute’]
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l/><st/>
 </lg>
-<l_drv drvType="diminutive" CyrId="стамед">staḿed</l_drv>
+<l_drv drvType="diminutive" myvId="стамед">staḿed</l_drv>
 <mg copiedFrom="preceding">
 <tg xml:lang="rus">
 <t pos="A" edit="MK">стамедный</t>
@@ -117851,20 +117851,20 @@ Adj.-Ableit. von russ. <Et>сего́дня</Et> ‘heute’]
 </mg>
 <xg>
 <x>
-<w CyrId="кона">kona</w>
-<w CyrId="алинесь">aĺińeś</w>
+<w myvId="кона">kona</w>
+<w myvId="алинесь">aĺińeś</w>
 <w myvId=",">,</w>
-<w CyrId="брацы">braci͔</w>
+<w myvId="брацы">braci͔</w>
 <w myvId=",">,</w>
-<w CyrId="станливой">stańĺivoj</w>
+<w myvId="станливой">stańĺivoj</w>
 <w myvId=",">,</w>
-<w CyrId="уш">uš</w>
-<w CyrId="валцкинень">valcḱińeń</w>
-<w CyrId="рана">rana</w>
+<w myvId="уш">uš</w>
+<w myvId="валцкинень">valcḱińeń</w>
+<w myvId="рана">rana</w>
 <w myvId=",">,</w>
-<w CyrId="брацы">braci͔</w>
+<w myvId="брацы">braci͔</w>
 <w myvId=",">,</w>
-<w CyrId="паксясо">pakśaso</w>
+<w myvId="паксясо">pakśaso</w>
 </x>
 <GeoNeed/>
 <sources>
@@ -118437,7 +118437,7 @@ Adj.-Ableit. von russ. <Et>сего́дня</Et> ‘heute’]
 <tg xml:lang="rus">
 <t pos="A" edit="MK">вышивка в подоле и на обшлаге рубашки</t>
 </tg>
-<t xml:lang="deu">eine Stickerei am Schosse des Hemdes u. an der Ärmeleinfassung, die mit einer anderen Stickerei namens <FrnTxt><w CyrId="алга">alga</w></FrnTxt> abwechselt</t>
+<t xml:lang="deu">eine Stickerei am Schosse des Hemdes u. an der Ärmeleinfassung, die mit einer anderen Stickerei namens <FrnTxt><w myvId="алга">alga</w></FrnTxt> abwechselt</t>
 </mg>
 </HWB>
 <etymology>
@@ -120137,7 +120137,7 @@ Adj.-Ableit. von russ. <Et>сего́дня</Et> ‘heute’]
 <GeoU xml:lang="myv">Mar</GeoU>
  auch [<CapI>
 <i><tk2>
-<w CyrId="сывелев">si͔v́eĺev</w></tk2></i></CapI>]:)</dfLQl1><tg xml:lang="rus">
+<w myvId="сывелев">si͔v́eĺev</w></tk2></i></CapI>]:)</dfLQl1><tg xml:lang="rus">
 <t pos="A" edit="MK">(кусочек мяса), содержащий мало костей</t>
 </tg>
 <tg xml:lang="deu">
@@ -120987,9 +120987,9 @@ Russ., aus der prädik. F. <Et>сыра &lt; сыро́й</Et>]
 <tg xml:lang="deu">
 <t>Stammgut der Sippe</t>
 </tg>
-<dfQsyn1>(eig.: altes Haus; s. <FrnTxt><w CyrId="ойме">ojḿe</w></FrnTxt>: <FrnTxt><w CyrId="ойме">ojḿe</w>
+<dfQsyn1>(eig.: altes Haus; s. <FrnTxt><w myvId="ойме">ojḿe</w></FrnTxt>: <FrnTxt><w myvId="ойме">ojḿe</w>
 <Hph/>
-<w CyrId="кедьгя">ḱed́ǵä</w></FrnTxt></dfQsyn1>)</mg>
+<w myvId="кедьгя">ḱed́ǵä</w></FrnTxt></dfQsyn1>)</mg>
 </MWUB>
 <MWUB>
 <E3Head><POS/></E3Head>
@@ -121029,15 +121029,15 @@ Russ., aus der prädik. F. <Et>сыра &lt; сыро́й</Et>]
 </mg>
 <xg>
 <x>
-<w CyrId="монь">moń</w>
-<w edit="MK" CyrId="ошə̑зя">ošə̑źä</w>
-<w CyrId="краснай">krasnaj</w>
-<w CyrId="слобдась">slobdaś</w>
+<w mdfId="монь">moń</w>
+<w edit="MK" mdfId="ошə̑зя">ošə̑źä</w>
+<w mdfId="краснай">krasnaj</w>
+<w mdfId="слобдась">slobdaś</w>
 <w mdfId=",">,</w>
-<w edit="MK" CyrId="велезень">v́eĺəźəń</w>
-<w edit="MK" CyrId="лемəтс">ĺeməts</w>
-<w edit="MK" CyrId="серь">śəŕ</w>
-<w CyrId="малавсь">mala·vś</w>
+<w edit="MK" mdfId="велезень">v́eĺəźəń</w>
+<w edit="MK" mdfId="лемəтс">ĺeməts</w>
+<w edit="MK" mdfId="серь">śəŕ</w>
+<w mdfId="малавсь">mala·vś</w>
 </x>
 <GeoNeed/>
 <sources>
@@ -121172,15 +121172,15 @@ Russ., aus der prädik. F. <Et>сыра &lt; сыро́й</Et>]
 </mg>
 <xg>
 <x>
-<w CyrId="сонь">soń</w>
-<w edit="MK" CyrId="рамазя">ramaźä</w>
-<w edit="MK" CyrId="сере">śeŕe</w>
-<w CyrId="пше·нста">pše·nsta</w>
+<w mdfId="сонь">soń</w>
+<w edit="MK" mdfId="рамазя">ramaźä</w>
+<w edit="MK" mdfId="сере">śeŕe</w>
+<w mdfId="пше·нста">pše·nsta</w>
 <w mdfId=",">,</w>
-<w CyrId="иван">iva·n</w>
+<w mdfId="иван">iva·n</w>
 <w mdfId="-" edit="MK">-</w>
-<w edit="MK" CyrId="атя">at́ä</w>
-<w edit="MK" CyrId="торгавазя">torgavaźä</w>
+<w edit="MK" mdfId="атя">at́ä</w>
+<w edit="MK" mdfId="торгавазя">torgavaźä</w>
 </x>
 <GeoNeed/>
 <sources>
@@ -121420,7 +121420,7 @@ Russ., aus der prädik. F. <Et>сыра &lt; сыро́й</Et>]
 <t>im bejahrten Alter</t>
 <t>in alten Tagen;</t>
 </tg>
-<dfQsyn1>(vgl. unten <FrnTxt><w CyrId="сыредезь">si͔ŕed́eź</w></FrnTxt></dfQsyn1>)</mg>
+<dfQsyn1>(vgl. unten <FrnTxt><w myvId="сыредезь">si͔ŕed́eź</w></FrnTxt></dfQsyn1>)</mg>
 </MWUB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
@@ -123671,7 +123671,7 @@ Russ., aus der prädik. F. <Et>сыра &lt; сыро́й</Et>]
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l/><st/>
 </lg>
-<l_drv drvType="diminutive" CyrId="сэрей">se͔ŕej</l_drv>
+<l_drv drvType="diminutive" myvId="сэрей">se͔ŕej</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t pos="A" edit="MK">высокий</t>
@@ -124433,7 +124433,7 @@ Russ., aus der prädik. F. <Et>сыра &lt; сыро́й</Et>]
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l/><st/>
 </lg>
-<l_drv drvType="diminutive" CyrId="сярьфтюма">śäŕft́uma</l_drv>
+<l_drv drvType="diminutive" myvId="сярьфтюма">śäŕft́uma</l_drv>
 <mg>
 <Sense vl="previous"/>
 </mg>
@@ -124798,9 +124798,9 @@ Russ., aus der prädik. F. <Et>сыра &lt; сыро́й</Et>]
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
 <DerivationBlock>[Adj. aus einem unbel. Subst. <stem><FrCm freeType="analogy" Modification="manus"/><i><tk2>
-<w CyrId="сюпа">śupa</w></tk2></i></stem></DerivationBlock>,
+<w myvId="сюпа">śupa</w></tk2></i></stem></DerivationBlock>,
 <DerivationBlock>vgl. <i><tk2>
-<w CyrId="цепа">ćəpa·</w></tk2></i>]
+<w myvId="цепа">ćəpa·</w></tk2></i>]
 <GeoU xml:lang="mdf" edit="MK">P</GeoU>
 </DerivationBlock>
 <mg>
@@ -124813,9 +124813,9 @@ Russ., aus der prädik. F. <Et>сыра &lt; сыро́й</Et>]
 <t pos="A">wohlhabend</t>
 </tg>(
 <GeoU xml:lang="myv">Mar</GeoU>
-: mehr als <FrnTxt><w CyrId="улев">uĺev</w>
+: mehr als <FrnTxt><w myvId="улев">uĺev</w>
 <Hph/>
-<w CyrId="паров">parov</w></FrnTxt>)
+<w myvId="паров">parov</w></FrnTxt>)
 </mg>
 <xg>
 <x>
@@ -124959,8 +124959,8 @@ Russ., aus der prädik. F. <Et>сыра &lt; сыро́й</Et>]
 </tg>
 <TrlnCtn>
 <Calque xml:lang="deu">Reichtums-Garbe</Calque>
-<Cm>die letzte Garbe, die als Glücksbringer betrachtet wird u. als solche bis zur neuen Ernte in der Darre aufbewahrt wird; = <FrnTxt><w CyrId="колода">koloda</w>
-<w CyrId="пулцт">pulct</w></FrnTxt></Cm>
+<Cm>die letzte Garbe, die als Glücksbringer betrachtet wird u. als solche bis zur neuen Ernte in der Darre aufbewahrt wird; = <FrnTxt><w myvId="колода">koloda</w>
+<w myvId="пулцт">pulct</w></FrnTxt></Cm>
 </TrlnCtn>
 </mg>
 <xg>
@@ -125490,7 +125490,7 @@ Russ., aus der prädik. F. <Et>сыра &lt; сыро́й</Et>]
 </tg>
 [<See>
 <Function>vgl.</Function>
-<FrnTxt><w CyrId="сюров">śurov</w></FrnTxt>
+<FrnTxt><w myvId="сюров">śurov</w></FrnTxt>
 </See>] 
 <GeoU xml:lang="myv" edit="MK">Gor</GeoU>
 <GeoU xml:lang="myv" edit="MK">Škud</GeoU>
@@ -126720,11 +126720,11 @@ Russ., aus der prädik. F. <Et>сыра &lt; сыро́й</Et>]
 </tg>
 <t xml:lang="deu">“bunter Streifen” (
 <GeoU xml:lang="myv">VVr</GeoU>
-: in der <FrnTxt><w CyrId="эльзире">eĺźiŕe</w>
+: in der <FrnTxt><w myvId="эльзире">eĺźiŕe</w>
 <Hph/>
-<w CyrId="вакс">vaks</w></FrnTxt>-Stickerei; 
+<w myvId="вакс">vaks</w></FrnTxt>-Stickerei; 
 <GeoU xml:lang="myv">Is</GeoU>
-: in der <FrnTxt><w CyrId="таргавкс">targavks</w></FrnTxt> [= Stickerei])</t>
+: in der <FrnTxt><w myvId="таргавкс">targavks</w></FrnTxt> [= Stickerei])</t>
 </mg>
 </MWUB>
 <MWUB>
@@ -126836,9 +126836,9 @@ Russ., aus der prädik. F. <Et>сыра &lt; сыро́й</Et>]
 </tg>
 <IntSciTerm>Corvus cornix</IntSciTerm>
 </TrlnCtn>(<dfQsyn1 rel="syn"><dfQsyn2><i><tk2>
-<w CyrId="ашо">ašo</w>
-<w CyrId="ланго">laŋgo</w>
-<w CyrId="варака">varaka</w></tk2></i></dfQsyn2>
+<w myvId="ашо">ašo</w>
+<w myvId="ланго">laŋgo</w>
+<w myvId="варака">varaka</w></tk2></i></dfQsyn2>
 <GeoU xml:lang="myv">SŠant</GeoU>
 </dfQsyn1>)</mg>
 </MWUB>
@@ -128085,7 +128085,7 @@ Russ., aus der prädik. F. <Et>сыра &lt; сыро́й</Et>]
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
-<l_drv drvType="diminutive" CyrId="тарч">tarč</l_drv>
+<l_drv drvType="diminutive" myvId="тарч">tarč</l_drv>
 <mg copiedFrom="preceding">
 <tg xml:lang="rus">
 <t pos="A" edit="MK">очень оживлённый</t>
@@ -128134,7 +128134,7 @@ Russ., aus der prädik. F. <Et>сыра &lt; сыро́й</Et>]
 </lg>
 <compg drv="X:X»A" type="Der">(<Cm>&lt;</Cm><source>*<CapI>
 <i><tk2>
-<w CyrId="тардек">taŕd́ek</w></tk2></i></CapI>)</source></compg>
+<w myvId="тардек">taŕd́ek</w></tk2></i></CapI>)</source></compg>
 <mg>
 <tg xml:lang="rus">
 <t pos="A" edit="MK">холодный</t>
@@ -128590,10 +128590,10 @@ Russ., aus der prädik. F. <Et>сыра &lt; сыро́й</Et>]
 <tg xml:lang="rus">
 <t pos="A" edit="MK">ошмёток</t>
 </tg>
-<t xml:lang="deu">abgetragener Bastschuh (= <FrnTxt><w CyrId="лата">lata</w>
+<t xml:lang="deu">abgetragener Bastschuh (= <FrnTxt><w myvId="лата">lata</w>
 <Hph/>
-<w CyrId="карь">kaŕ</w></FrnTxt>) [wohl anal. aus Pl.-F. <FrnTxt><w CyrId="ташт">tašt</w>
-<w CyrId="карьхть">kaŕʿt́</w></FrnTxt>]</t>
+<w myvId="карь">kaŕ</w></FrnTxt>) [wohl anal. aus Pl.-F. <FrnTxt><w myvId="ташт">tašt</w>
+<w myvId="карьхть">kaŕʿt́</w></FrnTxt>]</t>
 </mg>
 </MWUB>
 <MWUB>
@@ -129060,7 +129060,7 @@ Russ., aus der prädik. F. <Et>сыра &lt; сыро́й</Et>]
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
-<l_drv drvType="diminutive" CyrId="те(й)іне">t́e(j)ińe</l_drv>
+<l_drv drvType="diminutive" myvId="те(й)іне">t́e(j)ińe</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t>узенький</t>
@@ -129092,7 +129092,7 @@ Russ., aus der prädik. F. <Et>сыра &lt; сыро́й</Et>]
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
-<l_drv drvType="diminutive" CyrId="теінька">t́eińka</l_drv>
+<l_drv drvType="diminutive" myvId="теінька">t́eińka</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t pos="A" edit="MK">узенький</t>
@@ -129174,11 +129174,11 @@ Russ., aus der prädik. F. <Et>сыра &lt; сыро́й</Et>]
 </mg>
 <xg>
 <x>
-<w CyrId="пукшов">pukšov</w>
+<w myvId="пукшов">pukšov</w>
 <w myvId=",">,</w>
-<w CyrId="телав">t́elav</w>
-<w CyrId="иля">iĺa</w>
-<w CyrId="уль">uĺ</w>
+<w myvId="телав">t́elav</w>
+<w myvId="иля">iĺa</w>
+<w myvId="уль">uĺ</w>
 </x>
 <GeoNeed/>
 <xt xml:lang="deu">[Sei nicht muskelig und beleibt!].</xt>
@@ -131894,8 +131894,8 @@ prädik. F. von <Et>тяжёлый</Et>]
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
 <mg>
-<t xml:lang="rus">[импр. паралл. слово без значения к <FrnTxt><w CyrId="тазов">tazov</w></FrnTxt></t>
-<t xml:lang="deu">bedeutungsloses, impr. (<cl id="pair">Par.-Wort zu <FrnTxt><w CyrId="тазов">tazov</w></FrnTxt></cl>)</t>
+<t xml:lang="rus">[импр. паралл. слово без значения к <FrnTxt><w myvId="тазов">tazov</w></FrnTxt></t>
+<t xml:lang="deu">bedeutungsloses, impr. (<cl id="pair">Par.-Wort zu <FrnTxt><w myvId="тазов">tazov</w></FrnTxt></cl>)</t>
 </mg>
 ;
 <mg>
@@ -132502,7 +132502,7 @@ prädik. F. von <Et>тяжёлый</Et>]
 <t pos="A" edit="MK">stumpf</t>
 </tg>
 (<dfQsyn1 rel="syn"><dfQsyn2><i><tk2>
-<w CyrId="тупаза">tupaza</w></tk2></i></dfQsyn2></dfQsyn1>)</mg>
+<w myvId="тупаза">tupaza</w></tk2></i></dfQsyn2></dfQsyn1>)</mg>
 </HWB>
 </e>
   <e>
@@ -132937,7 +132937,7 @@ auch
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
-<l_drv drvType="diminutive" CyrId="тусто">tusto</l_drv>
+<l_drv drvType="diminutive" myvId="тусто">tusto</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t pos="A" edit="MK">густой</t>
@@ -133630,8 +133630,8 @@ auch
 </tg>
 <IntSciTerm>Sinapis</IntSciTerm>
 </TrlnCtn>(<dfQsyn1 rel="syn"><dfQsyn2><i><tk2>
-<w CyrId="шапам">šapam</w>
-<w CyrId="ти·кшӓ">t́i·kšä</w></tk2></i></dfQsyn2>
+<w myvId="шапам">šapam</w>
+<w myvId="ти·кшӓ">t́i·kšä</w></tk2></i></dfQsyn2>
 <GeoU xml:lang="myv">Kad</GeoU>
 </dfQsyn1>)</mg>
 </MWUB>
@@ -134435,7 +134435,7 @@ auch
 </tg>
 <Cm>
 <GeoU xml:lang="myv">Mar</GeoU>
-: weniger als <FrnTxt><w CyrId="эрикс">eŕiks</w></FrnTxt></Cm>
+: weniger als <FrnTxt><w myvId="эрикс">eŕiks</w></FrnTxt></Cm>
 </TrlnCtn>
 </mg>
 </HWB>
@@ -134819,10 +134819,10 @@ Aus der russ. prädik. F. <Et>упря́м</Et>]
 </mg>
 <xg>
 <x>
-<w CyrId="упрямой">upŕamoj</w>
-<w CyrId="прича">pŕiča</w>
+<w myvId="упрямой">upŕamoj</w>
+<w myvId="прича">pŕiča</w>
 </x>
-<t xml:lang="deu">Hartnäckige <FrnTxt><w CyrId="прича">pŕiča</w></FrnTxt>[‑Krankheit].</t>
+<t xml:lang="deu">Hartnäckige <FrnTxt><w myvId="прича">pŕiča</w></FrnTxt>[‑Krankheit].</t>
 </xg>
 </HWB>
 <etymology>
@@ -134850,7 +134850,7 @@ Aus der russ. prädik. F. <Et>упря́м</Et>]
 <lg edit="JMR" xml:lang="mdf"><l/><st/>
 </lg>
 <DerivationBlock>[Adj. aus <i><tk2>
-<w CyrId="уре">uŕe</w></tk2></i>]</DerivationBlock>
+<w myvId="уре">uŕe</w></tk2></i>]</DerivationBlock>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -135539,7 +135539,7 @@ Aus der russ. prädik. F. <Et>упря́м</Et>]
 <lg edit="JMR" xml:lang="mdf"><l/><st/>
 </lg>
 <DerivationBlock>(Gen.-, pleon. gebildet aus <i><tk2>
-<w CyrId="царской">carskoj</w></tk2></i>)</DerivationBlock>
+<w myvId="царской">carskoj</w></tk2></i>)</DerivationBlock>
 <mg>
 <Syntax function="Adj"/>
 <Calque xml:lang="rus">[небесный</Calque>
@@ -135660,7 +135660,7 @@ Aus der russ. prädik. F. <Et>упря́м</Et>]
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l/><st/>
 </lg>
-<l_drv drvType="diminutive" CyrId="царской">carskoj</l_drv>
+<l_drv drvType="diminutive" myvId="царской">carskoj</l_drv>
 <mg>
 <Calque xml:lang="rus">[небесный</Calque>
 <tg xml:lang="rus">
@@ -138317,7 +138317,7 @@ Nach Utsch. schwört man folgenderweise: [am Tage:] <x>
 <t>[овца</t>
 <Cm>“мягкошерстный”; тайное слово</Cm>
 </tg>
-<t xml:lang="deu">“Weichhaariges” = Schaf] (Geheimw.; = <FrnTxt><w CyrId="реве">ŕev́e</w></FrnTxt>)</t>
+<t xml:lang="deu">“Weichhaariges” = Schaf] (Geheimw.; = <FrnTxt><w myvId="реве">ŕev́e</w></FrnTxt>)</t>
 </mg>
 </MWUB>
 <MWUB>
@@ -139602,12 +139602,12 @@ Nach Utsch. schwört man folgenderweise: [am Tage:] <x>
 </mg>
 <xg>
 <x>
-<w CyrId="уж">už</w>
-<w CyrId="не">ńe</w>
-<w CyrId="ве">v́e</w>
-<w CyrId="сельтне">śeĺt́ńe</w>
-<w CyrId="чирь">čiŕ</w>
-<w CyrId="куркне">kurkńe</w>
+<w myvId="уж">už</w>
+<w myvId="не">ńe</w>
+<w myvId="ве">v́e</w>
+<w myvId="сельтне">śeĺt́ńe</w>
+<w myvId="чирь">čiŕ</w>
+<w myvId="куркне">kurkńe</w>
 </x>
 <GeoNeed/>
 <sources>
@@ -139640,10 +139640,10 @@ Nach Utsch. schwört man folgenderweise: [am Tage:] <x>
 </mg>
 <xg>
 <x>
-<w CyrId="мельганзо">ḿeĺganᴣo</w>
-<w CyrId="чирь">čiŕ</w>
-<w CyrId="мукоро">mukoro</w>
-<w CyrId="танька">tańka</w>
+<w myvId="мельганзо">ḿeĺganᴣo</w>
+<w myvId="чирь">čiŕ</w>
+<w myvId="мукоро">mukoro</w>
+<w myvId="танька">tańka</w>
 </x>
 <GeoNeed/>
 <sources>
@@ -140520,7 +140520,7 @@ Nach Utsch. schwört man folgenderweise: [am Tage:] <x>
 <GeoU xml:lang="mdf">Jurtk</GeoU>
 </l_variants>
 </lg>
-<compg drv="X:X»A" type="Der">(<l_drv drvType="diminutive" CyrId="чова">čova</l_drv><Cm>usw</Cm>)</compg>
+<compg drv="X:X»A" type="Der">(<l_drv drvType="diminutive" myvId="чова">čova</l_drv><Cm>usw</Cm>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t>тоненький</t>
@@ -140677,7 +140677,7 @@ Nach Utsch. schwört man folgenderweise: [am Tage:] <x>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
-<l_drv drvType="diminutive" CyrId="чова">čova</l_drv>
+<l_drv drvType="diminutive" myvId="чова">čova</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t pos="A" edit="MK">тоненький</t>
@@ -140686,7 +140686,7 @@ Nach Utsch. schwört man folgenderweise: [am Tage:] <x>
 <tg xml:lang="deu">
 <t>dünn</t>
 </tg>
-<Cm><FrnTxt><w CyrId="вальгей">vaĺǵej</w></FrnTxt> Stimme</Cm>
+<Cm><FrnTxt><w myvId="вальгей">vaĺǵej</w></FrnTxt> Stimme</Cm>
 </TrlnCtn>
 </mg>
 <xg>
@@ -140792,7 +140792,7 @@ Nach Utsch. schwört man folgenderweise: [am Tage:] <x>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
-<compg drv="X:X»A" type="Der"><DrvT vl="diminutive"/><DrvStCtn><FrCm freeType="analogy" Modification="manus"/><DrvSt><w CyrId="човинька">čov́ińka</w></DrvSt></DrvStCtn></compg>
+<compg drv="X:X»A" type="Der"><DrvT vl="diminutive"/><DrvStCtn><FrCm freeType="analogy" Modification="manus"/><DrvSt><w myvId="човинька">čov́ińka</w></DrvSt></DrvStCtn></compg>
 <mg>
 <tg xml:lang="rus">
 <t pos="A" edit="MK">очень тонкий</t>
@@ -140916,7 +140916,7 @@ Nach Utsch. schwört man folgenderweise: [am Tage:] <x>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
-<compg drv="X:X»A" type="Der"><DrvT vl="diminutive"/><DrvStCtn><FrCm freeType="analogy" Modification="manus"/><DrvSt><w CyrId="чождыŋ́ка">čoždi͔ŋ́ka</w></DrvSt></DrvStCtn></compg>
+<compg drv="X:X»A" type="Der"><DrvT vl="diminutive"/><DrvStCtn><FrCm freeType="analogy" Modification="manus"/><DrvSt><w myvId="чождыŋ́ка">čoždi͔ŋ́ka</w></DrvSt></DrvStCtn></compg>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -143462,7 +143462,7 @@ Nach Utsch. schwört man folgenderweise: [am Tage:] <x>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
-<l_drv drvType="diminutive" CyrId="шожда">šožda</l_drv>
+<l_drv drvType="diminutive" myvId="шожда">šožda</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t pos="A" edit="MK">лёгонький</t>
@@ -143810,10 +143810,10 @@ Nach Utsch. schwört man folgenderweise: [am Tage:] <x>
 </mg>
 <xg>
 <x>
-<w CyrId="сон">son</w>
-<w CyrId="штадо">štado</w>
-<w CyrId="прят">pŕat</w>
-<w CyrId="лись">ĺiś</w>
+<w myvId="сон">son</w>
+<w myvId="штадо">štado</w>
+<w myvId="прят">pŕat</w>
+<w myvId="лись">ĺiś</w>
 </x>
 <GeoNeed/>
 <xt xml:lang="deu">Er ging barhaupt hinaus.</xt>
@@ -145391,8 +145391,7 @@ Nach Utsch. schwört man folgenderweise: [am Tage:] <x>
 <GeoU xml:lang="myv">Mar</GeoU>
  <sources>
 <book name="Chr" xml:lang="mdf"/>
-</sources> <i>[jɛškə-</i>, <FrnTxt><w CyrId="эшкə">eškə</w>
-<Hph/>
+</sources> <i>[jɛškə-</i>, <FrnTxt><w CyrId="эшкə">eškə-</w>
 <w CyrId="]">]</w></FrnTxt></Cm>
 </TrlnCtn>
 </mg>
@@ -145625,7 +145624,7 @@ Nach Utsch. schwört man folgenderweise: [am Tage:] <x>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="N"/><st/>
 </lg>
-<l_drv drvType="diminutive" CyrId="экшей">ekšej</l_drv>
+<l_drv drvType="diminutive" myvId="экшей">ekšej</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t pos="A" edit="MK">? родник</t>
@@ -145697,7 +145696,7 @@ Nach Utsch. schwört man folgenderweise: [am Tage:] <x>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
-<l_drv drvType="diminutive" CyrId="экше">e͔kše</l_drv>
+<l_drv drvType="diminutive" myvId="экше">e͔kše</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t>холодноватый</t>
@@ -147752,7 +147751,7 @@ Nach Utsch. schwört man folgenderweise: [am Tage:] <x>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
-<l_drv drvType="diminutive" CyrId="эчке">ečḱe</l_drv>
+<l_drv drvType="diminutive" myvId="эчке">ečḱe</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t pos="A" edit="MK">толстенький</t>
@@ -148965,7 +148964,7 @@ Nach Utsch. schwört man folgenderweise: [am Tage:] <x>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
-<l_drv drvType="diminutive" CyrId="якстере">jakśt́eŕe</l_drv>
+<l_drv drvType="diminutive" myvId="якстере">jakśt́eŕe</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -150559,7 +150558,7 @@ Nach Utsch. schwört man folgenderweise: [am Tage:] <x>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
-<compg drv="X:X»A" type="Der"><DrvTCtn><DrvT edit="MK" vl="diminutive"/></DrvTCtn>[<DrvStCtn><DrvSt><w CyrId="ёмка">jomka</w></DrvSt></DrvStCtn>]</compg>
+<compg drv="X:X»A" type="Der"><DrvTCtn><DrvT edit="MK" vl="diminutive"/></DrvTCtn>[<DrvStCtn><DrvSt><w myvId="ёмка">jomka</w></DrvSt></DrvStCtn>]</compg>
 <mg copiedFrom="preceding">
 <tg xml:lang="rus">
 <t pos="A" edit="MK">ложбина</t>
@@ -150986,7 +150985,7 @@ Nach Utsch. schwört man folgenderweise: [am Tage:] <x>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
-<l_drv drvType="diminutive" CyrId="ён">jon</l_drv>
+<l_drv drvType="diminutive" myvId="ён">jon</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t pos="A" edit="MK">хорошенький</t>
@@ -153246,9 +153245,9 @@ Nach Utsch. schwört man folgenderweise: [am Tage:] <x>
 <tg xml:lang="deu">
 <t>Hinterpforte</t>
 </tg>
-<t xml:lang="deu">Pforte, die vom Hinterhof auf die Dreschtenne (<FrnTxt><w CyrId="тинге">t́iŋǵe</w>
+<t xml:lang="deu">Pforte, die vom Hinterhof auf die Dreschtenne (<FrnTxt><w myvId="тинге">t́iŋǵe</w>
 <Hph/>
-<w CyrId="пире">ṕiŕe</w></FrnTxt>) führt</t>
+<w myvId="пире">ṕiŕe</w></FrnTxt>) führt</t>
 <dfQl1>(
 <GeoU xml:lang="myv">Mar</GeoU>
 <GeoU xml:lang="myv">Ba</GeoU>
@@ -153263,8 +153262,8 @@ Nach Utsch. schwört man folgenderweise: [am Tage:] <x>
 <tg xml:lang="deu">
 <t>? Gassenpforte</t>
 </tg>
-<Cm>der Hof ist auf der Strassenseite höher, <FrnTxt><w CyrId="ало">alo</w>
-<w CyrId="орта">orta</w></FrnTxt> [Unterpforte] ist gegen den Fluss hin</Cm>
+<Cm>der Hof ist auf der Strassenseite höher, <FrnTxt><w myvId="ало">alo</w>
+<w myvId="орта">orta</w></FrnTxt> [Unterpforte] ist gegen den Fluss hin</Cm>
 </TrlnCtn>
 <dfQl1>(
 <GeoU xml:lang="myv">Večk</GeoU>
@@ -153586,8 +153585,8 @@ Nach Utsch. schwört man folgenderweise: [am Tage:] <x>
 </tg>
 <t xml:lang="deu">das obere Stockwerk des zweistöckigen Speichers; <See>
 <Function>vgl.</Function>
-<FrnTxt><w CyrId="ал">al</w>
-<w CyrId="утомо">utomo</w></FrnTxt>
+<FrnTxt><w myvId="ал">al</w>
+<w myvId="утомо">utomo</w></FrnTxt>
 </See></t>
 <dfQl1>(
 <GeoU xml:lang="myv">Mar</GeoU>
@@ -154529,9 +154528,9 @@ Nach Utsch. schwört man folgenderweise: [am Tage:] <x>
 <tg xml:lang="rus">
 <t pos="A" edit="MK">верхние портянки</t>
 </tg>
-<t xml:lang="deu">der obere Beinwickel (der untere heisst <FrnTxt><w CyrId="пильге">ṕiĺǵe</w>
+<t xml:lang="deu">der obere Beinwickel (der untere heisst <FrnTxt><w myvId="пильге">ṕiĺǵe</w>
 <Hph/>
-<w CyrId="петькс">ṕet́ks</w></FrnTxt>)</t>
+<w myvId="петькс">ṕet́ks</w></FrnTxt>)</t>
 </mg>
 </MWUB>
 <MWUB>
@@ -155351,19 +155350,19 @@ Nach Utsch. schwört man folgenderweise: [am Tage:] <x>
 </mg>
 <xg>
 <x>
-<w CyrId="покштинень">pokšt́ińeń</w>
+<w myvId="покштинень">pokšt́ińeń</w>
 <Hph/>
-<w CyrId="бабинень">bab́ińeń</w>
+<w myvId="бабинень">bab́ińeń</w>
 <w myvId=",">,</w>
-<w CyrId="виде">v́id́e</w>
+<w myvId="виде">v́id́e</w>
 <Hph/>
-<w CyrId="чисэ">čise͔</w>
-<w CyrId="ломандяд">lomańd́ad</w>
+<w myvId="чисэ">čise͔</w>
+<w myvId="ломандяд">lomańd́ad</w>
 <w myvId=",">,</w>
-<w CyrId="арасть">araśt́</w>
-<w CyrId="грех́энк">ǵŕeᵪ́eŋk</w>
+<w myvId="арасть">araśt́</w>
+<w myvId="грех́энк">ǵŕeᵪ́eŋk</w>
 <Hph/>
-<w CyrId="пежетенк">ṕežet́eŋk</w>
+<w myvId="пежетенк">ṕežet́eŋk</w>
 </x>
 [E]
 <xt xml:lang="deu">Ahnen, ihr seid selige Leute, ihr habt keine Sünden und Verbrechen.</xt>
@@ -155522,9 +155521,9 @@ Nach Utsch. schwört man folgenderweise: [am Tage:] <x>
 <lg edit="JMR" xml:lang="mdf"><l pos="Adv"/><st/>
 </lg>
 <DerivationBlock>[<i><tk2>
-<w CyrId="видь">v́id́</w></tk2></i> + <i><tk2>
-<w CyrId="шка">ška</w></tk2></i> + <i><tk2>
-<w CyrId="с">s</w></tk2></i>; Ill.]</DerivationBlock>
+<w myvId="видь">v́id́</w></tk2></i> + <i><tk2>
+<w myvId="шка">ška</w></tk2></i> + <i><tk2>
+<w myvId="с">s</w></tk2></i>; Ill.]</DerivationBlock>
 <mg>
 <tg xml:lang="rus">
 <t pos="A" edit="MK">куда-нибудь</t>
@@ -155535,9 +155534,9 @@ Nach Utsch. schwört man folgenderweise: [am Tage:] <x>
 </mg>
 <xg>
 <x>
-<w CyrId="карксамо">karksamo</w>
-<w edit="MK" CyrId="вичкас">v́ičkas</w>
-<w CyrId="руцинест">rućińest</w>
+<w myvId="карксамо">karksamo</w>
+<w edit="MK" myvId="вичкас">v́ičkas</w>
+<w myvId="руцинест">rućińest</w>
 </x>
 <GeoNeed/>
 <sources>
@@ -155845,7 +155844,7 @@ Nach Utsch. schwört man folgenderweise: [am Tage:] <x>
 <lg edit="JMR" xml:lang="mdf"><l pos="Adv"/><st/>
 </lg>
 <DerivationBlock>( aus Dem.-F. <stem><FrCm freeType="analogy" Modification="manus"/><i><tk2>
-<w CyrId="лавчине">lavči͔ńe</w></tk2></i></stem>)</DerivationBlock>
+<w myvId="лавчине">lavči͔ńe</w></tk2></i></stem>)</DerivationBlock>
 <mg>
 <Syntax function="Adv"/>
 <tg xml:lang="rus">
@@ -157183,7 +157182,7 @@ Nach Utsch. schwört man folgenderweise: [am Tage:] <x>
 <lg edit="JMR" xml:lang="mdf"><l pos="Adv"/><st/>
 </lg>
 <DerivationBlock>( aus <stem><FrCm freeType="analogy" Modification="manus"/><i><tk2>
-<w CyrId="пишчиля">ṕišči͔ĺa</w></tk2></i></stem>)</DerivationBlock>
+<w myvId="пишчиля">ṕišči͔ĺa</w></tk2></i></stem>)</DerivationBlock>
 <mg>
 <Syntax function="Adv"/>
 <tg xml:lang="rus">
@@ -157457,7 +157456,7 @@ Nach Utsch. schwört man folgenderweise: [am Tage:] <x>
 <t>wirklich</t>
 </tg>
 (<dfQsyn1 rel="syn"><dfQsyn2><i><tk2>
-<w CyrId="алкукс">alkuks</w></tk2></i></dfQsyn2>
+<w myvId="алкукс">alkuks</w></tk2></i></dfQsyn2>
 <GeoU xml:lang="myv">Kal</GeoU>
 </dfQsyn1>)</mg>
 </HWB>
@@ -158414,30 +158413,30 @@ Nach Utsch. schwört man folgenderweise: [am Tage:] <x>
 <x>
 <Chc>
 <Vrt>
-<w CyrId="тширем">tšiŕem</w>
+<w myvId="тширем">tšiŕem</w>
 </Vrt>
 <Vrt>
-<w CyrId="тширим">tšiŕim</w>
+<w myvId="тширим">tšiŕim</w>
 </Vrt>
 </Chc>
-<w CyrId="мери">ḿeŕi</w>
+<w myvId="мери">ḿeŕi</w>
 </x>
 <GeoNeed/>
 <xt xml:lang="deu">[Es legt sich auf die Seite od. fällt schräg ab].</xt>
 </xg>
 <xg genre="riddle">
 <x>
-<w CyrId="чирим">či͔ŕim</w>
-<w CyrId="мери">ḿeŕi</w>
-<w CyrId="шляпазо">šĺapazo</w>
+<w myvId="чирим">či͔ŕim</w>
+<w myvId="мери">ḿeŕi</w>
+<w myvId="шляпазо">šĺapazo</w>
 <w myvId=",">,</w>
-<w CyrId="модас">modas</w>
-<w CyrId="ваны">vani͔</w>
-<w CyrId="папазо">papazo</w>
+<w myvId="модас">modas</w>
+<w myvId="ваны">vani͔</w>
+<w myvId="папазо">papazo</w>
 <tk3 isa="fullstop"/>
-<w CyrId="–">–</w>
-<w CyrId="чинжарамо">či͔nᴣ̌aramo</w>
-<w CyrId="прясь">ṕŕäś</w>
+<w myvId="–">–</w>
+<w myvId="чинжарамо">či͔nᴣ̌aramo</w>
+<w myvId="прясь">ṕŕäś</w>
 </x>
 <GeoNeed/>
 <sources>
@@ -158637,7 +158636,7 @@ Nach Utsch. schwört man folgenderweise: [am Tage:] <x>
 <lg edit="JMR" xml:lang="mdf"><l pos="Adv"/><st/>
 </lg>
 <DerivationBlock>[wohl aus <stem><FrCm freeType="analogy" Modification="manus"/><i><tk2>
-<w CyrId="якстəрдəк">jakstərdək</w></tk2></i></stem>]</DerivationBlock>
+<w myvId="якстəрдəк">jakstərdək</w></tk2></i></stem>]</DerivationBlock>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -159497,13 +159496,13 @@ Nach Utsch. schwört man folgenderweise: [am Tage:] <x>
 </mg>
 <xg>
 <x>
-<w CyrId="ямкс[кятнень]">jamks[ḱät́ńeń]</w>
-<w CyrId="латса">latsa</w>
-<w edit="MK" CyrId="тазаня">tazańä</w>
-<w edit="MK" CyrId="улеза">uĺeza</w>
-<w edit="MK" CyrId="сернятс">śeŕńats</w>
+<w mdfId="ямкс[кятнень]">jamks[ḱät́ńeń]</w>
+<w mdfId="латса">latsa</w>
+<w edit="MK" mdfId="тазаня">tazańä</w>
+<w edit="MK" mdfId="улеза">uĺeza</w>
+<w edit="MK" mdfId="сернятс">śeŕńats</w>
 <w mdfId="-" edit="MK">-</w>
-<w CyrId="ронгонятс">roŋgə̑ńats</w>
+<w mdfId="ронгонятс">roŋgə̑ńats</w>
 </x>
 <GeoNeed/>
 <sources>
@@ -159513,14 +159512,14 @@ Nach Utsch. schwört man folgenderweise: [am Tage:] <x>
 </xg>
 <xg>
 <x>
-<w CyrId="кодама">kodama</w>
-<w CyrId="тон">ton</w>
-<w CyrId="тазанят">tazańat</w>
+<w mdfId="кодама">kodama</w>
+<w mdfId="тон">ton</w>
+<w mdfId="тазанят">tazańat</w>
 <w mdfId=",">,</w>
-<w edit="MK" CyrId="станя">stańä</w>
-<w CyrId="тазалгафтак">tazalgaftak</w>
-<w edit="MK" CyrId="васянь">vaśäń</w>
-<w edit="MK" CyrId="младе·нтскять">mlad́e·ntsḱät́</w>
+<w edit="MK" mdfId="станя">stańä</w>
+<w mdfId="тазалгафтак">tazalgaftak</w>
+<w edit="MK" mdfId="васянь">vaśäń</w>
+<w edit="MK" mdfId="младе·нтскять">mlad́e·ntsḱät́</w>
 </x>
 <GeoNeed/>
 <sources>
@@ -164457,16 +164456,16 @@ Vgl. <x>
 </mg>
 <xg>
 <x>
-<w CyrId="кудонь">kudə̑ń</w>
-<w CyrId="путомста">putə̑msta</w>
-<w CyrId="эзем">eźəm</w>
+<w mdfId="кудонь">kudə̑ń</w>
+<w mdfId="путомста">putə̑msta</w>
+<w mdfId="эзем">eźəm</w>
 <w mdfId="-" edit="MK">-</w>
-<w CyrId="пря">pŕä</w>
+<w mdfId="пря">pŕä</w>
 <w mdfId="-" edit="MK">-</w>
-<w CyrId="уголти">ugə̑lt́i</w>
-<w CyrId="ярмакт">jarmakt</w>
-<w CyrId="путништь">putńišt́</w>
-<w CyrId="козякадоманкса">koźakadə̑maŋksa</w>
+<w mdfId="уголти">ugə̑lt́i</w>
+<w mdfId="ярмакт">jarmakt</w>
+<w mdfId="путништь">putńišt́</w>
+<w mdfId="козякадоманкса">koźakadə̑maŋksa</w>
 </x>
 <GeoNeed/>
 <sources>
@@ -165859,7 +165858,7 @@ Vgl. <x>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="N"/><st/>
 </lg>
-<l_drv drvType="diminutive" CyrId="веженьць">v́ežeńć</l_drv>
+<l_drv drvType="diminutive" myvId="веженьць">v́ežeńć</l_drv>
 <mg copiedFrom="preceding">
 <tg xml:lang="rus">
 <t pos="A" edit="MK">самая младшая невестка</t>
@@ -166149,7 +166148,7 @@ Vgl. <x>
 <tg xml:lang="rus">
 <t pos="A" edit="MK">младший или младшая тёзка</t>
 </tg>
-<t xml:lang="deu">jüngerer Namensvetter (gibt es in einer Familie zwei Männer od. Frauen gleichen Namens, so nennen die Familienmitglieder u. mit ihnen auch die anderen den jüngeren Namensvetter <FrnTxt><w CyrId="вешаль">v́ešaĺ</w></FrnTxt>)</t>
+<t xml:lang="deu">jüngerer Namensvetter (gibt es in einer Familie zwei Männer od. Frauen gleichen Namens, so nennen die Familienmitglieder u. mit ihnen auch die anderen den jüngeren Namensvetter <FrnTxt><w myvId="вешаль">v́ešaĺ</w></FrnTxt>)</t>
 </mg>
 </HWB>
 </e>
@@ -166191,8 +166190,8 @@ Vgl. <x>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
 <DerivationBlock>[? Dem. zu <i><tk2>
-<w CyrId="вешине">v́ešińe</w></tk2></i>, <i><tk2>
-<w CyrId="вишине">v́išińe</w></tk2></i>]</DerivationBlock>
+<w myvId="вешине">v́ešińe</w></tk2></i>, <i><tk2>
+<w myvId="вишине">v́išińe</w></tk2></i>]</DerivationBlock>
 <mg>
 <tg xml:lang="rus">
 <t pos="A" edit="MK">маленький</t>
@@ -166586,9 +166585,9 @@ Vgl. <x>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="N"/><st/>
 </lg>
-<compg drv="X:X»A" type="Der"><DrvT vl="diminutive"/><DrvStCtn><DrvSt><w CyrId="виде">v́id́e</w>
+<compg drv="X:X»A" type="Der"><DrvT vl="diminutive"/><DrvStCtn><DrvSt><w myvId="виде">v́id́e</w>
 <Hph/>
-<w CyrId="чи">či</w></DrvSt></DrvStCtn></compg>
+<w myvId="чи">či</w></DrvSt></DrvStCtn></compg>
 <mg>
 <tg xml:lang="rus">
 <t pos="A" edit="MK">справедливость</t>
@@ -167016,7 +167015,7 @@ Vgl. <x>
 <tg xml:lang="deu">
 <t>[Zugtier</t>
 </tg>
-<t xml:lang="deu">Pferd] (<cl id="pair">Par.-Wort zu <FrnTxt><w CyrId="ракша">rakša</w></FrnTxt></cl>)</t>
+<t xml:lang="deu">Pferd] (<cl id="pair">Par.-Wort zu <FrnTxt><w myvId="ракша">rakša</w></FrnTxt></cl>)</t>
 <dfQl1>(
 <GeoU xml:lang="myv">SŠant</GeoU>
 )</dfQl1>
@@ -167219,7 +167218,7 @@ Vgl. <x>
 <tg xml:lang="deu">
 <t>wild</t>
 </tg>
-<Cm>? = <FrnTxt><w CyrId="иди·м">id́i·m</w></FrnTxt></Cm>
+<Cm>? = <FrnTxt><w myvId="иди·м">id́i·m</w></FrnTxt></Cm>
 </TrlnCtn>
 <dfQl1>(
 <GeoU xml:lang="myv">Ba</GeoU>
@@ -167776,7 +167775,7 @@ Vgl. <x>
 <tg xml:lang="deu">
 <t>Ei</t>
 </tg>
-<Cm>wird anstatt des Wortes <FrnTxt><w CyrId="ал">al</w></FrnTxt> gebraucht, damit die Kinder nicht verstehen, wovon die Rede ist</Cm>
+<Cm>wird anstatt des Wortes <FrnTxt><w myvId="ал">al</w></FrnTxt> gebraucht, damit die Kinder nicht verstehen, wovon die Rede ist</Cm>
 </TrlnCtn>
 <dfQl1>(
 <GeoU xml:lang="myv">Mar</GeoU>
@@ -168319,7 +168318,7 @@ Vgl. <x>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="N"/><st/>
 </lg>
-<l_drv drvType="diminutive" CyrId="кичкирявкс">ḱičḱiŕavks</l_drv>
+<l_drv drvType="diminutive" myvId="кичкирявкс">ḱičḱiŕavks</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -168350,8 +168349,8 @@ Vgl. <x>
 </tg>
 <t xml:lang="deu">grosses Fenster, das vormals als Grundlage für die Steuererhebung diente [<See>
 <Function>vgl.</Function>
-<FrnTxt><w CyrId="красной">krasnoj</w>
-<w CyrId="вальма">vaĺma</w></FrnTxt>
+<FrnTxt><w myvId="красной">krasnoj</w>
+<w myvId="вальма">vaĺma</w></FrnTxt>
 </See> (oben)]</t>
 </mg>
 <xg>
@@ -169129,7 +169128,7 @@ Vgl. <x>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
-<l_drv drvType="diminutive" CyrId="лембе">ĺemb́e</l_drv>
+<l_drv drvType="diminutive" myvId="лембе">ĺemb́e</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t pos="A" edit="MK">тёплый</t>
@@ -169395,7 +169394,7 @@ Vgl. <x>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
-<l_drv drvType="diminutive" CyrId="лишной">ĺišnoj</l_drv>
+<l_drv drvType="diminutive" myvId="лишной">ĺišnoj</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t pos="A" edit="MK">остальной</t>
@@ -169631,13 +169630,13 @@ Vgl. <x>
 </mg>
 <xg>
 <x>
-<w CyrId="тонь">toń</w>
-<w CyrId="мазыкс">mazi͔ks</w>
+<w myvId="тонь">toń</w>
+<w myvId="мазыкс">mazi͔ks</w>
 <w myvId="-" edit="MK">-</w>
-<w CyrId="чись">čiś</w>
-<w CyrId="лома">loma</w>
-<w CyrId="ютксто">jutksto</w>
-<w CyrId="ливтимим">ĺivt́iḿim</w>
+<w myvId="чись">čiś</w>
+<w myvId="лома">loma</w>
+<w myvId="ютксто">jutksto</w>
+<w myvId="ливтимим">ĺivt́iḿim</w>
 </x>
 <GeoNeed/>
 <sources>
@@ -169829,7 +169828,7 @@ altruss. <Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
-<compg drv="X:X»A" type="Der"><DrvT vl="diminutive"/><DrvStCtn><FrCm freeType="analogy" Modification="manus"/><DrvSt><w CyrId="мелкой">ḿelkoj</w></DrvSt></DrvStCtn></compg>
+<compg drv="X:X»A" type="Der"><DrvT vl="diminutive"/><DrvStCtn><FrCm freeType="analogy" Modification="manus"/><DrvSt><w myvId="мелкой">ḿelkoj</w></DrvSt></DrvStCtn></compg>
 <mg>
 <tg xml:lang="rus">
 <t pos="A" edit="MK">меленький</t>
@@ -170011,7 +170010,7 @@ altruss. <Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="N"/><st/>
 </lg>
-<l_drv drvType="diminutive" CyrId="милостинка">ḿilośt́iŋka</l_drv>
+<l_drv drvType="diminutive" myvId="милостинка">ḿilośt́iŋka</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -170232,7 +170231,7 @@ altruss. <Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="N"/><st/>
 </lg>
-<compg drv="X:X»A" type="Der"><DrvTCtn><DrvT edit="MK" vl="diminutive"/></DrvTCtn>[<DrvStCtn><DrvSt><w CyrId="мила">ḿila</w></DrvSt></DrvStCtn>]</compg>
+<compg drv="X:X»A" type="Der"><DrvTCtn><DrvT edit="MK" vl="diminutive"/></DrvTCtn>[<DrvStCtn><DrvSt><w myvId="мила">ḿila</w></DrvSt></DrvStCtn>]</compg>
 <mg>
 <tg xml:lang="rus">
 <t pos="A" edit="MK">миленький</t>
@@ -170266,7 +170265,7 @@ altruss. <Et>
 </mg>
 ;
 <mg>
-<t xml:lang="rus"><FrnTxt><w CyrId="милынгит">ḿili͔ŋǵit</w></FrnTxt> 
+<t xml:lang="rus"><FrnTxt><w myvId="милынгит">ḿili͔ŋǵit</w></FrnTxt> 
 <GeoU xml:lang="myv">Kal</GeoU>
  [твой миленький]</t>
 <tg xml:lang="deu">
@@ -170275,7 +170274,7 @@ altruss. <Et>
 </mg>
 ;
 <mg>
-<t xml:lang="rus"><FrnTxt><w CyrId="милынгизэ">ḿili͔ŋǵize͔</w></FrnTxt> 
+<t xml:lang="rus"><FrnTxt><w myvId="милынгизэ">ḿili͔ŋǵize͔</w></FrnTxt> 
 <GeoU xml:lang="myv">Kal</GeoU>
  [его (её) миленький]</t>
 <tg xml:lang="deu">
@@ -170539,7 +170538,7 @@ altruss. <Et>
 <t>Verleumder</t>
 </tg>
 (<dfQsyn1 rel="syn"><dfQsyn2><i><tk2>
-<w CyrId="кенгелиця">ḱeŋǵeĺića</w></tk2></i></dfQsyn2></dfQsyn1>)
+<w myvId="кенгелиця">ḱeŋǵeĺića</w></tk2></i></dfQsyn2></dfQsyn1>)
 <dfQl1>(
 <GeoU xml:lang="myv">Mar</GeoU>
 )</dfQl1>
@@ -170629,9 +170628,9 @@ altruss. <Et>
 <t>Verleumderin</t>
 </tg>
 (<dfQsyn1 rel="syn"><dfQsyn2><i><tk2>
-<w CyrId="мутиця">mut́ića</w>
+<w myvId="мутиця">mut́ića</w>
 <Hph/>
-<w CyrId="човориця">čovoŕića</w></tk2></i></dfQsyn2></dfQsyn1>)</mg>
+<w myvId="човориця">čovoŕića</w></tk2></i></dfQsyn2></dfQsyn1>)</mg>
 </HWB>
 <etymology>
 <etymonCtn>
@@ -170964,7 +170963,7 @@ altruss. <Et>
 </tg>
 <Cm>
 <GeoU xml:lang="myv">Ba</GeoU>
-: mehr als <FrnTxt><w CyrId="нолва">nolva</w></FrnTxt></Cm>
+: mehr als <FrnTxt><w myvId="нолва">nolva</w></FrnTxt></Cm>
 </TrlnCtn>
 </mg>
 </HWB>
@@ -170989,16 +170988,16 @@ altruss. <Et>
 <tg xml:lang="rus">
 <t pos="A" edit="MK">бессонница у детей</t>
 </tg>
-<t xml:lang="deu">Schlaflosigkeit bei Kindern (wenn das Kind zur Schlafenszeit weint, hat es die <FrnTxt><w CyrId="ночник">nočńik</w></FrnTxt>; es gibt davon drei Arten: 1) <FrnTxt><w CyrId="чокшнэнь">čokšne͔ń</w>
-<w CyrId="ночник">nočńik</w></FrnTxt> die Abend-<FrnTxt><w CyrId="ночник">nočńik</w></FrnTxt>, 2) <FrnTxt><w CyrId="пеле">ṕeĺe</w>
+<t xml:lang="deu">Schlaflosigkeit bei Kindern (wenn das Kind zur Schlafenszeit weint, hat es die <FrnTxt><w myvId="ночник">nočńik</w></FrnTxt>; es gibt davon drei Arten: 1) <FrnTxt><w myvId="чокшнэнь">čokšne͔ń</w>
+<w myvId="ночник">nočńik</w></FrnTxt> die Abend-<FrnTxt><w myvId="ночник">nočńik</w></FrnTxt>, 2) <FrnTxt><w myvId="пеле">ṕeĺe</w>
 <Hph/>
-<w CyrId="вень">v́eń</w>
-<w CyrId="ночник">nočńik</w></FrnTxt> die Mitternacht-<FrnTxt><w CyrId="ночник">nočńik</w></FrnTxt> u. 3) <CapI>
+<w myvId="вень">v́eń</w>
+<w myvId="ночник">nočńik</w></FrnTxt> die Mitternacht-<FrnTxt><w myvId="ночник">nočńik</w></FrnTxt> u. 3) <CapI>
 <i><tk2>
-<w CyrId="валцькень">valćḱeń</w>
-<w CyrId="ночник">nočńik</w></tk2></i></CapI> die Morgen-<CapI>
+<w myvId="валцькень">valćḱeń</w>
+<w myvId="ночник">nočńik</w></tk2></i></CapI> die Morgen-<CapI>
 <i><tk2>
-<w CyrId="ночник">nočńik</w></tk2></i></CapI>)</t>
+<w myvId="ночник">nočńik</w></tk2></i></CapI>)</t>
 </mg>
 </HWB>
 <etymology>
@@ -171065,7 +171064,7 @@ altruss. <Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="N"/><st/>
 </lg>
-<l_drv drvType="diminutive" CyrId="нузякс">nuźaks</l_drv>
+<l_drv drvType="diminutive" myvId="нузякс">nuźaks</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t pos="A" edit="MK">ленивец</t>
@@ -171152,7 +171151,7 @@ altruss. <Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="N"/><st/>
 </lg>
-<l_drv drvType="diminutive" CyrId="нузякске">nuźa·ksḱe</l_drv>
+<l_drv drvType="diminutive" myvId="нузякске">nuźa·ksḱe</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -171520,7 +171519,7 @@ altruss. <Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
-<l_drv drvType="diminutive" CyrId="ожо">ožo</l_drv>
+<l_drv drvType="diminutive" myvId="ожо">ožo</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t pos="A" edit="MK">жёлтенький</t>
@@ -171591,7 +171590,7 @@ altruss. <Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
-<l_drv drvType="diminutive" CyrId="ола">ola</l_drv>
+<l_drv drvType="diminutive" myvId="ола">ola</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t>бледный</t>
@@ -171627,7 +171626,7 @@ altruss. <Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
-<l_drv drvType="diminutive" CyrId="омбоце">omboće</l_drv>
+<l_drv drvType="diminutive" myvId="омбоце">omboće</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t pos="A" edit="MK">другой</t>
@@ -172504,7 +172503,7 @@ altruss. <Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="Adv"/><st/>
 </lg>
-<l_drv drvType="diminutive" CyrId="парьсте">paŕśt́e</l_drv>
+<l_drv drvType="diminutive" myvId="парьсте">paŕśt́e</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -172636,7 +172635,7 @@ altruss. <Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
-<l_drv drvType="diminutive" CyrId="паро">paro</l_drv>
+<l_drv drvType="diminutive" myvId="паро">paro</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t pos="A" edit="MK">хороший</t>
@@ -173195,7 +173194,7 @@ altruss. <Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
-<l_drv drvType="diminutive" CyrId="покш">pokš</l_drv>
+<l_drv drvType="diminutive" myvId="покш">pokš</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t pos="A" edit="MK">большенький</t>
@@ -173278,8 +173277,8 @@ altruss. <Et>
 <lg edit="JMR" xml:lang="mdf"><l pos="Prc"/><st/>
 </lg>
 <DerivationBlock>(zu <stem><FrCm freeType="analogy" Modification="manus"/><i><tk2>
-<w CyrId="покшкавлемс">pokškavĺems</w></tk2></i></stem>,<DrvT vl="frequentative"/> zu <stem><FrCm freeType="analogy" Modification="manus"/><i><tk2>
-<w CyrId="покшкавтомс">pokškavtoms</w></tk2></i></stem>)</DerivationBlock>
+<w myvId="покшкавлемс">pokškavĺems</w></tk2></i></stem>,<DrvT vl="frequentative"/> zu <stem><FrCm freeType="analogy" Modification="manus"/><i><tk2>
+<w myvId="покшкавтомс">pokškavtoms</w></tk2></i></stem>)</DerivationBlock>
 <mg>
 <tg xml:lang="rus">
 <t>спесивый</t>
@@ -173315,7 +173314,7 @@ altruss. <Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
-<l_drv drvType="diminutive" CyrId="покш">pokš</l_drv>
+<l_drv drvType="diminutive" myvId="покш">pokš</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t pos="A" edit="MK">большенький</t>
@@ -173534,9 +173533,9 @@ altruss. <Et>
 <t>Glotzauge</t>
 </tg>
 (<dfQsyn1 rel="syn"><dfQsyn2><i><tk2>
-<w CyrId="полда">polda</w>
+<w mdfId="полда">polda</w>
 <Hph/>
-<w CyrId="сельмӓ">śeĺmä</w></tk2></i></dfQsyn2>
+<w mdfId="сельмӓ">śeĺmä</w></tk2></i></dfQsyn2>
 <GeoU xml:lang="mdf">Čemb</GeoU>
 </dfQsyn1>)</mg>
 </HWB>
@@ -173741,7 +173740,7 @@ altruss. <Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="N"/><st/>
 </lg>
-<compg drv="X:X»A" type="Der">(<l_drv drvType="diminutive" CyrId="пшчикс">pšči͔ks</l_drv><l_drv drvType="diminutive" CyrId="пштикс">pšt́iks</l_drv>)</compg>
+<compg drv="X:X»A" type="Der">(<l_drv drvType="diminutive" myvId="пшчикс">pšči͔ks</l_drv><l_drv drvType="diminutive" myvId="пштикс">pšt́iks</l_drv>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t>колотье</t>
@@ -175043,8 +175042,8 @@ altruss. <Et>
 <Syntax function="Adv" identical2=""/>
 <t xml:lang="rus">(<See>
 <Function>vgl.</Function>
-<FrnTxt><w CyrId="сыредень">si͔ŕed́eń</w>
-<w CyrId="пелей">ṕeĺej</w></FrnTxt>
+<FrnTxt><w myvId="сыредень">si͔ŕed́eń</w>
+<w myvId="пелей">ṕeĺej</w></FrnTxt>
 </See>)</t>
 </mg>
 <xg>
@@ -175080,7 +175079,7 @@ altruss. <Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
-<l_drv drvType="diminutive" CyrId="сыре">si͔ŕe</l_drv>
+<l_drv drvType="diminutive" myvId="сыре">si͔ŕe</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t pos="A" edit="MK">старенький</t>
@@ -175123,7 +175122,7 @@ altruss. <Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="N"/><st/>
 </lg>
-<l_drv drvType="diminutive" CyrId="сьветой">śv́etoj</l_drv>
+<l_drv drvType="diminutive" myvId="сьветой">śv́etoj</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t pos="A" edit="MK">святой</t>
@@ -175219,8 +175218,8 @@ altruss. <Et>
 </mg>
 ;
 <mg>
-<t xml:lang="rus">[обычно паралл. слово к <FrnTxt><w CyrId="менькс">ḿeńks</w></FrnTxt>]</t>
-<t xml:lang="deu">gew. Par.-Wort zu <FrnTxt><w CyrId="менькс">ḿeńks</w></FrnTxt></t>
+<t xml:lang="rus">[обычно паралл. слово к <FrnTxt><w myvId="менькс">ḿeńks</w></FrnTxt>]</t>
+<t xml:lang="deu">gew. Par.-Wort zu <FrnTxt><w myvId="менькс">ḿeńks</w></FrnTxt></t>
 </mg>
 <xg>
 <x>
@@ -175352,7 +175351,7 @@ altruss. <Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="N"/><st/>
 </lg>
-<l_drv drvType="diminutive" CyrId="сэтькс">se͔t́ks</l_drv>
+<l_drv drvType="diminutive" myvId="сэтькс">se͔t́ks</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t pos="A" edit="MK">облегчение</t>
@@ -175432,7 +175431,7 @@ altruss. <Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
-<l_drv drvType="diminutive" CyrId="сэтьме">se͔t́ḿe</l_drv>
+<l_drv drvType="diminutive" myvId="сэтьме">se͔t́ḿe</l_drv>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -175584,7 +175583,7 @@ altruss. <Et>
 <tg xml:lang="rus">
 <t pos="A" edit="MK">вышивка в набедренном украшении морд. женщин</t>
 </tg>
-<t xml:lang="deu">eine Stickerei an dem Lendenzierat (<FrnTxt><w CyrId="пулагай">pulagaj</w></FrnTxt>) der mordw. Frauen</t>
+<t xml:lang="deu">eine Stickerei an dem Lendenzierat (<FrnTxt><w myvId="пулагай">pulagaj</w></FrnTxt>) der mordw. Frauen</t>
 <dfQl1>(
 <GeoU edit="manus" freeType="questionRelation" xml:lang="myv">Večk</GeoU>
 <GeoU edit="manus" freeType="questionRelation" xml:lang="myv">Is</GeoU>
@@ -175692,7 +175691,7 @@ altruss. <Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="N"/><st/>
 </lg>
-<compg drv="X:X»N" type="Der"><DrvT vl="diminutive"/><DrvStCtn><FrCm freeType="analogy" Modification="manus"/><DrvSt><w CyrId="сярдак">śardak</w></DrvSt></DrvStCtn></compg>
+<compg drv="X:X»N" type="Der"><DrvT vl="diminutive"/><DrvStCtn><FrCm freeType="analogy" Modification="manus"/><DrvSt><w myvId="сярдак">śardak</w></DrvSt></DrvStCtn></compg>
 <mg>
 <tg xml:lang="rus">
 <t pos="A" edit="MK">жалкая хижина</t>
@@ -175892,7 +175891,7 @@ altruss. <Et>
 <GeoU xml:lang="mdf">Sel</GeoU>
 </l_variants>
 </lg>
-<l_drv drvType="diminutive" CyrId="тея">t́eja</l_drv>
+<l_drv drvType="diminutive" myvId="тея">t́eja</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t pos="A" edit="MK">узкий</t>
@@ -175965,7 +175964,7 @@ altruss. <Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
-<l_drv drvType="diminutive" CyrId="теіньге">t́eińǵe</l_drv>
+<l_drv drvType="diminutive" myvId="теіньге">t́eińǵe</l_drv>
 <mg>
 <tg xml:lang="rus">
 <t pos="A" edit="MK">очень тесный</t>

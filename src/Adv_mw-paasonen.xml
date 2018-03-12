@@ -3463,12 +3463,12 @@ Tat., tschuw
 )</mg>
 <xg genre="riddle">
 <x>
-<w CyrId="сась">saś</w>
-<w CyrId="тувось">tuvə̑ś</w>
-<w CyrId="питерьста">ṕit́əŕsta</w>
+<w mdfId="сась">saś</w>
+<w mdfId="тувось">tuvə̑ś</w>
+<w mdfId="питерьста">ṕit́əŕsta</w>
 <w mdfId=",">,</w>
-<w CyrId="марнек">marńəḱ</w>
-<w CyrId="сялгонтф">śalgə̑ntf</w>
+<w mdfId="марнек">marńəḱ</w>
+<w mdfId="сялгонтф">śalgə̑ntf</w>
 <tk3 isa="fullstop"/>
 <w CyrId="–">–</w>
 <w CyrId="сур">sur</w>
@@ -4060,16 +4060,16 @@ Tat., tschuw
 <w CyrId="е·сли">je·śĺi</w>
 <w CyrId="куд">kud</w>
 <Hph/>
-<w CyrId="азорозя">a·zə̑rə̑źä</w>
-<w CyrId="монь">moń</w>
-<w CyrId="э·сон">e·sə̑n</w>
-<w CyrId="андо·нь">andə̑·ń</w>
+<w mdfId="азорозя">a·zə̑rə̑źä</w>
+<w mdfId="монь">moń</w>
+<w mdfId="э·сон">e·sə̑n</w>
+<w mdfId="андо·нь">andə̑·ń</w>
 <w mdfId="-" edit="MK">-</w>
-<w CyrId="дере·й">d́eŕe·j</w>
+<w mdfId="дере·й">d́eŕe·j</w>
 <w mdfId=",">,</w>
-<w CyrId="соньсяк">sońśa·k</w>
-<w CyrId="топə̑·тьста">topə̑·t́sta</w>
-<w CyrId="ули·">uĺi·</w>
+<w mdfId="соньсяк">sońśa·k</w>
+<w mdfId="топə̑·тьста">topə̑·t́sta</w>
+<w mdfId="ули·">uĺi·</w>
 </x>
 <src1>
 <GeoU xml:lang="mdf" edit="MK">Prol</GeoU>
@@ -15209,24 +15209,24 @@ vgl. auch <Et>
 </mg>
 <xg>
 <x>
-<w CyrId="ваноза">vanə̑za</w>
-<w CyrId="шкай">škaj</w>
-<w CyrId="ваноза">vanə̑za</w>
+<w mdfId="ваноза">vanə̑za</w>
+<w mdfId="шкай">škaj</w>
+<w mdfId="ваноза">vanə̑za</w>
 <w mdfId="!">!</w>
 <tk3 isa="triDash"/>
 <w edit="MK" CyrId="ся">śä</w>
 <w edit="MK" CyrId="васянь">vaśäń</w>
 <w CyrId="аксяда">akśada</w>
 <tk3 isa="triDash"/>
-<w edit="MK" CyrId="вяри">v́äŕi</w>
+<w edit="MK" mdfId="вяри">v́äŕi</w>
 <w mdfId="-" edit="MK">-</w>
-<w edit="MK" CyrId="ультьсят">uĺt́śa·t</w>
-<w edit="MK" CyrId="ласькида">laśḱida</w>
+<w edit="MK" mdfId="ультьсят">uĺt́śa·t</w>
+<w edit="MK" mdfId="ласькида">laśḱida</w>
 <tk3 edit="MK" isa="comma"/>
-<w edit="MK" CyrId="алу">alu</w>
+<w edit="MK" mdfId="алу">alu</w>
 <w mdfId="-" edit="MK">-</w>
-<w edit="MK" CyrId="ультьсят">uĺt́śat</w>
-<w edit="MK" CyrId="ласькида">laśḱida</w>
+<w edit="MK" mdfId="ультьсят">uĺt́śat</w>
+<w edit="MK" mdfId="ласькида">laśḱida</w>
 </x>
 <GeoNeed/>
 <sources>
@@ -22838,11 +22838,11 @@ Instr.-F. <Et>душо́й</Et>]
 </xg>
 <xg>
 <x>
-<w CyrId="зярдо">źardo</w>
-<w CyrId="кирвастивить">ḱirvaśt́iv́it́</w>
+<w myvId="зярдо">źardo</w>
+<w myvId="кирвастивить">ḱirvaśt́iv́it́</w>
 <w myvId=",">,</w>
-<w CyrId="мацтявить">maćt́av́it́</w>
-<w CyrId="ведуннэнь">v́edunne͔ń</w>
+<w myvId="мацтявить">maćt́av́it́</w>
+<w myvId="ведуннэнь">v́edunne͔ń</w>
 </x>
 <src1>
 <GeoU xml:lang="myv">Vač</GeoU>
@@ -30899,7 +30899,7 @@ Instr.-F. <Et>душо́й</Et>]
 <Vrt>
 <w mdfId="кода">koda</w>
 <w mdfId="ина">ina</w>
-<tk3 isa="quest"/>
+<w mdfId="?">?</w>
 </Vrt>
 </Chc>
 <w mdfId="шчакай">ščakaj</w>
@@ -44945,14 +44945,14 @@ Instr.-F. <Et>охо́той</Et>
 </mg>
 <xg>
 <x>
-<w CyrId="ох">oᵪ</w>
-<w CyrId="исемей">iśeḿej</w>
+<w myvId="ох">oᵪ</w>
+<w myvId="исемей">iśeḿej</w>
 <w myvId=",">,</w>
-<w CyrId="пеле">ṕeĺe</w>
+<w myvId="пеле">ṕeĺe</w>
 <w myvId="-" edit="MK">-</w>
-<w CyrId="ломань">lomań</w>
+<w myvId="ломань">lomań</w>
 <w myvId=",">,</w>
-<w CyrId="исемей">iśeḿej</w>
+<w myvId="исемей">iśeḿej</w>
 </x>
 <GeoNeed/>
 <sources>
@@ -45567,12 +45567,12 @@ Instr.-F. <Et>охо́той</Et>
 </mg>
 <xg>
 <x>
-<w CyrId="сась">saś</w>
-<w CyrId="пеле">ṕeĺe</w>
+<w myvId="сась">saś</w>
+<w myvId="пеле">ṕeĺe</w>
 <w myvId="-" edit="MK">-</w>
-<w CyrId="ве">v́e</w>
+<w myvId="ве">v́e</w>
 <w myvId="-" edit="MK">-</w>
-<w CyrId="пора">pora</w>
+<w myvId="пора">pora</w>
 </x>
 <GeoNeed/>
 <sources>
@@ -58854,12 +58854,12 @@ Eine unrichtig gebildete Instr.-F. vom russ. Subst. <Et>сердце]</Et>
 </SenseGroup>
 <xg>
 <x>
-<w CyrId="мазыть">mazi͔t́</w>
-<w CyrId="крандаст">krandast</w>
-<w CyrId="тия">t́ija</w>
+<w myvId="мазыть">mazi͔t́</w>
+<w myvId="крандаст">krandast</w>
+<w myvId="тия">t́ija</w>
 <w myvId="-" edit="MK">-</w>
-<w CyrId="тува">tuva</w>
-<w CyrId="якавтызе">jakavti͔źe</w>
+<w myvId="тува">tuva</w>
+<w myvId="якавтызе">jakavti͔źe</w>
 </x>
 <GeoNeed/>
 <sources>
