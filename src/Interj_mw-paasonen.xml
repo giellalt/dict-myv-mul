@@ -5370,10 +5370,7 @@
 </xg>
 </HWB>
 <etymology>
-<etymonCtn>
-<EtSrcL xml:lang="rus"/>
-<Et>вон</Et>
-</etymonCtn>
+<etymon xml:lang="rus">вон</etymon>
 <etymonCtn>
 <EtType edit="MK" vl="vgl"/>[
 doch <Et>
@@ -6289,10 +6286,7 @@ ChrE
 <w CyrId="айда">ajda</w></Et>
 </EtCtn>[
 </etymonCtn>
-<etymonCtn>
-<EtSrcL xml:lang="rus"/>
-<Et>айда</Et>
-</etymonCtn>
+<etymon xml:lang="rus">айда</etymon>
 <etymonCtn>
 mordw. <Et>
 <w CyrId="адя">ad́a</w></Et>]
@@ -11812,14 +11806,7 @@ nach:)</t>
 <Et>
 <w CyrId="вона">vona</w></Et>]
 </etymonCtn>
-<etymonCtn>
-<EtType edit="MK" vl="vgl"/>
-<EtSrcL edit="MK" vl="tschuw"/>
-<EtCtn>
-<Et edit="MK">
-<w CyrId="вара">vara</w></Et>
-</EtCtn>
-</etymonCtn>
+<etymon edit="MK" xml:lang="tschuw" tschuwId="вара" etym_type="cf">vara</etymon>
 </etymology>
 </e>
   <e>
@@ -16698,14 +16685,7 @@ auch <Et>
 <EtSrcL xml:lang="rus"/>
 [<Et>? недо</Et> (Dal)]
 </etymonCtn>
-<etymonCtn>
-<EtType edit="MK" vl="vgl"/>
-<EtSrcL edit="MK" vl="mrdv"/>
-<EtCtn>
-<Et edit="MK">
-<w CyrId="нето">ńeto</w></Et>
-</EtCtn>
-</etymonCtn></etymology>
+<etymon edit="MK" xml:lang="mrdv" mrdvId="нето" etym_type="cf">ńeto</etymon></etymology>
 </e>
   <e>
 <root_name xml:lang="myv" hid="1" pos="Interj" lemma="но"/>

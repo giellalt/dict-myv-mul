@@ -350,14 +350,7 @@
 </xg>
 </MWUB>
 <etymology>
-<etymonCtn>
-<EtType edit="MK" vl="vgl"/>
-<EtSrcL edit="MK" vl="mrdv"/>
-<EtCtn>
-<Et edit="MK">
-<w CyrId="эли">eĺi</w></Et>
-</EtCtn>
-</etymonCtn>
+<etymon edit="MK" xml:lang="mrdv" mrdvId="эли" etym_type="cf">eĺi</etymon>
 <etymonCtn>
 <EtSrcL xml:lang="rus"/>
 dial. <Et>али</Et>
@@ -769,10 +762,7 @@ dial. <Et>али</Et>
 </xg>
 </HWB>
 <etymology>
-<etymonCtn>
-<EtSrcL xml:lang="rus"/>
-<Et>да</Et>
-</etymonCtn>
+<etymon xml:lang="rus">да</etymon>
 <etymonCtn>
 <EtType vl="vgl"/>
 <EtSrcL xml:lang="mrdv"/>
@@ -1300,10 +1290,7 @@ dial. <Et>али</Et>
 </mg>
 </MWUB>
 <etymology>
-<etymonCtn>
-<EtSrcL xml:lang="rus"/>
-<Et>или</Et>
-</etymonCtn>
+<etymon xml:lang="rus">или</etymon>
 <etymonCtn>
 <EtType vl="vgl"/>
 <EtSrcL xml:lang="mrdv"/>
@@ -1938,9 +1925,6 @@ dial. <Et>али</Et>
 <w CyrId="али">aĺi</w></Et>; <Et>
 <w CyrId="или">iĺi</w></Et>)
 </etymonCtn>
-<etymonCtn>
-<EtSrcL xml:lang="rus"/>
-<Et>или; ли</Et>
-</etymonCtn></etymology>
+<etymon xml:lang="rus">или; ли</etymon></etymology>
 </e>
 </r>

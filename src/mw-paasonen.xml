@@ -42,13 +42,7 @@
 </xg>
 </HWB>
 <etymology>
-<etymonCtn>
-<EtType edit="MK" vl="vgl"/>
-<EtSrcL edit="MK" vl="russ"/>
-<EtCtn>
-<Et edit="MK">чик</Et>
-</EtCtn>
-</etymonCtn>
+<etymon edit="MK" xml:lang="russ" russId="чик" etym_type="cf">чик</etymon>
 </etymology>
 </e>
   <e>
@@ -903,13 +897,7 @@
 </xg>
 </HWB>
 <etymology>
-<etymonCtn>
-<EtType edit="MK" vl="vgl"/>
-<EtSrcL edit="MK" vl="russ"/>
-<EtCtn>
-<Et edit="MK">люли́</Et>
-</EtCtn>
-</etymonCtn>
+<etymon edit="MK" xml:lang="russ" russId="люли́" etym_type="cf">люли́</etymon>
 </etymology>
 </e>
   <e>
@@ -1499,12 +1487,7 @@
 </xg>
 </MWUB>
 <etymology>
-<etymonCtn>
-<EtSrcL edit="MK" xml:lang="rus"/>
-<EtCtn>
-<Et edit="MK">на (нате)</Et>
-</EtCtn>
-</etymonCtn>
+<etymon edit="MK" xml:lang="rus">на (нате)</etymon>
 </etymology>
 </e>
   <e>
@@ -1567,12 +1550,7 @@
 </xg>
 </HWB>
 <etymology>
-<etymonCtn>
-<EtSrcL edit="MK" xml:lang="rus"/>
-<EtCtn>
-<Et edit="MK">незнай &lt; не знаю</Et>
-</EtCtn>
-</etymonCtn>
+<etymon edit="MK" xml:lang="rus">незнай &lt; не знаю</etymon>
 </etymology>
 </e>
   <e>
@@ -1626,10 +1604,7 @@
 </xg>
 </HWB>
 <etymology>
-<etymonCtn>
-<EtSrcL edit="MK" xml:lang="rus"/>
-<Et edit="MK">не то</Et>
-</etymonCtn>;
+<etymon edit="MK" xml:lang="rus">не то</etymon>;
 <etymonCtn>
 <EtType edit="MK" vl="vgl"/>
 <Et edit="MK" CyrId="недо">ńedo</Et> 
@@ -1675,12 +1650,7 @@
 </xg>
 </HWB>
 <etymology>
-<etymonCtn>
-<EtSrcL edit="MK" xml:lang="rus"/>
-<EtCtn>
-<Et edit="MK">нечего</Et>
-</EtCtn>
-</etymonCtn>
+<etymon edit="MK" xml:lang="rus">нечего</etymon>
 </etymology>
 </e>
   <e>
@@ -1831,10 +1801,7 @@
 </xg>
 </HWB>
 <etymology>
-<etymonCtn>
-<EtSrcL xml:lang="rus"/>
-<Et>ну</Et>
-</etymonCtn>
+<etymon xml:lang="rus">ну</etymon>
 </etymology>
 </e>
   <e>
@@ -1899,14 +1866,7 @@
 </xg>
 </HWB>
 <etymology>
-<etymonCtn>
-<EtType edit="MK" vl="vgl"/>
-<EtSrcL edit="MK" vl="mrdv"/>
-<EtCtn>
-<Et edit="MK">
-<w CyrId="нурьгемс">nuŕǵems</w></Et>
-</EtCtn>
-</etymonCtn>
+<etymon edit="MK" xml:lang="mrdv" mrdvId="нурьгемс" etym_type="cf">nuŕǵems</etymon>
 </etymology>
 </e>
   <e>
@@ -2032,10 +1992,7 @@
 </xg>
 </HWB>
 <etymology>
-<etymonCtn>
-<EtSrcL xml:lang="rus"/>
-<Et>ну же</Et>
-</etymonCtn>
+<etymon xml:lang="rus">ну же</etymon>
 </etymology>
 </e>
   <e>
@@ -2409,10 +2366,7 @@
 </xg>
 </HWB>
 <etymology>
-<etymonCtn>
-<EtSrcL xml:lang="rus"/>
-<Et>ох</Et>
-</etymonCtn>
+<etymon xml:lang="rus">ох</etymon>
 </etymology>
 </e>
   <e>
@@ -2467,10 +2421,7 @@
 </xg>
 </HWB>
 <etymology>
-<etymonCtn>
-<EtSrcL xml:lang="rus"/>
-<Et>ох + а</Et>
-</etymonCtn>
+<etymon xml:lang="rus">ох + а</etymon>
 </etymology>
 </e>
   <e>
@@ -2578,10 +2529,7 @@
 </xg>
 </HWB>
 <etymology>
-<etymonCtn>
-<EtSrcL xml:lang="rus"/>
-<Et>ох + ай</Et>
-</etymonCtn>
+<etymon xml:lang="rus">ох + ай</etymon>
 </etymology>
 </e>
   <e>
@@ -2917,10 +2865,7 @@
 </xg>
 </CompositionalPhraseCtn>
 <etymology>
-<etymonCtn>
-<EtSrcL xml:lang="rus"/>
-<Et>спаси́бо</Et>
-</etymonCtn>
+<etymon xml:lang="rus">спаси́бо</etymon>
 </etymology>
 </e>
   <e>
@@ -3136,12 +3081,7 @@
 </xg>
 </HWB>
 <etymology>
-<etymonCtn>
-<EtSrcL edit="MK" xml:lang="rus"/>
-<EtCtn>
-<Et edit="MK">пожа́луйста</Et>
-</EtCtn>
-</etymonCtn>
+<etymon edit="MK" xml:lang="rus">пожа́луйста</etymon>
 </etymology>
 </e>
   <e>
@@ -3346,10 +3286,7 @@
 </xg>
 </MWUB>
 <etymology>
-<etymonCtn>
-<EtSrcL xml:lang="rus"/>
-<Et>самый</Et>
-</etymonCtn>
+<etymon xml:lang="rus">самый</etymon>
 </etymology>
 </e>
   <e>
@@ -3485,11 +3422,7 @@
 </xg>
 </HWB>
 <etymology>
-<etymonCtn>
-<EtSrcL xml:lang="chv"/>
-<Et>
-<w CyrId="тӓбӓ">täbä</w></Et>
-</etymonCtn>
+<etymon xml:lang="chv" chvId="тӓбӓ">täbä</etymon>
 </etymology>
 </e>
   <e>
@@ -4972,14 +4905,7 @@ Tat., tschuw. <Et>
 </xg>
 </HWB>
 <etymology>
-<etymonCtn>
-<EtType edit="MK" vl="vgl"/>
-<EtSrcL edit="MK" vl="mrdv"/>
-<EtCtn>
-<Et edit="MK">
-<w CyrId="хайдым">ᵪajdi͔m</w></Et>
-</EtCtn>
-</etymonCtn>
+<etymon edit="MK" xml:lang="mrdv" mrdvId="хайдым" etym_type="cf">ᵪajdi͔m</etymon>
 </etymology>
 </e>
   <e>

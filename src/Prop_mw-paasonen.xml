@@ -8793,14 +8793,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <Et>
 <w CyrId="юткун">jutkun</w></Et> Verschlucken; Wirbel (im Wasser); verschluckt; geprellt, besiegt (im Spiel)]
 </etymonCtn>
-<etymonCtn>
-<EtType edit="MK" vl="vgl"/>
-<EtSrcL edit="MK" vl="mrdv"/>
-<EtCtn>
-<Et edit="MK">
-<w CyrId="юткон">jutkə̑n</w></Et>
-</EtCtn>
-</etymonCtn></etymology>
+<etymon edit="MK" xml:lang="mrdv" mrdvId="юткон" etym_type="cf">jutkə̑n</etymon></etymology>
 </e>
   <e>
 <root_name xml:lang="myv" hid="1" pos="Prop" lemma="XX"/>
@@ -48704,11 +48697,7 @@ auch russ. <Et>Моке́й</Et>]
 </mg>
 </MWUB>
 <etymology>
-<etymonCtn>
-<EtSrcL xml:lang="tat"/>
-<Et>
-<w CyrId="буза">buza</w></Et>
-</etymonCtn>
+<etymon xml:lang="tat" tatId="буза">buza</etymon>
 <etymonCtn>
 <EtType vl="vgl"/>
 <EtSrcL xml:lang="russ"/>
