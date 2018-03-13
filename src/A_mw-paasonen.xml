@@ -19,7 +19,7 @@
 </l_variants>
 </lg>
 <compg drv="X:X»A" type="Der"><DrvTCtn>
-<FrCm edit="MK" freeType="questionRelation" Modification="MK"/><DrvT vl="diminutive"/></DrvTCtn>[<DrvStCtn><DrvSt><w mdfId="мелямбань">ḿeĺambań</w></DrvSt></DrvStCtn>]</compg>
+<FrCm edit="MK" freeType="questionRelation" Modification="MK"/><comp ord="E2" pos="Suf" type="diminutive"></comp></DrvTCtn>[<DrvStCtn><DrvSt><w mdfId="мелямбань">ḿeĺambań</w></DrvSt></DrvStCtn>]</compg>
 .
 </HWB>
 </e>
@@ -668,7 +668,7 @@
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
-<compg drv="X:X»A" type="Der"><DrvT vl="diminutive"/><DrvStCtn><FrCm freeType="analogy" Modification="manus"/><DrvSt><w myvId="човиньге">čov́ińǵe</w></DrvSt></DrvStCtn></compg>
+<compg drv="X:X»A" type="Der"><comp ord="E2" pos="Suf" type="diminutive"></comp><DrvStCtn><FrCm freeType="analogy" Modification="manus"/><DrvSt><w myvId="човиньге">čov́ińǵe</w></DrvSt></DrvStCtn></compg>
 <mg>
 <tg xml:lang="rus">
 <t pos="A" edit="MK">очень тонкий</t>
@@ -1048,7 +1048,7 @@
 <GeoU xml:lang="mdf">Pičep</GeoU>
 </l_variants>
 </lg>
-<compg drv="X:X»A" type="Der"><DrvT vl="diminutive"/><DrvSt><CapI>
+<compg drv="X:X»A" type="Der"><comp ord="E2" pos="Suf" type="diminutive"></comp><DrvSt><CapI>
 <i><tk2>
 <w myvId="якстере">jakst́eŕe</w></tk2></i></CapI>, <CapI>
 <i><tk2>
@@ -31007,7 +31007,7 @@ prädik. F. <Et>бела</Et>]
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
-<compg drv="X:X»A" type="Der"><DrvT vl="diminutive"/><DrvStCtn><DrvSt><w CyrId="берянь">b́eŕäń</w>
+<compg drv="X:X»A" type="Der"><comp ord="E2" pos="Suf" type="diminutive"></comp><DrvStCtn><DrvSt><w CyrId="берянь">b́eŕäń</w>
 <w CyrId="-">-</w>
 <w CyrId="чи">či</w></DrvSt></DrvStCtn></compg>
 <mg>
@@ -31423,7 +31423,7 @@ prädik. F. <Et>бела</Et>]
 <MWUB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="N">билибирдань теьв</l>
-<st>билибирдань теьв</st>
+<st>билибирдань тӒ4в</st>
 <l_variants>
 <PhnU>
 <w myvId="билибирдань">b́iĺib́irdań</w>
@@ -36638,7 +36638,7 @@ jedoch
 <MWUB>
 <E3Head><POS pos="N"/><deriv isa="Anr"/></E3Head>
 <lg xml:lang="myv"><l pos="N">веженьць леьлякай</l>
-<st>веженьць леьлякай</st>
+<st>веженьць лӒ4лякай</st>
 <l_variants>
 <PhnU>
 <w myvId="веженьць">v́ežeńć</w>
@@ -36649,7 +36649,7 @@ jedoch
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="N"/><st/>
 </lg>
-<compg drv="X:X»A" type="Der">(<DrvT vl="diminutive"/><DrvT vl="vocative"/>)</compg>
+<compg drv="X:X»A" type="Der">(<comp ord="E2" pos="Suf" type="diminutive"></comp><DrvT vl="vocative"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t pos="A" edit="MK">? второй по возрасту брат</t>
@@ -36737,7 +36737,7 @@ jedoch
 <MWUB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="N">веженьсь теьтя</l>
-<st>веженьсь теьтя</st>
+<st>веженьсь тӒ4тя</st>
 <l_variants>
 <PhnU>
 <w myvId="веженьсь">v́ežeńś</w>
@@ -37334,7 +37334,7 @@ jedoch
 <HWB>
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
 <lg xml:lang="myv"><l pos="A">велень</l>
-<st>ве4лень</st>
+<st>вӒ4лень</st>
 <l_variants>
 <PhnU>
 <FrCm freeType="analogy" Modification="manus"/>
@@ -37355,7 +37355,7 @@ jedoch
 <MWUB>
 <E3Head><POS pos="N"/><deriv isa="gen-attr"/></E3Head>
 <lg xml:lang="myv"><l pos="A">лома велень</l>
-<st>лома веьлень</st>
+<st>лома вӒ4лень</st>
 <l_variants>
 <PhnU>
 <w myvId="лома">loma</w>
@@ -37380,7 +37380,7 @@ jedoch
 <MWUB>
 <E3Head><POS pos="N"/><deriv isa="prt-CE"/></E3Head>
 <lg xml:lang="myv"><l pos="A">весе велень</l>
-<st>веьсе веьлень</st>
+<st>вӒ4се вӒ4лень</st>
 <l_variants>
 <PhnU>
 <w myvId="весе">v́eśe</w>
@@ -37409,7 +37409,7 @@ jedoch
 <HWB>
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="A">велестэнь</l>
-<st>ве4лестэнь</st>
+<st>вӒ4лестэнь</st>
 </lg>
 <lg xml:lang="mdf"><l pos="A">велестонь</l>
 <st>велестонь</st>
@@ -37540,7 +37540,7 @@ jedoch
 <HWB>
 <E3Head><POS pos="N"/><deriv isa="dim-NE"/></E3Head>
 <lg xml:lang="myv"><l pos="A">веревне</l>
-<st>веьревне</st>
+<st>вӒ4ревне</st>
 <l_variants>
 <PhnU>
 <w myvId="вярейне">v́äŕejńe</w>
@@ -37590,7 +37590,7 @@ jedoch
 <HWB>
 <E3Head><POS pos="N"/><deriv isa="dim-NE"/></E3Head><E3Head><POS pos="N"/><deriv isa="dim-KINE"/></E3Head>
 <lg xml:lang="myv"><l pos="A">верекине</l>
-<st>ве4рекине</st>
+<st>вӒ4рекине</st>
 <l_variants>
 <PhnU>
 <FrCm freeType="analogy" Modification="manus"/>
@@ -37949,7 +37949,7 @@ jedoch
 <HWB>
 <E3Head><POS pos="N"/><deriv isa="Prc-CE"/></E3Head>
 <lg xml:lang="myv"><l pos="A">весе</l>
-<st>веьсе</st>
+<st>вӒ4се</st>
 <l_variants>
 <Chc>
 <Vrt>
@@ -38257,7 +38257,7 @@ jedoch
 <MWUB>
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
 <lg xml:lang="myv"><l pos="A">веьсень-веьсень</l>
-<st>веьсень-веьсень</st>
+<st>вӒ4сень-вӒ4сень</st>
 <l_variants>
 <PhnU>
 <w myvId="весень">v́eśeń</w>
@@ -39004,7 +39004,7 @@ jedoch
 <MWUB>
 <E3Head><POS pos="N"/><deriv isa="Dem"/></E3Head>
 <lg xml:lang="myv"><l pos="N">вишка сеьльмине</l>
-<st>вишка сеьльмине</st>
+<st>вишка сӒ4льмине</st>
 <l_variants>
 <PhnU>
 <w myvId="вишка">v́iška</w>
@@ -39051,7 +39051,7 @@ jedoch
 <MWUB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="N">вишка веьльне</l>
-<st>вишка веьльне</st>
+<st>вишка вӒ4льне</st>
 <l_variants>
 <PhnU>
 <w myvId="вишка">v́iška</w>
@@ -39527,7 +39527,7 @@ jedoch
 <HWB>
 <E3Head><POS pos="A"/></E3Head>
 <lg xml:lang="myv"><l pos="A">веьдев</l>
-<st>веьдев</st>
+<st>вӒ4дев</st>
 <l_variants>
 <PhnU>
 <w myvId="ведев">v́ed́ev</w>
@@ -39607,7 +39607,7 @@ jedoch
 <MWUB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="N">веьдев тарка</l>
-<st>веьдев тарка</st>
+<st>вӒ4дев тарка</st>
 <l_variants>
 <PhnU>
 <w myvId="ведев">v́ed́ev</w>
@@ -39634,7 +39634,7 @@ jedoch
 <HWB>
 <E3Head><POS pos="A"/></E3Head>
 <lg xml:lang="myv"><l pos="A">веьрев</l>
-<st>веьрев</st>
+<st>вӒ4рев</st>
 <l_variants>
 <PhnU>
 <FrCm freeType="analogy" Modification="manus"/>
@@ -39798,7 +39798,7 @@ jedoch
 <HWB>
 <E3Head><POS pos="A"/></E3Head>
 <lg xml:lang="myv"><l pos="A">веьрек</l>
-<st>веьрек</st>
+<st>вӒ4рек</st>
 <l_variants>
 <Chc>
 <Vrt>
@@ -40013,7 +40013,7 @@ jedoch
 <MWUB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="N">веьрек ал</l>
-<st>веьрек ал</st>
+<st>вӒ4рек ал</st>
 <l_variants>
 <PhnU>
 <w myvId="вярик">v́äŕiḱ</w>
@@ -40036,7 +40036,7 @@ jedoch
 <MWUB>
 <E3Head><POS freeType="morphological" pos="elative-adv"/></E3Head>
 <lg xml:lang="myv"><l pos="Adv">верекстэ</l>
-<st>веьрекстэ</st>
+<st>вӒ4рекстэ</st>
 <l_variants>
 <PhnU>
 <w myvId="вярекстэ">v́äŕekste͔</w>
@@ -40063,7 +40063,7 @@ jedoch
 <CompositionalPhraseCtn>
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
 <lg xml:lang="myv"><l pos="V">веьрекстэ сэьвимс</l>
-<st>веьрекстэ сэьвимс</st>
+<st>вӒ4рекстэ сӒ3вимс</st>
 <l_variants>
 <PhnU>
 <w myvId="вярекстэ">v́äŕekste͔</w>
@@ -40090,7 +40090,7 @@ jedoch
 <HWB>
 <E3Head><POS pos="A"/></E3Head>
 <lg xml:lang="myv"><l pos="A">веьрекшев</l>
-<st>веьрекшев</st>
+<st>вӒ4рекшев</st>
 <l_variants>
 <PhnU>
 <w myvId="верекшев">v́eŕekšev</w>
@@ -40129,7 +40129,7 @@ jedoch
 <HWB>
 <E3Head><POS pos="A"/></E3Head>
 <lg xml:lang="myv"><l pos="A">веьрьксэв</l>
-<st>веьрьксэв</st>
+<st>вӒ4рьксэв</st>
 <l_variants>
 <PhnU>
 <w myvId="верьксэв">v́eŕkse͔v</w>
@@ -40191,7 +40191,7 @@ jedoch
 <HWB>
 <E3Head><POS pos="A"/></E3Head>
 <lg xml:lang="myv"><l pos="A">веьцана</l>
-<st>веьцана</st>
+<st>вӒ4цана</st>
 <l_variants>
 <PhnU>
 <w myvId="вецана">v́ecana</w>
@@ -40304,7 +40304,7 @@ jedoch
 <MWUB>
 <E3Head><POS pos="N"/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="N">вецана модамарь</l>
-<st>веьцана модамарь</st>
+<st>вӒ4цана модамарь</st>
 </lg>
 <lg xml:lang="mdf"><l pos="N">вецана модамарь</l>
 <st>вецана модамарь</st>
@@ -40332,7 +40332,7 @@ jedoch
 <HWB>
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
 <lg xml:lang="myv"><l pos="A">веьчкемань</l>
-<st>веьчкемань</st>
+<st>вӒ4чкемань</st>
 <l_variants>
 <PhnU>
 <w myvId="вечкимань">v́ečḱimań</w>
@@ -40373,7 +40373,7 @@ jedoch
 <HWB>
 <E3Head><POS pos="N"/><deriv isa="dim-NE"/></E3Head>
 <lg xml:lang="myv"><l pos="A">веьчкемине</l>
-<st>веьчкемине</st>
+<st>вӒ4чкемине</st>
 <l_variants>
 <PhnU>
 <w myvId="вечкимине">v́ečḱiḿińe</w>
@@ -40505,7 +40505,7 @@ jedoch
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
-<compg drv="X:X»A" type="Der"><DrvT vl="diminutive"/><DrvStCtn><FrCm freeType="analogy" Modification="manus"/><DrvSt><w CyrId="видь">v́id́</w></DrvSt></DrvStCtn></compg>
+<compg drv="X:X»A" type="Der"><comp ord="E2" pos="Suf" type="diminutive"></comp><DrvStCtn><FrCm freeType="analogy" Modification="manus"/><DrvSt><w CyrId="видь">v́id́</w></DrvSt></DrvStCtn></compg>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -48577,7 +48577,7 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 <MWUB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="N">живой веьдь</l>
-<st>живой веьдь</st>
+<st>живой вӒ4дь</st>
 <l_variants>
 <PhnU>
 <w myvId="жівой">živoj</w>
@@ -58866,7 +58866,7 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 <HWB>
 <E3Head><POS freeType="morphological" pos="noun:Abe"/></E3Head>
 <lg xml:lang="myv"><l pos="A">кенжтеме</l>
-<st>ке4нжтеме</st>
+<st>кӒ4нжтеме</st>
 <l_variants>
 <PhnU>
 <w myvId="кяньштимя">ḱäńšt́i·ḿä</w>
@@ -60013,7 +60013,7 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 <MWUB>
 <E3Head><POS freeType="morphological" pos="gen-attr"/><deriv isa="Dem"/></E3Head>
 <lg xml:lang="myv"><l pos="N">гигерень кече</l>
-<st>гигерень ке4че</st>
+<st>гигерень кӒ4че</st>
 <l_variants>
 <PhnU>
 <w myvId="гигерень">ǵiǵiŕiń</w>
@@ -61780,7 +61780,7 @@ Russ., wohl Kontam.: <Et>госуда́рев + госуда́рский</Et>
 <GeoU xml:lang="mdf">Saz</GeoU>
 </l_variants>
 </lg>
-<compg drv="X:X»A" type="Der"><DrvT vl="diminutive"/><DrvSt><CapI>
+<compg drv="X:X»A" type="Der"><comp ord="E2" pos="Suf" type="diminutive"></comp><DrvSt><CapI>
 <i><tk2>
 <w CyrId="кичкере">ḱičḱeŕe</w></tk2></i></CapI>, <CapI>
 <i><tk2>
@@ -69652,7 +69652,7 @@ Pfriemen erstechen!</t>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="A">лемтеме</l>
-<st>ле4мтеме</st>
+<st>лӒ4мтеме</st>
 <l_variants>
 <Chc>
 <Vrt>
@@ -74094,7 +74094,7 @@ Pfriemen erstechen!</t>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
-<compg drv="X:X»A" type="Der">(<DrvT vl="diminutive"/><DrvSt><DrvStCtn><DrvSt><w CyrId="мазы">mazi͔</w></DrvSt></DrvStCtn><stem>eig. zu <i><tk2>
+<compg drv="X:X»A" type="Der">(<comp ord="E2" pos="Suf" type="diminutive"></comp><DrvSt><DrvStCtn><DrvSt><w CyrId="мазы">mazi͔</w></DrvSt></DrvStCtn><stem>eig. zu <i><tk2>
 <w CyrId="мазыне">mazi͔ńe</w></tk2></i></stem></DrvSt>)</compg>
 <mg>
 <tg xml:lang="rus">
@@ -74191,7 +74191,7 @@ Pfriemen erstechen!</t>
 <GeoU xml:lang="mdf">Atjur</GeoU>
 </l_variants>
 </lg>
-<compg drv="X:X»A" type="Der">(<DrvT vl="diminutive"/><DrvSt><DrvStCtn><DrvSt><w CyrId="мазэ">maze͔</w></DrvSt></DrvStCtn><DrvStCtn><DrvSt><w CyrId="мазы">mazi͔</w></DrvSt></DrvStCtn><DrvStCtn><DrvSt><w CyrId="мази">maźi</w></DrvSt></DrvStCtn></DrvSt>)</compg>
+<compg drv="X:X»A" type="Der">(<comp ord="E2" pos="Suf" type="diminutive"></comp><DrvSt><DrvStCtn><DrvSt><w CyrId="мазэ">maze͔</w></DrvSt></DrvStCtn><DrvStCtn><DrvSt><w CyrId="мазы">mazi͔</w></DrvSt></DrvStCtn><DrvStCtn><DrvSt><w CyrId="мази">maźi</w></DrvSt></DrvStCtn></DrvSt>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t pos="A" edit="MK">прекрасненький</t>
@@ -80698,7 +80698,7 @@ P.: Eine metathetische F. aus <Et>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="A">недьшка</l>
-<st>не4дьшка</st>
+<st>нӒ4дьшка</st>
 <l_variants>
 <PhnU>
 <w myvId="нятшка">ńätška</w>
@@ -83651,7 +83651,7 @@ P.: Eine metathetische F. aus <Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
-<compg drv="X:X»A" type="Der">(<DrvT vl="diminutive"/>
+<compg drv="X:X»A" type="Der">(<comp ord="E2" pos="Suf" type="diminutive"></comp>
 <stem><FrCm freeType="analogy" Modification="manus"/><i><tk2>
 <w myvId="нюрьхкине">ńuŕʿḱińe</w></tk2></i></stem>
 <stem><FrCm freeType="analogy" Modification="manus"/><i><tk2>
@@ -85653,7 +85653,7 @@ P.: Eine metathetische F. aus <Et>
 <MWUB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="N">од теьйтерь</l>
-<st>од теьйтерь</st>
+<st>од тӒ4йтерь</st>
 <l_variants>
 <PhnU>
 <w myvId="од">od</w>
@@ -86138,7 +86138,7 @@ P.: Eine metathetische F. aus <Et>
 <MWUB>
 <E3Head><POS/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="Prop">Од веьле</l>
-<st>Од веьле</st>
+<st>Од вӒ4ле</st>
 </lg>
 <lg xml:lang="mdf"><l pos="Prop">Од веля</l>
 <st>Од веля</st>
@@ -89761,7 +89761,7 @@ des Hauses</t>
 <GeoU xml:lang="mdf" edit="MK">P</GeoU>
 </l_variants>
 </lg>
-<compg drv="X:X»A" type="Der">(<DrvT vl="diminutive"/><DrvT vl="vocative"/>)</compg>
+<compg drv="X:X»A" type="Der">(<comp ord="E2" pos="Suf" type="diminutive"></comp><DrvT vl="vocative"/>)</compg>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -93435,7 +93435,7 @@ des Hauses</t>
 <MWUB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="N">паро веьлькс</l>
-<st>паро веьлькс</st>
+<st>паро вӒ4лькс</st>
 <l_variants>
 <PhnU>
 <w myvId="паро">paro</w>
@@ -94188,7 +94188,7 @@ des Hauses</t>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="A">пекев</l>
-<st>пе4кев</st>
+<st>пӒ4кев</st>
 <l_variants>
 <PhnU>
 <w myvId="пекей">ṕeḱej</w>
@@ -94355,7 +94355,7 @@ des Hauses</t>
 <MWUB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l>веь пеькень</l>
-<st>веь пеькень</st>
+<st>вӒ4 пӒ4кень</st>
 <l_variants>
 <PhnU>
 <w myvId="ве">v́e</w>
@@ -95675,7 +95675,7 @@ des Hauses</t>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="A">пешка</l>
-<st>пе4шка</st>
+<st>пӒ4шка</st>
 <l_variants>
 <PhnU>
 <w myvId="пешка">ṕeška</w>
@@ -99568,7 +99568,7 @@ des Hauses</t>
 <MWUB>
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
 <lg xml:lang="myv"><l pos="N">веьлень покш</l>
-<st>веьлень покш</st>
+<st>вӒ4лень покш</st>
 <l_variants>
 <PhnU>
 <w myvId="велень">v́eĺeń</w>
@@ -110586,7 +110586,7 @@ Aus der russ. prädik. F. <Et>робка</Et>]
 <MWUB>
 <E3Head><POS/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="N">салов веьдь</l>
-<st>салов веьдь</st>
+<st>салов вӒ4дь</st>
 </lg>
 <lg xml:lang="mdf"><l>салу ведь</l>
 <st>салу ведь</st>
@@ -111506,7 +111506,7 @@ Adj.-Ableit. von russ. <Et>сего́дня</Et> ‘heute’]
 <HWB>
 <E3Head><POS pos="N"/><deriv isa="DVNoun-OMA"/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="A">седейтеме</l>
-<st>сеьдейтеме</st>
+<st>сӒ4дейтеме</st>
 </lg>
 <lg xml:lang="mdf"><l>седифтема</l>
 <st>седифтема</st>
@@ -111535,7 +111535,7 @@ Adj.-Ableit. von russ. <Et>сего́дня</Et> ‘heute’]
 <HWB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="A">седейшка</l>
-<st>сеьдейшка</st>
+<st>сӒ4дейшка</st>
 <l_variants>
 <PhnU>
 <w myvId="сядийшка">śäd́i·jška</w>
@@ -111758,7 +111758,7 @@ Adj.-Ableit. von russ. <Et>сего́дня</Et> ‘heute’]
 <HWB>
 <E3Head><POS/><deriv isa="Dem"/></E3Head>
 <lg xml:lang="myv"><l pos="A">сеедьге</l>
-<st>сеьедьге</st>
+<st>сӒ4едьге</st>
 <l_variants>
 <PhnU>
 <w myvId="сеедьге">śejed́ǵe</w>
@@ -111802,7 +111802,7 @@ Adj.-Ableit. von russ. <Et>сего́дня</Et> ‘heute’]
 <HWB>
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="A">сеелень</l>
-<st>сеьелень</st>
+<st>сӒ4елень</st>
 </lg>
 <lg xml:lang="mdf"><l>сеелень</l>
 <st>сеелень</st>
@@ -111922,7 +111922,7 @@ Adj.-Ableit. von russ. <Et>сего́дня</Et> ‘heute’]
 <MWUB>
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="N">селеень кеьрь</l>
-<st>селеень кеьрь</st>
+<st>селеень кӒ4рь</st>
 </lg>
 <lg xml:lang="mdf"><l>сялиень кяр</l>
 <st>сялиень кяр</st>
@@ -111950,7 +111950,7 @@ Adj.-Ableit. von russ. <Et>сего́дня</Et> ‘heute’]
 <HWB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="A">сельгев</l>
-<st>сеьльгев</st>
+<st>сӒ4льгев</st>
 <l_variants>
 <PhnU>
 <w myvId="сельгев">śeĺǵev</w>
@@ -121311,7 +121311,7 @@ Russ., aus der prädik. F. <Et>сыра &lt; сыро́й</Et>]
 <MWUB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="N">сыре теьйтерь</l>
-<st>сыре теьйтерь</st>
+<st>сыре тӒ4йтерь</st>
 <l_variants>
 <PhnU>
 <w myvId="сыре">si͔ŕe</w>
@@ -122037,7 +122037,7 @@ Russ., aus der prädik. F. <Et>сыра &lt; сыро́й</Et>]
 <MWUB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="N">сьвежа веьдь</l>
-<st>сьвежа веьдь</st>
+<st>сьвежа вӒ4дь</st>
 <l_variants>
 <PhnU>
 <w myvId="сьвежа">śv́eža</w>
@@ -122404,7 +122404,7 @@ Russ., aus der prädik. F. <Et>сыра &lt; сыро́й</Et>]
 <HWB>
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
 <lg xml:lang="myv"><l pos="A">сэнь</l>
-<st>сэьнь</st>
+<st>сӒ3нь</st>
 <l_variants>
 <Chc>
 <Vrt>
@@ -122576,7 +122576,7 @@ Russ., aus der prädik. F. <Et>сыра &lt; сыро́й</Et>]
 <MWUB>
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
 <lg xml:lang="myv"><l pos="N">сэьнь кеьв</l>
-<st>сэьнь кеьв</st>
+<st>сӒ3нь кӒ4в</st>
 <l_variants>
 <PhnU>
 <w myvId="сэнь">se͔ń</w>
@@ -122636,7 +122636,7 @@ Russ., aus der prädik. F. <Et>сыра &lt; сыро́й</Et>]
 <MWUB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="N">пиже сэьнь кеьв</l>
-<st>пиже сэьнь кеьв</st>
+<st>пиже сӒ3нь кӒ4в</st>
 <l_variants>
 <Chc>
 <Vrt>
@@ -122675,7 +122675,7 @@ Russ., aus der prädik. F. <Et>сыра &lt; сыро́й</Et>]
 <MWUB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="N">раужо сэьнь кеьв</l>
-<st>раужо сэьнь кеьв</st>
+<st>раужо сӒ3нь кӒ4в</st>
 <l_variants>
 <PhnU>
 <w myvId="раужо">raužo</w>
@@ -122700,7 +122700,7 @@ Russ., aus der prädik. F. <Et>сыра &lt; сыро́й</Et>]
 <MWUB>
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
 <lg xml:lang="myv"><l pos="N">сэьнь пря</l>
-<st>сэьнь пря</st>
+<st>сӒ3нь пря</st>
 <l_variants>
 <PhnU>
 <w myvId="сэнь">se͔ń</w>
@@ -122743,7 +122743,7 @@ Russ., aus der prädik. F. <Et>сыра &lt; сыро́й</Et>]
 <MWUB>
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
 <lg xml:lang="myv"><l pos="N">сэьнь пря-тикше</l>
-<st>сэьнь пря-тикше</st>
+<st>сӒ3нь пря-тикше</st>
 <l_variants>
 <PhnU>
 <w myvId="сэнь">se͔ń</w>
@@ -122784,7 +122784,7 @@ Russ., aus der prädik. F. <Et>сыра &lt; сыро́й</Et>]
 <MWUB>
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
 <lg xml:lang="myv"><l pos="N">сэьнь умарь</l>
-<st>сэьнь умарь</st>
+<st>сӒ3нь умарь</st>
 <l_variants>
 <PhnU>
 <w myvId="сэнь">se͔ń</w>
@@ -122807,7 +122807,7 @@ Russ., aus der prädik. F. <Et>сыра &lt; сыро́й</Et>]
 <MWUB>
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
 <lg xml:lang="myv"><l pos="N">сэьнь умарь-неьдькс</l>
-<st>сэьнь умарь-неьдькс</st>
+<st>сӒ3нь умарь-нӒ4дькс</st>
 <l_variants>
 <PhnU>
 <w myvId="сэнь">se͔ń</w>
@@ -122841,7 +122841,7 @@ Russ., aus der prädik. F. <Et>сыра &lt; сыро́й</Et>]
 <CompositionalPhraseCtn>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="V">сэьньс викшнемс</l>
-<st>сэьньс викшнемс</st>
+<st>сӒ3ньс викшнемс</st>
 <l_variants>
 <PhnU>
 <w myvId="сэньц">se͔ńc</w>
@@ -123063,7 +123063,7 @@ Russ., aus der prädik. F. <Et>сыра &lt; сыро́й</Et>]
 <HWB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="A">сэрей</l>
-<st>сэ4рей</st>
+<st>сӒ3рей</st>
 <l_variants>
 <Chc>
 <Vrt>
@@ -123384,7 +123384,7 @@ Russ., aus der prädik. F. <Et>сыра &lt; сыро́й</Et>]
 <MWUB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="N">сэьрей-чи</l>
-<st>сэьрей-чи</st>
+<st>сӒ3рей-чи</st>
 <l_variants>
 <PhnU>
 <w myvId="сэрей">se͔ŕej</w>
@@ -123408,7 +123408,7 @@ Russ., aus der prädik. F. <Et>сыра &lt; сыро́й</Et>]
 <MWUB>
 <E3Head><POS pos="N"/><deriv isa="prt-I"/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="N">сэьрей кочкаря</l>
-<st>сэьрей кочкаря</st>
+<st>сӒ3рей кочкаря</st>
 </lg>
 <lg xml:lang="mdf"><l>сери кочкяря</l>
 <st>сери кочкяря</st>
@@ -123493,7 +123493,7 @@ Russ., aus der prädik. F. <Et>сыра &lt; сыро́й</Et>]
 <MWUB>
 <E3Head><POS pos="N"/><deriv isa="prt-I"/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="N">сэьрей серька</l>
-<st>сэьрей серька</st>
+<st>сӒ3рей серька</st>
 </lg>
 <lg xml:lang="mdf"><l>сери сярькя</l>
 <st>сери сярькя</st>
@@ -123544,7 +123544,7 @@ Russ., aus der prädik. F. <Et>сыра &lt; сыро́й</Et>]
 <MWUB>
 <E3Head><POS freeType="morphological" pos="elative-adv"/></E3Head>
 <lg xml:lang="myv"><l>сэьрейстэ</l>
-<st>сэьрейстэ</st>
+<st>сӒ3рейстэ</st>
 <l_variants>
 <Chc>
 <Vrt>
@@ -123603,7 +123603,7 @@ Russ., aus der prädik. F. <Et>сыра &lt; сыро́й</Et>]
 <MWUB>
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
 <lg xml:lang="myv"><l>сэьрейстэ кеьпедезь</l>
-<st>сэьрейстэ кеьпедезь</st>
+<st>сӒ3рейстэ кӒ4педезь</st>
 <l_variants>
 <PhnU>
 <w myvId="сэрейстэ">se͔ŕejste͔</w>
@@ -123661,7 +123661,7 @@ Russ., aus der prädik. F. <Et>сыра &lt; сыро́й</Et>]
 <HWB>
 <E3Head><POS/><deriv isa="Dem"/></E3Head>
 <lg xml:lang="myv"><l pos="A">сэрейге</l>
-<st>сэьрейге</st>
+<st>сӒ3рейге</st>
 <l_variants>
 <PhnU>
 <w myvId="сэрейге">se͔ŕejǵe</w>
@@ -123777,7 +123777,7 @@ Russ., aus der prädik. F. <Et>сыра &lt; сыро́й</Et>]
 <HWB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="A">сэрьтеме</l>
-<st>сэьрьтеме</st>
+<st>сӒ3рьтеме</st>
 <l_variants>
 <PhnU>
 <w myvId="сярьфтюма">śäŕft́uma</w>
@@ -124306,7 +124306,7 @@ Russ., aus der prädik. F. <Et>сыра &lt; сыро́й</Et>]
 <HWB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="A">сэьнев</l>
-<st>сэьнев</st>
+<st>сӒ3нев</st>
 <l_variants>
 <PhnU>
 <w myvId="сӓ͔нев">sä͔ńev</w>
@@ -124346,7 +124346,7 @@ Russ., aus der prädik. F. <Et>сыра &lt; сыро́й</Et>]
 <HWB>
 <E3Head><POS pos="N"/><deriv isa="dim-NE"/></E3Head>
 <lg xml:lang="myv"><l pos="A">сэьнне</l>
-<st>сэьнне</st>
+<st>сӒ3нне</st>
 <l_variants>
 <Chc>
 <Vrt>
@@ -124385,7 +124385,7 @@ Russ., aus der prädik. F. <Et>сыра &lt; сыро́й</Et>]
 <HWB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="A">сэьняжа</l>
-<st>сэьняжа</st>
+<st>сӒ3няжа</st>
 <l_variants>
 <PhnU>
 <w myvId="сэняжа">se͔ńaža</w>
@@ -124411,7 +124411,7 @@ Russ., aus der prädik. F. <Et>сыра &lt; сыро́й</Et>]
 <HWB>
 <E3Head><POS/><deriv isa="Dem"/></E3Head>
 <lg xml:lang="myv"><l pos="A">сэьрьтемингя</l>
-<st>сэьрьтемингя</st>
+<st>сӒ3рьтемингя</st>
 <l_variants>
 <PhnU>
 <w myvId="сярьфтюмингя">śäŕft́uḿiŋǵä</w>
@@ -128387,7 +128387,7 @@ Russ., aus der prädik. F. <Et>сыра &lt; сыро́й</Et>]
 <MWUB>
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
 <lg xml:lang="myv"><l pos="N">таштазонь теьйтерь</l>
-<st>таштазонь теьйтерь</st>
+<st>таштазонь тӒ4йтерь</st>
 <l_variants>
 <PhnU>
 <w myvId="таштазонь">taštazoń</w>
@@ -128704,7 +128704,7 @@ Russ., aus der prädik. F. <Et>сыра &lt; сыро́й</Et>]
 <MWUB>
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
 <lg xml:lang="myv"><l pos="N">таштонь теьйтерь</l>
-<st>таштонь теьйтерь</st>
+<st>таштонь тӒ4йтерь</st>
 <l_variants>
 <PhnU>
 <w myvId="таштонь">taštoń</w>
@@ -128727,7 +128727,7 @@ Russ., aus der prädik. F. <Et>сыра &lt; сыро́й</Et>]
 <MWUB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="Prop">ташто веьле</l>
-<st>ташто веьле</st>
+<st>ташто вӒ4ле</st>
 <l_variants>
 <PhnU>
 <w myvId="ташто">tašto</w>
@@ -129751,7 +129751,7 @@ Russ., aus der prädik. F. <Et>сыра &lt; сыро́й</Et>]
 <HWB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="A">теьйтерев</l>
-<st>теьйтерев</st>
+<st>тӒ4йтерев</st>
 <l_variants>
 <PhnU>
 <w myvId="тейтерев">t́ejt́eŕev</w>
@@ -129788,7 +129788,7 @@ Russ., aus der prädik. F. <Et>сыра &lt; сыро́й</Et>]
 <HWB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="A">теьйтерьшка</l>
-<st>теьйтерьшка</st>
+<st>тӒ4йтерьшка</st>
 <l_variants>
 <PhnU>
 <w myvId="тейтерьшка">t́ejt́eŕška</w>
@@ -134300,7 +134300,7 @@ auch
 <MWUB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="N">ужовой веьдь</l>
-<st>ужовой веьдь</st>
+<st>ужовой вӒ4дь</st>
 <l_variants>
 <PhnU>
 <w myvId="ужовой">užovoj</w>
@@ -140792,7 +140792,7 @@ Nach Utsch. schwört man folgenderweise: [am Tage:] <x>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
-<compg drv="X:X»A" type="Der"><DrvT vl="diminutive"/><DrvStCtn><FrCm freeType="analogy" Modification="manus"/><DrvSt><w myvId="човинька">čov́ińka</w></DrvSt></DrvStCtn></compg>
+<compg drv="X:X»A" type="Der"><comp ord="E2" pos="Suf" type="diminutive"></comp><DrvStCtn><FrCm freeType="analogy" Modification="manus"/><DrvSt><w myvId="човинька">čov́ińka</w></DrvSt></DrvStCtn></compg>
 <mg>
 <tg xml:lang="rus">
 <t pos="A" edit="MK">очень тонкий</t>
@@ -140916,7 +140916,7 @@ Nach Utsch. schwört man folgenderweise: [am Tage:] <x>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
-<compg drv="X:X»A" type="Der"><DrvT vl="diminutive"/><DrvStCtn><FrCm freeType="analogy" Modification="manus"/><DrvSt><w myvId="чождыŋ́ка">čoždi͔ŋ́ka</w></DrvSt></DrvStCtn></compg>
+<compg drv="X:X»A" type="Der"><comp ord="E2" pos="Suf" type="diminutive"></comp><DrvStCtn><FrCm freeType="analogy" Modification="manus"/><DrvSt><w myvId="чождыŋ́ка">čoždi͔ŋ́ka</w></DrvSt></DrvStCtn></compg>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -141922,7 +141922,7 @@ Nach Utsch. schwört man folgenderweise: [am Tage:] <x>
 <MWUB>
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
 <lg xml:lang="myv"><l pos="N">чуважонь теьйтерь</l>
-<st>чуважонь теьйтерь</st>
+<st>чуважонь тӒ4йтерь</st>
 <l_variants>
 <PhnU>
 <w myvId="чуважонь">čuvažoń</w>
@@ -143919,7 +143919,7 @@ Nach Utsch. schwört man folgenderweise: [am Tage:] <x>
 <FrCm freeType="RelationToPreviousSibling" status="od"/>
 <w mdfId="штадонь">štadə̑ń</w>
 <wCtn>
-<w mdfId="прянят">pŕäńat</w><DrvT vl="diminutive"/>
+<w mdfId="прянят">pŕäńat</w><comp ord="E2" pos="Suf" type="diminutive"></comp>
 </wCtn>
 </Vrt>
 </Chc></x>
@@ -146955,7 +146955,7 @@ Nach Utsch. schwört man folgenderweise: [am Tage:] <x>
 <MWUB>
 <E3Head><POS freeType="morphological" pos="gen-attr"/><deriv isa="Dem"/></E3Head>
 <lg xml:lang="myv"><l pos="N">эьрьзьань теьйтерь</l>
-<st>эьрьзьань теьйтерь</st>
+<st>Ӓ3рьзьань тӒ4йтерь</st>
 <l_variants>
 <PhnU>
 <w myvId="эрьᴣань">eŕᴣ́ań</w>
@@ -153812,7 +153812,7 @@ Nach Utsch. schwört man folgenderweise: [am Tage:] <x>
 <MWUB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="N">вере веьле</l>
-<st>вере веьле</st>
+<st>вере вӒ4ле</st>
 <l_variants>
 <PhnU>
 <w myvId="вере">v́eŕe</w>
@@ -155798,7 +155798,7 @@ Nach Utsch. schwört man folgenderweise: [am Tage:] <x>
 <CompositionalPhraseCtn>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="V">ингельде веьлявтомс</l>
-<st>ингельде веьлявтомс</st>
+<st>ингельде вӒ4лявтомс</st>
 <l_variants>
 <PhnU>
 <w myvId="ингельде">iŋǵeĺd́e</w>
@@ -157775,7 +157775,7 @@ Nach Utsch. schwört man folgenderweise: [am Tage:] <x>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="Adv">сэньчть</l>
-<st>сэьньчть</st>
+<st>сӒ3ньчть</st>
 <l_variants>
 <PhnU>
 <w myvId="сэньчть">se͔ńčt́</w>
@@ -157808,7 +157808,7 @@ Nach Utsch. schwört man folgenderweise: [am Tage:] <x>
 <CompositionalPhraseCtn>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="V">сэьньшть меремс</l>
-<st>сэьньшть меремс</st>
+<st>сӒ3ньшть меремс</st>
 <l_variants>
 <PhnU>
 <w myvId="сэньшть">se͔ńšt́</w>
@@ -157839,7 +157839,7 @@ Nach Utsch. schwört man folgenderweise: [am Tage:] <x>
 <CompositionalPhraseCtn>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="V">сэьньшт молемс</l>
-<st>сэьньшт молемс</st>
+<st>сӒ3ньшт молемс</st>
 <l_variants>
 <PhnU>
 <w myvId="сӓншт">sänšt</w>
@@ -160298,7 +160298,7 @@ Nach Utsch. schwört man folgenderweise: [am Tage:] <x>
 <GeoU xml:lang="mdf">Cjatn</GeoU>
 </l_variants>
 </lg>
-<compg drv="X:X»A" type="Der"><DrvT vl="diminutive"/><DrvStCtn><FrCm freeType="analogy" Modification="manus"/><DrvSt><w CyrId="мазоптф">mazə̑ptf</w></DrvSt></DrvStCtn></compg>
+<compg drv="X:X»A" type="Der"><comp ord="E2" pos="Suf" type="diminutive"></comp><DrvStCtn><FrCm freeType="analogy" Modification="manus"/><DrvSt><w CyrId="мазоптф">mazə̑ptf</w></DrvSt></DrvStCtn></compg>
 <mg>
 <tg xml:lang="rus">
 <t pos="A" edit="MK">крашенный в красный цвет</t>
@@ -162240,7 +162240,7 @@ Vgl. <x>
 </PhnU>
 </l_variants>
 </lg>
-<compg drv="X:X»A" type="Der"><DrvT vl="diminutive"/><DrvStCtn><FrCm freeType="analogy" Modification="manus"/><DrvSt><w CyrId="чуванька">čuva·ńka</w></DrvSt></DrvStCtn></compg>
+<compg drv="X:X»A" type="Der"><comp ord="E2" pos="Suf" type="diminutive"></comp><DrvStCtn><FrCm freeType="analogy" Modification="manus"/><DrvSt><w CyrId="чуванька">čuva·ńka</w></DrvSt></DrvStCtn></compg>
 <mg>
 <Sense vl="notGiven"/>
 </mg>
@@ -162441,7 +162441,7 @@ Vgl. <x>
 <GeoU xml:lang="mdf">Temn</GeoU>
 </l_variants>
 </lg>
-<compg drv="X:X»A" type="Der"><DrvT vl="diminutive"/><DrvStCtn><FrCm freeType="analogy" Modification="manus"/><DrvSt><w CyrId="шумордай">šumə̑rdaj</w></DrvSt></DrvStCtn></compg>
+<compg drv="X:X»A" type="Der"><comp ord="E2" pos="Suf" type="diminutive"></comp><DrvStCtn><FrCm freeType="analogy" Modification="manus"/><DrvSt><w CyrId="шумордай">šumə̑rdaj</w></DrvSt></DrvStCtn></compg>
 <mg>
 <tg xml:lang="rus">
 <t pos="A" edit="MK">завершающий</t>
@@ -162719,7 +162719,7 @@ Vgl. <x>
 <GeoU xml:lang="mdf">Pš</GeoU>
 </l_variants>
 </lg>
-<compg drv="X:X»A" type="Der"><DrvT vl="diminutive"/><DrvStCtn><DrvSt><w mdfId="антерь">ańt́əŕ</w></DrvSt></DrvStCtn></compg>
+<compg drv="X:X»A" type="Der"><comp ord="E2" pos="Suf" type="diminutive"></comp><DrvStCtn><DrvSt><w mdfId="антерь">ańt́əŕ</w></DrvSt></DrvStCtn></compg>
 <mg copiedFrom="preceding">
 <tg xml:lang="rus">
 <t pos="A" edit="MK">крошечный</t>
@@ -163292,7 +163292,7 @@ Vgl. <x>
 <GeoU xml:lang="mdf">Pš</GeoU>
 </l_variants>
 </lg>
-<compg drv="X:X»A" type="Der"><DrvT vl="diminutive"/><DrvStCtn><DrvSt><w mdfId="айра">ajra</w></DrvSt></DrvStCtn></compg>
+<compg drv="X:X»A" type="Der"><comp ord="E2" pos="Suf" type="diminutive"></comp><DrvStCtn><DrvSt><w mdfId="айра">ajra</w></DrvSt></DrvStCtn></compg>
 <mg copiedFrom="preceding">
 <tg xml:lang="rus">
 <t>холодный</t>
@@ -164616,7 +164616,7 @@ Vgl. <x>
 <GeoU xml:lang="mdf">Kr</GeoU>
 </l_variants>
 </lg>
-<compg drv="X:X»A" type="Der"><DrvT vl="diminutive"/><DrvStCtn><FrCm freeType="analogy" Modification="manus"/><DrvSt><w CyrId="лажнай">lažnaj</w></DrvSt></DrvStCtn></compg>
+<compg drv="X:X»A" type="Der"><comp ord="E2" pos="Suf" type="diminutive"></comp><DrvStCtn><FrCm freeType="analogy" Modification="manus"/><DrvSt><w CyrId="лажнай">lažnaj</w></DrvSt></DrvStCtn></compg>
 <mg>
 <tg xml:lang="rus">
 <t pos="A" edit="MK">оплакивающий</t>
@@ -166221,7 +166221,7 @@ Vgl. <x>
 <HWB>
 <E3Head><POS/><deriv isa="DVNoun-OMA"/></E3Head>
 <lg xml:lang="myv"><l pos="N">веьсеме</l>
-<st>веьсеме</st>
+<st>вӒ4семе</st>
 <l_variants>
 <PhnU>
 <w myvId="весьэме">v́eś̀eḿe</w>
@@ -166405,7 +166405,7 @@ Vgl. <x>
 <MWUB>
 <E3Head><POS pos="A"/></E3Head>
 <lg xml:lang="myv"><l pos="A">веьсемеде покш</l>
-<st>веьсемеде покш</st>
+<st>вӒ4семеде покш</st>
 <l_variants>
 <PhnU>
 <w myvId="весьэмеде">v́eś̀eḿed́e</w>
@@ -166585,7 +166585,7 @@ Vgl. <x>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="N"/><st/>
 </lg>
-<compg drv="X:X»A" type="Der"><DrvT vl="diminutive"/><DrvStCtn><DrvSt><w myvId="виде">v́id́e</w>
+<compg drv="X:X»A" type="Der"><comp ord="E2" pos="Suf" type="diminutive"></comp><DrvStCtn><DrvSt><w myvId="виде">v́id́e</w>
 <w myvId="-">-</w>
 <w myvId="чи">či</w></DrvSt></DrvStCtn></compg>
 <mg>
@@ -167464,7 +167464,7 @@ Vgl. <x>
 <EtCtn>
 <Et edit="MK">карюш(к)а</Et>
 </EtCtn>[
-<DerivationBlock><DrvT vl="diminutive"/><DrvSrc>карька</DrvSrc>
+<DerivationBlock><comp ord="E2" pos="Suf" type="diminutive"></comp><DrvSrc>карька</DrvSrc>
 </DerivationBlock>]
 </etymonCtn>
 </etymology>
@@ -169828,7 +169828,7 @@ altruss. <Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="A"/><st/>
 </lg>
-<compg drv="X:X»A" type="Der"><DrvT vl="diminutive"/><DrvStCtn><FrCm freeType="analogy" Modification="manus"/><DrvSt><w myvId="мелкой">ḿelkoj</w></DrvSt></DrvStCtn></compg>
+<compg drv="X:X»A" type="Der"><comp ord="E2" pos="Suf" type="diminutive"></comp><DrvStCtn><FrCm freeType="analogy" Modification="manus"/><DrvSt><w myvId="мелкой">ḿelkoj</w></DrvSt></DrvStCtn></compg>
 <mg>
 <tg xml:lang="rus">
 <t pos="A" edit="MK">меленький</t>
@@ -175522,7 +175522,7 @@ altruss. <Et>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="N">сэьнедема</l>
-<st>сэьнедема</st>
+<st>сӒ3недема</st>
 <l_variants>
 <PhnU>
 <w myvId="сэнедьма">se͔ńed́ma</w>
@@ -175548,7 +175548,7 @@ altruss. <Et>
 <HWB>
 <E3Head><POS pos="Attr-Tra"/></E3Head>
 <lg xml:lang="myv"><l pos="N">сэьнедькс</l>
-<st>сэьнедькс</st>
+<st>сӒ3недькс</st>
 <l_variants>
 <PhnU>
 <w myvId="сэнетькс">se͔ńet́ks</w>
@@ -175597,7 +175597,7 @@ altruss. <Et>
 <HWB>
 <E3Head><POS pos="N"/><deriv isa="DVNoun-OMA"/></E3Head>
 <lg xml:lang="myv"><l pos="N">сэьнчкалема</l>
-<st>сэьнчкалема</st>
+<st>сӒ3нчкалема</st>
 <l_variants>
 <PhnU>
 <w myvId="сэнчкалима">se͔nčkaĺima</w>
@@ -175691,7 +175691,7 @@ altruss. <Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l pos="N"/><st/>
 </lg>
-<compg drv="X:X»N" type="Der"><DrvT vl="diminutive"/><DrvStCtn><FrCm freeType="analogy" Modification="manus"/><DrvSt><w myvId="сярдак">śardak</w></DrvSt></DrvStCtn></compg>
+<compg drv="X:X»N" type="Der"><comp ord="E2" pos="Suf" type="diminutive"></comp><DrvStCtn><FrCm freeType="analogy" Modification="manus"/><DrvSt><w myvId="сярдак">śardak</w></DrvSt></DrvStCtn></compg>
 <mg>
 <tg xml:lang="rus">
 <t pos="A" edit="MK">жалкая хижина</t>
@@ -176078,7 +176078,7 @@ altruss. <Et>
 </l_variants>
 </lg>
 <compg drv="X:X»A" type="Der"><DrvTCtn>
-<FrCm edit="MK" freeType="questionRelation" Modification="MK"/><DrvT vl="diminutive"/></DrvTCtn>[<DrvStCtn><DrvSt><w CyrId="мелянь">ḿeĺäń</w></DrvSt></DrvStCtn>]</compg>
+<FrCm edit="MK" freeType="questionRelation" Modification="MK"/><comp ord="E2" pos="Suf" type="diminutive"></comp></DrvTCtn>[<DrvStCtn><DrvSt><w CyrId="мелянь">ḿeĺäń</w></DrvSt></DrvStCtn>]</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">прошлогодний</t>

@@ -8418,7 +8418,7 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 </MWUB>
 <MWUB>
 <E3Head><POS pos="Adv-Temp"/><deriv isa="Dem"/></E3Head>
-<lg xml:lang="myv"><l>а куватькес</l>
+<lg xml:lang="myv"><l pos="Adv">а куватькес</l>
 <st>а куватькес</st>
 <l_variants>
 <PhnU>
@@ -8431,13 +8431,13 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l/><st/>
 </lg>
-<compg drv="X:X»Pcle" type="Der">(<DrvT vl="diminutive"/><Cx vl="illative"/>)</compg>
+<compg drv="X:X»Adv" type="Der">(<comp ord="E2" pos="Suf" type="diminutive"></comp><Cx vl="illative"/>)</compg>
 <mg>
 <tg xml:lang="rus">
-<t edit="MK">недолго</t>
+<t edit="MK" pos="Adv">недолго</t>
 </tg>
 <tg xml:lang="deu">
-<t>nicht lange</t>
+<t pos="Adv">nicht lange</t>
 </tg>
 </mg>
 </MWUB>

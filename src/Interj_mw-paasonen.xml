@@ -6884,7 +6884,7 @@ mordw. <Et>
 <GeoU xml:lang="mdf">P</GeoU>
 </l_variants>
 </lg>
-<compg drv="X:X»N" type="Der">(<DrvT vl="diminutive"/><DrvT vl="vocative"/>)</compg>
+<compg drv="X:X»N" type="Der">(<comp ord="E2" pos="Suf" type="diminutive"></comp><DrvT vl="vocative"/>)</compg>
 <mg copiedFrom="preceding">
 <Defintion xml:lang="rus">[назв. молодой, которая моложе своего мужа]</Defintion>
 <Defintion xml:lang="deu">einer von den Namen der jungen Frau, der von denen gebraucht wird, die jünger als ihr Mann sind.</Defintion>
@@ -6994,7 +6994,7 @@ mordw. <Et>
 <GeoU xml:lang="mdf">Sel</GeoU>
 </l_variants>
 </lg>
-<compg drv="X:X»N" type="Der">(<DrvT vl="diminutive"/><DrvT vl="vocative"/>)</compg>
+<compg drv="X:X»N" type="Der">(<comp ord="E2" pos="Suf" type="diminutive"></comp><DrvT vl="vocative"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">(мой, дорогой) племянник</t>
@@ -15226,7 +15226,7 @@ auch <Et>
 </lg>
 <lg edit="JMR" xml:lang="mdf"><l/><st/>
 </lg>
-<compg drv="X:X»N" type="Der">(<DrvT vl="diminutive"/><DrvT vl="vocative"/>)</compg>
+<compg drv="X:X»N" type="Der">(<comp ord="E2" pos="Suf" type="diminutive"></comp><DrvT vl="vocative"/>)</compg>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">(старший) брат</t>
@@ -24187,7 +24187,7 @@ Imper. <Et>встреча́й</Et>]
 </mini_paradigm>
 </l_variants>
 </lg>
-<compg drv="X:X»N" type="Der"><DrvT vl="diminutive"/><DrvStCtn><FrCm freeType="analogy" Modification="manus"/><DrvSt><w CyrId="мата">mata</w></DrvSt></DrvStCtn></compg>
+<compg drv="X:X»N" type="Der"><comp ord="E2" pos="Suf" type="diminutive"></comp><DrvStCtn><FrCm freeType="analogy" Modification="manus"/><DrvSt><w CyrId="мата">mata</w></DrvSt></DrvStCtn></compg>
 <mg>
 <tg xml:lang="rus">
 <t>голубчик!</t>

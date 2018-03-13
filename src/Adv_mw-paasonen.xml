@@ -111,7 +111,7 @@
 <tg xml:lang="deu">
 <t>Mittag</t>
 </tg>
-(<dfQsyn1 rel="syn">“<FrnTxt><w CyrId="лоткаф">lotkaf</w>
+(<dfQsyn1 rel="syn">“<FrnTxt><w mdfId="лоткаф">lotkaf</w>
 <w CyrId="абе·д">ab́e·d</w></FrnTxt> der angehaltene Mittag”</dfQsyn1>)</mg>
 <xg>
 <x>
@@ -201,7 +201,7 @@
 <HWB>
 <E3Head><POS freeType="morphological" pos="ad-a"/></E3Head>
 <lg xml:lang="myv"><l pos="Ad-A">веьльть</l>
-<st>веьльть</st>
+<st>вӒ4льть</st>
 <l_variants>
 <PhnU>
 <w myvId="вельть">v́eĺt́</w>
@@ -283,12 +283,13 @@
 <w CyrId="к">k</w></tk2></i>-Lat.]</DerivationBlock>
 <mg>
 <tg xml:lang="rus">
-<t>[очень,] слишком</t>
+<t edit="MK" pos="Adv">очень</t>
+<t pos="Adv">слишком</t>
 </tg>
 <tg xml:lang="deu">
-<t>sehr</t>
-<t>zu sehr</t>
-<t>allzu</t>
+<t pos="Adv">sehr</t>
+<t pos="Adv">zu sehr</t>
+<t pos="Adv">allzu</t>
 </tg>
 </mg>,
 <mg>
@@ -297,9 +298,9 @@
 <GeoU xml:lang="mdf">Čemb</GeoU>
  auch, 
 <GeoU xml:lang="myv">VVr</GeoU>
- [<CapI>
+<CapI>
 <i><tk2>
-<w CyrId="вельк">v́eĺk</w></tk2></i></CapI>] 
+<w edit="MK" myvId="вельк">v́eĺk</w></tk2></i></CapI>
 <GeoU xml:lang="myv">Kažl</GeoU>
 :)</dfLQl1><tg xml:lang="rus">
 <t>через</t>
@@ -389,8 +390,7 @@
 <w mdfId="вельф">v́eĺf́</w>
 <w mdfId="кенярдень">ḱeńäŕd́əń</w>
 </x>
-[
-<GeoU xml:lang="mdf">Pš]</GeoU>
+<GeoU edit="MK" xml:lang="mdf">Pš</GeoU>
 <xt xml:lang="deu">(Sir.) Ich erfreute mich sehr.</xt>
 </xg>
 <xg>
@@ -558,7 +558,7 @@
 <CompositionalPhraseCtn>
 <E3Head><POS pos="V"/></E3Head>
 <lg xml:lang="myv"><l>эскельдямс поровтонть веьльть</l>
-<st>эскельдямс поровтонть веьльть</st>
+<st>эскельдямс поровтонть вӒ4льть</st>
 <l_variants>
 <PhnU>
 <w myvId="аськᴉльдямс">aśkᴉĺd́ams</w>
@@ -1730,7 +1730,7 @@ Tat., tschuw
 <MWUB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="Ad-A">веьльть пек</l>
-<st>веьльть пек</st>
+<st>вӒ4льть пек</st>
 <l_variants>
 <PhnU>
 <w myvId="вельт">v́eĺt</w>
@@ -1765,8 +1765,8 @@ Tat., tschuw
 </l_variants>
 </lg>
 <DerivationBlock>[<i><tk2>
-<w CyrId="пяк">ṕäḱ</w></tk2></i> ‘sehr’ + <i><tk2>
-<w CyrId="ни">ńi</w></tk2></i> ‘schon, noch’]</DerivationBlock>
+<w mdfId="пяк">ṕäḱ</w></tk2></i> ‘sehr’ + <i><tk2>
+<w mdfId="ни">ńi</w></tk2></i> ‘schon, noch’]</DerivationBlock>
 <mg>
 <tg xml:lang="rus">
 <t edit="MK">очень</t>
@@ -5267,11 +5267,11 @@ Tat., tschuw
 <w mdfId="тон">ton</w>
 <w mdfId="мейс">ḿejs</w>
 </txt2>
-</i> [<i>
+</i> <i>
 <txt2>
-<w mdfId="мес">ḿes</w>
+<w edit="MK" mdfId="мес">ḿes</w>
 </txt2>
-</i>] <i>
+</i> <i>
 <txt2>
 <w mdfId="авардят">avaŕd́at</w>
 <w mdfId="тяшкава">t́aškava</w>
@@ -6998,8 +6998,7 @@ Tat., tschuw
 <w mdfId=",">,</w>
 <w mdfId="станя">stańä</w>
 </x>
-[
-<GeoU xml:lang="mdf">Čemb]</GeoU>
+<GeoU edit="MK" xml:lang="mdf">Čemb</GeoU>
 <xt xml:lang="deu">Ist die Sache so? – Jawohl, so ist es.</xt>
 </xg>
 <xg>
@@ -14387,7 +14386,7 @@ vgl. auch <Et>
 <MWUB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="N">ало веьле</l>
-<st>ало веьле</st>
+<st>ало вӒ4ле</st>
 <l_variants>
 <PhnU>
 <w myvId="ало">alo</w>
@@ -15008,13 +15007,9 @@ vgl. auch <Et>
 <w myvId="сон">son</w>
 <w myvId="кулусь">kuluś</w>
 </x>
-[
-<GeoUB xml:lang="myv">
-<GeoUCtn>
-<GeoU edit="manus" freeType="questionRelation" xml:lang="myv">Mar</GeoU>
-</GeoUCtn>
-</GeoUB>
-<xt xml:lang="deu">?Hl] Er starb kurz vor Weihnachten.</xt>
+<GeoU edit="MK" freeType="questionRelation" xml:lang="myv">Mar</GeoU>
+<GeoU edit="MK" freeType="questionRelation" xml:lang="myv">Hl</GeoU>
+<xt xml:lang="deu">Er starb kurz vor Weihnachten.</xt>
 </xg>
 </HWB>
 <MWUB>
@@ -15176,12 +15171,7 @@ vgl. auch <Et>
 <w mdfId="вяряк">v́äŕak</w>
 <w mdfId="аштши">aštši</w>
 </x>
-[
-<GeoUB xml:lang="mdf">
-<GeoUCtn>
-<GeoU edit="manus" freeType="questionRelation" xml:lang="mdf">Pš]</GeoU>
-</GeoUCtn>
-</GeoUB>
+<GeoU edit="MK" freeType="questionRelation" xml:lang="mdf">Pš</GeoU>
 <xt xml:lang="deu">Diese Stelle ist abschüssig.</xt>
 </xg>
 </MWUB>
@@ -17666,7 +17656,7 @@ Aus russ. Instr.-F. <Et>боком &lt; бок</Et>]
 <MWUB>
 <E3Head><POS freeType="morphological" pos="noun:Ine"/></E3Head>
 <lg xml:lang="myv"><l>веь вальгейсэ</l>
-<st>веь вальгейсэ</st>
+<st>вӒ4 вальгейсэ</st>
 <l_variants>
 <PhnU>
 <w myvId="ве">v́e</w>
@@ -18553,9 +18543,9 @@ Aus russ. Instr.-F. <Et>боком &lt; бок</Et>]
 <w mdfId="васувотс">vasuvə̑ts</w>
 </x>
 <GeoU xml:lang="mdf">Pa</GeoU>
-[<sources>
-<book name="IV" pg="790"/>
-</sources>]
+<sources>
+<book edit="MK" name="IV" pg="790"/>
+</sources>
 <xt xml:lang="deu">Möge ihr Wohl und Glück gefunden werden! (in einem Versöhnungsgebet).</xt>
 </xg>
 </HWB>
@@ -19384,7 +19374,7 @@ Aus russ. Instr.-F. <Et>боком &lt; бок</Et>]
 <HWB>
 <E3Head><POS pos="N"/><deriv isa="temp-ablative"/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="Adv">веде</l>
-<st>веьде</st>
+<st>вӒ4де</st>
 </lg>
 <lg xml:lang="mdf"><l>веде</l>
 <st>веде</st>
@@ -19407,7 +19397,7 @@ Aus russ. Instr.-F. <Et>боком &lt; бок</Et>]
 <MWUB>
 <E3Head><POS pos="Adv-Temp"/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l>теде веде</l>
-<st>теде ве4де</st>
+<st>теде вӒ4де</st>
 </lg>
 <lg xml:lang="mdf"><l>тедь ведя</l>
 <st>тедь ведя</st>
@@ -20122,7 +20112,7 @@ Aus russ. Instr.-F. <Et>боком &lt; бок</Et>]
 <HWB>
 <E3Head><POS pos="N"/><deriv isa="temp-NE"/></E3Head>
 <lg xml:lang="myv"><l pos="Adv">вене</l>
-<st>ве4не</st>
+<st>вӒ4не</st>
 <l_variants>
 <PhnU>
 <w myvId="вене">v́eńe</w>
@@ -20161,7 +20151,7 @@ Aus russ. Instr.-F. <Et>боком &lt; бок</Et>]
 <MWUB>
 <E3Head><POS pos="Adv-Temp"/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l>эьрь веьне</l>
-<st>эьрь веьне</st>
+<st>Ӓ3рь вӒ4не</st>
 </lg>
 <lg xml:lang="mdf"><l>ерь вене</l>
 <st>ерь вене</st>
@@ -20187,7 +20177,7 @@ Aus russ. Instr.-F. <Et>боком &lt; бок</Et>]
 <MWUB>
 <E3Head><POS pos="Adv-Temp"/></E3Head>
 <lg xml:lang="myv"><l>те веьне</l>
-<st>те веьне</st>
+<st>те вӒ4не</st>
 <l_variants>
 <PhnU>
 <w myvId="те">t́e</w>
@@ -20223,7 +20213,7 @@ Aus russ. Instr.-F. <Et>боком &lt; бок</Et>]
 <HWB>
 <E3Head><POS pos="Adv-Spatial:Loc"/></E3Head>
 <lg xml:lang="myv"><l pos="Adv">венеле</l>
-<st>вень#эле</st>
+<st>вӒ4нь#эле</st>
 <l_variants>
 <PhnU>
 <w myvId="венеле">v́eńeĺe</w>
@@ -20320,7 +20310,7 @@ Aus russ. Instr.-F. <Et>боком &lt; бок</Et>]
 <HWB>
 <E3Head><POS pos="Adv-Temp"/></E3Head>
 <lg xml:lang="myv"><l pos="Adv">веть</l>
-<st>ве4ть</st>
+<st>вӒ4ть</st>
 <l_variants>
 <Chc>
 <Vrt>
@@ -20438,7 +20428,7 @@ Aus russ. Instr.-F. <Et>боком &lt; бок</Et>]
 <HWB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="Adv">веьльде</l>
-<st>веьльде</st>
+<st>вӒ4льде</st>
 <l_variants>
 <PhnU>
 <w myvId="вельде">v́eĺd́e</w>
@@ -20920,7 +20910,7 @@ Aus russ. Instr.-F. <Et>боком &lt; бок</Et>]
 <MWUB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="Adv">мель веьльде</l>
-<st>мель веьльде</st>
+<st>мель вӒ4льде</st>
 <l_variants>
 <PhnU>
 <w myvId="мель">ḿeĺ</w>
@@ -20987,7 +20977,7 @@ Aus russ. Instr.-F. <Et>боком &lt; бок</Et>]
 <CompositionalPhraseCtn>
 <E3Head><POS freeType="morphological" pos="syntax"/></E3Head>
 <lg xml:lang="myv"><l pos="V">пильге-сур веьльде якамс</l>
-<st>пильге-сур веьльде якамс</st>
+<st>пильге-сур вӒ4льде якамс</st>
 <l_variants>
 <PhnU>
 <w myvId="пильге">ṕiĺǵe</w>
@@ -21057,7 +21047,7 @@ Aus russ. Instr.-F. <Et>боком &lt; бок</Et>]
 <CompositionalPhraseCtn>
 <E3Head><POS freeType="morphological" pos="syntax"/></E3Head>
 <lg xml:lang="myv"><l pos="V">пильге-сур веьльде стямс</l>
-<st>пильге-сур веьльде стямс</st>
+<st>пильге-сур вӒ4льде стямс</st>
 <l_variants>
 <PhnU>
 <w myvId="пильге">ṕiĺǵe</w>
@@ -21109,7 +21099,7 @@ Aus russ. Instr.-F. <Et>боком &lt; бок</Et>]
 <HWB>
 <E3Head><POS pos="Adv-Spatial:Lat"/></E3Head>
 <lg xml:lang="myv"><l pos="Adv">веьнелев</l>
-<st>веьнелев</st>
+<st>вӒ4нелев</st>
 <l_variants>
 <PhnU>
 <w myvId="венелей">v́eńeĺej</w>
@@ -21272,7 +21262,7 @@ Aus russ. Instr.-F. <Et>боком &lt; бок</Et>]
 <HWB>
 <E3Head><POS pos="Adv-Spatial:Abl"/></E3Head>
 <lg xml:lang="myv"><l pos="Adv">веьнельде</l>
-<st>веьнельде</st>
+<st>вӒ4нельде</st>
 <l_variants>
 <PhnU>
 <w myvId="венельде">v́eńeĺd́e</w>
@@ -21299,7 +21289,7 @@ Aus russ. Instr.-F. <Et>боком &lt; бок</Et>]
 <HWB>
 <E3Head><POS freeType="morphological" pos="elative-adv"/></E3Head>
 <lg xml:lang="myv"><l pos="Adv">веьнельстэ</l>
-<st>веьнельстэ</st>
+<st>вӒ4нельстэ</st>
 <l_variants>
 <PhnU>
 <w myvId="венильстэ">v́eńiĺste͔</w>
@@ -21326,7 +21316,7 @@ Aus russ. Instr.-F. <Et>боком &lt; бок</Et>]
 <HWB>
 <E3Head><POS freeType="morphological" pos="noun:Ine"/></E3Head>
 <lg xml:lang="myv"><l pos="Adv">веьнельсэ</l>
-<st>веьнельсэ</st>
+<st>вӒ4нельсэ</st>
 <l_variants>
 <PhnU>
 <w myvId="венильхцэ">v́eńiĺʿce͔</w>
@@ -34825,7 +34815,7 @@ Aus russ. Instr.-F. <Et>крестом</Et>]
 <HWB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="Adv">мей</l>
-<st>ме4й</st>
+<st>мӒ4й</st>
 <l_variants>
 <PhnU>
 <w myvId="мей">ḿej</w>
@@ -37544,7 +37534,7 @@ Aus russ. Instr.-F. <Et>крестом</Et>]
 <CompositionalPhraseCtn>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="V">меькев лангс веьлявтомс</l>
-<st>меькев лангс веьлявтомс</st>
+<st>мӒ4кев лангс вӒ4лявтомс</st>
 <l_variants>
 <PhnU>
 <w myvId="мекей">ḿeḱej</w>
@@ -37591,7 +37581,7 @@ Aus russ. Instr.-F. <Et>крестом</Et>]
 <CompositionalPhraseCtn>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="V">меькев веьлявтомс</l>
-<st>меькев веьлявтомс</st>
+<st>мӒ4кев вӒ4лявтомс</st>
 <l_variants>
 <PhnU>
 <w myvId="мекей">ḿeḱej</w>
@@ -41721,7 +41711,7 @@ Aus russ. Instr.-F. <Et>крестом</Et>]
 <MWUB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="N">озадо тев</l>
-<st>озадо те4в</st>
+<st>озадо тӒ4в</st>
 <l_variants>
 <PhnU>
 <w myvId="озадо">ozado</w>
@@ -45400,7 +45390,7 @@ Instr.-F. <Et>охо́той</Et>
 <MWUB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="N">пеле-веь</l>
-<st>пеле-веь</st>
+<st>пеле-вӒ4</st>
 <l_variants>
 <PhnU>
 <w myvId="пеле">ṕeĺe</w>
@@ -45486,7 +45476,7 @@ Instr.-F. <Et>охо́той</Et>
 <w myvId="пеле">ṕeĺe</w>
 <w myvId="-" edit="MK">-</w>
 <wCtn>
-<w>v́eńed́e<DrvT vl="diminutive"/></w>
+<w>v́eńed́e<comp ord="E2" pos="Suf" type="diminutive"></comp></w>
 </wCtn>
 <w myvId="савань">savań</w>
 <w myvId="терюша">t́eŕuša</w>
@@ -45542,7 +45532,7 @@ Instr.-F. <Et>охо́той</Et>
 <MWUB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="N">пеле-веь-пора</l>
-<st>пеле-веь-пора</st>
+<st>пеле-вӒ4-пора</st>
 <l_variants>
 <PhnU>
 <w myvId="пеле">ṕeĺe</w>
@@ -45584,7 +45574,7 @@ Instr.-F. <Et>охо́той</Et>
 <MWUB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="N">пель-веь-шка</l>
-<st>пель-веь-шка</st>
+<st>пель-вӒ4-шка</st>
 <l_variants>
 <PhnU>
 <FrCm freeType="analogy" Modification="manus"/>
@@ -45671,7 +45661,7 @@ Instr.-F. <Et>охо́той</Et>
 <MWUB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="N">пеле-веьнь теште</l>
-<st>пеле-веьнь теште</st>
+<st>пеле-вӒ4нь теште</st>
 <l_variants>
 <PhnU>
 <w myvId="пеле">ṕeĺe</w>
@@ -49869,7 +49859,7 @@ Aus dem russ. Ger. <Et>погодя́].</Et>
 <MWUB>
 <E3Head><POS freeType="morphological" pos="gen-attr"/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="N">салавань теьв</l>
-<st>салавань теьв</st>
+<st>салавань тӒ4в</st>
 </lg>
 <lg xml:lang="mdf"><l>салавань тев</l>
 <st>салавань тев</st>
@@ -51304,7 +51294,7 @@ Aus dem russ. Ger. <Et>погодя́].</Et>
 <MWUB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="N">сенедеяк мейле</l>
-<st>сенедеяк меьйле</st>
+<st>сенедеяк мӒ4йле</st>
 <l_variants>
 <PhnU>
 <w myvId="сенедеяк">śeńed́ejak</w>
@@ -53497,7 +53487,7 @@ Eine unrichtig gebildete Instr.-F. vom russ. Subst. <Et>сердце]</Et>
 <MWUB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="N">стядо тев</l>
-<st>стядо те4в</st>
+<st>стядо тӒ4в</st>
 <l_variants>
 <PhnU>
 <w myvId="стядо">śt́ado</w>
@@ -54199,7 +54189,7 @@ Eine unrichtig gebildete Instr.-F. vom russ. Subst. <Et>сердце]</Et>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="Adv">сэрцек</l>
-<st>сэ3рцек</st>
+<st>сӒ3рцек</st>
 <l_variants>
 <PhnU>
 <w myvId="сэрьсек">se͔ŕśek</w>
@@ -56112,7 +56102,7 @@ Eine unrichtig gebildete Instr.-F. vom russ. Subst. <Et>сердце]</Et>
 <MWUB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l>тей-меькев</l>
-<st>тей-меькев</st>
+<st>тей-мӒ4кев</st>
 <l_variants>
 <PhnU>
 <w myvId="тей">t́ej</w>
@@ -65987,7 +65977,7 @@ jedoch <Et>
 <HWB>
 <E3Head><POS pos="Adv-Temp"/></E3Head>
 <lg xml:lang="myv"><l pos="Adv">чинек-венек</l>
-<st>чинек-ве4нек</st>
+<st>чинек-вӒ4нек</st>
 <l_variants>
 <PhnU>
 <w myvId="чинек">či͔ńeḱ</w>
@@ -66023,7 +66013,7 @@ jedoch <Et>
 <HWB>
 <E3Head><POS/></E3Head>
 <lg xml:lang="myv"><l pos="Adv">чинек-венек</l>
-<st>чинек-ве4нек</st>
+<st>чинек-вӒ4нек</st>
 <l_variants>
 <PhnU>
 <w myvId="чинек">či͔ńeḱ</w>
