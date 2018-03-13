@@ -1404,7 +1404,7 @@
 <PhnU>
 <FrCm freeType="analogy" Modification="manus"/>
 <w myvId="минице">ḿińiće</w>
-<Hph/>
+<w myvId="-">-</w>
 </PhnU>
 <GeoUB xml:lang="myv">
 <GeoUCtn>
@@ -1426,7 +1426,7 @@
 <xg>
 <x>
 <w CyrId="миницикс">ḿińićiks</w>
-<Hph/>
+<w CyrId="-">-</w>
 <w CyrId="цюныкс">ćuni͔ks</w>
 <w CyrId="орчнеть">orčńet́</w>
 </x>
@@ -2156,9 +2156,9 @@
 <t>[происходящая от покойников болезнь</t>
 </tg>
 <t xml:lang="deu">eine von den Verstorbenen herrührende <FrnTxt><w CyrId="осод">osod</w></FrnTxt>-Krankheit]</t>
-(<dfQsyn1 rel="syn"><FrnTxt><w CyrId="калмо">kalmo</w>
-<Hph/>
-<w CyrId="лангонь">laŋgoń</w></FrnTxt> [<FrnTxt><w CyrId="осод">osod</w></FrnTxt>]</dfQsyn1>)</mg>
+(<dfQsyn1 rel="syn"><FrnTxt><w myvId="калмо">kalmo</w>
+<w myvId="-">-</w>
+<w myvId="лангонь">laŋgoń</w></FrnTxt> [<FrnTxt><w CyrId="осод">osod</w></FrnTxt>]</dfQsyn1>)</mg>
 </MWUB>
 <MWUB>
 <E3Head><POS/></E3Head>

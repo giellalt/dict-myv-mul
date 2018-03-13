@@ -449,8 +449,8 @@
 <w mdfId="сивай">śivaj</w>
 <w mdfId="айгор">ajgə̑r</w>
 <w mdfId="ванонды">vanə̑ndi͔</w>
-<tk3 isa="fullstop"/>
-<tk3 isa="dash"/>
+<w mdfId=".">.</w>
+<w mdfId="–">–</w>
 <w edit="MK" mdfId="мекəлькс">ḿeḱəĺks</w>
 </x>
 <GeoU xml:lang="mdf" edit="MK">P</GeoU>
@@ -1572,7 +1572,7 @@ Tat., tschuw
 <w myvId="мезе">ḿeźe</w>
 <w myvId="пек">ṕeḱ</w>
 <w myvId="бойка">bojka</w>
-<tk3 isa="fullstop"/>
+<w myvId=".">.</w>
 <w myvId="–">–</w>
 <w myvId="сельмтне">śeĺtńe</w>
 </x>
@@ -3469,11 +3469,11 @@ Tat., tschuw
 <w mdfId=",">,</w>
 <w mdfId="марнек">marńəḱ</w>
 <w mdfId="сялгонтф">śalgə̑ntf</w>
-<tk3 isa="fullstop"/>
-<w CyrId="–">–</w>
-<w CyrId="сур">sur</w>
-<Hph/>
-<w CyrId="ку̥тсь">ku̥tś</w>
+<w mdfId=".">.</w>
+<w mdfId="–">–</w>
+<w mdfId="сур">sur</w>
+<w mdfId="-">-</w>
+<w mdfId="ку̥тсь">ku̥tś</w>
 </x>
 <GeoNeed/>
 <xt xml:lang="deu">[Es ist von Petersburg her ein Schwein gekommen, es ist überall gestochen. – Der Fingerhut].</xt>
@@ -4052,14 +4052,14 @@ Tat., tschuw
 </xg>
 <xg>
 <x>
-<w CyrId="юрт">jurt</w>
-<Hph/>
-<w CyrId="аванесь">a·vańeś</w>
-<w CyrId="кортни·">kortńi·</w>
-<tk3 isa="colon"/>
-<w CyrId="е·сли">je·śĺi</w>
-<w CyrId="куд">kud</w>
-<Hph/>
+<w mdfId="юрт">jurt</w>
+<w mdfId="-">-</w>
+<w mdfId="аванесь">a·vańeś</w>
+<w mdfId="кортни·">kortńi·</w>
+<w mdfId=":">:</w>
+<w mdfId="е·сли">je·śĺi</w>
+<w mdfId="куд">kud</w>
+<w mdfId="-">-</w>
 <w mdfId="азорозя">a·zə̑rə̑źä</w>
 <w mdfId="монь">moń</w>
 <w mdfId="э·сон">e·sə̑n</w>
@@ -5650,7 +5650,7 @@ Tat., tschuw
 <t>в те]</t>
 </tg>
 <t xml:lang="deu">in sie (übrige F. aus Pronom.-St. <FrnTxt><w CyrId="эз">ez</w>
-<Hph/>
+<w CyrId="-">-</w>
 <wCtn>
 <w CyrId=""/>
 </wCtn></FrnTxt>)</t>
@@ -8324,7 +8324,7 @@ Tat., tschuw
 <l_variants>
 <PhnU>
 <w mdfId="карань">karań</w>
-<Hph/>
+<w mdfId="-">-</w>
 <Chc>
 <Vrt>
 <w mdfId="каршəк">karšək</w>
@@ -8635,7 +8635,7 @@ Tat., tschuw
 <w mdfId="тяда">t́ada</w>
 <w edit="MK" mdfId="веляфта">v́eĺafta</w>
 <w mdfId="капста">kapsta</w>
-<Hph/>
+<w mdfId="-">-</w>
 <w edit="MK" mdfId="сяерь">śäjeŕ</w>
 <w mdfId="орта">o·rta</w>
 <w mdfId="-">-</w>
@@ -9051,7 +9051,7 @@ vgl. auch <Et>
 <l_variants>
 <PhnU>
 <w mdfId="тепəнь">t́əpəń</w>
-<Hph/>
+<w mdfId="-">-</w>
 </PhnU>
 </l_variants>
 </lg>
@@ -9121,7 +9121,7 @@ vgl. auch <Et>
 <l_variants>
 <PhnU>
 <w mdfId="тюпə̑нь">t́upə̑ń</w>
-<Hph/>
+<w mdfId="-">-</w>
 </PhnU>
 </l_variants>
 </lg>
@@ -12150,7 +12150,7 @@ vgl. auch <Et>
 <w myvId="ало">alo</w>
 <w myvId="татарынь">tatari͔ń</w>
 <w myvId="калмо">kalmo</w>
-<tk3 isa="fullstop"/>
+<w myvId=".">.</w>
 <w myvId="–">–</w>
 <w myvId="човарысь">čovari͔ś</w>
 </x>
@@ -12166,8 +12166,8 @@ vgl. auch <Et>
 <w mdfId="аштши">aštši</w>
 <w edit="MK" mdfId="тядялень">t́äd́aĺəń</w>
 <w mdfId="уфам">ufa·m</w>
-<tk3 isa="fullstop"/>
-<tk3 isa="dash"/>
+<w mdfId=".">.</w>
+<w mdfId="–">–</w>
 <w edit="MK" mdfId="пинесь">ṕińeś</w>
 </x>
 <GeoU xml:lang="mdf">Alk</GeoU>
@@ -13584,8 +13584,8 @@ vgl. auch <Et>
 <w myvId="ланксо">laŋkso</w>
 <w myvId="сэнь">se͔ń</w>
 <w myvId="сукна">sukna</w>
-<tk3 isa="fullstop"/>
-<tk3 isa="dash"/>
+<w myvId=".">.</w>
+<w myvId="–">–</w>
 <w edit="MK" myvId="цянавось">ćanavoś</w>
 </x>
 <GeoU xml:lang="myv">Mar</GeoU>
@@ -13653,7 +13653,7 @@ vgl. auch <Et>
 </Vrt>
 </Chc>
 <w myvId="ало">alo</w>
-<tk3 isa="fullstop"/>
+<w myvId=".">.</w>
 <w myvId="–">–</w>
 <w myvId="менелись">ḿeńeĺiś</w>
 <w myvId="ды">di͔</w>
@@ -13836,8 +13836,8 @@ vgl. auch <Et>
 </Chc>
 <w mdfId="алə̑нза">alə̑nza</w>
 <w mdfId="пеенза">ṕejənza</w>
-<tk3 isa="fullstop"/>
-<tk3 isa="dash"/>
+<w mdfId=".">.</w>
+<w mdfId="–">–</w>
 <w edit="MK" mdfId="пилась">ṕila·ś</w>
 </x>
 <GeoU xml:lang="mdf"/>
@@ -15213,16 +15213,16 @@ vgl. auch <Et>
 <w mdfId="шкай">škaj</w>
 <w mdfId="ваноза">vanə̑za</w>
 <w mdfId="!">!</w>
-<tk3 isa="triDash"/>
-<w edit="MK" CyrId="ся">śä</w>
-<w edit="MK" CyrId="васянь">vaśäń</w>
-<w CyrId="аксяда">akśada</w>
-<tk3 isa="triDash"/>
+<w mdfId="–––">–––</w>
+<w edit="MK" mdfId="ся">śä</w>
+<w edit="MK" mdfId="васянь">vaśäń</w>
+<w mdfId="аксяда">akśada</w>
+<w mdfId="–––">–––</w>
 <w edit="MK" mdfId="вяри">v́äŕi</w>
 <w mdfId="-" edit="MK">-</w>
 <w edit="MK" mdfId="ультьсят">uĺt́śa·t</w>
 <w edit="MK" mdfId="ласькида">laśḱida</w>
-<tk3 edit="MK" isa="comma"/>
+<w edit="MK" mdfId=",">,</w>
 <w edit="MK" mdfId="алу">alu</w>
 <w mdfId="-" edit="MK">-</w>
 <w edit="MK" mdfId="ультьсят">uĺt́śat</w>
@@ -15820,7 +15820,7 @@ vgl. auch <Et>
 <l_variants>
 <PhnU>
 <w mdfId="арась">araś</w>
-<Hph/>
+<w mdfId="-">-</w>
 </PhnU>
 <GeoU xml:lang="mdf">Sel</GeoU>
 </l_variants>
@@ -18253,7 +18253,7 @@ Aus russ. Instr.-F. <Et>боком &lt; бок</Et>]
 <w myvId=",">,</w>
 <w myvId="ниле">ńiĺe</w>
 <w myvId="варясо">vaŕaso</w>
-<tk3 isa="fullstop"/>
+<w myvId=".">.</w>
 <w myvId="–">–</w>
 <w myvId="плашчась">plaščaś</w>
 </x>
@@ -18397,7 +18397,7 @@ Aus russ. Instr.-F. <Et>боком &lt; бок</Et>]
 <w myvId="седе">śed́e</w>
 <w myvId="васов">vasov</w>
 <w myvId="ёрца">jorca</w>
-<tk3 isa="fullstop"/>
+<w myvId=".">.</w>
 <w myvId="–">–</w>
 <w myvId="помилась">poḿilaś</w>
 </x>
@@ -19650,7 +19650,7 @@ Aus russ. Instr.-F. <Et>боком &lt; бок</Et>]
 <w myvId="марьят">maŕjat</w>
 <w myvId="вейц">v́ejc</w>
 <w myvId="ваныть">vani͔t́</w>
-<tk3 isa="fullstop"/>
+<w myvId=".">.</w>
 <w myvId="–">–</w>
 <w myvId="кияксьсь">ḱijakśś</w>
 <w myvId="и">i</w>
@@ -20483,7 +20483,7 @@ Aus russ. Instr.-F. <Et>боком &lt; бок</Et>]
 (<i>
 <tk2>
 <w mdfId="вельде">v́eĺd́ə</w>
-<Hph/>
+<w mdfId="-">-</w>
 </tk2>
 </i>)</PhnU>
 </Vrt>
@@ -21893,7 +21893,7 @@ Aus russ. Instr.-F. <Et>боком &lt; бок</Et>]
 </EtCtn>[: <Et>
 <w CyrId="вечкай">v́ečkaj</w></Et> u. <Et>
 <w CyrId="вечкезь">v́ečḱeź</w>
-<Hph/>
+<w CyrId="-">-</w>
 <w CyrId="веле">v́eĺe</w></Et> (N. pr.)]
 </etymonCtn></etymology>
 </e>
@@ -22250,7 +22250,7 @@ Aus russ. Instr.-F. <Et>боком &lt; бок</Et>]
 <w myvId="цясозонзо">ćasozonzo</w>
 <w myvId="друк">druk</w>
 <w myvId="пешкеди">ṕešḱed́i</w>
-<tk3 isa="fullstop"/>
+<w myvId=".">.</w>
 <w myvId="–">–</w>
 <w myvId="мешокись">ḿešoḱiś</w>
 </x>
@@ -22906,7 +22906,7 @@ Instr.-F. <Et>душо́й</Et>]
 <w myvId=",">,</w>
 <w myvId="зярда">źarda</w>
 <w myvId="чиянь">čijań</w>
-<Hph/>
+<w myvId="-">-</w>
 <w edit="MK" myvId="патянть">pat́ańt́</w>
 <w myvId="саімс">saims</w>
 </x>
@@ -23045,7 +23045,7 @@ Instr.-F. <Et>душо́й</Et>]
 <xg>
 <x>
 <w mdfId="тока">to·ka</w>
-<Hph/>
+<w mdfId="-">-</w>
 <w edit="MK" mdfId="пабаня">pa·bańä</w>
 <w edit="MK" mdfId=",">,</w>
 <w edit="MK" mdfId="мəзярда">məźa·rda</w>
@@ -23708,7 +23708,7 @@ Instr.-F. <Et>душо́й</Et>]
 <w myvId="зярц">źarc</w>
 <w myvId="пурныть">purni͔t́</w>
 <w myvId="чиянь">čijań</w>
-<Hph/>
+<w myvId="-">-</w>
 <w edit="MK" myvId="патянть">pat́ańt́</w>
 <w myvId="роттнэнь">rottne͔ń</w>
 <w myvId=",">,</w>
@@ -26236,7 +26236,7 @@ Instr.-F. <Et>душо́й</Et>]
 <Vrt>
 <PhnU src="arch">
 <w myvId="карчи">karči</w>
-<Hph/>
+<w myvId="-">-</w>
 </PhnU>
 </Vrt>
 </Chc>
@@ -26254,7 +26254,7 @@ Instr.-F. <Et>душо́й</Et>]
 <l_variants>
 <PhnU>
 <w mdfId="каршə̑">karš̀ə̑</w>
-<Hph/>
+<w mdfId="-">-</w>
 </PhnU>
 <sources>
 <book name="Chr" xml:lang="mdf"/>
@@ -26388,7 +26388,7 @@ Instr.-F. <Et>душо́й</Et>]
 <book name="III" pg="143"/>
 </sources>
 <t xml:lang="deu">Ich bade deine <FrnTxt><w CyrId="осуд">osud</w>
-<Hph/>
+<w CyrId="-">-</w>
 <wCtn>
 <w CyrId=""/>
 </wCtn></FrnTxt>, deine <FrnTxt><w CyrId="карч">karč</w></FrnTxt>-Krankheit [weg].</t>
@@ -27069,7 +27069,7 @@ Instr.-F. <Et>душо́й</Et>]
 </l_variants>
 <l_variants>
 <PhnU>
-<w myvId="кашоŋ">kašoŋ</w>
+<w myvId="кашов">kašoŋ</w>
 </PhnU>
 <GeoU xml:lang="myv">Atr</GeoU>
 </l_variants>
@@ -27095,9 +27095,9 @@ Instr.-F. <Et>душо́й</Et>]
 <tg xml:lang="rus">
 <t edit="MK">куда-нибудь</t>
 </tg>
-<t xml:lang="deu">irgendwohin, weiss nicht wohin (als Antwort auf die Frage: <FrnTxt><w CyrId="ков">kov</w>
-<w CyrId="тусь">tuś</w>
-<tk3 isa="question"/></FrnTxt> [wohin ist er gegangen?], wenn man es nicht sagen will od. nicht weiss)</t>
+<t xml:lang="deu">irgendwohin, weiss nicht wohin (als Antwort auf die Frage: <FrnTxt><w myvId="ков">kov</w>
+<w myvId="тусь">tuś</w>
+<w myvId="?">?</w></FrnTxt> [wohin ist er gegangen?], wenn man es nicht sagen will od. nicht weiss)</t>
 </mg>
 </HWB>
 <etymology>
@@ -29190,7 +29190,7 @@ Instr.-F. <Et>душо́й</Et>]
 </lg><compg drv="X:X»Adv" type="Der">[<re>wohl aus</re>
 <MultiWordUnit>
 <w CyrId="коу̯">kou̯</w>
-<Hph/>
+<w CyrId="-">-</w>
 <w CyrId="коу̯">kou̯</w>
 </MultiWordUnit>
 <re>od.</re>
@@ -32041,13 +32041,13 @@ Instr.-F. <Et>душо́й</Et>]
 <Chc>
 <Vrt>
 <w CyrId="копирькснэ">koṕiŕksne͔</w>
-<Hph/>
+<w CyrId="-">-</w>
 <w CyrId="копирькснэ">koṕiŕksne͔</w>
 <w CyrId="чуде">čud́e</w>
 </Vrt>
 <Vrt>
 <w CyrId="коперькснэ">koṕeŕksne͔</w>
-<Hph/>
+<w CyrId="-">-</w>
 <w CyrId="коперькснэ">koṕeŕksne͔</w>
 <w CyrId="чуде·">čud́e·</w>
 </Vrt>
@@ -32268,7 +32268,7 @@ Instr.-F. <Et>душо́й</Et>]
 </tg>
 (<dfQsyn1 rel="syn"><dfQsyn2><i><tk2>
 <w CyrId="кара">kara</w>
-<Hph/>
+<w CyrId="-">-</w>
 <w CyrId="карчо">karčo</w></tk2></i></dfQsyn2></dfQsyn1>)
 <dfQl1>(
 <GeoU xml:lang="myv">Ba</GeoU>
@@ -32745,7 +32745,7 @@ Aus russ. Instr.-F. <Et>крестом</Et>]
 <wCtn>
 <w CyrId=""/>
 </wCtn>
-<Hph/>
+<w CyrId="-">-</w>
 <w CyrId="с">s</w></tk2></i>]</DerivationBlock>
 <mg>
 <tg xml:lang="rus">
@@ -37150,7 +37150,7 @@ Aus russ. Instr.-F. <Et>крестом</Et>]
 <DerivationBlock>[wohl aus Lat.-F. <stem><FrCm freeType="analogy" Modification="manus"/><i><tk2>
 <w CyrId="мэек">mejək</w></tk2></i></stem> kontrahiert ᵦ <i><tk2>
 <w CyrId="мек">ḿek</w></tk2></i> + <i><tk2>
-<Hph/>
+<w CyrId="-">-</w>
 <w CyrId="ŋ-">ŋ-</w></tk2></i>Lat.]</DerivationBlock>
 <mg>
 <tg xml:lang="rus">
@@ -37506,12 +37506,12 @@ Aus russ. Instr.-F. <Et>крестом</Et>]
 <t xml:lang="deu">hin und zurück [<See>
 <Function>vgl.</Function>
 <FrnTxt><w CyrId="мек">ḿeḱ</w>
-<Hph/>
+<w CyrId="-">-</w>
 <w CyrId="васу">vasu</w></FrnTxt>
 </See>, <FrnTxt><w CyrId="мекə">ḿekə</w>
-<Hph/>
+<w CyrId="-">-</w>
 <w CyrId="васу">vasu</w></FrnTxt>, <FrnTxt><w CyrId="мекə̑">ḿekə̑</w>
-<Hph/>
+<w CyrId="-">-</w>
 <w CyrId="васу">va·su</w></FrnTxt> (M)]</t>
 </mg>
 <xg>
@@ -38322,13 +38322,13 @@ Aus russ. Instr.-F. <Et>крестом</Et>]
 <Function>vgl.</Function>
 <FrnTxt><w CyrId="ильцек">iĺćeḱ</w></FrnTxt>
 </See>: <FrnTxt><w CyrId="ильцек">iĺćeḱ</w>
-<Hph/>
+<w CyrId="-">-</w>
 <w CyrId="пильцек">ṕiĺćeḱ</w></FrnTxt>, <FrnTxt><w CyrId="ильцик">iĺćiḱ</w>
-<Hph/>
+<w CyrId="-">-</w>
 <w CyrId="пи·льцик">ṕi·ĺćik</w></FrnTxt>, <FrnTxt><w CyrId="ильцек">iĺćək</w>
-<Hph/>
+<w CyrId="-">-</w>
 <w CyrId="пяльцек">ṕäĺćək</w></FrnTxt>, <FrnTxt><w CyrId="əльцек">əĺćəḱ</w>
-<Hph/>
+<w CyrId="-">-</w>
 <w CyrId="пяльцек">ṕäĺćəḱ</w></FrnTxt>]</t>
 </mg>
 </MWUB>
@@ -38402,7 +38402,7 @@ Aus russ. Instr.-F. <Et>крестом</Et>]
 <EtType vl="vgl"/>
 <Et><sup>1</sup><i><tk2>
 <w CyrId="мее">ḿeje</w>
-<Hph/>
+<w CyrId="-">-</w>
 </tk2></i></Et>: <Et>
 <w CyrId="мейле">ḿejĺe</w></Et>: <Et>
 <w CyrId="ёт">jot</w>
@@ -43069,7 +43069,7 @@ Instr.-F. <Et>охо́той</Et>
 <w myvId="рашконзо">raškonzo</w>
 <w myvId="пачк">pačk</w>
 <w myvId="ваны">vani͔</w>
-<tk3 isa="fullstop"/>
+<w myvId=".">.</w>
 <w myvId="–">–</w>
 <w myvId="церепкась">ćeŕepkaś</w>
 <w myvId="кундамо">kundamo</w>
@@ -43093,7 +43093,7 @@ Instr.-F. <Et>охо́той</Et>
 <w myvId="якстири">jakst́iŕi</w>
 <w myvId="чапка">čapka</w>
 <w myvId="мусь">muś</w>
-<tk3 isa="fullstop"/>
+<w myvId=".">.</w>
 <w myvId="–">–</w>
 <w myvId="опёнкась">oṕoŋkaś</w>
 </x>
@@ -43575,7 +43575,7 @@ Instr.-F. <Et>охо́той</Et>
 <w myvId="соньць">sońć</w>
 <w myvId="пачк">pačk</w>
 <w myvId="неи">ńeji</w>
-<tk3 isa="fullstop"/>
+<w myvId=".">.</w>
 <w myvId="–">–</w>
 <w myvId="суликась">suĺikaś</w>
 </x>
@@ -44044,7 +44044,7 @@ Instr.-F. <Et>охо́той</Et>
 <w myvId=",">,</w>
 <w myvId="кавто">kavto</w>
 <w myvId="пексэ">ṕekse͔</w>
-<tk3 isa="fullstop"/>
+<w myvId=".">.</w>
 <w myvId="–">–</w>
 <w myvId="тодовось">todovoś</w>
 </x>
@@ -44090,7 +44090,7 @@ Instr.-F. <Et>охо́той</Et>
 <w myvId="овесь">ov́eś</w>
 <w myvId="салдо">saldo</w>
 <w myvId="ярцы">jarci͔</w>
-<tk3 isa="fullstop"/>
+<w myvId=".">.</w>
 <w myvId="–">–</w>
 <w myvId="салдырксысь">saldi͔rksi͔ś</w>
 </x>
@@ -45695,7 +45695,7 @@ Instr.-F. <Et>охо́той</Et>
 </tg>
 (<dfQsyn1 rel="syn"><dfQsyn2><i><tk2>
 <w CyrId="обоз">oboz</w>
-<Hph/>
+<w CyrId="-">-</w>
 <w CyrId="де·штя">d́e·št́ä</w></tk2></i></dfQsyn2>
 <GeoU xml:lang="myv">Ba</GeoU>
 </dfQsyn1>)</mg>
@@ -46281,7 +46281,7 @@ Instr.-F. <Et>охо́той</Et>
 <l_variants>
 <PhnU>
 <w mdfId="перьфка">ṕeŕfka</w>
-<Hph/>
+<w mdfId="-">-</w>
 </PhnU>
 <GeoU xml:lang="mdf">Čemb</GeoU>
 <GeoU xml:lang="mdf">Sel</GeoU>
@@ -47538,7 +47538,7 @@ Instr.-F. <Et>охо́той</Et>
 <w myvId="сельмевтеме">śeĺḿev́t́eḿe</w>
 <w myvId=",">,</w>
 <w myvId="ловажавтомо">lovažavtomo</w>
-<tk3 isa="fullstop"/>
+<w myvId=".">.</w>
 <w myvId="–">–</w>
 <w myvId="сиись">śijiś</w>
 </x>
@@ -47608,7 +47608,7 @@ Instr.-F. <Et>охо́той</Et>
 <w myvId=",">,</w>
 <w myvId="прязо">ṕŕazo</w>
 <w myvId="арась">araś</w>
-<tk3 isa="fullstop"/>
+<w myvId=".">.</w>
 <w myvId="–">–</w>
 <w myvId="скамиясь">skaḿijaś</w>
 </x>
@@ -51292,7 +51292,7 @@ Aus dem russ. Ger. <Et>погодя́].</Et>
 <lg edit="JMR" xml:lang="mdf"><l/><st/>
 </lg>
 <DerivationBlock>[All. + Abl. + <i><tk2>
-<Hph/>
+<w CyrId="-">-</w>
 <w CyrId="як">jak</w></tk2></i>]</DerivationBlock>
 <mg>
 <Sense vl="notGiven"/>
@@ -52658,7 +52658,7 @@ Eine unrichtig gebildete Instr.-F. vom russ. Subst. <Et>сердце]</Et>
 </lg>
 <DerivationBlock>[Prol. + ‑ <i><tk2>
 <w CyrId="ня">ńa</w></tk2></i>, <i><tk2>
-<Hph/>
+<w CyrId="-">-</w>
 <w CyrId="ня">ńä</w></tk2></i> (? Lok.)]</DerivationBlock>
 <SenseGroup>
 <mg>
@@ -55745,7 +55745,7 @@ Eine unrichtig gebildete Instr.-F. vom russ. Subst. <Et>сердце]</Et>
 <w mdfId=",">,</w>
 <w mdfId="аф">af</w>
 <w mdfId="тязк">t́azk</w>
-<Hph/>
+<w mdfId="-">-</w>
 <w edit="MK" mdfId="эли">eĺi</w>
 <w mdfId="тон">ton</w>
 <w mdfId="улят">uĺa·t</w>
@@ -55941,7 +55941,7 @@ Eine unrichtig gebildete Instr.-F. vom russ. Subst. <Et>сердце]</Et>
 <lg edit="JMR" xml:lang="mdf"><l/><st/>
 </lg>
 <DerivationBlock>[Ill. + lativisches <i><tk2>
-<Hph/>
+<w CyrId="-">-</w>
 <w CyrId="нь">ń</w></tk2></i>]</DerivationBlock>
 <SenseGroup>
 <mg>
@@ -58449,7 +58449,7 @@ Eine unrichtig gebildete Instr.-F. vom russ. Subst. <Et>сердце]</Et>
 <w CyrId="вейте-вейте">v́ejt́e-v́ejt́e</w></tk2></i></CapI> (od. <CapI>
 <i><tk2>
 <w CyrId="вейкень">v́ejḱeń</w>
-<Hph/>
+<w CyrId="-">-</w>
 <w CyrId="вейкень">v́ejḱeń</w></tk2></i></CapI>) <CapI>
 <i><tk2>
 <w CyrId="трёшник">tŕošńik</w></tk2></i></CapI> 
@@ -60448,7 +60448,7 @@ Eine unrichtig gebildete Instr.-F. vom russ. Subst. <Et>сердце]</Et>
 <w myvId="томба">tomba</w>
 <w myvId="-">-</w>
 <w myvId="нангу">naŋgu</w>
-<Hph/>
+<w myvId="-">-</w>
 </PhnU>
 </Vrt>
 </Chc>
@@ -64370,7 +64370,6 @@ Instr.-F. <Et>угово́ром].</Et>
 <l_variants>
 <PhnU>
 <w myvId="цивцёрт">ćivćort</w>
-<tk3 isa="ws"/>
 <w myvId="меремс">ḿeŕems</w>
 </PhnU>
 <GeoU xml:lang="myv">Kozl</GeoU>
@@ -64393,11 +64392,8 @@ Instr.-F. <Et>угово́ром].</Et>
 <xg>
 <x>
 <w myvId="вай">vaj</w>
-<tk3 isa="ws"/>
 <w myvId="цивцёрт">ćivćort</w>
-<tk3 isa="ws"/>
 <w myvId="мэри">meŕi</w>
-<tk3 isa="ws"/>
 <w myvId="пона">pona</w>
 <w myvId="-">-</w>
 <w myvId="пирязо">ṕiŕazo</w>
@@ -64994,7 +64990,6 @@ jedoch <Et>
 <l_variants>
 <PhnU>
 <w myvId="цярцк">ćarck</w>
-<tk3 isa="ws"/>
 <w myvId="меремс">ḿeŕems</w>
 </PhnU>
 <GeoU xml:lang="myv">Ba</GeoU>
@@ -66016,9 +66011,9 @@ jedoch <Et>
 </l_variants>
 </lg>
 <mg>
-<t xml:lang="rus">s. <FrnTxt><w CyrId="чи">či</w></FrnTxt>: <FrnTxt><w CyrId="чинек">či͔ńeḱ</w>
-<Hph/>
-<w CyrId="венек">v́eńek</w></FrnTxt></t>
+<t xml:lang="rus">s. <FrnTxt><w CyrId="чи">či</w></FrnTxt>: <FrnTxt><w myvId="чинек">či͔ńeḱ</w>
+<w myvId="-">-</w>
+<w myvId="венек">v́eńek</w></FrnTxt></t>
 </mg>
 </HWB>
 </e>
@@ -66787,7 +66782,7 @@ jedoch <Et>
 </l_variants>
 <l_variants>
 <PhnU>
-<w myvId="чупик">čuṕi·ḱ</w>
+<w myvId="чопик">čuṕi·ḱ</w>
 </PhnU>
 <GeoU xml:lang="myv">Ba</GeoU>
 </l_variants>
@@ -66796,28 +66791,26 @@ jedoch <Et>
 </lg>
 <mg>
 <tg xml:lang="rus">
-<t edit="MK">вдруг</t>
-<t edit="MK">внезапно (входить, но не уходить)</t>
+<t edit="MK" pos="Adv">вдруг</t>
+<t edit="MK" pos="Adv">внезапно (входить, но не уходить)</t>
 </tg>
 <tg xml:lang="deu">
-<t>auf einmal</t>
-</tg>
-<t xml:lang="deu">plötzlich (eintreten, nicht aber weggehen; <See>
+<t pos="Adv">auf einmal</t>
+<t pos="Adv">plötzlich (eintreten, nicht aber weggehen; <See>
 <Function>vgl.</Function>
 <FrnTxt><w CyrId="юх">juᵪ</w></FrnTxt>
 </See>: <FrnTxt><w CyrId="юх́ік">juᵪ́iḱ</w></FrnTxt>)</t>
+</tg>
 </mg>
 <xg>
 <x>
-<w CyrId="сон">son</w>
-<w CyrId="совась">sovaś</w>
-<w CyrId="ч">č</w>
-<tk3 isa="fullstop"/></x>
-<src1>[
-<GeoU xml:lang="myv">Mar</GeoU>
-<GeoU xml:lang="myv">Večk</GeoU>
-<GeoU xml:lang="myv">Ba]</GeoU>
-</src1>
+<w myvId="сон">son</w>
+<w myvId="совась">sovaś</w>
+<w myvId="чопик">č.</w>
+</x>
+<GeoU edit="MK" xml:lang="myv">Mar</GeoU>
+<GeoU edit="MK" xml:lang="myv">Večk</GeoU>
+<GeoU edit="MK" xml:lang="myv">Ba</GeoU>
 <xt xml:lang="deu">Unerwartet trat er ein.</xt>
 </xg>
 </HWB>
@@ -67202,7 +67195,7 @@ jedoch <Et>
 <w myvId="весе">v́eśe</w>
 <w myvId="долкись">dolḱiś</w>
 <w myvId="ланксонзо">laŋksonzo</w>
-<tk3 isa="fullstop"/>
+<w myvId=".">.</w>
 <w myvId="–">–</w>
 <w myvId="шчоткатне">ščotkat́ńe</w>
 </x>

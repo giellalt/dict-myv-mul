@@ -1414,7 +1414,7 @@
 <xg>
 <x>
 <w mdfId="торай">toraj</w>
-<Hph/>
+<w mdfId="-">-</w>
 <w edit="MK" mdfId="сяряй">śäŕäj</w>
 <w edit="MK" mdfId="ялганязя">jalgańäźä</w>
 </x>
@@ -2429,8 +2429,8 @@
 <w mdfId="ваткаф">vatkaf</w>
 <w mdfId="ломатть">lomat́t́</w>
 <w mdfId="утсишть">utśišt́</w>
-<tk3 isa="fullstop"/>
-<tk3 isa="dash"/>
+<w mdfId=".">.</w>
+<w mdfId="–">–</w>
 <w mdfId="ваткаф">vatkaf</w>
 <w edit="MK" mdfId="пяшəтня">ṕäšət́ńä</w>
 </x>
@@ -2524,8 +2524,8 @@
 <w mdfId="идензон">id́ənzə̑n</w>
 <w mdfId="марс">mars</w>
 <w mdfId="веньцяфт">v́eńćaft</w>
-<tk3 isa="fullstop"/>
-<tk3 isa="dash"/>
+<w mdfId=".">.</w>
+<w mdfId="–">–</w>
 <w mdfId="сарасня">sarasńä</w>
 <w mdfId=",">,</w>
 <w mdfId="атёкшсь">at́o·kšś</w>
@@ -2629,7 +2629,7 @@
 <x>
 <w mdfId="ульʿть">uĺʿt́</w>
 <w mdfId="сёро">śorə̑</w>
-<Hph/>
+<w mdfId="-">-</w>
 <w edit="MK" mdfId="види">v́id́i</w>
 </x>
 <GeoU xml:lang="mdf">Pš</GeoU>
@@ -2893,7 +2893,7 @@
 <w edit="MK" CyrId="сойняй">sojńäj</w>
 </Note>
 <w edit="MK" CyrId="меш">ḿeš</w>
-<Hph/>
+<w CyrId="-">-</w>
 <w CyrId="ава">ava</w>
 </x>
 <GeoNeed/>
@@ -3295,7 +3295,7 @@
 <x>
 <w edit="MK" mdfId="ули">uĺi</w>
 <w mdfId="ломань">lomań</w>
-<Hph/>
+<w mdfId="-">-</w>
 <w edit="MK" mdfId="тяльги">t́äĺǵi</w>
 <w edit="MK" mdfId="варя">vaŕä</w>
 </x>
@@ -5047,8 +5047,8 @@ Ger. <Et>лёжа</Et>]
 <w mdfId="кургонь">kurgə̑ń</w>
 <w mdfId="пандозь">pandə̑ź</w>
 <w mdfId="ётамат">jotamat</w>
-<tk3 isa="fullstop"/>
-<tk3 isa="dash"/>
+<w mdfId=".">.</w>
+<w mdfId="–">–</w>
 <w mdfId="вацня">vaćńä</w>
 </x>
 <GeoU xml:lang="mdf">P</GeoU>
@@ -5096,8 +5096,8 @@ Ger. <Et>лёжа</Et>]
 <w mdfId="уштом">uštə̑m</w>
 <w mdfId="алга">alga</w>
 <w mdfId="паньчф">pańčf</w>
-<tk3 isa="fullstop"/>
-<tk3 isa="dash"/>
+<w mdfId=".">.</w>
+<w mdfId="–">–</w>
 <w mdfId="пятна">ṕätna</w>
 <w mdfId="-" edit="MK">-</w>
 <w mdfId="кутсь">kutś</w>
@@ -5335,8 +5335,8 @@ Ger. <Et>лёжа</Et>]
 <w mdfId="прява">pŕava</w>
 <w mdfId="моцькат">moćkat</w>
 <w mdfId="петфнефт">ṕetfńəft</w>
-<tk3 isa="fullstop"/>
-<tk3 isa="dash"/>
+<w mdfId=".">.</w>
+<w mdfId="–">–</w>
 <w mdfId="сакалхня">sakalʿńä</w>
 </x>
 <GeoU xml:lang="mdf"/>
@@ -5352,8 +5352,8 @@ Ger. <Et>лёжа</Et>]
 <w mdfId="пряс">pŕas</w>
 <w mdfId="круздят">kruźd́a·t</w>
 <w mdfId="петфнефть">ṕetfńəft́</w>
-<tk3 isa="fullstop"/>
-<tk3 isa="dash"/>
+<w mdfId=".">.</w>
+<w mdfId="–">–</w>
 <w edit="MK" mdfId="пилетня">ṕiĺət́ńä</w>
 </x>
 <GeoU xml:lang="mdf"/>
@@ -6085,7 +6085,7 @@ Ger. <Et>лёжа</Et>]
 </tg>
 (<dfQsyn1 rel="syn"><dfQsyn2><i><tk2>
 <w CyrId="ведь">v́ed́</w>
-<Hph/>
+<w CyrId="-">-</w>
 <w CyrId="араф">araf</w></tk2></i></dfQsyn2>
 <GeoU xml:lang="mdf">P</GeoU>
 </dfQsyn1>)</mg>
@@ -6807,7 +6807,7 @@ Ger. <Et>лёжа</Et>]
 <l_variants>
 <PhnU>
 <w mdfId="тифти">t́ift́i</w>
-<Hph/>
+<w mdfId="-">-</w>
 </PhnU>
 </l_variants>
 </lg>
@@ -11809,8 +11809,8 @@ Ger. <Et>лёжа</Et>]
 <w mdfId="акша">akša</w>
 <w mdfId="котф">kotf</w>
 <w mdfId="вельхтяф">v́eĺʿt́af</w>
-<tk3 isa="fullstop"/>
-<tk3 isa="dash"/>
+<w mdfId=".">.</w>
+<w mdfId="–">–</w>
 <w mdfId="ловсь">lovś</w>
 </x>
 <GeoU xml:lang="mdf">P</GeoU>
@@ -12321,7 +12321,7 @@ Ger. <Et>лёжа</Et>]
 </tg>
 (<dfQsyn1 rel="syn"><dfQsyn2><i><tk2>
 <w CyrId="виж">v́iž</w>
-<Hph/>
+<w CyrId="-">-</w>
 <w CyrId="толга">tolga</w></tk2></i></dfQsyn2>
 <GeoU xml:lang="myv">Mar</GeoU>
 <GeoU xml:lang="myv">Večk</GeoU>
@@ -12332,7 +12332,7 @@ Ger. <Et>лёжа</Et>]
 </dfQsyn1>,
 <dfQsyn1 rel="syn"><dfQsyn2><i><tk2>
 <w CyrId="какарю·кама">kakaŕu·kama</w>
-<Hph/>
+<w CyrId="-">-</w>
 <w CyrId="долга">dolga</w></tk2></i></dfQsyn2>
 <GeoU xml:lang="mdf">Čemb</GeoU>
 </dfQsyn1>)(
@@ -14106,7 +14106,7 @@ Ger. <Et>лёжа</Et>]
 <w CyrId="кандо">kando</w></Et>
 </EtCtn>[: <Et>
 <w CyrId="чевкс">čevks</w>
-<Hph/>
+<w CyrId="-">-</w>
 <w CyrId="кандо">kando</w></Et> 
 <GeoUB xml:lang="myv">
 <GeoU xml:lang="myv">Is</GeoU>]
@@ -14496,7 +14496,7 @@ Ger. <Et>лёжа</Et>]
 <PhnU>
 <FrCm freeType="RelationToPreviousSibling" status="~"/>
 <w myvId="цюце">ćuće</w>
-<Hph/>
+<w myvId="-">-</w>
 </PhnU>
 </Vrt>
 </Chc>
@@ -14599,7 +14599,7 @@ Ger. <Et>лёжа</Et>]
 <CapI>
 <i><tk2>
 <w CyrId="сються">śut́śä</w>
-<Hph/>
+<w CyrId="-">-</w>
 <w CyrId="караза">karaza</w>
 <w CyrId="потмотьсень">potmə̑t́śəń</w></tk2></i></CapI> 
 <GeoU xml:lang="mdf">Pš</GeoU>
@@ -14663,7 +14663,7 @@ Ger. <Et>лёжа</Et>]
 </tg>
 (<dfQsyn1 rel="syn"><dfQsyn2><i><tk2>
 <w CyrId="[? карьцезь]">[? kaŕćeź]</w>
-<Hph/>
+<w CyrId="-">-</w>
 <w CyrId="кирязь">ḱiŕaź</w></tk2></i></dfQsyn2>
 <GeoU xml:lang="myv">Večk</GeoU>
 </dfQsyn1>)</mg>
@@ -15927,7 +15927,7 @@ Ger. <Et>лёжа</Et>]
 <t>[какое-то растение</t>
 </tg>
 <t xml:lang="deu">irgendeine Pflanze] (= <FrnTxt><w CyrId="керес">ḱeŕes</w>
-<Hph/>
+<w CyrId="-">-</w>
 <w CyrId="тикше">t́ikše</w></FrnTxt>) 
 <GeoU xml:lang="myv" edit="MK">Hl</GeoU>
 </t>
@@ -16171,7 +16171,7 @@ Ger. <Et>лёжа</Et>]
 <l_variants>
 <PhnU>
 <w myvId="кильдезь">ḱiĺd́eź</w>
-<Hph/>
+<w myvId="-">-</w>
 </PhnU>
 </l_variants>
 </lg>
@@ -16565,7 +16565,7 @@ Ger. <Et>лёжа</Et>]
 </tg>
 (<dfQsyn1 rel="syn"><dfQsyn2><i><tk2>
 <w CyrId="бань">bań</w>
-<Hph/>
+<w CyrId="-">-</w>
 <w CyrId="ава">a·va</w></tk2></i></dfQsyn2>
 <GeoU xml:lang="myv">Ba</GeoU>
 </dfQsyn1>)</mg>
@@ -20441,7 +20441,7 @@ Ger. <Et>лёжа</Et>]
 </tg>
 (<dfQsyn1 rel="syn"><dfQsyn2><i><tk2>
 <w CyrId="тол">tol</w>
-<Hph/>
+<w CyrId="-">-</w>
 <w CyrId="пивтимат">ṕivt́imat</w></tk2></i></dfQsyn2>
 <GeoU xml:lang="myv">VVr</GeoU>
 </dfQsyn1>)(
@@ -23094,7 +23094,7 @@ Ger. <Et>лёжа</Et>]
 <book name="VI" pg="154"/>
 </sources>
 <t xml:lang="deu">Woher bist du, <FrnTxt><w CyrId="нолдавт">noldavt</w>
-<Hph/>
+<w CyrId="-">-</w>
 <WdCtn>
 <w CyrId=""/>
 </WdCtn></FrnTxt> (‘gesandte’) Krankheit, gesandt worden?</t>
@@ -23490,7 +23490,7 @@ Ger. <Et>лёжа</Et>]
 <t xml:lang="deu">Stellvertreter des Verstorbenen in Gedächtnisfeiern (
 <GeoU xml:lang="mdf">Sučk</GeoU>
 : in der Gedächtnisfeier am 40. Tage nach dem Tode [die Gedächtnisfeiern werden am 40. Tage, sechs Wochen u. ein halbes Jahr nach dem Tode begangen, nur verstorbene alte Männer u. Frauen haben einen solchen; der Sterbende selbst bestimmt ihn]; in der Gedächtnisfeier am 40. Tage nach dem Tode werden ihm im Namen des Verstorbenen ein Hemd u. eine Hose geschenkt, in dieser Gelegenheit aber ist er in seiner eigenen Kleidung; die Frauen singen ihm Klagelieder, er sitzt auf dem Ehrenplatz, <FrnTxt><w CyrId="ӓзем">äźəm</w>
-<Hph/>
+<w CyrId="-">-</w>
 <w CyrId="пряса">pŕasa</w></FrnTxt> [vorn auf der Bank]; zuletzt wird er von zwei Männern auf die Strasse hinausgetragen, von dort kehrt er jedoch später wieder zurück, um als gew. Mensch mit den anderen das Gelage fortzusetzen; vormals pflegte er auch mit dem Lieblingspferde des Verstorbenen auf dem Hofe zu reiten)</t>
 </mg>
 </MWUB>
@@ -23892,8 +23892,8 @@ Ger. <Et>лёжа</Et>]
 <w myvId="мукоронь">mukoroń</w>
 <w myvId="палцикс">palćiks</w>
 <w edit="MK" myvId="теизе">t́ejiźe</w>
-<tk3 isa="fullstop"/>
-<tk3 isa="dash"/>
+<w myvId=".">.</w>
+<w myvId="–">–</w>
 <w myvId="баня">bańa</w>
 <w myvId="-" edit="MK">-</w>
 <w myvId="полок">polok</w>
@@ -24790,8 +24790,8 @@ Ger. <Et>лёжа</Et>]
 <w mdfId="уштом">uštə̑m</w>
 <w mdfId="алга">alga</w>
 <w mdfId="паньчф">pańčf</w>
-<tk3 isa="fullstop"/>
-<tk3 isa="dash"/>
+<w mdfId=".">.</w>
+<w mdfId="–">–</w>
 <w mdfId="пятна">ṕätna</w>
 <w mdfId="-" edit="MK">-</w>
 <w mdfId="кутсь">kutś</w>
@@ -25951,8 +25951,8 @@ Ger. <Et>лёжа</Et>]
 <w myvId=",">,</w>
 <w myvId="рав">rav</w>
 <w myvId="кельмесь">ḱeĺḿeś</w>
-<tk3 isa="fullstop"/>
-<tk3 isa="dash"/>
+<w myvId=".">.</w>
+<w myvId="–">–</w>
 <w myvId="пивтень">ṕiv́t́eń</w>
 <w myvId="чомбось">čomboś</w>
 </x>
@@ -26710,8 +26710,8 @@ Ger. <Et>лёжа</Et>]
 <w myvId="чиресэ">či͔ŕese͔</w>
 <w myvId="пици">ṕići</w>
 <w myvId="толт">tolt</w>
-<tk3 isa="fullstop"/>
-<tk3 isa="dash"/>
+<w myvId=".">.</w>
+<w myvId="–">–</w>
 <w myvId="палакснэ">palaksne͔</w>
 </x>
 <GeoU xml:lang="myv">Mar</GeoU>
@@ -27004,8 +27004,8 @@ Ger. <Et>лёжа</Et>]
 <w myvId="пись">ṕiś</w>
 <w myvId="пекине">ṕeḱińe</w>
 <w myvId="яки">jaḱi</w>
-<tk3 isa="fullstop"/>
-<tk3 isa="dash"/>
+<w myvId=".">.</w>
+<w myvId="–">–</w>
 <w myvId="пачалго">pačalgo</w>
 </x>
 <GeoU xml:lang="myv">NBajt</GeoU>
@@ -27019,8 +27019,8 @@ Ger. <Et>лёжа</Et>]
 <w mdfId="пəсь">pəś</w>
 <w mdfId="пекəня">ṕe·kəńä</w>
 <w mdfId="ласькəнди">laśkəńd́i</w>
-<tk3 isa="fullstop"/>
-<tk3 isa="dash"/>
+<w mdfId=".">.</w>
+<w mdfId="–">–</w>
 <w mdfId="пачкалксь">pačkalkś</w>
 </x>
 <GeoU xml:lang="mdf">P</GeoU>
@@ -27468,7 +27468,7 @@ Ger. <Et>лёжа</Et>]
 </lg>
 <DerivationBlock>[Nom. Pl. zu <stem><FrCm freeType="analogy" Modification="manus"/><i><tk2>
 <w CyrId="ётай">jotaj</w>
-<Hph/>
+<w CyrId="-">-</w>
 <w CyrId="потай">potaj</w></tk2></i></stem>]</DerivationBlock>
 <mg>
 <tg xml:lang="rus">
@@ -29642,7 +29642,7 @@ Ger. <Et>лёжа</Et>]
 <Vrt>
 <PhnU>
 <w mdfId="салмукс">salmuks</w>
-<Hph/>
+<w mdfId="-">-</w>
 <WdCtn>
 <FrCm freeType="questionRelation" Modification="manus"/>
 <w mdfId="салӓ">salä</w>
@@ -30136,7 +30136,7 @@ Ger. <Et>лёжа</Et>]
 <t edit="MK">танцорка в пивной</t>
 </tg>
 <t xml:lang="deu">Mädchen, das in der Bierschenke (<FrnTxt><w CyrId="пива">ṕiva·</w>
-<Hph/>
+<w CyrId="-">-</w>
 <w CyrId="куд">kud</w></FrnTxt>) tanzt</t>
 </mg>
 <xg>
@@ -34588,9 +34588,7 @@ folg.]
 <xg>
 <x>
 <w myvId="цивтёрды">ćiv́t́ordi͔</w>
-<tk3 isa="ws"/>
 <w myvId="сия">śija</w>
-<tk3 isa="ws"/>
 <w myvId="лангозо">laŋgozo</w>
 </x>
 <GeoU xml:lang="myv">Mar</GeoU>
@@ -34669,19 +34667,12 @@ folg.]
 <xg>
 <x>
 <w myvId="оштё">ošt́o</w>
-<tk3 isa="ws"/>
 <w myvId="кази">kaźi</w>
-<tk3 isa="ws"/>
 <w edit="MK" myvId="свадьбань">svad́bań</w>
-<tk3 isa="ws"/>
 <w myvId="кудат">kudat</w>
-<tk3 isa="ws"/>
 <w myvId="и">i</w>
-<tk3 isa="ws"/>
 <w myvId="морыцят">mori͔ćat</w>
-<tk3 isa="ws"/>
 <w myvId="и">i</w>
-<tk3 isa="ws"/>
 <w myvId="цяпицят">ćaṕićat</w>
 </x>
 <GeoU xml:lang="myv">NSurk</GeoU>
@@ -35516,7 +35507,7 @@ folg.]
 <xg>
 <x>
 <w mdfId="шары">šari͔</w>
-<Hph/>
+<w mdfId="-">-</w>
 <w edit="MK" mdfId="киса">ḱisa</w>
 <w mdfId="тюжӓ">t́užä·</w>
 <w edit="MK" mdfId="вятракштада">v́ätrakštada</w>
@@ -35532,7 +35523,7 @@ folg.]
 <w edit="MK" mdfId="тяни">t́äńi</w>
 <w edit="MK" mdfId="няэнь">ńäeń</w>
 <w mdfId="шары">šari͔</w>
-<Hph/>
+<w mdfId="-">-</w>
 <w edit="MK" mdfId="киса">ḱisa</w>
 <w edit="MK" mdfId="нетькас">ńet́kas</w>
 </x>
@@ -37597,7 +37588,7 @@ folg.]
 <book name="VIII" pg="78"/>
 </sources>
 <t xml:lang="deu">Bisweilen wurden die Opferzeremonien von <FrnTxt><w CyrId="шкай">škaj</w>
-<Hph/>
+<w CyrId="-">-</w>
 <w CyrId="атят">at́at</w></FrnTxt> (Gottes Alten) verrichtet.</t>
 </xg>
 </MWUB>
@@ -37638,7 +37629,7 @@ folg.]
 <book name="VIII" pg="78"/>
 </sources>
 <t xml:lang="deu">Sie wurde <FrnTxt><w CyrId="шкай">škaj</w>
-<Hph/>
+<w CyrId="-">-</w>
 <w CyrId="баба">baba</w></FrnTxt> (Gottes Alte) genannt.</t>
 </xg>
 </MWUB>
@@ -37830,7 +37821,7 @@ folg.]
 <GeoU xml:lang="myv">Večk</GeoU>
 </GeoUB>
 : = <FrnTxt><w CyrId="нишке">ńišḱe</w>
-<Hph/>
+<w CyrId="-">-</w>
 <w CyrId="пас">pas</w></FrnTxt>)</t>
 </mg>
 ;
@@ -37950,7 +37941,7 @@ folg.]
 <GeoU xml:lang="mdf">Ur</GeoU>
 <t xml:lang="deu">[Grosser Himmelsgott] (wurde beim Opferfest des Dorfes, <FrnTxt><w CyrId="велень">v́eĺəń</w>
 <w CyrId="оскс">osks</w></FrnTxt> od. <FrnTxt><w CyrId="вель">v́eĺ</w>
-<Hph/>
+<w CyrId="-">-</w>
 <w CyrId="оскс">osks</w></FrnTxt>, angebetet).</t>
 </xg>
 <xg>
@@ -38414,7 +38405,7 @@ folg.]
 <book name="V" pg="212"/>
 </sources>
 <t xml:lang="deu">Ich verstehe es, ohne dass du es sagst, du Strolch (<FrnTxt><w CyrId="а">a</w>
-<Hph/>
+<w CyrId="-">-</w>
 <w CyrId="эрикс">eŕiks</w></FrnTxt> ‘(du Hund,) der du nicht leben solltest’).</t>
 </xg>
 </MWUB>
@@ -38680,7 +38671,7 @@ folg.]
 <t xml:lang="deu">wohlhabend (
 <GeoU xml:lang="myv">Mar</GeoU>
 : vermögender als <FrnTxt><w CyrId="уликсэв">uĺikse͔v</w></FrnTxt>, aber weniger als <FrnTxt><w CyrId="улев">uĺev</w>
-<Hph/>
+<w CyrId="-">-</w>
 <w CyrId="паров">parov</w></FrnTxt>, das wieder weniger ist als <FrnTxt><w CyrId="сюпав">śupav</w></FrnTxt> [reich])</t>
 </mg>
 ;

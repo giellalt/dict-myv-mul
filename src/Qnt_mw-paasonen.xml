@@ -560,7 +560,7 @@
 <w myvId="вейкс">v́ejks</w>
 <w myvId="мир">ḿir</w>
 <w myvId="сявори">śavuŕi</w>
-<tk3 isa="fullstop"/>
+<w myvId=".">.</w>
 <w myvId="–">–</w>
 <w myvId="удомо">udomo</w>
 </x>
@@ -2090,7 +2090,7 @@
 <x>
 <w edit="MK" mdfId="мезяра">ḿeźa·ra</w>
 <w edit="MK" mdfId="ярхтсайться">jarʿtsajt́śä</w>
-<Hph edit="MK"/>
+<w edit="MK" mdfId="-">-</w>
 <w edit="MK" mdfId="симиться">śiḿit́śä</w>
 <w edit="MK" mdfId=",">,</w>
 <w edit="MK" mdfId="сеняр">śeńa·r</w>
@@ -2099,7 +2099,7 @@
 <w mdfId="!">!</w>
 <w edit="MK" mdfId="мезяра">ḿeźa·ra</w>
 <w edit="MK" mdfId="кандыться">kandi͔t́śä</w>
-<Hph edit="MK"/>
+<w edit="MK" mdfId="-">-</w>
 <w edit="MK" mdfId="вятиться">v́ät́it́śä</w>
 <w edit="MK" mdfId=",">,</w>
 <w edit="MK" mdfId="сеняра">śeńa·ra</w>
@@ -2378,7 +2378,7 @@
 <x>
 <w edit="MK" mdfId="мезярда">ḿeźa·rda</w>
 <w edit="MK" mdfId="узерь">uźeŕ</w>
-<Hph edit="MK"/>
+<w edit="MK" mdfId="-">-</w>
 <w edit="MK" mdfId="кятшксь">ḱätšḱś</w>
 <w mdfId="‒‒‒">‒‒‒</w>
 <w mdfId="лопаяй">lopajäj</w>
@@ -2708,7 +2708,7 @@
 <w myvId="муік">muiḱ</w>
 <w myvId="миник">ḿińiḱ</w>
 <w myvId="куда">kuda</w>
-<Hph edit="MK"/>
+<w edit="MK" myvId="-">-</w>
 <w edit="MK" myvId="потмонть">potmońt́</w>
 <w myvId="зняриксть">zńaŕikst́</w>
 <w myvId=",">,</w>
@@ -3407,11 +3407,11 @@
 <lg edit="JMR" xml:lang="mdf"><l pos="Qnt"/><st/>
 </lg>
 <DerivationBlock>[? <i><tk2>
-<w CyrId="эрь">eŕ</w></tk2></i> + <i><tk2>
+<w myvId="эрь">eŕ</w></tk2></i> + <i><tk2>
 <w CyrId="ве">v́e</w></tk2></i>, vgl. <i><tk2>
-<w CyrId="керьба">ḱeŕba</w>
-<Hph/>
-<w CyrId="ведь">v́ed́</w></tk2></i> 
+<w myvId="керьба">ḱeŕba</w>
+<w myvId="-">-</w>
+<w myvId="ведь">v́ed́</w></tk2></i> 
 <GeoU xml:lang="myv"/>
 ]</DerivationBlock>
 <mg>

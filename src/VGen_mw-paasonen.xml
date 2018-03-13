@@ -863,7 +863,7 @@
 </tg>
 (<dfQsyn1 rel="syn"><dfQsyn2><i><tk2>
 <w CyrId="коряй">koŕäj</w>
-<Hph/>
+<w CyrId="-">-</w>
 <w CyrId="пря">pŕä</w></tk2></i></dfQsyn2>
 <GeoU xml:lang="mdf">P</GeoU>
 </dfQsyn1>)</mg>
@@ -1440,7 +1440,7 @@
 </l_variants>
 </lg>
 <DerivationBlock>(mit -Suff. <i><tk2>
-<Hph/>
+<w CyrId="-">-</w>
 <w CyrId="нь">ń</w></tk2></i>)</DerivationBlock>
 <mg>
 <Syntax function="Adj"/>
@@ -2570,7 +2570,7 @@
 <w CyrId="ава">ava</w></tk2></i> verallgemeinertes <i><tk2>
 <wCtn>
 <w>
-<Hph/>ń</w>
+<w CyrId="-">-</w>ń</w>
 </wCtn></tk2></i>]</DerivationBlock>
 <mg copiedFrom="preceding">
 <tg xml:lang="rus">
@@ -3760,7 +3760,7 @@
 <l_variants>
 <PhnU>
 <w myvId="кильдень">ḱiĺd́eń</w>
-<Hph/>
+<w myvId="-">-</w>
 </PhnU>
 </l_variants>
 </lg>
@@ -4646,23 +4646,23 @@
 <xg genre="riddle">
 <x>
 <w edit="MK" CyrId="люкштядянь">ĺukšt́ä·d́äń</w>
-<w edit="MK" CyrId="кенерьхть">ḱeńeŕʿt́</w>
-<tk3 edit="MK" isa="comma"/>
-<w edit="MK" CyrId="кяр">ḱär</w>
-<Hph edit="MK"/>
-<w edit="MK" CyrId="ковол">kovə̑l</w>
-<tk3 edit="MK" isa="comma"/>
-<w edit="MK" CyrId="песонза">ṕesə̑nza</w>
-<w CyrId="карау·л">karau·l</w>
-<tk3 isa="fullstop"/>
+<w edit="MK" mdfId="кенерьхть">ḱeńeŕʿt́</w>
+<w edit="MK" mdfId=",">,</w>
+<w edit="MK" mdfId="кяр">ḱär</w>
+<w edit="MK" mdfId="-">-</w>
+<w edit="MK" mdfId="ковол">kovə̑l</w>
+<w edit="MK" mdfId=",">,</w>
+<w edit="MK" mdfId="песонза">ṕesə̑nza</w>
+<w mdfId="карау·л">karau·l</w>
+<w mdfId=".">.</w>
 <w mdfId="–">–</w>
 <w mdfId="шабась">šabaś</w>
 <w mdfId=",">,</w>
 <w edit="MK" mdfId="нюрямнясь">ńuŕa·mńäś</w>
 <w mdfId=",">,</w>
 <w mdfId="шаба">šaba</w>
-<Hph edit="MK"/>
-<w edit="MK" CyrId="ванысь">vani͔ś</w>
+<w edit="MK" mdfId="-">-</w>
+<w edit="MK" mdfId="ванысь">vani͔ś</w>
 </x>
 <GeoNeed/>
 <sources>
@@ -8171,7 +8171,7 @@
 <x>
 <w myvId="сёрмадонь">śormadoń</w>
 <w myvId="паз">paz</w>
-<Hph edit="MK"/>
+<w edit="MK" myvId="-">-</w>
 <Chc>
 <Vrt>
 <w myvId="ав">av</w>
@@ -8891,9 +8891,9 @@
 </lg>
 <DerivationBlock>[<i><tk2>
 <w CyrId="тири">t́iŕi</w></tk2></i> + ? Adj.-Suff. <i><tk2>
-<Hph/>
+<w CyrId="-">-</w>
 <w CyrId="нь">ń</w></tk2></i> od. hiatustilgendes <i><tk2>
-<Hph/>
+<w CyrId="-">-</w>
 <w CyrId="нь">ń</w></tk2></i>, anal. verallgemeinert aus
 Fällen wie <i><tk2>
 <Chc>
@@ -9658,18 +9658,18 @@ Fällen wie <i><tk2>
 <xg>
 <x>
 <w myvId="те">t́e</w>
-<w edit="MK" myvId="симиманть">śiḿimańt́</w>
-<Hph edit="MK"/>
-<w edit="MK" myvId="ярцамунть">jarcamuńt́</w>
+<w edit="MK" myvId="симеманть">śiḿimańt́</w>
+<w edit="MK" myvId="-">-</w>
+<w edit="MK" myvId="ярсамунть">jarcamuńt́</w>
 <w myvId="чиянь">čijań</w>
 <w myvId="-">-</w>
 <w myvId="патясь">pat́aś</w>
 <Note>
 <w myvId="невеста">ńev́esta</w>
 </Note>
-<w myvId="казе">kaźe</w>
-<w edit="MK" myvId="атяфтынтинь">at́afti͔ńt́iń</w>
-<w myvId="нардама">nardama</w>
+<w myvId="кази">kaźe</w>
+<w edit="MK" myvId="атявтонтень">at́afti͔ńt́iń</w>
+<w myvId="нардамо">nardama</w>
 </x>
 <GeoU xml:lang="myv">Petr</GeoU>
 <sources>
@@ -9917,7 +9917,7 @@ Fällen wie <i><tk2>
 </lg>
 <DerivationBlock>[<i><tk2>
 <w CyrId="шкине">šḱińe</w></tk2></i> + adjekt. od. hiatustilgendes <i><tk2>
-<Hph/>
+<w CyrId="-">-</w>
 <w CyrId="нь">ń</w></tk2></i>]</DerivationBlock>
 <mg>
 <tg xml:lang="rus">
@@ -10069,7 +10069,7 @@ Fällen wie <i><tk2>
 <compg drv="X:X»VGen" type="Der">[<DrvStCtn><DrvSt><w CyrId="шки">šḱi</w></DrvSt></DrvStCtn>,<DrvStCtn><DrvSt><w CyrId="шкай">škaj</w></DrvSt></DrvStCtn><fnct>+</fnct>
 <stem><i>
 <tk2>
-<Hph/>
+<w CyrId="-">-</w>
 <w CyrId="нь">ń</w>
 </tk2>
 </i></stem>
@@ -10077,7 +10077,7 @@ Fällen wie <i><tk2>
 <i><tk2>
 <wCtn>
 <w>
-<Hph/>ń</w>
+<w CyrId="-">-</w>ń</w>
 </wCtn></tk2></i></CapI> von Verbind. wie <CapI>
 <i><tk2>
 <w CyrId="шки(нь)">šḱi(ń)</w>
@@ -10379,7 +10379,7 @@ Fällen wie <i><tk2>
 <l_variants>
 <PhnU>
 <w myvId="ёмань">jomań</w>
-<Hph/>
+<w myvId="-">-</w>
 </PhnU>
 </l_variants>
 </lg>

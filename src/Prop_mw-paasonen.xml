@@ -334,9 +334,9 @@
 </tg>
 <tg xml:lang="deu">
 <t t_type="expl">im Liede als Männername] Wetschkaj [aufgefasst; vgl. jedoch <FrnTxt><w CyrId="вечка">v́ečka</w>
-<Hph/>
+<w CyrId="-">-</w>
 <w CyrId="дедай">d́edaj</w></FrnTxt>, <FrnTxt><w CyrId="вечка">v́ečka</w>
-<Hph/>
+<w CyrId="-">-</w>
 <w CyrId="бабай">babaj</w></FrnTxt>]</t>
 </tg>
 </mg>
@@ -423,7 +423,7 @@
 <x>
 <w myvId="а">a</w>
 <w myvId="вечкезь">v́ečḱeź</w>
-<Hph/>
+<w myvId="-">-</w>
 <w edit="MK" myvId="велень">v́eĺeń</w>
 <w myvId="тонеінь">tońeiń</w>
 <w myvId="сьпира">śṕira</w>
@@ -638,13 +638,13 @@
 <w myvId="кармить">karḿit́</w>
 <w myvId="тендза">t́endza</w>
 <w myvId="мереме">ḿeŕeḿe</w>
-<tk3 isa="“"/>
+<w myvId="“">“</w>
 <w myvId="учай">učaj</w>
-<tk3 isa="”"/>
+<w myvId="”">”</w>
 <Note>
-<tk3 isa="“"/>
+<w myvId="“">“</w>
 <w myvId="учуське">učuśḱe</w>
-<tk3 isa="”"/>
+<w myvId="”">”</w>
 </Note>
 </x>
 <GeoU xml:lang="myv">Petr</GeoU>
@@ -759,7 +759,7 @@
 <xg>
 <x>
 <w edit="MK" CyrId="лепа">ĺepa·</w>
-<tk3 edit="MK" isa="comma"/>
+<w edit="MK" CyrId=",">,</w>
 <w edit="MK" CyrId="лепа">ĺepa·</w>
 <w edit="MK" CyrId="лепанязя">ĺepa·ńäźä</w>
 </x>
@@ -1211,7 +1211,7 @@
 <xg>
 <x>
 <w mdfId="идень">id́eń</w>
-<w mdfId="покə̑нь">pokə̑ń</w>
+<w mdfId="поконь">pokə̑ń</w>
 <w mdfId="кериняц">ḱeŕińac</w>
 <w mdfId="родянь">rod́äń</w>
 <w mdfId="просанясь">prosańäś</w>
@@ -1858,15 +1858,15 @@
 <w mdfId="ард">ard</w>
 <w mdfId=",">,</w>
 <w edit="MK" mdfId="азомасть">azə̑maśt́</w>
-<tk3 edit="MK" isa="comma"/>
-<w edit="MK" CyrId="азомасть">azə̑maśt́</w>
-<w edit="MK" CyrId="васянь">vaśäń</w>
-<w edit="MK" CyrId="стирти">śt́iŕt́i</w>
-<tk3 edit="MK" isa="comma"/>
-<w edit="MK" CyrId="натакти">natakt́i</w>
-<tk3 edit="MK" isa="comma"/>
-<w edit="MK" CyrId="натаняти">natańät́i</w>
-<tk3 edit="MK" isa="comma"/>
+<w edit="MK" mdfId=",">,</w>
+<w edit="MK" mdfId="азомасть">azə̑maśt́</w>
+<w edit="MK" mdfId="васянь">vaśäń</w>
+<w edit="MK" mdfId="стирти">śt́iŕt́i</w>
+<w edit="MK" mdfId=",">,</w>
+<w edit="MK" mdfId="натакти">natakt́i</w>
+<w edit="MK" mdfId=",">,</w>
+<w edit="MK" mdfId="натаняти">natańät́i</w>
+<w edit="MK" mdfId=",">,</w>
 <w edit="MK" CyrId="сукати">suka·t́i</w>
 </x>
 <GeoNeed/>
@@ -1979,7 +1979,7 @@
 <w mdfId="сукась">suka·ś</w>
 <w mdfId="сон">son</w>
 <w mdfId="сисем">śiśəm</w>
-<w mdfId="пулə̑нь">pulə̑ń</w>
+<w mdfId="пулонь">pulə̑ń</w>
 <w edit="MK" mdfId="аксьɯнясь">akśɯńäś</w>
 </x>
 <GeoNeed/>
@@ -2040,7 +2040,7 @@
 <w edit="MK" mdfId="талили">taĺiĺi</w>
 <w edit="MK" mdfId="митянь">ḿit́äń</w>
 <w edit="MK" mdfId="алдунясь">alduńäś</w>
-<tk3 edit="MK" isa="fullstop"/>
+<w edit="MK" mdfId=".">.</w>
 <w edit="MK" mdfId="перень">ṕeŕeń</w>
 <w mdfId="ала">ala</w>
 <Chc>
@@ -2681,7 +2681,7 @@
 <w CyrId="катса">katsa</w>
 <w edit="MK" CyrId="матерь">mat́əŕ</w>
 <w edit="MK" CyrId="аказти">akaźt́i</w>
-<tk3 edit="MK" isa="comma"/>
+<w edit="MK" CyrId=",">,</w>
 <w edit="MK" CyrId="отьсязень">ot́śäźəń</w>
 <w edit="MK" CyrId="стирентсты">śt́iŕəntsti͔</w>
 </x>
@@ -4127,7 +4127,7 @@
 <st>Кшнякән</st>
 <l_variants>
 <PhnU>
-<w mdfId="кшнякə̑н">kšńakə̑n</w>
+<w mdfId="кшнякон">kšńakə̑n</w>
 </PhnU>
 <GeoU xml:lang="mdf" edit="MK">P</GeoU>
 </l_variants>
@@ -4146,7 +4146,7 @@
 </mg>
 <xg>
 <x>
-<w CyrId="кшнякə̑нтт">kšńakə̑ntt</w>
+<w CyrId="кшняконтт">kšńakə̑ntt</w>
 <w CyrId="сёратс">śorats</w>
 <w edit="MK" CyrId="митка">ḿitka</w>
 </x>
@@ -4640,9 +4640,9 @@
 <w edit="MK" CyrId="сёвень">śov́eń</w>
 <w CyrId="атё·кш">at́o·kš</w>
 <w CyrId="куйгэр">kujger</w>
-<Hph/>
+<w CyrId="-">-</w>
 <w edit="MK" CyrId="паться">pat́śä</w>
-<tk3 edit="MK" isa="comma"/>
+<w edit="MK" CyrId=",">,</w>
 <w edit="MK" CyrId="сеться">śet́śä·</w>
 <w edit="MK" CyrId="андре·ень">ańd́ŕe·jeń</w>
 <w edit="MK" CyrId="андре·йнясь">ańd́ŕe·jńäś</w>
@@ -5805,7 +5805,7 @@
 <w mdfId="акша">akša</w>
 <w mdfId="кендя">ḱeńd́ä</w>
 <w mdfId="надюнь">nad́uń</w>
-<w mdfId="алə̑нза">alə̑nza</w>
+<w mdfId="алонза">alə̑nza</w>
 </x>
 <GeoU xml:lang="mdf">Temn</GeoU>
 <sources>
@@ -5846,15 +5846,15 @@
 <w mdfId="ард">ard</w>
 <w mdfId=",">,</w>
 <w edit="MK" mdfId="азомасть">azə̑maśt́</w>
-<tk3 edit="MK" isa="comma"/>
-<w edit="MK" CyrId="азомасть">azə̑maśt́</w>
-<w edit="MK" CyrId="васянь">vaśäń</w>
-<w edit="MK" CyrId="стирти">śt́iŕt́i</w>
-<tk3 edit="MK" isa="comma"/>
-<w edit="MK" CyrId="натакти">natakt́i</w>
-<tk3 edit="MK" isa="comma"/>
-<w edit="MK" CyrId="натаняти">natańät́i</w>
-<w edit="MK" CyrId="сукати">suka·t́i</w>
+<w edit="MK" mdfId=",">,</w>
+<w edit="MK" mdfId="азомасть">azə̑maśt́</w>
+<w edit="MK" mdfId="васянь">vaśäń</w>
+<w edit="MK" mdfId="стирти">śt́iŕt́i</w>
+<w edit="MK" mdfId=",">,</w>
+<w edit="MK" mdfId="натакти">natakt́i</w>
+<w edit="MK" mdfId=",">,</w>
+<w edit="MK" mdfId="натаняти">natańät́i</w>
+<w edit="MK" mdfId="сукати">suka·t́i</w>
 </x>
 <GeoNeed/>
 <sources>
@@ -6005,7 +6005,7 @@
 <xg>
 <x>
 <w mdfId="сиря">śiŕä</w>
-<w mdfId="нумолə̑нь">numə̑lə̑ń</w>
+<w mdfId="нумолонь">numə̑lə̑ń</w>
 <w mdfId="аксюта">akśuta</w>
 <w mdfId="-" edit="MK">-</w>
 <w edit="MK" mdfId="сукась">suka·ś</w>
@@ -6066,9 +6066,9 @@
 </mg>
 <xg>
 <x>
-<w edit="MK" CyrId="листь">ĺiśt́</w>
-<w edit="MK" CyrId="алёнаняй">aĺonańäj</w>
-<tk3 edit="MK" isa="comma"/>
+<w edit="MK" mdfId="листь">ĺiśt́</w>
+<w edit="MK" mdfId="алёнаняй">aĺonańäj</w>
+<w edit="MK" mdfId=",">,</w>
 <w edit="MK" mdfId="листь">ĺiśt́</w>
 <w mdfId="и">i</w>
 <w edit="MK" mdfId="сестраняй">śestrańäj</w>
@@ -7370,7 +7370,7 @@
 <x>
 <w mdfId="улю">uĺu</w>
 <w mdfId="озонды">ozə̑ndi͔</w>
-<tk3 isa="colon"/>
+<w mdfId=":">:</w>
 <w edit="MK" mdfId="мани">mańi</w>
 <w edit="MK" mdfId="киза">ḱiza</w>
 <w edit="MK" mdfId="улеза">uĺeza</w>
@@ -7562,7 +7562,7 @@
 <xg>
 <x>
 <w mdfId="федюнь">f́ed́uń</w>
-<w mdfId="сашə̑ндойхть">sašə̑ndə̑jᵪ́t́</w>
+<w mdfId="сашондойхть">sašə̑ndə̑jᵪ́t́</w>
 <w mdfId="ə̑рьвяяфтома">ə̑ŕv́äjaftə̑ma</w>
 <w mdfId="кизонза">ḱizə̑nza</w>
 </x>
@@ -7748,10 +7748,10 @@
 </xg>
 <xg>
 <x>
-<w CyrId="сука">suka·</w>
-<w edit="MK" CyrId="кə̑рмаень">kə̑rma·jeń</w>
-<w edit="MK" CyrId="феданясь">f́edańäś</w>
-<tk3 edit="MK" isa="comma"/>
+<w mdfId="сука">suka·</w>
+<w edit="MK" mdfId="кə̑рмаень">kə̑rma·jeń</w>
+<w edit="MK" mdfId="феданясь">f́edańäś</w>
+<w edit="MK" mdfId=",">,</w>
 <w edit="MK" mdfId="феданясь">f́edańäś</w>
 <w edit="MK" mdfId="паяр">pajar</w>
 <w mdfId="-" edit="MK">-</w>
@@ -8720,7 +8720,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <st>юткәнь</st>
 <l_variants>
 <PhnU>
-<w mdfId="юткə̑нь">jutkə̑ń</w>
+<w mdfId="ютконь">jutkə̑ń</w>
 </PhnU>
 <GeoU xml:lang="mdf">P</GeoU>
 </l_variants>
@@ -8746,7 +8746,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 </mg>
 <xg genre="riddle">
 <x>
-<w mdfId="юткə̑нь">jutkə̑ń</w>
+<w mdfId="ютконь">jutkə̑ń</w>
 <w mdfId="салмат">salmat</w>
 <w mdfId="ниленди">ńiĺəńd́i</w>
 <w mdfId=".">.</w>
@@ -8798,7 +8798,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <EtSrcL edit="MK" vl="mrdv"/>
 <EtCtn>
 <Et edit="MK">
-<w CyrId="юткə̑н">jutkə̑n</w></Et>
+<w CyrId="юткон">jutkə̑n</w></Et>
 </EtCtn>
 </etymonCtn></etymology>
 </e>
@@ -8945,7 +8945,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <t edit="MK">назв. деревни Поникедовка (Пинкедь)</t>
 </tg>
 <t xml:lang="deu">Name eines Dorfes (Ponikedowka (<FrnTxt><w CyrId="пинекедь">ṕińeḱed́</w>
-<Hph/>
+<w CyrId="-">-</w>
 <w CyrId="веля">v́eĺä</w></FrnTxt>), im Bez. Krasnoslobodsk, Gouv. Pensa)</t>
 </mg>
 <xg>
@@ -9888,15 +9888,15 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 </mg>
 <xg genre="riddle">
 <x>
-<w mdfId="аршə̑н">aršə̑n</w>
+<w mdfId="аршон">aršə̑n</w>
 <w edit="MK" mdfId="серетс">śeŕets</w>
 <w mdfId=",">,</w>
-<w mdfId="аршə̑н">aršə̑n</w>
+<w mdfId="аршон">aršə̑n</w>
 <w edit="MK" mdfId="келетс">ḱeĺets</w>
 <w mdfId=",">,</w>
 <w mdfId="тшеборка">tšebə̑rka·</w>
 <w edit="MK" mdfId="лемэтс">ĺemets</w>
-<tk3 edit="MK" isa="fullstop"/>
+<w edit="MK" mdfId=".">.</w>
 <w edit="MK" mdfId="–">–</w>
 <w edit="MK" mdfId="палетьськясь">paĺe·t́śḱäś</w>
 </x>
@@ -10334,7 +10334,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <w edit="MK" mdfId="максим">makśi·m</w>
 <w mdfId="-" edit="MK">-</w>
 <w edit="MK" mdfId="əрять">əŕät́</w>
-<tk3 edit="MK" isa="colon"/>
+<w edit="MK" mdfId=":">:</w>
 <w edit="MK" mdfId="“максимться">“makśi·mt́śä</w>
 <w mdfId="кутса?”">kutsa?”</w>
 </x>
@@ -10405,7 +10405,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <w mdfId="аф">af</w>
 <w mdfId="молян">moĺan</w>
 <w mdfId="малав">malav</w>
-<Hph/>
+<w mdfId="-">-</w>
 <w edit="MK" mdfId="вели">v́eĺi</w>
 <w mdfId="навоз">navo·z</w>
 <w mdfId="-" edit="MK">-</w>
@@ -10641,14 +10641,14 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <w edit="MK" mdfId="тьсифтор">t́śiftə̑r</w>
 <w mdfId=",">,</w>
 <w mdfId="пора">pora</w>
-<Hph/>
+<w mdfId="-">-</w>
 <w edit="MK" mdfId="идень">id́əń</w>
 <w mdfId="тува">tuva</w>
 <w mdfId=",">,</w>
 <w mdfId="морхтась">morʿtaś</w>
-<Hph/>
+<w mdfId="-">-</w>
 <w edit="MK" mdfId="атя">at́ä</w>
-<w edit="MK" mdfId="вешə̑нтсы">v́ešə̑ntsi͔</w>
+<w edit="MK" mdfId="вешонтсы">v́ešə̑ntsi͔</w>
 <w edit="MK" mdfId=",">,</w>
 <w edit="MK" mdfId="лякшав">ĺäkšav</w>
 <w mdfId="-" edit="MK">-</w>
@@ -10675,12 +10675,12 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <w edit="MK" mdfId="севəляй">śəvəĺäj</w>
 <w mdfId=",">,</w>
 <w mdfId="сюру">śuru</w>
-<Hph/>
+<w mdfId="-">-</w>
 <w edit="MK" mdfId="атя">at́ä</w>
-<w edit="MK" mdfId="вешə̑нтсы">v́ešə̑ntsi͔</w>
+<w edit="MK" mdfId="вешонтсы">v́ešə̑ntsi͔</w>
 <w mdfId=",">,</w>
 <w mdfId="мортась">mortaś</w>
-<Hph/>
+<w mdfId="-">-</w>
 <w edit="MK" mdfId="атя">at́ä</w>
 <w mdfId="шавонтсы">šavə̑ntsi͔</w>
 <w mdfId=".">.</w>
@@ -10813,7 +10813,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <w CyrId="ногай">nogaj</w></Et>
 </EtCtn>[: <Et>
 <w CyrId="ногай">nogaj</w>
-<Hph/>
+<w CyrId="-">-</w>
 <w CyrId="ку̥жа">ku̥ža</w></Et>]
 </etymology>
 </e>
@@ -11146,9 +11146,9 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <w mdfId=",">,</w>
 <w mdfId="мусь">muś</w>
 <w mdfId="пандо">pandə̑</w>
-<Hph/>
-<w CyrId="ваны">vani͔</w>
-<w CyrId="пантю·жə̑нь">pańt́u·žə̑ń</w>
+<w mdfId="-">-</w>
+<w mdfId="ваны">vani͔</w>
+<w mdfId="пантю·жонь">pańt́u·žə̑ń</w>
 </x>
 <GeoNeed/>
 <sources>
@@ -12206,7 +12206,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <x>
 <w mdfId="юда">juda</w>
 <w mdfId="пə̑рдась">pə̑rda·ś</w>
-<w mdfId="конакə̑нзон">konakə̑nzə̑n</w>
+<w mdfId="конаконзон">konakə̑nzə̑n</w>
 </x>
 <GeoU xml:lang="mdf"/>
 <sources>
@@ -12496,8 +12496,8 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <w mdfId="куду">kudu</w>
 <w mdfId=",">,</w>
 <w edit="MK" mdfId="эднязя">ed́ńä·źä</w>
-<tk3 edit="MK" isa="comma"/>
-<w edit="MK" CyrId="наси·лка">naśi·lka</w>
+<w edit="MK" mdfId=",">,</w>
+<w edit="MK" mdfId="наси·лка">naśi·lka</w>
 </x>
 <GeoNeed/>
 <sources>
@@ -12805,9 +12805,9 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 </mg>
 <xg>
 <x>
-<w edit="MK" CyrId="степан">st́epa·n</w>
-<w edit="MK" CyrId="каро·ткайсь">karo·tkajś</w>
-<tk3 edit="MK" isa="comma"/>
+<w edit="MK" mdfId="степан">st́epa·n</w>
+<w edit="MK" mdfId="каро·ткайсь">karo·tkajś</w>
+<w edit="MK" mdfId=",">,</w>
 <w edit="MK" mdfId="тядяй">t́äd́äj</w>
 <w mdfId=",">,</w>
 <w mdfId="шавфтсамань">šavftsamań</w>
@@ -13072,7 +13072,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <FrCm vl="wordStem"/>
 <Infl>
 <w mdfId="уйвяля">ujv́ä·ĺa</w>
-<Hph/>
+<w mdfId="-">-</w>
 </Infl>
 </InflCtn>
 </mini_paradigm></PhnU>
@@ -13081,9 +13081,9 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 </lg>
 <drv1>[<MultiWordUnit><Chc>
 <Vrt><w CyrId="ив">iv</w>
-<Hph/></Vrt>
+<w CyrId="-">-</w></Vrt>
 <Vrt><w CyrId="уйв">ujv</w>
-<Hph/></Vrt>
+<w CyrId="-">-</w></Vrt>
 </Chc>
 <fnct>+</fnct>
 <wCtn>
@@ -14022,7 +14022,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <st>Астеркән</st>
 <l_variants>
 <PhnU>
-<w mdfId="астеркə̑н">aśt́erkə̑n</w>
+<w mdfId="астеркон">aśt́erkə̑n</w>
 </PhnU>
 <GeoU xml:lang="mdf" edit="MK">Mam</GeoU>
 </l_variants>
@@ -14845,10 +14845,10 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <w edit="MK" mdfId="песа">ṕesa</w>
 <w edit="MK" mdfId="ляпəнь">ĺäpəń</w>
 <w edit="MK" mdfId="мокəрьсь">mokəŕś</w>
-<tk3 edit="MK" isa="comma"/>
-<w edit="MK" CyrId="сеться">śet́śä·</w>
-<w edit="MK" CyrId="кандаень">kandajəń</w>
-<w edit="MK" CyrId="пётернясь">ṕot́ərńäś</w>
+<w edit="MK" mdfId=",">,</w>
+<w edit="MK" mdfId="сеться">śet́śä·</w>
+<w edit="MK" mdfId="кандаень">kandajəń</w>
+<w edit="MK" mdfId="пётернясь">ṕot́ərńäś</w>
 </x>
 <GeoNeed/>
 <sources>
@@ -15669,7 +15669,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <st>Колапәна</st>
 <l_variants>
 <PhnU>
-<w mdfId="колапə̑на">kolapə̑na</w>
+<w mdfId="колапона">kolapə̑na</w>
 </PhnU>
 <GeoU xml:lang="mdf">Temn</GeoU>
 <GeoU xml:lang="mdf">Atjur</GeoU>
@@ -16961,7 +16961,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <w myvId="а">a</w>
 <w myvId="чачтозись">čačtoźiś</w>
 <w myvId="жыв">ži͔v</w>
-<tk3 isa="fullstop"/>
+<w myvId=".">.</w>
 <w myvId="–">–</w>
 <w myvId="адам">adam</w>
 <w myvId="ды">di͔</w>
@@ -17080,7 +17080,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <w myvId="ве">v́e</w>
 <w myvId="сельмезэ">śeĺḿeze͔</w>
 <w myvId="кечешка">ḱeče͔ška</w>
-<tk3 isa="fullstop"/>
+<w myvId=".">.</w>
 <w myvId="–">–</w>
 <w myvId="верьмальмась">v́eŕmaĺmaś</w>
 </x>
@@ -17150,7 +17150,7 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <w myvId=",">,</w>
 <w myvId="акулина">akuĺina</w>
 <w myvId="юводы">juvodi͔</w>
-<tk3 isa="fullstop"/>
+<w myvId=".">.</w>
 <w myvId="–">–</w>
 <w myvId="алашань">alašań</w>
 <w myvId="пилькне">ṕiĺḱńe</w>
@@ -17215,13 +17215,13 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <Vrt>
 <PhnU>
 <w myvId="алатырь">alati͔ŕ</w>
-<Hph/>
+<w myvId="-">-</w>
 </PhnU>
 </Vrt>
 <Vrt>
 <PhnU>
 <w myvId="алатыр">alati͔r</w>
-<Hph/>
+<w myvId="-">-</w>
 </PhnU>
 </Vrt>
 </Chc>
@@ -18393,11 +18393,11 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 </Note>
 <w myvId="уле">uĺe</w>
 <w myvId="ведь">v́ed́</w>
-<tk3 isa="“"/>
+<w myvId="“">“</w>
 <w myvId="кана">kana</w>
 <w myvId="-">-</w>
 <w myvId="лейка">ĺejka</w>
-<tk3 isa="”"/>
+<w myvId="”">”</w>
 </x>
 <GeoU xml:lang="myv">Petr</GeoU>
 <sources>
@@ -20105,9 +20105,9 @@ Dem. zu <Et>Васи́лий</Et>]
 <xg>
 <x>
 <w edit="MK" mdfId="мезнят">ḿeźńat</w>
-<w mdfId="алə̑ндза">alə̑ndza</w>
+<w mdfId="алондза">alə̑ndza</w>
 <w mdfId="васють">vaśut́</w>
-<w mdfId="прялə̑ндза">pŕalə̑ndza</w>
+<w mdfId="прялондза">pŕalə̑ndza</w>
 <w mdfId="?">?</w>
 </x>
 <GeoU xml:lang="mdf">Atjur</GeoU>
@@ -20556,7 +20556,7 @@ Dem. zu <Et>Васи́лий</Et>]
 <t edit="MK">имя одной из дочерей Кардаза-Сярко</t>
 </tg>
 <t xml:lang="deu">Name einer der Töchter von Kardas-Sjarko. <FrnTxt><w CyrId="кардас">kardas</w>
-<Hph/>
+<w CyrId="-">-</w>
 <w CyrId="сярко">śarko</w></FrnTxt> hat drei Frauen: <FrnTxt><w CyrId="олёна">oĺona</w></FrnTxt>, <FrnTxt><w CyrId="тикшама">t́ikšama</w></FrnTxt>, <FrnTxt><w CyrId="люкшама">ĺukšama</w></FrnTxt>; zwei Söhne: <FrnTxt><w CyrId="маресь">maŕeś</w></FrnTxt>, <CapI>
 <i><tk2>
 <w CyrId="эклеметь">eḱĺeḿet́</w></tk2></i></CapI>; drei Töchter: <CapI>
@@ -20712,7 +20712,7 @@ Dem. zu <Et>Васи́лий</Et>]
 <xg>
 <x>
 <w mdfId="ботта">bə̑tta</w>
-<w mdfId="тиюwə̑нь">t́ijuwə̑ń</w>
+<w mdfId="тиюwонь">t́ijuwə̑ń</w>
 <w mdfId="волгать">volgat́</w>
 <w mdfId="кучканяс">kučkańas</w>
 </x>
@@ -21445,7 +21445,7 @@ Dem. zu <Et>Васи́лий</Et>]
 <w edit="MK" myvId="кузнецкэй">kuźńecke͔j</w>
 <w myvId="уездэнь">ujezde͔ń</w>
 <w myvId="дуброфкаса">dubrofkasa</w>
-<tk3 isa="fullstop"/>
+<w myvId=".">.</w>
 <w myvId="---">---</w>
 <w myvId="се">śe</w>
 <w edit="MK" myvId="чинть">čińt́</w>
@@ -24930,7 +24930,7 @@ Dem. zu <Et>Илю́ша</Et>)]
 <t>Ortsname</t>
 </tg>
 <Cm>wohl in Anlehnung an die Par.-Worte <FrnTxt><w CyrId="вечкемс">v́ečḱems</w>
-<Hph/>
+<w CyrId="-">-</w>
 <w CyrId="кельгемс">ḱeĺǵems</w></FrnTxt> impr.</Cm>
 </TrlnCtn>
 </mg>
@@ -25127,12 +25127,12 @@ Dem. zu <Et>Илю́ша</Et>)]
 <t edit="MK">праздник жертвоприношения</t>
 </tg>
 <t xml:lang="deu">ein Opferfest namens <FrnTxt><w CyrId="керемедь">ḱeŕeḿed́</w></FrnTxt> wurde im Dorfe Palajewka (Bez. Insar, Gouv. Pensa) am 29. Juni a. St. begangen bei einer Quelle namens <FrnTxt><w CyrId="керемедь">ḱeŕeḿed́</w>
-<Hph/>
+<w CyrId="-">-</w>
 <w CyrId="яши">jäši</w>
-<tk3 isa="fullstop"/></FrnTxt> Ein Schaf wurde geopfert. Auch die Frauen nahmen an diesem Opferfest teil. “Не знают какое божество” / “Man weiss nicht, was für eine Gottheit [dadurch verehrt wird]” (
+<w CyrId=".">.</w></FrnTxt> Ein Schaf wurde geopfert. Auch die Frauen nahmen an diesem Opferfest teil. “Не знают какое божество” / “Man weiss nicht, was für eine Gottheit [dadurch verehrt wird]” (
 <GeoU xml:lang="mdf">Pal</GeoU>
 ); das Opferfest des <FrnTxt><w CyrId="к">ḱ</w>
-<tk3 isa="fullstop"/></FrnTxt> wurde im Dorfe Boldowo (Bez. Insar) im Herbst nach Beendigung der Feldarbeiten bei Neumond begangen. Ein Ochse wurde geopfert. Wer konnte, schlachtete zu Hause eine Gans. Met wurde bereitet</t>
+<w CyrId=".">.</w></FrnTxt> wurde im Dorfe Boldowo (Bez. Insar) im Herbst nach Beendigung der Feldarbeiten bei Neumond begangen. Ein Ochse wurde geopfert. Wer konnte, schlachtete zu Hause eine Gans. Met wurde bereitet</t>
 </mg>
 <xg>
 <x>
@@ -25141,38 +25141,38 @@ Man wandte sich mit folg. Gebet an Keremet: <i>
 <w mdfId="тряк">t́ŕak</w>
 <w mdfId=",">,</w>
 <w mdfId="шкай">škaj</w>
-<Hph/>
+<w mdfId="-">-</w>
 <w mdfId="корьмəлетьсь">koŕməĺet́ś</w>
 <w mdfId=",">,</w>
 <w mdfId="солхтай">solʿtaj</w>
-<Hph/>
+<w mdfId="-">-</w>
 <w mdfId="атя">at́ä</w>
 <w mdfId="кярямедь">ḱäŕäḿed́</w>
 <w mdfId=",">,</w>
 <w mdfId="кярямедень">ḱäŕäḿed́əń</w>
 <w mdfId="пар">par</w>
-<Hph/>
+<w mdfId="-">-</w>
 <w mdfId="ши">ši</w>
 <w mdfId=",">,</w>
 <w mdfId="инзара">inzara</w>
-<Hph/>
+<w mdfId="-">-</w>
 <w mdfId="пря">ṕŕä</w>
 <w mdfId="кярямедь">ḱäŕäḿed́</w>
 <w mdfId=",">,</w>
 <w mdfId="макст">makst</w>
 <w mdfId="шумбра">šumbra</w>
 <w mdfId="пар">par</w>
-<Hph/>
+<w mdfId="-">-</w>
 <w mdfId="ши">ši</w>
 <w mdfId=",">,</w>
-<w mdfId="коволə̑нь">kovə̑lə̑ń</w>
-<Hph/>
-<w mdfId="коволə̑нь">kovə̑lə̑ń</w>
+<w mdfId="коволонь">kovə̑lə̑ń</w>
+<w mdfId="-">-</w>
+<w mdfId="коволонь">kovə̑lə̑ń</w>
 <w mdfId="пизем">ṕiźəḿ</w>
 <w mdfId=",">,</w>
-<w mdfId="коволə̑нь">kovə̑lə̑ń</w>
-<Hph/>
-<w mdfId="коволə̑нь">kovə̑lə̑ń</w>
+<w mdfId="коволонь">kovə̑lə̑ń</w>
+<w mdfId="-">-</w>
+<w mdfId="коволонь">kovə̑lə̑ń</w>
 <w mdfId="мани">mańi</w>
 <w mdfId=",">,</w>
 <w mdfId="калдазс">kaldazs</w>
@@ -25185,13 +25185,13 @@ Man wandte sich mit folg. Gebet an Keremet: <i>
 <w mdfId="!">!</w></txt2></i> Nährender Himmelsgott, Ernährer, alter Sultan <i>
 <txt2>
 <w CyrId="к">ḱ</w>
-<tk3 isa="fullstop"/></txt2></i>, ? von <i>
+<w CyrId=".">.</w></txt2></i>, ? von <i>
 <txt2>
 <w CyrId="к">ḱ</w>
-<tk3 isa="fullstop"/></txt2></i> kommt alles Gute, ? <i>
+<w CyrId=".">.</w></txt2></i> kommt alles Gute, ? <i>
 <txt2>
 <w CyrId="к">ḱ</w>
-<tk3 isa="fullstop"/></txt2></i></x>
+<w CyrId=".">.</w></txt2></i></x>
 <t xml:lang="deu">der Quelle des Insara-Flusses, gib Gesundheit und Wohlstand, Wolke um Wolke (= zeitweise) Regen, Wolke um Wolke Sonnenschein! Möge das Vieh in der Hürde sich vermehren, möge die Familie im Hause sich vermehren! (
 <GeoU xml:lang="mdf">Bold</GeoU>
 ); das Opferfest des Keremet wurde zur Pfingstzeit zu Hause begangen. Dünnbier wurde bereitet.</t>
@@ -25206,10 +25206,10 @@ Eine Wachskerze wurde angezündet u. eine Frau sprach folg. Gebet: <i>
 <w mdfId="к">ḱ</w>
 <w mdfId=".">.</w>
 <w mdfIId=",">,</w>
-<w CyrId="к">ḱ</w>
-<tk3 isa="fullstop"/>
-<w CyrId="азор">azə̑r</w>
-<Hph/>
+<w mdfId="к">ḱ</w>
+<w mdfId=".">.</w>
+<w mdfId="азор">azə̑r</w>
+<w mdfId="-">-</w>
 <w mdfId="ава">ava</w>
 <w mdfId="!">!</w>
 <w mdfId="озонттама">ozə̑nttama</w>
@@ -25228,9 +25228,9 @@ Eine Wachskerze wurde angezündet u. eine Frau sprach folg. Gebet: <i>
 <w mdfId="алашат">alašat</w>
 <w mdfId="!">!</w>
 <w mdfId="к">ḱ</w>
-<tk3 isa="fullstop"/>
-<w CyrId="азор">azə̑r</w>
-<Hph/>
+<w mdfId=".">.</w>
+<w mdfId="азор">azə̑r</w>
+<w mdfId="-">-</w>
 <w mdfId="ава">ava</w>
 <w mdfId="!">!</w>
 <w mdfId="минь">ḿiń</w>
@@ -25239,7 +25239,7 @@ Eine Wachskerze wurde angezündet u. eine Frau sprach folg. Gebet: <i>
 <w mdfId="а">a</w>
 <w mdfId="тон">ton</w>
 <w mdfId="трьɛйкс">t́ŕɛjks</w>
-<Hph/>
+<w mdfId="-">-</w>
 <w mdfId="ваныкс">vani͔ks</w>
 <w mdfId="!">!</w>
 <w mdfId="ванк">vank</w>
@@ -25247,16 +25247,16 @@ Eine Wachskerze wurde angezündet u. eine Frau sprach folg. Gebet: <i>
 <w mdfId="семйɛть">śemjɛt́</w>
 <w mdfId="!">!</w>
 <w mdfId="к">ḱ</w>
-<tk3 isa="fullstop"/></txt2></i>, Sultan <i>
+<w mdfId=".">.</w></txt2></i>, Sultan <i>
 <txt2>
 <w CyrId="к">ḱ</w>
-<tk3 isa="fullstop"/></txt2></i>, <i>
+<w CyrId=".">.</w></txt2></i>, <i>
 <txt2>
 <w CyrId="к">ḱ</w>
-<tk3 isa="fullstop"/></txt2></i> Herrin! Wir flehen dich an, möge das Getreide wachsen, mögen die Haustiere sich vermehren, die Schafe, die Kühe, die Pferde! <i>
+<w CyrId=".">.</w></txt2></i> Herrin! Wir flehen dich an, möge das Getreide wachsen, mögen die Haustiere sich vermehren, die Schafe, die Kühe, die Pferde! <i>
 <txt2>
 <w CyrId="к">ḱ</w>
-<tk3 isa="fullstop"/></txt2></i></x>
+<w CyrId=".">.</w></txt2></i></x>
 <t xml:lang="deu">Herrin! Wir (stehen zu dir) als Betende, (stehe du zu uns) als Ernährer, als Behüter! Behüte die Familie im Hause! (
 <GeoU xml:lang="mdf">Vert</GeoU>
 ).</t>
@@ -26941,7 +26941,7 @@ Eine Wachskerze wurde angezündet u. eine Frau sprach folg. Gebet: <i>
 <EtCtn>
 <Et edit="MK">
 <w CyrId="фрол">frol</w>
-<Hph/>
+<w CyrId="-">-</w>
 <w CyrId="лаврол">lavrol</w></Et>
 </EtCtn>[
 ;
@@ -27161,9 +27161,9 @@ Eine Wachskerze wurde angezündet u. eine Frau sprach folg. Gebet: <i>
 <t>[“Kusma-Herrin”</t>
 </tg>
 <t xml:lang="deu">? Herrin des Kosmas-Tages] (am 8. November [am Kosmas-Tage] wurde eine Gans geopfert u. gebetet: <FrnTxt><w CyrId="кузьм">kuźm</w>
-<Hph/>
+<w CyrId="-">-</w>
 <w CyrId="азор">a·zə̑r</w>
-<Hph/>
+<w CyrId="-">-</w>
 <w CyrId="ава">ava</w>
 <w CyrId="корьмəлець">koŕməĺəć</w></FrnTxt> [Kusjma-Herrin, Ernährerin!])</t>
 </mg>
@@ -27460,7 +27460,7 @@ Eine Wachskerze wurde angezündet u. eine Frau sprach folg. Gebet: <i>
 <w myvId="козо">kozo</w>
 <w myvId="молят">moĺat</w>
 <w edit="MK" myvId="костямо">kośt́amo</w>
-<tk3 edit="MK" isa="quest"/>
+<w edit="MK" myvId="?">?</w>
 <w edit="MK" myvId="кшуманьчастень">kšumańčaśt́eń</w>
 <w edit="MK" myvId="велестень">v́eĺeśt́eń</w>
 </x>
@@ -27622,7 +27622,7 @@ Eine Wachskerze wurde angezündet u. eine Frau sprach folg. Gebet: <i>
 <book name="VIII" pg="86"/>
 </sources>
 <t xml:lang="deu">Flora und Laura (Frola und Lavra) [die Mordwinen betrachten <FrnTxt><w CyrId="хролат">ᵪrolat</w>
-<Hph/>
+<w CyrId="-">-</w>
 <w CyrId="лаврат">lavrat</w></FrnTxt> als einen Namen, da es aber zwei Heilige sind, wird davon Pl.-F. gebraucht], schützt unsere Pferde!</t>
 </xg>
 </HWB>
@@ -27637,7 +27637,7 @@ Eine Wachskerze wurde angezündet u. eine Frau sprach folg. Gebet: <i>
 <EtCtn>
 <Et edit="MK">
 <w CyrId="фрол">frol</w>
-<Hph/>
+<w CyrId="-">-</w>
 <w CyrId="лаврол">lavrol</w></Et>
 </EtCtn>
 </etymonCtn></etymology>
@@ -31115,7 +31115,7 @@ Eine Wachskerze wurde angezündet u. eine Frau sprach folg. Gebet: <i>
 </xg>
 <xg>
 <x>
-<w edit="MK" mdfId="мишə̑нь">ḿišə̑ń</w>
+<w edit="MK" mdfId="мишонь">ḿišə̑ń</w>
 <w mdfId="матрёнась">mat́ŕonaś</w>
 <w mdfId=",">,</w>
 <w edit="MK" mdfId="кудря">kud́ŕä·</w>
@@ -31229,14 +31229,14 @@ Eine Wachskerze wurde angezündet u. eine Frau sprach folg. Gebet: <i>
 <x>
 <w edit="MK" mdfId="перьф">ṕeŕf</w>
 <w mdfId="-" edit="MK">-</w>
-<w edit="MK" mdfId="сёкə̑ня">śokə̑ńä</w>
+<w edit="MK" mdfId="сёконя">śokə̑ńä</w>
 <w edit="MK" mdfId="мишкань">ḿiškań</w>
 <w edit="MK" mdfId="эрьватс">eŕva·ts</w>
 </x>
 <x>
 <w edit="MK" mdfId="переф">ṕeŕef</w>
 <w mdfId="-" edit="MK">-</w>
-<w edit="MK" mdfId="сёкə̑ня">śokə̑ńä</w>
+<w edit="MK" mdfId="сёконя">śokə̑ńä</w>
 <w edit="MK" mdfId="мишкань">ḿiškań</w>
 <w edit="MK" mdfId="эрьватс">eŕva·ts</w>
 </x>
@@ -34094,10 +34094,10 @@ Eine Wachskerze wurde angezündet u. eine Frau sprach folg. Gebet: <i>
 <InflCtn>
 <InflTags msd="+SP+Gen+Indef"/>
 <Infl>
-<w mdfId="павалə̑нь">pavalə̑ń</w>
+<w mdfId="павалонь">pavalə̑ń</w>
 </Infl>
 <Infl>
-<w mdfId="павлə̑нь">pavlə̑ń</w>
+<w mdfId="павлонь">pavlə̑ń</w>
 </Infl>
 </InflCtn>
 </mini_paradigm>
@@ -34178,8 +34178,8 @@ Eine Wachskerze wurde angezündet u. eine Frau sprach folg. Gebet: <i>
 <x>
 <w mdfId="паяронь">pajarə̑ń</w>
 <w mdfId="трошка">troška</w>
-<w mdfId="павалə̑нь">pavalə̑ń</w>
-<w mdfId="алə̑нза">alə̑nza</w>
+<w mdfId="павалонь">pavalə̑ń</w>
+<w mdfId="алонза">alə̑nza</w>
 </x>
 <GeoU xml:lang="mdf">Patra</GeoU>
 <sources>
@@ -36262,7 +36262,7 @@ Adjekt. Gen. aus dem russ. Adj. <Et>Петро́в</Et>]
 <t>Wolgavater</t>
 </tg>
 <Cm>s. <FrnTxt><w CyrId="рав">rav</w>
-<Hph/>
+<w CyrId="-">-</w>
 <w CyrId="ава">ava</w></FrnTxt></Cm>
 </TrlnCtn>
 </mg>
@@ -36430,7 +36430,7 @@ Adjekt. Gen. aus dem russ. Adj. <Et>Петро́в</Et>]
 <xg>
 <x>
 <w mdfId="ланга">laŋga</w>
-<w mdfId="очкə̑няс">očkə̑ńas</w>
+<w mdfId="очконяс">očkə̑ńas</w>
 <w mdfId="путозень">putə̑źeń</w>
 <w mdfId=",">,</w>
 <w mdfId="рава">rava</w>
@@ -36761,8 +36761,8 @@ Adjekt. Gen. aus dem russ. Adj. <Et>Петро́в</Et>]
 <w myvId="соньць">sońć</w>
 <w myvId="понынде">poni͔ńd́e</w>
 <w myvId="‒‒‒">‒‒‒</w>
-<w CyrId="рамко">ramko</w>
-<w CyrId="понынде">poni͔ńd́e</w>
+<w myvId="рамко">ramko</w>
+<w myvId="понынде">poni͔ńd́e</w>
 </x>
 <GeoNeed/>
 <sources>
@@ -38776,7 +38776,7 @@ fam. F. <Et>Сема́ша (Семён)</Et>]
 <x>
 <w CyrId="а">a</w>
 <w CyrId="вечкезь">v́ečḱeź</w>
-<Hph/>
+<w CyrId="-">-</w>
 <w CyrId="велень">v́eĺeń</w>
 <w CyrId="тонеінь">tońeiń</w>
 <w CyrId="сьпиря">śṕiŕa</w>
@@ -40929,12 +40929,12 @@ Kurzf. zu <Et>Фёдор</Et>)]
 <w CyrId="ать̀а">at́̀a</w></Et>
 </EtCtn>[: <Et>
 <w CyrId="атят">at́at</w>
-<Hph/>
+<w CyrId="-">-</w>
 <w CyrId="бабат">babat</w></Et>
 ;
 <Et>
 <w CyrId="фрол">frol</w>
-<Hph/>
+<w CyrId="-">-</w>
 <w CyrId="лаврол">lavrol</w></Et>
 ;
 <Et>
@@ -42080,7 +42080,7 @@ Kurzf. zu <Et>Фёдор</Et>)]
 <l_variants>
 <PhnU>
 <w myvId="гад">gad</w>
-<Hph/>
+<w myvId="-">-</w>
 </PhnU>
 </l_variants>
 </lg>
@@ -42981,7 +42981,7 @@ Kurzf. zu <Et>Фёдор</Et>)]
 <w myvId="марьят">maŕjat</w>
 <w myvId="вейц">v́ejc</w>
 <w myvId="ваныть">vani͔t́</w>
-<tk3 isa="fullstop"/>
+<w myvId=".">.</w>
 <w myvId="–">–</w>
 <w myvId="кияксьсь">ḱijakśś</w>
 <w myvId="и">i</w>
@@ -44073,7 +44073,7 @@ Kurzf. zu <Et>Фёдор</Et>)]
 <t edit="MK">кузайкинский</t>
 </tg>
 <t xml:lang="deu">aus dem Dorfe Kusaikino (ers. <FrnTxt><w CyrId="кузай">kuzaj</w>
-<Hph/>
+<w CyrId="-">-</w>
 <w CyrId="веле">v́eĺe</w></FrnTxt>) herstammend</t>
 </mg>
 <xg>
@@ -45362,7 +45362,7 @@ Kurzf. zu <Et>Фёдор</Et>)]
 <xg>
 <x>
 <w CyrId="кардас">kardas</w>
-<Hph/>
+<w CyrId="-">-</w>
 <w CyrId="сярко">śarko</w>
 </x>
 <t xml:lang="deu">hat drei Frauen: <FrnTxt><w CyrId="олёна">oĺona</w></FrnTxt>, <FrnTxt><w CyrId="тикшама">t́ikšama</w></FrnTxt>, <FrnTxt><w CyrId="люкшама">ĺukšama</w></FrnTxt>; – zwei Söhne: <FrnTxt><w CyrId="маресь">maŕeś</w></FrnTxt>, <FrnTxt><w CyrId="эклеметь">eḱĺeḿet́</w></FrnTxt>; – drei Töchter: <CapI>
@@ -45472,7 +45472,7 @@ Kurzf. zu <Et>Фёдор</Et>)]
 <dF xml:lang="rus">[мужское имя]</dF>
 <dF xml:lang="deu">ein Männername</dF>
 <t xml:lang="deu">Marisja, der Überlieferung nach Begründer des Dorfes Maressewo (<FrnTxt><w CyrId="марезь">maŕeź</w>
-<Hph/>
+<w CyrId="-">-</w>
 <w CyrId="веле">v́eĺe</w></FrnTxt>)</t>
 </mg>
 </HWB>
@@ -48633,7 +48633,7 @@ auch russ. <Et>Моке́й</Et>]
 <w myvId="кунчкасу">kunčkasu</w>
 <w myvId="поза">poza</w>
 <w myvId="парь">paŕ</w>
-<tk3 isa="fullstop"/>
+<w myvId=".">.</w>
 <w myvId="–">–</w>
 <w myvId="коткодавунь">kotkodavuń</w>
 <w myvId="пизысь">ṕizi͔ś</w>
@@ -49187,7 +49187,7 @@ auch russ. <Et>Моке́й</Et>]
 <xg>
 <x>
 <w myvId="удалась">udalaś</w>
-<w myvId="родя">rod́a</w>
+<w myvId="Родя">rod́a</w>
 <w myvId="сэрнева">se͔ŕńeva</w>
 </x>
 <GeoU xml:lang="myv">Večk</GeoU>
@@ -49199,10 +49199,10 @@ auch russ. <Et>Моке́й</Et>]
 <xg>
 <x>
 <w mdfId="идень">id́eń</w>
-<w mdfId="покə̑нь">pokə̑ń</w>
+<w mdfId="поконь">pokə̑ń</w>
 <w mdfId="кериняц">ḱeŕińac</w>
-<w mdfId="родянь">rod́äń</w>
-<w mdfId="просанясь">prosańäś</w>
+<w mdfId="Родянь">rod́äń</w>
+<w mdfId="Просанясь">prosańäś</w>
 </x>
 <GeoU xml:lang="mdf">Temn</GeoU>
 <sources>
@@ -50941,7 +50941,7 @@ auch russ. <Et>Моке́й</Et>]
 <x>
 <w CyrId="а">a</w>
 <w CyrId="вечкезь">v́ečḱeź</w>
-<Hph/>
+<w CyrId="-">-</w>
 <w CyrId="велень">v́eĺeń</w>
 <w CyrId="тонеінь">tońeiń</w>
 <w CyrId="сьпиря">śṕiŕa</w>
@@ -51698,7 +51698,7 @@ auch russ. <Et>Моке́й</Et>]
 <Et>
 <w CyrId="ульть">uĺt́</w>
 <w CyrId="ава">ava</w>
-<tk3 isa="exclimation"/></Et>
+<w CyrId="!">!</w></Et>
 <TrlnCnt>
 <Transalation xml:lang="deu">Sei eine Frau</Transalation>
 <re>(d.h.: weichherzig)!</re>
@@ -53155,7 +53155,7 @@ auch russ. <Et>Моке́й</Et>]
 <t edit="MK">эрз. с. Шугурово</t>
 </tg>
 <t xml:lang="deu">ers. Dorf Schugurowo (auf ers. <FrnTxt><w CyrId="чугурь">čuguŕ</w>
-<Hph/>
+<w CyrId="-">-</w>
 <w CyrId="вяле">v́äĺe</w></FrnTxt>), im Bez. Gorodischtsche, Gouv. Pensa</t>
 </mg>
 </HWB>
@@ -53314,17 +53314,17 @@ auch russ. <Et>Моке́й</Et>]
 <tg xml:lang="rus">
 <t edit="MK">сын божества-покровителя Кардаз-Сярко</t>
 </tg>
-<t xml:lang="deu">ein Sohn des Kardas-Sjarko [Schutzgeist des Hofes] (<FrnTxt><w CyrId="кардас">kardas</w>
-<Hph/>
-<w CyrId="сярко">śarko</w></FrnTxt> hat drei Frauen: <FrnTxt><w CyrId="олёна">oĺona</w></FrnTxt>, <FrnTxt><w CyrId="тикшама">t́ikšama</w></FrnTxt> u. <FrnTxt><w CyrId="люкшама">ĺukšama</w></FrnTxt>, zwei Söhne: <FrnTxt><w CyrId="маресь">maŕeś</w></FrnTxt> u. <CapI>
+<t xml:lang="deu">ein Sohn des Kardas-Sjarko [Schutzgeist des Hofes] (<FrnTxt><w myvId="кардас">kardas</w>
+<w myvId="-">-</w>
+<w myvId="сярко">śarko</w></FrnTxt> hat drei Frauen: <FrnTxt><w CyrId="олёна">oĺona</w></FrnTxt>, <FrnTxt><w myvId="тикшама">t́ikšama</w></FrnTxt> u. <FrnTxt><w myvId="люкшама">ĺukšama</w></FrnTxt>, zwei Söhne: <FrnTxt><w CyrId="маресь">maŕeś</w></FrnTxt> u. <CapI>
 <i><tk2>
-<w CyrId="эклемэть">eḱĺemet́</w></tk2></i></CapI>, drei Töchter: <CapI>
+<w myvId="эклемэть">eḱĺemet́</w></tk2></i></CapI>, drei Töchter: <CapI>
 <i><tk2>
-<w CyrId="винтай">v́intaj</w></tk2></i></CapI>, <CapI>
+<w myvId="винтай">v́intaj</w></tk2></i></CapI>, <CapI>
 <i><tk2>
-<w CyrId="лёмай">ĺomaj</w></tk2></i></CapI> u. <CapI>
+<w myvId="лёмай">ĺomaj</w></tk2></i></CapI> u. <CapI>
 <i><tk2>
-<w CyrId="тикшама">t́ikšama</w></tk2></i></CapI>)</t>
+<w myvId="тикшама">t́ikšama</w></tk2></i></CapI>)</t>
 </mg>
 </HWB>
 </e>

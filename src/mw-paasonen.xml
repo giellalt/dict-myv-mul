@@ -1178,7 +1178,7 @@
 <w CyrId="надо">nado</w>
 <w CyrId="ванынка">vani͔ŋka</w>
 <w CyrId="ялгинень">jalǵińeń</w>
-<Hph edit="MK"/>
+<w edit="MK" CyrId="-">-</w>
 <w CyrId="оянь">ojań</w>
 </x>
 <src1>
@@ -1269,7 +1269,7 @@
 </lg>
 <compg drv="X:X»Stem" type="Der">[<comment/><DrvStCtn><DrvSt><w CyrId="на">na</w></DrvSt></DrvStCtn><fnct>+</fnct>
 <stem><i>
-<Hph/>
+<w CyrId="-">-</w>
 <w CyrId="ка">ka</w></i></stem>]</compg>
 <mg>
 <tg xml:lang="rus">
@@ -4385,7 +4385,7 @@ Tat., tschuw. <Et>
 <w mdfId="ожу">ožu</w>
 <w mdfId="вантсаськ">vantsaśk</w>
 <w edit="MK" mdfId="пиндолдыхнень">ṕində̑ldi͔ᵪ́ńeń</w>
-<Hph edit="MK"/>
+<w edit="MK" mdfId="-">-</w>
 <w edit="MK" mdfId="вандолдыхнень">vandə̑ldi͔ᵪ́ńeń</w>
 </x>
 <GeoU xml:lang="mdf" edit="MK">Mam</GeoU>
@@ -4797,7 +4797,7 @@ Tat., tschuw. <Et>
 <l_variants>
 <PhnU>
 <w CyrId="утю">ut́u</w>
-<Hph/>
+<w CyrId="-">-</w>
 </PhnU>
 </l_variants>
 </lg>
@@ -5294,7 +5294,7 @@ Tat., tschuw. <Et>
 <EtSrcL xml:lang="tat"/>
 (Bl.) <Et>
 <w CyrId="чу">ču</w>
-<Hph/>
+<w CyrId="-">-</w>
 <w CyrId="чу">ču</w></Et>
 </etymonCtn>
 </etymology>

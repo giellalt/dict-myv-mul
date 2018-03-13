@@ -320,7 +320,7 @@
 <l_variants>
 <PhnU>
 <w mdfId="кяшəзь">ḱäšəź</w>
-<Hph/>
+<w mdfId="-">-</w>
 </PhnU>
 <GeoU xml:lang="mdf">Pš</GeoU>
 <GeoU xml:lang="mdf">Čemb</GeoU>
@@ -1509,17 +1509,17 @@
 :
 <xg>
 <x>
-<w CyrId="сыредезь">si͔ŕed́eź</w>
-<Hph/>
-<w CyrId="маштозь">maštoź</w>
-<w CyrId="кулось">kuloś</w>
+<w myvId="сыредезь">si͔ŕed́eź</w>
+<w myvId="-">-</w>
+<w myvId="маштозь">maštoź</w>
+<w myvId="кулось">kuloś</w>
 </x>
 <t xml:lang="deu">Er starb an Altersschwäche (<See>
 <Function>vgl.</Function>
-<FrnTxt><w CyrId="сыредень">si͔ŕed́eń</w>
-<Hph/>
-<w CyrId="маштонь">maštoń</w>
-<w CyrId="пелев">ṕeĺev</w></FrnTxt>
+<FrnTxt><w myvId="сыредень">si͔ŕed́eń</w>
+<w myvId="-">-</w>
+<w myvId="маштонь">maštoń</w>
+<w myvId="пелев">ṕeĺev</w></FrnTxt>
 </See> in hohem Alter).</t>
 </xg>
 </HWB>
