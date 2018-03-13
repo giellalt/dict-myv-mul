@@ -6025,8 +6025,9 @@
 <Et edit="MK">Аксю́та</Et>
 </EtCtn>[
 <DerivationBlock><comp ord="E2" pos="Suf" type="diminutive"></comp><DrvSrc>Ксения</DrvSrc>
-</DerivationBlock>]
+</DerivationBlock>
 </etymonCtn>
+]
 <etymonCtn>
 <EtType edit="MK" vl="vgl"/>
 <EtSrcL edit="MK" vl="mrdv"/>
@@ -6034,8 +6035,9 @@
 <Et edit="MK">
 <w CyrId="окся">okśa</w></Et>
 </EtCtn>[, <Et>
-<w CyrId="оксютка">okśutka</w></Et>]
-</etymonCtn></etymology>
+<w CyrId="оксютка">okśutka</w></Et>
+</etymonCtn>
+]</etymology>
 </e>
   <e>
 <root_ref xml:lang="myv" hid="1" pos="Prop" lemma="Олёна"/>
@@ -7582,8 +7584,9 @@
 <etymonCtn>
 <EtType vl="vgl"/>
 <Et>Федю́ка</Et>
-<Et>Федю́ня</Et>]
-</etymonCtn></etymology>
+<Et>Федю́ня</Et>
+</etymonCtn>
+]</etymology>
 </e>
   <e>
 <root_ref xml:lang="myv" hid="1" pos="Prop" lemma="Федор"/>
@@ -8791,8 +8794,9 @@ Eine Variante zu russ. <Et>Фёкла</Et>]
 <etymonCtn>
 <EtSrcL xml:lang="dschag"/>
 <Et>
-<w CyrId="юткун">jutkun</w></Et> Verschlucken; Wirbel (im Wasser); verschluckt; geprellt, besiegt (im Spiel)]
+<w CyrId="юткун">jutkun</w></Et> Verschlucken; Wirbel (im Wasser); verschluckt; geprellt, besiegt (im Spiel)
 </etymonCtn>
+]
 <etymon edit="MK" xml:lang="mrdv" mrdvId="юткон" etym_type="cf">jutkə̑n</etymon></etymology>
 </e>
   <e>
@@ -37486,8 +37490,9 @@ Adjekt. Gen. aus dem russ. Adj. <Et>Петро́в</Et>]
 </etymonCtn>
 <etymonCtn>
 <EtType vl="vgl"/>
-auch russ. <Et>Савва</Et>]
-</etymonCtn></etymology>
+auch russ. <Et>Савва</Et>
+</etymonCtn>
+]</etymology>
 </e>
   <e>
 <root_name xml:lang="myv" hid="1" pos="Prop" lemma="Саватей"/>
@@ -40701,8 +40706,9 @@ Kurzf. zu <Et>Фёдор</Et>)]
 <Et>
 <w CyrId="фила">f́ila</w></Et> ? von russ. <Et>Фила́т</Et>
 <DerivationBlock><DrvT vl="volkst"/><DrvSrc>Феофила́кт</DrvSrc>
-</DerivationBlock>]
-</etymonCtn></etymology>
+</DerivationBlock>
+</etymonCtn>
+]</etymology>
 </e>
   <e>
 <root_name xml:lang="myv" hid="1" pos="Prop" lemma="Фрол-Лаврол"/>
@@ -40747,12 +40753,8 @@ Kurzf. zu <Et>Фёдор</Et>)]
 </xg>
 </HWB>
 <etymology>
-<etymonCtn>
-<EtSrcL edit="MK" xml:lang="rus"/>
-<EtCtn>
-<Et edit="MK">Фрол + Лавр</Et>
-</EtCtn>[
-</etymonCtn>
+<etymon edit="MK" xml:lang="rus">Фрол + Лавр</etymon>
+[
 <etymonCtn>
 <EtType vl="vgl"/>
 <EtSrcL xml:lang="mrdv"/>
@@ -40763,8 +40765,9 @@ Kurzf. zu <Et>Фёдор</Et>)]
 <w CyrId="Кролов">krolov</w></Et>
 ;
 <Et>
-<w CyrId="Лавра">lavra</w></Et>]
-</etymonCtn></etymology>
+<w CyrId="Лавра">lavra</w></Et>
+</etymonCtn>
+]</etymology>
 </e>
   <e>
 <root_name xml:lang="myv" hid="1" pos="Prop" lemma="Хрола"/>
@@ -40931,8 +40934,9 @@ Kurzf. zu <Et>Фёдор</Et>)]
 <w CyrId="лаврол">lavrol</w></Et>
 ;
 <Et>
-<w CyrId="кролов">krolov</w></Et>]
+<w CyrId="кролов">krolov</w></Et>
 </etymonCtn>
+]
 <etymonCtn>
 <EtSrcL xml:lang="rus"/>
 <Et>Фрол</Et>
@@ -48701,8 +48705,9 @@ auch russ. <Et>Моке́й</Et>]
 <etymonCtn>
 <EtType vl="vgl"/>
 <EtSrcL xml:lang="russ"/>
-<Et>буза́</Et> [&lt; tat.]
-</etymonCtn></etymology>
+<Et>буза́</Et> [&lt; tat.
+</etymonCtn>
+]</etymology>
 </e>
   <e>
 <root_ref xml:lang="myv" hid="1" pos="Prop" lemma="поза"/>
@@ -51703,8 +51708,9 @@ auch russ. <Et>Моке́й</Et>]
 <GeoU xml:lang="myv">Ba</GeoU>
 <sources>
 <book name="VII" pg="376"/>
-</sources>]
-</etymonCtn></etymology>
+</sources>
+</etymonCtn>
+]</etymology>
 </e>
   <e>
 <root_ref xml:lang="myv" hid="1" pos="Prop" lemma="Уля"/>

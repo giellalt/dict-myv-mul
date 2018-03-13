@@ -720,8 +720,9 @@
 <Et edit="MK"><sup>2</sup><i><tk2>
 <w CyrId="дынь">di͔ń</w></tk2></i></Et>
 </EtCtn>[; <Et>
-<w CyrId="тунь">tuń</w></Et>]
+<w CyrId="тунь">tuń</w></Et>
 </etymonCtn>
+]
 <etymonCtn>
 <EtSrcL xml:lang="tat"/>
 <Et>
@@ -8876,17 +8877,15 @@ Türk.; s. TLM, Nr.193]
 </dfQsyn1>)</mg>
 </HWB>
 <etymology>
-<etymonCtn><EtSrcL edit="MK" xml:lang="rus"/>
-<EtCtn>
-<Et edit="MK">ползко́м</Et>
-</EtCtn>[
-</etymonCtn>;
+<etymon edit="MK" xml:lang="rus">ползко́м</etymon>
+[;
 <etymonCtn>
 vgl. auch <Et>
 <w CyrId="пуляза">puĺaza</w></Et>: <Et>
 <w CyrId="пульᵈ́зямс">puĺᵈ́źams</w></Et>, <Et>
-<w CyrId="пульськадьмекс">puĺśkad́ḿeks</w></Et>]
-</etymonCtn></etymology>
+<w CyrId="пульськадьмекс">puĺśkad́ḿeks</w></Et>
+</etymonCtn>
+]</etymology>
 </e>
   <e>
 <root_name xml:lang="myv" hid="1" pos="Adv" lemma="XX"/>
@@ -9980,8 +9979,9 @@ vgl. auch <Et>
 <Et edit="MK">
 <w CyrId="голой">goloj</w></Et>
 </EtCtn>[: <Et>
-<w CyrId="колай">kolaj</w></Et>]
-</etymonCtn></etymology>
+<w CyrId="колай">kolaj</w></Et>
+</etymonCtn>
+]</etymology>
 </e>
   <e>
 <root_name xml:lang="myv" hid="1" pos="Adv" lemma="XX"/>
@@ -21873,8 +21873,9 @@ Aus russ. Instr.-F. <Et>боком &lt; бок</Et>]
 <w CyrId="вечкай">v́ečkaj</w></Et> u. <Et>
 <w CyrId="вечкезь">v́ečḱeź</w>
 <w CyrId="-">-</w>
-<w CyrId="веле">v́eĺe</w></Et> (N. pr.)]
-</etymonCtn></etymology>
+<w CyrId="веле">v́eĺe</w></Et> (N. pr.)
+</etymonCtn>
+]</etymology>
 </e>
   <e>
 <root_ref xml:lang="myv" hid="1" pos="N" lemma="дар"/>
@@ -41266,12 +41267,7 @@ Aus russ. Instr.-F. <Et>крестом</Et>]
 </MWUB>
 <etymology>
 <etymon xml:lang="rus">во весь.</etymon>
-<etymonCtn>
-<EtType vl="vgl"/>
-<EtSrcL xml:lang="mrdv"/>
-<Et>
-<w CyrId="овсе">ovśe</w></Et>
-</etymonCtn></etymology>
+<etymon xml:lang="mrdv" mrdvId="овсе" etym_type="cf">ovśe</etymon></etymology>
 </e>
   <e>
 <root_name xml:lang="myv" hid="1" pos="Adv" lemma="овсе"/>
@@ -41490,12 +41486,7 @@ Aus russ. Instr.-F. <Et>крестом</Et>]
 </HWB>
 <etymology>
 <etymon xml:lang="rus">вовсю́</etymon>
-<etymonCtn>
-<EtType vl="vgl"/>
-<EtSrcL xml:lang="mrdv"/>
-<Et>
-<w CyrId="овесь">ov́eś</w></Et>
-</etymonCtn></etymology>
+<etymon xml:lang="mrdv" mrdvId="овесь" etym_type="cf">ov́eś</etymon></etymology>
 </e>
   <e>
 <root_ref xml:lang="myv" hid="1" pos="V" lemma="озамс"/>

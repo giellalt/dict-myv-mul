@@ -5374,8 +5374,9 @@
 <etymonCtn>
 <EtType edit="MK" vl="vgl"/>[
 doch <Et>
-<w CyrId="оно(т)">ono(t)</w></Et>]
-</etymonCtn></etymology>
+<w CyrId="оно(т)">ono(t)</w></Et>
+</etymonCtn>
+]</etymology>
 </e>
   <e>
 <stem_name xml:lang="myv" hid="1" pos="Interj" lemma="XX"/>
@@ -6278,19 +6279,14 @@ ChrE
 </xg>
 </HWB>
 <etymology>
-<etymonCtn>
-<EtType edit="MK" vl="vgl"/>
-<EtSrcL edit="MK" vl="tat"/>
-<EtCtn>
-<Et edit="MK">
-<w CyrId="айда">ajda</w></Et>
-</EtCtn>[
-</etymonCtn>
+<etymon edit="MK" xml:lang="tat" tatId="айда" etym_type="cf">ajda</etymon>
+[
 <etymon xml:lang="rus">айда</etymon>
 <etymonCtn>
 mordw. <Et>
-<w CyrId="адя">ad́a</w></Et>]
-</etymonCtn></etymology>
+<w CyrId="адя">ad́a</w></Et>
+</etymonCtn>
+]</etymology>
 </e>
   <e>
 <stem_name xml:lang="myv" hid="1" pos="Interj" lemma="амин"/>
@@ -7386,14 +7382,10 @@ nach:)</t>
 <EtSrcL xml:lang="tat"/>
 <Et>
 <w CyrId="айда">ajda</w></Et> [lieber doch aus tschuw. <Et>
-<w CyrId="аᴅ́а">aᴅ́a</w></Et>]
+<w CyrId="аᴅ́а">aᴅ́a</w></Et>
 </etymonCtn>
-<etymonCtn>
-<EtType vl="vgl"/>
-<EtSrcL xml:lang="mrdv"/>
-<Et>
-<w CyrId="айдо">ajdo</w></Et>
-</etymonCtn></etymology>
+]
+<etymon xml:lang="mrdv" mrdvId="айдо" etym_type="cf">ajdo</etymon></etymology>
 </e>
   <e>
 <root_name xml:lang="myv" hid="1" pos="Interj" lemma=""/>
@@ -11804,8 +11796,9 @@ nach:)</t>
 <w CyrId="вана">vana</w></Et>
 ;
 <Et>
-<w CyrId="вона">vona</w></Et>]
+<w CyrId="вона">vona</w></Et>
 </etymonCtn>
+]
 <etymon edit="MK" xml:lang="tschuw" tschuwId="вара" etym_type="cf">vara</etymon>
 </etymology>
 </e>
@@ -16683,8 +16676,9 @@ auch <Et>
 <etymology>
 <etymonCtn>
 <EtSrcL xml:lang="rus"/>
-[<Et>? недо</Et> (Dal)]
+[<Et>? недо</Et> (Dal)
 </etymonCtn>
+]
 <etymon edit="MK" xml:lang="mrdv" mrdvId="нето" etym_type="cf">ńeto</etymon></etymology>
 </e>
   <e>
