@@ -115,7 +115,7 @@
 <xg>
 <x>
 <w mdfId="кярязсь">ḱäŕazś</w>
-<w mdfId="куньᴣ̌əтф">kuńᴣ̌́ətf</w>
+<w mdfId="кунжетф">kuńᴣ̌́ətf</w>
 <w mdfId="нолта">nə̑lta</w>
 </x>
 <GeoU xml:lang="mdf">Pš</GeoU>
@@ -146,10 +146,10 @@
 <EtType edit="MK" vl="vgl"/>
 <EtCtn>
 <Et edit="MK"><sup>1</sup><i><tk2>
-<w CyrId="нална">nalna·</w></tk2></i></Et>
+<w mdfId="нална">nalna·</w></tk2></i></Et>
 </EtCtn>[; <Et>
-<w CyrId="налтай">nalta·j</w></Et>; <Et>
-<w CyrId="нолнатай">nə̑lnata·j</w></Et>]
+<w mdfId="налтай">nalta·j</w></Et>; <Et>
+<w mdfId="нолнатай">nə̑lnata·j</w></Et>]
 </etymology>
 </e>
   <e>
@@ -165,12 +165,12 @@
 <Chc>
 <Vrt>
 <PhnU>
-<w edit="MK" mdfId="шӓть">šät́</w>
+<w edit="MK" mdfId="шять">šät́</w>
 </PhnU>
 </Vrt>
 <Vrt>
 <PhnU>
-<w mdfId="шɛть">šɛt́</w>
+<w mdfId="шять">šɛt́</w>
 </PhnU>
 </Vrt>
 </Chc>
@@ -182,13 +182,13 @@
 <Chc>
 <Vrt>
 <PhnU>
-<w mdfId="шӓть">šät́</w>
+<w mdfId="шять">šät́</w>
 </PhnU>
 </Vrt>
 <Vrt>
 <PhnU>
 <FrCm freeType="RelationToPreviousSibling" status="~"/>
-<w mdfId="шӓт">šät</w>
+<w mdfId="шят">šät</w>
 </PhnU>
 </Vrt>
 </Chc>
@@ -222,7 +222,7 @@
 </mg>
 <xg>
 <x>
-<w mdfId="шӓть">šät́</w>
+<w mdfId="шять">šät́</w>
 <w mdfId="толти">tolt́i</w>
 <w mdfId="пись">ṕiś</w>
 </x>
@@ -231,8 +231,7 @@
 </xg>
 </HWB>
 <etymology>
-<EtSrcL xml:lang="rus"/>
-<Et>чаять</Et>
+<Et xml:lang="rus">чаять</Et>
 </etymology>
 </e>
   <e>
@@ -242,47 +241,47 @@
 <E3Head><POS/></E3Head>
 <lg edit="JMR" xml:lang="myv"><l pos="Pcle"></l><st/>
 </lg>
-<lg xml:lang="mdf"><l pos="Pcle">нлна</l>
-<st>нлна</st>
+<lg xml:lang="mdf"><l pos="Pcle">нльне</l>
+<st>нЪ2льне</st>
 <l_variants>
 <PhnU>
-<w mdfId="нална">nalna·</w>
+<w mdfId="нльне">nalna·</w>
 </PhnU>
 <GeoU xml:lang="mdf">P</GeoU>
 </l_variants>
 <l_variants>
 <PhnU>
-<w mdfId="нальня">naĺńä</w>
+<w mdfId="нльне">naĺńä</w>
 </PhnU>
 <GeoU xml:lang="mdf">Ur</GeoU>
 </l_variants>
 <l_variants>
 <PhnU>
-<w mdfId="нальне">naĺńə</w>
+<w mdfId="нльне">naĺńə</w>
 </PhnU>
 <GeoU xml:lang="mdf">Prol</GeoU>
 </l_variants>
 <l_variants>
 <PhnU>
-<w mdfId="нолны">nə̑lni͔</w>
+<w mdfId="нльне">nə̑lni͔</w>
 </PhnU>
 <GeoU xml:lang="mdf">Pš</GeoU>
 </l_variants>
 <l_variants>
 <PhnU>
-<w mdfId="нольня">nə̑ĺńä</w>
+<w mdfId="нльне">nə̑ĺńä</w>
 </PhnU>
 <GeoU xml:lang="mdf">Čemb</GeoU>
 </l_variants>
 <l_variants>
 <PhnU>
-<w mdfId="нолни">nə̑lńi</w>
+<w mdfId="нльне">nə̑lńi</w>
 </PhnU>
 <GeoU xml:lang="mdf">Sel</GeoU>
 </l_variants>
 <l_variants>
 <PhnU>
-<w mdfId="нельня">ńeĺńä</w>
+<w mdfId="нльне">ńeĺńä</w>
 </PhnU>
 <GeoU xml:lang="mdf">Sp</GeoU>
 </l_variants>
@@ -298,7 +297,7 @@
 <xg>
 <x>
 <w mdfId="мон">mon</w>
-<w mdfId="нольня">nə̑ĺńä·</w>
+<w mdfId="нльне">nə̑ĺńä·</w>
 <w mdfId="лужандонь">luža·ndə̑ń</w>
 </x>
 [
@@ -312,7 +311,7 @@
 <xg>
 <x>
 <w mdfId="вачкə̑дезя">vačkə̑·d́əźä</w>
-<w mdfId="нальня">na·ĺńä</w>
+<w mdfId="нльне">na·ĺńä</w>
 </x>
 <GeoU xml:lang="mdf">Ur</GeoU>
 <xt xml:lang="deu">Er schlug ihn sogar.</xt>
@@ -796,8 +795,7 @@
 </xg>
 </MWUB>
 <etymology>
-<EtSrcL xml:lang="rus"/>
-<Et>ино</Et>
+<Et xml:lang="rus">ино</Et>
 </etymology>
 </e>
   <e>
@@ -1068,8 +1066,7 @@
 </xg>
 </MWUB>
 <etymology>
-<EtSrcL xml:lang="rus"/>
-<Et>лишь</Et>
+<Et xml:lang="rus">лишь</Et>
 </etymology>
 </e>
   <e>
@@ -1766,8 +1763,7 @@
 </xg>
 </HWB>
 <etymology>
-<EtSrcL xml:lang="rus"/>
-<Et>неу́жто</Et>
+<Et xml:lang="rus">неу́жто</Et>
 </etymology>
 </e>
   <e>
@@ -2294,8 +2290,7 @@
 </xg>
 </MWUB>
 <etymology>
-<EtSrcL xml:lang="rus"/>
-<Et>всех</Et>
+<Et xml:lang="rus">всех</Et>
 </etymology>
 </e>
   <e>
@@ -2327,8 +2322,7 @@
 </mg>
 </HWB>
 <etymology>
-<EtSrcL xml:lang="rus"/>
-<Et>тоже</Et>
+<Et xml:lang="rus">тоже</Et>
 </etymology>
 </e>
   <e>
@@ -2931,8 +2925,7 @@ Tat
 </mg>
 </HWB>
 <etymology>
-<EtSrcL xml:lang="rus"/>
-<Et>будто</Et>
+<Et xml:lang="rus">будто</Et>
 </etymology>
 </e>
   <e>
@@ -3138,8 +3131,7 @@ Tat
 </mg>
 </MWUB>
 <etymology>
-<EtSrcL xml:lang="rus"/>
-<Et>же</Et>
+<Et xml:lang="rus">же</Et>
 </etymology>
 </e>
   <e>
@@ -9404,8 +9396,8 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 </MWUB>
 <MWUB>
 <E3Head><POS freeType="morphological" pos="negGer"/></E3Head>
-<lg xml:lang="myv"><l>апак веьльтя</l>
-<st>апак веьльтя</st>
+<lg xml:lang="myv"><l>апак вельтя</l>
+<st>апак вӒ4льтя</st>
 <l_variants>
 <PhnU>
 <w myvId="апак">apak</w>
@@ -10008,8 +10000,7 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 </xg>
 </HWB>
 <etymology>
-<EtSrcL xml:lang="rus"/>
-<Et>будто</Et>
+<Et xml:lang="rus">будто</Et>
 </etymology>
 </e>
   <e>
@@ -10040,8 +10031,7 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 </mg>
 </HWB>
 <etymology>
-<EtSrcL xml:lang="rus"/>
-<Et>будто бы</Et>
+<Et xml:lang="rus">будто бы</Et>
 </etymology>
 </e>
   <e>
@@ -10295,8 +10285,7 @@ Hilfsverb im Prät. der Subj.- u. Obj.-Konjug. vor. Subj.-Konjug.:
 </xg>
 </HWB>
 <etymology>
-<EtSrcL xml:lang="rus"/>
-<Et>ведь</Et>
+<Et xml:lang="rus">ведь</Et>
 </etymology>
 </e>
   <e>
@@ -10490,8 +10479,7 @@ Volksd. gebraucht wird, <Cm>? = russ. <FrnTxt xml:lang="rus">да</FrnTxt></Cm>]
 </xg>
 </HWB>
 <etymology>
-<EtSrcL xml:lang="rus"/>
-<Et>кабы́</Et>
+<Et xml:lang="rus">кабы́</Et>
 </etymology>
 </e>
   <e>
@@ -13060,8 +13048,8 @@ ChrM
 </MWUB>
 <MWUB>
 <E3Head><POS/></E3Head>
-<lg xml:lang="myv"><l>седе меьйле</l>
-<st>седе меьйле</st>
+<lg xml:lang="myv"><l>седе мейле</l>
+<st>седе мӒ4йле</st>
 <l_variants>
 <PhnU>
 <w myvId="седе">śed́e</w>
