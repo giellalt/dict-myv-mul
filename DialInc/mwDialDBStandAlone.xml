@@ -1,0 +1,4324 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<?xml-stylesheet type="text/xsl"
+href="http://www.ling.helsinki.fi/~rueter/HP/locales.xsl"?>
+
+
+<locales
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="locales.xsd.xml">
+
+
+
+<item type="locale">
+  <region lang="de"><name>Pensa</name>
+  <abbreviation id="1">M:P</abbreviation>
+  <district lang="de"><name>Insar</name>
+  <abbreviation id="1">M:Ins</abbreviation>
+  </district></region>
+  <region lang="ru"><name>Мордовская АССР</name>
+  <district lang="ru"><name>Инсарский Район</name></district></region>
+  <locale><lang>mdf</lang><dialect>SE</dialect>
+  <abbr prefer="+">Adaš</abbr>
+  <referent>
+<placeName lang="de">Adaschewo</placeName>
+  <placeName isa="с" lang="ru">Адашево</placeName>
+  <placeName infoSrc="MK" lang="mdf">adaš</placeName>
+  <placeName infoSrc="MK" lang="mdf">adaž-viĺe</placeName>
+  <placeName infoSrc="MK" lang="mdf">adašəva</placeName>
+  </referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name>Samara</name>
+<abbreviation id="2">E:Bug</abbreviation>
+<district lang="de"><name>Bugulma</name>
+<abbreviation id="2">E:Bugulma</abbreviation></district></region>
+<region lang="ru"><name>Татарская АССР</name>
+<district lang="ru"><name>Черемшанский район</name></district></region>
+<locale><lang>myv</lang><dialect/>
+<abbr prefer="+">Af</abbr>
+<referent>
+<placeName lang="de">Afonkino</placeName>
+<placeName isa="с" lang="ru">Мордовское Афонькино</placeName>
+<placeName infoSrc="MK" lang="myv">oχoŋ́ḱina</placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name>Samara</name>
+<abbreviation id="2">E:Bug</abbreviation>
+<district lang="de"><name>Buguruslan</name>
+<abbreviation id="1">E:Buguruslan</abbreviation>
+</district></region>
+<region lang="ru"><name>Оренбургская область</name>
+<district lang="ru"><name>Северный район</name></district></region>
+<locale><lang>myv</lang><dialect/>
+<abbr prefer="+">Aks</abbr>
+<referent>
+<placeName lang="de">Aksjonowo</placeName>
+<placeName isa="с" lang="ru">Аксёнкино</placeName>
+<placeName infoSrc="MK" lang="myv"></placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name>Pensa</name>
+<abbreviation id="2">E:Penza</abbreviation>
+<district lang="de"><name>Gorodischtsche</name>
+<abbreviation id="2">E:Gor</abbreviation></district></region>
+<region lang="ru"><name>Пензенская область</name>
+<district lang="ru"><name>Никольский район</name></district></region>
+<locale><lang>myv</lang><dialect>Mixed</dialect>
+<abbr prefer="+">Al</abbr>
+<referent>
+<placeName lang="de">Alowo</placeName>
+<placeName isa="с" lang="ru">Алово</placeName>
+<placeName infoSrc="MK" lang="myv">alova</placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name>Pensa</name>
+<abbreviation id="1">M:P</abbreviation>
+<district lang="de"><name>Insar</name>
+<abbreviation id="1">M:Ins</abbreviation>
+</district></region>
+<region lang="ru"><name>Мордовская АССР</name>
+<district lang="ru"><name>Ковылкинский район</name></district></region>
+<locale><lang>mdf</lang><dialect>SE</dialect>
+<abbr prefer="+">Aleks</abbr>
+<referent>
+<placeName lang="de">Aljoksowo</placeName>
+<placeName isa="п" lang="ru">Нагорное Алёксово</placeName>
+<placeName infoSrc="MK" lang="mdf">aĺaks</placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name>Samara</name>
+<abbreviation id="2">E:Bug</abbreviation>
+<district lang="de"><name>Buguruslan</name>
+<abbreviation id="1">E:Buguruslan</abbreviation>
+</district></region>
+<region lang="ru"><name>Куйбышевский область</name>
+<district lang="ru"><name>Похвистневский район</name></district></region>
+<locale><lang>myv</lang><dialect>Mixed</dialect>
+<abbr prefer="+">Alešk</abbr>
+<referent>
+<placeName lang="de">Aljoschkino</placeName>
+<placeName isa="с" lang="ru">Алёшкино</placeName>
+<placeName infoSrc="MK" lang="myv">aĺakśej-veĺe</placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name>Pensa</name>
+<abbreviation id="1">M:P</abbreviation>
+<district lang="de"><name>Narowtschat</name>
+<abbreviation id="1">M:Nar</abbreviation>
+</district></region>
+<region lang="ru"><name>Мордовская АССР</name>
+<district lang="ru"><name>Ковылкинский район</name></district></region>
+<locale><lang>mdf</lang><dialect>Transitional</dialect>
+<abbr prefer="+">Alk</abbr>
+<referent>
+<placeName lang="de">Alkino</placeName>
+<placeName isa="с" lang="ru">Алькино</placeName>
+<placeName infoSrc="MK" lang="mdf">aĺka-v́iĺe</placeName>
+<placeName infoSrc="MK" lang="mdf">aĺt́e-v́iĺe</placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name>Simbirsk</name>
+<abbreviation id="2">E:Simb</abbreviation>
+<district lang="de"><name>Alatyr</name>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name>Чувашская АССР</name>
+<district lang="ru"><name>Алатырский район</name></district></region>
+<locale><lang>myv</lang><dialect>NW</dialect>
+<abbr prefer="+">Alt</abbr>
+<referent>
+<placeName lang="de">Altyschewo</placeName>
+<placeName isa="с" lang="ru">Алтышево</placeName>
+<placeName infoSrc="MK" lang="myv">koŕaj-gužo</placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name>Tambow</name>
+<abbreviation id="1">M:Tamb</abbreviation>
+<district lang="de"><name>Spassk</name>
+<abbreviation id="1">M:Sp</abbreviation>
+</district></region>
+<region lang="ru"><name>Мордовская АССР</name>
+<district lang="ru"><name>Зубово-Полянский район</name></district></region>
+<locale><lang>mdf</lang><dialect>W</dialect>
+<abbr prefer="+">An</abbr>
+<referent>
+<placeName lang="de">Anajewo</placeName>
+<placeName isa="с" lang="ru">Анаево</placeName>
+<placeName infoSrc="MK" lang="mdf">ana·ju</placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name>Saratow</name>
+<abbreviation id="2">E:Sarat</abbreviation>
+<district lang="de"><name>Chwalynsk</name>
+<abbreviation id="2"/></district>
+</region>
+<region lang="ru"><name>Ульяновская область</name>
+<district lang="ru"><name>Николаевский район</name></district></region>
+<locale><lang>myv</lang><dialect/>
+<abbr prefer="+">Andr</abbr>
+<referent>
+<placeName lang="de">Andrjowka</placeName>
+<placeName isa="с" lang="ru">Андреевка</placeName>
+<placeName infoSrc="MK" lang="myv"></placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name>Nishni-Nowgorod</name>
+<abbreviation id="2"/>
+<district lang="de"><name></name>
+<abbreviation id="2"/></district>
+</region>
+<region lang="ru"><name>Горьковская область</name>
+<district lang="ru"><name>Лукояновский район</name></district></region>
+<locale><lang>myv</lang><dialect>NW</dialect>
+<abbr prefer="+">Ating</abbr>
+<referent>
+<placeName lang="de">Atingejewo</placeName>
+<placeName isa="с" lang="ru">Атингеево</placeName>
+<placeName infoSrc="MK" lang="myv">at́iń-b́ijo</placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name>Pensa</name>
+<abbreviation id="1">M:P</abbreviation>
+<district lang="de"><name>Krasnoslobodsk</name>
+<abbreviation id="1">M:Kr</abbreviation>
+</district>
+</region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>mdf</lang><dialect>C</dialect>
+<abbr prefer="+">Atjur</abbr>
+<abbr prefer="-">Atj</abbr>
+<locationArea lang="de">Pensa, Krasnoslobodsk</locationArea>
+<referent>
+<placeName lang="de">Atjurjewo</placeName>
+<placeName isa="с" lang="ru">Атюрево</placeName>
+<placeName infoSrc="MK" lang="mdf">at́əŕ</placeName>
+<placeName infoSrc="MK" lang="mdf">at́əŕś</placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name>Simbirsk</name>
+<abbreviation id="2">E:Simb</abbreviation>
+<district lang="de"><name>Alatyr</name>
+<abbreviation id="2"/></district>
+</region>
+<region lang="ru"><name>Чувашская АССР</name>
+<district lang="ru"><name>Алатырский район</name></district></region>
+<locale><lang>myv</lang><dialect>NW</dialect>
+<abbr prefer="+">Atr</abbr>
+<referent>
+<placeName lang="de">Atrat</placeName>
+<placeName isa="с" lang="ru">Атрать</placeName>
+<placeName infoSrc="MK" lang="myv">atrat́</placeName>
+<placeName infoSrc="MK" lang="myv">atrać</placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name>Pensa</name>
+<abbreviation id="1">M:P</abbreviation>
+<district lang="de"><name>Insar</name>
+<abbreviation id="1">M:Ins</abbreviation>
+</district>
+</region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>mdf</lang><dialect>SE</dialect>
+<abbr prefer="+">Avg</abbr>
+<locationArea lang="de">Pensa, Insar</locationArea>
+<referent>
+<placeName lang="de">Awgur</placeName>
+<placeName isa="д" lang="ru">Мордовская Авгур</placeName>
+<placeName infoSrc="MK" lang="mdf">mokšəń avgər</placeName>
+<placeName infoSrc="MK" lang="mdf">mokšəń aagaər</placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name>Saratow</name>
+<abbreviation id="2">E:Sarat</abbreviation>
+<district lang="de"><name>Chwalynsk</name>
+<abbreviation id="2"/></district>
+</region>
+<region lang="ru"><name>Ульяновская область</name>
+<district lang="ru"><name>Николаевский район</name></district></region>
+<locale><lang>myv</lang><dialect/>
+<abbr prefer="+">Ba</abbr>
+<referent>
+<placeName lang="de">Bajewka</placeName>
+<placeName isa="с" lang="ru">Баевка</placeName>
+<placeName infoSrc="MK" lang="myv">bajᴉva</placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name>Samara</name>
+<abbreviation id="2">E:Bug</abbreviation>
+<district lang="de"><name>Bugulma</name>
+<abbreviation id="2">E:Bugulma</abbreviation></district>
+</region>
+<region lang="ru"><name>Куйбышевский область</name>
+<district lang="ru"><name>Шенталинский район</name></district></region>
+<locale><lang>myv</lang><dialect/>
+<abbr prefer="+">Bag</abbr>
+<referent>
+<placeName lang="de">Bagana</placeName>
+<placeName isa="с" lang="ru">Багана</placeName>
+<placeName infoSrc="MK" lang="myv">bagana</placeName>
+<placeName infoSrc="MK" lang="myv">bagańa</placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name>Pensa</name>
+<abbreviation id="1">M:P</abbreviation>
+<district lang="de"><name>Insar</name>
+<abbreviation id="1">M:Ins</abbreviation>
+</district>
+</region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>mdf</lang><dialect>SE</dialect>
+<abbr prefer="+">Bajm</abbr>
+<locationArea lang="de">Pensa, Insar</locationArea>
+<referent>
+<placeName lang="de">Baimak</placeName>
+<placeName isa="д" lang="ru">Мордовское Баймаково</placeName>
+<placeName infoSrc="MK" lang="mdf">mokšəń bajmak</placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name>Tambow</name>
+<abbreviation id="1">M:Tamb</abbreviation>
+<district lang="de"><name>Temnikow</name>
+<abbreviation id="1">M:Temn</abbreviation>
+</district>
+</region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>mdf</lang><dialect>C</dialect>
+<abbr prefer="+">Bar</abbr>
+<locationArea lang="de">Tambow, Temnikow</locationArea>
+<referent>
+<placeName lang="de">Baraschewo</placeName>
+<placeName isa="д" lang="ru">Барашево</placeName>
+<placeName infoSrc="MK" lang="mdf">boraž-v́eĺä</placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name>Saratow</name>
+<abbreviation id="2">E:Sarat</abbreviation>
+<district lang="de"><name>Petrowsk</name>
+<abbreviation id="2">E:Petr</abbreviation></district>
+</region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>myv</lang><dialect/>
+<abbr prefer="+">Beg</abbr>
+<locationArea lang="de">Saratow, Petrowsk</locationArea>
+<referent>
+<placeName lang="de">Begutsch</placeName>
+<placeName isa="с" lang="ru">Бегуч</placeName>
+<placeName infoSrc="MK" lang=""></placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name>Bugulma|Buguruslan</name>
+<abbreviation id="2">E:Bug</abbreviation>
+<district lang="de"><name>Buguruslan</name>
+<abbreviation id="1">E:Buguruslan</abbreviation>
+</district>
+</region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>myv</lang><dialect/>
+<abbr prefer="+">Bokla</abbr>
+<locationArea lang="de">Samara, östl. Buguruslan</locationArea>
+<referent>
+<placeName lang="de">Bokla</placeName>
+<placeName isa="с" lang="ru">Советское</placeName>
+<placeName infoSrc="MK" lang="myv">eŕʒ́ań bokla</placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name>Pensa</name>
+<abbreviation id="1">M:P</abbreviation>
+<district lang="de"><name>Insar</name>
+<abbreviation id="1">M:Ins</abbreviation>
+</district>
+</region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>mdf</lang><dialect>SE</dialect>
+<abbr prefer="+">Bold</abbr>
+<locationArea lang="de">Pensa, Insar</locationArea>
+<referent>
+<placeName lang="de">Boldowo</placeName>
+<placeName isa="с" lang="ru">Болдово</placeName>
+<placeName infoSrc="MK" lang="mdf">boldu</placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name>Pensa</name>
+<abbreviation id="1">M:P</abbreviation>
+<district lang="de"><name>Krasnoslobodsk</name>
+<abbreviation id="1">M:Kr</abbreviation>
+</district>
+</region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>mdf</lang><dialect>C</dialect>
+<abbr prefer="+">Cjatn</abbr>
+<locationArea lang="de">Pensa, Krasnoslobodsk</locationArea>
+<referent>
+<placeName lang="de">Zjatnowka</placeName>
+<placeName isa="д" lang="ru">Сейтяновка</placeName>
+<placeName infoSrc="MK" lang="mdf">ćatna-v́eĺä</placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name>Simbirsk</name>
+<abbreviation id="2">E:Simb</abbreviation>
+<district lang="de"><name>Ardatow</name>
+<abbreviation id="2"/></district>
+</region>
+<region lang="ru"><name>Мордовская АССР</name>
+<district lang="ru"><name>Чамзинский район</name></district></region>
+<locale><lang>myv</lang><dialect>C</dialect>
+<abbr prefer="+">Čamz</abbr>
+<referent>
+<placeName lang="de">Tschamsinka</placeName>
+<placeName isa="рп" lang="ru">Чамзинка</placeName>
+<placeName infoSrc="MK" lang="myv">čaunza</placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name></name>
+<abbreviation id="2"></abbreviation>
+<district lang="de"><name></name>
+<abbreviation id="2"/></district>
+</region>
+<region lang="ru"><name>Татарская АССР</name>
+<district lang="ru"><name>Черемшанский район</name></district></region>
+<locale><lang>myv</lang><dialect>C</dialect>
+<abbr prefer="+">Čer</abbr>
+<referent>
+<placeName lang="de">Festung Tscheremschan</placeName>
+<placeName isa="с" lang="ru">Черемшан</placeName>
+<placeName infoSrc="MK" lang="myv"></placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name>Simbirsk</name>
+<abbreviation id="2">E:Simb</abbreviation>
+<district lang="de"><name>Korsun</name>
+<abbreviation id="2"/></district>
+</region>
+<region lang="ru"><name>Ульяновская область</name>
+<district lang="ru"><name>Николаевский район</name></district></region>
+<locale><lang>myv</lang><dialect/>
+<abbr prefer="+">Dav</abbr>
+<referent>
+<placeName lang="de">Dawidowo</placeName>
+<placeName isa="с" lang="ru">Давыдовка</placeName>
+<placeName infoSrc="MK" lang=""></placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name>Simbirsk</name>
+<abbreviation id="2">E:Simb</abbreviation>
+<district lang="de"><name>Alatyr</name>
+<abbreviation id="2"/></district>
+</region>
+<region lang="ru"><name>Мордовская АССР</name>
+<district lang="ru"><name>Атяшевский район</name></district></region>
+<locale><lang>myv</lang><dialect>C</dialect>
+<abbr prefer="+">Djurki</abbr>
+<referent>
+<placeName lang="de">Djurki</placeName>
+<placeName isa="с" lang="ru">Дюрки</placeName>
+<placeName infoSrc="MK" lang="myv">d́uŕḱina</placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name>Tambow</name>
+<abbreviation id="2">E:Tamb</abbreviation>
+<district lang="de"><name>Spassk</name>
+<abbreviation id="2"/></district>
+</region>
+<region lang="ru"><name>Мордовская АССР</name>
+<district lang="ru"><name>Торбеевский район</name></district></region>
+<locale><lang>myv</lang><dialect>Mixed</dialect>
+<abbr prefer="+">Drak</abbr>
+<referent>
+<placeName lang="de">Drakino</placeName>
+<placeName isa="с" lang="ru">Дракино</placeName>
+<placeName infoSrc="MK" lang="myv">draka</placeName>
+<placeName infoSrc="MK" lang="myv">draḱina</placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name>Saratow</name>
+<abbreviation id="2">E:Sarat</abbreviation>
+<district lang="de"><name>Petrowsk</name>
+<abbreviation id="2">E:Petr</abbreviation></district>
+</region>
+<region lang="ru"><name>Пензенская область</name>
+<district lang="ru"><name>Камешкирский район</name></district></region>
+<locale><lang>myv</lang><dialect>Mixed</dialect>
+<abbr prefer="+">Dubr</abbr>
+<referent>
+<placeName lang="de">Dubrowka</placeName>
+<placeName isa="с" lang="ru">Дубровки</placeName>
+<placeName infoSrc="MK" lang=""></placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name>Tambow</name>
+<abbreviation id="2">E:Tamb</abbreviation>
+<district lang="de"><name>Temnikow</name>
+<abbreviation id="2">E:Temn</abbreviation></district>
+</region>
+<region lang="ru"><name>Мордовская АССР</name>
+<district lang="ru"><name>Теньгушевский район</name></district></region>
+<locale><lang>myv</lang><dialect>Mixed</dialect>
+<abbr prefer="+">Dudn</abbr>
+<referent>
+<placeName lang="de">Dudnikowo</placeName>
+<placeName isa="с" lang="ru">Дудниково</placeName>
+<placeName infoSrc="MK" lang="myv">dud́ńikova</placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name>Pensa</name>
+<abbreviation id="2">E:Penza</abbreviation>
+<district lang="de"><name>Gorodischtsche</name>
+<abbreviation id="2">E:Gor</abbreviation></district>
+</region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>myv</lang><dialect/>
+<abbr prefer="+">God</abbr>
+<locationArea lang="de">Pensa, Gorodischtsche</locationArea>
+<referent>
+<placeName lang="de">Godjaikino</placeName>
+<placeName isa="с" lang="ru">Годяйкино</placeName>
+<placeName infoSrc="MK" lang="myv">god́a-v́eĺe</placeName>
+<placeName infoSrc="MK" lang="myv">god́ajḱina</placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name>Saratow</name>
+<abbreviation id="2">E:Sarat</abbreviation>
+<district lang="de"><name>Chwalynsk</name>
+<abbreviation id="2"/></district>
+</region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>myv</lang><dialect/>
+<abbr prefer="+">Gol</abbr>
+<locationArea lang="de">Saratow, Chwalynsk</locationArea>
+<referent>
+<placeName lang="de">Golodjawka</placeName>
+<placeName lang="ru"></placeName>
+<placeName infoSrc="MK" lang=""></placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name>Samara</name>
+<abbreviation id="1">E:Samara</abbreviation>
+<district lang="de"><name>Samara</name>
+<abbreviation id="1"/>
+<abbreviation id="2">E:Samara</abbreviation></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>myv</lang><dialect/>
+<abbr prefer="+">Gr</abbr>
+<locationArea lang="de">Samara, Samara</locationArea>
+<referent>
+<placeName lang="de">Gratschowka</placeName>
+<placeName isa="с" lang="ru">Грачёвка</placeName>
+<placeName infoSrc="MK" lang=""></placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name>Pensa</name>
+<abbreviation id="1">M:P</abbreviation>
+<district lang="de"><name>Narowtschat</name>
+<abbreviation id="1">M:Nar</abbreviation>
+</district>
+</region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>mdf</lang><dialect>C</dialect>
+<abbr prefer="+">Gumny</abbr>
+<locationArea lang="de">Pensa, Narowtschat</locationArea>
+<referent>
+<placeName lang="de">Gumny</placeName>
+<placeName isa="с" lang="ru">Гумны</placeName>
+<placeName infoSrc="MK" lang="mdf">šongarńä</placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name>Simbirsk</name>
+<abbreviation id="2">E:Simb</abbreviation>
+<district lang="de"><name>Ardatow</name>
+<abbreviation id="2"/></district>
+</region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>myv</lang><dialect/>
+<abbr prefer="+">Hl</abbr>
+<locationArea lang="de">Simbirsk, Ardatow</locationArea>
+<referent>
+<placeName lang="de">Chlystowka</placeName>
+<placeName isa="с" lang="ru">Отрадное</placeName>
+<placeName infoSrc="MK" lang="myv"></placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name>Saratow</name>
+<abbreviation id="2">E:Sarat</abbreviation>
+
+<district lang="de"><name>Chwalynsk</name>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>myv</lang><dialect/>
+<abbr prefer="+">Hol</abbr>
+<locationArea lang="de">Chwalynsk, Saratow</locationArea>
+<referent>
+<placeName lang="de">Cholstowka</placeName>
+<placeName isa="с" lang="ru">Холстовка</placeName>
+<placeName infoSrc="MK" lang=""></placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name>Nishni-Nowgorod</name>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru">Гагинский</district></region>
+<locale><lang>myv</lang><dialect>NW</dialect>
+<abbr prefer="+">Idm</abbr>
+<locationArea lang="de">GaginskiX, GorkiX</locationArea>
+<referent>
+<placeName lang="de">Idmanowo</placeName>
+<placeName isa="с" lang="ru">Итманово</placeName>
+<placeName infoSrc="MK" lang="myv">v́id́ma-v́eĺe</placeName>
+</referent></locale>
+</item>
+
+<item type="district">
+<region lang="de"><name>Pensa</name>
+<abbreviation id="1">M:P</abbreviation>
+<district lang="de"><lang>mdf</lang><dialect>SE</dialect><name>Insar</name>
+<abbr prefer="+">Ins</abbr></district>
+</region>
+<region lang="ru"><name></name>
+<contains>
+<raion>Инсарский</raion>
+<raion type="part">Ковылкинский</raion>
+<raion>Рузаевский</raion>
+<raion>Старошайговский</raion>
+</contains>
+<district lang="ru"><name></name></district></region>
+<referent>
+<placeName lang="de"></placeName>
+<placeName isa="с" lang="ru"></placeName>
+<placeName infoSrc="MK" lang="mdf"></placeName>
+</referent>
+</item>
+
+<item type="locale">
+<region lang="de"><name>Bugulma|Buguruslan</name>
+<abbreviation id="2">E:Bug</abbreviation>
+<district lang="de"><name>Buguruslan</name>
+<abbreviation id="1">E:Buguruslan</abbreviation>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>myv</lang><dialect/>
+<abbr prefer="+">Is</abbr>
+<locationArea lang="de">Buguruslan, Samara</locationArea>
+<referent>
+<placeName lang="de">Issakly</placeName>
+<placeName isa="с" lang="ru">Исаклы</placeName>
+<placeName infoSrc="MK" lang="myv">isakla</placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name>Nishni-Nowgorod</name>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name>Lukojanow</name>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>myv</lang><dialect>NW</dialect>
+<abbr prefer="+">Ivanc</abbr>
+<locationArea lang="de">Lukojanow, Nishni-Nowgorod</locationArea>
+<referent>
+<placeName lang="de">Iwanzewo</placeName>
+<placeName isa="с" lang="ru">Иванцево</placeName>
+<placeName infoSrc="MK" lang="myv">ivań-b́ijo</placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name>Samara</name>
+<abbreviation id="1">E:Samara</abbreviation>
+<district lang="de"><name>Samara</name>
+<abbreviation id="2">E:Samara</abbreviation></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>myv</lang><dialect/>
+<abbr prefer="+">Jeg</abbr>
+<locationArea lang="de">Samara, Samara</locationArea>
+<referent>
+<placeName lang="de">Jegorowka</placeName>
+<placeName isa="д" lang="ru">Новоегорьевка</placeName>
+<placeName infoSrc="MK" lang="myv"></placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name>Pensa</name>
+<abbreviation id="1">M:P</abbreviation>
+<district lang="de"><name>Krasnoslobodsk</name>
+<abbreviation id="1">M:Kr</abbreviation>
+</district>
+</region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>mdf</lang><dialect>C</dialect>
+<abbr prefer="+">Jožka</abbr>
+<locationArea lang="de">Krasnoslobodsk, Pensa</locationArea>
+<referent>
+<placeName lang="de">Joshka (Jeshowka)</placeName>
+<placeName isa="с" lang="ru">Ежовка</placeName>
+<placeName infoSrc="MK" lang="mdf">joška</placeName>
+<placeName infoSrc="MK" lang="mdf">jožka</placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name>Kasan</name>
+<abbreviation id="1"/>
+</region>
+<region lang="ru"><name>Татарстан</name>
+<district lang="de"><name>Spassk</name>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>mdf</lang><dialect>Mixed</dialect>
+<abbr prefer="+">Jurtk</abbr>
+<locationArea lang="de">Spassk, Kasan</locationArea>
+<referent>
+<placeName lang="de">Mordowskije Jurtkuli</placeName>
+<placeName isa="с" lang="ru">Базарно-Мордовксий Юрткуль</placeName>
+<placeName infoSrc="MK" lang=""></placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name>Tambow</name>
+<abbreviation id="2">E:Tamb</abbreviation>
+<district lang="de"><name>Temnikow</name>
+<abbreviation id="2">E:Temn</abbreviation></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>myv</lang><dialect>Mixed</dialect>
+<abbr prefer="+">Kad</abbr>
+<locationArea lang="de">TenguschewskiX, MordovskiX</locationArea>
+<referent>
+<placeName lang="de">Kadom</placeName>
+<placeName isa="" lang="ru">Кадом</placeName>
+<placeName infoSrc="MK" lang=""></placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name>Tambow</name>
+<abbreviation id="2">E:Tamb</abbreviation>
+<district lang="de"><name>Temnikow</name>
+<abbreviation id="2">E:Temn</abbreviation></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>myv</lang><dialect>Mixed</dialect>
+<abbr prefer="+">Kal</abbr>
+<locationArea lang="de">Temnikow, Tambow</locationArea>
+<referent>
+<placeName lang="de">Kaljajewo</placeName>
+<placeName isa="д" lang="ru">Коляево</placeName>
+<placeName infoSrc="MK" lang="myv">koĺaj-v́eĺe</placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name>Pensa</name>
+<abbreviation id="1">M:P</abbreviation>
+<district lang="de"><name>Krasnoslobodsk</name>
+<abbreviation id="1">M:Kr</abbreviation>
+</district>
+</region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>mdf</lang><dialect>C</dialect>
+<abbr prefer="+">Kanguž</abbr>
+<locationArea lang="de">Krasnoslobodsk, Pensa</locationArea>
+<referent>
+<placeName lang="de">Kangush</placeName>
+<placeName isa="с" lang="ru">Каньгуши</placeName>
+<placeName infoSrc="MK" lang="mdf">kańt́f-ḱužə</placeName>
+<placeName infoSrc="MK" lang="mdf">kańf-ḱužə</placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name>Saratow</name>
+<abbreviation id="2">E:Sarat</abbreviation>
+<district lang="de"><name>Chwalynsk</name>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>myv</lang><dialect/>
+<abbr prefer="+">Karaguž</abbr>
+<locationArea lang="de">Chwalynsk, Saratow</locationArea>
+<referent>
+<placeName lang="de">Karagush</placeName>
+<placeName isa="с" lang="ru">Мордовская Карагужа</placeName>
+<placeName infoSrc="MK" lang="myv"></placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name>Pensa</name>
+<abbreviation id="2">E:Penza</abbreviation>
+<district lang="de"><name>Gorodischtsche</name>
+<abbreviation id="1">M:Gor</abbreviation>
+<abbreviation id="2">E:Gor</abbreviation></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>myv</lang><dialect>Mixed</dialect>
+<abbr prefer="+">Kard</abbr>
+<locationArea lang="de">Gorodischtsche, Pensa</locationArea>
+<referent>
+<placeName lang="de">Kardaflej</placeName>
+<placeName isa="с" lang="ru">Кардафлей</placeName>
+<placeName infoSrc="MK" lang="myv"></placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name>Pensa</name>
+<abbreviation id="1">M:P</abbreviation>
+<district lang="de"><name>Gorodischtsche</name>
+<abbreviation id="1">M:Gor</abbreviation>
+</district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>mdf</lang><dialect>Mixed</dialect>
+<abbr prefer="+">Kard</abbr>
+<locationArea lang="de">Gorodischtsche, Pensa</locationArea>
+<referent>
+<placeName lang="de">Kardaflej</placeName>
+<placeName isa="с" lang="ru">Кардафлей</placeName>
+<placeName infoSrc="MK" lang="mdf">kardaf-ĺej</placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name>Pensa</name>
+<abbreviation id="1">M:P</abbreviation>
+<district lang="de"><name>Tschembar</name>
+<abbreviation id="1">M:Čemb</abbreviation>
+</district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>mdf</lang><dialect>Trans</dialect>
+<abbr prefer="+">Kars</abbr>
+<locationArea lang="de">Tschembar, Pensa</locationArea>
+<referent>
+<placeName lang="de">Karsajewka</placeName>
+<placeName isa="с" lang="ru">Корсаевка</placeName>
+<placeName infoSrc="MK" lang="mdf">kaʀca·jka</placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name>Pensa</name>
+<abbreviation id="1">M:P</abbreviation>
+<district lang="de"><name>Tschembar</name>
+<abbreviation id="1">M:Čemb</abbreviation>
+</district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>mdf</lang><dialect>Trans</dialect>
+<abbr prefer="+">Kašt</abbr>
+<locationArea lang="de">Tschembar, Pensa</locationArea>
+<referent>
+<placeName lang="de">Kaschtanowka</placeName>
+<placeName isa="с" lang="ru">Старая Каштановка</placeName>
+<placeName infoSrc="MK" lang="mdf">śiŕə kašta·ŋka</placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name>Pensa</name>
+<abbreviation id="1">M:P</abbreviation>
+<district lang="de"><name>Gorodischtsche</name>
+<abbreviation id="1">M:Gor</abbreviation>
+</district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>mdf</lang><dialect>Mixed</dialect>
+<abbr prefer="+">Katm</abbr>
+<locationArea lang="de">Gorodischtsche, Pensa</locationArea>
+<referent>
+<placeName lang="de">Katmis</placeName>
+<placeName isa="с" lang="ru">Нижний Катмис</placeName>
+<placeName infoSrc="MK" lang="mdf">kat́ḿi·s</placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name>Tambow</name>
+<abbreviation id="2">E:Tamb</abbreviation>
+<district lang="de"><name>Spassk</name>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>myv</lang><dialect>Mixed</dialect>
+<abbr prefer="+">Kažl</abbr>
+<locationArea lang="de">Spassk, Tambow</locationArea>
+<referent>
+<placeName lang="de">Kashlodka</placeName>
+<placeName isa="с" lang="ru">Кажлодка</placeName>
+<placeName infoSrc="MK" lang="myv">kažli͔tka</placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name>Pensa</name>
+<abbreviation id="1">M:P</abbreviation>
+<district lang="de"><name>Krasnoslobodsk</name>
+<abbreviation id="1">M:Kr</abbreviation>
+</district>
+</region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>mdf</lang><dialect>C</dialect>
+<abbr prefer="+">Ker</abbr>
+<locationArea lang="de">Krasnoslobodsk, Pensa</locationArea>
+<referent>
+<placeName lang="de">Kerata</placeName>
+<placeName isa="д" lang="ru">Керетино</placeName>
+<placeName infoSrc="MK" lang="mdf">ḱerata</placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name>Saratow</name>
+<abbreviation id="2">E:Sarat</abbreviation>
+<district lang="de"><name>Petrowsk</name>
+<abbreviation id="2">E:Petr</abbreviation></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>myv</lang><dialect>Mixed</dialect>
+<abbr prefer="+">Kirdž</abbr>
+<locationArea lang="de">Petrowsk, Saratow</locationArea>
+<referent>
+<placeName lang="de">Kirdshamany</placeName>
+<placeName isa="с" lang="ru">Каржимант</placeName>
+<placeName infoSrc="MK" lang="myv">v́äŕǵez-uma</placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name>Tambow</name>
+<abbreviation id="1">M:Tamb</abbreviation>
+<district lang="de"><name>Temnikow</name>
+<abbreviation id="1">M:Temn</abbreviation>
+</district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>mdf</lang><dialect>C</dialect>
+<abbr prefer="+">Kiš</abbr>
+<locationArea lang="de">Temnikow, Tambow</locationArea>
+<referent>
+<placeName lang="de">Kischaly</placeName>
+<placeName isa="с" lang="ru">Кишалы</placeName>
+<placeName infoSrc="MK" lang="md">ḱešal</placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name>Bugulma|Buguruslan</name>
+<abbreviation id="2">E:Bug</abbreviation>
+<district lang="de"><name>Bugulma</name>
+<abbreviation id="2">E:Bugulma</abbreviation></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>myv</lang><dialect/>
+<abbr prefer="+">Kl</abbr>
+<locationArea lang="de">Bugulma, Samara</locationArea>
+<referent>
+<placeName lang="de">Kljawlina</placeName>
+<placeName isa="с" lang="ru">Клявлино</placeName>
+<placeName infoSrc="MK" lang="myv">kĺavĺina</placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name>Мордовия</name>
+<district lang="ru"><name>Дубёнский</name></district></region>
+<locale><lang>myv</lang><dialect>SE</dialect>
+<abbr prefer="+">Kob</abbr>
+<locationArea lang="de">DubjonskiX, MordovskiX</locationArea>
+<referent>
+<placeName lang="de">Kobajewo</placeName>
+<placeName isa="с" lang="ru">Кабаево</placeName>
+<placeName infoSrc="MK" lang="myv">kob-eĺe</placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name>Pensa</name>
+<abbreviation id="2">E:Penza</abbreviation>
+<district lang="de"><name>Saransk</name>
+<abbreviation id="2">E:Sar</abbreviation></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>myv</lang><dialect>W</dialect>
+<abbr prefer="+">Kočk</abbr>
+<locationArea lang="de">Saransk, Pensa</locationArea>
+<referent>
+<placeName lang="de">Kotschkurowo</placeName>
+<placeName isa="с" lang="ru">Кочкурово</placeName>
+<placeName infoSrc="MK" lang="myv">kočkur-v́eĺe</placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name>Pensa</name>
+<abbreviation id="1">M:P</abbreviation>
+<district lang="de"><name>Krasnoslobodsk</name>
+<abbreviation id="1">M:Kr</abbreviation>
+</district>
+</region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>mdf</lang><dialect>C</dialect>
+<abbr prefer="+">Korino</abbr>
+<locationArea lang="de">Krasnoslobodsk, Pensa</locationArea>
+<referent>
+<placeName lang="de">Korino</placeName>
+<placeName isa="с" lang="ru">Мордовское Корино</placeName>
+<placeName infoSrc="MK" lang="mdf">mokšəń kara-v́eĺe</placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>myv</lang><dialect>NW</dialect>
+<abbr prefer="+">Korino</abbr>
+<locationArea lang="de">Arsamas, Nishni-Nowgorod</locationArea>
+<referent>
+<placeName lang="de">Korino</placeName>
+<placeName isa="с" lang="ru">Корино</placeName>
+<placeName infoSrc="MK" lang="myv">koŕina</placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name>Samara</name>
+<abbreviation id="2"/>
+<district lang="de"><name>Buguruslan</name>
+</district></region>
+<region lang="ru"><name>Оренбургский</name>
+<district lang="ru"><name>Бугурусланский</name>
+<abbreviation id="2"/></district></region>
+<locale><lang>myv</lang><dialect/>
+<abbr prefer="+">Korov</abbr>
+<locationArea lang="de">Buguruslan, Samara</locationArea>
+<referent>
+<placeName lang="de">Korowino</placeName>
+<placeName isa="с" lang="ru">Коровино</placeName>
+<placeName infoSrc="MK" lang=""></placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>myv</lang><dialect>SE</dialect>
+<abbr prefer="+">Kos</abbr>
+<locationArea lang="de">Ardatow, Simbirsk</locationArea>
+<referent>
+<placeName lang="de">Kossogory</placeName>
+<placeName isa="с" lang="ru">Косогоры</placeName>
+<placeName infoSrc="MK" lang="myv">gosagᴉ͐r</placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name>Bugulma|Buguruslan</name>
+<abbreviation id="1"/>
+<abbreviation id="2">E:Bug</abbreviation>
+
+<district lang="de"><name>Bugulma</name>
+<abbreviation id="1"/>
+<abbreviation id="2">E:Bugulma</abbreviation></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>myv</lang><dialect/>
+<abbr prefer="+">Kozl</abbr>
+<locationArea lang="de">Bugulma, Samara</locationArea>
+<referent>
+<placeName lang="de">Koslowka</placeName>
+<placeName isa="с" lang="ru">Нижняя Козловка</placeName>
+<placeName infoSrc="MK" lang="myv">kozlofka</placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name>Pensa</name>
+<abbreviation id="1">M:P</abbreviation>
+<abbreviation id="2">E:Penza</abbreviation>
+<district lang="de"><name>Insar</name>
+<abbreviation id="1">M:Ins</abbreviation>
+<abbreviation id="2"/></district>
+</region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>mdf</lang><dialect>SE</dialect>
+<abbr prefer="+">Kul</abbr>
+<locationArea lang="de">Insar, Pensa</locationArea>
+<referent>
+<placeName lang="de">Kulikowka</placeName>
+<placeName isa="с" lang="ru">Куликовка</placeName>
+<placeName infoSrc="MK" lang="mdf">kəĺiko·fka</placeName>
+<placeName infoSrc="MK" lang="mdf">od v́eĺə</placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name>Pensa</name>
+<abbreviation id="1">M:P</abbreviation>
+<abbreviation id="2">E:Penza</abbreviation>
+<district lang="de"><name>Insar</name>
+<abbreviation id="1">M:Ins</abbreviation>
+<abbreviation id="2"/></district>
+</region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>mdf</lang><dialect>C</dialect>
+<abbr prefer="+">Kuld</abbr>
+<locationArea lang="de">Insar, Pensa</locationArea>
+<referent>
+<placeName lang="de">Kuldym</placeName>
+<placeName isa="с" lang="ru">Кулдым</placeName>
+<placeName infoSrc="MK" lang="mdf">kuldi͔·m</placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name>Samara</name>
+<abbreviation id="1"/>
+<abbreviation id="2"/>
+<district lang="de"><name>Samara</name>
+</district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>myv</lang><dialect/>
+<abbr prefer="+">Kulik</abbr>
+<locationArea lang="de">Samara, Samara</locationArea>
+<referent>
+<placeName lang="de">Kulikowka</placeName>
+<placeName isa="с" lang="ru">Куликовка</placeName>
+<placeName infoSrc="MK" lang="myv"></placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>myv</lang><dialect>Mixed</dialect>
+<abbr prefer="+">Kur</abbr>
+<locationArea lang="de">Temnikow, Tambow</locationArea>
+<referent>
+<placeName lang="de">Kurajewo</placeName>
+<placeName isa="с" lang="ru">Кураево</placeName>
+<placeName infoSrc="MK" lang="myv">kuraj-v́eĺe</placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>myv</lang><dialect/>
+<abbr prefer="+">Kut</abbr>
+<locationArea lang="de">Tschistopol, Kasan</locationArea>
+<referent>
+<placeName lang="de">Kutuschi</placeName>
+<placeName isa="с" lang="ru">Старые Кутуши</placeName>
+<placeName infoSrc="MK" lang="myv">kutuž</placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>myv</lang><dialect>Trans</dialect>
+<abbr prefer="+">Kuz</abbr>
+<locationArea lang="de">Tschistopol, Kasan</locationArea>
+<referent>
+<placeName lang="de">Kusaikino</placeName>
+<placeName isa="с" lang="ru">Кузайкино</placeName>
+<placeName infoSrc="MK" lang="myv">kuzaj-v́eĺe</placeName>
+<placeName infoSrc="MK" lang="myv">kuzajḱina</placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>myv</lang><dialect>Mixed</dialect>
+<abbr prefer="+">Leb</abbr>
+<locationArea lang="de">ChwalynskiX, SaratowskiX</locationArea>
+<referent>
+<placeName lang="de">Lebeshaika</placeName>
+<placeName isa="с" lang="ru">Малая Лебежайка</placeName>
+<placeName infoSrc="MK" lang="myv"></placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>mdf</lang><dialect>Mixed</dialect>
+<abbr prefer="+">Leb</abbr>
+<locationArea lang="de">ChwalynskiX, SaratowskiX</locationArea>
+<referent>
+<placeName lang="de">Lebeshaika</placeName>
+<placeName isa="с" lang="ru">Нижняя Лебежайка</placeName>
+<placeName infoSrc="MK" lang="mdf"></placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name>Pensa</name>
+<abbreviation id="1">M:P</abbreviation>
+<abbreviation id="2">E:Penza</abbreviation>
+<district lang="de"><name>Insar</name>
+<abbreviation id="1">M:Ins</abbreviation>
+<abbreviation id="2"/></district>
+</region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>mdf</lang><dialect>C</dialect>
+<abbr prefer="+">Lemd</abbr>
+<locationArea lang="de">Insar, Pensa</locationArea>
+<referent>
+<placeName lang="de">Lemdjai</placeName>
+<placeName isa="с" lang="ru">Лемдяй</placeName>
+<placeName infoSrc="MK" lang="mdf">ĺe·md́äj</placeName>
+<placeName infoSrc="MK" lang="mdf">ĺəmd́e·j</placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name>Pensa</name>
+<abbreviation id="1">M:P</abbreviation>
+<abbreviation id="2">E:Penza</abbreviation>
+
+<district lang="de"><name>Saransk</name>
+<abbreviation id="1"/>
+<abbreviation id="2">E:Sar</abbreviation></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>mdf</lang><dialect>C</dialect>
+<abbr prefer="+">Levši</abbr>
+<abbr prefer="-">Levža</abbr>
+<locationArea lang="de">Saranks, Pensa</locationArea>
+<referent>
+<placeName lang="de">Lewsha</placeName>
+<placeName isa="с" lang="ru">Левжа</placeName>
+<placeName infoSrc="MK" lang="mdf">ĺevži</placeName>
+<placeName infoSrc="MK" lang="mdf">ĺevžä</placeName>
+<placeName infoSrc="MK" lang="mdf">ĺevža</placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name>Bugulma|Buguruslan</name>
+<abbreviation id="1"/>
+<abbreviation id="2">E:Bug</abbreviation>
+
+<district lang="de"><name>Bugulma</name>
+<abbreviation id="1"/>
+<abbreviation id="2">E:Bugulma</abbreviation></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>myv</lang><dialect/>
+<abbr prefer="+">MKka</abbr>
+<locationArea lang="de">Bugulma, Samara</locationArea>
+<referent>
+<placeName lang="de">Malaja Karmalka</placeName>
+<placeName isa="с" lang="ru">Мордовская Кармалка</placeName>
+<placeName infoSrc="MK" lang="myv">karmalka</placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de">Simbirsk<name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name>Чувашская АССР</name>
+<district lang="de"><name>Buinsk</name>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name>Ибресинский район</name></district></region>
+<locale><lang>myv</lang><dialect/>
+<abbr prefer="+">MKly</abbr>
+<referent>
+<placeName lang="de">Malyje Karmaly</placeName>
+<placeName isa="с" lang="ru">Малые Кармалы</placeName>
+<placeName infoSrc="MK" lang="myv">ćarmuž</placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name>Pensa</name>
+<abbreviation id="1">M:P</abbreviation>
+<abbreviation id="2">E:Penza</abbreviation>
+</region>
+<region lang="ru"><name>Мордовская АССР</name>
+<district lang="de"><name>Krasnoslobodsk</name>
+<abbreviation id="1">M:Kr</abbreviation>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name>Ковылкинский район</name></district></region>
+<locale><lang>mdf</lang><dialect>C</dialect>
+<abbr prefer="+">Mam</abbr>
+<referent>
+<placeName lang="de">Mamalajewo</placeName>
+<placeName isa="с" lang="ru">Мамолаево</placeName>
+<placeName infoSrc="MK" lang="mdf">imalav</placeName>
+<placeName infoSrc="MK" lang="mdf">mamalav</placeName>
+<placeName infoSrc="MK" lang="mdf">malav</placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de">Pensa<name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name>Пензенская область</name>
+<district lang="de"><name>Tschembar</name>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name>Белинский район</name></district></region>
+<locale><lang>mdf</lang><dialect>Trans</dialect>
+<abbr prefer="+">Mann</abbr>
+<referent>
+<placeName lang="de">Mannila</placeName>
+<placeName lang="ru"></placeName>
+<placeName infoSrc="MK" lang=""></placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de">Simbirsk<name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name>Мордовская АССР</name>
+<district lang="de"><name>Ardatow</name>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name>Чамзинский район</name></district></region>
+<locale><lang>myv</lang><dialect>C</dialect>
+<abbr prefer="+">Mar</abbr>
+<referent>
+<placeName lang="de">Maressewo</placeName>
+<placeName isa="с" lang="ru">Большое Маресево</placeName>
+<placeName isa="с" lang="ru">Малое Маресево</placeName>
+<placeName infoSrc="MK" lang="myv">maŕeź-v́eĺe</placeName>
+<placeName infoSrc="MK" lang="myv">pokš v́eĺe</placeName>
+<placeName infoSrc="MK" lang="myv">viška maŕeź-v́eĺe</placeName>
+<placeName infoSrc="MK" lang="myv">viška v́eĺe</placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>myv</lang><dialect/>
+<abbr prefer="+">MdBugur</abbr>
+<locationArea lang="de">Buguruslan, Samara</locationArea>
+<referent>
+<placeName lang="de">Mordowski Buguruslan (Buguruslan, Samara)</placeName>
+<placeName isa="с" lang="ru">Мордовский Бугуруслан</placeName>
+<placeName infoSrc="MK" lang="myv">eŕʒ́ań bruslan</placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>mdf</lang><dialect>Mixed</dialect>
+<abbr prefer="+">MdJurtk</abbr>
+<locationArea lang="de">Spassk, Kasan</locationArea>
+<referent>
+<placeName lang="de">Mordowskije Jurtkuli</placeName>
+<placeName isa="с" lang="ru">Подлесно-Мордовский Юрткуль</placeName>
+<placeName infoSrc="MK" lang=""></placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>myv</lang><dialect>Mixed</dialect>
+<abbr prefer="+">Mečk</abbr>
+<locationArea lang="de">Petrowsk, Saratow</locationArea>
+<referent>
+<placeName lang="de">Matschkassy</placeName>
+<placeName isa="с" lang="ru">Мачкасы</placeName>
+<placeName infoSrc="MK" lang="myv">mačka·s</placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>myv</lang><dialect>Mixed</dialect>
+<abbr prefer="+">Melc</abbr>
+<locationArea lang="de">Temnikow, Tambow</locationArea>
+<referent>
+<placeName lang="de">Melsetjewo</placeName>
+<placeName isa="с" lang="ru">Мельсетьево</placeName>
+<placeName infoSrc="MK" lang="myv">ḿeĺćid-v́eĺe</placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang/><dialect/>
+<abbr prefer="+">Mokl</abbr>
+<locationArea lang="de"/>
+<referent>
+<placeName lang="de"/>
+<placeName isa="с" lang="ru"></placeName>
+<placeName infoSrc="MK" lang=""></placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>myv</lang><dialect>Mixed</dialect>
+<abbr prefer="+">Myv</abbr>
+<locationArea lang="de">Gorodischtsche, Pensa</locationArea>
+<referent>
+<placeName lang="de">Mywal</placeName>
+<placeName isa="с" lang="ru">Нижний Мывал</placeName>
+<placeName infoSrc="MK" lang="myv">muval</placeName>
+<placeName infoSrc="MK" lang="myv">nuval</placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>myv</lang><dialect/>
+<abbr prefer="+">NBajt</abbr>
+<locationArea lang="de">Buguruslan, Samara</locationArea>
+<referent>
+<placeName lang="de">Nowy Baitermisch</placeName>
+<placeName isa="с" lang="ru">Новый Байтермиш</placeName>
+<placeName infoSrc="MK" lang="myv">od bajt́eŕḿiš</placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>myv</lang><dialect/>
+<abbr prefer="+">NDemk</abbr>
+<locationArea lang="de">Petrowsk, Saratow</locationArea>
+<referent>
+<placeName lang="de">Nowoje Djomkino</placeName>
+<placeName isa="с" lang="ru">Новое Дёмкино</placeName>
+<placeName infoSrc="MK" lang=""></placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>myv</lang><dialect>SW</dialect>
+<abbr prefer="+">NIvanc</abbr>
+<locationArea lang="de">SchatkowskiX, Nishni-Nowgorod</locationArea>
+<referent>
+<placeName lang="de">Nowoje Iwanzewo</placeName>
+<placeName isa="с" lang="ru">Новое Иванцево</placeName>
+<placeName infoSrc="MK" lang="myv">od v́eĺe</placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name>Pensa</name>
+<abbreviation id="1">M:P</abbreviation>
+<abbreviation id="2">E:Penza</abbreviation>
+
+<district lang="de"><name>Saransk</name>
+<abbreviation id="1"/>
+<abbreviation id="2">E:Sar</abbreviation></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>myv</lang><dialect>W</dialect>
+<abbr prefer="+">NPyrma</abbr>
+<locationArea lang="de">Saransk, Pensa</locationArea>
+<referent>
+<placeName lang="de">Nowoja Pyrma</placeName>
+<placeName isa="с" lang="ru">Новая Пырма</placeName>
+<placeName infoSrc="MK" lang="myv">od puŕńa</placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name>Bugulma|Buguruslan</name>
+<abbreviation id="1"/>
+<abbreviation id="2">E:Bug</abbreviation>
+
+<district lang="de"><name>Bugulma</name>
+<abbreviation id="1"/>
+<abbreviation id="2">E:Bugulma</abbreviation></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>myv</lang><dialect/>
+<abbr prefer="+">NSurk</abbr>
+<locationArea lang="de">Bugulma, Samara</locationArea>
+<referent>
+<placeName lang="de">Nowoje Surkino</placeName>
+<placeName isa="с" lang="ru">Новое Суркино</placeName>
+<placeName infoSrc="MK" lang="myv">od surḱina</placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name>Bugulma|Buguruslan</name>
+<abbreviation id="1"/>
+<abbreviation id="2">E:Bug</abbreviation>
+
+<district lang="de"><name>Bugulma</name>
+<abbreviation id="1"/>
+<abbreviation id="2">E:Bugulma</abbreviation></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>myv</lang><dialect>Mixed</dialect>
+<abbr prefer="+">NŠant</abbr>
+<locationArea lang="de">Bugulma, Samara</locationArea>
+<referent>
+<placeName lang="de">Nowaja Schantala</placeName>
+<placeName isa="с" lang="ru">Новая Шентала</placeName>
+<placeName infoSrc="MK" lang="myv">od šantala</placeName>
+<placeName infoSrc="MK" lang="myv">od šentala</placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang/><dialect/>
+<abbr prefer="+">NŠurk</abbr>
+<locationArea lang="de"/>
+<referent>
+<placeName lang="de"/>
+<placeName isa="с" lang="ru"></placeName>
+<placeName infoSrc="MK" lang=""></placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>myv</lang><dialect/>
+<abbr prefer="+">Najman</abbr>
+<locationArea lang="de">Chwalynsk, Saratow</locationArea>
+<referent>
+<placeName lang="de">Naiman</placeName>
+<placeName isa="д" lang="ru">Найман</placeName>
+<placeName infoSrc="MK" lang="myv"></placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>mdf</lang><dialect/>
+<abbr prefer="+">Nal</abbr>
+<locationArea lang="de">Spassk, Kasan</locationArea>
+<referent>
+<placeName lang="de">Naletkino</placeName>
+<placeName isa="с" lang="ru">Налеткино</placeName>
+<placeName infoSrc="MK" lang="mdf"></placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>mdf</lang><dialect>SE|Trans</dialect>
+<abbr prefer="+">Nar</abbr>
+<locationArea lang="de">NarowtschatskiX, Pensa</locationArea>
+<referent>
+<placeName lang="de">Narowtschat</placeName>
+<placeName isa="с" lang="ru">Наровчат</placeName>
+<placeName infoSrc="MK" lang="mdf"></placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>myv</lang><dialect>Mixed</dialect>
+<abbr prefer="+">Nask</abbr>
+<locationArea lang="de">Kusnezk, Saratow</locationArea>
+<referent>
+<placeName lang="de">Naskaftym</placeName>
+<placeName isa="с" lang="ru">Наскафтым</placeName>
+<placeName infoSrc="MK" lang="myv">naskaftə̑m</placeName>
+<placeName infoSrc="MK" lang="myv">naska·ftə̑m</placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>myv</lang><dialect/>
+<abbr prefer="+">Naumk</abbr>
+<locationArea lang="de">Petrowsk, Saratow</locationArea>
+<referent>
+<placeName lang="de">Naumkino</placeName>
+<placeName isa="с" lang="ru">Наумкино</placeName>
+<placeName infoSrc="MK" lang="myv"></placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>myv</lang><dialect/>
+<abbr prefer="+">Naz</abbr>
+<locationArea lang="de">Petrowsk, Saratow</locationArea>
+<referent>
+<placeName lang="de">Nasimkino</placeName>
+<placeName isa="с" lang="ru">Старое Назимкино</placeName>
+<placeName infoSrc="MK" lang="myv"></placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>myv</lang><dialect/>
+<abbr prefer="+">Nikit</abbr>
+<locationArea lang="de">NikolajewskiX, UlyanowskiX</locationArea>
+<referent>
+<placeName lang="de">Nikitino</placeName>
+<placeName isa="с" lang="ru">Никитино</placeName>
+<placeName infoSrc="MK" lang=""></placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>myv</lang><dialect>Mixed</dialect>
+<abbr prefer="+">Nor</abbr>
+<locationArea lang="de">Temnikow, Tambow</locationArea>
+<referent>
+<placeName lang="de">Norowatowo</placeName>
+<placeName isa="с" lang="ru">Нароватово</placeName>
+<placeName infoSrc="MK" lang="myv">norad-v́eĺe</placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>myv</lang><dialect/>
+<abbr prefer="+">Nujk</abbr>
+<locationArea lang="de">Buguruslan, Samara</locationArea>
+<referent>
+<placeName lang="de">Nuikino</placeName>
+<placeName isa="с" lang="ru">Нуйкино</placeName>
+<placeName infoSrc="MK" lang="myv">Нуя веле</placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>myv</lang><dialect>Mixed</dialect>
+<abbr prefer="+">Ork</abbr>
+<locationArea lang="de">Saratow, Saratow</locationArea>
+<referent>
+<placeName lang="de">Orkino</placeName>
+<placeName isa="с" lang="ru">Оркино</placeName>
+<placeName infoSrc="MK" lang="myv"></placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>myv</lang><dialect>Mixed</dialect>
+<abbr prefer="+">Oz</abbr>
+<locationArea lang="de">Gorodischtsche, Pensa</locationArea>
+<referent>
+<placeName lang="de">Osjorkino</placeName>
+<placeName isa="с" lang="ru">Озёркино</placeName>
+<placeName infoSrc="MK" lang="myv">oźorka</placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>mdf</lang><dialect/>
+<abbr prefer="+">P</abbr>
+<locationArea lang="de">Pensa</locationArea>
+<referent>
+<placeName lang="de"/>
+<placeName isa="с" lang="ru"></placeName>
+<placeName infoSrc="MK" lang="mdf"></placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang/><dialect/>
+<abbr prefer="+">PPš</abbr>
+<locationArea lang="de"/>
+<referent>
+<placeName lang="de"/>
+<placeName isa="с" lang="ru"></placeName>
+<placeName infoSrc="MK" lang=""></placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name>Pensa</name>
+<abbreviation id="1">M:P</abbreviation>
+<abbreviation id="2">E:Penza</abbreviation>
+<district lang="de"><name>Insar</name>
+<abbreviation id="1">M:Ins</abbreviation>
+<abbreviation id="2"/></district>
+</region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>mdf</lang><dialect>SE</dialect>
+<abbr prefer="+">Pa</abbr>
+<locationArea lang="de">Insar, Pensa</locationArea>
+<referent>
+<placeName lang="de">Pajowa</placeName>
+<placeName isa="с" lang="ru">Паёва</placeName>
+<placeName infoSrc="MK" lang="mdf">poj-v́iĺe</placeName>
+<placeName infoSrc="MK" lang="mdf">poju</placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name>Pensa</name>
+<abbreviation id="1">M:P</abbreviation>
+<abbreviation id="2">E:Penza</abbreviation>
+<district lang="de"><name>Insar</name>
+<abbreviation id="1">M:Ins</abbreviation>
+<abbreviation id="2"/></district>
+</region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>mdf</lang><dialect>SE</dialect>
+<abbr prefer="+">Pal</abbr>
+<locationArea lang="de">Insar, Pensa</locationArea>
+<referent>
+<placeName lang="de">Palajewka</placeName>
+<placeName isa="с" lang="ru">Палаевка</placeName>
+<placeName infoSrc="MK" lang="mdf">ćəftamas</placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name>Pensa</name>
+<abbreviation id="1">M:P</abbreviation>
+<abbreviation id="2">E:Penza</abbreviation>
+<district lang="de"><name>Krasnoslobodsk</name>
+<abbreviation id="1">M:Kr</abbreviation>
+<abbreviation id="2"/></district>
+</region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>mdf</lang><dialect>SE</dialect>
+<abbr prefer="+">Patra</abbr>
+<locationArea lang="de">Krasnoslobodsk, Pensa</locationArea>
+<referent>
+<placeName lang="de">Patra</placeName>
+<placeName isa="д" lang="ru">Патра</placeName>
+<placeName infoSrc="MK" lang="mdf">patra-v́eĺä</placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>mdf</lang><dialect/>
+<abbr prefer="+">Patroka</abbr>
+<locationArea lang="de">Gorodischtsche, Pensa</locationArea>
+<referent>
+<placeName lang="de">Patroka</placeName>
+<placeName isa="с" lang="ru"></placeName>
+<placeName infoSrc="MK" lang="mdf">patro·ka</placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>myv</lang><dialect/>
+<abbr prefer="+">Pavl</abbr>
+<locationArea lang="de">Buguruslan, Samara</locationArea>
+<referent>
+<placeName lang="de">Pawluschkino</placeName>
+<placeName isa="с" lang="ru">Нижне-Павлушкино</placeName>
+<placeName isa="с" lang="ru">Верхнепавлушкино</placeName>
+<placeName infoSrc="MK" lang="myv">pavluška</placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>myv</lang><dialect/>
+<abbr prefer="+">Penza</abbr>
+<locationArea lang="de">Pensa</locationArea>
+<referent>
+<placeName lang="de"/>
+<placeName isa="с" lang="ru"></placeName>
+<placeName infoSrc="MK" lang="myv"></placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name>Pensa</name>
+<abbreviation id="1">M:P</abbreviation>
+<abbreviation id="2">E:Penza</abbreviation>
+<district lang="de"><name>Insar</name>
+<abbreviation id="1">M:Ins</abbreviation>
+<abbreviation id="2"/></district>
+</region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>mdf</lang><dialect>C</dialect>
+<abbr prefer="+">Perchl</abbr>
+<abbr prefer="-">Pläj</abbr>
+<locationArea lang="de">Insar, Pensa</locationArea>
+<referent>
+<placeName lang="de">Perchljai</placeName>
+<placeName isa="с" lang="ru">Перхляй</placeName>
+<placeName infoSrc="MK" lang="mdf">pəʀ́ĺej</placeName>
+<placeName infoSrc="MK" lang="mdf">piŕfĺej</placeName>
+<placeName infoSrc="MK" lang="mdf">piŕʿt́ĺäj</placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang/><dialect/>
+<abbr prefer="+">Petra</abbr>
+<locationArea lang="de"/>
+<referent>
+<placeName lang="de"/>
+<placeName isa="с" lang="ru"></placeName>
+<placeName infoSrc="MK" lang=""></placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>myv</lang><dialect>Mixed</dialect>
+<abbr prefer="+">Pičel</abbr>
+<locationArea lang="de">Gorodischtsche, Pensa</locationArea>
+<referent>
+<placeName lang="de">Pitschelej</placeName>
+<placeName lang="de">Pitschelejka</placeName>
+<placeName isa="с" lang="ru">Пичилейка</placeName>
+<placeName infoSrc="MK" lang=""></placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>mdf</lang><dialect>C</dialect>
+<abbr prefer="+">Pičep</abbr>
+<locationArea lang="de">Temnikow, Tambow</locationArea>
+<referent>
+<placeName lang="de">Pitschepolonka</placeName>
+<placeName isa="д" lang="ru">Пичеполонга</placeName>
+<placeName infoSrc="MK" lang="mdf">pičə-puləńä</placeName>
+<placeName infoSrc="MK" lang="mdf">pič-pulńä·</placeName>
+</referent></locale>
+</item>
+
+<item type="district">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>myv</lang><dialect/>
+<abbr prefer="+">Pičeury</abbr>
+<locationArea lang="de">PawlowskiX, UlyanowskiX</locationArea>
+<referent>
+<placeName lang="de"/>
+<placeName isa="с" lang="ru"></placeName>
+<placeName infoSrc="MK" lang="myv"></placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>mdf</lang><dialect>W</dialect>
+<abbr prefer="+">Pimb</abbr>
+<locationArea lang="de">Spassk, Tambow</locationArea>
+<referent>
+<placeName lang="de">Mordowskij Pimbur</placeName>
+<placeName isa="с" lang="ru">Мордовский Пимбур</placeName>
+<placeName infoSrc="MK" lang="mdf">pr̥n-bora</placeName>
+<placeName infoSrc="MK" lang="mdf">mokšəń ṕimbur</placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang/><dialect/>
+<abbr prefer="+">Pr</abbr>
+<locationArea lang="de"/>
+<referent>
+<placeName lang="de"/>
+<placeName isa="с" lang="ru"></placeName>
+<placeName infoSrc="MK" lang=""></placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>mdf</lang><dialect/>
+<abbr prefer="+">Prol</abbr>
+<locationArea lang="de">Samara, Samara</locationArea>
+<referent>
+<placeName lang="de">Prolejka</placeName>
+<placeName lang="ru"></placeName>
+<placeName infoSrc="MK" lang="mdf">proĺejka</placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>mdf</lang><dialect/>
+<abbr prefer="+">Pronk</abbr>
+<locationArea lang="de">Buguruslan, Samara</locationArea>
+<referent>
+<placeName lang="de">Pronkino</placeName>
+<placeName isa="с" lang="ru">Пронькино</placeName>
+<placeName infoSrc="MK" lang=""></placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>mdf</lang><dialect>SE</dialect>
+<abbr prefer="+">Pš</abbr>
+<locationArea lang="de"/>
+<referent>
+<placeName lang="de">Staroje Pschenewo</placeName>
+<placeName isa="с" lang="ru">Старое Пшенево</placeName>
+<placeName infoSrc="MK" lang="mdf">śiŕə pšeń</placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>myv</lang><dialect/>
+<abbr prefer="+">Rem</abbr>
+<locationArea lang="de"/>
+<referent>
+<placeName lang="de">Remesjonki</placeName>
+<placeName isa="с" lang="ru">Большие Ремезёнки</placeName>
+<placeName infoSrc="MK" lang="myv">pokš eŕḿeźoŋka</placeName>
+<placeName infoSrc="MK" lang="myv">v́iška eŕḿeźoŋka</placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>myv</lang><dialect>Mixed</dialect>
+<abbr prefer="+">SŠant</abbr>
+<locationArea lang="de">Samara, Samara</locationArea>
+<referent>
+<placeName lang="de">Stepnaja Schantala</placeName>
+<placeName isa="с" lang="ru">Степная Шентала</placeName>
+<placeName infoSrc="MK" lang="myv">stepnoj šentala</placeName>
+<placeName infoSrc="MK" lang="myv">stepnoj šantala</placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>myv</lang><dialect>Mixed</dialect>
+<abbr prefer="+">Sab</abbr>
+<locationArea lang="de">Gorodischtsche, Pensa</locationArea>
+<referent>
+<placeName lang="de">Sabanowo</placeName>
+<placeName isa="с" lang="ru">Сабаново</placeName>
+<placeName infoSrc="MK" lang="myv">saban-v́äĺe</placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>myv</lang><dialect>Mixed</dialect>
+<abbr prefer="+">Sak</abbr>
+<locationArea lang="de">Temnikow, Tambow</locationArea>
+<referent>
+<placeName lang="de">Sakajewo</placeName>
+<placeName isa="с" lang="ru">Сакаево</placeName>
+<placeName infoSrc="MK" lang="myv">sokav</placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>mdf</lang><dialect>Trans</dialect>
+<abbr prefer="+">Sal</abbr>
+<locationArea lang="de">Spassk, Tambow</locationArea>
+<referent>
+<placeName lang="de">Salasgor</placeName>
+<placeName isa="с" lang="ru">Салазгорь</placeName>
+<placeName infoSrc="MK" lang="mdf">salazǵäŕǵä</placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>myv</lang><dialect/>
+<abbr prefer="+">Sam</abbr>
+<locationArea lang="de">Wyssokaja Kolka</locationArea>
+<referent>
+<placeName lang="de">Samsinka</placeName>
+<placeName isa="с" lang="ru">Высокий Колок</placeName>
+<placeName infoSrc="MK" lang="myv"></placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>mdf</lang><dialect>C</dialect>
+<abbr prefer="+">Sam</abbr>
+<abbr prefer="-">Samz</abbr>
+<locationArea lang="de">Krasnoslobodsk, Pensa</locationArea>
+<referent>
+<placeName lang="de">Samawka</placeName>
+<placeName isa="с" lang="ru">Старая Самаевка</placeName>
+<placeName infoSrc="MK" lang="mdf">śiŕə somaj</placeName>
+<placeName infoSrc="MK" lang="mdf">pakśä somaj</placeName>
+<placeName infoSrc="MK" lang="mdf">od somaj</placeName>
+<placeName infoSrc="MK" lang="mdf">v́iŕ somaj</placeName>
+</referent></locale>
+</item>
+
+<item type="region">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>myv</lang><dialect/>
+<abbr prefer="+">Samara</abbr>
+<locationArea lang="de"/>
+<referent>
+<placeName lang="de"/>
+<placeName isa="с" lang="ru"></placeName>
+<placeName infoSrc="MK" lang=""></placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang/><dialect/>
+<abbr prefer="+">Samod</abbr>
+<locationArea lang="de"/>
+<referent>
+<placeName lang="de"/>
+<placeName isa="с" lang="ru"></placeName>
+<placeName infoSrc="MK" lang=""></placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang/><dialect/>
+<abbr prefer="+">Sand</abbr>
+<locationArea lang="de"/>
+<referent>
+<placeName lang="de"/>
+<placeName isa="с" lang="ru"></placeName>
+<placeName infoSrc="MK" lang=""></placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>mdf</lang><dialect>C</dialect>
+<abbr prefer="+">Sandr</abbr>
+<locationArea lang="de">Krasnoslobodsk, Pensa</locationArea>
+<referent>
+<placeName lang="de">Staroje Sindrowo</placeName>
+<placeName isa="с" lang="ru">Старое Синдрово</placeName>
+<placeName infoSrc="MK" lang="mdf">śiŕə śendə̑ru</placeName>
+<placeName infoSrc="MK" lang="mdf">śiŕə śendru</placeName>
+<placeName infoSrc="MK" lang="mdf">śiŕə v́eĺä</placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>myv</lang><dialect/>
+<abbr prefer="+">Sap</abbr>
+<locationArea lang="de">Buguruslan, Samara</locationArea>
+<referent>
+<placeName lang="de">Saposhkino</placeName>
+<placeName isa="с" lang="ru">Сапожкино</placeName>
+<placeName infoSrc="MK" lang="myv">sapošḱina</placeName>
+</referent></locale>
+</item>
+
+<item type="district">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>myv</lang><dialect/>
+<abbr prefer="+">Sar</abbr>
+<locationArea lang="de"/>
+<referent>
+<placeName lang="de"/>
+<placeName isa="с" lang="ru"></placeName>
+<placeName infoSrc="MK" lang="myv"></placeName>
+</referent></locale>
+</item>
+
+<item type="district">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>mdf</lang><dialect>C|SE</dialect>
+<abbr prefer="+">Sar</abbr>
+<locationArea lang="de"/>
+<referent>
+<placeName lang="de"/>
+<placeName isa="с" lang="ru"></placeName>
+<placeName infoSrc="MK" lang="mdf"></placeName>
+</referent></locale>
+</item>
+
+<item type="region|district">
+<region lang="de"><name></name>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang/><dialect/>
+<abbr prefer="+">Sar[?at]</abbr>
+<locationArea lang="de"/>
+<referent>
+<placeName lang="de"/>
+<placeName isa="с" lang="ru"></placeName>
+<placeName infoSrc="MK" lang=""></placeName>
+</referent></locale>
+</item>
+
+<item type="region">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>myv</lang><dialect/>
+<abbr prefer="+">Sarat</abbr>
+<locationArea lang="de"/>
+<referent>
+<placeName lang="de"/>
+<placeName isa="с" lang="ru"></placeName>
+<placeName infoSrc="MK" lang="myv"></placeName>
+</referent></locale>
+</item>
+
+<item type="region">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>mdf</lang><dialect/>
+<abbr prefer="+">Sarat</abbr>
+<locationArea lang="de"/>
+<referent>
+<placeName lang="de"/>
+<placeName isa="с" lang="ru"></placeName>
+<placeName infoSrc="MK" lang="mdf"></placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>mdf</lang><dialect>C</dialect>
+<abbr prefer="+">Saz</abbr>
+<locationArea lang="de">Krasnoslobodsk, Pensa</locationArea>
+<referent>
+<placeName lang="de">Sasonowka</placeName>
+<placeName isa="с" lang="ru">Старая Сазоновка</placeName>
+<placeName infoSrc="MK" lang="mdf">śiŕə sazan-v́eĺä</placeName>
+<placeName infoSrc="MK" lang="mdf">od sazan-v́eĺä</placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name>Tambow</name>
+<abbreviation id="1"/>
+<abbreviation id="2"/>
+<district lang="de"><name>Spassk</name>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name>Мордовия</name>
+<district lang="ru"><name>Зубово-Полянский район</name></district></region>
+<locale><lang>mdf</lang><dialect>W</dialect>
+<abbr prefer="+">Sel</abbr>
+<locationArea lang="de">Spassk, Tambow</locationArea>
+<referent>
+<placeName lang="de">Selischtsche</placeName>
+<placeName isa="с" lang="ru">Покровские Селищи</placeName>
+<placeName infoSrc="MK" lang="mdf">v́iĺ-eźəm</placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>myv</lang><dialect/>
+<abbr prefer="+">Seledba</abbr>
+<locationArea lang="de">Samara, Samara</locationArea>
+<referent>
+<placeName lang="de">Seledba</placeName>
+<placeName isa="с" lang="ru">Мордовская Селитьба</placeName>
+<placeName infoSrc="MK" lang="myv">eŕźań śeĺed́ba</placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>mdf</lang><dialect>SE</dialect>
+<abbr prefer="+">Seliksa</abbr>
+<locationArea lang="de">Pensa, Pensa</locationArea>
+<referent>
+<placeName lang="de">Seliksa</placeName>
+<placeName isa="с" lang="ru">Кижеватово</placeName>
+<placeName infoSrc="MK" lang="mdf"></placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>mdf</lang><dialect/>
+<abbr prefer="+">Senk</abbr>
+<locationArea lang="de">Bugulma, Samara</locationArea>
+<referent>
+<placeName lang="de">Senkino</placeName>
+<placeName isa="с" lang="ru">Сенькино</placeName>
+<placeName infoSrc="MK" lang=""></placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>myv</lang><dialect/>
+<abbr prefer="+">Serman</abbr>
+<locationArea lang="de"/>
+<referent>
+<placeName lang="de"/>
+<placeName isa="с" lang="ru"></placeName>
+<placeName infoSrc="MK" lang=""></placeName>
+</referent></locale>
+</item>
+
+<item type="district|region">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>myv</lang><dialect/>
+<abbr prefer="+">Simb</abbr>
+<locationArea lang="de"/>
+<referent>
+<placeName lang="de"/>
+<placeName isa="с" lang="ru"></placeName>
+<placeName infoSrc="MK" lang=""></placeName>
+</referent></locale>
+</item>
+
+<item type="district|region">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>mdf</lang><dialect/>
+<abbr prefer="+">Simb</abbr>
+<locationArea lang="de"/>
+<referent>
+<placeName lang="de"/>
+<placeName isa="с" lang="ru"></placeName>
+<placeName infoSrc="MK" lang=""></placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>myv</lang><dialect>Mixed</dialect>
+<abbr prefer="+">Sin</abbr>
+<locationArea lang="de">Petrowsk, Saratow</locationArea>
+<referent>
+<placeName lang="de">Sinenkije</placeName>
+<placeName isa="с" lang="ru">Синенькие</placeName>
+<placeName infoSrc="MK" lang="myv"></placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>mdf</lang><dialect>C</dialect>
+<abbr prefer="+">Sind</abbr>
+<locationArea lang="de"/>
+<referent>
+<placeName lang="de">Sindrowo</placeName>
+<placeName isa="с" lang="ru">Новое Синдрово</placeName>
+<placeName infoSrc="MK" lang="mdf">od śendə̑ru</placeName>
+<placeName infoSrc="MK" lang="mdf">od śendru</placeName>
+<placeName infoSrc="MK" lang="mdf">od v́eĺä</placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>myv</lang><dialect/>
+<abbr prefer="+">Sir</abbr>
+<locationArea lang="de">Alatyr, Simbirsk</locationArea>
+<referent>
+<placeName lang="de">Syressewo</placeName>
+<placeName isa="с" lang="ru">Сыресы</placeName>
+<placeName infoSrc="MK" lang="myv">si͔ŕeź-v́eĺe</placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>mdf</lang><dialect>Trans</dialect>
+<abbr prefer="+">Sjarda</abbr>
+<locationArea lang="de"/>
+<referent>
+<placeName lang="de">Sjarda</placeName>
+<placeName isa="д" lang="ru">Сярда</placeName>
+<placeName infoSrc="MK" lang="mdf">śarda</placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>myv</lang><dialect>Mixed</dialect>
+<abbr prefer="+">Skaftym</abbr>
+<locationArea lang="de">Kusnetzk, Saratow</locationArea>
+<referent>
+<placeName lang="de">Skaftym</placeName>
+<placeName isa="с" lang="ru"></placeName>
+<placeName infoSrc="MK" lang=""></placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>mdf</lang><dialect>C</dialect>
+<abbr prefer="+">Skolp</abbr>
+<locationArea lang="de"/>
+<referent>
+<placeName lang="de">Skolpino</placeName>
+<placeName isa="с" lang="ru">Колопино</placeName>
+<placeName infoSrc="MK" lang="mdf">kolapa</placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>myv</lang><dialect/>
+<abbr prefer="+">Sl</abbr>
+<locationArea lang="de">Chwalynsk, Saratow</locationArea>
+<referent>
+<placeName lang="de">Mordowskoje Slawkino</placeName>
+<placeName isa="с" lang="ru">Славкино</placeName>
+<placeName infoSrc="MK" lang="myv">slavḱina</placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>myv</lang><dialect/>
+<abbr prefer="+">Sob</abbr>
+<locationArea lang="de">Gorodischtsche, Pensa</locationArea>
+<referent>
+<placeName lang="de">Sobakino</placeName>
+<placeName isa="с" lang="ru"></placeName>
+<placeName infoSrc="MK" lang="myv"></placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>mdf</lang><dialect>C</dialect>
+<abbr prefer="+">Som</abbr>
+<locationArea lang="de">Krasnoslobodsk, Pensa</locationArea>
+<referent>
+<placeName lang="de">Somasljai</placeName>
+<placeName isa="с" lang="ru">Самозлейка</placeName>
+<placeName infoSrc="MK" lang="mdf">somazĺäj</placeName>
+</referent></locale>
+</item>
+
+<item type="district">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>mdf</lang><dialect>W|C|Trans</dialect>
+<abbr prefer="+">Sp</abbr>
+<locationArea lang="de"/>
+<referent>
+<placeName lang="de"/>
+<placeName isa="с" lang="ru"></placeName>
+<placeName infoSrc="MK" lang="mdf"></placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>myv</lang><dialect/>
+<abbr prefer="+">StDemk</abbr>
+<locationArea lang="de">Petrowsk, Saratow</locationArea>
+<referent>
+<placeName lang="de">Staroje Djomkino</placeName>
+<placeName isa="с" lang="ru">Старое Дёмкино</placeName>
+<placeName infoSrc="MK" lang="myv"></placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>myv</lang><dialect>NW</dialect>
+<abbr prefer="+">StIvanc</abbr>
+<locationArea lang="de"/>
+<referent>
+<placeName lang="de">Staroje Iwanzewo</placeName>
+<placeName isa="с" lang="ru">Старое Иванцево</placeName>
+<placeName infoSrc="MK" lang="myv">Ташто веле</placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>myv</lang><dialect>Mixed</dialect>
+<abbr prefer="+">StJeks</abbr>
+<locationArea lang="de"/>
+<referent>
+<placeName lang="de">Staraja Jaksarka</placeName>
+<placeName isa="с" lang="ru">Старая Яксарка</placeName>
+<placeName infoSrc="MK" lang="myv">Ташто Яксярксь</placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>myv</lang><dialect/>
+<abbr prefer="+">StKut</abbr>
+<locationArea lang="de"/>
+<referent>
+<placeName lang="de">Staryje Kutuschi</placeName>
+<placeName lang="de">Kutuschewo</placeName>
+<placeName isa="с" lang="ru">Старые Кутуши</placeName>
+<placeName infoSrc="MK" lang="myv">Кутуж</placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>myv</lang><dialect>Mixed</dialect>
+<abbr prefer="+">StLeb</abbr>
+<locationArea lang="de">Chwalynsk, Saratow</locationArea>
+<referent>
+<placeName lang="de">Staraja Lebeshaika</placeName>
+<placeName isa="с" lang="ru">Старая Лебежайка</placeName>
+<placeName infoSrc="MK" lang="myv"></placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name>Samara</name>
+<abbreviation id="1"/>
+<abbreviation id="2"/>
+<district lang="de"><name>Bugulma</name>
+</district></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>myv</lang><dialect/>
+<abbr prefer="+">StMokl</abbr>
+<locationArea lang="de">Bugulma, Samara</locationArea>
+<referent>
+<placeName lang="de">Stary Moklausch</placeName>
+<placeName isa="с" lang="ru">Старый Моклауш</placeName>
+<placeName infoSrc="MK" lang="myv">tašto moklauž</placeName>
+<placeName infoSrc="MK" lang="myv">tašto moklauš</placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>myv</lang><dialect>Mixed</dialect>
+<abbr prefer="+">StSed</abbr>
+<locationArea lang="de"/>
+<referent>
+<placeName lang="de">Staroje Sedelkino</placeName>
+<placeName isa="с" lang="ru">Сиделькино</placeName>
+<placeName infoSrc="MK" lang="myv"></placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>myv</lang><dialect/>
+<abbr prefer="+">StSosni</abbr>
+<locationArea lang="de">Buguruslan, Samara</locationArea>
+<referent>
+<placeName lang="de">Staryje Sosny</placeName>
+<placeName isa="с" lang="ru">Старые Сосны</placeName>
+<placeName infoSrc="MK" lang="myv">Ташто Сосна</placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>myv</lang><dialect>Mixed</dialect>
+<abbr prefer="+">StŠant</abbr>
+<locationArea lang="de"/>
+<referent>
+<placeName lang="de">Staraja Schantala</placeName>
+<placeName isa="с" lang="ru">Старая Шентала</placeName>
+<placeName infoSrc="MK" lang="myv">Ташто Шантала</placeName>
+<placeName infoSrc="MK" lang="myv">Ташто Шентала</placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>myv</lang><dialect>Mixed</dialect>
+<abbr prefer="+">StŠkud</abbr>
+<locationArea lang="de"/>
+<referent>
+<placeName lang="de">Staraja Schkudym</placeName>
+<placeName isa="с" lang="ru">Шкудим</placeName>
+<placeName infoSrc="MK" lang="myv">škud́im</placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>myv</lang><dialect/>
+<abbr prefer="+">StZach</abbr>
+<locationArea lang="de">Petrowsk, Saratow</locationArea>
+<referent>
+<placeName lang="de">Staroje Sacharkino</placeName>
+<placeName isa="с" lang="ru">Старое Захаркино</placeName>
+<placeName infoSrc="MK" lang="myv"></placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>myv</lang><dialect>Mixed</dialect>
+<abbr prefer="+">Standr</abbr>
+<locationArea lang="de">Temnikow, Tambow</locationArea>
+<referent>
+<placeName lang="de">Standrowo</placeName>
+<placeName isa="с" lang="ru">Стандрово</placeName>
+<placeName infoSrc="MK" lang="myv"></placeName>
+</referent></locale>
+</item>
+
+<item type="district">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>myv</lang><dialect>Mixed</dialect>
+<abbr prefer="+">Stavr</abbr>
+<locationArea lang="de"/>
+<referent>
+<placeName lang="de">Stawropol</placeName>
+<placeName isa="с" lang="ru">Ставропольский</placeName>
+<placeName infoSrc="MK" lang="myv"></placeName>
+</referent></locale>
+</item>
+
+<item type="district">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>myv</lang><dialect/>
+<abbr prefer="+">Sterl</abbr>
+<locationArea lang="de">Ufa</locationArea>
+<referent>
+<placeName lang="de">Sterlitamak</placeName>
+<placeName isa="р" lang="ru">Стерлитамакский</placeName>
+<placeName infoSrc="MK" lang="myv"></placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>mdf</lang><dialect>Mixed</dialect>
+<abbr prefer="+">Sučk</abbr>
+<locationArea lang="de">Kusnezk, Saratow</locationArea>
+<referent>
+<placeName lang="de">Sutschkino</placeName>
+<placeName isa="с" lang="ru">Колдаис</placeName>
+<placeName infoSrc="MK" lang="mdf">koldajə̑s</placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>myv</lang><dialect/>
+<abbr prefer="+">SuhKarb</abbr>
+<locationArea lang="de">Saratow, Saratow</locationArea>
+<referent>
+<placeName lang="de">Suchoi Karbulak</placeName>
+<placeName isa="с" lang="ru">Сухой Карбулак</placeName>
+<placeName infoSrc="MK" lang="myv"></placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>myv</lang><dialect/>
+<abbr prefer="+">Sulli</abbr>
+<locationArea lang="de">Belebej, Ufa</locationArea>
+<referent>
+<placeName lang="de">Sulli</placeName>
+<placeName isa="с" lang="ru">Старые Сулли</placeName>
+<placeName infoSrc="MK" lang="myv"></placeName>
+</referent>
+<referent>
+<placeName lang="de">Sulli</placeName>
+<placeName isa="с" lang="ru">Новые Сулли</placeName>
+<placeName infoSrc="MK" lang="myv"></placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>myv</lang><dialect/>
+<abbr prefer="+">Surk</abbr>
+<locationArea lang="de">Bugulma, Samara</locationArea>
+<referent>
+<placeName lang="de">Surkino</placeName>
+<placeName isa="с" lang="ru">Старое Суркино</placeName>
+<placeName infoSrc="MK" lang="myv"></placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>mdf</lang><dialect>SE</dialect>
+<abbr prefer="+">Šad</abbr>
+<locationArea lang="de">Narowtschat, Pensa</locationArea>
+<referent>
+<placeName lang="de">Schadym</placeName>
+<placeName isa="с" lang="ru">Шадым</placeName>
+<placeName infoSrc="MK" lang="mdf"></placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>mdf</lang><dialect>C</dialect>
+<abbr prefer="+">Šajg</abbr>
+<locationArea lang="de">Insar, Pensa</locationArea>
+<referent>
+<placeName lang="de">Schaigowo</placeName>
+<placeName isa="с" lang="ru">Старое Шайгово</placeName>
+<placeName infoSrc="MK" lang="mdf">śiŕə šäjgav</placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>myv</lang><dialect>Mixed</dialect>
+<abbr prefer="+">Ščuk</abbr>
+<locationArea lang="de">Gorodischtsche, Pensa</locationArea>
+<referent>
+<placeName lang="de">Schtschukino</placeName>
+<placeName isa="с" lang="ru">Щукино</placeName>
+<placeName infoSrc="MK" lang="myv"></placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>myv</lang><dialect/>
+<abbr prefer="+">Šest</abbr>
+<locationArea lang="de">Buguruslan, Samara</locationArea>
+<referent>
+<placeName lang="de">Schestaikino</placeName>
+<placeName isa="с" lang="ru">Шестайкино</placeName>
+<placeName infoSrc="MK" lang="myv">šestaj-v́eĺe</placeName>
+<placeName infoSrc="MK" lang="myv">šestajḱina</placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>myv</lang><dialect>Mixed</dialect>
+<abbr prefer="+">Šir</abbr>
+<locationArea lang="de">Temnikow, Tambow</locationArea>
+<referent>
+<placeName lang="de">Schiromassowo</placeName>
+<placeName isa="с" lang="ru">Широмасово</placeName>
+<placeName infoSrc="MK" lang="myv">širomaz</placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>myv</lang><dialect>Mixed</dialect>
+<abbr prefer="+">Škud</abbr>
+<locationArea lang="de">Gorodischtsche, Pensa</locationArea>
+<referent>
+<placeName lang="de">Schkudim</placeName>
+<placeName isa="с" lang="ru">Шкудим</placeName>
+<placeName infoSrc="MK" lang=""></placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>myv</lang><dialect>Mixed</dialect>
+<abbr prefer="+">Šokša</abbr>
+<locationArea lang="de">Temnikow, Tambow</locationArea>
+<referent>
+<placeName lang="de">Schokscha</placeName>
+<placeName isa="с" lang="ru">Шокша</placeName>
+<placeName infoSrc="MK" lang="myv">šokš</placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang/><dialect/>
+<abbr prefer="+">Šuck</abbr>
+<locationArea lang="de"/>
+<referent>
+<placeName lang="de"/>
+<placeName isa="с" lang="ru"></placeName>
+<placeName infoSrc="MK" lang=""></placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>myv</lang><dialect/>
+<abbr prefer="+">Šug</abbr>
+<locationArea lang="de"/>
+<referent>
+<placeName lang="de"/>
+<placeName isa="с" lang="ru"></placeName>
+<placeName infoSrc="MK" lang=""></placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>myv</lang><dialect/>
+<abbr prefer="+">Ta</abbr>
+<locationArea lang="de">Tetjuschi, Kasan</locationArea>
+<referent>
+<placeName lang="de">Tajaba</placeName>
+<placeName isa="с" lang="ru">Большая Таяба</placeName>
+<placeName isa="с" lang="ru">Малая Таяба</placeName>
+<placeName infoSrc="MK" lang=""></placeName>
+</referent></locale>
+</item>
+
+<item type="region">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>myv</lang><dialect>Mixed</dialect>
+<abbr prefer="+">Tamb</abbr>
+<locationArea lang="de"/>
+<referent>
+<placeName lang="de">Gouv. Tambow</placeName>
+<placeName isa="р" lang="ru">Теньгушевский</placeName>
+<placeName isa="р" lang="ru">Торбеевский</placeName>
+<placeName infoSrc="MK" lang=""></placeName>
+</referent></locale>
+</item>
+
+<item type="region">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>mdf</lang><dialect>W|C|Trans</dialect>
+<abbr prefer="+">Tamb</abbr>
+<locationArea lang="de"/>
+<referent>
+<placeName lang="de">Gouv. Tambow</placeName>
+<placeName isa="р" lang="ru">Беднодемьяновский</placeName>
+<placeName infoSrc="MK" lang=""></placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>myv</lang><dialect/>
+<abbr prefer="+">Tel</abbr>
+<locationArea lang="de"/>
+<referent>
+<placeName lang="de"/>
+<placeName isa="с" lang="ru"></placeName>
+<placeName infoSrc="MK" lang=""></placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>myv</lang><dialect>mfd|C</dialect>
+<abbr prefer="+">Temjaš</abbr>
+<locationArea lang="de"/>
+<referent>
+<placeName lang="de"/>
+<placeName isa="с" lang="ru"></placeName>
+<placeName infoSrc="MK" lang=""></placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>myv</lang><dialect>Mixed</dialect>
+<abbr prefer="+">Temn</abbr>
+<locationArea lang="de"/>
+<referent>
+<placeName lang="de"/>
+<placeName isa="с" lang="ru"></placeName>
+<placeName infoSrc="MK" lang=""></placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>mdf</lang><dialect>C</dialect>
+<abbr prefer="+">Temn</abbr>
+<locationArea lang="de"/>
+<referent>
+<placeName lang="de"/>
+<placeName isa="с" lang="ru"></placeName>
+<placeName infoSrc="MK" lang=""></placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>mdf</lang><dialect>C</dialect>
+<abbr prefer="+">Ter</abbr>
+<locationArea lang="de"/>
+<referent>
+<placeName lang="de"/>
+<placeName isa="с" lang="ru"></placeName>
+<placeName infoSrc="MK" lang=""></placeName>
+</referent></locale>
+</item>
+
+<item type="district">
+<region lang="de"><name>Kasan</name>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name>Татарская АССР</name>
+<district lang="de"><name>Tetjuschi</name>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name>Тетюшский район</name></district></region>
+<locale><lang>mdf</lang><dialect>Mixed</dialect>
+<abbr prefer="+">Tet</abbr>
+<referent>
+<placeName lang="de"/>
+<placeName isa="с" lang="ru"></placeName>
+<placeName infoSrc="MK" lang=""></placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name>Samara</name>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name>Оренбургская область</name>
+<district lang="de"><name>östl. Buguruslan</name>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name>Бугурусланский район</name></district></region>
+<locale><lang>myv</lang><dialect/>
+<abbr prefer="+">Turch</abbr>
+<locationArea lang="de"/>
+<referent>
+<placeName lang="de">Turchanka</placeName>
+<placeName isa="с" lang="ru">Турхановка</placeName>
+<placeName isa="с" lang="ru">Григорьевка</placeName>
+<placeName infoSrc="MK" lang="myv"></placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang/><dialect/>
+<abbr prefer="+">Uč</abbr>
+<locationArea lang="de"/>
+<referent>
+<placeName lang="de"/>
+<placeName isa="с" lang="ru"></placeName>
+<placeName infoSrc="MK" lang=""></placeName>
+</referent></locale>
+</item>
+
+<item type="region">
+<region lang="de"><name>Gouv. Ufa</name>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name>Башкирская АССР</name>
+<name>Оренбургская область</name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>myv</lang><dialect/>
+<abbr prefer="+">Ufa</abbr>
+<locationArea lang="de"/>
+<referent>
+<placeName lang="de">Gouv. Ufa</placeName>
+<placeName isa="с" lang="ru"></placeName>
+<placeName infoSrc="MK" lang=""></placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name>Kasan</name>
+<abbreviation id="1"/>
+<abbreviation id="2"/>
+<district lang="de"><name>Tetjuschi</name>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district>
+</region>
+<region lang="ru"><name>Татарская АССР</name>
+<district lang="ru"><name>Тетюшский район</name></district></region>
+<locale><lang>mdf</lang><dialect>Mixed</dialect>
+<abbr prefer="+">Ur</abbr>
+<locationArea lang="de"/>
+<referent>
+<placeName lang="de">Urjum</placeName>
+<placeName isa="с" lang="ru">Урюм</placeName>
+<placeName infoSrc="MK" lang="mdf"></placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name>Saratow</name>
+<abbreviation id="1"/>
+<abbreviation id="2"/>
+<district lang="de"><name>Saratow</name>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name>Пензенская область</name>
+<district lang="ru"><name>Усть-Узинский район</name>
+<name>Шемышейский район</name></district></region>
+<locale><lang>myv</lang><dialect>Mixed</dialect>
+<abbr prefer="+">Usa</abbr>
+<locationArea lang="de"/>
+<referent>
+<placeName lang="de">Usa</placeName>
+<placeName isa="с" lang="ru">Усть-Уза</placeName>
+<placeName infoSrc="MK" lang=""></placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name>Nishni-Nowgorod</name>
+<abbreviation id="1"/>
+<abbreviation id="2"/>
+<district lang="de"><name>Arsamas</name>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name>Горьковская область</name>
+<district lang="ru"><name>Шатковский район</name></district></region>
+<locale><lang>myv</lang><dialect>NW</dialect>
+<abbr prefer="+">VVr</abbr>
+<locationArea lang="de"/>
+<referent>
+<placeName lang="de">Weliki Wrag</placeName>
+<placeName isa="с" lang="ru">Великий Враг</placeName>
+<placeName infoSrc="MK" lang="myv">ińeĺej</placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name>Пензенская область</name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>myv</lang><dialect>Mixed</dialect>
+<abbr prefer="+">Vač</abbr>
+<locationArea lang="de"/>
+<referent>
+<placeName lang="de"/>
+<placeName isa="с" lang="ru"></placeName>
+<placeName infoSrc="MK" lang=""></placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name>Куйбышевский область</name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>myv</lang><dialect/>
+<abbr prefer="+">Večk</abbr>
+<locationArea lang="de"/>
+<referent>
+<placeName lang="de"/>
+<placeName isa="с" lang="ru"></placeName>
+<placeName infoSrc="MK" lang=""></placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name>Горьковская область</name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>myv</lang><dialect>NW</dialect>
+<abbr prefer="+">Večkus</abbr>
+<locationArea lang="de"/>
+<referent>
+<placeName lang="de"/>
+<placeName isa="с" lang="ru"></placeName>
+<placeName infoSrc="MK" lang=""></placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name>Мордовская АССР</name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>mdf</lang><dialect>W</dialect>
+<abbr prefer="+">Vel</abbr>
+<locationArea lang="de"/>
+<referent>
+<placeName lang="de"/>
+<placeName isa="с" lang="ru"></placeName>
+<placeName infoSrc="MK" lang=""></placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name>Мордовская АССР</name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>mdf</lang><dialect>C</dialect>
+<abbr prefer="+">Vert</abbr>
+<locationArea lang="de"/>
+<referent>
+<placeName lang="de"/>
+<placeName isa="с" lang="ru"></placeName>
+<placeName infoSrc="MK" lang=""></placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name>Куйбышевский область</name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<region lang="ru"><name>Татарская АССР</name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name>Лениногорский район</name></district></region>
+<locale><lang>myv</lang><dialect/>
+<abbr prefer="+">Vez</abbr>
+<locationArea lang="de"/>
+<referent>
+<placeName lang="de"/>
+<placeName isa="с" lang="ru"></placeName>
+<placeName infoSrc="MK" lang=""></placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>mdf</lang><dialect>Mixed</dialect>
+<abbr prefer="+">Vod</abbr>
+<locationArea lang="de"/>
+<referent>
+<placeName lang="de"/>
+<placeName isa="с" lang="ru"></placeName>
+<placeName infoSrc="MK" lang=""></placeName>
+</referent></locale>
+</item>
+
+<item type="locale">
+<region lang="de"><name>Pensa</name>
+<abbreviation id="1">E:VrKatm</abbreviation>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name>
+<district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><name></name></district></region>
+<locale><lang>myv</lang><dialect>Mixed</dialect>
+<abbr prefer="+">VrKatm</abbr>
+<locationArea lang="de"/>
+<referent>
+<placeName lang="de"/>
+<placeName isa="с" lang="ru"></placeName>
+<placeName infoSrc="MK" lang=""></placeName>
+</referent></locale>
+</item>
+
+<item type="district">
+<region lang="de"><name>Kasan</name>
+<abbreviation id="1"/>
+<abbreviation id="2">E:Kas</abbreviation>
+<district lang="de"><name>Spassk</name>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru">Татарстан</region>
+<region lang="ru"><name></name>
+<district lang="ru"><dial/></district></region></item>
+
+<item type="district">
+<region lang="de"><name>Kasan</name>
+<abbreviation id="1"/>
+<abbreviation id="2">E:Kas</abbreviation>
+<district lang="de"><name>Tscheremschan</name>
+<abbreviation id="1"/>
+<abbreviation id="2">E:Čer</abbreviation></district></region>
+<region lang="ru">Татарстан</region>
+<region lang="ru"><name></name>
+<district lang="ru"><dial/></district></region></item>
+
+<item type="district">
+<region lang="de"><name>Nishni-Nowgorod</name>
+<abbreviation id="1"/>
+<abbreviation id="2"/><district lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru">Гагинский<dial/></district></region></item>
+
+<item type="district">
+<region lang="de"><name>Nishni-Nowgorod</name>
+<abbreviation id="1"/>
+<abbreviation id="2"/>
+<district lang="de"><name>Lukojanow</name>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><dial/></district></region></item>
+
+<item type="district">
+<region lang="de"><name>Pensa</name>
+<abbreviation id="1">M:P</abbreviation>
+<abbreviation id="2">E:Penza</abbreviation>
+<district lang="de"><name>Gorodischtsche</name>
+<abbreviation id="1">M:Gor</abbreviation>
+<abbreviation id="2">E:Gor</abbreviation></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><dial>Mixed</dial></district></region></item>
+
+<item type="district">
+<region lang="de"><name>Pensa</name>
+<abbreviation id="1">M:P</abbreviation>
+<abbreviation id="2">E:Penza</abbreviation>
+<district lang="de"><name>Insar</name>
+<abbreviation id="1">M:Ins</abbreviation>
+<abbreviation id="2"/></district>
+</region>
+<region lang="ru"><name></name></region>
+<district lang="ru"><dial>SE</dial></district></item>
+
+<item type="district">
+<region lang="de"><name>Pensa</name>
+<abbreviation id="1">M:P</abbreviation>
+<abbreviation id="2">E:Penza</abbreviation>
+<district lang="de"><name>Krasnoslobodsk</name>
+<abbreviation id="1">M:Kr</abbreviation>
+<abbreviation id="2"/></district>
+</region>
+<region lang="ru"><name></name></region>
+<district lang="ru"><dial>C</dial></district></item>
+
+<item type="district">
+<region lang="de"><name>Pensa</name>
+<abbreviation id="1">M:P</abbreviation>
+<abbreviation id="2">E:Penza</abbreviation>
+<district lang="de"><name>Narowtschat</name>
+<abbreviation id="1">M:Nar</abbreviation>
+<abbreviation id="2"/></district>
+</region>
+<region lang="ru"><name></name></region>
+<district lang="ru"><dial/></district></item>
+
+<item type="district">
+<region lang="de"><name>Pensa</name>
+<abbreviation id="1">M:P</abbreviation>
+<abbreviation id="2">E:Penza</abbreviation>
+<district lang="de"><name>Saransk</name>
+<abbreviation id="1"/>
+<abbreviation id="2">E:Sar</abbreviation></district>
+</region>
+<region lang="ru"><name></name></region>
+<district lang="ru"><dial/></district></item>
+
+<item type="district">
+<region lang="de"><name>Pensa</name>
+<abbreviation id="1">M:P</abbreviation>
+<abbreviation id="2">E:Penza</abbreviation>
+<district lang="de"><name>Tschembar</name>
+<abbreviation id="1">M:Čemb</abbreviation>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><dial/></district></region></item>
+
+<item type="district">
+<region lang="de"><name>Bugulma|Buguruslan</name>
+<abbreviation id="1"/>
+<abbreviation id="2">E:Bug</abbreviation>
+<district lang="de"><name>Bugulma</name>
+<abbreviation id="1"/>
+<abbreviation id="2">E:Bugulma</abbreviation></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><dial/></district></region></item>
+
+<item type="district">
+<region lang="de"><name>Bugulma|Buguruslan</name>
+<abbreviation id="1"/>
+<abbreviation id="2">E:Bug</abbreviation>
+<district lang="de"><name>Buguruslan</name>
+<abbreviation id="1">E:Buguruslan</abbreviation>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><dial/></district></region></item>
+
+<item type="district">
+<region lang="de"><name>Samara</name>
+<abbreviation id="1">E:Samara</abbreviation>
+<abbreviation id="2"/>
+<district lang="de"><name>Buzuluk</name>
+<abbreviation id="1"/>
+<abbreviation id="2">E:Buz</abbreviation></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><dial/></district></region></item>
+
+<item type="district">
+<region lang="de"><name>Samara</name>
+<abbreviation id="1">E:Samara</abbreviation>
+<abbreviation id="2"/>
+<district lang="de"><name>Samara</name>
+<abbreviation id="1"/>
+<abbreviation id="2">E:Samara</abbreviation></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><dial/></district></region></item>
+
+<item type="district">
+<region lang="de"><name>Saratow</name>
+<abbreviation id="1">M:Sarat</abbreviation>
+<abbreviation id="2">E:Sarat</abbreviation>
+<district lang="de"><name>Chwalynsk</name>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><dial/></district></region></item>
+
+<item type="district">
+<region lang="de"><name>Saratow</name>
+<abbreviation id="1">M:Sarat</abbreviation>
+<abbreviation id="2">E:Sarat</abbreviation>
+<district lang="de"><name>Petrowsk</name>
+<abbreviation id="1"/>
+<abbreviation id="2">E:Petr</abbreviation></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><dial>Mixed</dial></district></region></item>
+
+<item type="district">
+<region lang="de"><name>Simbirsk</name>
+<abbreviation id="1">M:Simb</abbreviation>
+<abbreviation id="2">E:Simb</abbreviation>
+<district lang="de"><name>Alatyr</name>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><dial/></district></region></item>
+
+<item type="district">
+<region lang="de"><name>Simbirsk</name>
+<abbreviation id="1">M:Simb</abbreviation>
+<abbreviation id="2">E:Simb</abbreviation>
+<district lang="de"><name>Ardatow</name>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><dial/></district></region></item>
+
+<item type="district">
+<region lang="de"><name>Simbirsk</name>
+<abbreviation id="1">M:Simb</abbreviation>
+<abbreviation id="2">E:Simb</abbreviation>
+<district lang="de"><name>Bui</name>
+<abbreviation id="1"/>
+<abbreviation id="2">E:Buinsk</abbreviation></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><dial/></district></region></item>
+
+<item type="district">
+<region lang="de"><name>Simbirsk</name>
+<abbreviation id="1">M:Simb</abbreviation>
+<abbreviation id="2">E:Simb</abbreviation>
+<district lang="de"><name>Korsun</name>
+<abbreviation id="1"/>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><dial/></district></region></item>
+
+<item type="district">
+<region lang="de"><name>Tambow</name>
+<abbreviation id="1">M:Tamb</abbreviation>
+<abbreviation id="2">E:Tamb</abbreviation>
+<district lang="de"><name>Spassk</name>
+<abbreviation id="1">M:Sp</abbreviation>
+<abbreviation id="2"/></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><dial/></district></region></item>
+
+<item type="district">
+<region lang="de"><name>Tambow</name>
+<abbreviation id="1">M:Tamb</abbreviation>
+<abbreviation id="2">E:Tamb</abbreviation>
+<district lang="de"><name>Temnikow</name>
+<abbreviation id="1">M:Temn</abbreviation>
+<abbreviation id="2">E:Temn</abbreviation></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><dial/></district></region></item>
+
+<item type="district">
+<region lang="de"><name>Ufa</name>
+<abbreviation id="1"/>
+<abbreviation id="2">E:Ufa</abbreviation>
+<district lang="de"><name>Belebej</name>
+<abbreviation id="1"/>
+<abbreviation id="2">E:Bel</abbreviation></district></region>
+<region lang="ru"><name></name>
+<district lang="ru"><dial/></district></region></item>
+
+<item type="region">
+<region lang="de"><name>Kasan</name>
+<abbreviation id="1"/>
+<abbreviation id="2">E:Kas</abbreviation>
+</region>
+<region lang="ru">Татарстан</region></item>
+
+<item type="region">
+<region lang="de"><name>Nishni-Nowgorod</name>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name></region></item>
+
+<item type="region">
+<region lang="de"><name>Pensa</name>
+<abbreviation id="1">M:P</abbreviation>
+<abbreviation id="2">E:Penza</abbreviation>
+</region></item>
+
+<item type="region">
+<region lang="de"><name>Samara</name>
+<abbreviation id="1">E:Samara</abbreviation>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name></region></item>
+
+<item type="region">
+<region lang="de"><name>Saratow</name>
+<abbreviation id="1">M:Sarat</abbreviation>
+<abbreviation id="2">E:Sarat</abbreviation>
+</region></item>
+
+<item type="region">
+<region lang="de"><name>Simbirsk</name>
+<abbreviation id="1">M:Simb</abbreviation>
+<abbreviation id="2">E:Simb</abbreviation>
+</region></item>
+
+<item type="region">
+<region lang="de"><name>Tambow</name>
+<abbreviation id="1">M:Tamb</abbreviation>
+<abbreviation id="2">E:Tamb</abbreviation>
+</region></item>
+
+<item type="region">
+<region lang="de"><name>Ufa</name>
+<abbreviation id="1"/>
+<abbreviation id="2">E:Ufa</abbreviation>
+</region></item>
+
+<item type="region">
+<region lang="de"><name/>
+<abbreviation id="1"/>
+<abbreviation id="2"/></region>
+<region lang="ru"><name></name></region></item>
+
+</locales>
